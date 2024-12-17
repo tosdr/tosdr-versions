@@ -205,26 +205,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Old Games On New TVs: The Original PlayStation + PSIO!](https://www.somethingawful.com/video-game-article/playstation-psio-tomba/)
-* [Beast Forum](https://www.somethingawful.com/weekend-web/beastforum/1/)
-* [Muppet Movie Mayhem!](https://www.somethingawful.com/photoshop-phriday/muppets-movie-mayhem/1/)
-* [April 13, 2010](https://www.somethingawful.com/forum-fridays/ff04-13-10/1/)
-* [SomethingAwful's Voting Guide: The Democrats](https://www.somethingawful.com/news/presidential-guide-democrat/1/)
+* [WW2: Normandy](https://www.somethingawful.com/game-reviews/ww2-normandy/1/)
+* [Celebrity Speakers Cut from the 2016 Republican National Convention](https://www.somethingawful.com/news/rnc-celebrity-guests/)
+* [Ehrgeiz (PSX)](https://www.somethingawful.com/game-reviews/ehrgeiz-psx/1/)
+* [Vampirewebsite.net (Thanks, Bernie Madoff-Pigolotti!)](https://www.somethingawful.com/awful-links/real-vampirewebsite/)
+* [Frontal Assault](https://www.somethingawful.com/game-reviews/frontal-assault/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/images/shitpost.gif) [itt we have road rage (NO SLURS)](http://forums.somethingawful.com/showthread.php?threadid=4077612 "itt we have road rage (NO SLURS)")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [Permabanhands](http://forums.somethingawful.com/showthread.php?threadid=4077683 "Permabanhands")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/guns.png) [Four dead in Madison, Wi school shooting. Because America](http://forums.somethingawful.com/showthread.php?threadid=4077623 "Four dead in Madison, Wi school shooting. Because America")
-* ![](https://fi.somethingawful.com/forums/posticons/fyad-zounds.gif) [How does Santa keep getting away with this?](http://forums.somethingawful.com/showthread.php?threadid=4077610 "How does Santa keep getting away with this?")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/video.png) [Music videos that go hard for no fucking reason](http://forums.somethingawful.com/showthread.php?threadid=4077609 "Music videos that go hard for no fucking reason")
 
 ### Random Articles
 
-* [Daily Gaming Guyz 2](https://www.somethingawful.com/daily-dirt/daily-gamingguyz-2/)
-* [The Case Files of Supreme Detective Vladimir Putin](https://www.somethingawful.com/news/detective-putin-nemtsov/)
-* [Wargammer Miniatures](https://www.somethingawful.com/news/warhammer-miniature/)
-* [Russia has an amazing Death Ray Gun...](https://www.somethingawful.com/awful-links/awful-link-2951/)
-* [The Worst Reddit Writing Prompts Of All Time](https://www.somethingawful.com/news/reddit-writing-prompts/)
+* [What if Disney Princesses Were Punisher Skull Decals?](https://www.somethingawful.com/news/princess-punisher-skull/)
+* [Official Slash Fansite](https://www.somethingawful.com/awful-links/awful-link-2495/)
+* [Your Guide to Tomorrow's Olympics Coverage](https://www.somethingawful.com/guides/olympics-schedule-2012/)
+* [Tex Bernhardt's Vampire Hunter Webpage](https://www.somethingawful.com/awful-links/awful-link-684/)
+* [Toys That Kill!](https://www.somethingawful.com/awful-things-sale/toys-kill-drewtoothpaste/)
 
 [Random!](https://www.somethingawful.com/random/)
 
