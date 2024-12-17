@@ -17,7 +17,7 @@ Utility Navigation
 * [Contact](https://www.nacha.org/form/contact)
 * [Search](https://www.nacha.org/search)
 
-[![Smarter Faster Payments 2025](/sites/default/files/2024-12/SFP25-homepage.png)](https://payments.nacha.org/)
+  [![Smarter Faster Payments 2025](/sites/default/files/2024-12/SFP25-homepage.png)](https://payments.nacha.org/)
 
 [Nacha](https://www.nacha.org/ "Nacha")
 =======================================
@@ -88,7 +88,7 @@ Main navigation
             
         * [Risk Management Framework](https://www.nacha.org/content/risk-management-framework)
             
-        * [Risk Management Advisory Group](https://www.nacha.org/RMAG)
+        * [Risk Management Advisory Group](https://www.nacha.org/rmag)
             
         * [Regulatory Guidance](https://www.nacha.org/content/regulatory-guidance)
             
@@ -126,6 +126,8 @@ Main navigation
             
         * [Accredited Payments Risk Professional](https://www.nacha.org/accredited-payments-risk-professional)
             
+        * [AAP/APRP Exchange](https://www.nacha.org/content/aap-and-aprp-exchange)
+            
         * [Accredited Faster Payments Professional](https://www.nacha.org/afpp)
             
         * [CEC Center](https://www.nacha.org/content/nacha-cec-center)
@@ -156,6 +158,8 @@ Main navigation
         * [Benefits](https://www.nacha.org/content/nacha-affiliate-program#pageContent-473)
             
         * [Membership Directory](https://www.nacha.org/content/affiliate-member-program-directory)
+            
+        * [Member Resources](https://www.nacha.org/content/affiliate-program-members-only)
             
         
     * [Payments Innovation Alliance](https://www.nacha.org/payments-innovation-alliance)
@@ -275,7 +279,9 @@ Main navigation
 * [Contact](https://www.nacha.org/form/contact)
 * [Search](https://www.nacha.org/search)
 
-Search 
+Search  
+
+ 
 
 [Close](#)
 
@@ -596,7 +602,7 @@ Related Content
 
 [Press Release](https://www.nacha.org/taxonomy/term/7)
 
-![ACH Network Logo with background](/sites/default/files/styles/new_card_large/public/2023-02/Nacha.org%20photo%20dimensions-06.jpg?itok=fNQTpd38)
+![ACH Network Logo with background](/sites/default/files/styles/new_card_large/public/2023-02/Nacha.org%20photo%20dimensions-06.jpg?itok=fNQTpd38)   
 
 [Same Day ACH Reaches New Heights as ACH Network Volume Increases](https://www.nacha.org/news/same-day-ach-reaches-new-heights-ach-network-volume-increases)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -607,7 +613,7 @@ July 18, 2024
 
 [Blog](https://www.nacha.org/taxonomy/term/41)
 
-![RRC-podcast-image](/sites/default/files/styles/new_card_large/public/2024-06/RRC-podcast-image.jpg?itok=f1YZfxOO)
+![RRC-podcast-image](/sites/default/files/styles/new_card_large/public/2024-06/RRC-podcast-image.jpg?itok=f1YZfxOO)   
 
 [Podcast: Nacha’s Risk Management Resource Center is a ‘Go-To Spot’](https://www.nacha.org/news/podcast-nachas-risk-management-resource-center-go-spot)
 -------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -622,7 +628,7 @@ June 13, 2024
 
 [Blog](https://www.nacha.org/taxonomy/term/41)
 
-![the word nacha with colors](/sites/default/files/styles/new_card_large/public/2024-02/RMP-Image-for-Blog-post.png?itok=FbA7a9ya)
+![the word nacha with colors](/sites/default/files/styles/new_card_large/public/2024-02/RMP-Image-for-Blog-post.png?itok=FbA7a9ya)   
 
 [Check Out the Many Enhancements to Nacha’s Risk Management Portal](https://www.nacha.org/news/check-out-many-enhancements-nachas-risk-management-portal)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -635,7 +641,7 @@ April 16, 2024
 
 [Press Release](https://www.nacha.org/taxonomy/term/7)
 
-![Collage of Direct Deposit Campaign Subjects](/sites/default/files/styles/new_card_large/public/2024-02/873x564.jpg?itok=aqO50A2Q)
+![Collage of Direct Deposit Campaign Subjects](/sites/default/files/styles/new_card_large/public/2024-02/873x564.jpg?itok=aqO50A2Q)   
 
 [Nacha Launches New Campaign Highlighting the Many People Benefiting from Direct Deposit](https://www.nacha.org/news/nacha-launches-new-campaign-highlighting-many-people-benefiting-direct-deposit)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -661,7 +667,9 @@ Footer
 * [Search](https://www.nacha.org/search)
 * [Store](https://www.nacha.org/)
 
-Search 
+Search  
+
+ 
 
 [Close](#)
 
