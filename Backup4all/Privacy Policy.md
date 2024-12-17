@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [Downloading - FAQ](https://www.backup4all.com/downloading-faq-kb.html)  
+* [Backup strategy: scheduled daily differential ...](https://www.backup4all.com/backup-strategy-scheduled-daily-differential-backups-and-weekly-full-backups-kb.html)  
     
-* [How to back up data files from Verizon using ...](https://www.backup4all.com/how-to-back-up-data-files-from-verizon-using-backup4all-kb.html)  
+* [How to use "Clean destination folder" feature ...](https://www.backup4all.com/how-to-use-clean-destination-folder-feature-in-backup4all-kb.html)  
     
-* [Backup music with Backup4all](https://www.backup4all.com/backup-music-with-backup4all-kb.html)  
+* [How to erase a CD/DVD/Blu-ray with Backup4all](https://www.backup4all.com/how-to-erase-a-cd-dvd-blu-ray-with-backup4all-kb.html)  
     
-* [Using Backup4all - FAQ 2](https://www.backup4all.com/using-backup4all-faq-2-kb.html)  
+* [How to configure and use One Touch Backup?](https://www.backup4all.com/how-to-configure-and-use-one-touch-backup-kb.html)  
     
-* [How to restore your data files from MinIO usi ...](https://www.backup4all.com/how-to-restore-your-data-files-from-minio-using-backup4all-kb.html)  
+* [How to use independent zip splits in Backup4a ...](https://www.backup4all.com/how-to-use-independent-zip-splits-in-backup4all-kb.html)  
     
 
 Choose language:
