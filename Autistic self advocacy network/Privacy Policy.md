@@ -39,8 +39,6 @@ See all results
     * [Become a Member](https://autisticadvocacy.org/join)
 * [Donate](https://autisticadvocacy.org/donate/)
 
-Menu
-
 * [About](https://autisticadvocacy.org/about-asan/)
     * [About ASAN](https://autisticadvocacy.org/about-asan/)
     * [Who We Are](https://autisticadvocacy.org/about-asan/who-we-are/)
