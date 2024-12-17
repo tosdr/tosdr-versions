@@ -1,6 +1,6 @@
 [Skip to main content](#main-content)
 
- [![N/A](/content/dam/onetrust/brand/elements/image/digital/logo/OT-website-logo.svg "OT-website-logo")](https://www.onetrust.com/)
+ [![N/A](/content/dam/onetrust/brand/elements/image/digital/logo/OT-website-logo.svg "OT-website-logo")](https://www.onetrust.com/index/)
 
 [Solutions](# "Solutions")
 
