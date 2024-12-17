@@ -207,6 +207,28 @@ Menü
     ===
     
 
+[BreakingNews
+
+BILD exklusiv: Deutschland beginnt Gespräche mit neuen Islamisten-Machthabern in Syrien
+
+BILD exklusiv: Deutschland beginnt Gespräche mit neuen Islamisten-Machthabern in Syrien
+
+BILD exklusiv: Deutschland beginnt Gespräche mit neuen Islamisten-Machthabern in Syrien
+
+BILD exklusiv: Deutschland beginnt Gespräche mit neuen Islamisten-Machthabern in Syrien
+
+BILD exklusiv: Deutschland beginnt Gespräche mit neuen Islamisten-Machthabern in Syrien
+
+BILD exklusiv: Deutschland beginnt Gespräche mit neuen Islamisten-Machthabern in Syrien
+
+BILD exklusiv: Deutschland beginnt Gespräche mit neuen Islamisten-Machthabern in Syrien
+
+BILD exklusiv: Deutschland beginnt Gespräche mit neuen Islamisten-Machthabern in Syrien
+
+BILD exklusiv: Deutschland beginnt Gespräche mit neuen Islamisten-Machthabern in Syrien
+
+BILD exklusiv: Deutschland beginnt Gespräche mit neuen Islamisten-Machthabern in Syrien](https://www.bild.de/politik/ausland-und-internationales/bild-exklusiv-deutschland-spricht-mit-neuen-syrien-machthabern-67604d1ea34dcb59b6664b07)
+
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
  AGB: Nutzungsbedingungen für die digitalen Angebote von BILD
