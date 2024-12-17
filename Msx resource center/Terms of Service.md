@@ -140,6 +140,8 @@ MSX Music player
 
 Latest reactions
 
+* [MSXdev24 #07 Sam.Pr](https://www.msx.org/news/challenges/en/msxdev24-07-sampr "MSXdev24 #07 Sam.Pr")
+* [Nogalious available on Steam](https://www.msx.org/news/software/en/nogalious-available-on-steam "Nogalious available on Steam")
 * [Cube Droid Holiday Special](https://www.msx.org/news/software/en/cube-droid-holiday-special "Cube Droid Holiday Special")
 * [The Goonies enhanced](https://www.msx.org/news/en/the-goonies-enhanced "The Goonies enhanced")
 * [MSX Legends playable promo](https://www.msx.org/news/software/en/msx-legends-playable-promo "MSX Legends playable promo")
@@ -148,16 +150,14 @@ Latest reactions
 * [openMSX 20.0 released](https://www.msx.org/news/en/openmsx-200-released "openMSX 20.0 released")
 * [Wammes Witkop passed away](https://www.msx.org/news/en/wammes-witkop-passed-away "Wammes Witkop passed away")
 * [MSXdev24 #15 Titan Ufo](https://www.msx.org/news/challenges/en/msxdev24-15-titan-ufo "MSXdev24 #15 Titan Ufo")
-* [Pyxidis Ex and Block'em Sock'em](https://www.msx.org/news/en/two-new-games-for-msx-pyxidis-ex-and-blockem-sockem "Pyxidis Ex and Block'em Sock'em")
-* [Nogalious available on Steam](https://www.msx.org/news/software/en/nogalious-available-on-steam "Nogalious available on Steam")
 
 Latest forum posts
 
+* [Christmas Quiz 2024](https://www.msx.org/forum/msx-talk/off-topic/christmas-quiz-2024?page=18 "Christmas Quiz 2024")
 * [Just for fun: holiday themed headers for MRC](https://www.msx.org/forum/msx-talk/msx-resource-center/just-for-fun-holiday-themed-headers-for-mrc?page=2 "Just for fun: holiday themed headers for MRC")
 * [MSX Goa'uld. Turn an MSX into a MSX 2+?](https://www.msx.org/forum/msx-talk/hardware/msx-goauld-turn-an-msx-into-a-msx-2?page=4 "MSX Goa'uld. Turn an MSX into a MSX 2+?")
 * [keyboard connector for Victor HC-9x DSUB 20-pin from mouser](https://www.msx.org/forum/msx-talk/hardware/keyboard-connector-for-victor-hc-9x-dsub-20-pin-from-mouser "keyboard connector for Victor HC-9x DSUB 20-pin from mouser")
 * [Almost half a screen filled with add](https://www.msx.org/forum/msx-talk/msx-resource-center/almost-half-a-screen-filled-with-add "Almost half a screen filled with add")
-* [Christmas Quiz 2024](https://www.msx.org/forum/msx-talk/off-topic/christmas-quiz-2024?page=17 "Christmas Quiz 2024")
 * [MSXgl – A new C game library for MSX](https://www.msx.org/forum/msx-talk/development/msxgl-%E2%80%93-a-new-c-game-library-for-msx?page=31 "MSXgl – A new C game library for MSX")
 * [List of undumped MSX software (PLEASE HELP!)](https://www.msx.org/forum/msx-talk/software/list-undumped-msx-software-please-help?page=64 "List of undumped MSX software (PLEASE HELP!)")
 * [SCC cartridge with 16 MegaBytes on MSX !](https://www.msx.org/forum/msx-talk/hardware/scc-cartridge-with-16-megabytes-on-msx?page=1 "SCC cartridge with 16 MegaBytes on MSX !")
@@ -171,6 +171,8 @@ Latest forum posts
 
 News headlines
 
+* [MSXdev24 #17 The drop of Abu-Cymbel](https://www.msx.org/news/challenges/en/msxdev24-17-the-drop-of-abu-cymbel "MSXdev24 #17 The drop of Abu-Cymbel")
+* [MSXdev24 #16 Catbox](https://www.msx.org/news/challenges/en/msxdev24-16-catbox "MSXdev24 #16 Catbox")
 * [Cube Droid Holiday Special](https://www.msx.org/news/software/en/cube-droid-holiday-special "Cube Droid Holiday Special")
 * [MOAI-TECH #13 online magazine](https://www.msx.org/news/websites/en/moai-tech-13-online-magazine "MOAI-TECH #13 online magazine")
 * [MSXdev24 #15 Titan Ufo](https://www.msx.org/news/challenges/en/msxdev24-15-titan-ufo "MSXdev24 #15 Titan Ufo")
@@ -182,8 +184,6 @@ News headlines
 * [Alley Cat for MSX2 available for sale soon](https://www.msx.org/news/en/alley-cat-for-msx-2-is-close-to-be-released "Alley Cat for MSX2 available for sale soon")
 * [SETRIS II](https://www.msx.org/news/en/setris-ii "SETRIS II")
 * [A Lone Wolf](https://www.msx.org/news/en/a-lone-wolf "A Lone Wolf ")
-* [Tiny Magic - Digital Edition available](https://www.msx.org/news/software/en/tiny-magic-digital-edition-available "Tiny Magic - Digital Edition available")
-* [Christmas Quiz 2024](https://www.msx.org/news/en/christmas-quiz-2024 "Christmas Quiz 2024")
 
 [](https://www.msx.org/archive/)[More news articles](https://www.msx.org/archive/)
 
