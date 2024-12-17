@@ -212,11 +212,11 @@ Recently Played
 
 |     |
 | --- |
-| I'M Gonna Love YouCody Johnson Ft Carrie Underwood<br><br>10:40am |
-| You Should Probably LeaveChris Stapleton<br><br>10:37am |
-| World On FireNate Smith<br><br>10:34am |
-| Leave The Night OnSam Hunt<br><br>10:17am |
-| Just Like JohnnyRedferrin<br><br>10:07am |
+| Wind Up Missing YouTucker Wetmore<br><br>4:41pm |
+| Dancin' In The CountryTyler Hubbard<br><br>4:38pm |
+| Neon MoonBrooks And Dunn Ft Morgan Wallen<br><br>4:34pm |
+| LiarJelly Roll<br><br>4:31pm |
+| Long Hot SummerKeith Urban<br><br>4:27pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -360,17 +360,17 @@ State
 Featured Brands
 ---------------
 
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+
+News Talk • Eastern
+
 [![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
 
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
-Sports • Midwest
-
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
-
-News Talk • Eastern
+Top 40 • Eastern
 
 [![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
