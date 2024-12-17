@@ -1,6 +1,6 @@
 ×
 
-         
+        
 
 _**Family Owned and Operated Since 1993!**_
 
@@ -227,7 +227,7 @@ Search results
     
     ### Pet-Agroom [Pet-Agree Grab Bags](https://www.petagree.net/products/pet-agree-grab-bags)
     
-    12 in stock
+    9 in stock
     
     $100.00$50.00
     
