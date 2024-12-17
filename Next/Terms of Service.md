@@ -1,6 +1,6 @@
 6.0.12
 
-1734425082136
+1734446240970
 
                                       
 
@@ -12,7 +12,7 @@ en
 
 4.0.1
 
-1734424247252
+1734446637457
 
      Next Terms & Conditions | T&C's | Next Official Site                                  
 
@@ -22,7 +22,7 @@ en
 
 cutaway22
 
-1734423615740
+1734446832556
 
 You need to enable JavaScript to run this app.
 
@@ -534,7 +534,62 @@ Please note the redemption of the 10% welcome offer to credit applies only to Ne
 
  Promotional Offers, Multibuys, Vouchers and Gift Cards
 
-**25% Off Cath Kidston**
+### Love & Roses + The Diamond Store UK Competition
+
+The Promoter: Lipsy Limited (registered at Company no. 05728110), 200 – 208 Tottenham Court Road, London, W1T 7PL
+
+Love & Roses + The Diamond Store UK Competition
+
+To enter today’s competition:
+
+1\. Follow @loveandroses and @thediamondstoreuk on Instagram
+
+2\. Like and save the post
+
+3\. Tag a friend in the comment section
+
+4\. Share to your stories for an extra entry
+
+Please Note: Only the @loveandroses account will contact you if you are successful.Any other account claiming to contact you on behalf of Lipsy London is not legitimate.
+
+This giveaway opens on Saturday 14th December at 10:00am and closes on Friday 20th December 2024 at 10:00am. UK or US residents 18+ only. We will only notify the winner here on Instagram, via our official account @loveandroses. This giveaway is in no way endorsed, affiliated with, administered, or sponsored by Instagram.
+
+7. Eligibility: This Promotion is open to UK or US residents, aged 18 or over, excluding:
+a. employees of Lipsy Ltd or its holding or subsidiary companies; b. employees or agents or suppliers of Lipsy Ltd or its holding or subsidiary companies, who are professionally connected with the competition or its administration; or c. members of the immediate families or households of a) and b) above.8. No purchase necessary. Multiple entries are permitted.
+9. Start Date/Time: Saturday 14th December at 10:00am
+10. Closing date/Time: Friday 20th December 2024 at 10:00am.
+11. To enter, entrants must do the following on the official @loveandroses Instagram account between 10:00am on the start date and 10:00am on the closing date as well as the below:
+A. Follow @loveandroses and @thediamondstoreuk on Instagram
+
+B. Like the post
+
+C. Tag a friend in the comment section
+
+D. Share to your stories for an extra entry15. Entries made after 10:00am on Friday 20th December, will not be counted
+16. One winner will be selected at random by @loveandroses on Friday 20th December at 11:00am and contacted directly by @loveandroses Limited via Instagram direct mail before midnight that day.
+17. The winner must confirm whether they wish to claim the prize within 3 days of receiving a notification. If the winner fails to do so, the winner shall forfeit the prize and Love & Roses reserves the right to award the prize to a reserve winner selected at the same time as the original winner. Love & Roses does not accept any responsibility if you are not able to claim the prize.
+18. In the event of unforeseen circumstances Love & Roses reserves the right to substitute the prize for an alternative of equal or greater value. All reasonable efforts will be made to contact the winner before awarding the prize to a reserve.
+19. The prize is as follows:
+
+• x1 The Diamond Store Necklace
+
+21. The entirety of this prize is non-transferable and non-refundable. It must be taken as offered and will only be awarded to the Winner as specified in these Terms and Conditions.
+22. The prizes will be sent to the winner within 6 months of the competition ending and the exact date will be advised by the Lipsy marketing team to the winner upon winning.
+23. Lipsy will contact the prize winner via Instagram direct mail as soon as practicable to verify details for the prize.
+24. The winner must be a UK or US resident.
+25. Love & Roses decision is final and no correspondence will be entered into.
+26. The winner must declare any allergies.
+27. Love & Roses reserves the right to verify all entries and participants’ eligibility, including but not limited to asking for address and identity details and to refuse to award a prize or withdraw prize entitlement and/or refuse further participation in the promotion and disqualify the participant where there are reasonable grounds to believe there has been a breach of these Terms and Conditions or any instructions forming part of this promotions entry requirements or otherwise where a participant has gained unfair advantage in participating in the promotion or won using fraudulent means.
+28. By entering the competition you agree to being contacted for competition and marketing purposes by email, mail or telephone, from which you may opt out at any time, and to your personal details being used to administer the competition.
+29. The winner agrees to participate in publicity arising from the promotion in the form of use of their name and image in a congratulations competition social media post.
+30. If you object to any or all of your details being published or made available, please contact Love & Roses at lipsymarketing@next.co.uk.
+31. Events may occur that render the competition itself or the awarding of a prize impossible due to reasons beyond the control of Love & Roses. Accordingly, Love & Roses may at its absolute discretion vary, amend or withdraw the competition and the winner agrees that no liability shall attach to Love & Roses as a result thereof.
+32. To the fullest extent permitted by law, Love & Roses excludes all liability for any loss, damage, personal injury or death suffered by the prize winner and/or their guest as a result of accepting the prize, except where it is caused by the negligence of Love & Roses, its agents or distributors or that of their employees. Your statutory rights are not affected.
+33. The competition and these Terms and Conditions are governed by English law and the parties submit to the non-exclusive jurisdiction of the English courts.
+
+Details of the competition winner will be available for 14 days after the competition ends by writing to Lipsy London Limited Marketing, Glen House, Tottenham Court Road, London, W1T 7PL and Love & Roses will provide the details of the winning entry to the Advertising Standards Authority on request.
+
+### **25% Off Cath Kidston**
 
 1. Offer available to selected customers, criteria predefined by Next Retail Limited
 2. Your offer will be communicated to you and automatically added to your account at our discretion.
@@ -3471,7 +3526,7 @@ You need to enable JavaScript to run this app.
 
 4.0.1
 
-1734425178361
+1734446345336
 
 ##### Our Social Networks
 
