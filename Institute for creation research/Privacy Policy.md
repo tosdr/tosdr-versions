@@ -95,67 +95,91 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Days of Praise
+More Variation Is Limited within Kinds
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/disciples-and-servants)
+[![](/i/Main%20Stage%20-%201400x1050/dinosauranalysis-1400x1050)](https://www.icr.org/article/dinosaur-analysis)
 
-[Disciples and Servants](https://www.icr.org/article/disciples-and-servants/)
+[Evolutionary Dinosaur Analysis Leads to Bizarre Conclusion](https://www.icr.org/article/dinosaur-analysis/)
 
-“The disciple is not above his master, nor the servant above his lord.” (Matthew 10:24) Note the twofold relation of the believer...
+A new dinosaur discovery in Rio Negro Province in central Argentina resulted in a very peculiar assertion.1 A bipedal dinosaur (walked on two...
 
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/all-the-people)
+[![](/i/Main%20Stage%20-%201400x1050/teenagetrexes-1400x1050-MainPage.jpg)](https://www.icr.org/article/teenage-trex-fossils)
 
-[All the People](https://www.icr.org/article/all-the-people/)
+[Teenage T. rex Fossils](https://www.icr.org/article/teenage-trex-fossils/)
 
-“And all the people gathered themselves together as one man into the street that was before the water gate; and they spake unto Ezra the scribe...
+A new analysis of a small pair of T. rex-like fossils, called Nanotyrannus, shows they were actually teenage T. rexes. Holly Woodward, from Oklahoma...
 
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/breath-spirit)
+[![](/i/wide/forest_trees_wide.jpg)](https://www.icr.org/article/cant-see-forest-for-trees)
 
-[Breath and Spirit](https://www.icr.org/article/breath-spirit/)
+[Can't See the Forest for the Trees](https://www.icr.org/article/cant-see-forest-for-trees/)
 
-“Thus saith God the LORD, he that created the heavens, and stretched them out; he that spread forth the earth, and that which cometh out of...
+At the 75th annual meeting of the Society of Vertebrate Paleontology, held this year in downtown Dallas, the world's foremost fossil experts presented...
 
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+
+More Creation Science Update
+
+[![](/i/Main%20Stage%20-%201400x1050/NeanderCrab_1400x1050.jpg)](https://www.icr.org/article/neanderthal-crab-bake)
+
+[Neanderthal Crab Bake](https://www.icr.org/article/neanderthal-crab-bake/)
+
+The evolutionary community said it perfectly in their headlines: “Proof that Neanderthals ate crabs is another 'nail in the coffin' for...
+
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+
+[![](/i/Main%20Stage%20-%201400x1050/firevenusflytrap_1400x1050.jpg)](https://www.icr.org/article/fire-sensory-capabilities)
+
+[Fire Sensory Capabilities of the Venus Flytrap](https://www.icr.org/article/fire-sensory-capabilities/)
+
+Fascinating discoveries have been made regarding the amazing Venus flytrap (Dionaea muscipula).1 For example, all parts of this amazing plant...
+
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+
+[![](/i/Main%20Stage%20-%201400x1050/moon_formedin_hours_1400x1050.jpg)](https://www.icr.org/article/moon-formed-in-just-hours)
+
+[The Moon: Formed in Just Hours?](https://www.icr.org/article/moon-formed-in-just-hours/)
+
+Despite the moon’s apparently simple shape, uniformitarian scientists have long had great difficulty explaining how it could form by natural processes...
+
+BY: [JONATHAN K. CORRADO, PH.D., P. E.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=251)
 
 Shop Related Products
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/32359/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/60049696/file.jpg)
 
-Six Days of Creation](https://store.icr.org/dr-henry-morris-iii-six-days-of-creation.html)
+Living in Light of Genesis](https://store.icr.org/living-in-the-light-of-genesis.html)
 
-$2.99
+$15.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/7312979/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/62183393/file.jpg)
 
-Places to Walk](https://store.icr.org/dr-henry-morris-iii-places-to-walk.html)
+Adam or Apes - Download](https://store.icr.org/adam-or-apes-download.html)
 
-$0.99
+$7.99
 
-$2.99
+[![](https://cdn.shoplightspeed.com/shops/601440/files/13216342/file.jpg)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/11926199/file.jpg)
-
-The Book of Beginnings - eBook](https://store.icr.org/the-book-of-beginnings-ebook.html)
-
-$14.99
-
-$49.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10892599/file.jpg)
-
-Stand Fast](https://store.icr.org/stand-fast.html)
+Discovering Dinosaurs - Download](https://store.icr.org/mr-brian-thomas-discovering-dinosaurs-download.html)
 
 $4.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/32548/file.jpg)
+$9.99
 
-Exploring the Evidence for Creation](https://store.icr.org/dr-henry-morris-iii-exploring-the-evidence-for-cre.html)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/16087568/file.jpg)
 
-$13.99
+Ancient and Fossil Bone Collagen Remnants](https://store.icr.org/ancient-and-fossil-bone-collagen-remnants.html)
+
+$29.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/25997817/file.jpg)
+
+Why the World Looks So Young](https://store.icr.org/why-the-world-looks-so-young.html)
+
+$7.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
