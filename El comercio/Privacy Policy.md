@@ -31,502 +31,139 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Liga de Quito lidera a los ecuatorianos en el ranking Conmebol
-==============================================================
+Ecuador fue la selección más joven de Sudamérica en 2024
+========================================================
 
-Liga de Quito es el flamante campeón de la Liga Pro y el primer bicampeón bajo este formato.
---------------------------------------------------------------------------------------------
+La Selección de Ecuador está disfrutando de una generación dorada de jóvenes futbolistas que destacan en las mejores ligas y torneos del mundo.
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
-![Ricardo Adé (d) y Jeison Medina en la final de la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/ranking_conmebol_1.jpg)
+![Moisés Caicedo y Alan Franco en un partido con la Selección de Ecuador en 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-16T190724.898.jpg)
 
-**Liga de Quito** sigue de celebración una vez que se concretó la estrella 13 del campeonato nacional. Con esta nueva corona igualó a El Nacional en el tercer lugar de los más ganadores y quedó a uno de Emelec y a tres de Barcelona Sporting Club.
+La **Selección de Ecuador** se posicionó como la más joven de la Confederación Sudamericana de Fútbol (Conmebol) durante 2024, según un estudio del Centro Internacional de Estudios Deportivos (CIES).
 
-El título 13 de **Liga de Quito se hizo efectivo una vez que derrotaron a Independiente del Valle** con un marcador global de 3-1. La ida en el Rodrigo Paz fue de 3-1 y la revancha fue 1-0 para los rayados en su estadio.
+El combinado nacional cuenta con destacados talentos juveniles que se han consolidado como piezas clave en la ‘Tri’. Entre ellos están **Moisés Caicedo, Piero Hincapié y Willian Pacho**, ninguno de los cuales supera los 23 años.
 
 ### Más noticias:
 
-* [Liga de Quito, el tri-bicampeón: el saludo de Claudio Bieler](https://www.elcomercio.com/deportes/futbol/liga-quito-claudio-bieler-tri-bicampeon.html "Liga de Quito, el tri-bicampeón: el saludo de Claudio Bieler")
-* [Liga de Quito y su senda gloriosa al título de la Liga Pro 2024](https://www.elcomercio.com/deportes/futbol/liga-de-quito-y-su-senda-gloriosa-al-titulo-de-la-liga-pro-2024.html "Liga de Quito y su senda gloriosa al título de la Liga Pro 2024")
-* [Liga de Quito extendió los festejos del título hasta la madrugada](https://www.elcomercio.com/deportes/futbol/liga-quito-festejos-titulo-ligapro.html "Liga de Quito extendió los festejos del título hasta la madrugada")
+* [Calendario de la Selección de Ecuador sub-20 para el Sudamericano](https://www.elcomercio.com/deportes/futbol/calendario-campeonato-sudamericano-sub20-venezuela.html "Calendario de la Selección de Ecuador sub-20 para el Sudamericano")
+* [La Selección de Ecuador cumple dos años de su última participación en un Mundial](https://www.elcomercio.com/deportes/seleccion-ecuador-mundial-catar-aniversario.html "La Selección de Ecuador cumple dos años de su última participación en un Mundial")
+* [La Selección de Ecuador fue top mundial, ¿qué pasó con sus jugadores?](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-top-ranking-fifa.html "La Selección de Ecuador fue top mundial, ¿qué pasó con sus jugadores?")
 
-Liga de Quito domina en Ecuador
--------------------------------
+Además, **Kendry Páez**, con apenas 16-17 años, se convirtió en un habitual en las convocatorias, tanto bajo la dirección de Félix Sánchez Bas como con el nuevo entrenador, Sebastián Beccacece.
 
-Liga le pelea codo a codo a **Barcelona Sporting Club tener el membrete** de ser los equipos más ganadores de torneos nacionales. Ambas escuadras tienen en su palmarés 16 trofeos.
-
-Los 16 de Barcelona son en el campeonato nacional, mientras que los de **LDU son 13 nacionales, dos de la Supercopa Ecuador** y uno de la Copa Ecuador, es decir, ganó al menos un título en todos los torneos oficiales del país.
-
-La diferencia que sacan los albos, y de largo, son los cinco torneos internacionales que reposan en sus vitrinas: **Copa Libertadores 2008; Copa Sudamericana 2009 y 2023**; y Recopa Sudamericana 2009 y 2010.
-
-Todos estos antecedentes convierten a los universitarios en el mejor equipo ecuatoriano del siglo XXI, es más, **es el único que ha ganado 15 títulos**, que da un promedio de una consagración cada 19 meses.
-
-Le siguen, y de muy lejos, Independiente del Valle con seis, tres de ellos internacionales; Emelec con seis; **Barcelona SC y el Deportivo Quito con tres**; Olmedo, Deportivo Cuenca, Delfín y Aucas con uno.
-
-![API.](https://www.elcomercio.com/wp-content/uploads/2024/12/ranking_conmebol_3-1024x683.jpg)
-
-API.
-
-El mejor ecuatoriano para Conmebol
-----------------------------------
-
-Este lunes 16 de diciembre de 2024 la **Conmebol publicó el ranking de clubes para el 2025**. La novedad es que entre los 30 primeros se encuentra Liga de Quito, Independiente del Valle y Barcelona SC.
-
-El ranking está liderado por River Plate. Le siguen Palmeiras (2), **Boca Juniors (3), Flamengo (4), Peñarol (5)**, Nacional (6), Atlético Mineiro (7), Sao Paulo (8), Atlético Paranaense (9) y Fluminense (10).
-
-Liga es el mejor equipo ecuatoriano al alcanzar la casilla 14, **Independiente es el segundo en el puesto 17**, y Barcelona en tercero en el puesto 24.
-
-Entre los ecuatorianos hay cuadros como el Internacional, Corinthians, Santos, San Lorenzo, Botafogo, Independiente de Avellaneda, **Colo-Colo y Estudiantes de La Plata**, todos campeones, al menos una vez, de la Copa Libertadores.
-
-Para el 2025, Liga de Quito e Independiente del Valle jugarán la fase de grupos de la Libertadores, mientras que **BSC está clasificado para la fase do**s y El Nacional, que no aparece en el ranking, arrancará su trayecto en la fase uno.
-
-![API.](https://www.elcomercio.com/wp-content/uploads/2024/12/ranking_conmebol_2-1024x683.jpg)
-
-API.
-
-Confesionario – segunda temporada en proceso
---------------------------------------------
-
-Concejo de Quito debate reforma a la Patente. ¿Cuánto deberá pagar?
-===================================================================
-
-El Concejo Metropolitano de Quito discutirá la reforma al impuesto a la Patente, La medida será aplicable para los que no deben llevar contabilidad.
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
-![El Concejo Metropolitano de Quito tendrá el primer debate de reforma al impuesto a la Patente.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-4.jpg)
-
-En la mañana del **17 de diciembre del 2024,** el Concejo Metropolitano de Quito tratará la **reducción** de las tarifas en la **Patente** a las **actividades económicas** que se realizan en **Quito**. Sin embargo, esta reforma de Ordenanza deberá pasar por un segundo debate, cuyo fecha podría ser el martes 24 de diciembre o el 31 de diciembre.
-
-### Más noticias
-
-* [Claves para preparar tu vehículo ante la temporada de lluvias en Quito](https://www.elcomercio.com/actualidad/quito/claves-recomendaciones-vehiculo-lluvia-temporada.html "Claves para preparar tu vehículo ante la temporada de lluvias en Quito")
-* [Últimos días para matriculación y revisión técnica vehicular en Quito](https://www.elcomercio.com/actualidad/quito/ultimos-dias-para-matriculacion-y-revision-tecnica-vehicular-en-quito.html "Últimos días para matriculación y revisión técnica vehicular en Quito")
-* [Quiteños están orgullosos de la ciudad, pero con miedo](https://www.elcomercio.com/actualidad/quito/quitenos-orgullosos-ciudad-miedo.html "Quiteños están orgullosos de la ciudad, pero con miedo")
-
-Reforma de la Patente, a debate en el Concejo
+Ecuador, la selección más joven de Sudamérica
 ---------------------------------------------
 
-El Concejo Metropolitano de Quito se reunirá a las 09:00 de este martes 17 de diciembre del 2024 para el **primer debate** para la **reforma al impuesto de patentes**. Este proeyecto de Ordenanza busca **optimizar** la **recaudación**, **simplificar** los **trámites** administrativos y apoyar a sectores estratégicos del Distrito Metropolitano.
+Según el estudio del CIES, **Ecuador fue la selección más joven de Sudamérica** en 2024, con un promedio de edad de **25,86 años**. En contraste, Perú tuvo la plantilla más veterana no solo de la región, sino también entre 144 selecciones analizadas, con un promedio de **30,38 años**.
 
-Con este cambio, se espera **mejorar el sistema tributario** y fomentar el desarrollo económico en la ciudad. La reforma establece un **nuevo esquema de cobro** para el impuesto de patentes, diferenciando entre quienes están **obligados** a llevar **contabilidad** y **quienes no** lo están.
+El análisis detalla que el 12,9 % de los futbolistas convocados por Ecuador durante el año tenían 21 años o menos, mientras que el grupo mayoritario se situó en el rango de 22 a 25 años, representando el **44,9 %** de los jugadores.
 
-¿Cuánto deberá pagar?
----------------------
+Los futbolistas de 26 a 29 años constituyeron el 26,1 % de la plantilla, mientras que aquellos de **30 años o más representaron apenas el 16,1 %.**
 
-Para los primeros, el **cálculo** del impuesto estará basado en el patrimonio neto, aplicando una tarifa progresiva que va del 1% al 2%, dependiendo del rango de patrimonio. Por ejemplo, las **empresas** con **activos** superiores a **10 millones de dólares** no pagarán más de **25 000 dólares** al año[.](https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito "https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito")
+A nivel sudamericano, Ecuador también destacó como el **segundo equipo que más futbolistas menores de 21 años utilizó**, con un 12,9 %, solo superado por Bolivia (15,1 %). Por otro lado, fue la segunda selección con menor porcentaje de jugadores mayores de 30 años, detrás de Uruguay (14,8 %).
 
-En el caso de quienes **no llevan contabilidad,** se aplicará una tarifa fija de **15 dólares anuales,** simplificando su contribución.
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-16T190424.215-1024x683.jpg)
 
-Límites en el pago de la Patente
---------------------------------
+Foto: CIES.
 
-Además, se han establecido **límites claros** en el pago del impuesto para garantizar la equidad. Por ejemplo, quienes tengan un **patrimonio** entre **250 000** y **750 000 dólares** no pagarán más de **5 000** dólares. En cambio, los **autónomos** y **pequeños contribuyentes** cancelarán tarifas mínimas según lo estipulado por el COOTAD.
+### Selección de Ecuador en 2024
 
-Estímulos en la reforma de la patente
--------------------------------------
+El 2024 fue un año de cambios importantes para la Selección de Ecuador. Después de la Copa América, Félix Sánchez dejó el cargo de director técnico, y fue reemplazado por el argentino Sebastián Beccacece.
 
-Uno de los aspectos más destacados de esta reforma es la implementación de **beneficios** y estímulos **tributarios** para ciertos sectores de la población. Las **personas con discapacidad** y sus sustitutos legales recibirán un **descuento del 50%** en el pago del impuesto de patentes.
+En cuanto a competiciones, la ‘Tri’ alcanzó los **cuartos de final de la Copa América**, donde fue eliminada por penales ante Argentina, que terminó coronándose campeona del torneo. Un dato destacado es que Ecuador fue el único equipo que logró marcarle a la ‘Albiceleste’ en el campeonato, tras empatar 1-1.
 
-De igual manera, los **emprendedores** inscritos en el Registro Nacional de Emprendimiento podrán disfrutar de una reducción del 50% durante cinco años. Para quienes desarrollen proyectos en el **Distrito Especial de Innovación** La Mariscal, el beneficio será similar, con una rebaja del 50% por tres años.
+En las eliminatorias sudamericanas, Ecuador cerró el año en **tercer lugar con 19 puntos en 12 partidos**, consolidándose en puestos de clasificación al Mundial. Además, el equipo se destacó por tener la mejor defensa del continente, permitiendo solo **cuatro goles en contra** durante la competición.
 
-En contraste, hay sectores que **no podrán acogerse** a estos beneficios. Entre ellos se encuentran las **multinacionales** y empresas de **economía mixta,** así como personas o empresas que no cumplan los requisitos para ser consideradas artesanas o cuyas actividades económicas no estén directamente relacionadas con la agricultura, acuicultura o pesca.
+Cabe recordar que Ecuador comenzó las eliminatorias con **\-3 puntos** debido a la sanción impuesta por el caso Byron Castillo, lo que resalta aún más el mérito de su desempeño.
 
-Modernización de procesos de la Patente
----------------------------------------
+Cancillería hizo un anuncio sobre 12 ecuatorianos presuntamente desaparecidos en México
+=======================================================================================
 
-Otro punto clave de la reforma es la **modernización** de los **procesos**. La normativa prevé que el registro de contribuyentes se actualice automáticamente con información del **Servicio de Rentas Internas**, lo que reducirá los trámites manuales. Asimismo, se implementarán mecanismos digitales para facilitar las declaraciones y pagos en línea. La expectativa de que estén en pleno funcionamiento antes de abril de 2025.
+Los ecuatorianos desaparecidos en México son parte de un grupo más grande de migrantes irregulares.
+---------------------------------------------------------------------------------------------------
 
-Esta reforma a la Patente, que se debate en el Concejo, no solo busca aumentar la recaudación municipal, sino también promover la **formalización de actividades económicas.** Además, se pretende garantizar que el **sistema tributario** sea más **transparente** y **accesible** para todos.
+![Imagen referencial. Cancillería conoció de los ecuatorianos presuntamente desaparecidos en México el 28 de noviembre.](https://www.elcomercio.com/wp-content/uploads/2024/12/ecuatorianos-desaparecidos-mexico.jpg)
 
-Consenso para reducir la Patente
---------------------------------
+La **Cancillería** hizo un anuncio sobre **12 ecuatorianos presuntamente desaparecidos** en **México**, este lunes 16 de diciembre de 2024[.](https://es.wikipedia.org/wiki/M%C3%A9xico)
 
-La mayoría de los concejales han estado de acuerdo con esta iniciativa de Pabel Muñoz. Como alcalde de Quito es el **único con competencia** para plantear una reforma en los tributos de una ciudad.
-
-La edil **Analía Ledesma,** de Izquierda Democrática, sostuvo que en principio están de acuerdo. “Ha sido un pedido del sector cultural que se simplifique el pago por persona y no por actividad económica”, sostuvo.
-
-Hernán Galíndez destacó en Argentina con Huracán
-================================================
-
-El arquero de la Selección de Ecuador brilló con Huracán a nivel individual, pero se quedó a las puertas de un título histórico en el fútbol argentino.
--------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Hernán Galíndez se quedó a las puertas de un título en Argentina.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-16T135712.094.jpg)
-
-**Hernán** **Galíndez** estuvo cerca de hacer historia con **Huracán** en su primera temporada en el club. El equipo del arquero ecuatoriano-argentino tuvo un desempeño destacado en la Liga Profesional de Fútbol de Argentina, pero no logró coronarse campeón.
-
-En la última jornada del torneo, el domingo 15 de diciembre, el ‘**Globo’ perdió ante Vélez**, un rival directo, por 2-0 y con ello se esfumaron las esperanzas de alzar el primer título liguero del club en este siglo.
-
-### Más noticias
-
-* [Hernán Galíndez niega contactos con Barcelona SC](https://www.elcomercio.com/deportes/hernan-galindez-barcelona-sc-huracan.html "Hernán Galíndez niega contactos con Barcelona SC")
-* [La Conmebol ‘transformó’ a Hernán Galíndez en héroe](https://www.elcomercio.com/deportes/futbol/hernan-galindez-conmebol-eliminatorias-ecuador.html "La Conmebol ‘transformó’ a Hernán Galíndez en héroe")
-* [DT de Colombia destacó a Hernán Galíndez en la Selección de Ecuador](https://www.elcomercio.com/deportes/seleccion-ecuador-hernan-galindez-nestor-lorenzo-colombia.html "DT de Colombia destacó a Hernán Galíndez en la Selección de Ecuador")
-
-Un referente en su debut con Huracán
-------------------------------------
-
-Desde su llegada, **Galíndez se ganó rápidamente el cariño de la afición de Huracán**. Sus grandes actuaciones bajo los tres palos y su experiencia lo consolidaron como uno de los referentes del equipo. A mediados de 2024, fue nombrado **capitán**, un reconocimiento a su liderazgo tanto dentro como fuera del campo.
-
-Huracán tuvo una gran campaña en la Liga Profesional, liderando el torneo durante varias fechas y manteniéndose en la pelea hasta el final. Sin embargo, en el **último partido, cayó ante Vélez,** que terminó proclamándose campeón.
-
-A pesar del buen rendimiento de **Galíndez**, el equipo no pudo evitar la derrota y **concluyó el torneo en cuarta posición con 46 puntos**, cinco menos que el campeón.
-
-![Hernán Galíndez, arquero de la Selección de Ecuador, en un partido de Huracán en Argentina.](https://www.elcomercio.com/wp-content/uploads/2024/12/Snapinsta.app_468585678_18472631206050321_8228856475112130174_n_1080-1024x687.jpg)
-
-Un torneo sólido en defensa
----------------------------
-
-A nivel colectivo, **Huracán destacó por su solidez defensiva**, siendo la tercera mejor zaga del campeonato con solo 17 goles en contra.
-
-Este logro tuvo como figura clave a **Galíndez, quien jugó 24 de los 27 partidos del torneo.** Las únicas ausencias del arquero fueron debido a su convocatoria con la Selección de Ecuador.
-
-En términos estadísticos, Galíndez mostró un rendimiento notable. Según SofaScore, promedió **solo 0,6 goles concedidos** por partido, un registro destacado para un arquero.
-
-En total, **recibió 14 goles, realizó 54 atajadas** (2,3 por partido) y mantuvo su portería en cero en 13 ocasiones. Además, logró 187 balones recuperados y obtuvo una calificación promedio de 7,05 puntos a lo largo del torneo.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-16T135552.168-1024x683.jpg)
-
-Un capitán destacado
---------------------
-
-**Galíndez asumió la capitanía de Huracán** en la sexta jornada del torneo, un rol que desempeñó con solvencia y que lo consolidó como uno de los pilares del equipo.
-
-Su experiencia previa en clubes como Aucas y Universidad Católica, así como su liderazgo en la Selección de Ecuador, fueron determinantes para guiar al ‘Globo’ durante la temporada.
-
-Aunque el título se escapó en la última jornada, **Hernán Galíndez cerró una temporada sobresaliente en lo personal**, reafirmando su calidad como uno de los mejores arqueros del torneo.
-
-Calendario de la Selección de Ecuador sub-20 para el Sudamericano
-=================================================================
-
-La Selección de Ecuador sub-20 se proclamó como campeona en la edición 2019 de Chile.
--------------------------------------------------------------------------------------
-
-![Jugadores de la Selección de Ecuador sub-20 en un amistoso en el Rodrigo Paz Delgado.](https://www.elcomercio.com/wp-content/uploads/2024/12/calendario_ecuador_1.jpg)
-
-Todo listo para la participación de la **Selección de Ecuador sub-20** en la XXXI edición del Campeonato Sudamericano. El torneo se jugará del jueves 23 de enero al domingo 16 de febrero de 2025.
-
-La Selección de Ecuador sub-20 tenía preparadas sus **maletas para viajara a Arequipa, Perú**, la primera sede elegida por la Conmebol, pero luego de un escándalo de supuesta corrupción que envuelve a los dirigentes de aquel país, la sede cambió a Venezuela.
+El **Ministerio de Relaciones Exteriores y Movilidad Humana** conoció el hecho el 28 de noviembre.
 
 ### Más noticias:
 
-* [Liga de Quito se proclamó como bicampeón de la Liga Pro](https://www.elcomercio.com/deportes/futbol/independiente-valle-liga-quito-marcador.html "Liga de Quito se proclamó como bicampeón de la Liga Pro")
-* [Liga de Quito tuvo apoyo de su afición desde su casa en Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-quito-hinchas-estadio-campeon-ligapro.html "Liga de Quito tuvo apoyo de su afición desde su casa en Liga Pro")
-* [Alexander Domínguez pide estatua junto a Rodrigo Paz](https://www.elcomercio.com/deportes/futbol/alexander-dominguez-estatua-liga-quito.html "Alexander Domínguez pide estatua junto a Rodrigo Paz")
+* [Gobierno de Daniel Noboa hará una petición a México sobre Walter Solís](https://www.elcomercio.com/actualidad/seguridad/gobierno-daniel-noboa-peticion-mexico-walter-solis.html "Gobierno de Daniel Noboa hará una petición a México sobre Walter Solís")
+* [La caravana migrante se topa con el bloqueo de las autoridades en el sur de México](https://www.elcomercio.com/actualidad/mundo/caravana-migrante-topa-bloqueo-autoridades-sur-mexico.html "La caravana migrante se topa con el bloqueo de las autoridades en el sur de México")
 
-El grupo de la Selección de Ecuador sub-20
-------------------------------------------
+La decisión de Cancillería sobre los 12 ecuatorianos presuntamente desaparecidos en México
+------------------------------------------------------------------------------------------
 
-El grupo de la Selección de Ecuador es el B. Competirá con la siempre difícil y **favorita Brasil, la competitiva Argentina**, la compleja Colombia y ante la incógnita de lo que pueda presentar Bolivia.
+El 28 de noviembre, la Cancillería conoció sobre la posible desaparición de 23 migrantes en **México**.
 
-En el grupo A están Venezuela, Uruguay, Paraguay, Chile y Perú, una zona que se proyecta menos compleja.
+Entre los 23 migrantes, estaría 12 ciudadanos ecuatorianos, que transitaban de forma irregular hacia los **Estados Unidos de América**.
 
-El formato del Sudamericano establece que los tres primeros ubicados de cada **grupo clasificarán directamente al hexagonal** final. Instalados en esta etapa, las cuatro primeras selecciones sacarán su boleto para el Mundial de Chile.
+Una vez que se conoció sobre el hecho, la Cancillería **inició la búsqueda** de los compatriotas.
 
-La Conmebol confirmó que Chile, a pesar de estar asegurada su participación en la **Copa del Mundo, irá al Sudamericano**. En caso de llegar al hexagonal abre la puerta para que solo un seleccionado quede eliminado.
+Lo hizo a través de la Sección de Intereses del Ecuador en la **Ciudad de México** y la oficina consular en **Ciudad de Guatemala**.
 
-En últimas tres ediciones, Ecuador alcanzó su boleto para jugar los mundiales de **Corea del Sur 2017, Polonia 2019 y Argentina 2023**. En el 2021 no se disputó el torneo por las restricciones que existían en el mundo por la pandemia del covid-19.
+La Cancillería informó que ha mantenido un constante acompañamiento y contacto permanente con las **familias** de estos ciudadanos.
 
-En 2019 alcanzó el título en Chile y en ese mismo año fue tercera en el mundo, **el mejor puesto que cualquier selección de Ecuado**r haya alcanzado en los torneos organizados por la Conmebol o por la FIFA.
+Los familiares han fortalecido las tareas de **localización** en este proceso de búsqueda.
 
-![Instagram La Tri.](https://www.elcomercio.com/wp-content/uploads/2024/12/calendario_ecuador_2-1024x683.jpg)
+El Ministerio de Relaciones Exteriores y Movilidad Humana anunció que continuará trabajando con las instituciones involucradas para la localización de los **ciudadanos ecuatorianos**.
 
-Instagram La Tri.
+Cortes de luz en Guayaquil para este martes 17 de diciembre
+===========================================================
 
-Los jugadores de Ecuador
-------------------------
-
-Desde el 15 de diciembre la Tri está concentrada en la Casa de la Selección para afrontar la recta final de su preparación que también contempla dos amistosos ante Perú en Lima el 17 y 20 de este mes.
-
-**Miguel Bravo dispondrá de figuras sub-20** que han sido titulares permanentes en sus clubes como el defensa Diogo Bagüí, el centrocampista Ronny Borja y el atacante Elkin Muñoz, del Emelec, equipo dirigido por el colombiano Leonel Álvarez.
-
-También Elian Caicedo, de Mushuc Runa; **Allen Obando, de Barcelon**a; Justin Lerma, del Independiente del Valle; Rooney Troya y Luis Moreno de Universidad Católica, entre otros.
-
-Los cinco convocados que militan en el exterior son: Jhafets Dick (Cartagena-ESP), **Davis Bautista (Eintracht Frankfurt-GER),** Jair Collahuazo (Red Bull-USA), Jeremy Arévalo (Racing de Santander-ESP), David Govea (Swansea City-NLD).
-
-Calendario de Ecuador
----------------------
-
-### Viernes 24/01
-
-Ecuador vs. Bolivia
-
-Polideportivo Misael Delgado – Valencia
-
-### Martes 28/01
-
-Colombia vs. Ecuador
-
-Polideportivo Misael Delgado
-
-### Jueves 30/01
-
-Ecuador vs. Brasil
-
-Polideportivo Misael Delgado
-
-### Sábado 01/02
-
-Ecuador vs. Argentina
-
-Estadio Metropolitano de Lara
-
-Confesionario – segunda temporada en proceso
---------------------------------------------
-
-Ricardo Adé, la muralla haitiana que domina Ecuador
-===================================================
-
-Ricardo Adé llegó al fútbol ecuatoriano en 2021 y solo le bastaron cuatro años para convertirse en un referente en su posición.
+Guayaquil tendrá cortes de luz de dos horas este martes 17 de diciembre. Te compartimos el cronograma completo de los apagones.
 -------------------------------------------------------------------------------------------------------------------------------
 
-![Ricardo Adé es el mejor defensor central del campeonato ecuatoriano durante tres años consecutivos.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-16T115850.863.jpg)
+![CNEL es la empresa encargada de brindar el servicio eléctrico a Guayaquil](https://www.elcomercio.com/wp-content/uploads/2024/12/cortes-luz-guayaquil-17-diciembre.jpg)
 
-**Ricardo Adé** volvió a consagrarse campeón del fútbol ecuatoriano, logrando su tercer título en el país en apenas cuatro años, y su segundo consecutivo con **Liga de Quito**. El haitiano ha demostrado ser el mejor defensor central de la **Liga Pro**, destacándose como una figura indiscutible.
-
-Como líder de la zaga de la ‘U’, Adé, junto a su compañero Richard Mina, fue clave para que el equipo albo **conquistara su decimotercera estrella** en el campeonato ecuatoriano. Esto lo convierte en el tercer club más laureado del país y reafirma al haitiano como una de las piezas fundamentales del plantel.
-
-### Más noticias:
-
-* [Liga de Quito queda a tres títulos de Barcelona Sporting Club](https://www.elcomercio.com/deportes/futbol/liga-quito-titulos-nacionales-ecuador.html "Liga de Quito queda a tres títulos de Barcelona Sporting Club")
-* [‘Vitamina’ Sánchez y Alex Arce, figuras del título de Liga de Quito](https://www.elcomercio.com/deportes/futbol/vitamina-sanchez-alex-arce-liga.html "‘Vitamina’ Sánchez y Alex Arce, figuras del título de Liga de Quito")
-* [Liga de Quito recibió mimos de sus rivales de la Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-quito-felicitaciones-equipo-liga-pro.html "Liga de Quito recibió mimos de sus rivales de la Liga Pro")
-
-Ricardo Adé, de Haití, a dominar Ecuador
-----------------------------------------
-
-**Adé** llegó al fútbol ecuatoriano en 2021, proveniente de la segunda división del fútbol chileno. Su primera escala fue **Mushuc Runa**, equipo al que llegó gracias a un exhaustivo trabajo de scouting del club ambateño.
-
-En su primera temporada, con 31 años, Adé destacó como una de las revelaciones de la Liga Pro. Su liderazgo en la defensa fue crucial para que el ‘Ponchito’ clasificara a su segunda **Copa Sudamericana**. Estas actuaciones llamaron la atención de **Aucas**, que lo fichó para 2022.
-
-Con el ‘Ídolo del Pueblo’, Adé mostró uno de sus mejores niveles. Su habilidad en los anticipos y su supremacía en los duelos aéreos lo consolidaron como un referente.
-
-Bajo la dirección de César Farías, lideró la defensa de **Aucas para conquistar el primer título nacional** en la historia del club. Además, fue reconocido como el mejor defensor y jugador de la temporada.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-16T125424.183-1024x683.jpg)
-
-Llegada a Liga de Quito
------------------------
-
-Tras ganar su primer título importante, **Liga de Quito fichó a Adé en 2023**, con el objetivo de reforzar una defensa que había mostrado debilidades en los últimos años. A sus 33 años, el haitiano llegó con el cartel de jugador diferencial y no decepcionó.
-
-Bajo el mando de **Luis Zubeldía**, Adé se convirtió rápidamente en pieza clave del equipo. Su liderazgo fue fundamental para que Liga **rompiera una sequía de títulos y conquistara la Copa Sudamericana 2023**, siendo uno de los mejores jugadores del torneo.
-
-![Ricardo Adé, jugador de Liga de Quito, en un partido previo a la Copa Libertadores.](https://www.elcomercio.com/wp-content/uploads/2024/05/g-40-1024x683.jpg)
-
-A finales de ese año, Liga sumó su duodécimo título nacional al **ganar la Liga Pro**, el primer bajo el nuevo formato del campeonato. Adé, una vez más, fue reconocido como el mejor defensor del torneo.
-
-Aunque hubo rumores de su posible salida, Adé decidió quedarse en Liga de Quito, y nuevamente fue figura, especialmente en la segunda etapa de la Liga Pro.
-
-Con el haitiano como líder defensivo, **Liga consiguió el tercer bicampeonato nacional** de su historia y alcanzó su decimotercer título. Adé cerró la temporada consolidándose como el mejor defensor del torneo por tercer año consecutivo y sumando su tercer campeonato en Ecuador.
-
-Distribuidores de combustible reconocen desabastecimiento de gasolina extra
-===========================================================================
-
-Usuarios reportan desabastecimiento de gasolina extra en las estaciones de servicio de Quito, Petroecuador asegura que no es así.
----------------------------------------------------------------------------------------------------------------------------------
-
-![Los precios de las gasolinas cambian el 12 de cada mes, en Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/gasolina.jpg)
-
-Usuarios de Quito reportan el **desabastecimiento de** gasolina extra en varias estaciones de servicio de la ciudad. Los **distribuidores aseguran** que el problema se origina en la terminal El Beaterio, que les entregan cupos limitados del hidrocarburo.
+La Corporación Nacional de Electricidad (**CNEL**) anunció los horarios de **cortes de luz** que tendrá **Guayaquil** este martes 17 de diciembre de 2024.
 
 ### Más noticias
 
-* [Nuevos precios de las gasolinas extra y ecopaís desde este 12 de diciembre](https://www.elcomercio.com/actualidad/negocios/nuevos-precios-gasolinas-extra-ecopais-diciembre.html "Nuevos precios de las gasolinas extra y ecopaís desde este 12 de diciembre")
-* [Usuarios se quejan de la falta de ecopaís y diésel en las gasolineras de Guayaquil](https://www.elcomercio.com/actualidad/negocios/usuarios-se-quejan-de-la-falta-de-ecopais-y-diesel-en-las-gasolineras-de-guayaquil.html "Usuarios se quejan de la falta de ecopaís y diésel en las gasolineras de Guayaquil")
-* [Daniel Noboa: ‘En diciembre se acabarán los apagones’](https://www.elcomercio.com/actualidad/politica/daniel-noboa-apagones-cortes-luz-diciembre.html "Daniel Noboa: ‘En diciembre se acabarán los apagones’")
+* [Cortes de luz en Quito este martes 17 de diciembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-en-quito-este-martes-17-de-diciembre.html "Cortes de luz en Quito este martes 17 de diciembre")
+* [Una unidad de la Central Alluriquín se conecta a la red eléctrica nacional](https://www.elcomercio.com/actualidad/negocios/una-unidad-de-la-central-alluriquin-se-conecta-a-la-red-electrica-nacional.html "Una unidad de la Central Alluriquín se conecta a la red eléctrica nacional")
+* [Ministra de Energía de Ecuador afirma que solo siete empresas tendrán un apagón de 15 días](https://www.elcomercio.com/actualidad/negocios/ministra-energia-ecuador-afirma-solo-siete-empresas-apagon-15-dias.html "Ministra de Energía de Ecuador afirma que solo siete empresas tendrán un apagón de 15 días")
 
-Desabastecimiento de gasolina extra
+La capital de **Guayas** tendrá **apagones programados** de **dos** **horas** **diarias**, luego de la reducción que hizo el Ministerio de Energía en todo el país.
+
+La cartera de Estado redujo de tres a dos horas los racionamientos a partir de este lunes, tras comprobar que la **situación hídrica** en Ecuador mejoró en algunos sectores estratégicos, como **Coca Codo Sinclair**, por ejemplo.
+
+Entre el domingo y el lunes, en algunos sectores, usuarios reportaron en redes sociales que los cronogramas de racionamientos se aplicaron en **menos horas** de las esperadas o no exisiteron; sobre todo, en la **noche** y **madrugada**.
+
+Fin de los cortes de luz en Ecuador
 -----------------------------------
 
-La escasez de **gasolina extra** la sintió Luis L., la mañana de este lunes 16 de diciembre de 2024. El hombre, de 39 años, se acercó a una estación de servicio en la avenida **Simón Bolívar**, a la altura del barrio **Argelia Alta**, en el sur oriente de Quito. Allí le indicaron que no había gasolina extra, la única que estaban comercializando es la súper, de 95 octanos, que tiene un precio más alto
+El presidente **Daniel Noboa** anunció que el 20 de diciembre finalizarán los **cortes de luz** programados por la crisis energética, por lo que esta sería la última semana con ellos.
 
-El problema de escasez se empezó a sentir desde el viernes 13 de diciembre. Algunas estaciones de servicio vendían **gasolina extra** con límite el fin de semana. Es decir, máximo 10 dólares de combustible, mientras que en otras no había gasolina extra.
+El Gobierno afirmó que esta medida será posible gracias a la **recuperación** del sistema eléctrico nacional y a la incorporación de nueva generación de energía a través de varios proyectos. Uno de ellos, fue la **compra** de energía a **Colombia** y los trabajos realizados en la central de Alluriquín.
 
-Por ejemplo, **Diana C.**, se acercó el sábado 14 de diciembre de 2024 a la gasolinera ubicada en la avenida 6 de Diciembre y Fresnos, al norte de **Quito**. Los trabajadores de la estación de servicio le indicaron que no había gasolina porque el tanquero que les abastece aún no llegaba. Lo mismo sucedió en la estación ubicada en la Eloy Alfaro y Álamos, también en el **norte de la ciudad**.
+El aumento de los **caudales** y los embalses que abastecen a hidroeléctricas del Austro, como **Mazar** y **Paute**, contribuyeron en gran medida a considerar la finalización de los apagones.
 
-Hablan los distribuidores
--------------------------
+De cumplirse, los ecuatorianos habrían pasado 87 días con racionamientos. La suspensión de **energía eléctrica** empezó el **23 de septiembre** a nivel nacional.
 
-Por su parte, **Ivo Rosero**, presidente de la Cámara de Distribuidores de Derivados de Petróleo, (Camddepe), señaló que el problema del desabastecimiento radica en los centros de distribución, como **El Beaterio**. Allí se está poniendo cupo a las comercializadoras, que tienen que racionar la venta por los consumidores finales.
+En los días más críticos, Ecuador enfrentó apagones de hasta **14 horas diarias**.
 
-“Este momento se sabe que no hay combustible en la estación más grande de Quito, que es ubicada en la avenidas **Amazonas y Eloy Alfaro.** Tenemos reportes de otras gasolineras que no tienen extra, por ejemplo, una en La Prensa y otra por el sector de la Ofelia”, señaló Rosero.
+Avances en central de Alluriquín
+--------------------------------
 
-Además, agregó que tienen ninguna explicación oficial sobre el tema.
+La Unidad de Generación Eléctrica número 3 de la central **Alluriquín**, parte del complejo **Toachi Pilatón**, se conectó a la red eléctrica del país o Sistema Nacional Interconectado (SNI).
 
-Petroecuador
-------------
+El proceso de sincronización de este generador, con una capacidad de **68 megavatios**, consistió en alinear parámetros como voltaje, frecuencia, ángulo de fase, secuencia, etc.
 
-Por su parte, Petroecuador, al ser consultado por este medio, señaló este lunes que no hay desabastecimiento de combustibles en el país. Además, agregó que la entrega de **gasolina extra** en **El Beaterio** se realiza con normalidad.
+La ministra encargada de Energía**, Inés Manzano**, anunció que las **dos unidades restantes de la central,** que aportarán 136 MW adicionales para completar los 204 MW, se sincronizarán en las próximas semanas.
 
-Asimismo, el sábado 14 de diciembre, el **Gobierno Nacional**, a través del Ministerio de Energía y Minas y Petroecuador, aseguró el abastecimiento de combustibles en respuesta a la creciente demanda para la generación de energía térmica y el consumo nacional.
+Cortes de luz en Guayaquil para este martes 17 de diciembre
+-----------------------------------------------------------
 
-Como parte de estas acciones, se importaron 140 000 barriles de diésel premium y 80 000 barriles de gasolina, señaló la cartera de Estado, en un comunicado.
+Los cortes de luz en Guayaquil serán de dos horas este **martes 17 de diciembre** en las **zonas residenciales**.
 
-Los goleadores en Ecuador, una valoración del número 9 en Liga Pro
-==================================================================
+Esta programación se ejecutará de corrido, en la madrugada, mañana, tarde y noche.
 
-De los nueve máximos goleadores en Ecuador, solo dos utilizaron el número 9 en sus camisetas en la Liga Pro 2024.
------------------------------------------------------------------------------------------------------------------
+Para el sector industrial, los cortes de luz serán de hasta **seis horas**.
 
-![Álex Arce anotó 28 goles para Liga de Quito en la Liga Pro 2024. Fue el mejor entre los goleadores en Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-54.jpg)
-
-El **número 9**, tradicionalmente asociado con el **delantero centro**, parece estar perdiendo protagonismo entre los máximos **goleadores** en **Ecuador**.
-
-De los nueve máximos goleadores de la Liga Pro en 2024, solo dos utilizaron el número 9: **Jeison Medina** (IDV) y **José Fajardo** (Universidad Católica).
-
-En cambio, otros goleadores de renombre como **Álex Arce**, **Diego Armas** y **Janner Corozo** llevaron otros números, lo que refleja una tendencia de diversificación en la elección de camisetas.
-
-### Más noticias:
-
-* [Liga de Quito queda a tres títulos de Barcelona Sporting Club](https://www.elcomercio.com/deportes/futbol/liga-quito-titulos-nacionales-ecuador.html "Liga de Quito queda a tres títulos de Barcelona Sporting Club")
-* [‘Vitamina’ Sánchez y Alex Arce, figuras del título de Liga de Quito](https://www.elcomercio.com/deportes/futbol/vitamina-sanchez-alex-arce-liga.html "‘Vitamina’ Sánchez y Alex Arce, figuras del título de Liga de Quito")
-* [Liga de Quito recibió mimos de sus rivales de la Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-quito-felicitaciones-equipo-liga-pro.html "Liga de Quito recibió mimos de sus rivales de la Liga Pro")
-
-Los goleadores en Ecuador
--------------------------
-
-En cuanto a los goleadores ecuatorianos, el 2024 mostró que los jugadores locales continúan siendo importantes, pero los extranjeros dominan la tabla.
-
-Solo tres ecuatorianos figuraron entre los máximos goleadores: **Diego Armas**, Janner Corozo y Erick Mendoza.
-
-Esto resalta la creciente presencia de delanteros extranjeros, como Arce y Medina, que se han convertido en piezas clave en equipos como **LDU** e **IDV.**
-
-Los goleadores
---------------
-
-En la temporada 2024 de la Liga Pro de Ecuador, **Álex Arce,** delantero paraguayo de 29 años, se consagró como el máximo goleador del campeonato, anotando 28 goles en 32 partidos, lo que le permitió romper el récord histórico de LDU, establecido por [Francisco Bertocchi](https://es.wikipedia.org/wiki/Francisco_Bertocchi) en 1969 con 26 tantos.
-
-**Arce jugó con el número 19** en su camiseta, un dato curioso si consideramos que, tradicionalmente, los máximos goleadores suelen portar el emblemático número 9.
-
-Sin embargo, en la Liga 2024, solo dos de los máximos goleadores utilizaron ese número, mostrando una tendencia hacia la diversidad en las posiciones y números de los artilleros.
-
-Los goleadores y sus números
-----------------------------
-
-1. **Álex Arce**: 28 goles. Delantero centro paraguayo de 29 años. Juega con el **número 19** en LDU. Tiene contrato con Liga hasta el 31 de diciembre de 2026. Valor de mercado según Transfermarkt: 5,1 millones de dólares.
-2. **Diego Armas**: 20 goles. Mediocentro ofensivo ecuatoriano de 34 años. Jugó con el **número 8** en Técnico Universitario, equipo con el que tiene contrato hasta finales de 2024. Valor de mercado: 210 mil dólares.
-3. **Jeison Medina**: 20 goles. Delantero centro colombiano de 29 años. Juega con el **número 9** en Independiente del Valle (IDV). Tiene contrato hasta el 31 de diciembre de 2027. Valor de mercado: 1,57 millones de dólares.
-4. **Janner Corozo**: 17 goles. Extremo izquierdo ecuatoriano de 29 años. Juega con el **número 13** en Barcelona SC (BSC). Tiene contrato hasta finales de 2026. Valor de mercado: 1,57 millones de dólares.
-5. **Pablo Daniel Magnín**: 15 goles. Delantero centro argentino de 34 años que juega con el **número 12** en Deportivo Cuenca. Valor de mercado: 280 mil dólares.
-6. **José Fajardo**: 13 goles. Delantero centro panameño de 31 años que juega con el **número 9** en Universidad Católica. Contrato hasta finales de 2024. Valor de mercado: 1,26 millones de dólares.
-7. **Octavio Rivero**: 11 goles. Delantero centro uruguayo de 32 años que juega con el **número 29** en Barcelona SC. Tiene contrato hasta finales de 2025. Valor de mercado: 735 mil dólares.
-8. **Ismael Díaz**: 10 goles. Extremo izquierdo panameño de 27 años que juega con el **número 30** en Universidad Católica. Contrato hasta 2025. Valor de mercado: 1,26 millones de dólares.
-9. **Erick Mendoza**: 10 goles. Extremo izquierdo ecuatoriano de 22 años. Juega con el **número 22** en Imbabura SC. Su contrato finaliza en 2024. Valor de mercado: 525 mil dólares.
-
-![Janner Corozo anotó 17 goles. Jugó con el número 13 en Barcelona SC.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-55-1024x683.jpg)
-
-Janner Corozo anotó 17 goles. Jugó con el número 13 en Barcelona SC.
-
-**El impacto de Álex Arce**
----------------------------
-
-Los 28 goles de Álex Arce no solo lo colocaron como el máximo goleador, sino que fueron clave para que Liga de Quito se coronara campeón de la Liga Pro 2024.
-
-Arce, con su presencia imponente de 1,87 metros, se destacó como un clásico ‘nueve’ de área, con gran capacidad para marcar de cabeza, anotando 12 de sus goles de esa manera.
-
-La temporada 2024 de la Liga Pro fue testigo de un cambio en la concepción tradicional del número 9, con goleadores de diversas nacionalidades y números destacándose en la tabla. La figura de Álex Arce, con su rendimiento excepcional, demostró la importancia del ‘nueve’ moderno, sin importar el número que porte en la espalda.
-
-![Jeison Medina y Alex Arce son los goleadores de Independiente del Valle y Alex Arce, respectivamente.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-10T114806.813-1024x683.jpg)
-
-Jeison Medina y Alex Arce son los goleadores de Independiente del Valle y Alex Arce, respectivamente.
-
-Un hombre acudió al hospital por vómitos y fue diagnosticado con cáncer un año después: su familia recibirá 100 000 euros
-=========================================================================================================================
-
-Desde 2020 un hombre estuvo solicitando atención médica en varios centros sanitarios hasta que fue demasiado tarde.
--------------------------------------------------------------------------------------------------------------------
-
-![El diagnóstico médico que le costó la vida a un hombre.](https://www.elcomercio.com/wp-content/uploads/2023/06/enfermo-ec.jpg)
-
-En julio de 2020, un hombre de 41 años, se acercó al Hospital de Albacete (España), en busca de ayuda profesional debido a que comenzó a notar una molestia en su cuerpo, la cual le ocasionaba vómitos constantes de color negro[.](https://es.wikipedia.org/wiki/C%C3%A1ncer_de_es%C3%B3fago "https://es.wikipedia.org/wiki/C%C3%A1ncer_de_es%C3%B3fago")
-
-* [¿Cuál es el cáncer más agresivo? Síntomas tempranos y cómo prevenirlo, según la medicina](https://www.elcomercio.com/tendencias/salud/cancer-agresivo-sintomas-prevenirlo-medicina.html "¿Cuál es el cáncer más agresivo? Síntomas tempranos y cómo prevenirlo, según la medicina")
-* [La actriz de ‘Pedro el Escamoso’ decidió no tratarse el cáncer cuando conoció el diagnóstico](https://www.elcomercio.com/tendencias/actriz-de-pedro-el-escamoso-cancer.html "La actriz de ‘Pedro el Escamoso’ decidió no tratarse el cáncer cuando conoció el diagnóstico")
-
-Un diagnóstico inicial erróneo
-------------------------------
-
-Al notar el estado del paciente, los **médicos** del **centro sanitario** optaron por practicarle una **gastroscopia**, con la que podrían visualizar el interior del **esófago y el estómago.**
-
-Con los resultados del estudio, los doctores le diagnosticaron una **esofagitis** por reflujo de grado D, ya que pensaron que se debía a una simple lesión en la mucosa del esófago.
-
-Sin embargo, con el pasar de los meses la familia del hombre no veía ningún cambio. De hecho, en repetidas ocasiones, a causa de los **molestos síntomas**, estuvieron visitando la sala de urgencias, donde los profesionales de la salud, insistían en que todo era producto de una **afección común**, por lo que no le realizaron los exámenes de rigor.
-
-Un error médico letal
----------------------
-
-A principios del año siguiente, el hombre logró que un grupo de médicos se interesaran en investigar su caso de manera más detallada. Tras varios **estudios endoscópicos**, le detectaron un tipo de cáncer que se origina en las células glandulares del esófago, pero ya era demasiado tarde.
-
-El **adenocarcinoma de esófago** se encontraba en una etapa muy avanzada debido a que le había hecho **metástasis** en otras partes del cuerpo, por lo que pensar en algún tratamiento para contrarrestar los daños, era imposible.
-
-Al poco tiempo el hombre falleció y la asociación El Defensor del Paciente decidió representar a la familia del enfermo frente al Juzgado de lo Contencioso-Administrativo de Albacete, alegando una mala praxis en la asistencia médica.
-
-La familia busca justicia tras el diagnóstico tardío
-----------------------------------------------------
-
-De acuerdo con las autoridades, hubo una vulneración en la prestación del servicio médico, debido a que era una obligación repetirle los exámenes al paciente a los tres meses de la primera gastroscopia.
-
-Además, determinaron que el retraso del diagnóstico y la negligencia médica influyó en la evolución de la enfermedad, puesto que esta dejó de ser tratable en cuestión de meses y solo fue tomada en serio hasta la metástasis avanzada.
-
-Teniendo en cuenta eso, el juez reconoció que el Servicio de Salud de Castilla-La Mancha debe pagar una indemnización a la familia del fallecido de 116.845 euros por el daño antijurídico ocasionado por una mala praxis en la asistencia médica.
-
-Ejército ecuatoriano trasladó 180 reos a la cárcel de Latacunga
-===============================================================
-
-Este operativo se ejecutó en apoyo al Servicio Nacional de Atención Integral a Personas Adultas Privadas de la Libertad (SNAI) .
---------------------------------------------------------------------------------------------------------------------------------
-
-![El Ejército trasladó a los reos a la cárcel de Latacunga.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-16T124914.528.jpg)
-
-El **Ejército ecuatoriano,** en coordinación con la SNAI, lideró el **traslado de personas privadas de la libertad** (PPL) desde la cárcel de El Inca hasta la de Latacunga, Cotopaxi.
-
-### Más noticias
-
-* [Investigan muerte de joven en plena audiencia por extralimitación policial](https://www.elcomercio.com/actualidad/seguridad/investigan-muerte-joven-audiencia-extralimitacion-policial-guayaquil.html "Investigan muerte de joven en plena audiencia por extralimitación policial")
-* [Cortes de luz reducidos en Guayaquil este lunes 16 diciembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-reducidos-en-guayaquil-este-lunes-16-diciembre.html "Cortes de luz reducidos en Guayaquil este lunes 16 diciembre")
-* [Siete muertos, en posible ajuste de cuentas, en Guayaquil](https://www.elcomercio.com/actualidad/seguridad/siete-muertos-posible-ajuste-cuentas.html "Siete muertos, en posible ajuste de cuentas, en Guayaquil")
-
-El traslado de reos
--------------------
-
-Personal del Ejército realizó una **operación militar** en la madrugada de este lunes 16 de diciembre de 2024 con extrema minuciosidad y planificación.
-
-En esta operación militar se realizó el **traslado de 180 personas privadas de la libertad** desde el Centro de Privación de la Libertad (CPL) de El Inca. Los PPL fueron llevados hacia **el CPL de Cotopaxi,** en Latacunga.
-
-En esta operación se emplearon **aproximadamente 800 efectivos militares** y 80 vehículos para trasladar a los prisioneros, todo con un fuerte respaldo militar.
-
-Este operativo se ejecutó en apoyo al **Servicio Nacional de Atención Integral a Personas** Adultas Privadas de la Libertad (SNAI) y se enmarca en los protocolos establecidos.
-
-Según declaraciones del general Medardo Calero, comandante de la Primera División del Ejército Shyris, en estos operativos **se precautela la seguridad de los reos** y el respeto a los derechos humanos.
-
-La intervención tuvo como objetivo fundamental **garantizar la seguridad** y el bienestar de las personas privadas [de la libertad](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador") (PPL).
-
-De este modo también se promueve un **entorno más seguro** y adecuado para todos los internos, aclara SNAI.
-
-Estas operaciones se ejecutan con el **máximo sigilo y confidencialidad** para evitar cualquier tipo de filtración de información que ponga en riesgo la diligencia.
-
-Ejército trasladó a 1 193 personas en noviembre
------------------------------------------------
-
-El Ejército también llevó a cabo el traslado de población penitenciaria, tanto masculina como femenina, el domingo 24 de noviembre de 2024.
-
-Efectivos del Ejército Ecuatoriano estuvieron a cargo del traslado de **población penitenciaria masculina** del Centro de Privación de Libertad (CPL) Tungurahua N° 1 al CPL Cotopaxi N° 1.
-
-Así mismo, se realizó el traslado de **población penitenciaria femenina** del CPL Cotopaxi para reubicarla en el CPL de Tungurahua.
-
-De parte del **Ejército Ecuatoriano** se informó que las acciones se ejecutaron con estricto cumplimiento a los protocolos y procesos legales. Sobre todo respetando la normativa legal vigente y en apego a los **derechos humanos.**
-
-La SNAI aclaró que esta reubicación responde a la **necesidad de especializar** los centros penitenciarios para poder brindar atención diferenciada tanto a hombres como a mujeres. Esto, en cumplimiento de normativas internacionales que promueven la **separación de géneros** en los centros de privación de libertad.
-
-Este traslado involucró a 665 hombres y 528 mujeres (**entre ellas, Mayra Salazar)** privados de la libertad y se desarrolló con el objetivo de mejorar las condiciones de seguridad. De este modo también se promueve un entorno más seguro y adecuado para todos los internos[, aclara SNAI.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
-
-En este operativo intervinieron 38 personas del SNAI, 164 efectivos de la Policía Nacional y 253 efectivos del Ejército Ecuatoriano.
-
-> 𝑻𝒓𝒂𝒔𝒍𝒂𝒅𝒐 𝒅𝒆 𝒑𝒆𝒓𝒔𝒐𝒏𝒂𝒔 𝒑𝒓𝒊𝒗𝒂𝒅𝒂𝒔 𝒅𝒆 𝒍𝒂 𝒍𝒊𝒃𝒆𝒓𝒕𝒂𝒅 𝒅𝒆 𝑳𝒂𝒕𝒂𝒄𝒖𝒏𝒈𝒂 𝒚 𝑨𝒎𝒃𝒂𝒕𝒐  
->   
-> Como parte de las operaciones militares en los centros de privación de libertad, en la tarde y noche del sábado 23 de noviembre de 2024, con un amplio… [pic.twitter.com/s6oCQsDUHz](https://t.co/s6oCQsDUHz)
-> 
-> — Ejército Ecuatoriano (@EjercitoECU) [November 24, 2024](https://twitter.com/EjercitoECU/status/1860674827977155024?ref_src=twsrc%5Etfw)
+Te compartimos el **cronograma completo** de cortes de luz para este martes:
 
 ### Esperanza
 
@@ -536,611 +173,876 @@ Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Ap
 
 [ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
 
-Ciclón Chido en Francia deja 20 fallecidos
-==========================================
+Lamine Yamal gana el Golden Boy y Lionel Messi lo felicita
+==========================================================
 
-También obstaculiza el hecho de que cerca de la mitad de la población del archipiélago no esté regularizada en el territorio.
------------------------------------------------------------------------------------------------------------------------------
+Lionel Messi aclamó el papel de Lamine Yamal después de que este ganara el premio Golden Boy a mejor futbolista sub-21 en Europa.
+---------------------------------------------------------------------------------------------------------------------------------
 
-![Una fotografía proporcionada por el ejército francés el 15 de diciembre de 2024 muestra a soldados con la población local en el territorio francés de ultramar de Mayotte.](https://www.elcomercio.com/wp-content/uploads/2024/12/Francia-chido-personas-efe.jpg)
+![Lamine Yamal exhibe su premio Golden Boy al mejor jugador de Europa menor a 21 años.](https://www.elcomercio.com/wp-content/uploads/2024/12/36003431d9726ac08ea5f8cd92ed701a75ab05c6.jpg)
 
-El balance oficial de víctimas por el paso el sábado, 14 de diciembre de 2024, del ciclón Chido en el archipiélago del **Índico de Mayotte**, [Francia](https://es.wikipedia.org/wiki/Francia "https://es.wikipedia.org/wiki/Francia") avanza lentamente. Ya son **20 los fallecidos,** una cuenta aún lejos de las primeras estimaciones, que advirtieron de al menos “**varios cientos de muertos**“.
+El delantero argentino **Lionel Messi** felicitó este lunes al extremo del Barcelona Lamine Yamal por el premio ‘Golden Boy’, que consideró fruto “no solo del talento, sino del duro trabajo y sacrificio”.
+
+**Messi**, en un mensaje en su cuenta de X, hizo extensiva la enhorabuena a la jugadora del Barcelona Vicky López, premiada con el mismo galardón que **Yamal** en la categoría femenina por el diario italiano Tuttosport, que reconoce cada año a los mejores futbolistas menores de 21 años de las ligas europeas.
+
+### Más noticias:
+
+* [El FC Barcelona acaricia los octavos de la Champions](https://www.elcomercio.com/deportes/futbol/barcelona-dortmund-resultado-champions-league.html "El FC Barcelona acaricia los octavos de la Champions")
+* [Lamine Yamal ganó el Golden Boy con doble récord](https://www.elcomercio.com/deportes/futbol/lamine-yamal-golden-boy-record.html "Lamine Yamal ganó el Golden Boy con doble récord")
+* [Lionel Messi y sus emotivos gestos en reconocimiento masivo](https://www.elcomercio.com/deportes/lionel-messi-azerbaiyan-reconocimiento-masivo.html "Lionel Messi y sus emotivos gestos en reconocimiento masivo")
+
+“**Lamine, Vicky: este premio es el resultado no solo del talento, sino del duro trabajo y sacrificio. Es un orgullo que formen parte del Messi+10. Felicidades y sigan así!**“, señaló el delantero argentino del Inter Miami en referencia a la marca de botas de la marca deportiva que le patrocina, que solo llevan once futbolistas en el mundo además de él.
+
+**Yamal**, de 17 años, y Vicky López, de 18 años, no asistieron a la gala celebrada en la ciudad italiana de Turín, en la que no hubo ningún representante del FC Barcelona[.](https://en.wikipedia.org/wiki/FC_Barcelona "https://en.wikipedia.org/wiki/FC_Barcelona")
+
+Ambos se unen a un palmarés del que forma parte **Messi**, quien obtuvo el premio en 2005 cuando militaba en el **FC Barcelona.**
+
+Lamine Yamal y sus extraordinarios objetivos
+--------------------------------------------
+
+El español **Lamine Yamal**, flamante ganador del ‘Golden Boy’, declaró que sus próximos objetivos ahora son los de ganar el Mundial con España y la Liga de Campeones con el Barcelona, todo antes de cumplir 21 años.
+
+El jugador concedió una entrevista a Tuttosport y dejó claro que su ambición es máxima: “**Antes de los 21 años mi objetivo es ganar el Mundial con España, la Liga de Campeones y dos Ligas más con el Barça**“.
+
+“Es un honor recibir este premio Golden Boy. El primer paso de una gran carrera que espero tener. Aunque soy muy consciente de que los premios individuales son fruto del trabajo colectivo, así que quiero seguir haciéndolo bien en el Barça y con España para **poder acumular más trofeos**. De equipo e individuales. En cualquier caso, **ganar el Golden Boy es un gran punto de partida** para un futbolista joven. Todos los chicos del mundo aspiran a ganarlo”, dijo en la entrevista.
+
+Además, apuntó al **Balón de Oro**: “Si gano con el Barça, sobre todo la Liga de Campeones, tendré más posibilidades de aspirar al trofeo individual que corona la carrera de un jugador: el **Balón de Oro**. Ningún jugador gana premios individuales si no puede ganar nada colectivamente con su equipo. Así que ganando colectivamente estaré más cerca de los premios individuales, porque una cosa es consecuencia de la otra”, agregó.
+
+Un documental explorará el meticuloso crimen de Luigi Mangione
+==============================================================
+
+El 4 de diciembre de 2024 fue asesinado Brian Thompson, director ejecutivo de United Health Care (UHC).
+-------------------------------------------------------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/caso-mangione-El-Comercio.jpg)
+
+Las productoras Anonymous Content y Jigsaw Productions, liderada por el reconocido cineasta Alex Gibney, anunciaron un documental sobre **Luigi Mangione**.
+
+Este joven de 26 años es el presunto asesino del director ejecutivo de United Healthcare, Brian Thompson.
 
 ### Más noticias
 
-* [Crisis en Francia, ciclón Chido deja miles afectados](https://www.elcomercio.com/actualidad/mundo/crisis-francia-ciclon-chido-deja-miles-afectados.html "Crisis en Francia, ciclón Chido deja miles afectados")
-* [Emmanuel Macron convoca a los líderes para la búsqueda de un Gobierno](https://www.elcomercio.com/actualidad/mundo/emmanuel-macron-convoca-lideres-busqueda-gobierno.html "Emmanuel Macron convoca a los líderes para la búsqueda de un Gobierno")
-* [La Embajada de Francia y Unión Europea realizaron una jornada de deporte inclusivo](https://www.elcomercio.com/empresariales/embajada-francia-union-europea-jornada-deporte-inclusivo.html "La Embajada de Francia y Unión Europea realizaron una jornada de deporte inclusivo")
+* **[Los motivos del presunto crimen que habría cometido Luigi Mangione](https://www.elcomercio.com/actualidad/mundo/detencion-luigi-mangione-presunto-asesino-brian-thompson.html "https://www.elcomercio.com/actualidad/mundo/detencion-luigi-mangione-presunto-asesino-brian-thompson.html")**
 
-La **nueva cifra de muertes** fue divulgada por la **radio pública FranceInfo**, que tuvo acceso a un documento interno del Ministerio del Interior.
+_El anuncio fue recogido por The Hollywood Reporter el lunes 16 de diciembre de 2024._
 
-Debido al elevado **grado de destrucción e incomunicación en las islas,** las autoridades tienen serias dificultades para hacer un **conteo fiable de víctimas mortales** en este territorio francés de ultramar.
+Una historia que va más allá del crimen
+---------------------------------------
 
-El sábado, el día en el que el ciclón Chido dejó rachas de viento de hasta 220 km por hora. Se anunciaron dos muertes; el domingo 14, y este lunes 20, unos números que, según las autoridades en el terreno, están **muy alejados de la realidad.**
+Según las productoras, el documental no solo relatará la ejecución meticulosa del crimen. También abordará el manifiesto de Mangione, su paso por la prestigiosa Ivy League y las razones que lo llevaron a la violencia.
 
-El propio ministro del Interior en funciones de Francia, **Bruno Retailleau**, alertó hoy, 16 de diciembre de 2024, nada más **aterrizar a Mayotte**, de que harán falta “días y días” hasta poder hacer un balance de víctimas y pidió evitar dar estimaciones.
+La lesión crónica que sufría en la espalda y su frustración con el sistema de salud en EE.UU. también jugarán un rol importante.
 
-Las únicas oficiales conocidas fueron las aportadas el domingo, 15 de diciembre de 2024 por el prefecto (delegado del Gobierno) en Mayotte, François-Xavier Bieuville, quien, en una entrevista, advirtió de que podrían haber “**varios cientos de muertos**“, e incluso “millares” debido a la destrucción de los grandes barrios de chabolas del territorio.
+El documental promete abrir un debate sobre el alto costo de los servicios médicos y la denegación de tratamientos por parte de aseguradoras.
 
-Víctimas de credo musulmán
---------------------------
+Mangione, capturado la semana pasada en un **McDonald’s en Pensilvania**, ha sido visto como una figura polarizante. En redes sociales, muchos lo ven como un «justiciero» que atacó los abusos del sistema de salud estadounidense.
 
-El prefecto también aportó otro dato que puede entorpecer la **contabilidad de víctimas**. Se trata de que la mayor parte de los **320 000 habitantes de las islas** son de credo musulmán, por lo que, según su tradición, las personas tienen que ser enterradas en **24 horas tras su deceso.**
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DDabwu8uAg-/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DDabwu8uAg-/?utm_source=ig_embed&utm_campaign=loading)
 
-Inmigrantes indocumentados
---------------------------
+Quién es Alex Gibney
+--------------------
 
-También obstaculiza el hecho de que cerca de la **mitad de la población del archipiélago** no esté regularizada en el territorio (en su mayoría son inmigrantes indocumentados procedentes de las vecinas islas de Comoras).
+Alex Gibney, conocido por su estilo crítico y profundo, es uno de los documentalistas más importantes del cine contemporáneo. Ganó un premio Oscar en 2008 con ‘Taxi to the Dark Side’, que abordó las políticas de tortura de EE.UU.
 
-Las islas fueron arrasadas por las rachas de viento de hasta **220 kilómetros por la hora** y las fuertes lluvias, que dejaron, según las pocas **imágenes disponibles y testimonios de habitantes**, escenas apocalípticas.
+Su trabajo reciente incluye ‘The Bibi Files’, sobre la corrupción del primer ministro israelí Benjamin Netanyahu, y ‘Knife: Meditations After an Attempted Murder’, basado en las memorias del novelista Salman Rushdie. Actualmente, también está trabajando en un documental sobre Elon Musk titulado ‘Musk’.
 
-No hay servicios básicos
-------------------------
+El **caso de Mangione** ha generado una ola de opiniones divididas. Mientras algunos lo ven como un criminal, otros lo consideran un símbolo de la frustración colectiva contra el sistema sanitario.
 
-**No hay agua potable,** **ni electricidad, ni red de telecomunicaciones** en la mayor parte del archipiélago, donde empieza a escasear la comida. Las carreteras están cortadas y el aeropuerto internacional cerrado para los vuelos comerciales.
+El impacto de su manifiesto y la metódica ejecución del crimen han convertido el caso en un fenómeno mediático.
 
-Las autoridades temen la **propagación de enfermedades** como el cólera por el colapso de los sistemas de alcantarillado y un recrudecimiento de los pillajes en el **departamento francés más precario,** pues cerca del 80 % de la población vive bajo el umbral de la pobreza.
+Formato y lanzamiento del documental
+------------------------------------
 
-Un primer avión llegó el domingo al aeropuerto de la **capital Mamoudzou** con ayuda y para servir de centro de organización logística y **canalizar la ayuda que llegará en sucesivos vuelos**, procedentes inicialmente del archipiélago de la Reunión, en el Índico.
+Aún no se ha confirmado si el documental tendrá un formato de largometraje o episodios. Sin embargo, dado el peso del tema y la participación de Gibney, se espera una producción que analizará a fondo las causas y consecuencias de este crimen.
 
-Unos **800 policías y bomberos** llegarán también próximamente para participar en las **tareas de rescate**, seguridad (se han denunciado saqueos a supermercados) y ayuda sanitaria y logística, anunció el Ministerio del Interior.
+Fuentes como The Hollywood Reporter y medios estadounidenses destacan el interés público en esta historia. El documental promete revelar detalles desconocidos sobre la **vida de Mangione** y su visión del sistema que lo llevó a actuar.
 
-La primera tarea será reparar la **torre de control del aeropuerto** y permitir la reapertura total de las instalaciones para la llegada de aviones civiles.
+Kendry Páez y Álex Arce finalizan como los más caros de Liga Pro
+================================================================
 
-Emmanuel Macron participará en reunión de crisis en París
----------------------------------------------------------
+Kendry Páez se posicionó como el futbolista de mayor valor de la Liga Pro y lo siguieron Álex Arce, de Liga, y otros tres jugadores de IDV.
+-------------------------------------------------------------------------------------------------------------------------------------------
 
-El presidente francés, **Emmanuel Macron**, presidirá esta tarde la primera **reunión de una célula de crisis en París.**
+![Kendry Páez, volante de Independiente del Valle, en la final de la Liga Pro ante la Liga de Quito de Álex Arce.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-16T171803.838.jpg)
 
-Claves para preparar tu vehículo ante la temporada de lluvias en Quito
+Con la final entre **Liga de Quito e Independiente del Valle**, la Liga Pro cerró su temporada 2024 y dirimió como campeones a los albos. Al término del ciclo, dos figuras de ambos clubes finalizaron como los futbolistas más costosos del torneo: **Kendry Páez y Álex Arce**.
+
+A pesar de que no consiguió hacerse con el título del campeonato nacional, **Páez** se posicionó como el futbolista de mayor valor dentro del certamen a sus 17 años. A su vez, en la campaña supero sus números del torneo previo de 2023.
+
+### Más noticias:
+
+* [¿Por qué es tendencia Kendry Páez en redes sociales?](https://www.elcomercio.com/deportes/futbol/kendry-paez-redes-sociales-tendencia.html "¿Por qué es tendencia Kendry Páez en redes sociales?")
+* [Alex Arce, el delantero de Liga de Quito que rompió varios récords](https://www.elcomercio.com/deportes/futbol/alex-arce-delantero-de-liga-de-quito-que-rompio-varios-records.html "Alex Arce, el delantero de Liga de Quito que rompió varios récords")
+* [Aficionados recuerdan a Esteban Paz tras título de Liga de Quito](https://www.elcomercio.com/deportes/esteba-paz-liga-quito-campeon-2024.html "Aficionados recuerdan a Esteban Paz tras título de Liga de Quito")
+
+**Arce**, figura de Liga de Quito que rompió récords en la temporada, consiguió el título liguero, mas quedó como escolta de **Páez**. El delantero paraguayo se coronó como el máximo goleador de su equipo y de la Liga Pro.
+
+Ambos futbolistas fueron valorados en la cima del ranking que realiza el sitio especializado Transfermarkt y que actualizó una vez que finalizase el torneo ecuatoriano. En lo que respecta a los cinco jugadores más valiosos, otros tres futbolistas de **Independiente del Valle** completan el listado.
+
+Kendry Páez, el futbolista más caro de la Liga Pro
+--------------------------------------------------
+
+**Kendry Páez** se ubicó en la cima de los futbolistas mejor valorados de la Liga Pro con una tasa de alrededor de **12 millones y medio de dólares**. Aquella cifra la ha mantenido desde junio del 2024, donde esta ascendió en aproximadamente dos millones.
+
+Durante el 2024, Páez estuvo presente con Independiente del Valle en la Liga Pro, la Copa Ecuador, la **Copa Libertadores y la Copa Sudamericana.** A su vez, anotó ocho goles y brindó cinco asistencias en 41 partidos.
+
+El volante también fue convocado para eliminatorias con la **Selección de Ecuador** y estuvo en la **Copa América**. Al cumplir los 18 años se podrá marchar al Chelsea de Inglaterra, equipo que ya lo fichó y lo mantiene a préstamo en Independiente.
+
+Álex Arce, el mejor ‘nueve’ de Ecuador y el segundo más caro
+------------------------------------------------------------
+
+![Álex Arce, delantero de Liga de Quito y goleador de la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/12/arce_treinta_1-1024x683.jpg)
+
+Álex Arce, delantero de Liga de Quito y goleador de la Liga Pro. Foto: API
+
+Después de su extraordinaria temporada con Liga de Quito, el valor de **Álex Arce** se elevó y lo posicionó tras Páez. El precio de los derechos económicos del futbolista está alrededor de los **cinco millones** de dólares.
+
+El futbolista aumentó considerablemente su costo, pues, a finales del 2023 fue tasado en alrededor de dos millones de dólares y **Liga de Quito** pagó 2,8. El incremento de tres millones llegó gracias a goles y a extraordinarios números[.](https://en.wikipedia.org/wiki/L.D.U._Quito "https://en.wikipedia.org/wiki/L.D.U._Quito")
+
+Con los albos, el futbolista paraguayo marcó **35 goles** y brindó cuatro asistencias en **46 partidos** con el equipo. A su vez, en la Liga Pro consiguió 28 tantos en 31 compromisos.
+
+Keny Arroyo, Yaimar Medina y Justin Lerma complentan los cinco más valiosos
+---------------------------------------------------------------------------
+
+![Keny Arroyo, jugador de Independiente del Valle en la final de la Copa Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/idv_finales_1-1024x683.jpg)
+
+Keny Arroyo, jugador de Independiente del Valle en la final de la Copa Ecuador. Foto: API
+
+Detrás de **Páez y Álex Arce** se ubican tres canteranos de Independiente del Valle que se consolidaron y sumaron minutos con el primer equipo en esta temporada. **Keny Arroyo, Yaimar Medina y Justin Lerma** -quien ya fue traspasado al Borussia Dortmund- completan el podio.
+
+Del trío, Arroyo y Aimar también fueron llamados a la **Selección de Ecuador** por el DT Sebastián Beccacece. En el caso de Lerma, este disputó el Sudamericano Sub-15 con la categoría juvenil.
+
+El valor de los derechos de Arroyo se estima en **cuatro millones de dólares**, mientras que el de Medina está en los tres y medio y el de Lerma en los tres.
+
+Liga de Quito ya tiene a su primer refuerzo para el 2025
+========================================================
+
+La dirigencia de Liga de Quito asegura la llegada de un nuevo jugador para reforzar su plantilla en busca del tricampeonato de la Liga Pro.
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+![Yeltzin Erique jugó en Orense en el 2024 y regresará a Liga de Quito para el 2025.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-16T181131.774.jpg)
+
+**Liga de Quito** se consagró campeón del fútbol ecuatoriano el pasado sábado 14 de diciembre, alcanzando su decimotercera estrella nacional tras conquistar la Liga Pro. Sin embargo, la dirigencia alba ya piensa en fortalecer su equipo para la próxima temporada.
+
+El presidente del club, **Isaac Álvarez**, anunció el primer refuerzo del campeón actual: un joven con gran proyección en el fútbol ecuatoriano.
+
+### Más noticias:
+
+* [Agente de Álex Arce no descarta su continuidad en Liga de Quito](https://www.elcomercio.com/deportes/futbol/alex-arce-transferencia-liga-brasil.html "Agente de Álex Arce no descarta su continuidad en Liga de Quito")
+* [Aficionados recuerdan a Esteban Paz tras título de Liga de Quito](https://www.elcomercio.com/deportes/esteba-paz-liga-quito-campeon-2024.html "Aficionados recuerdan a Esteban Paz tras título de Liga de Quito")
+* [Alex Arce, el delantero de Liga de Quito que rompió varios récords](https://www.elcomercio.com/deportes/futbol/alex-arce-delantero-de-liga-de-quito-que-rompio-varios-records.html "Alex Arce, el delantero de Liga de Quito que rompió varios récords")
+
+Liga de Quito confirma su primer refuerzo para el 2025
+------------------------------------------------------
+
+Para la temporada 2025, Liga de Quito contará con el regreso de uno de sus jugadores cedidos en 2024. No se trata de Alexander Alvarado, quien seguirá prestado a Universidad Católica por un año más, sino de **Yeltzin Erique**, una de las promesas del club.
+
+Erique, de 21 años, vuelve tras una temporada en **Orense**, equipo que no hizo efectiva la opción de compra del joven lateral izquierdo. El regreso del jugador fue confirmado por el presidente del club, Isaac Álvarez, en una entrevista con Área Deportiva.
+
+“**Con alegría puedo decirles que vuelve a Liga Deportiva Universitaria**, y le daremos su medalla de campeón”, expresó Álvarez.
+
+Yeltzin Erique, una apuesta a futuro
+------------------------------------
+
+Yeltzin Erique se unió a Liga de Quito en 2021, cuando tenía 18 años, y debutó como profesional en 2023 durante la Liga Pro. En 2024, fue **cedido a Orense** para ganar experiencia y minutos en primera división.
+
+En el equipo de El Oro, **Erique disputó 23 partidos, 21 de ellos como titular**, destacando tanto en la Liga Pro como en la Copa Ecuador. Con el “Vendaval Verde”, se consolidó como el lateral izquierdo titular, demostrando su calidad y madurez en el campo.
+
+Su regreso a Liga de Quito representa una oportunidad clave para competir por el puesto con **Leonel Quiñónez**, un jugador con más experiencia. Dada la gran cantidad de partidos que el equipo disputará en 2025, **Erique será una alternativa valiosa para Pablo ‘Vitamina’ Sánchez**, quien podrá darle descanso al lateral titular en ciertos compromisos.
+
+El regreso de Yeltzin Erique no solo refuerza la plantilla de Liga, sino que también confirma el compromiso del club con el desarrollo de sus jóvenes talentos.
+
+Streamer sufre asalto durante transmisión en vivo y todo queda grabado
 ======================================================================
 
-Las lluvias en Quito no solo complican la movilidad, sino que también incrementan los riesgos en las vías.
-----------------------------------------------------------------------------------------------------------
+Un robo impactante quedó registrado mientras la streamer transmitía en vivo.
+----------------------------------------------------------------------------
 
-![Tener en buen estado el vehículo disminuye los riesgos de siniestralidad.](https://www.elcomercio.com/wp-content/uploads/2024/12/Recomendaciones-lluvia-auto.jpg)
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/streamer-asalto-El-Comercio.jpg)
 
-La **lluvia** convierte el asfalto en una superficie resbalosa y aumenta el riesgo de siniestros de tránsito. Entre enero y noviembre de 2024, se reportaron 119 **siniestros** de **tránsito** relacionados con condiciones climáticas adversas en la capital del **Ecuador**, según Quito Data Vial[.](https://es.wikipedia.org/wiki/Accidente_de_tr%C3%A1nsito#:~:text=Los%20siniestros%20viales%20no%20son,mal%20estado%20de%20una%20calle%2F "https://es.wikipedia.org/wiki/Accidente_de_tr%C3%A1nsito#:~:text=Los%20siniestros%20viales%20no%20son,mal%20estado%20de%20una%20calle%2F")
+La **streamer Mica Ybañez** sufrió un violento robo mientras realizaba una transmisión en vivo. En menos de cuatro segundos, dos motochorros rompieron la ventanilla de su auto y se llevaron su celular.
+
+Todo quedó grabado en la transmisión. El incidente ocurrió mientras Ybañez, junto a su compañero Nico Acosta, conversaba con sus seguidores el martes 10 de diciembre de 2024.
+
+### Más noticias:
+
+* **[Eugenio Derbez anuncia posible retiro en 2025](https://www.elcomercio.com/afull/eugenio-derbez-anuncio-retiro-actuacion.html "https://www.elcomercio.com/afull/eugenio-derbez-anuncio-retiro-actuacion.html")** 
+* **[‘Marimar’ de Thalía es la mejor canción de telenovela](https://www.elcomercio.com/afull/marimar-thalia-billboard.html "https://www.elcomercio.com/afull/marimar-thalia-billboard.html")**
+
+La secuencia muestra cómo dos individuos con cascos se acercaron en moto. Uno de ellos rompió la ventanilla izquierda del vehículo con un golpe seco y se llevó el teléfono que estaba sobre el tablero.
+
+El estruendo de los vidrios sorprendió a los ocupantes del auto, quienes resultaron ilesos. Aunque el ladrón logró escapar, el dispositivo fue recuperado horas después, según confirmaron los propios involucrados.
+
+“El celular seguía grabando”: Las imágenes del escape
+-----------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/streamer-asalto-El-Comercio-1-1024x683.jpg)
+
+El robo, que quedó registrado desde dos ángulos, mostró al delincuente corriendo con el celular en la mano antes de subir a la moto de su cómplice.
+
+Los seguidores conectados a la transmisión en vivo pudieron observar la escena hasta que el ladrón, al percatarse de la cámara encendida, tapó el lente.
+
+Este tipo de robos, conocidos como “motochorros”, se ha vuelto cada vez más común en ciudades latinoamericanas.
+
+Tras el incidente, Nico Acosta, compañero de la **streamer** y manager del boxeador Maravilla Martínez, compartió en redes imágenes del auto dañado.
+
+En las fotografías se puede ver el vidrio estallado esparcido por el asiento del acompañante y el suelo del vehículo.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/streamer-asalto-El-Comercio-2-1024x683.jpg)
+
+> Amigo esto acaba de pasar en el stream de milica.  
+>   
+> Brunenger un poroto al lado de esto. [pic.twitter.com/GtinBfPOlc](https://t.co/GtinBfPOlc)
+> 
+> — Tomás 🇦🇹 ⭐⭐⭐ (@TZdelRojo) [December 10, 2024](https://twitter.com/TZdelRojo/status/1866615237027471820?ref_src=twsrc%5Etfw)
+
+Casos similares: Streamers bajo ataque en transmisiones
+-------------------------------------------------------
+
+El robo a Mica Ybañez no es un hecho aislado. En mayo, fue el turno de Francisco Cabanne, conocido como Topo Ramone, fue asaltado mientras circulaba en moto por la autopista Panamericana, en Tigre. El robo quedó registrado gracias a una cámara que llevaba en su casco.
+
+Otro caso ocurrió con el **streamer Bruno Kruszyn**, conocido como Brunenger, en 2023. Mientras realizaba una transmisión desde su auto en el barrio de Balvanera, dos motochorros rompieron la ventana del acompañante y se llevaron su celular. La transmisión se cortó de inmediato, y el streamer denunció el hecho a las autoridades.
+
+Cortes de luz en Quito este martes 17 de diciembre
+==================================================
+
+Los cortes de luz en Quito son de hasta dos horas para el sector residencial este martes 17 de diciembre.
+---------------------------------------------------------------------------------------------------------
+
+![La EEQ definió el cronograma de cortes de luz este martes 17 de diciembre.](https://www.elcomercio.com/wp-content/uploads/2024/12/cortes-luz-Quito-martes-17-diciembre.jpg)
+
+Los **cortes de luz** en **Quito** este **martes 17 de diciembre** de 2024 serán de dos horas para el sector residencial.
+
+La **Empresa Eléctrica Quito (EEQ)** definió la programación para mañana.
+
+### Más noticias:
+
+* [Gobierno ratifica el fin de los cortes de luz luego de más de 80 días de racionamientos](https://www.elcomercio.com/actualidad/ecuador/gobierno-ratifica-fin-cortes-luz-ecuador.html "Gobierno ratifica el fin de los cortes de luz luego de más de 80 días de racionamientos")
+* [Una unidad de la Central Alluriquín se conecta a la red eléctrica nacional](https://www.elcomercio.com/actualidad/negocios/una-unidad-de-la-central-alluriquin-se-conecta-a-la-red-electrica-nacional.html "Una unidad de la Central Alluriquín se conecta a la red eléctrica nacional")
+
+Horarios de cortes de luz en Quito este martes 17 de diciembre
+--------------------------------------------------------------
+
+Ecuador está a pocos días de finalizar con los cortes de energía programados, según el **Gobierno de Daniel Noboa.**
+
+El país atraviesa por una de las peores **sequías** de los últimos años y la dependencia de las **lluvias** para la generación energética hizo que se tome estas medidas.
+
+Según el Gobierno, hay varios factores que permiten acabar con los cortes de luz este **viernes 20 de diciembre.**
+
+Entre estas están: optimización de la **capacidad instalada**, inversión en activación o reactivación de proyectos energéticos.
+
+Además, del incremento de las lluvias que ha permitido subir los niveles de los canales y los embalses que abastecen las **hidroeléctricas**.
+
+Este lunes, también se puso en funcionamiento la Unidad 3 de la Central **Alluriquín**, que pertenece al complejo **Toachi-Pilatón**.
+
+Así, dentro del último período de cortes de luz que duró más de dos meses, en esta semana, es la primera vez que los apagones duran **dos horas** consecutivas.
+
+En **Quito**, los **horarios** se mantienen desde este lunes 16 hasta el jueves 19 de diciembre.
+
+Los feriados de **Navidad** y **Año Nuevo** los ecuatorianos tendrán servicio de energía eléctrica ininterrumpido, según las proyecciones del Gobierno.
+
+A continuación, los horarios de **cortes luz en Quito este martes 17 de diciembre** de 2024:
+
+Agente de Álex Arce no descarta su continuidad en Liga de Quito
+===============================================================
+
+Álex Arce jugó con la Selección de Paraguay la Copa América Estados Unidos y las eliminatorias 2026.
+----------------------------------------------------------------------------------------------------
+
+![Álex Arce celebra uno de los 35 goles en la temporada 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/arce_representante_1.jpg)
+
+**Miguel Gareppe**, representante de Álex Arce, por estas horas es uno de los hombres más buscados del fútbol de Ecuador y de Sudamérica en general. Su representado es uno de los goleadores de moda.
+
+La temporada 2024 de **Álex Arce con Liga de Quito se cerró con 35 goles en 46 partidos**. Marcó en Liga Pro, Copa Ecuador, Copa Libertadores, Sudamericana y Recopa Sudamericana, es decir, en todos los torneos que intervino.
+
+### Más noticias:
+
+* [Liga de Quito recibió mimos de sus rivales de la Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-quito-felicitaciones-equipo-liga-pro.html "Liga de Quito recibió mimos de sus rivales de la Liga Pro")
+* [‘Vitamina’ Sánchez y Alex Arce, figuras del título de Liga de Quito](https://www.elcomercio.com/deportes/futbol/vitamina-sanchez-alex-arce-liga.html "‘Vitamina’ Sánchez y Alex Arce, figuras del título de Liga de Quito")
+* [Liga de Quito queda a tres títulos de Barcelona Sporting Club](https://www.elcomercio.com/deportes/futbol/liga-quito-titulos-nacionales-ecuador.html "Liga de Quito queda a tres títulos de Barcelona Sporting Club")
+
+¿Cómo se define el futuro de Arce?
+----------------------------------
+
+El 2025 para Arce será clave para la continuidad de su carrera. A su **29 años de edad debe decidir con sabiduría el siguiente paso**, ya sea en Liga o siendo transferido a otro club.
+
+Lo primero cierto es que el contrato del **delantero paraguayo con LDU es hasta diciembre de 2026**, es decir, aún tiene por delante dos años más para seguir en el fútbol ecuatoriano, pero aquí entra en juego la parte económica.
+
+En un segundo ítem parecería imposible que un equipo de Ecuador, por más que se trate de Liga, **pueda competirle en lo monetario a cualquier equipo brasileño**, pero para que la transacción se concrete todas las partes involucradas deben estar satisfechas y de acuerdo.
+
+Isaac Álvarez, presidente de Liga de Quito, mencionó este lunes 16 de diciembre de 2024, **que el futuro de Arce aún no está definido y tampoco** descarta que siga la siguiente temporada para disputar la Copa Libertadores, uno de los objetivos de los albos.
+
+“Álex dejará Liga solo si hay algo que nos convenga a nosotros y al jugador, por ahora, no hay nada cerrado”, dijo en entrevista con Área Deportiva.
+
+Una tercera certeza es que ha tenido sondeos de distintos puntos de Sudamérica, **especialmente de Brasil**, la liga más poderosa de esta parte del mundo, tanto en el nivel futbolístico, como en el económico, pero una oferta como tal, no.
+
+Como cuarto elemento aparece **Gustavo Alfaro, exDT de Ecuador y actualmente en Paraguay**, que lo tiene como uno de los habituales de la escuadra paraguaya para las eliminatorias al Mundial 2026.
+
+El deseo que tiene Arce de seguir siendo tomado en cuenta y de **jugar una Copa del Mundo** hacen que su prioridad sea seguir en el fútbol sudamericano, por lo que una eventual propuesta de Europa o de otro punto del mundo no parecería tan atractiva, por el momento.
+
+El gran presente que vivió en Liga desde que empezó el año lo hizo debutar en el equipo nacional de su país, con el que jugó la Copa América de Estados Unidos, gracias a la confianza de Daniel Garnero.
+
+![Instagram del futbolista.](https://www.elcomercio.com/wp-content/uploads/2024/12/arce_representante_2-1024x683.jpg)
+
+Instagram del futbolista.
+
+Gareppe no destaca ninguna opción
+---------------------------------
+
+Desde este lunes Gareppe y Arce se encuentran en Paraguay para iniciar el periodo de vacaciones.
+
+A su arribo, el empresario habló con Cardinal Deportivo y **mencionó que una propuesta en firme por el jugador no ha llegado**, pero que sí ha tenido “sondeos” para saber cuál es la situación contractual del deportista.
+
+“(…) se ventila por ahí que hay ofertas, pero yo solo tuve sondeos”, indicó, al tiempo de dejar claro que toda negociación y decisión que se tome será con el conocimiento de Liga, equipo que “compró” los derechos económicos del delantero.
+
+Agregó que la idea es mantenerlo en el “continente” para que esté cerca de Paraguay y de su Selección.
+
+“(…) **si tuviera que seguir en Liga, con mucho gusto** (…) Ahora empezaremos a filtrar y definir para tomar la mejor decisión (…) Veremos si tienen el interés de recibir y escuchar ofertas”, finalizó.
+
+Confesionario – segunda temporada en proceso
+--------------------------------------------
+
+Este es el país con más fiestas populares y reinados de América Latina
+======================================================================
+
+Las fietas populares y reinados en Colombia son parte de un fenómeno cultural que resalta la diversidad, creatividad y alegría que caracterizan al país.
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Bailarines actúan por las calles durante la celebración del Festival Son de Negros en Santa Lucía (Colombia).](https://www.elcomercio.com/wp-content/uploads/2024/11/festival-colombia-efe.jpg)
+
+[América Latina](https://www.elcomercio.com/actualidad/mundo/cumbres-realizaron-daran-america-latina-2024.html "https://www.elcomercio.com/actualidad/mundo/cumbres-realizaron-daran-america-latina-2024.html") es conocida por celebrar **múltiples fiestas** populares incluso, cada fin de semana. Es así que los países destacan su **diversidad cultural.**
+
+### Más noticias
+
+* [Este es el país más grande del mundo](https://www.elcomercio.com/actualidad/mundo/este-pais-mas-grande-mundo.html "Este es el país más grande del mundo")
+* [La nieve llega a Europa Central y genera caos en carreteras](https://www.elcomercio.com/actualidad/mundo/nieve-llega-europa-central-genera-caos-carreteras.html "La nieve llega a Europa Central y genera caos en carreteras")
+* [Estos son los cinco países más poblados del mundo](https://www.elcomercio.com/actualidad/mundo/son-cinco-paises-poblados-mundo.html "Estos son los cinco países más poblados del mundo")
+
+Con más de **10 fiestas populares** y reinados en un solo fin de semana es Colombia el país que **destaca su diversidad** cultural y tradiciones únicas, de acuerdo con El Tiempo de Colombia.
+
+Colombia es un país que celebra su cultura
+------------------------------------------
+
+Las fietas populares y reinados en Colombia son parte de un fenómeno cultural que resalta la diversidad, creatividad y alegría que caracterizan al país.
+
+A lo largo del año, las celebraciones no cesan. Desde **carnavales y ferias** hasta reinados locales, nacionales e internacionales, prácticamente todos los municipios colombianos encuentran un motivo para festejar. Sin embargo, el fin de semana del puente festivo de **San Pedro** marca un récord con su intensidad y variedad de eventos, afirma diario El Tiempo de Colombia.
+
+San Pedro y otras fiestas impredibles
+-------------------------------------
+
+La festividad de San Pedro, que se celebra con gran entusiasmo en **Girardot, Espinal y Melgar,** es una de las principales protagonistas de este fin de semana. Esta fiesta incluye d**esfiles, música folclórica, bailes** y actos culturales que resaltan la tradición popular.
+
+Simultáneamente, en otras regiones del país se llevan a cabo festivales igualmente importantes. **El Festival del Joropo** en Villavicencio enaltece la música y **danza llanera**, mientras que el Festival del Bambuco en Neiva reúne lo mejor del folclor del Huila. El **Reinado del Café en Calarcá,** el Festival del Porro en San Pelayo y el **Festival de la Feijoa** en Tibasosa también forman parte de esta celebración nacional, señala El Tiempo de Colombia.
+
+Cada uno de estos eventos no solo resalta la riqueza cultural colombiana, sino que también dinamiza la economía local a través del **turismo, la gastronomía y el comercio.** Municipios enteros se convierten en escenarios de tradición y alegría, atrayendo visitantes nacionales e internacionales.
+
+Colombia es, sin lugar a dudas, el país de las reinas, las **festividades y los carnavales**. Su capacidad para celebrar y mantener vivas sus tradiciones lo posiciona como un destino cultural único en el mundo.
+
+El festival Son de Negro
+------------------------
+
+Son de negro es una danza que reivindica tradiciones afro en el norte de Colombia. Tiene su origen en la época de la Colonia en **Cartagena de Indias**, ciudad en donde desemboca el **Canal del Dique**, y que se extendió a lo largo de todas las poblaciones ubicadas a la orilla del cuerpo de agua artificial construido con mano de obra esclavizada e inaugurado en 1650, de acuerdo con Efe.
+
+El investigador cultural y promotor del festival Son de Negro Alex Jordan manifiesta a EFE que “las morisquetas que hacen los bailarines son una burla de los negros esclavizados hacia los españoles”.
+
+El experto anota que en un principio “los grupos eran solamente hombres, pero con los años incorporaron a mujeres que participan en los coros”.
+
+Huelga de hambre de migrantes pide a Joe Biden que los proteja
+==============================================================
+
+La huelga es organizada por la National TPS Alliance, dentro de la semana de acción contra las deportaciones.
+-------------------------------------------------------------------------------------------------------------
+
+![Miembros de la organización Alianza Nacional TPS (National TPS Alliance, en inglés) posan este lunes, al inicio de una huelga de hambre en la sede de la Junta General de la Iglesia y la Sociedad.](https://www.elcomercio.com/wp-content/uploads/2024/12/huelga-hambre-estados-unidos.jpg)
+
+Una **decena de personas migrantes** beneficiarias del **Estatus de Protección Temporal (**TPS) en Estados Unidos iniciaron este lunes, 16 de diciembre de 2024, una **huelga de hambre** en Washington. Su objetivo es pedir al presidente, [Joe Biden](https://es.wikipedia.org/wiki/Joe_Biden "https://es.wikipedia.org/wiki/Joe_Biden"), que **las proteja antes de la llegada** el próximo enero del republicano Donald Trump, quien prometió **deportaciones masivas**.
+
+### Más noticias
+
+* [Trump confirma que usará al Ejército para deportar a migrantes indocumentados](https://www.elcomercio.com/actualidad/mundo/trump-confirma-que-usara-a-fuerzas-armadas-para-deportar-a-migrantes-indocumentados.html "Trump confirma que usará al Ejército para deportar a migrantes indocumentados")
+* [Defensa de Trump pide desestimar su caso en Nueva York tras indulto al hijo de Biden](https://www.elcomercio.com/actualidad/mundo/defensa-de-trump-pide-desestimar-su-caso-en-nueva-york-tras-indulto-al-hijo-de-biden.html "Defensa de Trump pide desestimar su caso en Nueva York tras indulto al hijo de Biden")
+* [Donald Trump agradece a Joe Biden una transición pacífica](https://www.elcomercio.com/actualidad/mundo/trump-destaca-politica-dura-agradece-biden-transicion-pacifica.html "Donald Trump agradece a Joe Biden una transición pacífica")
+
+Miembros de la organización **Alianza Nacional TPS** (National TPS Alliance, en inglés) dieron comienzo a esta acción con la que quieren que Biden les conceda una **extensión de su TPS** que les permitiría residir en el país legalmente durante **18 meses** más y complicaría que **Trump les pudiese deportar**.
+
+El TPS, un permiso que se otorga a **personas provenientes** de países en crisis y con el que millones de migrantes pudieron **permanecer en el país durante años,** se encuentra amenazado por la llegada a la Casa Blanca de Trump, porque aunque no especificó **cómo va aplicar su plan**, prometió **mano dura** en materia migratoria.
+
+Testimonios de migrantes
+------------------------
+
+Donis Hernández, originario de El Salvador, es una de las personas que **se unió a la huelga** para exigir esta renovación. Su permiso caduca el 9 de marzo y teme que **si no consigue renovarlo** durante el mandato de Biden tampoco pueda hacerlo después.
+
+“El miedo más grande que tenemos es que **va a haber familias separada**s. Llevo más de 20 años aquí y en mi familia hay personas que se **podrían quedar** y **otras que no**“, explicó.
+
+Como él, **Neida Mejía**, nacida en Honduras y beneficiaria del TPS **desde hace más de dos décadas**, tiene permiso hasta el próximo julio y teme que si la deportan no pueda ver más a sus nietos.
+
+“Tengo miedo de que nos separen, **ellos han nacido aquí** y tienen permiso para quedarse”, aseguró muy emocionada.
+
+Esta huelga, organizada por la **National TPS Alliance** está dentro de la semana de acción contra las deportaciones que convocó el Movimiento por una **Reforma Migratoria Justa** (FIRM, por sus siglas en inglés) coincidiendo con el día internacional del migrante, que se celebra el miércoles 18.
+
+“Conocemos las **amenazas que se avecinan** con la Administración de Trump”, dijo en una llamada con periodistas Jose Palma, coordinador de la Alianza. “La **huelga de hambre es para meter presión** y exigir a Biden a que tome medidas antes de Navidad”.
+
+Los huelguistas recuerdan que **gracias a la lucha** y a acciones como estas ya consiguieron permanecer en el país durante el primer mandato de Trump (2017-2021).
+
+“Su **anterior llegada al poder fue un desastre** para nosotros porque el TPS fue cancelado. Tuvimos que lucharlo en las cortes y al final conseguimos **quedarnos gracias a ganar extensión a extensión**“, contó Soledad Miranda, una salvadoreña que lleva más de 30 años en el país.
+
+Además de pedir una nueva extensión, la mujer reprocha a Biden que “prometiese que iba a trabajar durante sus primeros 100 días sobre la inmigración” y que casi al final de su mandato su situación, como la de tantos otros, siga sin regularizarse.
+
+“Pagamos impuestos aquí, creo que es justo que después de todos estos años tengamos ya una residencia, pero ahora no tenemos **ni residencia ni extensión**“, lamentó.
+
+Pese a que la huelga inició con 11 personas, esperan que puedan llegar a ser hasta 25 llegados de todas partes del país.
+
+Los migrantes en huelga permanecen en una iglesia metodista cercana al **Tribunal Supremo** del país, tienen provisiones de **agua e isotónico** y se someterán regularmente a pruebas de tensión para comprobar que se encuentran bien.
+
+Evita que Alexa diga groserías si tienes niños con esta guía
+============================================================
+
+Protege a tus hijos ajustando Alexa para evitar groserías.
+----------------------------------------------------------
+
+![Imagen referencial de un asistente virtual.](https://www.elcomercio.com/wp-content/uploads/2024/12/alexa-El-Comercio.jpg)
+
+Tener un asistente virtual como **Alexa** en casa puede facilitar muchas tareas, pero también es fundamental configurar el dispositivo adecuadamente si hay **niños** en el hogar.
+
+Gracias a herramientas como el **Filtro de Contenido Explícito** y el **Modo Hogar Infantil**, es posible asegurar una experiencia adecuada y libre de lenguaje inapropiado.
+
+**Activa el Filtro de Contenido Explícito**
+-------------------------------------------
+
+El primer paso para garantizar que Alexa no diga groserías es activar el Filtro de Contenido Explícito. Este ajuste bloquea música, respuestas y otros contenidos que puedan incluir lenguaje ofensivo.
+
+Para activarlo, abre la aplicación de Alexa en tu dispositivo móvil y sigue estos pasos:
+
+1. Accede al menú de ‘Configuración’.
+2. Selecciona ‘Preferencias del dispositivo’.
+3. Activa la opción ‘Filtro de contenido explícito’.
+
+Según Amazon (fuente directa desde su centro de soporte), este filtro es efectivo para evitar que Alexa reproduzca música o respuestas con lenguaje inapropiado.
+
+**Habilita el Modo Hogar Infantil**
+-----------------------------------
+
+El Modo Hogar Infantil es una herramienta útil para hogares con niños, ya que aplica controles más estrictos al dispositivo. Esta función también permite personalizar respuestas y evitar contenido no apto.
+
+1. En la aplicación de Alexa, ve a la sección de ‘Dispositivos’.
+2. Selecciona el dispositivo Alexa que deseas configurar.
+3. Activa el Modo Hogar Infantil.
+
+Este ajuste también limita el acceso a ciertas skills que no cumplen con las normas de contenido para niños, según TechRadar, que analizan cómo optimizar dispositivos inteligentes en hogares familiares.
+
+**Revisa y gestiona las skills activas**
+----------------------------------------
+
+Las skills en Alexa son funciones adicionales que amplían sus capacidades. Sin embargo, algunas de estas pueden incluir lenguaje inapropiado. Para revisarlas:
+
+1. Abre el menú ‘Skills y Juegos’ en la aplicación de Alexa.
+2. Identifica y desactiva aquellas que no sean adecuadas.
+
+Como explica la página oficial de Alexa, habilidades como ‘Akinator’ o juegos de preguntas pueden ser personalizables, pero es importante supervisarlas si hay niños presentes.
+
+**Ajusta las respuestas de Alexa**
+----------------------------------
+
+Alexa también puede emitir respuestas humorísticas o sarcásticas que podrían ser inapropiadas para niños. Desactívalo desde ‘Respuestas de Alexa’ en la configuración.
+
+1. Ve a ‘Configuración’ en la aplicación de Alexa.
+2. Busca la opción ‘Respuestas de Alexa’ y desactívala.
+
+Este ajuste ayuda a evitar interacciones no deseadas, como señala el portal CNET en su guía sobre configuraciones de asistentes inteligentes.
+
+**Supervisa el historial de comandos**
+--------------------------------------
+
+El historial de voz de Alexa guarda todas las interacciones. Revisar y eliminar aquellas que resulten inapropiadas es un buen paso adicional.
+
+1. Entra al menú de configuración en la aplicación.
+2. Ve a la sección ‘Historial de Voz’.
+3. Borra cualquier interacción que consideres inconveniente.
+
+Comisión admitió impugnación contra candidata a jueza de la Corte Constitucional
+================================================================================
+
+La Comisión Calificadora admite impugnación contra Angélica Porras; deberá responder en 5 días para defender su candidatura.
+----------------------------------------------------------------------------------------------------------------------------
+
+![Edificio de la Corte Constitucional del Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-16T173606.754.jpg)
+
+La **Comisión Calificadora**, encargada de la **renovación parcial de la Corte Constitucional del Ecuador 2024**, admitió a trámite una de las impugnaciones presentadas contra la candidata **Angélica Ximena Porras Velasco**.
+
+### Más noticias
+
+* [Corte Constitucional se pronunció sobre propuesta de Daniel Noboa respecto a presos](https://www.elcomercio.com/actualidad/seguridad/corte-constitucional-pronuncio-propuesta-daniel-noboa-presos.html "Corte Constitucional se pronunció sobre propuesta de Daniel Noboa respecto a presos")
+* [Verónica Abad y su revés en la Corte Constitucional, ¿qué recursos le quedan?](https://www.elcomercio.com/actualidad/politica/veronica-abad-reves-corte-consitucional-que-recursos-quedan.html "Verónica Abad y su revés en la Corte Constitucional, ¿qué recursos le quedan?")
+
+La impugnación fue interpuesta por **Mónica Jaramillo Jaramillo**, del **Observatorio de Control Ciudadano**, quien cuestionó la **probidad** de la postulante.
+
+Candidata a la Corte Constitucional deberá responder en un plazo máximo, según la Comisión Calificadora
+-------------------------------------------------------------------------------------------------------
+
+En la resolución emitida el 14 de diciembre, la Comisión notificó formalmente a Angélica Porras sobre la impugnación y estableció un plazo de **cinco días** para que presente su respuesta.
+
+El trámite debe realizarse en la Secretaría Técnica de la Función de Transparencia y Control Social, en horario de **8h30 a 16h30**, según lo establecido en el artículo 19 del Reglamento para la renovación parcial de la Corte Constitucional.
+
+Asimismo, la notificación fue **extendida a Jaramillo a través del correo electrónico proporcionado** en la solicitud, conforme al procedimiento formal.
+
+> 📍URGENTE  
+> La impugnación presentada contra la candidata a jueza de la Corte Constitucional, doctora Angélica Porras, ha sido admitida por la Comisión Calificadora. En consecuencia, se dispone el traslado de la misma para que la impugnada pueda ejercer su derecho a la defensa.… [pic.twitter.com/F5SPTOqYdm](https://t.co/F5SPTOqYdm)
+> 
+> — Mónica Jaramillo (@MoniJaramilloEc) [December 16, 2024](https://twitter.com/MoniJaramilloEc/status/1868743940977103107?ref_src=twsrc%5Etfw)
+
+La impugnación de Mónica Jaramillo no es la única presentada contra Angélica Porras. La fiscal general, Diana Salazar, así como un grupo de **asambleístas y candidatos**, también ingresaron solicitudes en contra de la postulante.
+
+Santiago Becdach, candidato a parlamentario andino por el movimiento Construye, informó que el CNE admitió a trámite la impugnación presentada por su grupo.
+
+Renovación de jueces en la Corte Constitucional
+-----------------------------------------------
+
+El proceso de renovación parcial de la Corte Constitucional incluye la selección de jueces que deben cumplir con altos estándares de probidad y méritos. Angélica Porras, propuesta por la Asamblea Nacional, ha sido una de las candidatas más cuestionadas en este proceso.
+
+La Comisión Calificadora resolvió que la publicación de la resolución se realice en la página web de la **Función de Transparencia y Control Social** para garantizar la transparencia del procedimiento.
+
+Con la llegada de las lluvias, Quito mira hacia quebradas y sumideros
+=====================================================================
+
+El Municipio de Quito invirtió casi 5 millones de dólares en quebradas y sumideros para prevenir de inundaciones en la capital.
+-------------------------------------------------------------------------------------------------------------------------------
+
+![El Municipio de Quito lleva adelante trabajos de prevención en quebradas ante la llegada del invierno.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-5-1.jpg)
+
+El **invierno** con sus **lluvias** ha llegado. Y por su geografía particular, **Quito** mira hacia las **quebradas** y los **sumideros**. Para evitar cualquier contratiempo -tragedia, incluso-, el Municipio ha llevado adelante un plan con una inversión de 4,7 millones de dólares en limpieza, obras preventivas y reposición de rejillas.
+
+### Más noticias
+
+* [Revisión y matriculación vehicular en 2025 será diferente en Quito](https://www.elcomercio.com/actualidad/quito/revision-vehicular-matriculacion-diferente-quito.html "Revisión y matriculación vehicular en 2025 será diferente en Quito")
+* [Concejo de Quito debate reforma a la Patente. ¿Cuánto deberá pagar?](https://www.elcomercio.com/actualidad/quito/reduccion-patente-debate-concejo-quito.html "Concejo de Quito debate reforma a la Patente. ¿Cuánto deberá pagar?")
+* [Últimos días para matriculación y revisión técnica vehicular en Quito](https://www.elcomercio.com/actualidad/quito/ultimos-dias-para-matriculacion-y-revision-tecnica-vehicular-en-quito.html "Últimos días para matriculación y revisión técnica vehicular en Quito")
+
+Limpieza de los sumideros
+-------------------------
+
+La **Empresa Pública Metropolitana de Agua Potable y Saneamiento (Epmaps)** asignó **1,4 millones de dólares** para la limpieza y mantenimiento de más de **200 000 sumideros** distribuidos por toda la ciudad. Este trabajo, que se realiza de forma **preventiva**, busca garantizar el correcto flujo de agua pluvial y evitar **taponamientos** que puedan causar **inundaciones** en calles y avenidas principales.
+
+Según las autoridades municipales, estas labores incluyen el retiro de desechos como hojas, plásticos y tierra, que tienden a acumularse con las lluvias intensas. Además, el Cabildo hace **un llamado** a la **ciudadanía** para que no arroje basura en la vía pública, ya que esto contribuye directamente al **colapso de los sistemas de drenaje.**
+
+Intervención del Municipio en quebradas
+---------------------------------------
+
+Paralelamente, el Municipio de Quito invierte **3,3 millones de dólares** en el **mantenimiento** y **limpieza** de más de **200 quebradas** que atraviesan la urbe. Estas acciones buscan mitigar el riesgo de deslizamientos de tierra y desbordamientos, problemas recurrentes en zonas de alta vulnerabilidad.
+
+Los trabajos incluyen la **remoción de sedimentos**, desechos sólidos y vegetación que obstruyen el flujo natural del agua. Además, se han realizado **inspecciones técnicas** para identificar posibles puntos críticos y reforzar taludes.
+
+Según **Verónica Sánchez**, gerente de la Epmaps, se realizan intervenciones clave en varias quebradas de la ciudad. Entre ellas, está la de **El Tejado, ubicada en La Comuna.**
+
+“Ya terminaron los trabajos en la ampliación del cuenco en la zona baja y otros que se desarrollan en la parte alta con una estructura metálica para hacer captación de escombros y material para prevenir futuros deslaves”, indicó Sánchez.
+
+Esta obra busca mejorar la **capacidad de retención** y el **manejo seguro del agua y los sedimentos** en esta quebrada estratégica.
+
+En cambio, en las **quebradas Caicedo y Osorio,** en el norte de la ciudad, se reforzaron estructuras y se realizó una limpieza profunda para garantizar el flujo de agua.
+
+En total, se han intervenido las **142 estructuras existentes en las 101 quebradas de la ciudad.** Estas labores incluyen el desalojo de **68 000 m³ de material acumulado**, como sedimentos y desechos sólidos, un volumen significativo que permite mitigar riesgos de colapsos y deslizamientos[.](https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito "https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito")
+
+El mal recuerdo de las lluvias de invierno
+------------------------------------------
+
+Históricamente, Quito ha enfrentado **tragedias asociadas a los deslaves** provocados por las lluvias. Uno de los casos más recientes ocurrió en enero de 2022, cuando un aluvión en el sector de **La Gasca** dejó **28 fallecidos,** 48 heridos y cientos de viviendas afectadas.
+
+El **deslave** de La Gasca fue causado por la **acumulación de sedimentos** y una lluvia excepcionalmente intensa. Los **sistemas de drenaje se saturaron** y generaron una corriente de lodo y escombros que arrasó con todo lo que encontró a su paso.
+
+Otro evento significativo ocurrió en el **2017**, en el barrio de **El Pinar Alto**, donde varias viviendas fueron destruidas debido a la **saturación de un talud.** Este hecho subrayó la importancia de monitorear de manera constante las zonas de riesgo y garantizar la implementación de obras de mitigación.
+
+Fiscalía de Bolivia solicita captura de Evo Morales por trata de personas
+=========================================================================
+
+Cuando se emitió la orden de captura para Morales, sus seguidores realizaron fuertes bloqueos de carreteras por 24 días.
+------------------------------------------------------------------------------------------------------------------------
+
+![Evo Morales en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/12/evo-morales-efe.jpg)
+
+Una f**iscal boliviana** informó este lunes, 16 de diciembre de 2024, que se presentó una **“imputación formal**” en contra del expresidente [Evo Morales](https://es.wikipedia.org/wiki/Evo_Morales "https://es.wikipedia.org/wiki/Evo_Morales") (2006-2019) por el “**delito de trata de personas agravado**” y se solicitó la alerta migratoria.
+
+### Más noticias
+
+* [Evo Morales acusa a Donald Trump de financiar un ‘golpe de Estado’ en Bolivia](https://www.elcomercio.com/actualidad/mundo/evo-morales-acusa-donald-trump-financiar-golpe-estado-bolivia.html "Evo Morales acusa a Donald Trump de financiar un ‘golpe de Estado’ en Bolivia ")
+* [Evo Morales deja de ser el líder del MAS después de casi tres décadas tras fallo judicial](https://www.elcomercio.com/actualidad/mundo/evo-morales-deja-ser-lider-mas-despues-casi-tres-decadas-tras-fallo-judicial.html "Evo Morales deja de ser el líder del MAS después de casi tres décadas tras fallo judicial")
+* [Tribunal Constitucional de Bolivia ratifica que Evo Morales no puede ser candidato](https://www.elcomercio.com/actualidad/tribunal-constitucional-de-bolivia-ratifica-que-evo-morales-no-puede-ser-candidato.html "Tribunal Constitucional de Bolivia ratifica que Evo Morales no puede ser candidato")
+
+La fiscal departamental de **Tarija Sandra Gutiérrez** señaló que hoy se presentó “una imputación formal contra el señor **Evo Morales Aima** y la señora **Idelsa Pozo Saavedra** (madre de la presunta víctima) por el delito de trata de personas agravado”. Están a la espera de “que el juez cautelar **señale la fecha y hora** para que se lleve a cabo la audiencia de medidas cautelares”.
+
+Según la denuncia, Morales cometió **delitos de trata de personas** y estupro con una menor de edad con la que supuestamente **tuvo un hijo**, además, en el proceso se indica que los padres de la supuesta víctima se “lucraron” con ella al **entregarla al expresidente a cambio de “favores”**.
+
+La víctima presuntamente pertenecía a un **grupo juvenil** creado por el exmandatario durante su Presidencia, llamado ‘**Generación Evo**’.
+
+La fiscal afirmó también que se solicitó la **alerta migratoria para Morales**, así como para Pozo.
+
+Una orden de aprehensión en contra de Morales ya fue emitida el **16 de octubre** y no pudo ejecutarse por varias razones, como consta en **“muchos informes”** que recibió de la Policía en los cuales se reporta que no ha sido posible dar con su paradero.
+
+“Uno de los informes señala que **policías de inteligencia** procedieron a buscar a Morales en (la población) de Villa 14 de Septiembre, en el Chapare, porque señaló el lugar (su) domicilio real, pero durante la diligencia se constató que no estaba ahí”, explicó la fiscal.
+
+Además, los policías informaron que **trataron de buscar en otros domicilios,** y luego de “labores de vigilancia”, Morales “no se encontraba habitando esos lugares”.
+
+Cuando se emitió la orden de captura para Morales, sus seguidores realizaron **fuertes bloqueos de carreteras** por 24 días especialmente en el **centro del país** para defenderlo, una de las razones por las que la Policía no pudo ingresar al Chapare, bastión político y sindical del exmandatario, mencionó la fiscal.
+
+Proteger agentes de seguridad
+-----------------------------
+
+Y otras de las razones por las que no se ejecutó la **orden de aprehensión** fue por proteger a los agentes de seguridad, debido a que durante el **bloqueo de carreteras a**lgunos de ellos fueron brutalmente golpeados y heridos.
+
+“Pese a las gestiones realizadas en el **marco del cumplimiento de la orden de aprehensión**, la ejecución contra Evo Morales enfrenta riesgos técnicos y operativos significativos”, concluye un informe de la Policía, leído por la fiscal.
+
+“Acá no hay nada político, estamos resguardando los **derechos de una persona que fue ultrajada,** con el visto bueno de sus padres. Vamos a exponer todas estas situaciones (ante el juez)”, precisó la fiscal.
+
+Gutiérrez denunció el 3 de octubre el entonces fiscal general de Bolivia, **Juan Lanchipa**, la apartó de su cargo y **frenó una orden de captura contra Morales** que ella había emitido.
+
+Días después Gutiérrez fue restituida en la Fiscalía y Lanchipa renunció como fiscal general.
+
+Evo Morales continúa en Chapare
+-------------------------------
+
+Desde octubre, **Morales no ha salido del Chapare**, y afirmó que se encuentra protegido en todo momento por al **menos “500 personas”.**
+
+Por otro lado, en Argentina se abrió un caso contra Morales por la **“presunta comisión de delitos de trata de personas y abuso sexual”**, durante su estadía en ese país en 2019 cuando fue acogido con el estatus de **refugiado** por el entonces presidente, **Alberto Fernández** (2019-2023).
+
+Imágenes del adiós a Amparo Guillén en un emotivo velorio en el Palacio de Cristal
+==================================================================================
+
+La actriz Amparo Guillén falleció a los 71 años.
+------------------------------------------------
+
+![Velorio de la actriz ecuatoriana Amparo Guillén en el Palacio de Cristal.](https://www.elcomercio.com/wp-content/uploads/2024/12/amparo-guillen-El-Comercio-8.jpg)
+
+El mundo del espectáculo ecuatoriano está de luto tras la partida de la icónica **actriz Amparo Guillén**, quien falleció el pasado 12 de diciembre en Colombia a causa de un infarto.
+
+Reconocida como la “eterna Lupita” de la serie ‘Mis Adorables Entenados’, Guillén fue despedida este lunes 16 de diciembre de 2024 en una emotiva ceremonia realizada en el **Palacio de Cristal**, ubicado en el Malecón 2000, donde familiares, amigos y admiradores se reunieron para rendirle homenaje.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/amparo-guillen-El-Comercio-2-1024x683.jpg)
+
+Familiares y amigos le dan el último adiós a Amparo Guillén.
+
+Amparo Guillén fue una figura clave en la televisión y el teatro nacional, dejando una marca indeleble en el público ecuatoriano con su papel en la famosa serie de los años 80.
+
+### Más noticias
+
+* **[Un hombre acudió al hospital por vómitos y fue diagnosticado con cáncer un año después: su familia recibirá 100 000 euros](https://www.elcomercio.com/tendencias/salud/hombre-hospital-diagnosticado-cancer.html "https://www.elcomercio.com/tendencias/salud/hombre-hospital-diagnosticado-cancer.html")**
+* **[La receta que encontró la ciencia para reducir la ira](https://www.elcomercio.com/tendencias/la-receta-que-encontro-la-ciencia-para-reducir-la-ira.html "https://www.elcomercio.com/tendencias/la-receta-que-encontro-la-ciencia-para-reducir-la-ira.html")**
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/amparo-guillen-El-Comercio-1-1024x683.jpg)
+
+El actor Héctor Garzón que interpretó a Rosendo en ‘Mis adorables entenados’ estuvo presente.
+
+Su carrera la llevó también a participar en producciones como ‘3 Familias’ y ‘Aída’. Además de su talento actoral, Guillén fue reconocida por su carácter resiliente, enfrentando diversas luchas personales, incluyendo problemas de salud y adicción.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/amparo-guillen-El-Comercio-7-1024x683.jpg)
+
+Familiares y amigos le dan el último adiós a Amparo Guillén.
+
+La ceremonia contó con la presencia de figuras del medio artístico como Sandra Pareja y Héctor Garzón, además de un grupo de fieles seguidores que no quisieron perderse la oportunidad de despedir a la emblemática artista.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/amparo-guillen-El-Comercio-6-1024x683.jpg)
+
+Familiares y amigos le dan el último adiós a Amparo Guillén.
+
+También fue notable el contexto familiar, ya que apenas dos días después del deceso de la actriz, su hijo falleció en Cali, Colombia, debido a un traumatismo craneal.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/amparo-guillen-El-Comercio-5-1024x683.jpg)
+
+Familiares y amigos le dan el último adiós a Amparo Guillén.
+
+La familia de la actriz atraviesa un momento delicado; su hija, radicada en Estados Unidos, se encuentra a cargo de los trámites funerarios de ambos.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/amparo-guillen-El-Comercio-4-1024x683.jpg)
+
+La actriz Sandra Pareja es una de las colegas de Guillén que asistió al velorio.
+
+Con más de cuatro décadas de carrera y un legado marcado por su talento y lucha constante, Amparo Guillén permanecerá en el corazón de los ecuatorianos como un símbolo de fortaleza, dedicación y amor por las artes.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/amparo-guillen-El-Comercio-3-1024x683.jpg)
+
+Familiares y amigos le dan el último adiós a Amparo Guillén.
+
+WhatsApp lanza nueva función para llamadas telefónicas, ¿de qué se trata? 
+==========================================================================
+
+WhatsApp introduce función que permite llamar sin guardar contactos.
+--------------------------------------------------------------------
+
+![WhatsApp lanza una nueva función para realizar llamadas. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/12/WhatsApp-marcador.jpg)
+
+**[WhatsApp](https://www.whatsapp.com/channel/0029VaRu8WFJ3jutKNlE4e3a "https://www.whatsapp.com/channel/0029VaRu8WFJ3jutKNlE4e3a")**, la popular **aplicación de mensajería instantánea**, ha introducido una nueva función que permite a los usuarios **realizar llamadas telefónicas** directamente desde la aplicación, sin necesidad de **guardar números** en su lista de contactos.  
+
+### Más noticias
+
+* [WhatsApp presenta nuevos iconos para mejorar la comunicación](https://www.elcomercio.com/tecnologia/whatsapp-iconos-actualizacion-redes-sociales.html "https://www.elcomercio.com/tecnologia/whatsapp-iconos-actualizacion-redes-sociales.html") 
+* [Conoce el nombre con el que te tienen guardado en WhatsApp](https://www.elcomercio.com/tecnologia/whatsapp-nombre-tutorial-telefonia.html "https://www.elcomercio.com/tecnologia/whatsapp-nombre-tutorial-telefonia.html") 
+
+Esta innovación busca **desligar WhatsApp de nuestra lista de contactos**, lo que facilita la comunicación con personas que no están en nuestra agenda. La función se encuentra actualmente en **fase beta** y se espera que esté disponible para un público más amplio en los próximos días. 
+
+**¿Qué es el nuevo marcador de WhatsApp?** 
+-------------------------------------------
+
+El nuevo **marcador de teléfono de WhatsApp** permite a los usuarios ingresar un número y **realizar llamadas** sin tener que **abrir la aplicación** de teléfono del dispositivo. Esta funcionalidad se asemeja al **marcador tradicional** que se encuentra en los teléfonos móviles, pero está integrada dentro de WhatsApp. Según **WABetaInfo**, esta herramienta ofrece una **mayor flexibilidad y conveniencia**, especialmente para interacciones breves o comunicaciones temporales, a decir de [20Minutos](https://www.20minutos.es/tecnologia/aplicaciones/whatsapp-nuevo-marcador-realizar-llamadas-telefono-5524553/ "https://www.20minutos.es/tecnologia/aplicaciones/whatsapp-nuevo-marcador-realizar-llamadas-telefono-5524553/").  
+
+**Cómo funciona el nuevo marcador** 
+------------------------------------
+
+![Foto: wabetainfo.com.](https://www.elcomercio.com/wp-content/uploads/2024/12/WhatsApp-Marcador-1-1024x683.jpg)
+
+Foto: wabetainfo.com.
+
+Para realizar una llamada a través del **nuevo marcador**, los usuarios deben seguir estos pasos: 
+
+* Abrir WhatsApp en su dispositivo. 
+
+* Tocar la pestaña “Llamadas”, que aparece como un botón flotante adicional. 
+
+* Ingresar el número de teléfono deseado. 
+
+Si el número está asociado a una **cuenta de WhatsApp**, se podrá **iniciar la llamada** al pulsar el botón correspondiente. 
+
+Esta funcionalidad no solo simplifica el proceso de hacer llamadas, sino que también permite a los usuarios **guardar el número ingresado** como un nuevo contacto o agregarlo a una tarjeta existente en su **libreta de direcciones**, siguiendo con 20Minutos. 
+
+**Diferencias con las llamadas tradicionales** 
+-----------------------------------------------
+
+El nuevo sistema de **llamadas de WhatsApp** presenta varias ventajas sobre las **llamadas telefónicas convencionales**: 
+
+* **Conveniencia:** No es necesario salir de la aplicación para realizar una llamada. 
+
+* **Privacidad:** Las llamadas realizadas a través de WhatsApp pueden ofrecer un nivel adicional de privacidad en comparación con las llamadas tradicionales 
+
+* **Accesibilidad:** Los usuarios pueden llamar a cualquier número asociado con WhatsApp sin necesidad de guardarlo previamente en su dispositivo. 
+
+Esta función es especialmente útil en situaciones donde se necesita **comunicarse rápidamente** sin pasar por el proceso de **agregar un contacto**. 
+
+**Disponibilidad y futuro del marcador** 
+-----------------------------------------
+
+La función del **nuevo marcador** ya está activa para algunos **usuarios beta** y se espera que se implemente gradualmente para más personas. **Meta**, la empresa matriz de WhatsApp, continúa con sus innovaciones para **mejorar la experiencia del usuario** y ampliar las capacidades de la aplicación. 
+
+Con esta actualización, WhatsApp parece dar pasos hacia convertirse en una **‘superapp’**, al integrar funciones que tradicionalmente pertenecían a otras aplicaciones. Esta estrategia podría cambiar radicalmente cómo los usuarios interactúan no solo con sus contactos, sino también con nuevas personas, según se cita en el [blog de la aplicación](https://blog.whatsapp.com/talk-to-meta-ai-on-whatsapp?lang=es_LA "https://blog.whatsapp.com/talk-to-meta-ai-on-whatsapp?lang=es_LA").  
+
+### Te recomendamos:
+
+Opciones de estacionamiento en Quito en época navideña
+======================================================
+
+Quito dispone de un total de 13 875 plazas de estacionamiento distribuidas en toda la ciudad.
+---------------------------------------------------------------------------------------------
+
+![Los estacionamientos públicos se encuentran ubicados en diversos puntos de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/12/Estacionamientos-Quito-Navidad.jpg)
+
+Durante la época **navideña**, caracterizada por un aumento en las compras y los paseos, el sistema de estacionamientos de **Quito**, gestionado por la Empresa Pública Metropolitana de Movilidad y Obras Públicas (**Epmmop**), ofrece diferentes opciones para dejar los vehículos[.](https://es.wikipedia.org/wiki/Navidad "https://es.wikipedia.org/wiki/Navidad")
 
 Más noticias
 ------------
 
-* [Toma precauciones al conducir durante las lluvias](https://www.elcomercio.com/actualidad/ecuador/lluvia-conducir-recomendaciones-siniestros-calles.html "Toma precauciones al conducir durante las lluvias")
-* [Fuertes lluvias en Cuenca continúan; los ríos recuperan sus caudales](https://www.elcomercio.com/actualidad/cuenca/fuertes-lluvias-cuenca-rios-caudales.html "Fuertes lluvias en Cuenca continúan; los ríos recuperan sus caudales")
-* [¿Cómo afectan los siniestros de tránsito por consumo de alcohol a Quito?](https://www.elcomercio.com/actualidad/quito/como-afectan-los-siniestros-de-transito-por-consumo-de-alcohol-a-quito.html "¿Cómo afectan los siniestros de tránsito por consumo de alcohol a Quito?")
+* [Movilidad en Quito, cómo los pregones y compras navideñas afectarán el tráfico](https://www.elcomercio.com/actualidad/quito/movilidad-pregones-compras-navidad-quito.html "Movilidad en Quito, cómo los pregones y compras navideñas afectarán el tráfico")
+* [Navidad en Ecuador, tradiciones, eventos y gastronomía que impulsan el turismo local](https://www.elcomercio.com/actualidad/ecuador/navidad-ecuador-lugares-turismo-gastronomia.html "Navidad en Ecuador, tradiciones, eventos y gastronomía que impulsan el turismo local")
+* [Vacaciones escolares por Navidad y Año Nuevo se extendieron, ¿cómo se recuperarán?](https://www.elcomercio.com/actualidad/ecuador/vacaciones-escolares-navidad-nuevo-extendieron-recuperaran.html "Vacaciones escolares por Navidad y Año Nuevo se extendieron, ¿cómo se recuperarán?")
 
-Factores como la **reducción de la visibilidad** y el **mantenimiento vehicular** desempeñan un papel clave en los siniestros registrados.
+A continuación, se detallan las **características** y **ubicaciones** de los estacionamientos disponibles:
 
-En este contexto, presentamos una serie de **recomendaciones** para **reducir riesgos** al conducir durante la **temporada** **lluviosa**.
+Estacionamientos en el Centro Histórico de Quito
+------------------------------------------------
 
-Claves para preparar un vehículo en época de lluvias
-----------------------------------------------------
+* **Cadisan**
+    * **Ubicación**: Mejía y Guayaquil.
+    * **Horario**: 24 horas.
+    * **Tarifa**: 0,75 centavos de dólar por hora o fracción (día); 0,90 centavos de dólar por hora o fracción (noche).
+* **La Ronda**
+    * **Ubicación**: Viaducto 24 de Mayo.
+    * **Horario**: Miércoles a sábado: 24 horas; domingo a martes: 06:00-22:00.
+    * **Tarifa**: 0,75 centavos de dólar por hora o fracción (día); 0,90 centavos de dólar por hora o fracción (noche).
+* **El Tejar**
+    * **Ubicación**: Hermano Miguel y José López.
+    * **Horario**: 06:00-21:30.
+    * **Tarifa**: 0,75 centavos de dólar por hora o fracción (día); 0,90 centavos de dólar por hora o fracción (noche).
+* **Montúr 1 y Montúr 2**
+    * **Ubicaciones**: Montúr 1 (Bustamante y Olmedo); Montúr 2 (Av. Pichincha y Olmedo)
+    * **Horario**: 06:00-22:00.
+    * **Tarifa**: 0,75 centavos de dólar por hora o fracción (día); 0,90 centavos de dólar por hora o fracción (noche).
+* **San Blas**
+    * **Ubicación**: Caldas y Guayaquil.
+    * **Horario**: 24 horas.
+    * **Tarifa**: 0,75 centavos de dólar por hora o fracción (día); 0,90 centavos de dólar por hora o fracción (noche).
+* **Yaku**
+    * **Ubicación**: Calle El Placer.
+    * **Horario**: 09:00-17:00.
+    * **Tarifa**: 0,75 centavos de dólar por hora o fracción (día); 0,90 centavos de dólar por hora o fracción (noche).
 
-1. **Revisar los neumáticos:**
-    * Verifica el estado de la banda de rodadura y asegúrate de que tenga una profundidad mínima de 3 mm.
-    * Comprueba que la presión de los neumáticos cumpla con las especificaciones del fabricante.
-2. **Inspeccionar los limpiaparabrisas:**
-    * Revisa que las escobillas no estén desgastadas ni agrietadas.
-    * Sustitúyelas si dejan marcas en el cristal o no limpian eficazmente.
-3. **Revisar el sistema de iluminación:**
-    * Asegúrate de que las luces delanteras, traseras y antiniebla funcionen correctamente.
-    * Limpia los faros para optimizar la visibilidad.
-4. **Comprobar el nivel de líquidos:**
-    * Revisa el líquido limpiaparabrisas y utiliza uno adecuado para eliminar suciedad y agua.
-    * Verifica los niveles de líquido de frenos y aceite para garantizar un rendimiento óptimo.
-5. **Chequear el sistema de frenos:**
-    * Inspecciona las pastillas y los discos para asegurar un frenado seguro en superficies mojadas.
-6. **Mantener limpios los parabrisas y ventanas:**
-    * Aplica un repelente de agua en los cristales para mejorar la visibilidad.
-7. **Verificar el sistema de calefacción y desempañador:**
-    * Asegúrate de que ambos sistemas funcionen correctamente para evitar la acumulación de humedad en el interior del vehículo.
-8. **Inspeccionar el sistema eléctrico:**
-    * Verifica que no haya cables ni conexiones sueltas, especialmente en áreas expuestas a la humedad.
-9. **Comprobar la batería:**
-    * Asegúrate de que la batería esté en buen estado y con suficiente carga, ya que las lluvias pueden afectar su funcionamiento.
-10. **Organizar el interior y el maletero:**
-    * Mantén todo en orden para evitar que objetos sueltos se deslicen durante frenadas bruscas.
-11. **Revisar los sistemas de escape y suspensión:**
-    * Inspecciona posibles daños que puedan agravarse con el agua.
-12. **Equipar herramientas y equipo de emergencia:**
-    * Incluye una linterna, triángulos reflectantes, un botiquín de primeros auxilios y una llanta de repuesto en buen estado.
+Estacionamientos de La Red
+--------------------------
+
+* **Carollo**
+    * **Ubicación**: Av. Matilde Álvarez y Mariscal Sucre.
+    * **Horario**: 06:00-18:00 (lunes a domingo).
+    * **Tarifa**: 0,50 centavos de dólar por hora o fracción.
+* **Bicentenario**
+    * **Ubicaciones**: Bicentenario A (Av. Amazonas y La Prensa), Bicentenario B (Av. Amazonas y Río Curaray), Bicentenario C (Viaducto 24 de Mayo).
+    * **Horario**: 06:00-22:00 (lunes a domingo).
+    * **Tarifa**: 0,50 centavos de dólar por hora o fracción.
+* **La Carolina**
+    * **Ubicaciones**: Carolina 1 (Av. Amazonas y La Prensa); Carolina 2 (Av. Amazonas y Atahualpa); Carolina 3 (Calle Japón y Amazonas); Carolina 4 (Av. de los Shyris y Portugal); Carolina 5 (Av. de los Shyris y Holanda); Carolina 6 (Av. de los Shyris y Pasaje Rumipamba); Carolina 7 (Av. de los Shyris y Bélgica); Carolina 8 (Eloy Alfaro y Juan Severino).
+    * **Horario**: 06:00-22:00 (lunes a domingo).
+    * **Tarifa**: 0,50 centavos de dólar por hora o fracción.
+* **Terminal Terrestre Quitumbe**
+    * **Ubicación**: Av. Cóndor Ñan y Mariscal Sucre.
+    * **Horario**: 24 horas.
+    * **Tarifa**: 0,52 centavos de dólar por hora o fracción.
+
+Zona Azul
+---------
+
+El Servicio de Estacionamiento Rotativo Tarifado (SERT) cuenta con 9.992 plazas, distribuidas entre 9.564 para autos y 428 para motocicletas.
+
+* **Horario diurno**: Lunes a viernes, 08:00-17:59.
+    * **Tarifa**: 0,40 centavos de dólar por hora o fracción (autos); 0,20 centavos de dólar (motocicletas).
+* **Horario nocturno**: Lunes a viernes, 18:00-02:00 (sectores: La Mariscal, La Carolina, La Tola – Mercado Central).
+    * **Tarifa**: 0,80 centavos de dólar por hora o fracción (autos); 0,40 centavos de dólar (motocicletas).
+* **Fines de semana y feriados**: 08:00-02:00 (excepto El Tejar – San Roque: 08:00-18:00)
+    * **Tarifa**: 0,80 centavos de dólar por hora o fracción (autos); 0,40 centavos de dólar (motocicletas).
 
 * * *
 
-### Esperanza
+Aficionados recuerdan a Esteban Paz tras título de Liga de Quito
+================================================================
 
-Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
+Las redes sociales tuvieron como tendencia Esteban Paz, exdirigente de Liga de Quito, tras el campeonato de la 'U'.
+-------------------------------------------------------------------------------------------------------------------
 
-Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
+![Esteban Paz fue dirigente y multicampeón con Liga de Quito hasta salir del club en 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/esteban-paz-scaled.jpg)
 
-[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
+La tarde de este lunes 16 de diciembre del 2024, el nombre de Esteban Paz surgió como tendencia en las redes sociales. El exdirigente de **Liga de Quito** fue recordado en función del último campeonato de la Liga Pro de la escuadra azucena.
 
-¿Por qué es tendencia Kendry Páez en redes sociales?
-====================================================
-
-Kendry Páez tuvo una temporada 2024 de más a menos. El segundo semestre quedará en el olvido.
----------------------------------------------------------------------------------------------
-
-![Kendry Páez en la final de vuelta de la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/paez_redes_1.jpg)
-
-**Kendry Páez** jugó con Independiente del Valle ante Liga de Quito lo que se proyecta como la última final de un torneo nacional en su corta carrera. En seis meses tendrá que reportarse al Chelsea de Inglaterra.
-
-La temporada 2024 de **Kendry Páez estuvo llena de altos y bajos**, donde alternó destacadas actuaciones en el primer semestre, consecución de récords con la Selección de Ecuador, hasta perder protagonismo poco a poco.
+El conjunto albo jugó su último partido del año en la final de vuelta de la Liga Pro ante **Independiente del Valle**. Allí este se impuso gracias a un marcador global de 3-1, pues venció por tres tantos en la ida y cayó por uno en la vuelta.
 
 ### Más noticias:
 
-* [Liga de Quito se proclamó como bicampeón de la Liga Pro](https://www.elcomercio.com/deportes/futbol/independiente-valle-liga-quito-marcador.html "Liga de Quito se proclamó como bicampeón de la Liga Pro")
-* [Liga de Quito tuvo apoyo de su afición desde su casa en Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-quito-hinchas-estadio-campeon-ligapro.html "Liga de Quito tuvo apoyo de su afición desde su casa en Liga Pro")
-* [Alexander Domínguez pide estatua junto a Rodrigo Paz](https://www.elcomercio.com/deportes/futbol/alexander-dominguez-estatua-liga-quito.html "Alexander Domínguez pide estatua junto a Rodrigo Paz")
+* [‘Vitamina’ Sánchez y Alex Arce, figuras del título de Liga de Quito](https://www.elcomercio.com/deportes/futbol/vitamina-sanchez-alex-arce-liga.html "‘Vitamina’ Sánchez y Alex Arce, figuras del título de Liga de Quito")
+* [Liga de Quito lidera a los ecuatorianos en el ranking Conmebol](https://www.elcomercio.com/deportes/futbol/ranking-conmebol-clubes-copa-libertadores.html "Liga de Quito lidera a los ecuatorianos en el ranking Conmebol")
+* [Alex Arce, el delantero de Liga de Quito que rompió varios récords](https://www.elcomercio.com/deportes/futbol/alex-arce-delantero-de-liga-de-quito-que-rompio-varios-records.html "Alex Arce, el delantero de Liga de Quito que rompió varios récords")
 
-Kendry Páez y sus números
--------------------------
+La nueva estrella de Liga de Quito se convirtió en la primera que obtuvo con **Esteban Paz** fuera del ámbito dirigencial. El histórico directivo de los azucenas y exlíder de la Comisión de Fútbol dejó el club tras finalizar el 2024, cuando el actual presidente Isaac Álvarez decidió unificar las distintas áreas.
 
-Según Transkermarkt, Páez jugó, entre **Liga Pro, Copa Ecuador, Copa Libertadores y Sudamericana**, 41 partidos, anotó ocho goles, dio cinco asistencias, recibió cinco tarjetas amarillas, nunca fue expulsado y acumuló 2 466 minutos.
+A raíz del título, los comentarios de los hinchas de la ‘U’ con relación a Paz fueron ambivalentes y por más de un motivo. Estos se refirieron, en su mayoría, al silencio que guardó tras el campeonato, mientras que otros se centraron en su legado, así como también ponderaron la figura de **Isaac Álvarez**.
 
-Los números son mejores en comparación con el 2023. En su año de debut jugó **34 partidos, anotó seis goles, dios tres asistencias**, recibió cuatro tarjetas amarillas, no fue expulsado y sumó 1 847 minutos.
+Los comentarios en redes hacia Esteban Paz
+------------------------------------------
 
-El detalle radica que en el segundo semestre de la actual temporada perdió la titularidad y arrancó en el XI inicial de Javier Gandolfi en seis ocasiones.
+Entre los comentarios en X, tanto de aficionados como de cuentas favorables a **Liga de Quito**, se destacaba uno en especial y era el primero al que referenciaba la red social. Este resaltó el silencio de **Esteban Paz** por el campeonato[.](https://en.wikipedia.org/wiki/L.D.U._Quito "https://en.wikipedia.org/wiki/L.D.U._Quito")
 
-Solo ante **Liga de Quito completó los 90 minutos**, en cinco fue sustituido, en tres se quedó en el banco de suplentes y en los restantes seis ingresó al cambio promediando un tiempo de 18 minutos en cancha.
+“**Han pasado ya 36 horas del campeonato de Liga y Esteban Paz no ha felicitado a nadie**“, decía un fragmento del tuit. A su este acumulaba más de 150 reacciones y contaba con 11 respuestas.
 
-En cuanto a goles, anotó cinco en el primer semestre y entregó cinco asistencias; mientras que en el segundo gritó gol en tres ocasiones y no dio asistencias
+Hinchas como Joaquín López, a su vez, destacaron la gestión de **Isaac Álvarez** tras la salida de Paz. Aquello en virtud de los obstáculos con los que tuvo que lidiar en su ausencia y cómo los resolvió.
 
-En la final de la **Copa Ecuador pasó desapercibido**. Jugó 24 minutos y no pudo evitar la derrota de 1-0 ante El Nacional en el estadio Rodrigo Paz Delgado.
+El debate también se generó en función de quiénes destacaron el papel de Esteban Paz. El usuario Diego Melo puso en alto la figura del exdirigente en medio de su ausencia y el éxito del ahora máximo dirigente. “**Yo, siempre, gratitud eterna a la Familia Paz**“, expresó en parte de su pronunciamiento.
 
-En las finales de la Liga Pro ante Liga de Quito se repitió una situación similar y no aportó en el 3-1 del marcador global.
+El antiguo directivo de **Liga de Quito** no ha reaccionado públicamente ni desde su cuenta en redes sociales.
 
-En la ida, también jugada en el **Rodrigo Paz Delgado, sumó solo 28 minutos**, y en la vuelta en la cancha de los del Valle fue titular, pero con poca trascendencia.
-
-![API.](https://www.elcomercio.com/wp-content/uploads/2024/12/paez_redes_3-1024x683.jpg)
-
-API.
-
-¿Por qué es tendencia Páez?
----------------------------
-
-Precisamente, la actuación de Páez en la final de vuelta de la Liga Pro del sábado 14 de diciembre de 2024, volvieron a poner al mediocampista en el radar de los seguidores del fútbol ecuatoriano.
-
-Existe una interrogante en torno al **rendimiento que pueda mostrar en los seis meses** que le quedan como jugador de Independiente del Valle, y más aún que pasará con su futuro una vez que tenga que integrarse al Chelsea cuando cumpla los 18 años de edad.
-
-En el horizonte más próximo está su participación en la Selección de Ecuador. Con el **argentino Sebastián Beccacece como entrenador** no es titular y poco a poco ha ido perdiendo espacio frente a otros jugadores que están en un mejor nivel.
-
-Fue titular y completó 58 minutos en la victoria 1-0 ante Perú en el Rodrigo Paz Delgado. En la **derrota  
-1-0 ante Brasil en Curitiba**, el empate 0-0 ante Paraguay en Quito, y en la victoria 4-0 frente a Bolivia  
-en Guayaquil, ingresó al cambio.
-
-En el empate **0-0 ante Uruguay en el Centenario de Montevideo** y en la victoria 0-1 ante Colombia en el  
-Metropolitano de Barranquilla, no fue considerado y se mantuvo en el banco de suplentes los 90 minutos.
-
-![API.](https://www.elcomercio.com/wp-content/uploads/2024/12/paez_redes_2-1024x683.jpg)
-
-API.
-
-El Confesionario – segunda temporada en proceso
------------------------------------------------
-
-Certificado de votación digital estará disponible en las elecciones 2025, ¿y el físico?
-=======================================================================================
-
-En las elecciones 2025, los ciudadanos contarán con un certificado digital.
----------------------------------------------------------------------------
-
-![La comunidad podrá obtener certificado de votación virtual.](https://www.elcomercio.com/wp-content/uploads/2024/12/certificado-digital.jpg)
-
-Las **elecciones 2025** en Ecuador tienen una novedad. Los ciudadanos contarán con la opción de acceder a un **certificado de votación** **digital**[.](https://es.wikipedia.org/wiki/Ecuador)[](https://es.wikipedia.org/wiki/Ecuador)
-
-El **Consejo Nacional Electoral (CNE)** y el Ministerio de Telecomunicaciones (Mintel) presentarán el documento este martes, 17 de diciembre de 2024.
-
-### Más noticias
-
-* [Miembros de juntas para las elecciones 2025 deben capacitarse, ¿cuántos ya cumplieron?](https://www.elcomercio.com/elecciones/miembros-juntas-elecciones-2025-deben-capacitarse-cuantos-cumplieron.html "Miembros de juntas para las elecciones 2025 deben capacitarse, ¿cuántos ya cumplieron?")
-* [12 binomios para las elecciones 2025 en Ecuador ya tienen resguardo](https://www.elcomercio.com/actualidad/politica/binomios-para-elecciones-2025-tienen-capsula-seguridad.html "12 binomios para las elecciones 2025 en Ecuador ya tienen resguardo")
-* [CNE indicó el avance en la impresión de papeletas para las elecciones 2025](https://www.elcomercio.com/actualidad/politica/cne-indico-avance-impresion-papeletas-elecciones-2025.html "CNE indicó el avance en la impresión de papeletas para las elecciones 2025")
-
-> ¿Ya conoces tu lugar de votación? 🗳️  
->   
-> Llama al 02-3815-841 📞 y consulta el recinto en el que sufragarás el domingo 9️⃣ de febrero en las [#Elecciones2025Ec](https://twitter.com/hashtag/Elecciones2025Ec?src=hash&ref_src=twsrc%5Etfw). 🇪🇨  
->   
-> También puedes hacerlo en: [https://t.co/7jydYZpjVD](https://t.co/7jydYZpjVD) y la [#CNEApp](https://twitter.com/hashtag/CNEApp?src=hash&ref_src=twsrc%5Etfw).📱[#EcuadorVotaInformado](https://twitter.com/hashtag/EcuadorVotaInformado?src=hash&ref_src=twsrc%5Etfw) ☑️ [pic.twitter.com/BT2RXx2HXb](https://t.co/BT2RXx2HXb)
-> 
-> — cnegobec (@cnegobec) [December 15, 2024](https://twitter.com/cnegobec/status/1868355478985805909?ref_src=twsrc%5Etfw)
-
-Elecciones 2025 y el certificado de votación
---------------------------------------------
-
-En los **comicios 2025**, que se desarrollarán el 9 de febrero, **13 736 314 electores** están registrados para consignar el voto.
-
-De ese grupo, **456 485 personas** se encuentran en el exterior y podrán acercarse a los consulados para sufragar.
-
-Los ciudadanos que ejerzan el derecho al voto, como en cada proceso electoral, recibirán el **certificado de votación**.
-
-¿Cuál es el cambio?
--------------------
-
-Según el CNE, la **papeleta de votación física** no se sustituirá. Sin embargo, los **votantes** podrán acceder a otra opción.
-
-Desde el **Mintel** indicaron que el certificado digital estará disponible a través de la aplicación Gob.Ec. Por medio de esta plataforma, las personas podrán descargar el documento.
-
-La **Cartera de Estado** apuntó que el paso se da como parte de la transformación digital que promueve la institución.
-
-El documento en línea constituye un respaldo para los ciudadanos que ejerzan el derecho al voto. En las elecciones se elegirá la dupla presidencial, así como **151 asambleístas** y cinco parlamentarios andinos.
-
-> ATENCIÓN 📍  
->   
-> Capacitamos a los [#MJRVElecciones2025](https://twitter.com/hashtag/MJRVElecciones2025?src=hash&ref_src=twsrc%5Etfw) de forma presencial en las 24 provincias del [#Ecuador](https://twitter.com/hashtag/Ecuador?src=hash&ref_src=twsrc%5Etfw). 🗳️  
->   
-> 🇪🇨 Recuerda que el 9️⃣ de febrero la ciudadanía decidirá sobre sus nuevas autoridades en las [#Elecciones2025Ec](https://twitter.com/hashtag/Elecciones2025Ec?src=hash&ref_src=twsrc%5Etfw).  
->   
-> Conoce los puntos de instrucción de las [#Elecciones2025Ec](https://twitter.com/hashtag/Elecciones2025Ec?src=hash&ref_src=twsrc%5Etfw):… [pic.twitter.com/Sz4xFH1LOq](https://t.co/Sz4xFH1LOq)
-> 
-> — cnegobec (@cnegobec) [December 16, 2024](https://twitter.com/cnegobec/status/1868668619162370370?ref_src=twsrc%5Etfw)
-
-¿Dónde votar?
--------------
-
-Para saber el lugar de votación solo se requiere el **número de cédula** y la fecha de nacimiento. No es necesario acudir a las delegaciones del CNE.
-
-Para consultar el sitio exacto, debe ingresar al sistema del organismo electoral en un [link específico](https://lugarvotacion.cne.gob.ec/). A la par, está disponible la CNE App, tanto para IOS o Android.
-
-En el resultado de la búsqueda se indica el recinto, la dirección, el número de junta receptora del voto, parroquia, circunscripción y zona. También se puede conocer si alguien es **miembro de una junta receptora del voto**.
-
-Investigan muerte de joven en plena audiencia por extralimitación policial
-==========================================================================
-
-Hugo Zambrano fue detenido en los exteriores del Parque Samanes, en Guayaquil, donde recibió un disparo. La familia denunció el hecho
--------------------------------------------------------------------------------------------------------------------------------------
-
-![Fiscalía investiga la presunta extralimitación policial.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-16T120337.591.jpg)
-
-Un joven de 28 años fue detenido en los exteriores del **Parque Samanes en Guayaquil** por mantener relaciones sexuales con su pareja. Cuando se realizaba su audiencia**, el ciudadano falleció.**
-
-### Más noticias
-
-* [Cortes de luz reducidos en Guayaquil este lunes 16 diciembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-reducidos-en-guayaquil-este-lunes-16-diciembre.html "Cortes de luz reducidos en Guayaquil este lunes 16 diciembre")
-* [Siete muertos, en posible ajuste de cuentas, en Guayaquil](https://www.elcomercio.com/actualidad/seguridad/siete-muertos-posible-ajuste-cuentas.html "Siete muertos, en posible ajuste de cuentas, en Guayaquil")
-* [Verónica Abad tiene tres escenarios para su acción de protección](https://www.elcomercio.com/actualidad/politica/veronica-abad-tiene-tres-escenarios-para-accion-proteccion.html "Verónica Abad tiene tres escenarios para su acción de protección")
-
-La detención
-------------
-
-**Hugo Armando Zambrano Alvarado**, de 28 años, tuvo una detención por mantener relaciones sexuales en un lugar público con su pareja. Esto sucedió en las afueras del Parque Samanes, en Guayaquil.
-
-Según los testimonios, el joven, al verse rodeado de policías**, sintió temor** de que se tratara de un secuestro e **intentó huir.**
-
-Al verlo correr, los policías **le dispararon en una pierna**. Hugo Zambrano perdió sangre hasta que recibió atención médica, luego de dos horas. Luego lo trasladaron a un hospital en donde le dieron solo atención de primeros auxilios y **no le extirparon la bala.** Posteriormente, de inmediato lo trasladaron a la Fiscalía, aún afectado por su herida.
-
-La audiencia en el Cuartel Modelo
----------------------------------
-
-Los uniformados llevaron a Zambrano a su audiencia en el **Cuartel Modelo de Guayaquil,** donde se lo procesaría por el delito de ataque y resistencia a la autoridad. Sin embargo, en plena audiencia, el joven siguió sangrando, se desvaneció y murió.
-
-Sus familiares presentaron la **denuncia en Fiscalía** para que se investigue el caso por presunto abuso policial. **Hugo Zambrano** fue trasladado a su vivienda en Vergeles, en donde la familia levantó una capilla ardiente para velarlo.
-
-Fiscalía investiga el hecho
----------------------------
-
-La **Fiscalía General del Estado** informó que investiga una **presunta extralimitación** en la ejecución de un acto de servicio.
-
-Esto tras **la muerte de un ciudadano** en una de las salas de **audiencia de la Unidad Judicial C**uartel Modelo, en Guayaquil.
-
-E**l joven falleció** durante la madrugada del [domingo 15 de diciembre.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-> [#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw) | [#Guayas](https://twitter.com/hashtag/Guayas?src=hash&ref_src=twsrc%5Etfw): [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw) investiga una presunta [#Extralimitación](https://twitter.com/hashtag/Extralimitaci%C3%B3n?src=hash&ref_src=twsrc%5Etfw) en la ejecución de un acto de servicio, tras la muerte de un ciudadano –la madrugada del domingo 15 de diciembre– en una de la salas de audiencia de la Unidad Judicial Cuartel Modelo, en [#Guayaquil](https://twitter.com/hashtag/Guayaquil?src=hash&ref_src=twsrc%5Etfw). [pic.twitter.com/YtZr39WUiz](https://t.co/YtZr39WUiz)
-> 
-> — Fiscalía Ecuador (@FiscaliaEcuador) [December 16, 2024](https://twitter.com/FiscaliaEcuador/status/1868692149635854550?ref_src=twsrc%5Etfw)
-
-Los ‘influencers’ tecnológicos que lideran la conversación en Ecuador 
-======================================================================
-
-Los ‘influencers’ tecnológicos en Ecuador marcan la pauta en redes sociales.
-----------------------------------------------------------------------------
-
-![Los ‘influencers’ tecnológicos lideran tendencias digitales en Ecuador. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/12/influencers-tecnologicos-Ecuador.jpg)
-
-La **tecnología** en **redes sociales** ha experimentado un crecimiento explosivo en Ecuador. Cada vez más personas se conectan a **plataformas digitales**, lo que permite un espacio propicio para que los **‘influencers’ tecnológicos** se conviertan en líderes en cuanto a recomendaciones. 
-
-### Más noticias
-
-* [¿Qué es Canva?](https://www.elcomercio.com/tecnologia/canva-dibujo-redes-sociales-aplicaciones.html "https://www.elcomercio.com/tecnologia/canva-dibujo-redes-sociales-aplicaciones.html") 
-* [WhatsApp presenta nuevos iconos para mejorar la comunicación](https://www.elcomercio.com/tecnologia/whatsapp-iconos-actualizacion-redes-sociales.html "https://www.elcomercio.com/tecnologia/whatsapp-iconos-actualizacion-redes-sociales.html") 
-
-Estos **creadores de contenido** no solo informan, sino que también **educan y entretienen** a sus seguidores sobre las **últimas tendencias en tecnología**. Según datos recientes, de plataformas como [2b-latam](https://2btubelatam.com/top-10-influencers-en-ecuador/ "https://2btubelatam.com/top-10-influencers-en-ecuador/"), Ecuador cuenta con más de **7 000 creadores de contenido**, lo que destaca la importancia de esta nueva **economía digital**. 
-
-**Ranking: Los ‘influencers’ más destacados en Ecuador** 
----------------------------------------------------------
-
-Entre los **‘influencers’ tecnológicos** más reconocidos en Ecuador se encuentran: 
-
-* **Jorge Luis Armijos ([@jorgelarmijos](https://www.facebook.com/jorgelarmijos/ "https://www.facebook.com/jorgelarmijos/")):** Ingeniero de sistemas con más de 24 000 seguidores en Facebook. Su contenido se centra en el **uso de tecnologías para negocios** y crecimiento personal.
-
-* **Gustavo Cevallos** **([@wgcv\_me](https://www.instagram.com/wgcv.me/ "https://www.instagram.com/wgcv.me/")):** Con más de 2 000 seguidores en Instagram, Gustavo se especializa en **análisis de ‘gadgets’ y software**. Su enfoque crítico y su capacidad para desglosar información técnica lo han posicionado como un referente en el sector. 
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/CbS1Iomj5Pq/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de Gustavo Cevallos (@wgcv.me)](https://www.instagram.com/reel/CbS1Iomj5Pq/?utm_source=ig_embed&utm_campaign=loading)
-
-* **Alejandro Lucio ([@hakualejo](https://www.youtube.com/@HakuAlejo/videos "https://www.youtube.com/@HakuAlejo/videos")):** Conocido por sus análisis de productos tecnológicos y su enfoque práctico, cuenta con una sólida base de seguidores en múltiples plataformas. Puedes ver su contenido en su canal de YouTube. 
-
-* **Morfi ([@morfiecu](https://www.instagram.com/morfiecu/?hl=es "https://www.instagram.com/morfiecu/?hl=es")):** Estos ‘influencers’ **combinan el humor con la tecnología**, lo que logra **captar la atención de un público joven** y dinámico. Su enfoque fresco ha sido clave para su éxito. Destacan por su **podcast.**  
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/C_NpvLGIih8/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por Amelina Espinosa (@amelinaespinosa)](https://www.instagram.com/reel/C_NpvLGIih8/?utm_source=ig_embed&utm_campaign=loading)
-
-* **Paul Orellana ([@paulorellanac](https://www.instagram.com/paulorellanac/ "https://www.instagram.com/paulorellanac/")):** Con un enfoque en **noticias tecnológicas** y análisis de tendencias, Paul tiene una base sólida de seguidores que confían en su opinión. 
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/CrmYpO5Lmt1/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de Paul Orellana C (@paulorellanac)](https://www.instagram.com/p/CrmYpO5Lmt1/?utm_source=ig_embed&utm_campaign=loading)
-
-**Impacto: cómo influyen en la conversación digital** 
+Liga de Quito y su decimotercer campeonato ecuatoriano
 ------------------------------------------------------
 
-Los **influencers tecnológicos** juegan un **papel crucial** en la **conversación digital** ecuatoriana. Su influencia se extiende más allá del entretenimiento; son vistos como expertos que pueden guiar a sus seguidores en decisiones de compra y uso de tecnología. Según un estudio realizado por 2b-latam, el **‘engagement’ promedio** de estos influencers supera el 5%, lo que indica una conexión fuerte con su audiencia 
+**Liga de Quito** ganó el título número 13 en su historia durante campeonatos ecuatorianos. El equipo, a su vez, se coronó bicampeón por tercera vez en certámenes de tal índole.
 
-Además, su capacidad para **generar contenido relevante** permite que marcas y empresas busquen **colaboraciones estratégicas**, lo que eleva aún más su perfil. 
-
-La **interacción constante** con sus seguidores crea un ambiente donde las **opiniones sobre productos tecnológicos** son discutidas abiertamente. Esto no solo fomenta una comunidad activa, sino que también establece a estos influencers como fuentes confiables de información. 
-
-**Consejos: cómo seguir sus recomendaciones** 
-----------------------------------------------
-
-Para aquellos interesados en **aprovechar las recomendaciones** de estos ‘influencers’ tecnológicos, aquí hay algunos consejos: 
-
-* **Sigue sus redes sociales:** Mantente al día con sus publicaciones para obtener información actualizada sobre lanzamientos y tendencias. 
-
-* **Participa en sus comunidades:** Comentar y compartir tus opiniones puede abrir diálogos interesantes y enriquecer tu experiencia. 
-
-* **Confía pero verifica:** Aunque estos ‘influencers’ son fuentes valiosas, siempre es recomendable contrastar la información con otras fuentes antes de tomar decisiones. 
-
-El impacto local de los **‘influencers’ tecnológicos** es innegable. No solo generan **contenido atractivo**, sino que también crean oportunidades para el **crecimiento del sector tecnológico en Ecuador**. A medida que más jóvenes se interesan por la tecnología, estos creadores seguirán a la **vanguardia la conversación digital** y moldeando el futuro del contenido tecnológico en el país. 
-
-### Te recomendamos:
-
-Moisés Caicedo recibe un nuevo reconocimiento en el Chelsea
-===========================================================
-
-La campaña de Moisés Caicedo en el Chelsea está siendo espectacular, consolidándose como una de las figuras más destacadas del plantel.
----------------------------------------------------------------------------------------------------------------------------------------
-
-![Moisés Caicedo es uno de los mejores jugadores del Chelsea en la temporada 2024/25.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-16T111746.179.jpg)
-
-**Moisés Caicedo** volvió a brillar en la Premier League. El ecuatoriano fue clave en la victoria del **Chelsea** por 2-1 sobre el Brentford en la jornada 16 del campeonato inglés, el pasado domingo 15 de diciembre de 2024.
-
-El mediocampista de la **Selección de Ecuador** dominó el centro del campo con sus recuperaciones y precisión en los pases, además de participar activamente en la jugada que derivó en el segundo gol de su equipo. Su **desempeño no pasó desapercibido** y recibió un merecido reconocimiento.
-
-### Más noticias:
-
-* [Moisés Caicedo brilló, Chelsea ganó y es escolta del Liverpool](https://www.elcomercio.com/deportes/futbol/moises-caicedo-premier-league-escolta.html "Moisés Caicedo brilló, Chelsea ganó y es escolta del Liverpool")
-* [Moisés Caicedo estuvo cerca de ganar un prestigioso premio en Inglaterra](https://www.elcomercio.com/deportes/futbol/moises-caicedo-estuvo-cerca-de-ganar-prestigioso-premio-en-inglaterra.html "Moisés Caicedo estuvo cerca de ganar un prestigioso premio en Inglaterra")
-* [¿Moisés Caicedo puede ganar la Premier League?](https://www.elcomercio.com/deportes/chelse-moises-caicedo-ganar-premier-league.html "¿Moisés Caicedo puede ganar la Premier League?")
-
-Moisés Caicedo suma un nuevo MVP
---------------------------------
-
-Una vez finalizado el partido, el Chelsea invitó a sus fanáticos a votar por el mejor jugador del compromiso. Los nominados fueron Robert Sánchez, quien destacó por sus grandes atajadas; Nicolas Jackson, autor de uno de los goles; **Enzo Fernández**, reconocido por su asistencia y un rendimiento sólido; y finalmente, **Moisés Caicedo**, quien tuvo una actuación redonda en todos los aspectos del juego.
-
-La votación la ganó el ‘Niño Moi’, quien **obtuvo un abrumador 67,5% de los más de 70,000 votos emitidos**. Este reconocimiento confirma una vez más el impacto y la importancia del ecuatoriano dentro del equipo.
-
-> A textbook Moises performance. 👌📚[@DiscoverASR](https://twitter.com/DiscoverASR?ref_src=twsrc%5Etfw) | [#CFC](https://twitter.com/hashtag/CFC?src=hash&ref_src=twsrc%5Etfw) | [#CHEBRE](https://twitter.com/hashtag/CHEBRE?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/U4wubrgQSG](https://t.co/U4wubrgQSG)
-> 
-> — Chelsea FC (@ChelseaFC) [December 16, 2024](https://twitter.com/ChelseaFC/status/1868601122442928158?ref_src=twsrc%5Etfw)
-
-A nivel estadístico, según SofaScore, Caicedo completó el 86% de sus pases, **dio dos pases clave** y realizó un disparo a puerta, destacando en el apartado ofensivo. En defensa, volvió a brillar al ganar seis de 14 duelos, realizar cuatro intercepciones, dos entradas y **recuperar el balón en 13 ocasiones**.
-
-Estas cifras reflejan su capacidad para ser determinante tanto en la construcción del juego como en la recuperación, consolidándose como una de las figuras más importantes del **Chelsea** esta temporada.
-
-El Chelsea se ilusiona con la Premier League
---------------------------------------------
-
-Con este triunfo, el **Chelsea se mantiene firme en la segunda posición** de la tabla con 34 puntos y una diferencia de gol de +19. Su campaña incluye 10 victorias, 4 empates y solo 2 derrotas.
-
-El **Liverpool lidera con 36 puntos** y un partido menos, por lo que, de ganar su encuentro pendiente, podría extender su ventaja a 5 puntos sobre los londinenses.
-
-La pelea por los primeros lugares sigue abierta, con el Arsenal (30), Nottingham Forest (28) y Manchester City (27) persiguiendo de cerca. Equipos como Aston Villa, Bournemouth, Fulham, Brighton y Tottenham completan el Top 10, en una lucha cerrada por los puestos europeos.
-
-El calendario del Chelsea para cerrar el año
---------------------------------------------
-
-El Chelsea **aún tiene compromisos importantes en 2024**, comenzando con su último partido de la fase de grupos de la Conference League ante el Shamrock Rovers. Luego, en la Premier League, enfrentará a Everton, Fulham e Ipswich Town, encuentros clave para mantener la presión sobre el Liverpool y continuar en la pelea por el título.
-
-Crisis en Francia, ciclón Chido deja miles afectados
-====================================================
-
-Las islas, que cuentan 320 000 habitantes y están a 8 000 kilómetros de París, cerca de Madagascar, resultaron devastadas.
---------------------------------------------------------------------------------------------------------------------------
-
-![Una fotografía proporcionada por el ejército francés el 15 de diciembre de 2024 muestra a un soldado en una zona con vistas a los daños en el territorio francés de ultramar de Mayotte.](https://www.elcomercio.com/wp-content/uploads/2024/12/francia-chido-efe.jpg)
-
-El delegado del **Gobierno francés** en el departamento de **Mayotte**, François-Xavier Bieuville, estimó que el ciclón Chido provocó “indudablemente **varios cientos de** fallas” en el archipiélago galo de mismo nombre, situado en el Índico. Además, alertó que se tardará en establecer un **balance final**.
-
-### Más noticias
-
-* [La Embajada de Francia y Unión Europea realizaron una jornada de deporte inclusivo](https://www.elcomercio.com/empresariales/embajada-francia-union-europea-jornada-deporte-inclusivo.html "La Embajada de Francia y Unión Europea realizaron una jornada de deporte inclusivo")
-* [Huelga de funcionarios en Francia contra los recortes de un Gobierno que acaba de caer](https://www.elcomercio.com/actualidad/mundo/huelga-funcionarios-francia-contra-recortes-gobierno-acaba-caer.html "Huelga de funcionarios en Francia contra los recortes de un Gobierno que acaba de caer")
-* [Francia descubre al mundo una Notre Dame deslumbrante antes de su reapertura](https://www.elcomercio.com/actualidad/mundo/francia-descubre-mundo-notre-dame-deslumbrante-antes-reapertura.html "Francia descubre al mundo una Notre Dame deslumbrante antes de su reapertura")
-
-“Será muy difícil establecer el **balance final**, pero yo creo que indudablemente habrá varios cientos (de fallecidos), quizá nos vamos a **acercar al millar**, incluso a los varios miles”, dijo Bieuville, en una entrevista con el canal público **Mayotte la 1er**.
-
-“Temo que **haya fallecimientos** que ni siquiera podremos **contabilizar oficialmente** porque la tradición musulmana (religión mayoritaria en Mayotte) establece que las personas tienen que ser enterradas en 24 horas” tras su deceso, apuntó.
-
-Rachas de viento de 220 kilómetros por hora
--------------------------------------------
-
-Las islas, que cuentan **320 000 habitantes y están a 8 000 kilómetros de París,** cerca de Madagascar, resultaron devastadas el sábado, 14 de diciembre de 2024, por los **vientos de un ciclón** que llegó a tener rachas de **220 kilómetros a la hora.**
-
-Este departamento, considerado el más pobre de Francia, cuenta además con al menos **100 000 viviendas precarias**, la mayor parte de ellas destrozadas el sábado.
-
-El **aeropuerto internacional de Mamoudzou** está cerrado para los **vuelos comerciales** y gran parte de las carreteras también. Hay testimonios de falta de electricidad y agua potable.
-
-El Gobierno francés enviará, en diferentes oleadas, hasta **800 efectivos de policía y de salvamiento civil** mientras ya aterrizó en la capital Mamoudzou un **avión de transporte militar** que contiene ayuda humanitaria. Uno de los temores de París son los **pillajes en tiendas y viviendas**.
-
-La UE expresa su solidaridad con Francia y Mayotte
---------------------------------------------------
-
-La presidenta de la Comisión Europea, **Ursula von der Leyen**, manifestó la solidaridad de la Unión Europea con Francia y especialmente con la **población de las islas Mayotte** tras el paso devastador del ciclón Chido y anunció que la UE está preparada para **enviar ayuda en los próximos días.**
-
-“Nuestros corazones están con Francia tras el **devastador paso del ciclón Chido en Mayotte**. Europa está junto a los mahoraíes en esta terrible prueba. Estamos listos para brindar apoyo en los próximos días”, dijo Von der Leyen en un mensaje en sus redes sociales.
-
-En la misma línea, el presidente del **Consejo Europeo, António Costa**, expresó su “solidaridad con el pueblo de Mayotte y las **autoridades francesas** ante los daños causados ​​por el ciclón Chido”.
-
-“La UE seguirá apoyando a todas sus **regiones ultraperiféricas**, que también se enfrentan a fenómenos meteorológicos extremos a medida que se intensifican los **efectos del cambio climático**”, añadió el ex primer ministro portugués en redes sociales.
-
-Siria a una semana de la caída de Bashar al Asad
-================================================
-
-La caída del gobierno de Assad y el ascenso de Al Bashir generaron reacciones mixtas a nivel internacional.
------------------------------------------------------------------------------------------------------------
-
-![El nuevo gobierno interino de Siria de Mohamed al Bashir comenzó a mostrar símbolos de autoridad en Damasco.](https://www.elcomercio.com/wp-content/uploads/2024/12/Siria-Damasco-efe-diciembre.jpg)
-
-La caída del gobierno de [Bashar al Asad](https://es.wikipedia.org/wiki/Bashar_al-%C3%81sad "https://es.wikipedia.org/wiki/Bashar_al-%C3%81sad") el 8 de diciembre de 2024 fue un evento trascendental que marcó el fin de más de cinco décadas de dominio de la familia Assad en Siria.
-
-### Más noticias
-
-* [¿Qué sigue para Siria y el mundo tras la caída de Bashar al Asad?](https://www.elcomercio.com/actualidad/mundo/sigue-para-siria-mundo-caida-bashar-asad.html "¿Qué sigue para Siria y el mundo tras la caída de Bashar al Asad?")
-* [Protestas en Manbech, norte de Siria, tras ser tomada por facciones proturcas](https://www.elcomercio.com/actualidad/mundo/protestas-masivas-manbech-norte-siria-tras-ser-tomada-facciones-proturcas.html "Protestas en Manbech, norte de Siria, tras ser tomada por facciones proturcas")
-* [¿Quién es Mohamed al Bashir, el encargado de liderar la transición en Siria?](https://www.elcomercio.com/actualidad/mundo/mohamed-bashir-encargado-liderar-transicion-siria.html "¿Quién es Mohamed al Bashir, el encargado de liderar la transición en Siria?")
-
-Este resumen detalla los acontecimientos que llevaron a la caída del régimen y la posterior asunción del poder por parte de Mohamed al Bashir.
-
-La caída de Bashar al Assad
----------------------------
-
-El 8 de diciembre de 2024, **Bashar al Assad huyó del país tras una rápida ofensiva** rebelde que comenzó el 27 de noviembre.
-
-Grupos insurgentes, liderados por Hayat Tahrir al-Sham (HTS), lanzaron un ataque coordinado que rápidamente tomó el control de ciudades clave como Alepo y Homs. En solo 12 días, los **rebeldes avanzaron hacia Damasco**, donde encontraron poca resistencia del ejército sirio, que se desmoronaba, de acuerdo con euronews.com
-
-Durante la ofensiva, los rebeldes lograron capturar **importantes instalaciones gubernamentales** y la prisión de Sednaya, liberando a miles de prisioneros. La caída de Damasco fue anunciada por los insurgentes en un comunicado transmitido por televisión, celebrando la **“liberación” del pueblo sirio,** explica El País. En medio del caos, se confirmó que Assad abandonó el país en un avión hacia un destino desconocido, de acuerdo con euronews.com.
-
-Asunción del poder por Mohamed al Bashir
-----------------------------------------
-
-El 10 de diciembre de 2024, **Mohamed al Bashir** asumió el poder en Siria. Se convirtió en el nuevo líder tras la caída del régimen de Assad. Al Bashir, **un exgeneral y figura prominente** dentro del ejército sirio, fue respaldado por **varios grupos rebeldes** y se comprometió a establecer un gobierno inclusivo que represente a todas las facciones del país.
-
-Su ascenso fue recibido con entusiasmo por muchos que anhelaban un cambio tras años de **opresión bajo el régimen anterior**, recalca euronews.com
-
-De acuerdo a las fuentes, el nuevo **gobierno de transición** comenzará a tomar medidas relacionadas con la seguridad. Una de estas decisiones es la “disolución de las autoridades de seguridad y anular las leyes de terrorismo”, aunque no ofreció más detalles al respecto, según agencia Efe.
-
-Al Bashir fue nombrado el pasado enero como jefe del ‘Gobierno de Salvación’, una administración en Idlib y otras zonas que escapaban al control de Damasco.
-
-Estuvo vinculada al grupo islamista Organismo de Liberación del Levante (Hayat Tahrir al Sham o HTS, en árabe). Encabezó la ofensiva de 12 días que acabó con los 24 años de poder de Bashar al Asad.
-
-Reacciones internacionales
---------------------------
-
-La caída del gobierno de Assad y el ascenso de Al Bashir generaron **reacciones mixtas a escala internacional**. Algunos países expresaron su **apoyo al nuevo liderazg**o, mientras que otros permanecieron cautelosos ante la inestabilidad en la región. Estados Unidos y sus aliados monitorearon la situación con atención, considerando las implicaciones geopolíticas del cambio en el liderazgo sirio, indica la BBC.
-
-Rusia e Irán, **antiguos aliados de Assad**, enfrentan un duro golpe a su influencia en Siria. El Kremlin ha expresado su preocupación por los acontecimientos y ofreció asilo a **Assad y su familia en Moscú**, de acuerdo con la BBC. La **situación sigue siendo volátil,** con enfrentamientos esporádicos reportados entre facciones **rebeldes y remanentes leales** al antiguo régimen.
-
-Un futuro incierto
-------------------
-
-A medida que Siria entra en esta **nueva fase política bajo Al Bashir**, el futuro del país sigue siendo incierto. La comunidad internacional observa atentamente cómo se **desarrollarán los acontecimientos** y si el nuevo liderazgo podrá estabilizar un país devastado por años de guerra civil.
-
-La transición hacia una paz duradera requerirá **esfuerzos significativos** para abordar las divisiones sectarias y políticas que han marcado la historia reciente de Siria, señala euronews.com.
-
-La Copa Libertadores 2025 recibe a los equipos de Ecuador
-=========================================================
-
-El Nacional será el primer equipo ecuatoriano en participar en la Copa Libertadores 2025.
------------------------------------------------------------------------------------------
-
-![Plantel de Liga de Quito en el estadio de Independiente del Valle en la final de vuelta de la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/libertadores_1.jpg)
-
-Los clubes ecuatorianos **Liga de Quito, Independiente del Valle, Barcelona Sporting Club y El Nacional** quieren dejar de ser discretos en la Copa Libertadores 2025 y mejorar la actuación que mostraron en el torneo de 2024.
-
-Los tres primeros equipos se ganaron el derecho de ir a la Copa Libertadores **tras quedar en los tres primeros lugares** de la Liga Pro 2024: Liga de Quito fue primero, el cuadro del Valle segundo y Barcelona tercero, según la tabla acumulada de las dos fases del torneo nacional.
-
-### Más noticias:
-
-* [Piero Hincapié se lució en triunfo clave del Leverkusen](https://www.elcomercio.com/deportes/futbol/piero-hincapie-bayer-leverkusen-augsburgo.html "Piero Hincapié se lució en triunfo clave del Leverkusen")
-* [Liga de Quito se proclamó como bicampeón de la Liga Pro](https://www.elcomercio.com/deportes/futbol/independiente-valle-liga-quito-marcador.html "Liga de Quito se proclamó como bicampeón de la Liga Pro")
-* [Liga de Quito tuvo apoyo de su afición desde su casa en Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-quito-hinchas-estadio-campeon-ligapro.html "Liga de Quito tuvo apoyo de su afición desde su casa en Liga Pro")
-
-La Libertadores espera por LDU, BSC e IDV
------------------------------------------
-
-Liga de Quito y Barcelona cerraron su participación en el torneo nacional con un ritmo ‘in crecendo’, mientras que el Independiente del Valle experimentó un ligero bajón colectivo de su juego.
-
-Con el técnico argentino **Pablo ‘Vitamina’ Sánchez, Liga de Quito tuvo un gran cierre de la actual** temporada al adjudicarse la segunda fase del torneo y el título tras superar al Independiente del Valle en el acumulado de los dos partidos de la final del campeonato.
-
-Si bien, el ‘Rey de Copas’ de Ecuador, como también le dicen a Liga, **se quedará sin el goleador del torneo**, el paraguayo Alex Arce (28 tantos), se prevé que sostendrá al resto de la plantilla, incluido el técnico Sánchez.
-
-BSC busca estabilidad
----------------------
-
-Por otra parte, un desempeño irregular llevó a **Barcelona a romper el proceso que había aplicado** el técnico uruguayo Diego López, sobre todo tras la temprana eliminación del equipo guayaquileño de la Copa Libertadores de 2024.
-
-También duró poco su reemplazo, el **argentino Ariel Holan, luego de que el equipo quedara** sin opciones para llevarse la segunda fase del torneo nacional e incluso con el peligro de perder el billete para la Libertadores.
-
-El estratega ecuatoriano **Segundo Castillo logró recomponer al BSC** en el torneo nacional con una dosis de buen y contundente fútbol, que lo mantuvo en la zona alta de la tabla de posiciones.
-
-IDV sigue siendo una promesa
-----------------------------
-
-De su lado, el cuadro sensación de los últimos años, el Independiente del Valle, **cerró el 2024 generando incertidumbre**, como ocurrió en 2023, con un bajón en el nivel de ciertos de jugadores y del equipo en general, lo que podría generar cambios antes del debut en la Libertadores.
-
-La ventaja para el cuadro del **Valle es su solvencia administrativa y económica**, que le permiten desprenderse y contratar la cantidad de jugadores que se proponga.
-
-![API.](https://www.elcomercio.com/wp-content/uploads/2024/12/libertadores_2-1024x683.jpg)
-
-API.
-
-El Nacional aguarda por la Libertadores
----------------------------------------
-
-También El Nacional, el cuarto representante de Ecuador para la Libertadores de 2025, afronta una crítica situación administrativa y económica.
-
-Esos factores han llevado a los ‘puros criollos’ de **El Nacional a aparecer sin el técnico argentino Marcelo Zuleta** y varios de sus jugadores, justo antes del debut en la fase previa 1 de la próxima Libertadores.
-
-Con Zuleta y los jugadores que están de partida porque el club les debe **cinco meses de sueldos -según han denunciado-**, El Nacional ganó el derecho de ir a la Libertadores tras obtener la Copa Ecuador, el otro torneo profesional del fútbol ecuatoriano.
-
-Con ese panorama, la prensa especializada espera que la armada ecuatoriana en la **Copa Libertadores supere las dificultades recientes** y encare el torneo continental con mayor ímpetu, emulando el brillo que la selección nacional tiene en las eliminatorias suramericanas mundialistas.
-
-![API.](https://www.elcomercio.com/wp-content/uploads/2024/12/libertadores_3-1024x683.jpg)
-
-API.
-
-San viernes
------------
-
-Rescatistas intentan sacar a una exploradora atrapada en una cueva
-==================================================================
-
-La mujer tiene fracturas en piernas y tórax y quedó atrapada a unos 400 metros de profundidad, a seis horas desde la entrada de la cueva.
------------------------------------------------------------------------------------------------------------------------------------------
-
-![Equipos de rescate trabajan en la liberación de la epeleóloga.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-16T101417.229.jpg)
-
-Los **equipos de rescate** italianos se esfuerzan este lunes 16 de diciembre de 2024 en liberar a una espeleóloga de 32 años atrapada desde el sábado en una cueva. Esto tras resbalar y **resultar herida** en las profundidades de una cueva prácticamente inexplorada en la región de Bérgamo (norte).
-
-### Más noticias
-
-* [Giséle Pelicot llegó al tribunal donde hoy se juzga a su exmarido, Dominique Pelicot](https://www.elcomercio.com/actualidad/mundo/gisele-pelicot-tribunal-hoy-juzga-exmarido-dominique-pelicot.html "Giséle Pelicot llegó al tribunal donde hoy se juzga a su exmarido, Dominique Pelicot")
-* [Noboa y Petro acuerdan en Galápagos fortalecer cooperación en frontera Ecuador y Colombia](https://www.elcomercio.com/actualidad/daniel-noboa-gustavo-petro.html "Noboa y Petro acuerdan en Galápagos fortalecer cooperación en frontera Ecuador y Colombia")
-* [Donald Trump revela sus drásticas medidas para las primeras 24 horas de su gobierno](https://www.elcomercio.com/actualidad/mundo/donald-trump-revela-drasticas-medidas-primeras-24-horas-gobierno.html "Donald Trump revela sus drásticas medidas para las primeras 24 horas de su gobierno")
-
-El accidente en la cueva
-------------------------
-
-La mujer, **Ottavia Piana,** sufrió una caída de unos **5 metros de altura** mientras exploraba partes desconocidas de las cuevas para mapear los túneles. Esta labor ya la llevó a quedar atrapada durante 40 horas en el mismo abismo en julio el año pasado.
-
-La espeleóloga sufrió **fracturas en las piernas** y en el tórax y quedó atrapada a una profundidad de unos 400 metros, a unas **seis horas de camino** desde la entrada de la cueva.
-
-No obstante, en todo momento ha estado “consciente y participativa”, explicó este lunes el Cuerpo Nacional de Socorro Alpino y Espeleológico de la región del Véneto (CNSAS Veneto).
-
-Sus compañeros de expedición fueron quienes **dieron la alerta** al salir a la superficie y los equipos de rescate se trasladaron al lugar. Tras horas de búsqueda, lograron localizar a la mujer y le llevaron bombonas de oxígeno, comida, medicamentos, ropa y un ventilador para mantenerla caliente.
-
-La investigadora fue encontrada
--------------------------------
-
-Ayer, domingo, los rescatistas la trasladaron a un punto de la cueva donde se instaló un **“campamento base climatizado”.**
-
-Por el momento, los rescatistas **no han podido cruzar** “el tramo más estrecho” y los equipos de emergencias se esfuerzan en ampliar el diámetro de la cueva. Para ello, utilizan taladros y martillos neumáticos para **poder mover la camilla** y extraer a la espeleóloga.
-
-Según las autoridades, dentro de la cueva, conocida como el Abismo Bueno Fonteno, cerca del Lago Iseo, a los pies de los Alpes, hay **unos 20 rescatistas trabajando.** Además, cerca de 80 técnicos de diversas regiones de Italia.
-
-“Desde el final del **tramo más estrecho** hasta la salida seguirá un largo trayecto, más lineal”, explicó CNSAS Veneto en su comunicado.
-
-Las autoridades **trabajan en extraer a Ottavia** de la cueva, aunque no fijaron una fecha para el final de las operaciones, que prevén “largas” aunque [“sin descanso”.](https://es.wikipedia.org/wiki/Italia "https://es.wikipedia.org/wiki/Italia")
+Los albos llegaron hacia la final tras ganar la segunda etapa del certamen. Aquello se dio con el arribo del DT **Pablo ‘Vitamina’ Sánchez**, quien llegó para la última ronda después de que la primera la encaró el español Josep Alcácer.
