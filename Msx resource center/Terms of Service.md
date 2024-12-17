@@ -153,19 +153,19 @@ Latest reactions
 
 Latest forum posts
 
-* [MSXgl – A new C game library for MSX](https://www.msx.org/forum/msx-talk/development/msxgl-%E2%80%93-a-new-c-game-library-for-msx?page=31 "MSXgl – A new C game library for MSX")
+* [Just for fun: holiday themed headers for MRC](https://www.msx.org/forum/msx-talk/msx-resource-center/just-for-fun-holiday-themed-headers-for-mrc?page=2 "Just for fun: holiday themed headers for MRC")
+* [MSX Goa'uld. Turn an MSX into a MSX 2+?](https://www.msx.org/forum/msx-talk/hardware/msx-goauld-turn-an-msx-into-a-msx-2?page=4 "MSX Goa'uld. Turn an MSX into a MSX 2+?")
+* [keyboard connector for Victor HC-9x DSUB 20-pin from mouser](https://www.msx.org/forum/msx-talk/hardware/keyboard-connector-for-victor-hc-9x-dsub-20-pin-from-mouser "keyboard connector for Victor HC-9x DSUB 20-pin from mouser")
 * [Almost half a screen filled with add](https://www.msx.org/forum/msx-talk/msx-resource-center/almost-half-a-screen-filled-with-add "Almost half a screen filled with add")
+* [Christmas Quiz 2024](https://www.msx.org/forum/msx-talk/off-topic/christmas-quiz-2024?page=17 "Christmas Quiz 2024")
+* [MSXgl – A new C game library for MSX](https://www.msx.org/forum/msx-talk/development/msxgl-%E2%80%93-a-new-c-game-library-for-msx?page=31 "MSXgl – A new C game library for MSX")
 * [List of undumped MSX software (PLEASE HELP!)](https://www.msx.org/forum/msx-talk/software/list-undumped-msx-software-please-help?page=64 "List of undumped MSX software (PLEASE HELP!)")
 * [SCC cartridge with 16 MegaBytes on MSX !](https://www.msx.org/forum/msx-talk/hardware/scc-cartridge-with-16-megabytes-on-msx?page=1 "SCC cartridge with 16 MegaBytes on MSX !")
 * [MANBOW 2 on MegaFlashROM SCC 512 (old model of MFR)](https://www.msx.org/forum/msx-talk/general-discussion/manbow-2-on-megaflashrom-scc-512-old-model-of-mfr "MANBOW 2 on MegaFlashROM SCC 512 (old model of MFR)")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=80 "WonderTANG! Who wants to juice up your MSX?")
 * [Nice video from the BBC](https://www.msx.org/forum/msx-talk/general-discussion/nice-video-from-the-bbc "Nice video from the BBC")
 * [Emulation rendering delays](https://www.msx.org/forum/msx-talk/emulation/emulation-rendering-delays "Emulation rendering delays")
-* [Christmas Quiz 2024](https://www.msx.org/forum/msx-talk/off-topic/christmas-quiz-2024?page=17 "Christmas Quiz 2024")
 * [ZX Spectrum Convertions](https://www.msx.org/forum/msx-talk/software/zx-spectrum-convertions?page=5 "ZX Spectrum Convertions")
-* [RP2350B will change cartridges for MSX forever!](https://www.msx.org/forum/msx-talk/hardware/this-will-change-cartridges-for-msx-moving-forward?page=3 "RP2350B will change cartridges for MSX forever!")
-* [2 floppies with different content on MSX 1, showing the same content...](https://www.msx.org/forum/msx-talk/openmsx/2-floppies-with-different-content-on-msx-1-showing-the-same-content "2 floppies with different content on MSX 1, showing the same content...")
-* [Question about the 2-button joysticks](https://www.msx.org/forum/msx-talk/development/question-about-the-2-button-joysticks?page=1 "Question about the 2-button joysticks")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
