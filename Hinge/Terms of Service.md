@@ -515,4 +515,4 @@ Resources
 
 Legal
 
-[Security](https://hinge.co/security)[Terms](https://hinge.co/terms)[Privacy](https://hinge.co/privacy)[Cookie Policy](https://hinge.co/cookie-policy)[Consumer Health Data Privacy Policy](https://hinge.co/consumer-health-data-privacy-policy)Your Privacy Choices [Colorado Safety Policy Information](https://hingeapp.zendesk.com/hc/en-us/articles/36121621235731-Colorado-Safety-Policy-Information)
+[Security](https://hinge.co/security)[Terms](https://hinge.co/terms)[Privacy](https://hinge.co/privacy)[Cookie Policy](https://hinge.co/cookie-policy)[Consumer Health Data Privacy Policy](https://hinge.co/consumer-health-data-privacy-policy)Your Privacy Choices [Colorado Safety Policy Information](https://hingeapp.zendesk.com/hc/en-us/articles/36311952697491-Colorado-Safety-Policy)
