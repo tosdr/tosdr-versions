@@ -28,7 +28,7 @@ Sign in with Google](https://xhamster.com/login-google?source=base)
 
 [Videos](https://xhamster.com/)
 
-[Live Sex](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&p1=cold&exp=%7B%223005%22%3A%7B%22g%22%3A%22b%22%2C%22v%22%3A1%7D%7D&xhStatsUid=6760ffe723c615.30471380d60&xhSessionToken=814392d450c896ff87d332d638a306af1d8f09ae&xhSessionStartedAt=1734410215)
+[Live Sex](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&p1=cold&exp=%7B%223005%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A1%7D%7D&xhStatsUid=6761535ccaffd0.079778486a7&xhSessionToken=7d4270d851c814d846b3eb3d7a8fcdac6277a432&xhSessionStartedAt=1734431580)
 
 [Categories](https://xhamster.com/categories)
 
@@ -48,11 +48,15 @@ Sex Chat](https://xhamster.com/ff/out?utm_source=xhamster&utm_medium=menu&utm_ca
 
 Premium
 
-Sale](https://faphouse.com/?utm_source=xhamster&utm_medium=button&utm_campaign=guest&utm_content=landingpage&exp=%7B%223005%22%3A%7B%22g%22%3A%22b%22%2C%22v%22%3A1%7D%7D)
+Sale](https://faphouse.com/?utm_source=xhamster&utm_medium=button&utm_campaign=guest&utm_content=landingpage&exp=%7B%223005%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A1%7D%7D)
 
 [🔥AI Jerk Off](https://tsyndicate.com/api/v1/direct/82b7126ec17b4b8c8814dd0067da91ef)
 
 [Dating](https://xhamster.com/dating)
+
+[![AI Girlfriend](//static-nss.xhcdn.com/xh-images/components/header/components/header-nav/lovescape-aifriend.component.svg)
+
+AI Girlfriend](https://lovescape.com/?userId=9841b8dfe0948b15d2ade18982de21bd51281c1ac5b753838d55a4d0e0ff4985&isUserLogged=2&platform=desktop&campaignId=xhamster_tablink&creativeId=xhamster_ai_girlfriend&sourceId=xhamster_widgets&p1=xhamster_a000001&p2=xhamster_b000001&p3=xhamster-to-index&utm_source=xhamster&utm_medium=xhamster_widgets&utm_campaign=xhamster_tablink)
 
 [Subscriptions](https://xhamster.com/my/subscriptions)
 
