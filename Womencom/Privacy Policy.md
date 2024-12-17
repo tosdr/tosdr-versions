@@ -43,20 +43,32 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![](https://www.women.com/img/gallery/outdated-beauty-trends-to-leave-in-2024/intro-1733768782.jpg)](https://www.women.com/1733088/outdated-beauty-trends-leave-in-2024/)
+*  [![ariana grande at a wicked premiere](https://www.women.com/img/gallery/ariana-grande-is-stunning-without-makeup/intro-1733955439.jpg)](https://www.women.com/1735909/ariana-grande-stunning-without-makeup/)
     
     [Beauty](https://www.women.com/category/beauty/)
     
-    [Beauty](https://www.women.com/category/beauty/) By Bernadette Roe
+    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
     
-    [Outdated Beauty Trends To Leave In 2024](https://www.women.com/1733088/outdated-beauty-trends-leave-in-2024/)
-    ==============================================================================================================
+    [Ariana Grande Is Stunning Without Makeup](https://www.women.com/1735909/ariana-grande-stunning-without-makeup/)
+    ================================================================================================================
     
-    As new trends take hold in the new year, some of the most popular 2024 beauty looks are being left behind, including matte makeup and hydro hair.
+    Ariana Grande may be an R.E.M. beauty mogul, but her pov on makeup use has evolved over the years. Plus, she's just as gorgeous without it.
     
-    By Bernadette Roe [Read More](https://www.women.com/1733088/outdated-beauty-trends-leave-in-2024/)
+    By Amanda Chatel [Read More](https://www.women.com/1735909/ariana-grande-stunning-without-makeup/)
     
-* *  [![Close up of feet getting a pedicure](https://www.women.com/img/gallery/every-type-of-pedicure-explained/intro-1733419200.jpg)](https://www.women.com/1730467/every-type-pedicure-explained/)
+* *  [![Barry Keoghan with Sabrina Carpenter](https://www.women.com/img/gallery/all-the-red-flags-we-noticed-in-sabrina-carpenter-and-barry-keoghans-relationship/intro-1733859839.jpg)](https://www.women.com/1734369/sabrina-carpenter-barry-keoghan-red-flags-relationship/)
+        
+        [Relationships](https://www.women.com/category/relationships/)
+        
+        [Relationships](https://www.women.com/category/relationships/) By Emily Hutchinson
+        
+        ### [All The Red Flags We Noticed In Sabrina Carpenter And Barry Keoghan's Relationship](https://www.women.com/1734369/sabrina-carpenter-barry-keoghan-red-flags-relationship/)
+        
+        Sabrina Carpenter and Barry Keoghan called off their relationship in December 2024, but there were plenty of red flags before they broke up.
+        
+        By Emily Hutchinson [Read More](https://www.women.com/1734369/sabrina-carpenter-barry-keoghan-red-flags-relationship/)
+        
+    *  [![Close up of feet getting a pedicure](https://www.women.com/img/gallery/every-type-of-pedicure-explained/intro-1733419200.jpg)](https://www.women.com/1730467/every-type-pedicure-explained/)
         
         [Beauty](https://www.women.com/category/beauty/)
         
@@ -68,22 +80,22 @@
         
         By Amanda Chatel [Read More](https://www.women.com/1730467/every-type-pedicure-explained/)
         
-    *  [![Dakota Fanning posing at Cannes](https://www.women.com/img/gallery/dakota-fannings-stunning-style-transformation-through-the-years/intro-1733427041.jpg)](https://www.women.com/1730627/dakota-fanning-stunning-style-transformation/)
-        
-        [Fashion](https://www.women.com/category/fashion/)
-        
-        [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
-        
-        ### [Dakota Fanning's Stunning Style Transformation Through The Years](https://www.women.com/1730627/dakota-fanning-stunning-style-transformation/)
-        
-        Dakota Fanning has grown up under the public eye, with an impressive career, and an even more impressive style transformation along the way.
-        
-        By Amanda Chatel [Read More](https://www.women.com/1730627/dakota-fanning-stunning-style-transformation/)
-        
 
 More Stories
 ------------
 
+*  [![Dakota Fanning posing at Cannes](https://www.women.com/img/gallery/dakota-fannings-stunning-style-transformation-through-the-years/intro-1733427041.jpg)](https://www.women.com/1730627/dakota-fanning-stunning-style-transformation/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
+    
+    ### [Dakota Fanning's Stunning Style Transformation Through The Years](https://www.women.com/1730627/dakota-fanning-stunning-style-transformation/)
+    
+    Dakota Fanning has grown up under the public eye, with an impressive career, and an even more impressive style transformation along the way.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1730627/dakota-fanning-stunning-style-transformation/)
+    
 *  [![Gigi Hadid making a heart with her hands above her head](https://www.women.com/img/gallery/8-celebs-who-have-rocked-the-chic-flippy-bob/intro-1733769783.jpg)](https://www.women.com/1734199/celebs-rocked-chic-flippy-bob/)
     
     [Beauty](https://www.women.com/category/beauty/)
@@ -119,6 +131,18 @@ More Stories
     Aside from cheeky lyrics and catchy melodies, one of the things that makes Sabrina Carpenter's music so compelling is its diaristic element.
     
     By Madison Emily Whisenand [Read More](https://www.women.com/1732909/best-dating-advice-sabrina-carpenter-songs/)
+    
+*  [![A woman with winged eyeliner and pink lipstick](https://www.women.com/img/gallery/outdated-beauty-trends-to-leave-in-2024/intro-1733768782.jpg)](https://www.women.com/1733088/outdated-beauty-trends-leave-in-2024/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Bernadette Roe
+    
+    ### [Outdated Beauty Trends To Leave In 2024](https://www.women.com/1733088/outdated-beauty-trends-leave-in-2024/)
+    
+    As new trends take hold in the new year, some of the most popular 2024 beauty looks are being left behind, including matte makeup and hydro hair.
+    
+    By Bernadette Roe [Read More](https://www.women.com/1733088/outdated-beauty-trends-leave-in-2024/)
     
 *  [![Taylor Swift onstage with an acoustic guitar](https://www.women.com/img/gallery/taylor-swifts-most-iconic-eras-tour-outfits-ranked/intro-1734033449.jpg)](https://www.women.com/1736902/taylor-swift-iconic-eras-tour-outfits-ranked/)
     
@@ -383,30 +407,6 @@ More Stories
     From Michelle Obama to Taylor Swift, these celebrity women are proudly showing the world that the hair you're born with is worth celebrating.
     
     By Emily Hutchinson [Read More](https://www.women.com/1714855/celebs-look-gorgeous-with-their-natural-hair/)
-    
-*  [![Woman using an epilator on her arm](https://www.women.com/img/gallery/mistakes-you-may-be-making-with-your-epilator/intro-1732631218.jpg)](https://www.women.com/1723124/mistakes-making-epilator/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
-    
-    ### [Mistakes You May Be Making With Your Epilator](https://www.women.com/1723124/mistakes-making-epilator/)
-    
-    Epilators are a little painful, and using them incorrectly can cause redness, irritation, and breakage. That's why it's important to work on technique.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1723124/mistakes-making-epilator/)
-    
-*  [![Kaia Gerber at an event posing](https://www.women.com/img/gallery/the-best-picks-from-kaia-gerbers-book-club-so-far/intro-1732293937.jpg)](https://www.women.com/1720621/best-picks-kaia-gerber-book-club/)
-    
-    [Living](https://www.women.com/category/living/)
-    
-    [Living](https://www.women.com/category/living/) By Bernadette Roe
-    
-    ### [The Best Picks From Kaia Gerber's Book Club (So Far)](https://www.women.com/1720621/best-picks-kaia-gerber-book-club/)
-    
-    Kaia Gerber's book club, Library Science, kicked off in March 2024 and offers a totally curated vibe of unique and unusual books.
-    
-    By Bernadette Roe [Read More](https://www.women.com/1720621/best-picks-kaia-gerber-book-club/)
     
 
 Back
