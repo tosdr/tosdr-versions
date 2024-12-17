@@ -193,6 +193,14 @@ Some of our posts may contain affiliate links to partner brands. We earn a small
 
 ### More articles
 
+![](https://inspgr.id/app/uploads/2024/12/editorial-best-design-books-2024-feature.jpg)
+
+[Art](https://theinspirationgrid.com/category/art/)[Graphic Design](https://theinspirationgrid.com/category/design/)
+
+[](https://theinspirationgrid.com/editorial/our-favorite-art-design-books-of-2024/)
+
+### Our Favorite Art & Design Books of 2024
+
 ![](https://inspgr.id/app/uploads/2024/12/paperlike-bumper-case-ipad-feature.jpg)
 
 [Graphic Design](https://theinspirationgrid.com/category/design/)[Illustration](https://theinspirationgrid.com/category/illustration/)
@@ -216,14 +224,6 @@ Some of our posts may contain affiliate links to partner brands. We earn a small
 [](https://theinspirationgrid.com/editorial/hands-on-with-pentips-3-my-early-impressions/)
 
 ### Hands-On with PenTips 3: My Early Impressions
-
-![](https://inspgr.id/app/uploads/2024/11/ayaneo-pocket-micro-review-feature.jpg)
-
-[Gaming](https://theinspirationgrid.com/category/gaming/)[Industrial Design](https://theinspirationgrid.com/category/industrial-design/)
-
-[](https://theinspirationgrid.com/editorial/ayaneo-pocket-micro-review-a-gorgeous-little-gaming-powerhouse/)
-
-### AYANEO Pocket Micro Review: A Gorgeous Little Gaming Powerhouse
 
 #want
 -----
@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/12/photography-hiroki-matsubara-feature.jpg)
+
+[](https://theinspirationgrid.com/breathtaking-photos-of-japan-by-hiroki-matsubara/)
+
+### Breathtaking Photos of Japan by Hiroki Matsubara
+
+![](https://inspgr.id/app/uploads/2024/12/art-doras-feature.jpg)
+
+[](https://theinspirationgrid.com/dreamlike-large-scale-murals-by-doras/)
+
+### Dreamlike Large-Scale Murals by Doras
+
 ![](https://inspgr.id/app/uploads/2024/12/architecture-aimasia-residence-feature.jpg)
 
 [](https://theinspirationgrid.com/aimasia-residence-by-tom-dixon-a31-architecture/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/lego-x-japanese-aesthetics-3d-creations-by-ruslan-tihomirow/)
 
 ### Lego x Japanese Aesthetics: 3D Creations by Ruslan Tihomirow
-
-![](https://inspgr.id/app/uploads/2024/12/photography-badlands-tobias-hagg-feature.jpg)
-
-[](https://theinspirationgrid.com/the-badlands-series-breathtaking-photos-by-tobias-hagg/)
-
-### The Badlands Series: Aerial Photos by Tobias Hägg
-
-![](https://inspgr.id/app/uploads/2024/12/illustration-pol-serra-feature.jpg)
-
-[](https://theinspirationgrid.com/cool-celebrity-caricatures-by-pol-serra/)
-
-### Cool Celebrity Caricatures by Pol Serra
 
 Awesome products for creatives
 ------------------------------
