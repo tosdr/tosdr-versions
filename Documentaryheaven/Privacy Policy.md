@@ -123,44 +123,44 @@ Advertisement
     Suicide
     
     Released in 2001, Suicide is a film directed by Eames Yates and explores the suicide of his own brother which occurred two years prior to this films release. Eames' brother Teddy was 40 when he shot h...](https://documentaryheaven.com/suicide/ "Suicide")
-* [![Dispatches: The Killing Zone](/wp-content/thumbnails/481-100x70.png?x53432)
+* [![September Clues](/wp-content/thumbnails/1588-100x70.jpg?x53432)
     
-    Dispatches: The Killing Zone
+    September Clues
     
-    While the world's attention has been fixed on the war in Iraq, Dispatches reporter Sandra Jordan and producer Rodrigo Vasquez risk their lives to reveal the shocking level of daily violence and murder...](https://documentaryheaven.com/dispatches-the-killing-zone/ "Dispatches: The Killing Zone")
-* [![The Hour Of Our Time: The Legacy of William Cooper](/wp-content/thumbnails/1157-100x70.jpg?x53432)
+    This comprehensive analysis of the 9/11 broadcasts shows how the mainstream media actively participated in the 9/11 false-flag operation aimed at generating public support for illegal wars. This media...](https://documentaryheaven.com/september-clues/ "September Clues")
+* [![Design: e²](/wp-content/thumbnails/2696-100x70.png?x53432)
     
-    The Hour Of Our Time: The Legacy of William Cooper
+    Design: e²
     
-    Surrounding us in our day-to-day lives are mysteries, that to spend our days pondering would paralyze us from leading productive lives. So we turn away from these thoughts in order to seek out as trou...](https://documentaryheaven.com/the-hour-of-our-time-the-legacy-of-william-cooper/ "The Hour Of Our Time: The Legacy of William Cooper")
+    The Green Apple. David Owen, a writer for The New Yorker, discusses the complex issues of sustainability as they relate to urban and suburban life. “Green Manhattan,” an article that Owen wrote for Th...](https://documentaryheaven.com/design-e%c2%b2/ "Design: e²")
 
 ###### Throwback Documentaries
 
-* [![Gitmo: The New Rules of War](/wp-content/thumbnails/2345-100x70.jpg?x53432)
+* [![A Cold Place to Live Outside: Homelessness in the Canadian Arctic](/wp-content/thumbnails/8091-100x70.jpg?x53432)
     
-    Gitmo: The New Rules of War
+    A Cold Place to Live Outside: Homelessness in the Canadian Arctic
     
-    It’s a Swedish documentary about the Guantanamo Bay Naval Base by Erik Gandini and Tarik Saleh. Features interviews with Janis Karpinski, Mehdi Ghezali and Geoffrey Miller (MG), among others. Gitmo p](https://documentaryheaven.com/gitmo-the-new-rules-of-war/ "Gitmo: The New Rules of War")
-* [![The Real Face of the European Union](/wp-content/thumbnails/4843-100x70.jpg?x53432)
+    This film is a part of a research project being lead by Dr. Michael Young in the School of Humanitarian Studies. It documents some of the problems associated with homelessness, addictions and mental h](https://documentaryheaven.com/homelessness-canadian-arctic/ "A Cold Place to Live Outside: Homelessness in the Canadian Arctic")
+* [![I Am Heath Ledger](/wp-content/thumbnails/14195-100x70.jpg?x53432)
     
-    The Real Face of the European Union
+    I Am Heath Ledger
     
-    "The EU has been sold to Britain as our best hope for the future . . . But behind the scenes, has another, more unsettling agenda been unfolding? The European Economic Community (EEC) began for Britai](https://documentaryheaven.com/the-real-face-of-the-european-union/ "The Real Face of the European Union")
-* [![From Jail to Jihad?](/wp-content/thumbnails/8794-100x70.jpg?x53432)
+    I Am Heath Ledger is a new feature length film which details the life of hollywood actor Heath Ledger. It is a celebration of his life which was tragically cut short in 2008 when Ledger pass](https://documentaryheaven.com/i-am-heath-ledger/ "I Am Heath Ledger")
+* [![The Sustainable City](/wp-content/thumbnails/2469-100x70.jpg?x53432)
     
-    From Jail to Jihad?
+    The Sustainable City
     
-    BBC's Panorama sets about investigating the growing trend of convicted criminals converting to Islam and the potential for these converts to become radical or fundamentalists. Within the last ten year](https://documentaryheaven.com/from-jail-to-jihad/ "From Jail to Jihad?")
-* [![Frontlines of Construction: Engineering for Terror](/wp-content/thumbnails/6423-100x70.png?x53432)
+    Today, the way ecology is being incorporated into architecture has evolved considerably. Sustainable architecture, or green architecture, aims to minimize the negative impact of buildings on the envir](https://documentaryheaven.com/the-sustainable-city/ "The Sustainable City")
+* [![Dreamville Presents: REVENGE](/wp-content/thumbnails/14618-100x70.jpeg?x53432)
     
-    Frontlines of Construction: Engineering for Terror
+    Dreamville Presents: REVENGE
     
-    Design and engineering experts demonstrate the latest anti-terrorist technologies being used by military intelligence, from bulletproof laminates to iris scanners](https://documentaryheaven.com/frontlines-of-construction-engineering-for-terror/ "Frontlines of Construction: Engineering for Terror")
-* [![Grindr Killer](/wp-content/thumbnails/12875-100x70.jpg?x53432)
+    Hip Hop artist J. Cole released his latest album Revenge of The Dreamers III on July 5th (2019), the album was accompanied by a 30 minute documentary Dreamville Presents: REVENGE. A film which pro](https://documentaryheaven.com/dreamville-presents-revenge/ "Dreamville Presents: REVENGE")
+* [![America in Color: The 1920s](/wp-content/thumbnails/13948-100x70.jpg?x53432)
     
-    Grindr Killer
+    America in Color: The 1920s
     
-    Stephen Port is a 42 year old convicted rapist and serial killer from the United Kingdom, he is responsible for murdering at least four men and for carrying out multiple rapes. For these offences he i](https://documentaryheaven.com/grindr-killer/ "Grindr Killer")
+    This is the story of America, seen in color for the first time and it's the roaring 20's, the country is flourishing and the economy isn't the only thing roaring. Henry Ford ignites the auto industry,](https://documentaryheaven.com/america-in-color-1920s/ "America in Color: The 1920s")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
