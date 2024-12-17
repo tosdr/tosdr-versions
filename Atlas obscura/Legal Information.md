@@ -14,17 +14,171 @@ Force Open Search
 
 Open main menu
 
-Loading...
+![](https://assets.atlasobscura.com/assets/hermes/aoa_logo_aon-fb53a8d4415047286c25915bdbbdf3721acc39fd90bd71bf7712345c0096a45b.svg)
 
-Loading...
+Take your next trip with Atlas Obscura!
+---------------------------------------
 
-Loading...
+Our small-group adventures are inspired by our Atlas of the world's most fascinating places, the stories behind them, and the people who bring them to life.
 
-Loading...
+[Visit Adventures](https://www.atlasobscura.com/adventures/)
 
-Loading...
+Trips Highlight
 
-Loading...
+   [![Taktsang Lhakhang, also known as the “Tiger’s Nest”.](https://img.atlasobscura.com/RSZIiueNnnDOP27x8SP3wpC8WS6H6-f16yFb7PVmaR0/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy8zNjI0/NGRlMS05YzhjLTQ4/ZGUtOTExNy1kNzhk/NzRjMjBkYjllYTQ4/ZDAyYWM2N2RlODE3/MjVfc2h1dHRlcnN0/b2NrXzUxMjk4MzYy/MSAoMSkuanBn.jpg)](https://www.atlasobscura.com/adventures/trips/bhutan)
+
+Bhutan • 11 days, 10 nights
+
+[Festivals & Temples of Bhutan](https://www.atlasobscura.com/adventures/trips/bhutan)
+
+from
+
+   [![Vietnam - Hue Royal Tea](https://img.atlasobscura.com/PJPQZfiliun8_jZ9aLOG78uY4iNez29xwhmqrRhxUjE/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy9hYjkx/NWZkMi1iMDI2LTQy/OGMtOWEzZi0yMzE0/MzRlNTAzNTRjNWI2/MjI1MWVlZTM3Yjhk/ODFfVmlldG5hbSAx/IC0gR2V0dHlJbWFn/ZXMtOTk2MjYwOTQ4/LmpwZw.jpg)](https://www.atlasobscura.com/adventures/trips/vietnam-gastro)
+
+Vietnam • 10 days, 9 nights
+
+[Flavors of Vietnam: Fish Sauce, Pho & Royal Tea](https://www.atlasobscura.com/adventures/trips/vietnam-gastro)
+
+from
+
+[View all trips](https://www.atlasobscura.com/adventures/trips)
+
+Upcoming Experiences
+
+[View All Experiences »](https://www.atlasobscura.com/events)
+
+   [![](https://img.atlasobscura.com/AxNQpouM-DrINwgCwgsEyDu9s42tyihgwbMnl1wmoPc/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy9kYTEz/M2VhZi1iM2FlLTRh/NTQtODEyNC03OGJm/ZWRlMjYyOTMwYjEx/OTcwZTNlOWZkZWVl/ZTVfYmY4N2JkNWEt/MmQ3NS00Y2Q1LTlk/YmEtOTU4MjU3YWRh/MWUyNDNlY2FiOTAw/MjJiMmM5N2M0X29k/ZHZlcnQuanBn.jpg)
+
+Members Only
+
+Antiques and Their Afterlives: Holiday Gift Guide](https://www.atlasobscura.com/experiences/antiques-and-their-afterlives-an-unusual-holiday-gift-guide)
+
+   [![](https://img.atlasobscura.com/5_0N13X64BNWcHUBzGUTT9JrWceihLmKMh5zgHc2I9E/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy83M2M5/ZDJiYy1hNWY5LTRk/ZDctOTQ0MC1jNDRk/YjQ0Y2IxNjdjYzk3/YWU1YmJmMmNhY2Q3/ZjZfbW91bmlyLWFi/ZGktaV9DRG9UVHA1/OW8tdW5zcGxhc2gu/anBn.jpg)
+
+Members Only
+
+Monster of the Month w/ Colin Dickey: The Sphinx](https://www.atlasobscura.com/experiences/monster-of-the-month-w-colin-dickey-the-sphinx)
+
+Upcoming Courses
+
+[View All Courses »](https://www.atlasobscura.com/online-courses)
+
+Top Destinations
+
+Latest Places
+
+[Most Popular Places](https://www.atlasobscura.com/places?sort=likes_count) [Random Place](https://www.atlasobscura.com/random) [Lists](https://www.atlasobscura.com/lists) [Itineraries](https://www.atlasobscura.com/itineraries)[Add a Place](https://www.atlasobscura.com/places/new)[Download the App](https://app.atlasobscura.com/)
+
+Top Destinations
+
+[View All Destinations »](https://www.atlasobscura.com/destinations)
+
+### Countries
+
+* [Australia](https://www.atlasobscura.com/things-to-do/australia "Australia")
+* [Canada](https://www.atlasobscura.com/things-to-do/canada "Canada")
+* [China](https://www.atlasobscura.com/things-to-do/china "China")
+* [France](https://www.atlasobscura.com/things-to-do/france "France")
+* [Germany](https://www.atlasobscura.com/things-to-do/germany "Germany")
+* [India](https://www.atlasobscura.com/things-to-do/india "India")
+* [Italy](https://www.atlasobscura.com/things-to-do/italy "Italy")
+* [Japan](https://www.atlasobscura.com/things-to-do/japan "Japan")
+
+### Cities
+
+* [Amsterdam](https://www.atlasobscura.com/things-to-do/amsterdam-netherlands "Amsterdam")
+* [Barcelona](https://www.atlasobscura.com/things-to-do/barcelona-spain "Barcelona")
+* [Beijing](https://www.atlasobscura.com/things-to-do/beijing-china "Beijing")
+* [Berlin](https://www.atlasobscura.com/things-to-do/berlin-germany "Berlin")
+* [Boston](https://www.atlasobscura.com/things-to-do/boston-massachusetts "Boston")
+* [Budapest](https://www.atlasobscura.com/things-to-do/budapest-hungary "Budapest")
+* [Chicago](https://www.atlasobscura.com/things-to-do/chicago-illinois "Chicago")
+* [London](https://www.atlasobscura.com/things-to-do/london-england "London")
+* [Los Angeles](https://www.atlasobscura.com/things-to-do/los-angeles-california "Los Angeles")
+* [Mexico City](https://www.atlasobscura.com/things-to-do/mexico-city-mexico "Mexico City")
+* [Montreal](https://www.atlasobscura.com/things-to-do/montreal-quebec "Montreal")
+* [Moscow](https://www.atlasobscura.com/things-to-do/moscow-russia "Moscow")
+* [New Orleans](https://www.atlasobscura.com/things-to-do/new-orleans-louisiana "New Orleans")
+* [New York City](https://www.atlasobscura.com/things-to-do/new-york "New York City")
+* [Paris](https://www.atlasobscura.com/things-to-do/paris-france "Paris")
+* [Philadelphia](https://www.atlasobscura.com/things-to-do/philadelphia-pennsylvania "Philadelphia")
+* [Rome](https://www.atlasobscura.com/things-to-do/rome-italy "Rome")
+* [San Francisco](https://www.atlasobscura.com/things-to-do/san-francisco-california "San Francisco")
+* [Seattle](https://www.atlasobscura.com/things-to-do/seattle-washington "Seattle")
+* [Stockholm](https://www.atlasobscura.com/things-to-do/stockholm-sweden "Stockholm")
+* [Tokyo](https://www.atlasobscura.com/things-to-do/tokyo-japan "Tokyo")
+* [Toronto](https://www.atlasobscura.com/things-to-do/toronto-ontario "Toronto")
+* [Vienna](https://www.atlasobscura.com/things-to-do/vienna-austria "Vienna")
+* [Washington, D.C.](https://www.atlasobscura.com/things-to-do/washington-dc "Washington, D.C.")
+
+Latest Places
+
+[View All Places »](https://www.atlasobscura.com/places?sort=published_at)
+
+   [![Kiyomizu-Kannondo Temple and the pine tree.](https://img.atlasobscura.com/BXhWeZ2UKdfLKKKvrqk_IcMJ4avTZw_0WDp4ZmKiszU/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy81ZDg4/NjUxZi0wYWIzLTQ2/MmItOTc1My03YzM0/YTZhZGU3MWMwYThm/NWFhNTg5MTJiNTY2/YzZfMDdGQTgzOEQt/NEIxNi00RDQ0LUEz/NzUtMzQwNjE0NjJC/NDUxLmpwZWc.jpg)
+
+Moon Pine Tree](https://www.atlasobscura.com/places/moon-pine-tree)
+
+   [![The Poltalloch House has a long history behind it. ](https://img.atlasobscura.com/MXN75cjU_0Vhs2kSat8HKlj09fCjQ853wGbMoAnJemM/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy80NTc3/ODdlZS1hNDM3LTRh/ZjQtYTNmNi1jYjA0/YjU0MjBlNmIxNTM1/MjA1MWM1MTFhYTBj/OTBfSU1HXzgwNTQu/anBlZw.jpg)
+
+Poltalloch House](https://www.atlasobscura.com/places/poltalloch-house)
+
+   [![Entrance to the cemetery.](https://img.atlasobscura.com/mMmfUMir11LsVeu2EDFkqNWWjplfTt56v9mlTw71xno/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8wMWJj/ZmFiNS02M2VlLTQ3/ZmEtYTg3YS00Y2Qz/OTJlNDdhODIyODk1/ODJmOTE0MTZhM2Iw/ZjNfUFhMXzIwMjQw/MzE3XzExMDUxNzEw/My5qcGc.jpg)
+
+Lumley Commonwealth War Grave Cemetery](https://www.atlasobscura.com/places/lumley-commonwealth-war-grave-cemetery)
+
+   [![Malmö Spetsbunker](https://img.atlasobscura.com/sOANvyOzZou1ZEJPn6fN5kDIi8u_z4cMfVm3jTIfaUE/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8wNzky/ZTRlZS00M2E4LTQw/YjAtYjNkNS0zMGQ2/ZGU2MzljZTM3MDNj/ZmMwZGE4YjUxOWZi/ZWNfMjAyNDExMDJf/MTIxNTQwLmpwZw.jpg)
+
+Malmö Spetsbunker (Malmö Winkel Tower)](https://www.atlasobscura.com/places/malmo-winkel-tower)
+
+Latest Places to Eat & Drink
+
+[View All Places to Eat »](https://www.atlasobscura.com/cool-places-to-eat)
+
+   [![omàtiga de aregada is a salad of bitter escarole topped with a mix of minced tomatoes, salted sardines and pickled sea fennel.](https://img.atlasobscura.com/biBs7OrcoW7iuklxyaW72ptAbl8jz_r3kRW6uEK_u0E/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9hNThj/NDljODczZDk5ZjVm/YTdfMjAyNDA5IEJh/cmNlbG9uYSBTcGFp/bi01MTQ3LmpwZw.jpg)
+
+Na Mindona](https://www.atlasobscura.com/places/na-mindona)
+
+   [![This former veterinarian and self-professed “super lover of cheese” now follows his passion.](https://img.atlasobscura.com/SbstKy4j2jY3Sv1BW02o6VhFxYh5YVopGR1dmNKTaIU/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy81MWQ2/ZmRmYjYyYjkwY2Fi/ZjNfMjAyNDA5IEJh/cmNlbG9uYSBTcGFp/bi01OTgxLmpwZw.jpg)
+
+Pinullet](https://www.atlasobscura.com/places/pinullet)
+
+   [![The hot chocolate here is particularly thick and rich.](https://img.atlasobscura.com/8g1jgePxJm1OpUkMyYGim_PTP7y84kupEQGn-Irp6v8/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9lMTdh/MmI2OGE4Mjg5ZDRj/MDRfMjAyNDA5IEJh/cmNlbG9uYSBTcGFp/bi00NjUyLmpwZw.jpg)
+
+Granja Dulcinea](https://www.atlasobscura.com/places/granja-dulcinea)
+
+   [![Fideuà, a close cousin of paella made with noodles, is a specialty here.](https://img.atlasobscura.com/pYLlwtXSzb7mA0QYjRP4F8YR-H8c6HCm2D6_eSPa6O4/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy84ZTAx/ZWJjZGUzZTA3Mjhi/YmNfMjAyNDA5IEJh/cmNlbG9uYSBTcGFp/bi02MDQ5LmpwZw.jpg)
+
+Xiringuito Escribà](https://www.atlasobscura.com/places/xiringuito-escriba)
+
+   [![For dessert, try the flan mel i mató, made with a type of Catalan cheese.](https://img.atlasobscura.com/6XGe8ee2rapehwl7DJZJZ9H3Nd8rwAGYEpVE9hZ-A3U/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9kMDlj/OTFkNzZiMGJlNDQz/NzJfMjAyNDA5IEJh/cmNlbG9uYSBTcGFp/bi02Mzk0LmpwZw.jpg)
+
+La Pubilla](https://www.atlasobscura.com/places/la-pubilla)
+
+Recent Stories
+
+[All Stories](https://www.atlasobscura.com/articles) [Puzzles](https://www.atlasobscura.com/series/ao-puzzles) [Video](https://www.atlasobscura.com/videos) [Podcast](https://www.atlasobscura.com/podcast)
+
+Most Recent Stories
+
+[View All Stories »](https://www.atlasobscura.com/articles)
+
+   [![Two glasses of tonic water, with one glowing under UV light.  ](https://img.atlasobscura.com/aP1I_d6CUwy1RCRgehHaNY1dD2CLbB8mtevayLWkSA0/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy80YTJmY2U5YWRk/ZjYxYzE3YzBfdXYg/Z2luIHRvbmljLmpw/Zw.jpg)
+
+How to Make Fluorescent Food](https://www.atlasobscura.com/articles/how-to-make-a-fluorescent-cake)
+
+   [![Order fideuà loaded with meat and seafood at Xiringuito Escribà.
+](https://img.atlasobscura.com/7AtSiKil8Csjnf1b-_e45c138R3PflOWFwIvwWJkydQ/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9jYmM3OWEzMi1i/MmJlLTQyMjgtOGVh/ZC1mMWE4ZGFhM2Jk/ZDYxZTg5NWY3ZDY1/MDUyYjViYmJfMjAy/NDA5IEJhcmNlbG9u/YSBTcGFpbi02MDQ5/LmpwZw.jpg)
+
+Gastro Obscura's 10 Essential Places to Eat and Drink in Barcelona](https://www.atlasobscura.com/articles/best-restaurants-barcelona)
+
+   [![Even colorful rainbows can carry spooky superstitions.](https://img.atlasobscura.com/38NZ-ERrucKhN1nEY6WE75KmIKZgTW7QzowM5wIwqYI/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy83NTdmZTIwMy00/NDM1LTQ5NGItODU4/Yi1kYzM5Zjc1ODg4/YjM3ZmIyZGViNTkx/YzE3NjAzZGVfMTAx/NDI0MDEtYjMxZi00/YTZhLWJhNDItNWZj/NGQ1YTEwOGViOWQy/OWMxMjhhY2QxMjg0/ZTM5X1JhaW5ib3cg/VGFib29fR2V0dHlJ/bWFnZXMtMTAzNjUx/NTQ4LmpwZw.jpg)
+
+5 Superstitious Stories for Friday the 13th](https://www.atlasobscura.com/articles/superstitious-stories-friday-the-13th)
+
+   [![At Milovice Nature Reserve in Czechia, tauros cattle have been introduced with other species like horses in a recreated "prehistoric" environment.](https://img.atlasobscura.com/4OT42sfCK8aVI-Jb76aevGBcak1moQNAK6sXPDiPXgw/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9lMTVhZGU3NzM4/YjExY2QyMzhfUmVr/b25zdHJ1a3Rpb25f/QXVlcm9jaHNlX2lt/X1RpZXItRnJlaWdl/bGHMiG5kZV9OYXRp/b25hbHBhcmt6ZW50/cnVtc19GYWxrZW5z/dGVpbl9kZXNfQmF5/ZXJpc2NoZW5fV2Fs/ZC5qcGc.jpg)
+
+The Story of the Aurochs Is More Complicated Than We Thought](https://www.atlasobscura.com/articles/where-did-aurochs-live)
 
 No search results found for  
 “”
