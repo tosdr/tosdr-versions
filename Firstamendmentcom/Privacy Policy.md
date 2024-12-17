@@ -25,17 +25,7 @@
 
 [](javascript:void(0))
 
-[![logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20402%20190'%3E%3C/svg%3E)
-
-![logo](https://www.firstamendment.com/wp-content/uploads/2020/06/logo-1.png)
-
-![dark logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20402%20190'%3E%3C/svg%3E)
-
-![dark logo](https://www.firstamendment.com/wp-content/uploads/2020/06/logo-1.png)
-
-![light logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20402%20190'%3E%3C/svg%3E)
-
-![light logo](https://www.firstamendment.com/wp-content/uploads/2020/06/logo-1.png)](https://www.firstamendment.com/)
+  [![logo](https://www.firstamendment.com/wp-content/uploads/2020/06/logo-1.png) ![dark logo](https://www.firstamendment.com/wp-content/uploads/2020/06/logo-1.png) ![light logo](https://www.firstamendment.com/wp-content/uploads/2020/06/logo-1.png)](https://www.firstamendment.com/)
 
 [(407) 975-9150](tel:(407)%20975-9150) [Facebook](https://www.facebook.com/WebLaw) [Twitter](https://twitter.com/walterslawgroup) [Linkedin](https://www.linkedin.com/company/walters-law-group-firstamendment.com-?trk=company_logo) [Instagram](https://www.instagram.com/walterslawgroup/) [wikipedia](https://en.wikipedia.org/wiki/Lawrence_G._Walters) [YouTube](https://www.youtube.com/user/webattorney/videos) [Menu](javascript:void(0))
 
