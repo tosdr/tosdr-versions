@@ -645,6 +645,18 @@ Press Release
 
 ![](/themes/custom/usda_uswds/img/USDA_logo.png)
 
+[USDA APHIS Shares Update on Seven New States Coming on Board for its National Milk Testing Strategy](https://www.usda.gov/article/usda-aphis-shares-update-seven-new-states-coming-board-its-national-milk-testing-strategy)
+
+December 17, 2024
+
+Today, the U.S. Department of Agriculture’s (USDA) Animal and Plant Health Inspection Service (APHIS) is announcing the second round of states coming on board as part of its National Milk Testing Strategy (NMTS) that was launched Dec. 6.
+
+[Learn More](https://www.usda.gov/article/usda-aphis-shares-update-seven-new-states-coming-board-its-national-milk-testing-strategy)
+
+Press Release
+
+![](/themes/custom/usda_uswds/img/USDA_logo.png)
+
 [Biden-Harris Administration Announces a Policy Framework to Combat Demand-Driven Illegal Deforestation](https://www.usda.gov/article/biden-harris-administration-announces-policy-framework-combat-demand-driven-illegal-deforestation)
 
 December 17, 2024
@@ -676,18 +688,6 @@ December 16, 2024
 U.S. Department of Agriculture (USDA) Secretary Tom Vilsack today announced $78.3 million in partially forgivable loans for clean energy projects through the Powering Affordable Clean Energy (PACE) program to help lower electricity bills for households.
 
 [Learn More](https://www.usda.gov/article/biden-harris-administration-continues-deliver-affordable-clean-energy-rural-americans-part-investing)
-
-Blog
-
-![](/sites/default/files/styles/trending_card_768x603/public/52402700931-3dd5f88c47-k.jpg?itok=qcWJUgxi)
-
-[Exciting News: Welcome to the New USDA.gov!](https://www.usda.gov/about-usda/news/blog/2024/12/11/exciting-news-welcome-new-usdagov)
-
-December 11, 2024
-
-We’re thrilled to introduce the new and improved USDA.gov!
-
-[Learn More](https://www.usda.gov/about-usda/news/blog/2024/12/11/exciting-news-welcome-new-usdagov)
 
 ### AskUSDA
 
