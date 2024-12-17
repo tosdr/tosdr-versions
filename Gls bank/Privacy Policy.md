@@ -112,7 +112,7 @@
         Sparen
         
         * [Übersicht: Sparen](https://www.gls.de/sparen-investieren/sparen/)
-        * [Beratung](https://www.gls.de/sparen-investieren/sparen/sparberatungberatung/)
+        * [Beratung](https://www.gls.de/sparen-investieren/sparen/sparberatung/)
         * [GLS Anteile zeichnen](https://www.gls.de/sparen-investieren/investieren/gls-anteile/)
         * [Tagesgeldkonto](https://www.gls.de/sparen-investieren/sparen/tagesgeldkonto/)
         * [Tagesgeldkonto Mitglied](https://www.gls.de/sparen-investieren/sparen/tagesgeldkonto-mitglied/)
