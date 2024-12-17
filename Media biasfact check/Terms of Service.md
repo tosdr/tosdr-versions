@@ -67,11 +67,11 @@
 
 MBFC News
 
+* [December 17, 2024 | Media News Daily: Top Stories for 12/17/2024](https://mediabiasfactcheck.com/2024/12/17/media-news-daily-top-stories-for-12-17-2024/ "Media News Daily: Top Stories for 12/17/2024")
+* [December 17, 2024 | MBFC’s Daily Vetted Fact Checks for 12/17/2024](https://mediabiasfactcheck.com/2024/12/17/mbfcs-daily-vetted-fact-checks-for-12-17-2024/ "MBFC’s Daily Vetted Fact Checks for 12/17/2024")
 * [December 16, 2024 | Media News Daily: Top Stories for 12/16/2024](https://mediabiasfactcheck.com/2024/12/16/media-news-daily-top-stories-for-12-16-2024/ "Media News Daily: Top Stories for 12/16/2024")
 * [December 16, 2024 | MBFC’s Daily Vetted Fact Checks for 12/16/2024](https://mediabiasfactcheck.com/2024/12/16/mbfcs-daily-vetted-fact-checks-for-12-16-2024/ "MBFC’s Daily Vetted Fact Checks for 12/16/2024")
 * [December 15, 2024 | Source of the Week: AF Post](https://mediabiasfactcheck.com/2024/12/15/source-of-the-week-af-post/ "Source of the Week: AF Post")
-* [December 15, 2024 | MBFC’s Daily Vetted Fact Checks for 12/15/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/12/15/mbfcs-daily-vetted-fact-checks-for-12-15-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 12/15/2024 (Weekend Edition)")
-* [December 14, 2024 | MBFC’s Weekly Media Literacy Quiz Covering the Week of DEC 8th – DEC 14th](https://mediabiasfactcheck.com/2024/12/14/mbfcs-weekly-media-literacy-quiz-covering-the-week-of-dec-8th-dec-14th/ "MBFC’s Weekly Media Literacy Quiz Covering the Week of DEC 8th – DEC 14th")
 
 Search for:  
 
@@ -147,6 +147,14 @@ No related posts.
 
 #### Recently Added Sources or Pages
 
+* [Context – Bias and Credibility](https://mediabiasfactcheck.com/context-bias-and-credibility/)
+    
+    December 17, 2024
+    
+* [Newbury Weekly News – Bias and Credibility](https://mediabiasfactcheck.com/newbury-weekly-news-bias/)
+    
+    December 17, 2024
+    
 * [Anonymous News (AN) – Bias and Credibility](https://mediabiasfactcheck.com/anonymous-news-an-bias-and-credibility/)
     
     December 16, 2024
@@ -171,17 +179,15 @@ No related posts.
     
     December 15, 2024
     
-* [Accounting Education Journal – Bias and Credibility](https://mediabiasfactcheck.com/accounting-education-journal-bias/)
-    
-    December 15, 2024
-    
-* [Matt Walsh Bias Rating](https://mediabiasfactcheck.com/matt-walsh-bias-rating/)
-    
-    December 15, 2024
-    
 
 #### Recently Updated Pages
 
+* [Context – Bias and Credibility](https://mediabiasfactcheck.com/context-bias-and-credibility/ "View Context – Bias and Credibility") - December 17, 2024
+    
+* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - December 17, 2024
+    
+* [Newbury Weekly News – Bias and Credibility](https://mediabiasfactcheck.com/newbury-weekly-news-bias/ "View Newbury Weekly News – Bias and Credibility") - December 17, 2024
+    
 * [C19proxalutamide.com – Bias and Credibility](https://mediabiasfactcheck.com/c19proxalutamide-com-bias/ "View C19proxalutamide.com – Bias and Credibility") - December 16, 2024
     
 * [C19ivermectin.com – Bias and Credibility](https://mediabiasfactcheck.com/c19ivermectin-com-bias/ "View C19ivermectin.com – Bias and Credibility") - December 16, 2024
@@ -196,12 +202,6 @@ No related posts.
     
 * [Buzzfeed News – Bias and Credibility](https://mediabiasfactcheck.com/buzzfeed-news/ "View Buzzfeed News – Bias and Credibility") - December 16, 2024
     
-* [Butler County Times-Gazette – Bias and Credibility](https://mediabiasfactcheck.com/butler-county-times-gazette-bias/ "View Butler County Times-Gazette – Bias and Credibility") - December 16, 2024
-    
-* [Business Standard (India) – Bias and Credibility](https://mediabiasfactcheck.com/business-standard-india/ "View Business Standard (India) – Bias and Credibility") - December 16, 2024
-    
-* [Burnsville-Eagan Sun ThisWeek – Bias and Credibility](https://mediabiasfactcheck.com/burnsville-eagan-sun-thisweek-bias/ "View Burnsville-Eagan Sun ThisWeek – Bias and Credibility") - December 16, 2024
-    
 
 #### Today’s Top Page Views
 
@@ -213,8 +213,8 @@ No related posts.
 * [NewsNation - Bias and Credibility](https://mediabiasfactcheck.com/newsnation/)
 * [Associated Press (AP News) - Bias and Credibility](https://mediabiasfactcheck.com/associated-press/)
 * [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
-* [MBFC's Daily Vetted Fact Checks for 12/16/2024](https://mediabiasfactcheck.com/2024/12/16/mbfcs-daily-vetted-fact-checks-for-12-16-2024/)
 * [BBC - Bias and Credibility](https://mediabiasfactcheck.com/bbc/)
+* [MBFC's Daily Vetted Fact Checks for 12/16/2024](https://mediabiasfactcheck.com/2024/12/16/mbfcs-daily-vetted-fact-checks-for-12-16-2024/)
 
 #### Subscribe via Email
 
