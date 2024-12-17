@@ -20,16 +20,16 @@ Tuesday, December 17 2024
 
 Latest
 
-* [FBI spots HiatusRAT malware attacks targeting web cameras, DVRs](https://digitpatrox.com/fbi-spots-hiatusrat-malware-attacks-targeting-web-cameras-dvrs/)
-* [Mark Zuckerberg says Threads has more than 100 million daily active users](https://digitpatrox.com/mark-zuckerberg-says-threads-has-more-than-100-million-daily-active-users/)
-* [Duel Warriors Codes (December 2024)](https://digitpatrox.com/duel-warriors-codes-december-2024/)
-* [Nokia hails success of Europe’s first commercial 5G cloud RAN deployment](https://digitpatrox.com/nokia-hails-success-of-europes-first-commercial-5g-cloud-ran-deployment/)
-* [Making AI popular is a marathon, not a sprint – Computerworld](https://digitpatrox.com/making-ai-popular-is-a-marathon-not-a-sprint-computerworld/)
-* [These Were the Most Popular iPhone Apps of 2024](https://digitpatrox.com/these-were-the-most-popular-iphone-apps-of-2024/)
-* [How to restore Registry from secret backup on Windows 11, 10](https://digitpatrox.com/how-to-restore-registry-from-secret-backup-on-windows-11-10/)
-* [How to Choose Healthier Cookware and Kitchen Tools](https://digitpatrox.com/how-to-choose-healthier-cookware-and-kitchen-tools/)
-* [5 Ways to Switch Off From Your Microsoft Work This Holiday](https://digitpatrox.com/5-ways-to-switch-off-from-your-microsoft-work-this-holiday/)
-* [What are return to office (RTO) mandates and why is big tech embracing them?](https://digitpatrox.com/what-are-return-to-office-rto-mandates-and-why-is-big-tech-embracing-them/)
+* [Why the UK’s “outdated” cybersecurity legislation needs an urgent refresh](https://digitpatrox.com/why-the-uks-outdated-cybersecurity-legislation-needs-an-urgent-refresh/)
+* [All 6 Types of IVR Routing and When to Use Each One](https://digitpatrox.com/all-6-types-of-ivr-routing-and-when-to-use-each-one/)
+* [Xreal One vs Viture Pro: Which AR glasses should you buy?](https://digitpatrox.com/xreal-one-vs-viture-pro-which-ar-glasses-should-you-buy/)
+* [Texas Tech University System data breach impacts 1.4 million patients](https://digitpatrox.com/texas-tech-university-system-data-breach-impacts-1-4-million-patients/)
+* [Waymo is sending autonomous vehicles to Japan for first international tests](https://digitpatrox.com/waymo-is-sending-autonomous-vehicles-to-japan-for-first-international-tests/)
+* [The White Lotus Season 3 Release Date Confirmed With New Trailer](https://digitpatrox.com/the-white-lotus-season-3-release-date-confirmed-with-new-trailer/)
+* [Orbus Software acquires business architecture specialist Capsifi](https://digitpatrox.com/orbus-software-acquires-business-architecture-specialist-capsifi/)
+* [You Can Now Ask Questions During Google’s AI Podcasts](https://digitpatrox.com/you-can-now-ask-questions-during-googles-ai-podcasts/)
+* [Tires That Last the Longest](https://digitpatrox.com/tires-that-last-the-longest/)
+* [ChatGPT’s Search Engine Is Rolling Out to More People](https://digitpatrox.com/chatgpts-search-engine-is-rolling-out-to-more-people/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://www.bleepstatic.com/content/hl-images/2024/12/16/rat_malware.jpg)](https://digitpatrox.com/fbi-spots-hiatusrat-malware-attacks-targeting-web-cameras-dvrs/)
+* [![](https://cdn.mos.cms.futurecdn.net/SUTx8RvwMdHBGttPGtQti-1200-80.jpg)](https://digitpatrox.com/why-the-uks-outdated-cybersecurity-legislation-needs-an-urgent-refresh/)
     
-    [FBI spots HiatusRAT malware attacks targeting web cameras, DVRs](https://digitpatrox.com/fbi-spots-hiatusrat-malware-attacks-targeting-web-cameras-dvrs/)
+    [Why the UK’s “outdated” cybersecurity legislation needs an urgent refresh](https://digitpatrox.com/why-the-uks-outdated-cybersecurity-legislation-needs-an-urgent-refresh/)
     
-    22 minutes ago
+    31 minutes ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/YavtHu47GBXbFJeKLrxkZwo474E=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24774110/STK156_Instagram_threads_1.jpg)](https://digitpatrox.com/mark-zuckerberg-says-threads-has-more-than-100-million-daily-active-users/)
+* [![](https://assets.techrepublic.com/uploads/2024/12/ivr-routing-featured-image-12122024-min.jpg)](https://digitpatrox.com/all-6-types-of-ivr-routing-and-when-to-use-each-one/)
     
-    [Mark Zuckerberg says Threads has more than 100 million daily active users](https://digitpatrox.com/mark-zuckerberg-says-threads-has-more-than-100-million-daily-active-users/)
+    [All 6 Types of IVR Routing and When to Use Each One](https://digitpatrox.com/all-6-types-of-ivr-routing-and-when-to-use-each-one/)
     
-    43 minutes ago
+    35 minutes ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/12/Duel-Warriors-banner-from-Roblox.jpg)](https://digitpatrox.com/duel-warriors-codes-december-2024/)
+* [![](https://cdn.mos.cms.futurecdn.net/A5MFzgpAahYhDcBt2D5izY-1200-80.jpg)](https://digitpatrox.com/xreal-one-vs-viture-pro-which-ar-glasses-should-you-buy/)
     
-    [Duel Warriors Codes (December 2024)](https://digitpatrox.com/duel-warriors-codes-december-2024/)
+    [Xreal One vs Viture Pro: Which AR glasses should you buy?](https://digitpatrox.com/xreal-one-vs-viture-pro-which-ar-glasses-should-you-buy/)
     
-    59 minutes ago
+    40 minutes ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/D6hvhc8ZrWoC2dXjvMxggB-1200-80.jpg)](https://digitpatrox.com/nokia-hails-success-of-europes-first-commercial-5g-cloud-ran-deployment/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/08/27/ransomware-2.jpg)](https://digitpatrox.com/texas-tech-university-system-data-breach-impacts-1-4-million-patients/)
     
-    [Nokia hails success of Europe’s first commercial 5G cloud RAN deployment](https://digitpatrox.com/nokia-hails-success-of-europes-first-commercial-5g-cloud-ran-deployment/)
+    [Texas Tech University System data breach impacts 1.4 million patients](https://digitpatrox.com/texas-tech-university-system-data-breach-impacts-1-4-million-patients/)
     
     2 hours ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3625337-0-54480100-1734374515-runner-silhouettes-by-fitsum-admasu-via-unsplash.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/making-ai-popular-is-a-marathon-not-a-sprint-computerworld/)
+* [![](https://cdn.vox-cdn.com/thumbor/24tEuWe0TfGgyJt-c3cMRQ06fIc=/0x0:4928x3280/1200x628/filters:focal(2464x1640:2465x1641)/cdn.vox-cdn.com/uploads/chorus_asset/file/25792993/2155632147.jpg)](https://digitpatrox.com/waymo-is-sending-autonomous-vehicles-to-japan-for-first-international-tests/)
     
-    [Making AI popular is a marathon, not a sprint – Computerworld](https://digitpatrox.com/making-ai-popular-is-a-marathon-not-a-sprint-computerworld/)
+    [Waymo is sending autonomous vehicles to Japan for first international tests](https://digitpatrox.com/waymo-is-sending-autonomous-vehicles-to-japan-for-first-international-tests/)
     
-    3 hours ago
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [22 minutes ago
+* [31 minutes ago
     
-    ### FBI spots HiatusRAT malware attacks targeting web cameras, DVRs](https://digitpatrox.com/fbi-spots-hiatusrat-malware-attacks-targeting-web-cameras-dvrs/)
-* [43 minutes ago
+    ### Why the UK’s “outdated” cybersecurity legislation needs an urgent refresh](https://digitpatrox.com/why-the-uks-outdated-cybersecurity-legislation-needs-an-urgent-refresh/)
+* [35 minutes ago
     
-    ### Mark Zuckerberg says Threads has more than 100 million daily active users](https://digitpatrox.com/mark-zuckerberg-says-threads-has-more-than-100-million-daily-active-users/)
-* [59 minutes ago
+    ### All 6 Types of IVR Routing and When to Use Each One](https://digitpatrox.com/all-6-types-of-ivr-routing-and-when-to-use-each-one/)
+* [40 minutes ago
     
-    ### Duel Warriors Codes (December 2024)](https://digitpatrox.com/duel-warriors-codes-december-2024/)
+    ### Xreal One vs Viture Pro: Which AR glasses should you buy?](https://digitpatrox.com/xreal-one-vs-viture-pro-which-ar-glasses-should-you-buy/)
 
 Most Popular Topics
 
-* [4 weeks ago
+* [October 15, 2024
     
-    ### Listary is a Fast, Powerful Search Tool for Windows](https://digitpatrox.com/listary-is-a-fast-powerful-search-tool-for-windows/)
-* [October 13, 2024
+    ### What is Extreme Programming (XP)?](https://digitpatrox.com/what-is-extreme-programming-xp/)
+* [October 11, 2024
     
-    ### Why You Need to File Your Homeowners Insurance Claim ASAP After a Disaster](https://digitpatrox.com/why-you-need-to-file-your-homeowners-insurance-claim-asap-after-a-disaster/)
-* [2 weeks ago
+    ### The Steam Deck is Finally Coming to Australia](https://digitpatrox.com/the-steam-deck-is-finally-coming-to-australia/)
+* [October 25, 2024
     
-    ### US energy contractor ENGlobal reveals ransomware attack](https://digitpatrox.com/us-energy-contractor-englobal-reveals-ransomware-attack/)
+    ### Change Healthcare Cyberattack Affects Over 100 Million People](https://digitpatrox.com/change-healthcare-cyberattack-affects-over-100-million-people/)
 
 Last Modified Topics
 
-* [3 hours ago
-    
-    ### How to restore Registry from secret backup on Windows 11, 10](https://digitpatrox.com/how-to-restore-registry-from-secret-backup-on-windows-11-10/)
-* [3 hours ago
-    
-    ### How to Choose Healthier Cookware and Kitchen Tools](https://digitpatrox.com/how-to-choose-healthier-cookware-and-kitchen-tools/)
 * [4 hours ago
     
-    ### 5 Ways to Switch Off From Your Microsoft Work This Holiday](https://digitpatrox.com/5-ways-to-switch-off-from-your-microsoft-work-this-holiday/)
+    ### Orbus Software acquires business architecture specialist Capsifi](https://digitpatrox.com/orbus-software-acquires-business-architecture-specialist-capsifi/)
+* [5 hours ago
+    
+    ### You Can Now Ask Questions During Google’s AI Podcasts](https://digitpatrox.com/you-can-now-ask-questions-during-googles-ai-podcasts/)
+* [5 hours ago
+    
+    ### Tires That Last the Longest](https://digitpatrox.com/tires-that-last-the-longest/)
 
 Most Viewed Topics
 
-* [August 12, 2024
-    
-    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 * [August 11, 2024
     
     ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 12, 2024
     
     ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
+* [August 13, 2024
+    
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
