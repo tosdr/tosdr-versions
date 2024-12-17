@@ -89,8 +89,6 @@
 
 * [Log in](https://www.louderwithcrowder.com/login "Log in")
 
-[![](https://cdn.shopify.com/s/files/1/0837/5828/5108/files/Steven_Crowder_-_Placement_Ads_Mug_Club_-_320x50_1.png?v=1709326771)](https://mugclub.rumble.com/)
-
 [![](https://www.louderwithcrowder.com/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yMzE0Nzk2OC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc0MzkxMTY4MX0.hsrwQiAVXLjtdKMrJOUHEwZULqpeE2lS8DJEmM7o3iE/image.png?width=400&height=343)](https://www.louderwithcrowder.com/)
 
 [HOME](https://www.louderwithcrowder.com/)
