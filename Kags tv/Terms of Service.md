@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.kagstv.com/assets/KAGS/images/66c1844b-29a1-41e2-bd53-5fc440d5ceea/66c1844b-29a1-41e2-bd53-5fc440d5ceea_16x9.jpg) ![](https://media.kagstv.com/assets/KAGS/images/66c1844b-29a1-41e2-bd53-5fc440d5ceea/66c1844b-29a1-41e2-bd53-5fc440d5ceea_360x203.jpg)](https://www.kagstv.com/article/news/crime/the-cookshack-robbery-college-station-dec-2024/500-d127abd8-25bc-4730-8594-c8e7506c5124)
+        
+        #### [Suspect unable to be located after College Station Police respond to reported robbery at The Cookshack](https://www.kagstv.com/article/news/crime/the-cookshack-robbery-college-station-dec-2024/500-d127abd8-25bc-4730-8594-c8e7506c5124)
+        
     *  [![](https://media.kagstv.com/assets/WTSP/images/b6b94ba3-f112-4914-82c1-1a05cfad0756/20241203T203340/b6b94ba3-f112-4914-82c1-1a05cfad0756_16x9.jpg) ![](https://media.kagstv.com/assets/WTSP/images/b6b94ba3-f112-4914-82c1-1a05cfad0756/20241203T203340/b6b94ba3-f112-4914-82c1-1a05cfad0756_360x203.jpg)](https://www.kagstv.com/article/news/local/traffic-stop-college-station-pd-leads-to-recovery-of-stolen-firearms/500-ae5fe217-0b5c-495d-98fe-0669ee6c9ece)
         
         #### [Houston man arrested following traffic stop in College Station](https://www.kagstv.com/article/news/local/traffic-stop-college-station-pd-leads-to-recovery-of-stolen-firearms/500-ae5fe217-0b5c-495d-98fe-0669ee6c9ece)
-        
-    *  [![](https://media.kagstv.com/assets/KCEN/images/aec5fccf-e576-4589-a4a5-e445b25625ec/20241213T145457/aec5fccf-e576-4589-a4a5-e445b25625ec_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/aec5fccf-e576-4589-a4a5-e445b25625ec/20241213T145457/aec5fccf-e576-4589-a4a5-e445b25625ec_360x203.jpg)](https://www.kagstv.com/article/news/crime/robertson-county-authorities-looking-to-identify-suspects-in-drive-in-hearne-grocery-theft/500-d1850ee4-d49c-404a-a9bd-861b69443251)
-        
-        #### [Robertson County authorities looking to identify suspects in drive-in grocery theft](https://www.kagstv.com/article/news/crime/robertson-county-authorities-looking-to-identify-suspects-in-drive-in-hearne-grocery-theft/500-d1850ee4-d49c-404a-a9bd-861b69443251)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -97,9 +97,9 @@ Navigation
 
 Bryan, TX »
 
-66°
+78°
 
-![Fog](/assets/shared-images/weather-icons/fog-day_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
