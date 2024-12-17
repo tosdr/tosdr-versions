@@ -33,7 +33,7 @@ Table of Contents
 
 [Introduction](#introduction)[1\. Interpretation](#interpretation)[2\. Parties, Formation of contract, term](#parties-formation-of-contract-term)[3\. Special categories of users](#special-categories-of-users)[4\. Forfeiture of the right of withdrawal](#forfeiture-of-the-right-of-withdrawal)[5\. Right of use](#right-of-use)[6\. Service](#service)[7\. Payment](#payment)[8\. User's undertakings](#users-undertakings)[9\. Representative's undertakings](#representatives-undertakings)[10\. User Account](#user-account)[11\. Organization Owner](#Organization-owner)[12\. Data rights](#data-rights)[13\. Personal Data](#personal-data)[14\. Contributions](#contributions)[15\. Disclaimer of warranties](#disclaimer-of-warranties)[16\. Limitation of liability](#limitation-of-liability)[17\. Indemnification](#indemnification)[18\. Changes](#changes)[19\. Termination](#termination)[20\. Consumer withdrawal](#consumer-withdrawal)[21\. Effects of termination](#effects-of-termination)[22\. Assignment, other disposals](#assignment-other-disposals)[23\. Notices](#notices)[24\. Law, jurisdiction](#law-jurisdiction)[25\. Miscellaneous](#miscellaneous)
 
-#### Introduction
+### Introduction
 
 These terms of service describe the rights and obligations of the User and the Supplier in connection with the Service and form an essential part of a binding contract between them (capitalised words used in this introduction, including the words "User", "Supplier" and "Service", are defined below in section 1.1). If you are reading this text, there is a good chance that you may be about to become, or perhaps already are, a User. So please do consider these terms carefully as they are likely to affect your rights and obligations.
 
@@ -51,7 +51,7 @@ Should you find anything in these Terms that you do not agree with, please do no
 
 Regardless of your purposes and whether you agree with the Terms, please consider the Supplier's Privacy Policy ([https://toggl.com/legal/track/privacy](https://toggl.com/legal/track/privacy/)). This document describes how, when and why the Supplier collects information about individuals (including but not limited to customers), how and for what purposes these personal data are processed, who processes them and what rights the individuals have in connection with the data concerning them.
 
-#### 1\. Interpretation
+### 1\. Interpretation
 
 1.1. The following terms, when capitalised, shall have the meanings ascribed to them below:
 
@@ -125,7 +125,7 @@ Regardless of your purposes and whether you agree with the Terms, please conside
 
 1.3. This Agreement constitutes the entire contract between the Parties relating to the subject matter hereof, superseding all prior agreements and understandings of the Parties concerning that matter. If any provision of the Agreement conflicts with any Service-related information provided elsewhere, the provision in the Agreement shall prevail.
 
-#### 2\. Parties, Formation of contract, term
+### 2\. Parties, Formation of contract, term
 
 2.1 The identity of the Supplier, i.e., which of the entities specified under the definition of "Supplier" the User is contracting with, depends on the type of User and the User's domicile or, upon ordering a paid Service Plan, the domicile of the party paying for the Service Plan, and is determined separately with respect to:
 
@@ -157,7 +157,7 @@ The Agreement referenced in the first paragraph of this subsection: (α) between
 
 2.5 The Supplier's undertakings with regard to the Service are to the Customer only and no one else may demand, or shall rely on, the Supplier's performance of its respective obligations (or any other obligation that the Supplier may have under its Agreement with the Customer).
 
-#### 3\. Special categories of users
+### 3\. Special categories of users
 
 3.1 The Service is for business users, to be enjoyed as a workplace tool. It is not intended for personal or household use or any other consumer application. Any natural person (individual) wishing to use any of the Features for a purpose unrelated to his trade, business, craft or profession must, before obtaining a Service Plan for the respective Feature(s), notify the Supplier that he wishes to use the Service as a consumer. The User's failure to provide such notice will, to the maximum extent permitted by law, result in the following: (a) the User not being able to rely on being a consumer, i.e., he shall be deemed to have waived the respective right; (b) no consumer law applying to the Parties' relations; and (c) the User forfeiting any and all consumer rights hereunder, including particularly, if applicable, the right to withdraw from the Agreement and the Service Plan in question.
 
@@ -165,13 +165,13 @@ The Agreement referenced in the first paragraph of this subsection: (α) between
 
 3.3 Patent assertion entities (also referred to as non-practicing entities or patent trolls), meaning persons or entities that derive or seek to derive a substantial part of their revenue from the offensive assertion of patent or other intellectual property rights, are generally restricted from being Users and shall not enjoy any of the rights that a Customer is intended to have hereunder, except as otherwise provided in the following part of this section. A patent assertion entity and anyone acting on behalf, on the instructions or for the benefit of, or directly or indirectly controlling, being controlled by, or under common control with, such an entity is prohibited from being a User and must not perform any of the acts mentioned in the definition of "User", save upon the Supplier's prior, explicit and informed consent and the respective person or entity having given such undertakings and assurances as the Supplier reasonably may request.
 
-#### 4\. Forfeiture of the right of withdrawal
+### 4\. Forfeiture of the right of withdrawal
 
 4.1 The User hereby requests that the Supplier's performance of the Agreement commence immediately and that the benefits to which the User is entitled hereunder, including, where applicable, the Features authorised under his Service Plan(s), be made available to him immediately. The User acknowledges and agrees that by making the above requests he loses the right (if any) to withdraw from the Agreement and, where applicable, the right to withdraw from the Service Plan(s) in question.
 
 The User further requests that the Features to be authorised under any future Service Plan he may obtain be made available to him immediately upon the Service Plan's commencement. The User acknowledges and agrees that by requesting this (and the respective Features becoming available to him) he loses the right, if any, to withdraw from the Service Plan.
 
-#### 5\. Right of use
+### 5\. Right of use
 
 5.1. Subject to the terms set forth herein, the Supplier grants to the below Party, and the latter accepts, the following limited, non-exclusive and restrictedly-transferable right:
 
@@ -193,7 +193,7 @@ Each of the above rights shall be exercised solely for the respective Party's ow
 
 5.6. As between the Parties, all Service-related Intellectual Property shall vest in, and is retained by, the Supplier. The User shall not acquire any right thereto or otherwise in connection with the Service, except for the limited rights of use expressly set forth in this Agreement.
 
-#### 6\. Service
+### 6\. Service
 
 6.1. The Supplier will use commercially reasonable efforts to provide the Subscriber with the benefit of all Features authorised under his Service Plan.
 
@@ -215,7 +215,7 @@ Each of the above rights shall be exercised solely for the respective Party's ow
 
 6.7. The Supplier may: (a) discontinue the Service or cease providing the same to any Customer on a month's notice; (b) cease providing the Service to any User other than a Customer without notice; (c) suspend or restrict access to the Service for anyone whose payment hereunder is overdue more than 6 days or whose use of the Service conflicts with the Agreement; (d) suspend, limit or terminate the availability of Features in relation to an Organization whose properties do not conform to its then-current Service Plan (e.g., if there are more members in the Organization than the Service Plan allows) or replace that Service Plan with one to which the Organization conforms; (e) suspend, limit or delete Workspaces that are considered inactive (in accordance with the Documentation) on a month's notice; and (f) suspend performance under the Agreement in whole or in part with immediate effect if legally required to do so.
 
-#### 7\. Payment
+### 7\. Payment
 
 7.1. Anyone who orders a Service Plan or permits or causes one to be ordered on his behalf is deemed to have agreed to and accepted liability for the payment of all fees and charges associated with the Service Plan, and consented to the same being calculated, billed, revised and adjusted according to the rules that the Supplier has established therefor (as described in this Agreement and the Documentation). The same applies to anyone who permits or causes himself to be designated as a payer for a Service Plan (e.g., by allowing another User to specify him as such upon ordering a Service Plan) or otherwise assumes responsibility for incurring Service Plan related fees and charges.
 
@@ -237,7 +237,7 @@ Each of the above rights shall be exercised solely for the respective Party's ow
 
 7.10. The Supplier may, in its absolute discretion, charge interest on overdue amounts at either 18% per annum or the relevant statutory rate, whichever it elects.
 
-#### 8\. User's undertakings
+### 8\. User's undertakings
 
 8.1 The Customer must be a person (natural or legal) or an entity with legal capacity.
 
@@ -253,13 +253,13 @@ Each of the above rights shall be exercised solely for the respective Party's ow
 
 8.7 Without prejudice to any of his statutory obligations, the User undertakes that he will not, and the Customer further undertakes that no Guest User will: (a) interfere with the proper functioning of the Service; (b) impose an unreasonable load on the Service or its infrastructure; (c) consume any resource or otherwise use any item hereunder in a manner or to an extent that prejudices another User's enjoyment of the Service; (d) reproduce the Software, except as expressly permitted herein; (e) translate, adapt, arrange or otherwise alter the Software or reproduce the results of any such activity; (f) distribute or redistribute, including sell, rent, lease, lend or otherwise make available, the Software (neither the original Software nor any copy thereof) or any other part of the Service; (g) decompile, disassemble or otherwise reverse engineer the Software; (h) remove, alter, hide or obscure any copyright notice, trademark or other proprietary rights notice embedded in, appearing on or otherwise pertaining to any part of the Service; (i) create or attempt to create any product or service that is substantially similar to, or performs the same or substantially similar functions as, or otherwise competes with any part of the Service, or purports to be created, provided or approved by the Supplier or its licensors; or (j) cause anyone else to do any of the foregoing.
 
-#### 9\. Representative's undertakings
+### 9\. Representative's undertakings
 
 9.1. The Representative personally warrants to the Supplier that: (a) his principal, upon becoming and while being a Customer, conforms to the description provided in section 8.1; (b) he is authorised to act on the User's behalf; and (c) the transactions he makes on the User's behalf, including, if applicable, this Agreement, are binding on the User.
 
 9.2. The Representative agrees that if he opens a User Account for a principal who does not conform to the description of section 8.1 or if any transaction he makes on the User's behalf proves to be void due to his lack of authority, he shall, if the Supplier in its absolute discretion so elects and respectively informs the Representative, be deemed to have opened the User Account or, as applicable, entered into the transaction on his own behalf (i.e., in place of the principal whom he represented or purported to represent).
 
-#### 10\. User Account
+### 10\. User Account
 
 10.1. The Customer shall be fully responsible for the activity that occurs under his User Account, including all data processing and other acts performed through or by means thereof, and must notify the Supplier promptly upon learning of any security breach relating to or unauthorised use of his User Account.
 
@@ -269,7 +269,7 @@ Each of the above rights shall be exercised solely for the respective Party's ow
 
 10.4. The Supplier may, in its sole discretion, temporarily or permanently disable, close or restrict access to any Organization, Workspace, or User Account that is inactive (as specified in the Documentation) or used for infringing on anyone's Intellectual Property or proprietary or personal rights or to perform any of the acts mentioned in section 8.7, and shall not be liable for any loss, damage or other undesirable consequences resulting therefrom.
 
-#### 11\. Organization Owner
+### 11\. Organization Owner
 
 11.1. Each Organization must have an Owner, i.e., there must always be a Customer (Organization Owner) who is ultimately responsible for the Organization, and it is for the Customers participating in the Organization (the members thereof) to ensure that an Owner is designated and accepts the pertaining responsibility. Organization members are jointly and severally liable for their Organization having an Owner and the Owner being a real person (natural or legal) who can be reached at the email and physical addresses specified in the Organization as the Owner's details. In the case of sole-member Organizations, i.e., where there is only one Customer to whose User Account the Organization attaches, the responsibility and liability described in this section fall to the respective Customer.
 
@@ -281,7 +281,7 @@ Each of the above rights shall be exercised solely for the respective Party's ow
 
 11.5. The Owner shall ensure that Organization Data are lawful and acquired properly and that all data processing and other activities performed in, through or by means of the Organization are legal.
 
-#### 12\. Data rights
+### 12\. Data rights
 
 12.1. The User acknowledges that the rights he has and the control he can exercise in relation to Organization Data, including the ability to access, process and dispose of the same, are commensurate with his role in the Organization. There may be other Users in the Organization, including but not limited to the Organization Owner, whose status or privileges permit them to enable, disable, limit, suspend or terminate, or whose decisions may otherwise affect, the User's access to and his rights concerning Organization Data. The same applies in relation to the Organization itself, its sub-environments and the Features available in connection therewith. In case another User exercises such power or there is a disagreement concerning anyone's permissions or privileges in a Organization or rights with respect to Organization Data, it is a matter to be resolved between Users. The Supplier has no obligation to intervene, and usually does not intervene, in such disputes and in any event is not responsible for any User's decisions, acts or omissions in relation to, or which affect, another User.
 
@@ -289,7 +289,7 @@ Each of the above rights shall be exercised solely for the respective Party's ow
 
 12.3. The User, whether an Owner or not, acknowledges and agrees that if an Organization is closed (whomever by), then the Supplier has no obligation to maintain or provide Organization Data and may, unless legally prohibited, delete the same.
 
-#### 13\. Personal Data
+### 13\. Personal Data
 
 Note on interpretation: the terms 'controller' and 'processor' have the meanings assigned to them in the GDPR.
 
@@ -299,11 +299,11 @@ Note on interpretation: the terms 'controller' and 'processor' have the meanings
 
 13.3. The DPA sets out further rights and obligations of the Organization Owner and the Supplier in relation to the processing referenced in section 13.2.
 
-#### 14\. Contributions
+### 14\. Contributions
 
 14.1 With respect to any product of intellectual activity, including any object of Intellectual Property, that is submitted, contributed or otherwise knowingly made available for inclusion in the Software or any other part of the Service, the Supplier shall be deemed to have been granted a non-exclusive, royalty-free, worldwide, perpetual (save as limited by law), irrevocable, freely transferable and fully sublicensable right to use, distribute, reproduce, modify, adapt, publish, translate, transmit, publicly perform, display and make available the same (in whole or in part) and to incorporate it into other items, including works and inventions, in any form or medium now known or hereafter developed. Anyone making such a contribution warrants to the Supplier that he is authorised to do so and that neither he nor any author of any item embedded in his contribution will seek any compensation or reimbursement in connection therewith
 
-#### 15\. Disclaimer of warranties
+### 15\. Disclaimer of warranties
 
 15.1. Any warranty of the Supplier not expressly stated herein shall be deemed withheld. The Supplier disclaims, to the maximum extent permitted by applicable law, all statutory and implied warranties and course of performance, course of dealing and usage related expectations with respect to the Service.
 
@@ -311,7 +311,7 @@ Note on interpretation: the terms 'controller' and 'processor' have the meanings
 
 15.3. The Supplier's disclaimers in connection with the Service apply both to the Service as a whole and each component thereof.
 
-#### 16\. Limitation of liability
+### 16\. Limitation of liability
 
 16.1. To the extent not prohibited by applicable mandatory law, and subject to section 16.2:
 
@@ -333,11 +333,11 @@ Note on interpretation: the terms 'controller' and 'processor' have the meanings
 
 16.5. The protection afforded to the Supplier hereunder, and any statutory protection that the Supplier may enjoy, extends to anyone who acts on the Supplier's behalf, exercises its rights or performs its duties or assists the Supplier in doing the same.
 
-#### 17\. Indemnification
+### 17\. Indemnification
 
 The User shall defend, indemnify and hold harmless the Supplier, its officers, directors, employees, contractors, agents and representatives from and against all claims made by and all damages, liabilities, penalties, fines, costs and expenses payable to any third party that arise from the User's or, if the User is a Customer, then his own or any Guest User's: (a) breach of any obligation, representation or warranty hereunder; (b) misuse of any Feature; or (c) infringement of anyone's Intellectual Property or proprietary or personal rights.
 
-#### 18\. Changes
+### 18\. Changes
 
 18.1. The User acknowledges that, from time to time, circumstances may arise that make it necessary or desirable to vary certain provisions of this Agreement. Such circumstances include: (a) the Supplier's launch of a new service or a modification to the Service; (b) a significant change in the Supplier's operating environment; (c) an order or a judgment being entered against or in favour of the Supplier; (d) a significant corporate event, such as, e.g., the Supplier's merger, acquisition or transformation; (e) the Supplier's transfer of the enterprise or a part of the enterprise to which the Agreement pertains; (f) the ambiguity, invalidity, voidability or unenforceability of a provision herein; (g) any other event whose occurrence or expected occurrence in the Supplier's reasonable judgment necessitates an amendment hereto.
 
@@ -347,7 +347,7 @@ The User shall defend, indemnify and hold harmless the Supplier, its officers, d
 
 18.4. if the User does not agree with the Supplier's changes (whether to the Agreement or the Service), his sole remedy shall be to terminate the Agreement and stop using all Features.
 
-#### 19\. Termination
+### 19\. Termination
 
 19.1. In this article, the term "Agreement" means the Agreement referenced in subsection 2.1(a) and words such as "herein", "hereto", "hereof" and "hereunder" refer to that Agreement, unless otherwise specified.
 
@@ -367,7 +367,7 @@ The User shall defend, indemnify and hold harmless the Supplier, its officers, d
 
 19.9. The Agreement under subsection 2.1(c) will only terminate as described in subsection 2.3(c) (with automatic re-establishment of contract) or upon the relevant Organization being closed, and is incapable of being terminated otherwise. Instructions on how to close an Organization are provided in the Documentation.
 
-#### 20\. Consumer withdrawal
+### 20\. Consumer withdrawal
 
 Notes on the application of this article: (a) the provisions of this article only apply if and to the extent that the forfeiture of the right of withdrawal under article 4 (i.e., the consumer's forfeiture of his right to withdraw from the Agreement and Service Plans) proves to be void; (b) insofar as permitted by law, the application of this article is subject to the Subscriber having notified the Supplier as per section 3.1 that he wishes to use the Service as a consumer; (c) if a provision of this article applies and conflicts with another provision located elsewhere in the Agreement, it prevails over that other provision.
 
@@ -397,13 +397,13 @@ Date: \[replace these brackets and their contents with the date of the withdrawa
 
 20.7. The Subscriber acknowledges and agrees that by reason of his requests under article 4 (causing the Supplier's performance of the Agreement to commence immediately and the benefits of Service Plans to become available during the withdrawal period) the reimbursement under section 20.6 will be reduced by an amount proportionate to what has been provided under the Service Plan until the Subscriber's withdrawal therefrom (as compared to the full coverage of the Service Plan). The amount of the reduction shall be determined based on the total price of the Service Plan, i.e., the price charged for the whole relevant billing period.
 
-#### 21\. Effects of termination
+### 21\. Effects of termination
 
 21.1. The User understands and agrees that upon any termination of this Agreement: (a) all his rights hereunder will terminate and he must cease all activities authorised by the Agreement; (b) all amounts that the Supplier is entitled to be paid hereunder become due, except sums that already are; (c) in case the termination concerns the Agreement referenced in subsection 2.1(a), all his User Data and other information associated with his User Account and the Organizations pertaining to, or in which he participates through, that account may be deleted or become unavailable to him; (d) insofar as relevant hereto, he will receive no refund or other compensation for any unused time or credit on a subscription, for any licence or subscription fee, any data associated with any User Account or Organization, or for anything else; (e) all his Software-related obligations hereunder will survive until he fully and permanently removes all Software from his systems, devices, storage media and repositories; (f) the preceding subsection applies respectively in relation to any item that forms part of the Service and which the User retains after the termination hereof.
 
 21.2. Those provisions of the Agreement that either by express language or reasonable construction are intended to survive its termination (such as, e.g., provisions concerning Service-related Intellectual Property, contributions to the Service, disclaimers, limitation of liability, indemnities, choice of law and jurisdiction) shall so survive and will be enforceable notwithstanding any termination hereof.
 
-#### 22\. Assignment, other disposals
+### 22\. Assignment, other disposals
 
 With regard to assignment, sublicensing and other disposals, the Parties have agreed that:
 
@@ -413,7 +413,7 @@ With regard to assignment, sublicensing and other disposals, the Parties have ag
 
 22.3. Where a Party's consent is required, it shall not be unreasonably withheld or delayed.
 
-#### 23\. Notices
+### 23\. Notices
 
 23.1 The Supplier may give notice to the User: (a) through a Feature, e.g., by posting the notice on a web page that forms part of the Service or using a messaging feature of a locally installed Software application; (b) by email to the address associated with his User Account; or (c) by mail or courier to the address provided for that User under Organization Owner's details.
 
@@ -421,7 +421,7 @@ With regard to assignment, sublicensing and other disposals, the Parties have ag
 
 23.3. A notice shall be deemed to have been received: (a) the same day if given through a Feature; (b) the next day if given by email; or (c) in the case of a notice sent by mail or courier, and providing that delivery charges have been paid, five days after posting or the courier taking charge of the notice.
 
-#### 24\. Law, jurisdiction
+### 24\. Law, jurisdiction
 
 24.1. The law applicable to the Agreement and the Parties' relations, the venue for resolving disputes and the forum competent to hear such disputes depend on the identity of the Supplier, i.e., which of the entities specified under the definition of "Supplier" the User contracted with (as determined under article 2).
 
@@ -445,7 +445,7 @@ With regard to assignment, sublicensing and other disposals, the Parties have ag
 
 24.4. The above provisions notwithstanding, the Supplier may, in its absolute discretion, assert and seek protection of its intellectual property and rights concerning confidential information or data processing in any forum anywhere in the world (including by way of injunction and other preventive measures).
 
-#### 25\. Miscellaneous
+### 25\. Miscellaneous
 
 If any provision of the Agreement proves to be void by reason of it violating mandatory law, and unless the Supplier in its absolute discretion otherwise elects (in which event the following shall not apply), such provision shall be deemed to have been amended to one which is valid, achieves the purpose of the original provision as nearly as possible and maximally preserves the balance of obligations between those affected (i.e., the balance originally intended). The amendment shall be effective as of the moment when the original provision became void.
 
