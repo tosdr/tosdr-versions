@@ -444,15 +444,15 @@ What Customers Are Saying
 
 Based on 306,950 Carpet Cleaning Services Reviews
 
-Andrew did a wonderful job on my bedroom carpets. They look new and I'll be having him come at least twice a year...thank you, Andrew!! **DC.** - Queensbury, NY - 12/15/2024
+I love my clean carpets. Excellent process used by OxiFresh simple and very thorough. I highly recommend **JK.** - Royersford, PA - 12/15/2024
 
 (5.0 Out of 5 stars)
 
-Excellent service. Carpet like new. Highly recommend. **SS.** - Clive, IA - 12/15/2024
+A great job was done **LS.** - Farmville, VA - 12/15/2024
 
-(5.0 Out of 5 stars)
+(4.5 Out of 5 stars)
 
-Clear communication from the representative. On time and did a great job cleaning the couch. **AS.** - Middletown, NY - 12/15/2024
+Connor let me know when he was on his way, showed up at the appointment time and got right to work. He was very professional the entire time and explained the process thoroughly. The result of his work resulted in my carpets looking almost brand new. Also, I liked that with this process the carpet was dried in roughly an hour (minus some spots that were really bad beforehand!) world sufficient recommend Oxi Fresh and Connor to anyone requiring their services! **JT.** - Land O' Lakes, FL - 12/15/2024
 
 (5.0 Out of 5 stars)
 
