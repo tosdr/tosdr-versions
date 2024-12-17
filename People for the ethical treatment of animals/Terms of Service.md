@@ -440,6 +440,7 @@ For Media
 
 Support PETA
 
+* [Donate Now](https://headlines.peta.org/donate/?en_txn7=Navigation::footer-donate-now-link)
 * [Become a Member](https://support.peta.org/page/29013/donate/1?en_txn7=Navigation::1122-PETAorg-Footer-Support-PETA-Join&supporter.appealCode=IXXXWBXXXXM "PETA Prime")
 * [Make a Monthly Gift](https://support.peta.org/page/34053/donate/1?en_txn7=Navigation::1122-PETAorg-Footer-Support-PETA-Monthly&supporter.appealCode=IXXXWBXXXXG)
 * [Make a Memorial Gift](https://memorials.peta.org/)
