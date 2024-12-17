@@ -61,13 +61,13 @@ BACK
 
 * [![](//hugsleep.com/cdn/shop/files/Untitled5.007_533x533.jpg?v=1695958490)
     
-    Hooded Sleep Pod Move](https://hugsleep.com/products/sleep-pod-move-hood)
+    Hooded Sleep Pod Move Most Popular](https://hugsleep.com/products/sleep-pod-move-hood)
 * [![](//hugsleep.com/cdn/shop/files/Untitled4.026_533x533.jpg?v=1731622115)
     
     Hug Hoodie™ New](https://hugsleep.com/products/hug-hoodie%E2%84%A2)
 * [![](//hugsleep.com/cdn/shop/products/download_533x533.jpg?v=1659988966)
     
-    Sleep Pod Move Most Popular](https://hugsleep.com/products/sleep-pod-move-adult)
+    Sleep Pod Move](https://hugsleep.com/products/sleep-pod-move-adult)
 * [![](//hugsleep.com/cdn/shop/files/MiniPDP.004_533x533.jpg?v=1712260599)
     
     Sleep Pod Mini New](https://hugsleep.com/products/sleep-pod-mini)
