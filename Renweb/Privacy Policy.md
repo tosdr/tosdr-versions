@@ -113,6 +113,9 @@ Search
 Privacy Policy
 ==============
 
+Privacy Policy
+==============
+
 Effective Date: December 18, 2023
 ---------------------------------
 
