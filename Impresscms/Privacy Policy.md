@@ -2,7 +2,7 @@
 
 [![Logo](https://www.impresscms.org/themes/icms-unify/assets/img/logo.svg)](https://www.impresscms.org/)
 
-* [Login](https://www.impresscms.org/user.php?xoops_redirect=/modules/iforum/reply.php?forum=63&topic_id=2992&viewmode=flat&order=ASC&start=0&post_id=28083 "Login")
+* [Login](https://www.impresscms.org/user.php?xoops_redirect=/modules/iforum/reply.php?forum=14&topic_id=1076&viewmode=flat&order=ASC&start=0&post_id=33593&lang=en "Login")
 
 * [Register](https://www.impresscms.org/register.php "Register")
 
