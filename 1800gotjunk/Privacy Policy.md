@@ -925,22 +925,6 @@ River Holley Austin 14/12/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Steven and Alex were great!! So helpful!!!! And thanks Steven for being nice and professional!! Appreciate you both!
-
-amy hillyer Columbus 14/12/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Quick, friendly and efficient!
-
-Rodney Brandy Columbus 14/12/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Very friendly
 
 Martin Yant Seattle 14/12/2024
@@ -957,6 +941,22 @@ Sara Bello LA Metro 14/12/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Steven and Alex were great!! So helpful!!!! And thanks Steven for being nice and professional!! Appreciate you both!
+
+amy hillyer Columbus 14/12/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Quick, friendly and efficient!
+
+Rodney Brandy Columbus 14/12/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Jairo and Chaz did an amazing Job today. Cery helpful will recommend again for sure!!!
 
 aamberr.r r Naples 14/12/2024
@@ -968,14 +968,6 @@ aamberr.r r Naples 14/12/2024
 Shaheed Paris. Did an excellent job. Great customer service
 
 Mike Shores Cincinnati 14/12/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Geo and Patrick are the bomb, quick, polite and on time!
-
-Kathy Burke Naples 13/12/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -1016,6 +1008,14 @@ Dan Campione Naples 13/12/2024
 Ian & Nathan did a wonderful job. Quick and friendly
 
 jeremy sears Cincinnati 13/12/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Geo and Patrick are the bomb, quick, polite and on time!
+
+Kathy Burke Naples 13/12/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
