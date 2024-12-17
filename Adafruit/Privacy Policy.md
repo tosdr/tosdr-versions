@@ -1,6 +1,6 @@
 Due to high demand USPS orders may not ship for up to 3-4 business days.
 
-🎁📦🚚 [Approaching Holiday Shipping Deadline](https://www.adafruit.com/Holiday): Place all UPS UPS 3 Day orders by 11 am ET Tuesday, December 17🎄⛄❄️
+🎁📦🚚 [Holiday Shipping](https://www.adafruit.com/Holiday): Only Two options left! Place UPS 2 Day orders by 11 am ET Wednesday, December 18🎄⛄❄️
 
 Glitch your gift list! Use code [gibson15](https://blog.adafruit.com/2024/12/09/gibson15/) for 15% off the [2024 Adafruit Holiday Gift Guide](https://www.adafruit.com/explore/holiday-gift-guide-2024)!
 
@@ -89,15 +89,19 @@ Search
     
     $2.95](https://www.adafruit.com/product/6094)
     
-    ![Demo Shot of the Raspberry Pi Monitor (Red/White) with the Raspberry Pi 400 Desktop - Full Computer Kit.](https://cdn-shop.adafruit.com/310x233/6088-06.jpg)[Raspberry Pi Monitor - Red and White Colorway
-    
-    $100.00](https://www.adafruit.com/product/6088)
-    
     ![Angled shot of solar charger PCB in enclosure with lid off.](https://cdn-shop.adafruit.com/310x233/6114-00.jpg)[Snap-on Enclosure for Adafruit USB / DC / Solar Lithium Charger
     
     $4.50](https://www.adafruit.com/product/6114)
     
+    ![Video of a motor stepper driver board driving a stepper motor connected to a microcontroller.](https://cdn-shop.adafruit.com/product-videos/320x240/6109-07.jpg)[Adafruit A4988 Stepper Motor Driver Breakout Board
+    
+    $6.95](https://www.adafruit.com/product/6109)
+    
     Featured Products[view all](https://www.adafruit.com/featured)
+    
+    ![Angled shot of thin, green rectangular microcontroller with castellated pads.](https://cdn-shop.adafruit.com/310x233/6006-02.jpg)[Raspberry Pi Pico 2 - RP2350
+    
+    $5.00](https://www.adafruit.com/product/6006)
     
     ![Angled shot of rectangular dev board.](https://cdn-shop.adafruit.com/310x233/5933-01.jpg)[Adafruit ESP32-C6 Feather - STEMMA QT
     
@@ -110,10 +114,6 @@ Search
     ![Angled shot of black, rectangular doubler prototyping board.](https://cdn-shop.adafruit.com/310x233/5906-00.jpg)[Adafruit Proto Doubler PiCowbell for Pico and PicoW
     
     $7.50](https://www.adafruit.com/product/5906)
-    
-    ![Angled shot of black, rectangular microcontroller.](https://cdn-shop.adafruit.com/310x233/5890-05.jpg)[Adafruit ItsyBitsy ESP32 - wFL Antenna - 8 MB Flash / 2 MB PSRAM
-    
-    $14.95](https://www.adafruit.com/product/5890)
     
 * [Gift Ideas](https://www.adafruit.com/explore)
 * [What's New](https://www.adafruit.com/new)
@@ -410,9 +410,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found”
+“ Flexibility is the key to stability”
 
-[Pema Chödrön](https://en.wikipedia.org/wiki/Pema_Ch%C3%B6dr%C3%B6n)
+[John Wooden](http://en.wikipedia.org/wiki/John_Wooden)
 
 [](https://www.adafruit.com/about)
 
