@@ -205,27 +205,26 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
+* [Old Games On New TVs: The Original PlayStation + PSIO!](https://www.somethingawful.com/video-game-article/playstation-psio-tomba/)
 * [Beast Forum](https://www.somethingawful.com/weekend-web/beastforum/1/)
-* [Pooping and Peeing in Public Places and Somalinet](https://www.somethingawful.com/weekend-web/pooping-peeing-public/1/)
-* [Make Horror Wholesome](https://www.somethingawful.com/photoshop-phriday/horror-wholesome/)
-* [Billy Drago: An Appreciation in Five Parts](https://www.somethingawful.com/news/billy-drago-appreciation/)
-* [Philosophy Sunday: Dudes. Are they bad enough?](https://www.somethingawful.com/news/philosophy-sunday-dudes/)
+* [Muppet Movie Mayhem!](https://www.somethingawful.com/photoshop-phriday/muppets-movie-mayhem/1/)
+* [April 13, 2010](https://www.somethingawful.com/forum-fridays/ff04-13-10/1/)
+* [SomethingAwful's Voting Guide: The Democrats](https://www.somethingawful.com/news/presidential-guide-democrat/1/)
 
 ### Popular Threads
 
 * ![](https://fi.somethingawful.com/images/shitpost.gif) [itt we have road rage (NO SLURS)](http://forums.somethingawful.com/showthread.php?threadid=4077612 "itt we have road rage (NO SLURS)")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/guns.png) [Four dead in Madison, Wi school shooting. Because America](http://forums.somethingawful.com/showthread.php?threadid=4077623 "Four dead in Madison, Wi school shooting. Because America")
 * ![](https://fi.somethingawful.com/forums/posticons/fyad-zounds.gif) [How does Santa keep getting away with this?](http://forums.somethingawful.com/showthread.php?threadid=4077610 "How does Santa keep getting away with this?")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/video.png) [Music videos that go hard for no fucking reason](http://forums.somethingawful.com/showthread.php?threadid=4077609 "Music videos that go hard for no fucking reason")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/guns.png) [Four dead in Madison, Wi school shooting. Because America](http://forums.somethingawful.com/showthread.php?threadid=4077623 "Four dead in Madison, Wi school shooting. Because America")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/movies.png) [Impromptu Movie Night: come watch Jurassic Park (1994)](http://forums.somethingawful.com/showthread.php?threadid=4077604 "Impromptu Movie Night: come watch Jurassic Park (1994)")
 
 ### Random Articles
 
-* [ARCHURE (Thanks, Joki!)](https://www.somethingawful.com/awful-links/archure-midi/)
-* [Released Reactions](https://www.somethingawful.com/awful-links/awful-link-2813/)
-* [Roger Owen For Congress](https://www.somethingawful.com/awful-links/awful-link-3611/)
-* [I Hate You Page 132](https://www.somethingawful.com/cliff-yablonski/i-hate-you-132/)
-* [Woman Ain't the Nigger of the World](https://www.somethingawful.com/daily-dirt/obama-tina-fey/)
+* [Daily Gaming Guyz 2](https://www.somethingawful.com/daily-dirt/daily-gamingguyz-2/)
+* [The Case Files of Supreme Detective Vladimir Putin](https://www.somethingawful.com/news/detective-putin-nemtsov/)
+* [Wargammer Miniatures](https://www.somethingawful.com/news/warhammer-miniature/)
+* [Russia has an amazing Death Ray Gun...](https://www.somethingawful.com/awful-links/awful-link-2951/)
+* [The Worst Reddit Writing Prompts Of All Time](https://www.somethingawful.com/news/reddit-writing-prompts/)
 
 [Random!](https://www.somethingawful.com/random/)
 
