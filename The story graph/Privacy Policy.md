@@ -134,7 +134,7 @@ If we make a significant change to this privacy policy, for example changing a l
 
 The StoryGraph Founders
 
-[\[email protected\]](https://app.thestorygraph.com/cdn-cgi/l/email-protection)
+[support@thestorygraph.com](mailto:support@thestorygraph.com)
 
 This policy is effective as of January 14, 2021.
 
