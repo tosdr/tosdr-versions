@@ -212,10 +212,6 @@ Full-Tower
 
 [Syber L Series](https://www.cyberpowerpc.com/page/Syber/Syber-L/)
 
-Special
-
-[Syber Cube Series](https://www.cyberpowerpc.com/page/Syber/Cube/)
-
 [Gear Store](https://www.cyberpowerpc.com/store/)
 
 Keyboards
@@ -415,10 +411,6 @@ Mid-Tower
 Full-Tower
 
 [Syber L Series](https://www.cyberpowerpc.com/page/Syber/Syber-L/)
-
-Special
-
-[Syber Cube Series](https://www.cyberpowerpc.com/page/Syber/Cube/)
 
 [Find Your Perfect PC
 
