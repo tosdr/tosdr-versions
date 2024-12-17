@@ -77,7 +77,7 @@ Web map
     * [University faculties and schools](https://www.uab.cat/web/study/undergraduate/undergraduate-offer/university-faculties-and-schools-1345667079493.html)
     * [Visit the UAB](https://www.uab.cat/web/studies/visit-the-uab-1345811913901.html)
     * [Financial aids, grants & calls](https://www.uab.cat/web/financial-aids-grants-and-calls-1345808144576.html)
-    * [Libraries](https://www.uab.cat/web/libraries-1345738247610.html)
+    * [Libraries](https://www.uab.cat/en/libraries)
     * [](http://www.uab.cat/abast)
 * [Research](#)
     * [Departments](https://www.uab.cat/web/research/itineraries/uab-research/departments-1345667277389.html)
