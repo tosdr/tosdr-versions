@@ -1,7 +1,7 @@
 [![Logo](https://speechandlanguage.link/wp-content/themes/speechandlanguage/assets/img/logo.svg)](https://speechandlanguage.link/)
 
 * [](https://www.facebook.com/SpeechLinkandLanguageLink)
-* [](https://twitter.com/SpeechLink)
+* [](https://bsky.app/profile/speechandlanguage.bsky.social)
 * [](https://www.youtube.com/@SpeechLinkMultimedia)
 * [Login](https://speechandlanguage.info/login/)
 
@@ -200,7 +200,7 @@ Read about our recent collaborative work with Medway Council as part of their Ch
 * [www.speechandlanguage.link](https://speechandlanguage.link/)
 
 * [](https://www.facebook.com/SpeechLinkandLanguageLink)
-* [](https://twitter.com/SpeechLink)
+* [](https://bsky.app/profile/speechandlanguage.bsky.social)
 * [](https://www.youtube.com/@SpeechLinkMultimedia)
 
 **Speech Link Multimedia Ltd**
