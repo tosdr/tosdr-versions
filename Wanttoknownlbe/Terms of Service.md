@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/mijn-trouwjurk-in-1000-stukken/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/over-hypnose-robbie-williams-de-kracht-van-intentie-en-medische-kosten/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
