@@ -8,7 +8,7 @@ To find out whether your browser supports Javascript, or to allow scripts, see t
 
 [![](//img.wlresources.com/modelmanager/marketing/logo-xlovecam.png)](https://www.xlovecam.com/en/)
 
-* [Free Sex Cams (477)](https://www.xlovecam.com/en/)
+* [Free Sex Cams (678)](https://www.xlovecam.com/en/)
 * [Media](#)
     
     * [Pictures](https://www.xlovecam.com/en/photos/)
@@ -31,8 +31,8 @@ General Terms of Use
 
 + [General User Conditions Platform](#terms)
 
-GENERAL USER CONDITIONS PLATFORM 08-13-2021
-===========================================
+GENERAL USER CONDITIONS PLATFORM (22-11-2024)
+=============================================
 
 General User Conditions Platform
 ================================
@@ -52,11 +52,11 @@ The General User Conditions Platform constitute all the rules of use of the Plat
 1.1. These General User Conditions Platform supersede all prior conditions applicable between SNV and the User with respect to the SNV Platform.  
 1.2. By effectively using SNV's technical Platform, you are deemed to have accepted these General User Conditions Platform.  
 1.3. If you have any questions regarding these General User Conditions Platform you can consult the FAQ section (frequently asked questions) or contact SNV via the contact form that you will find on the Platform.  
-1.4. SNV reserves the right to modify these General User Conditions Platform. SNV will inform the User by placing the new modified General User Conditions Platform on the SNV Platform. In case of explicit request by the duly registered User, SNV will transmit the modified General User Conditions Platform by email or any other means. The changes take effect 14 days after publication or on the date specified in the notification. If the User does not accept the modifications, the relationship between you as a User of SNV's technical Platform and SNV will end, by the effect of the law.
+1.4. SNV reserves the right to modify these General User Conditions Platform. SNV will inform the User by placing the new modified General User Conditions Platform on the SNV Platform. The changes take effect 14 days after publication on the SNV Platform. If the User does not accept the modifications, the relationship between you as a User of SNV's technical Platform and SNV will end, by the effect of the law.
 
 ### 2\. Definitions
 
-2.1. : refers to registered to a limited liability company (BV) with the Chamber of Commerce under number 52306054 with its offices at Zuid-Hollandlaan 7, 2596 AL in The Hague (hereinafter: ACW BV).  
+2.1. : refers to registered to a limited liability company (BV) with the Chamber of Commerce under number 52306054 with its offices at , , , , (hereinafter: ACW BV).  
 2.2. Direct Payment: the payment by the User to Performer for the Entertainment Webcam Services other than via the E-Wallet.  
 2.3. Entertainment Webcam Service: service offered and sold by the Performer on this Platform to the User which service is rendered via the webcam.  
 2.4. E-Wallet (prepaid virtual credit): prepaid virtual credit on the name of the User serving to make discharge payments to the Performers who offer and sell their Entertainment Webcam Services on the SNV Platform.  
@@ -69,18 +69,22 @@ The General User Conditions Platform constitute all the rules of use of the Plat
 2.12. Performer Name: the name under which the Performer is listed on the SNV Platform.  
 2.13. Performer Profile: the complete description of the Performer made by the Performer on his personal page.  
 2.14. Policy Rules: documents prepared by the AC Group and published on the SNV Platform containing mandatory or non-mandatory rules which apply to use of the SNV Platform including but not limited to Privacy/ GDPR rules, Code of Conduct, KYC rules and AML rules.  
-2.15. SNV refers to a company registered in the commercial registry under number 122760, having its offices at the address mentioned below, , , , , and related companies and partners of SNV with the exception of the related company ACW BV.  
-2.16. SNV Platform: the technical Platform of SNV to which a number of websites are linked.  
+2.15. SNV refers to a company registered in the commercial registry under number 122760, having its offices at , , , , and related companies and partners of SNV with the exception of the related company ACW BV.  
+2.16. (SNV) Platform: the technical platform exploited by SNV operating under various trade names owned by SNV (XLove, XLovecam, XXXLove, XLovegay) that enables the Service Provider to provide and sell Entertainment Webcam Services anonymously and enables the User to purchase Entertainment Webcam Services anonymously. Via a number of domain names and white labels one is redirected to this platform. The domain names or white labels are either owned by the AC Group or by Affiliates of the AC Group.  
 2.17. Start date: the date on which the User accepts the General User Conditions E-Wallet.  
 2.18. User: the natural person who purchases Entertainment Webcam Services from the Performer.  
 2.19. User Account: the personal registration of the User on the SNV Platform.  
 2.20. User Name: the name under which the User is registered on the SNV Platform but also the name which, combined with the personal password, allows access to the User Account.  
-2.21. User Information: all the information that you place yourself as a User on the SNV Platform or on your User Account, including registration data, feedback and all other messages.
+2.21. User Information: all the information that you place yourself as a User on the SNV Platform or on your User Account, including registration data, feedback and all other messages.  
+2.22 AC Group: companies which are directly and indirectly held by AC Media Connect BV.  
+2.23 AC Media Connect BV: a company registered in the commercial registry under number 6863636628, having its offices at Beursplein 37, 3011 AA, Rotterdam.  
+2.24 Affiliates: third parties with whom has concluded agreements to provide and offer marketing services through the Affiliate Program of ACW NV.  
+2.25 (ACW NV): a company having its offices at, , , , registered under number 12276.
 
 ### 3\. User Requirements
 
-3.1. The User must be a person with legal capacity or at least the age of majority in his country of residence and the power to enter into binding contracts.  
-3.2. The User must not be less than 18 years old and must have reached at least the legal age of use of the Platform.  
+3.1. The User must be a person with legal capacity and the power to enter into binding contracts.  
+3.2. The User must have the majortiy of age in his country of residence and must have reached at least the legal age of use of the Platform..  
 3.3. The User Account is not transferable, in any form whatsoever.
 
 ### 4\. Registration
@@ -121,9 +125,12 @@ b. be insulting, threatening, damaging, slanderous;
 c. infringe copyright, privacy rights or other rights;  
 d. violate the law and/or any other regulation;  
 e. contravene public order and / or morality;  
-f. be obscene, indecent or contain child pornography;  
-g. incur the liability of SNV and/or cause (in whole or in part) that SNV cannot exploit the Platform;  
-h. cause SNV's Platform to be broken, damaged or less efficiently operated, or have the effect that the SNV Platform is affected in such a way that its effectiveness or functionality is affected in any way.
+f. be obscene, indecent or contain child pornography contain children, child sexual abuse material, age-play, incest, rape or non-consensual sex, hypnosis, intoxication, sexual assault, extreme violence, non-consensual pain, blood, cutting, erotic asphyxiation, torture, necrophilia, sadomasochistic abuse, hardcore bondage, extreme sting, genital mutilation, bestiality, urine or water sports, scat or excrement-related material, enema play, vomiting, menstrual bleeding, or any other matter that is illegal ;  
+g. promote violence or discrimination based on race, sex, religion, nationality,disability, sexual orientation, or age.  
+h. promote or depict rearms (excluding obvious toys), weapons (excluding obvious toys), or any goods whose sale, possession, or use is subject to prohibitions or restrictions.  
+i. Promote or depict alcohol or drugs or drug paraphernalia;  
+j. incur the liability of SNV and/or cause (in whole or in part) that SNV cannot exploit the Platform;  
+k. cause SNV's Platform to be broken, damaged or less efficiently operated, or have the effect that the SNV Platform is affected in such a way that its effectiveness or functionality is affected in any way.
 
 ### 9\. Privacy and personal data.
 
@@ -300,7 +307,7 @@ Users shall inform the Shoshoro NV online support if any situation develops that
 
 + [General User Conditions E-Wallet](#)
 
-GENERAL USER CONDITIONS E-WALLET (08-11-2021)
+GENERAL USER CONDITIONS E-WALLET (22-11-2024)
 =============================================
 
 General User Conditions E-Wallet
@@ -321,12 +328,12 @@ The General User Conditions E-Wallet constitute all the rules of use of the E-Wa
 1.1. These General User Conditions E-Wallet supersede all prior conditions applicable between SNV and the User with respect to the E-Wallet.  
 1.2. By effectively using the E-Wallet, you are deemed to have accepted these General User Conditions E-Wallet.  
 1.3. If you have any questions regarding these General User Conditions E-Wallet you can consult the FAQ section (frequently asked questions) or contact ACW BV via the contact form that you will find on the SNV Platform.  
-1.4. ACW BV reserves the right to modify these General User Conditions E-Wallet. ACW BV will inform the User by placing the new modified General User Conditions E-Wallet on the SNV Platform. In case of explicit request by the duly registered User, ACW BV will transmit the modified General User Conditions E-Wallet by email or any other means. The changes take effect 14 days after publication or on the date specified in the notification. If the User does not accept the modifications, the relationship between you as a User of the E-Wallet and ACW BV will end, by the effect of the law.  
+1.4. ACW BV reserves the right to modify these General User Conditions E-Wallet. ACW BV will inform the User by placing the new modified General User Conditions E-Wallet on the SNV Platform. The changes take effect 14 days after publication on the Platform. If the User does not accept the modifications, the relationship between you as a User of the E-Wallet and ACW BV will end, by the effect of the law.  
 1.5. The General User Conditions E-Wallet take effect on the date on which the User has registered and has accepted the General User Conditions E-Wallet (effective date).
 
 ### 2\. Definitions
 
-2.1. : refers to registered to a limited liability company (BV) with the Chamber of Commerce under number 52306054 with its offices at Zuid-Hollandlaan 7, 2596 AL in The Hague (hereinafter: ACW BV).  
+2.1. ACW BV: refers to registered to a limited liability company (BV) with the Chamber of Commerce under number 52306054 with its offices at , , , , (hereinafter: ACW BV).  
 2.2. Direct Payment: the payment by the User to Performer for the Entertainment Webcam Services other than via the E-Wallet.  
 2.3. Entertainment Webcam Service: service offered and sold by the Performer on this Platform to the User which service is rendered via the webcam.  
 2.4. E-Wallet (prepaid virtual credit): prepaid virtual credit on the name of the User serving to make discharge payments to the Performers who offer and sell their Entertainment Webcam Services on the SNV Platform. The E-Wallet is not an account but a virtual credit which cannot be refunded to the User unless a request for refund is made by the user within 14 days after the first loading of his E-Wallet under the condition that such user has not yet spent any of his virtual credit yet.  
@@ -340,18 +347,22 @@ The General User Conditions E-Wallet constitute all the rules of use of the E-Wa
 2.12. Performer Name: the name under which the Performer is listed on the SNV Platform.  
 2.13. Performer Profile: the complete description of the Performer made by the Performer on his personal page.  
 2.14. Policy Rules: documents prepared by the AC Group and published on the SNV Platform containing mandatory or non-mandatory rules which apply to use of the SNV Platform including but not limited to Privacy/ GDPR rules, Code of Conduct, KYC rules and AML rules.  
-2.15. SNV refers to a company registered in the commercial registry under number 122760, having its offices at the address mentioned below, , , , , and related companies and partners of SNV with the exception of the related company ACW BV.  
-2.16. (SNV) Platform: the technical Platform of SNV to which a number of websites are linked.  
+2.15. SNV refers to a company registered in the commercial registry under number 122760, having its offices at the address , , , , and related companies and partners of SNV with the exception of the related company ACW BV.  
+2.16. (SNV) Platform: the technical platform exploited by SNV operating under various trade names owned by SNV (XLove, XLovecam, XXXLove, XLovegay) that enables the Service Provider to provide and sell Entertainment Webcam Services anonymously and enables the User to purchase Entertainment Webcam Services anonymously. Via a number of domain names and white labels one is redirected to this platform. The domain names or white labels are either owned by the AC Group or by Affiliates of the AC Group.  
 2.17. Start date: the date on which the User accepts the General User Conditions E-Wallet.  
 2.18. User: the natural person who purchases Entertainment Webcam Services from the Performer.  
 2.19. User Account: the personal registration of the User on the SNV Platform.  
 2.20. User Name: the name under which the User is registered on the SNV Platform but also the name which, combined with the personal password, allows access to the User Account.  
-2.21. User Information: all the information that you place yourself as a User on the SNV Platform or on your User Account, including registration data, feedback and all other messages.
+2.21. User Information: all the information that you place yourself as a User on the SNV Platform or on your User Account, including registration data, feedback and all other messages.  
+2.22 AC Group: companies which are directly and indirectly held by AC Media Connect BV.  
+2.23 AC Media Connect BV: a company registered in the commercial registry under number 6863636628, having its offices at Beursplein 37, 3011 AA, Rotterdam.  
+2.24 Affiliates: third parties with whom has concluded agreements to provide and offer marketing services through the Affiliate Program of ACW NV.  
+2.25 (ACW NV): a company having its offices at , , , , , registered under number 12276.
 
 ### 3\. User Requirements
 
 3.1. The User must be a person with legal capacity and the power to enter into binding contracts.  
-3.2. The User must not be less than 18 years old or at least the age of majority in his country of residence and must have reached at least the legal age of use of the Platform.  
+3.2. The User must have at least the age of majority in his country of residence and must have reached at least the legal age of use of the Platform.  
 3.3. The E-Wallet is not transferable, in any form whatsoever.
 
 ### 4\. E-Wallet
