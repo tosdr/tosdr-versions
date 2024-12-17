@@ -655,21 +655,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Räucherlachs im Test: Lachs ist wieder Luxus](https://www.test.de/Raeucherlachs-im-Test-Lachs-ist-wieder-Luxus-4797142-0/ "Räucherlachs im Test - Lachs ist wieder Luxus")
 * [Giro­konten im Vergleich: Null statt 300 Euro – 10 Konten sind kostenlos](https://www.test.de/Girokonto-im-Test-5069390-0/ "Girokonten im Vergleich - Null statt 300 Euro – 10 Konten sind kostenlos")
 * [Skihelme im Test: Aufprall­schutz mit und ohne Mips](https://www.test.de/Skihelme-mit-und-ohne-Mips-im-Test-1833538-0/ "Skihelme im Test - Aufprallschutz mit und ohne Mips")
 * [Inhaliergeräte im Test: Einatmen – aufatmen](https://www.test.de/Inhaliergeraete-im-Test-1532341-0/ "Inhaliergeräte im Test - Einatmen – aufatmen")
 * [Laptops im Test: Kräftig und kompakt – Notebooks, Ultra­books und Co](https://www.test.de/Tablets-mit-Tastatur-Notebooks-Ultrabooks-Convertibles-im-Test-4734961-0/ "Laptops im Test - Kräftig und kompakt – Notebooks, Ultrabooks und Co")
 * [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
-* [Gefrier­schränke und Gefriertruhen im Test: Der Preis ist Eis – die besten Tiefkühler](https://www.test.de/Gefriertruhe-Gefrierschrank-Test-4981546-0/ "Gefrierschränke und Gefriertruhen im Test - Der Preis ist Eis – die besten Tiefkühler")
 
 test.de entdecken
 
-* [Fest­geld: Swed­bank-Angebot ist nicht echt](https://www.test.de/Festgeld-Swedbank-Angebot-ist-nicht-echt-6157210-0/ "Festgeld - Swedbank-Angebot ist nicht echt")
-* [Anla­geausschüsse für grüne Fonds: Unabhängige Experten für nach­haltige Qualität](https://www.test.de/Anlageausschuesse-fuer-gruene-Fonds-Unabhaengige-Experten-fuer-nachhaltige-Qualitaet-6072446-0/ "Anlageausschüsse für grüne Fonds - Unabhängige Experten für nachhaltige Qualität")
-* [Aktien-ETF mit geringerem US-Anteil: Was bringt der gleichgewichtete Welt­index?](https://www.test.de/Aktien-ETF-mit-geringerem-US-Anteil-Das-bringt-der-gleichgewichtete-Weltindex-6173772-0/ "Aktien-ETF mit geringerem US-Anteil - Was bringt der gleichgewichtete Weltindex?")
-* [Anla­geangebote: Vermittler muss Testat nicht prüfen](https://www.test.de/Anlageangebote-Vermittler-muss-Testat-nicht-pruefen-6135781-0/ "Anlageangebote - Vermittler muss Testat nicht prüfen")
-* [UDI-Gruppe: Insolvenz­verwalter hat Pflichten verletzt](https://www.test.de/UDI-Gruppe-Insolvenzverwalter-hat-Pflichten-verletzt-6092746-0/ "UDI-Gruppe - Insolvenzverwalter hat Pflichten verletzt")
 * [Kreuz­fahrten mit Aida, Costa und MSC: Reedereien setzen auf Diesel statt Gas](https://www.test.de/Kreuzfahrten-mit-Aida-Costa-und-MSC-Reedereien-setzen-auf-Diesel-statt-Gas-5967313-0/ "Kreuzfahrten mit Aida, Costa und MSC - Reedereien setzen auf Diesel statt Gas")
+* [Neue Betrugs­masche: Angeblich Geld vom Anwalt](https://www.test.de/Neue-Betrugsmasche-Angeblich-Geld-vom-Anwalt-6045004-0/ "Neue Betrugsmasche - Angeblich Geld vom Anwalt")
+* [Zahn­arzt: Zahn­arzt­rechnung – auf diese Punkte sollten Sie achten](https://www.test.de/Gewusst-wie-Zahnarztrechnung-pruefen-5972716-0/ "Zahnarzt - Zahnarztrechnung – auf diese Punkte sollten Sie achten")
+* [Fahr­tauglich­keit im Alter: Was Senioren am Steuer für die Sicherheit tun können](https://www.test.de/Fahrtauglichkeit-im-Alter-Was-Senioren-tun-koennen-6111611-0/ "Fahrtauglichkeit im Alter - Was Senioren am Steuer für die Sicherheit tun können")
+* [Milch­aufschäumer im Test: Gute und schlechte Schaum­schläger](https://www.test.de/Milchaufschaeumer-im-Test-Gute-und-schlechte-Schaumschlaeger-6166383-0/ "Milchaufschäumer im Test - Gute und schlechte Schaumschläger")
+* [Brillen­versicherung: Policen von Fielmann und Co – braucht man die?](https://www.test.de/Brillenversicherung-6030065-0/ "Brillenversicherung - Policen von Fielmann und Co – braucht man die?")
 
 Weitere Informationen
 
@@ -3073,21 +3073,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Räucherlachs im Test: Lachs ist wieder Luxus](https://www.test.de/Raeucherlachs-im-Test-Lachs-ist-wieder-Luxus-4797142-0/ "Räucherlachs im Test - Lachs ist wieder Luxus")
 * [Giro­konten im Vergleich: Null statt 300 Euro – 10 Konten sind kostenlos](https://www.test.de/Girokonto-im-Test-5069390-0/ "Girokonten im Vergleich - Null statt 300 Euro – 10 Konten sind kostenlos")
 * [Skihelme im Test: Aufprall­schutz mit und ohne Mips](https://www.test.de/Skihelme-mit-und-ohne-Mips-im-Test-1833538-0/ "Skihelme im Test - Aufprallschutz mit und ohne Mips")
 * [Inhaliergeräte im Test: Einatmen – aufatmen](https://www.test.de/Inhaliergeraete-im-Test-1532341-0/ "Inhaliergeräte im Test - Einatmen – aufatmen")
 * [Laptops im Test: Kräftig und kompakt – Notebooks, Ultra­books und Co](https://www.test.de/Tablets-mit-Tastatur-Notebooks-Ultrabooks-Convertibles-im-Test-4734961-0/ "Laptops im Test - Kräftig und kompakt – Notebooks, Ultrabooks und Co")
 * [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
-* [Gefrier­schränke und Gefriertruhen im Test: Der Preis ist Eis – die besten Tiefkühler](https://www.test.de/Gefriertruhe-Gefrierschrank-Test-4981546-0/ "Gefrierschränke und Gefriertruhen im Test - Der Preis ist Eis – die besten Tiefkühler")
 
 test.de entdecken
 
-* [Fest­geld: Swed­bank-Angebot ist nicht echt](https://www.test.de/Festgeld-Swedbank-Angebot-ist-nicht-echt-6157210-0/ "Festgeld - Swedbank-Angebot ist nicht echt")
-* [Anla­geausschüsse für grüne Fonds: Unabhängige Experten für nach­haltige Qualität](https://www.test.de/Anlageausschuesse-fuer-gruene-Fonds-Unabhaengige-Experten-fuer-nachhaltige-Qualitaet-6072446-0/ "Anlageausschüsse für grüne Fonds - Unabhängige Experten für nachhaltige Qualität")
-* [Aktien-ETF mit geringerem US-Anteil: Was bringt der gleichgewichtete Welt­index?](https://www.test.de/Aktien-ETF-mit-geringerem-US-Anteil-Das-bringt-der-gleichgewichtete-Weltindex-6173772-0/ "Aktien-ETF mit geringerem US-Anteil - Was bringt der gleichgewichtete Weltindex?")
-* [Anla­geangebote: Vermittler muss Testat nicht prüfen](https://www.test.de/Anlageangebote-Vermittler-muss-Testat-nicht-pruefen-6135781-0/ "Anlageangebote - Vermittler muss Testat nicht prüfen")
-* [UDI-Gruppe: Insolvenz­verwalter hat Pflichten verletzt](https://www.test.de/UDI-Gruppe-Insolvenzverwalter-hat-Pflichten-verletzt-6092746-0/ "UDI-Gruppe - Insolvenzverwalter hat Pflichten verletzt")
 * [Kreuz­fahrten mit Aida, Costa und MSC: Reedereien setzen auf Diesel statt Gas](https://www.test.de/Kreuzfahrten-mit-Aida-Costa-und-MSC-Reedereien-setzen-auf-Diesel-statt-Gas-5967313-0/ "Kreuzfahrten mit Aida, Costa und MSC - Reedereien setzen auf Diesel statt Gas")
+* [Neue Betrugs­masche: Angeblich Geld vom Anwalt](https://www.test.de/Neue-Betrugsmasche-Angeblich-Geld-vom-Anwalt-6045004-0/ "Neue Betrugsmasche - Angeblich Geld vom Anwalt")
+* [Zahn­arzt: Zahn­arzt­rechnung – auf diese Punkte sollten Sie achten](https://www.test.de/Gewusst-wie-Zahnarztrechnung-pruefen-5972716-0/ "Zahnarzt - Zahnarztrechnung – auf diese Punkte sollten Sie achten")
+* [Fahr­tauglich­keit im Alter: Was Senioren am Steuer für die Sicherheit tun können](https://www.test.de/Fahrtauglichkeit-im-Alter-Was-Senioren-tun-koennen-6111611-0/ "Fahrtauglichkeit im Alter - Was Senioren am Steuer für die Sicherheit tun können")
+* [Milch­aufschäumer im Test: Gute und schlechte Schaum­schläger](https://www.test.de/Milchaufschaeumer-im-Test-Gute-und-schlechte-Schaumschlaeger-6166383-0/ "Milchaufschäumer im Test - Gute und schlechte Schaumschläger")
+* [Brillen­versicherung: Policen von Fielmann und Co – braucht man die?](https://www.test.de/Brillenversicherung-6030065-0/ "Brillenversicherung - Policen von Fielmann und Co – braucht man die?")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -3129,39 +3129,39 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Räucherlachs im Test: Lachs ist wieder Luxus](https://www.test.de/Raeucherlachs-im-Test-Lachs-ist-wieder-Luxus-4797142-0/ "Räucherlachs im Test - Lachs ist wieder Luxus")
 * [Giro­konten im Vergleich: Null statt 300 Euro – 10 Konten sind kostenlos](https://www.test.de/Girokonto-im-Test-5069390-0/ "Girokonten im Vergleich - Null statt 300 Euro – 10 Konten sind kostenlos")
 * [Skihelme im Test: Aufprall­schutz mit und ohne Mips](https://www.test.de/Skihelme-mit-und-ohne-Mips-im-Test-1833538-0/ "Skihelme im Test - Aufprallschutz mit und ohne Mips")
 * [Inhaliergeräte im Test: Einatmen – aufatmen](https://www.test.de/Inhaliergeraete-im-Test-1532341-0/ "Inhaliergeräte im Test - Einatmen – aufatmen")
 * [Laptops im Test: Kräftig und kompakt – Notebooks, Ultra­books und Co](https://www.test.de/Tablets-mit-Tastatur-Notebooks-Ultrabooks-Convertibles-im-Test-4734961-0/ "Laptops im Test - Kräftig und kompakt – Notebooks, Ultrabooks und Co")
 * [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
-* [Gefrier­schränke und Gefriertruhen im Test: Der Preis ist Eis – die besten Tiefkühler](https://www.test.de/Gefriertruhe-Gefrierschrank-Test-4981546-0/ "Gefrierschränke und Gefriertruhen im Test - Der Preis ist Eis – die besten Tiefkühler")
 
 test.de entdecken
 
-* [Fest­geld: Swed­bank-Angebot ist nicht echt](https://www.test.de/Festgeld-Swedbank-Angebot-ist-nicht-echt-6157210-0/ "Festgeld - Swedbank-Angebot ist nicht echt")
-* [Anla­geausschüsse für grüne Fonds: Unabhängige Experten für nach­haltige Qualität](https://www.test.de/Anlageausschuesse-fuer-gruene-Fonds-Unabhaengige-Experten-fuer-nachhaltige-Qualitaet-6072446-0/ "Anlageausschüsse für grüne Fonds - Unabhängige Experten für nachhaltige Qualität")
-* [Aktien-ETF mit geringerem US-Anteil: Was bringt der gleichgewichtete Welt­index?](https://www.test.de/Aktien-ETF-mit-geringerem-US-Anteil-Das-bringt-der-gleichgewichtete-Weltindex-6173772-0/ "Aktien-ETF mit geringerem US-Anteil - Was bringt der gleichgewichtete Weltindex?")
-* [Anla­geangebote: Vermittler muss Testat nicht prüfen](https://www.test.de/Anlageangebote-Vermittler-muss-Testat-nicht-pruefen-6135781-0/ "Anlageangebote - Vermittler muss Testat nicht prüfen")
-* [UDI-Gruppe: Insolvenz­verwalter hat Pflichten verletzt](https://www.test.de/UDI-Gruppe-Insolvenzverwalter-hat-Pflichten-verletzt-6092746-0/ "UDI-Gruppe - Insolvenzverwalter hat Pflichten verletzt")
 * [Kreuz­fahrten mit Aida, Costa und MSC: Reedereien setzen auf Diesel statt Gas](https://www.test.de/Kreuzfahrten-mit-Aida-Costa-und-MSC-Reedereien-setzen-auf-Diesel-statt-Gas-5967313-0/ "Kreuzfahrten mit Aida, Costa und MSC - Reedereien setzen auf Diesel statt Gas")
+* [Neue Betrugs­masche: Angeblich Geld vom Anwalt](https://www.test.de/Neue-Betrugsmasche-Angeblich-Geld-vom-Anwalt-6045004-0/ "Neue Betrugsmasche - Angeblich Geld vom Anwalt")
+* [Zahn­arzt: Zahn­arzt­rechnung – auf diese Punkte sollten Sie achten](https://www.test.de/Gewusst-wie-Zahnarztrechnung-pruefen-5972716-0/ "Zahnarzt - Zahnarztrechnung – auf diese Punkte sollten Sie achten")
+* [Fahr­tauglich­keit im Alter: Was Senioren am Steuer für die Sicherheit tun können](https://www.test.de/Fahrtauglichkeit-im-Alter-Was-Senioren-tun-koennen-6111611-0/ "Fahrtauglichkeit im Alter - Was Senioren am Steuer für die Sicherheit tun können")
+* [Milch­aufschäumer im Test: Gute und schlechte Schaum­schläger](https://www.test.de/Milchaufschaeumer-im-Test-Gute-und-schlechte-Schaumschlaeger-6166383-0/ "Milchaufschäumer im Test - Gute und schlechte Schaumschläger")
+* [Brillen­versicherung: Policen von Fielmann und Co – braucht man die?](https://www.test.de/Brillenversicherung-6030065-0/ "Brillenversicherung - Policen von Fielmann und Co – braucht man die?")
 
 Neueste Tests
 
+* [Räucherlachs im Test: Lachs ist wieder Luxus](https://www.test.de/Raeucherlachs-im-Test-Lachs-ist-wieder-Luxus-4797142-0/ "Räucherlachs im Test - Lachs ist wieder Luxus")
 * [Giro­konten im Vergleich: Null statt 300 Euro – 10 Konten sind kostenlos](https://www.test.de/Girokonto-im-Test-5069390-0/ "Girokonten im Vergleich - Null statt 300 Euro – 10 Konten sind kostenlos")
 * [Skihelme im Test: Aufprall­schutz mit und ohne Mips](https://www.test.de/Skihelme-mit-und-ohne-Mips-im-Test-1833538-0/ "Skihelme im Test - Aufprallschutz mit und ohne Mips")
 * [Inhaliergeräte im Test: Einatmen – aufatmen](https://www.test.de/Inhaliergeraete-im-Test-1532341-0/ "Inhaliergeräte im Test - Einatmen – aufatmen")
 * [Laptops im Test: Kräftig und kompakt – Notebooks, Ultra­books und Co](https://www.test.de/Tablets-mit-Tastatur-Notebooks-Ultrabooks-Convertibles-im-Test-4734961-0/ "Laptops im Test - Kräftig und kompakt – Notebooks, Ultrabooks und Co")
 * [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
-* [Gefrier­schränke und Gefriertruhen im Test: Der Preis ist Eis – die besten Tiefkühler](https://www.test.de/Gefriertruhe-Gefrierschrank-Test-4981546-0/ "Gefrierschränke und Gefriertruhen im Test - Der Preis ist Eis – die besten Tiefkühler")
 
 test.de entdecken
 
-* [Fest­geld: Swed­bank-Angebot ist nicht echt](https://www.test.de/Festgeld-Swedbank-Angebot-ist-nicht-echt-6157210-0/ "Festgeld - Swedbank-Angebot ist nicht echt")
-* [Anla­geausschüsse für grüne Fonds: Unabhängige Experten für nach­haltige Qualität](https://www.test.de/Anlageausschuesse-fuer-gruene-Fonds-Unabhaengige-Experten-fuer-nachhaltige-Qualitaet-6072446-0/ "Anlageausschüsse für grüne Fonds - Unabhängige Experten für nachhaltige Qualität")
-* [Aktien-ETF mit geringerem US-Anteil: Was bringt der gleichgewichtete Welt­index?](https://www.test.de/Aktien-ETF-mit-geringerem-US-Anteil-Das-bringt-der-gleichgewichtete-Weltindex-6173772-0/ "Aktien-ETF mit geringerem US-Anteil - Was bringt der gleichgewichtete Weltindex?")
-* [Anla­geangebote: Vermittler muss Testat nicht prüfen](https://www.test.de/Anlageangebote-Vermittler-muss-Testat-nicht-pruefen-6135781-0/ "Anlageangebote - Vermittler muss Testat nicht prüfen")
-* [UDI-Gruppe: Insolvenz­verwalter hat Pflichten verletzt](https://www.test.de/UDI-Gruppe-Insolvenzverwalter-hat-Pflichten-verletzt-6092746-0/ "UDI-Gruppe - Insolvenzverwalter hat Pflichten verletzt")
 * [Kreuz­fahrten mit Aida, Costa und MSC: Reedereien setzen auf Diesel statt Gas](https://www.test.de/Kreuzfahrten-mit-Aida-Costa-und-MSC-Reedereien-setzen-auf-Diesel-statt-Gas-5967313-0/ "Kreuzfahrten mit Aida, Costa und MSC - Reedereien setzen auf Diesel statt Gas")
+* [Neue Betrugs­masche: Angeblich Geld vom Anwalt](https://www.test.de/Neue-Betrugsmasche-Angeblich-Geld-vom-Anwalt-6045004-0/ "Neue Betrugsmasche - Angeblich Geld vom Anwalt")
+* [Zahn­arzt: Zahn­arzt­rechnung – auf diese Punkte sollten Sie achten](https://www.test.de/Gewusst-wie-Zahnarztrechnung-pruefen-5972716-0/ "Zahnarzt - Zahnarztrechnung – auf diese Punkte sollten Sie achten")
+* [Fahr­tauglich­keit im Alter: Was Senioren am Steuer für die Sicherheit tun können](https://www.test.de/Fahrtauglichkeit-im-Alter-Was-Senioren-tun-koennen-6111611-0/ "Fahrtauglichkeit im Alter - Was Senioren am Steuer für die Sicherheit tun können")
+* [Milch­aufschäumer im Test: Gute und schlechte Schaum­schläger](https://www.test.de/Milchaufschaeumer-im-Test-Gute-und-schlechte-Schaumschlaeger-6166383-0/ "Milchaufschäumer im Test - Gute und schlechte Schaumschläger")
+* [Brillen­versicherung: Policen von Fielmann und Co – braucht man die?](https://www.test.de/Brillenversicherung-6030065-0/ "Brillenversicherung - Policen von Fielmann und Co – braucht man die?")
 
 Stiftung Warentest
 
