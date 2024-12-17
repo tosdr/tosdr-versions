@@ -84,7 +84,7 @@ Pour découvrir l'école et t'aider à choisir la ou les disciplines qui te fero
 À ne pas manquer en ce moment!
 ------------------------------
 
-[![image pour C'est le moment de choisir votre Cadeau de Noël](/storage/highlights/newsflash/highlight.webp?v=612920)
+[![image pour C'est le moment de choisir votre Cadeau de Noël](/storage/highlights/newsflash/highlight.webp?v=530583)
 
 ##### C'est le moment de choisir votre Cadeau de Noël
 
