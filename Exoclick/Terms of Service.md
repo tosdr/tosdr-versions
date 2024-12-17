@@ -400,7 +400,7 @@ Either party may change its address by providing the other party with written no
 * [Careers](https://careers.exoclick.com/)
 * [IWF Membership](https://www.exoclick.com/iwf-membership/)
 * [Associations](https://www.exoclick.com/associations/)
-* [ExoClick Ethical Channel](https://www.exoclick.com/exoclick-ethical-channel/)
+* [Ethical Channel](https://www.exoclick.com/exoclick-ethical-channel/)
 
 #### [Help](http://docs.exoclick.com/)
 
@@ -408,10 +408,7 @@ Either party may change its address by providing the other party with written no
 * [API](https://www.exoclick.com/api/)
 * [Documentation](http://docs.exoclick.com/)
 * [Trust and Safety](https://www.exoclick.com/trust-and-safety/)
-* [Compliance](https://www.exoclick.com/compliance/)
-* [Guidelines](https://www.exoclick.com/guidelines/)
 * [Contact Us](https://www.exoclick.com/contact/)
-* [Copyright Report Form](https://www.exoclick.com/copyrightform/)
 
 © 2024 ExoClick
 
