@@ -240,6 +240,9 @@ BY USING THIS WEBSITE, YOU: (A) ASSUME ALL RISKS OF LOSSES OR DAMAGES RESULTING 
 * [Instagram](https://www.instagram.com/factsmgt1/)
 * [YouTube](https://www.youtube.com/@FACTSMGT)
 
+* [Facebook](https://www.facebook.com/FACTSAUNZ)
+* [LinkedIn](https://www.linkedin.com/company/facts-aunz)
+
 ©2024 FACTS All Rights Reserved
 
 [![FACTS - A Nelnet Company](https://factsmgt.com/wp-content/uploads/Logo-Facts.svg)](https://factsmgt.com/)
