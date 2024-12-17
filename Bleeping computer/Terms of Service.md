@@ -23,31 +23,31 @@
     * [Featured](#nfeatured)
     * [Latest](#nlatest)
     
-    * [![Clop ransomware claims responsibility for Cleo data theft attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![ConnectOnCall breach exposes health data of over 910,000 patients](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Clop ransomware claims responsibility for Cleo data theft attacks](https://www.bleepingcomputer.com/news/security/clop-ransomware-claims-responsibility-for-cleo-data-theft-attacks/)
-    * [![Germany blocks BadBox malware loaded on 30,000 Android devices](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Germany blocks BadBox malware loaded on 30,000 Android devices](https://www.bleepingcomputer.com/news/security/germany-blocks-badbox-malware-loaded-on-30-000-android-devices/)
-    * [![FTC warns of online task job scams hooking victims like gambling](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        FTC warns of online task job scams hooking victims like gambling](https://www.bleepingcomputer.com/news/security/ftc-warns-of-online-task-job-scams-hooking-victims-like-gambling/)
-    * [![New IOCONTROL malware used in critical infrastructure attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        New IOCONTROL malware used in critical infrastructure attacks](https://www.bleepingcomputer.com/news/security/new-iocontrol-malware-used-in-critical-infrastructure-attacks/)
-    
-    * [![Microsoft Visio: The go-to tool for visualizing data is $17.97 in this deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Microsoft Visio: The go-to tool for visualizing data is $17.97 in this deal](https://www.bleepingcomputer.com/offer/deals/microsoft-visio-the-go-to-tool-for-visualizing-data-is-1797-in-this-deal/)
+        ConnectOnCall breach exposes health data of over 910,000 patients](https://www.bleepingcomputer.com/news/security/connectoncall-breach-exposes-health-data-of-over-910-000-patients/)
     * [![FBI spots HiatusRAT malware attacks targeting web cameras, DVRs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         FBI spots HiatusRAT malware attacks targeting web cameras, DVRs](https://www.bleepingcomputer.com/news/security/fbi-spots-hiatusrat-malware-attacks-targeting-web-cameras-dvrs/)
-    * [![Texas Tech University System data breach impacts 1.4 million patients](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Over 25,000 SonicWall VPN Firewalls exposed to critical flaws](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Texas Tech University System data breach impacts 1.4 million patients](https://www.bleepingcomputer.com/news/security/texas-tech-university-system-data-breach-impacts-14-million-patients/)
-    * [![Kali Linux 2024.4 released with 14 new tools, deprecates some features](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Over 25,000 SonicWall VPN Firewalls exposed to critical flaws](https://www.bleepingcomputer.com/news/security/over-25-000-sonicwall-vpn-firewalls-exposed-to-critical-flaws/)
+    * [![Clop ransomware claims responsibility for Cleo data theft attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Kali Linux 2024.4 released with 14 new tools, deprecates some features](https://www.bleepingcomputer.com/news/security/kali-linux-20244-released-with-14-new-tools-deprecates-some-features/)
+        Clop ransomware claims responsibility for Cleo data theft attacks](https://www.bleepingcomputer.com/news/security/clop-ransomware-claims-responsibility-for-cleo-data-theft-attacks/)
+    
+    * [![New critical Apache Struts flaw exploited to find vulnerable servers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        New critical Apache Struts flaw exploited to find vulnerable servers](https://www.bleepingcomputer.com/news/security/new-critical-apache-struts-flaw-exploited-to-find-vulnerable-servers/)
+    * [![Ireland fines Meta $264 million over 2018 Facebook data breach](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Ireland fines Meta $264 million over 2018 Facebook data breach](https://www.bleepingcomputer.com/news/security/ireland-fines-meta-264-million-over-2018-facebook-data-breach/)
+    * [![Over 25,000 SonicWall VPN Firewalls exposed to critical flaws](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Over 25,000 SonicWall VPN Firewalls exposed to critical flaws](https://www.bleepingcomputer.com/news/security/over-25-000-sonicwall-vpn-firewalls-exposed-to-critical-flaws/)
+    * [![Might need a mass password reset one day? Read this first.](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Might need a mass password reset one day? Read this first.](https://www.bleepingcomputer.com/news/security/might-need-a-mass-password-reset-one-day-read-this-first/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
