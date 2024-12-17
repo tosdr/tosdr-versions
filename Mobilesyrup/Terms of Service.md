@@ -93,43 +93,67 @@
     
 * [News](https://mobilesyrup.com/categories/news/)
     
-    [](https://mobilesyrup.com/2024/12/13/ottawa-community-housing-free-wi-fi/)
+    [](https://mobilesyrup.com/2024/12/16/malcolm-in-the-middle-coming-back-for-a-4-episode-run-on-disney/)
     
-    Dec 13, 2024 | 4:52 PM EST
+    Dec 16, 2024 | 6:10 PM EST
     
-    ### [Ottawa Community Housing introduces free Wi-Fi pilot project](https://mobilesyrup.com/2024/12/13/ottawa-community-housing-free-wi-fi/)
+    ### [Malcolm in the Middle coming back for a 4-episode run on Disney+](https://mobilesyrup.com/2024/12/16/malcolm-in-the-middle-coming-back-for-a-4-episode-run-on-disney/)
     
-    [](https://mobilesyrup.com/2024/12/13/the-last-of-us-part-ii-remaster-is-finally-coming-to-pc/)
+    [](https://mobilesyrup.com/2024/12/16/virgin-plus-early-boxing-week-deals/)
     
-    Dec 13, 2024 | 3:47 PM EST
+    Dec 16, 2024 | 5:09 PM EST
     
-    ### [The Last of Us Part II remaster is finally coming to PC](https://mobilesyrup.com/2024/12/13/the-last-of-us-part-ii-remaster-is-finally-coming-to-pc/)
+    ### [Virgin Plus early Boxing Week deals: Save on Galaxy S24 and home internet](https://mobilesyrup.com/2024/12/16/virgin-plus-early-boxing-week-deals/)
     
-    [](https://mobilesyrup.com/2024/12/13/google-now-helps-you-find-location-of-hidden-trackers-used-for-stalking/)
+    [](https://mobilesyrup.com/2024/12/16/bell-early-boxing-week/)
     
-    Dec 13, 2024 | 2:52 PM EST
+    Dec 16, 2024 | 3:36 PM EST
     
-    ### [Google now helps you find location of hidden trackers used for stalking](https://mobilesyrup.com/2024/12/13/google-now-helps-you-find-location-of-hidden-trackers-used-for-stalking/)
+    ### [Bell early Boxing Week offers: $6/mo Galaxy S24, save up to $40/mo on internet](https://mobilesyrup.com/2024/12/16/bell-early-boxing-week/)
     
-    [](https://mobilesyrup.com/2024/12/13/playstation-game-awards-sale-discounts-balatro-dragons-dogma-2-and-more/)
+    [](https://mobilesyrup.com/2024/12/16/air-canada-to-support-apple-find-my-sharing-for-lost-luggage/)
     
-    Dec 13, 2024 | 1:48 PM EST
+    Dec 16, 2024 | 3:24 PM EST
     
-    ### [PlayStation Game Awards sale discounts Balatro, Dragon’s Dogma 2 and more](https://mobilesyrup.com/2024/12/13/playstation-game-awards-sale-discounts-balatro-dragons-dogma-2-and-more/)
+    ### [Air Canada to support Apple Find My sharing for lost luggage](https://mobilesyrup.com/2024/12/16/air-canada-to-support-apple-find-my-sharing-for-lost-luggage/)
     
-    [](https://mobilesyrup.com/2024/12/13/google-shares-boxing-week-deals-on-pixel-phones-and-more/)
+    [](https://mobilesyrup.com/2024/12/16/the-switch-2-leaks-are-adding-up-to-a-january-reveal/)
     
-    Dec 13, 2024 | 12:35 PM EST
+    Dec 16, 2024 | 2:22 PM EST
     
-    ### [Google shares Boxing Week deals on Pixel phones and more](https://mobilesyrup.com/2024/12/13/google-shares-boxing-week-deals-on-pixel-phones-and-more/)
+    ### [The Switch 2 leaks are adding up to a January reveal](https://mobilesyrup.com/2024/12/16/the-switch-2-leaks-are-adding-up-to-a-january-reveal/)
     
-    [](https://mobilesyrup.com/2024/12/13/rogers-early-boxing-week-deals/)
+    [](https://mobilesyrup.com/2024/12/16/public-mobile-29-10gb-5g-canada-us-mexico/)
     
-    Dec 13, 2024 | 11:43 AM EST
+    Dec 16, 2024 | 1:18 PM EST
     
-    ### [Rogers early Boxing Week deals: activate or upgrade for a chance to win NHL tickets](https://mobilesyrup.com/2024/12/13/rogers-early-boxing-week-deals/)
+    ### [Public Mobile’s $29/10GB 5G Canada/U.S./Mexico plan is back](https://mobilesyrup.com/2024/12/16/public-mobile-29-10gb-5g-canada-us-mexico/)
     
     * [Carriers](https://mobilesyrup.com/categories/news/news-carriers/)
+        
+        [](https://mobilesyrup.com/2024/12/16/virgin-plus-early-boxing-week-deals/)
+        
+        Dec 16, 2024 | 5:09 PM EST
+        
+        ### [Virgin Plus early Boxing Week deals: Save on Galaxy S24 and home internet](https://mobilesyrup.com/2024/12/16/virgin-plus-early-boxing-week-deals/)
+        
+        [](https://mobilesyrup.com/2024/12/16/bell-early-boxing-week/)
+        
+        Dec 16, 2024 | 3:36 PM EST
+        
+        ### [Bell early Boxing Week offers: $6/mo Galaxy S24, save up to $40/mo on internet](https://mobilesyrup.com/2024/12/16/bell-early-boxing-week/)
+        
+        [](https://mobilesyrup.com/2024/12/16/public-mobile-29-10gb-5g-canada-us-mexico/)
+        
+        Dec 16, 2024 | 1:18 PM EST
+        
+        ### [Public Mobile’s $29/10GB 5G Canada/U.S./Mexico plan is back](https://mobilesyrup.com/2024/12/16/public-mobile-29-10gb-5g-canada-us-mexico/)
+        
+        [](https://mobilesyrup.com/2024/12/16/fido-early-boxing-week-deals/)
+        
+        Dec 16, 2024 | 10:53 AM EST
+        
+        ### [Fido early Boxing Week deals: $15/mo Galaxy S24, get a $39/100GB plan](https://mobilesyrup.com/2024/12/16/fido-early-boxing-week-deals/)
         
         [](https://mobilesyrup.com/2024/12/13/ottawa-community-housing-free-wi-fi/)
         
@@ -142,30 +166,6 @@
         Dec 13, 2024 | 11:43 AM EST
         
         ### [Rogers early Boxing Week deals: activate or upgrade for a chance to win NHL tickets](https://mobilesyrup.com/2024/12/13/rogers-early-boxing-week-deals/)
-        
-        [](https://mobilesyrup.com/2024/12/13/freedom-mobile-early-boxing-week-deals/)
-        
-        Dec 13, 2024 | 10:28 AM EST
-        
-        ### [Freedom Mobile early Boxing Week deals: bonus Roam Beyond data and $4/mo Pixel 9](https://mobilesyrup.com/2024/12/13/freedom-mobile-early-boxing-week-deals/)
-        
-        [](https://mobilesyrup.com/2024/12/11/starlink-mini-available-canada-discount-january-6/)
-        
-        Dec 11, 2024 | 5:35 PM EST
-        
-        ### [Starlink Mini now available in Canada at discounted price until Jan. 6](https://mobilesyrup.com/2024/12/11/starlink-mini-available-canada-discount-january-6/)
-        
-        [](https://mobilesyrup.com/2024/12/10/freedom-mobile-increase-cost-cheap-plans-home-internet-bundling/)
-        
-        Dec 10, 2024 | 2:20 PM EST
-        
-        ### [Freedom Mobile’s cheapest plans just got more expensive](https://mobilesyrup.com/2024/12/10/freedom-mobile-increase-cost-cheap-plans-home-internet-bundling/)
-        
-        [](https://mobilesyrup.com/2024/12/10/british-columbia-taylor-swift-fans-break-record-rogers-5g-network-data-event/)
-        
-        Dec 10, 2024 | 1:12 PM EST
-        
-        ### [B.C. Taylor Swift fans break Rogers 5G data record](https://mobilesyrup.com/2024/12/10/british-columbia-taylor-swift-fans-break-record-rogers-5g-network-data-event/)
         
     * [Smartphones](https://mobilesyrup.com/categories/news/news-smartphones/)
         
@@ -207,6 +207,12 @@
         
     * [Tablets & Computers](https://mobilesyrup.com/categories/news/news-tablets/)
         
+        [](https://mobilesyrup.com/2024/12/16/most-downloaded-iphone-apps-of-2024-canada/)
+        
+        Dec 16, 2024 | 11:52 AM EST
+        
+        ### [These are the most downloaded iPhone apps of 2024](https://mobilesyrup.com/2024/12/16/most-downloaded-iphone-apps-of-2024-canada/)
+        
         [](https://mobilesyrup.com/2024/12/06/asus-giving-away-free-rog-ally-with-their-pcs/)
         
         Dec 6, 2024 | 9:00 AM EST
@@ -237,13 +243,13 @@
         
         ### [Apple reveals finalists for the 2024 App of the Year awards](https://mobilesyrup.com/2024/11/25/apple-reveals-finalists-for-the-2024-app-of-the-year-awards/)
         
-        [](https://mobilesyrup.com/2024/11/21/google-pixel-tablet-2/)
-        
-        Nov 21, 2024 | 7:04 PM EST
-        
-        ### [Google’s Pixel Tablet 2 is reportedly cancelled](https://mobilesyrup.com/2024/11/21/google-pixel-tablet-2/)
-        
     * [Apps & Software](https://mobilesyrup.com/categories/news/news-apps-software/)
+        
+        [](https://mobilesyrup.com/2024/12/16/most-downloaded-iphone-apps-of-2024-canada/)
+        
+        Dec 16, 2024 | 11:52 AM EST
+        
+        ### [These are the most downloaded iPhone apps of 2024](https://mobilesyrup.com/2024/12/16/most-downloaded-iphone-apps-of-2024-canada/)
         
         [](https://mobilesyrup.com/2024/12/11/tiktok-canada-challenges-government-shutdown-order/)
         
@@ -274,12 +280,6 @@
         Dec 8, 2024 | 11:03 AM EST
         
         ### [Celebrating 30 years of PlayStation: What’s your favourite PS exclusive?](https://mobilesyrup.com/2024/12/08/30-years-of-playstation/)
-        
-        [](https://mobilesyrup.com/2024/12/06/google-pixel-6-7-fold-two-extra-years-software-upgrades/)
-        
-        Dec 6, 2024 | 10:50 AM EST
-        
-        ### [Pixel 6, 7 series get an extra two years of software upgrades](https://mobilesyrup.com/2024/12/06/google-pixel-6-7-fold-two-extra-years-software-upgrades/)
         
     * [Smart Home](https://mobilesyrup.com/categories/news/news-smart-home/)
         
@@ -359,6 +359,12 @@
         
     * [Accessories](https://mobilesyrup.com/categories/news/news-accessories/)
         
+        [](https://mobilesyrup.com/2024/12/16/air-canada-to-support-apple-find-my-sharing-for-lost-luggage/)
+        
+        Dec 16, 2024 | 3:24 PM EST
+        
+        ### [Air Canada to support Apple Find My sharing for lost luggage](https://mobilesyrup.com/2024/12/16/air-canada-to-support-apple-find-my-sharing-for-lost-luggage/)
+        
         [](https://mobilesyrup.com/2024/12/13/google-now-helps-you-find-location-of-hidden-trackers-used-for-stalking/)
         
         Dec 13, 2024 | 2:52 PM EST
@@ -389,13 +395,13 @@
         
         ### [New DJI Mic Mini eschews some features, but is super tiny wit a great price](https://mobilesyrup.com/2024/11/26/new-dji-mic-mini-super-tiny-great-price/)
         
-        [](https://mobilesyrup.com/2024/11/18/apple-sells-out-of-lightning-to-3-5mm-headphone-jack-adapters/)
-        
-        Nov 18, 2024 | 4:19 PM EST
-        
-        ### [Apple sells out of Lightning to 3.5mm headphone jack adapters](https://mobilesyrup.com/2024/11/18/apple-sells-out-of-lightning-to-3-5mm-headphone-jack-adapters/)
-        
     * [Streaming](https://mobilesyrup.com/categories/news/news-streaming/)
+        
+        [](https://mobilesyrup.com/2024/12/16/malcolm-in-the-middle-coming-back-for-a-4-episode-run-on-disney/)
+        
+        Dec 16, 2024 | 6:10 PM EST
+        
+        ### [Malcolm in the Middle coming back for a 4-episode run on Disney+](https://mobilesyrup.com/2024/12/16/malcolm-in-the-middle-coming-back-for-a-4-episode-run-on-disney/)
         
         [](https://mobilesyrup.com/2024/12/10/the-roku-channel-over-150-fast-channels-canada/)
         
@@ -426,12 +432,6 @@
         Nov 14, 2024 | 12:29 PM EST
         
         ### [Mythic Quest Season 4 hits Apple TV+ in 2025, spin-off in March](https://mobilesyrup.com/2024/11/14/mythic-quest-season-4-apple-tv-plus-january-2025/)
-        
-        [](https://mobilesyrup.com/2024/11/13/where-to-watch-the-mike-tyson-vs-jake-paul-fight-in-canada/)
-        
-        Nov 13, 2024 | 11:23 AM EST
-        
-        ### [Where to watch the Mike Tyson vs Jake Paul fight in Canada](https://mobilesyrup.com/2024/11/13/where-to-watch-the-mike-tyson-vs-jake-paul-fight-in-canada/)
         
     * [AI](https://mobilesyrup.com/categories/news/news-ai/)
         
@@ -473,6 +473,30 @@
         
     * [Deals](https://mobilesyrup.com/categories/deals/)
         
+        [](https://mobilesyrup.com/2024/12/16/virgin-plus-early-boxing-week-deals/)
+        
+        Dec 16, 2024 | 5:09 PM EST
+        
+        ### [Virgin Plus early Boxing Week deals: Save on Galaxy S24 and home internet](https://mobilesyrup.com/2024/12/16/virgin-plus-early-boxing-week-deals/)
+        
+        [](https://mobilesyrup.com/2024/12/16/bell-early-boxing-week/)
+        
+        Dec 16, 2024 | 3:36 PM EST
+        
+        ### [Bell early Boxing Week offers: $6/mo Galaxy S24, save up to $40/mo on internet](https://mobilesyrup.com/2024/12/16/bell-early-boxing-week/)
+        
+        [](https://mobilesyrup.com/2024/12/16/public-mobile-29-10gb-5g-canada-us-mexico/)
+        
+        Dec 16, 2024 | 1:18 PM EST
+        
+        ### [Public Mobile’s $29/10GB 5G Canada/U.S./Mexico plan is back](https://mobilesyrup.com/2024/12/16/public-mobile-29-10gb-5g-canada-us-mexico/)
+        
+        [](https://mobilesyrup.com/2024/12/16/fido-early-boxing-week-deals/)
+        
+        Dec 16, 2024 | 10:53 AM EST
+        
+        ### [Fido early Boxing Week deals: $15/mo Galaxy S24, get a $39/100GB plan](https://mobilesyrup.com/2024/12/16/fido-early-boxing-week-deals/)
+        
         [](https://mobilesyrup.com/2024/12/13/playstation-game-awards-sale-discounts-balatro-dragons-dogma-2-and-more/)
         
         Dec 13, 2024 | 1:48 PM EST
@@ -484,30 +508,6 @@
         Dec 13, 2024 | 12:35 PM EST
         
         ### [Google shares Boxing Week deals on Pixel phones and more](https://mobilesyrup.com/2024/12/13/google-shares-boxing-week-deals-on-pixel-phones-and-more/)
-        
-        [](https://mobilesyrup.com/2024/12/13/rogers-early-boxing-week-deals/)
-        
-        Dec 13, 2024 | 11:43 AM EST
-        
-        ### [Rogers early Boxing Week deals: activate or upgrade for a chance to win NHL tickets](https://mobilesyrup.com/2024/12/13/rogers-early-boxing-week-deals/)
-        
-        [](https://mobilesyrup.com/2024/12/13/freedom-mobile-early-boxing-week-deals/)
-        
-        Dec 13, 2024 | 10:28 AM EST
-        
-        ### [Freedom Mobile early Boxing Week deals: bonus Roam Beyond data and $4/mo Pixel 9](https://mobilesyrup.com/2024/12/13/freedom-mobile-early-boxing-week-deals/)
-        
-        [](https://mobilesyrup.com/2024/12/11/fido-koodo-offering-100gb-plans-for-as-low-as-34-per-month/)
-        
-        Dec 11, 2024 | 2:40 PM EST
-        
-        ### [Fido and Koodo offering 100GB plans for as low as $34 per month](https://mobilesyrup.com/2024/12/11/fido-koodo-offering-100gb-plans-for-as-low-as-34-per-month/)
-        
-        [](https://mobilesyrup.com/2024/12/10/mcdonalds-uber-eats-partner-on-delivery-discounts-free-burger/)
-        
-        Dec 10, 2024 | 1:48 PM EST
-        
-        ### [McDonalds and Uber Eats partner on delivery discounts, free burger](https://mobilesyrup.com/2024/12/10/mcdonalds-uber-eats-partner-on-delivery-discounts-free-burger/)
         
     
 * [Reviews](https://mobilesyrup.com/categories/reviews/)
@@ -817,6 +817,12 @@
     
 * [Features](https://mobilesyrup.com/categories/features/)
     
+    [](https://mobilesyrup.com/2024/12/15/best-smartphones-in-canada-2024-edition/)
+    
+    Dec 15, 2024 | 10:57 AM EST
+    
+    ### [Here are the best smartphones in Canada \[2024 Edition\]](https://mobilesyrup.com/2024/12/15/best-smartphones-in-canada-2024-edition/)
+    
     [](https://mobilesyrup.com/2024/12/13/solo-leveling-aleks-le/)
     
     Dec 13, 2024 | 5:42 PM EST
@@ -846,12 +852,6 @@
     Nov 23, 2024 | 2:27 PM EST
     
     ### [These games didn’t get Game Awards nominations, but they absolutely deserve recognition](https://mobilesyrup.com/2024/11/23/the-game-awards-2024-honourable-mentions-1000xresist-lil-guardsman-mouthwashing/)
-    
-    [](https://mobilesyrup.com/2024/11/22/entertainment-software-association-of-canada-president-ceo-paul-fogolin-interview-2024-highlights-trump-impact/)
-    
-    Nov 22, 2024 | 11:20 AM EST
-    
-    ### [ESA Canada boss on 2024 gaming highlights, potential Trump impact on Canadian industry](https://mobilesyrup.com/2024/11/22/entertainment-software-association-of-canada-president-ceo-paul-fogolin-interview-2024-highlights-trump-impact/)
     
     * [Carriers](https://mobilesyrup.com/categories/features/features-carriers/)
         
@@ -893,6 +893,12 @@
         
     * [Editorials](https://mobilesyrup.com/categories/features/features-editorials/)
         
+        [](https://mobilesyrup.com/2024/12/15/best-smartphones-in-canada-2024-edition/)
+        
+        Dec 15, 2024 | 10:57 AM EST
+        
+        ### [Here are the best smartphones in Canada \[2024 Edition\]](https://mobilesyrup.com/2024/12/15/best-smartphones-in-canada-2024-edition/)
+        
         [](https://mobilesyrup.com/2024/10/13/tinder-passport-review/)
         
         Oct 13, 2024 | 11:11 AM EDT
@@ -922,12 +928,6 @@
         Jan 14, 2024 | 4:32 PM EST
         
         ### [Phone makers are loading their devices with AI, but is it AI people actually want?](https://mobilesyrup.com/2024/01/14/are-phones-getting-good-ai/)
-        
-        [](https://mobilesyrup.com/2024/01/13/suicide-squad-kill-the-justice-league-negative-previews-live-service-trend-editorial/)
-        
-        Jan 13, 2024 | 11:02 AM EST
-        
-        ### [Suicide Squad: Kill the Justice League reiterates the dangers of chasing live service trends](https://mobilesyrup.com/2024/01/13/suicide-squad-kill-the-justice-league-negative-previews-live-service-trend-editorial/)
         
     * [Buyers' Guide](https://mobilesyrup.com/categories/features/features-buyers-guide/)
         
@@ -1163,6 +1163,18 @@
     
 * [Business](https://mobilesyrup.com/categories/business/)
     
+    [](https://mobilesyrup.com/2024/12/16/competition-bureau-allowing-rogers-to-buy-bell-mlse-stake/)
+    
+    Dec 16, 2024 | 4:21 PM EST
+    
+    ### [Competition Bureau allowing Rogers to buy Bell’s MLSE stake](https://mobilesyrup.com/2024/12/16/competition-bureau-allowing-rogers-to-buy-bell-mlse-stake/)
+    
+    [](https://mobilesyrup.com/2024/12/15/hydro-ottawa-finds-time-savings-while-testing-googles-ai/)
+    
+    Dec 15, 2024 | 2:32 PM EST
+    
+    ### [Hydro Ottawa finds time savings while testing Google’s AI](https://mobilesyrup.com/2024/12/15/hydro-ottawa-finds-time-savings-while-testing-googles-ai/)
+    
     [](https://mobilesyrup.com/2024/12/12/air-canada-free-wi-fi-2025/)
     
     Dec 12, 2024 | 10:34 AM EST
@@ -1187,19 +1199,19 @@
     
     ### [Competition Bureau sues Google for anti-competitive conduct in digital ads](https://mobilesyrup.com/2024/11/29/competition-bureau-google-anti-competitive-digital-ads/)
     
-    [](https://mobilesyrup.com/2024/11/28/air-canada-facial-recognition-vancouver-international-airport/)
-    
-    Nov 28, 2024 | 5:34 PM EST
-    
-    ### [Air Canada introduces facial recognition at Vancouver International Airport](https://mobilesyrup.com/2024/11/28/air-canada-facial-recognition-vancouver-international-airport/)
-    
-    [](https://mobilesyrup.com/2024/11/28/us-ftc-microsoft-antitrust-investigation/)
-    
-    Nov 28, 2024 | 10:29 AM EST
-    
-    ### [U.S. FTC opens antitrust investigation into Microsoft](https://mobilesyrup.com/2024/11/28/us-ftc-microsoft-antitrust-investigation/)
-    
     * [General](https://mobilesyrup.com/categories/business/general/)
+        
+        [](https://mobilesyrup.com/2024/12/16/competition-bureau-allowing-rogers-to-buy-bell-mlse-stake/)
+        
+        Dec 16, 2024 | 4:21 PM EST
+        
+        ### [Competition Bureau allowing Rogers to buy Bell’s MLSE stake](https://mobilesyrup.com/2024/12/16/competition-bureau-allowing-rogers-to-buy-bell-mlse-stake/)
+        
+        [](https://mobilesyrup.com/2024/12/15/hydro-ottawa-finds-time-savings-while-testing-googles-ai/)
+        
+        Dec 15, 2024 | 2:32 PM EST
+        
+        ### [Hydro Ottawa finds time savings while testing Google’s AI](https://mobilesyrup.com/2024/12/15/hydro-ottawa-finds-time-savings-while-testing-googles-ai/)
         
         [](https://mobilesyrup.com/2024/12/12/air-canada-free-wi-fi-2025/)
         
@@ -1224,18 +1236,6 @@
         Nov 28, 2024 | 5:34 PM EST
         
         ### [Air Canada introduces facial recognition at Vancouver International Airport](https://mobilesyrup.com/2024/11/28/air-canada-facial-recognition-vancouver-international-airport/)
-        
-        [](https://mobilesyrup.com/2024/11/28/us-ftc-microsoft-antitrust-investigation/)
-        
-        Nov 28, 2024 | 10:29 AM EST
-        
-        ### [U.S. FTC opens antitrust investigation into Microsoft](https://mobilesyrup.com/2024/11/28/us-ftc-microsoft-antitrust-investigation/)
-        
-        [](https://mobilesyrup.com/2024/11/19/u-s-department-of-justice-wants-google-to-sell-chrome/)
-        
-        Nov 19, 2024 | 3:10 PM EST
-        
-        ### [U.S. Department of Justice wants Google to sell Chrome](https://mobilesyrup.com/2024/11/19/u-s-department-of-justice-wants-google-to-sell-chrome/)
         
     * [Government](https://mobilesyrup.com/categories/business/business-general/)
         
