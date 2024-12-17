@@ -106,9 +106,9 @@ Light/Dark
 * Light/Dark
     
 
-* [](https://www.resetera.com/account/dismiss-notice?notice_id=414 "Dismiss notice")The [ResetEra Games of the Year 2024 Vote](https://www.resetera.com/threads/resetera-games-of-the-year-2024-voting-thread-ends-jan-15-12-00am-est.1061772/) is here! Voting will remain open for 29 days, 7 hours, 30 minutes, until Jan 15, 2025 at 12:00 AM. Let everyone know about your favorite games this year! We also have voting for [Games for Impact](https://www.resetera.com/threads/resetera-goty-2024-sub-vote-thread-games-for-impact.1061775/) this year!
+* [](https://www.resetera.com/account/dismiss-notice?notice_id=414 "Dismiss notice")The [ResetEra Games of the Year 2024 Vote](https://www.resetera.com/threads/resetera-games-of-the-year-2024-voting-thread-ends-jan-15-12-00am-est.1061772/) is here! Voting will remain open for 29 days, 1 hour, 28 minutes, until Jan 15, 2025 at 12:00 AM. Let everyone know about your favorite games this year! We also have voting for [Games for Impact](https://www.resetera.com/threads/resetera-goty-2024-sub-vote-thread-games-for-impact.1061775/) this year!
     
-* [](https://www.resetera.com/account/dismiss-notice?notice_id=417 "Dismiss notice")The [2024 Game Soundtrack of the Year vote thread is live!](https://www.resetera.com/threads/resetera-game-soundtracks-of-the-year-2024-voting-thread-read-op-voting-ends-jan-31st.1061823/) Voting will remain open for 1 month, 15 days, 7 hours, 30 minutes, until Feb 1, 2025 at 12:00 AM. Cast your vote for your favorites!
+* [](https://www.resetera.com/account/dismiss-notice?notice_id=417 "Dismiss notice")The [2024 Game Soundtrack of the Year vote thread is live!](https://www.resetera.com/threads/resetera-game-soundtracks-of-the-year-2024-voting-thread-read-op-voting-ends-jan-31st.1061823/) Voting will remain open for 1 month, 15 days, 1 hour, 28 minutes, until Feb 1, 2025 at 12:00 AM. Cast your vote for your favorites!
     
 
 Cookie usage
