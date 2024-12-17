@@ -34,8 +34,8 @@ Close menu
     * [Featured Collections](https://gfuel.com/collections/featured)
         
         * [Best Sellers](https://gfuel.com/collections/best-sellers)
-        * [Video Games](https://gfuel.com/collections/video-game)
         * [Anime](https://gfuel.com/collections/anime)
+        * [Video Games](https://gfuel.com/collections/video-game)
         * [Officially Licensed](https://gfuel.com/collections/officially-licensed)
         * [Creator Collabs](https://gfuel.com/collections/collaborations)
         * [Subscribe & Save](https://gfuel.com/collections/subscribe-save)
@@ -180,9 +180,9 @@ View more
     
     [Best Sellers](https://gfuel.com/collections/best-sellers)
     
-    [Video Games](https://gfuel.com/collections/video-game)
-    
     [Anime](https://gfuel.com/collections/anime)
+    
+    [Video Games](https://gfuel.com/collections/video-game)
     
     [Officially Licensed](https://gfuel.com/collections/officially-licensed)
     
@@ -212,9 +212,9 @@ View more
 
 Pause slideshow Play slideshow
 
-[order by 12/17 to receive before the holidays!Shop New Arrivals](https://gfuel.com/collections/new-arrivals)
+[order by 12/17 to receive before the holidays!Shop Best Sellers](https://gfuel.com/collections/best-sellers)
 
-[30% off Day Ones collectionShop Core Flavors](https://gfuel.com/collections/core-flavors)
+[Get Early Access 💥Download the Official G FUEL APP](https://gfuel.com/pages/mobile-app)
 
 ![](https://cdn.shopify.com/s/files/1/0223/3113/files/check-cart.svg?v=1689600224) ITEM ADDED TO YOUR CART! [View Cart](https://gfuel.com/cart)
 
@@ -554,7 +554,7 @@ DOWNLOAD THE APP
 
 EASY NAVIGATION - EXCLUSIVE DROPS - COOL ASF
 
- [![](//gfuel.com/cdn/shop/t/176/assets/app-store-badge.svg?v=123926581890561309811678293408)](https://apps.apple.com/app/g-fuel/id1205219305 "Download on the App Store")[![](//gfuel.com/cdn/shop/t/176/assets/google-play-badge.png?v=132395384020293405351678293408)](https://play.google.com/store/apps/details?id=com.aeron.shopifycore.gfuel "Get it on Google Play")
+ [![](//gfuel.com/cdn/shop/t/640/assets/app-store-badge.svg?v=123926581890561309811734387951)](https://apps.apple.com/app/g-fuel/id1205219305 "Download on the App Store")[![](//gfuel.com/cdn/shop/t/640/assets/google-play-badge.png?v=132395384020293405351734387951)](https://play.google.com/store/apps/details?id=com.aeron.shopifycore.gfuel "Get it on Google Play")
 
 The statements contained in this website have not been evaluated by the Food and Drug Administration (FDA). No statements shall be construed as a claim or representation of a diagnosis, treatment, cure, or prevention of any disease. No product listed in this website is intended to diagnose, treat, cure, or prevent any disease. Products are not intended for those with a medical condition, pregnant or nursing.
 
@@ -570,17 +570,17 @@ The statements contained in this website have not been evaluated by the Food and
 
 "Close (esc)"
 
-5.0
+4.9
 
-Rated 5.0 out of 5 stars
+Rated 4.9 out of 5 stars
 
-5 Reviews
+13 Reviews
 
 4.9
 
 Rated 4.9 out of 5 stars
 
-12 Reviews
+13 Reviews
 
 4.7
 
@@ -610,7 +610,7 @@ Rated 4.7 out of 5 stars
 
 Rated 4.8 out of 5 stars
 
-45 Reviews
+46 Reviews
 
 4.5
 
