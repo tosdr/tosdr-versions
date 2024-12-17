@@ -76,7 +76,7 @@ Sort by RelevanceNewestOldest
         * [National Advisory Council](https://www.unicefusa.org/about-unicef-usa/leadership/national-advisory-council)
         * [Leadership Team](https://www.unicefusa.org/about-unicef-usa/leadership/leadership-team)
         * [Regional Boards](https://www.unicefusa.org/about-unicef-usa/leadership/regional-boards)
-        * [Next Gen](https://www.unicefusa.org/about-unicef-usa/leadership/next-gen)
+        * [NextGen](https://www.unicefusa.org/about-unicef-usa/leadership/next-gen)
         * [Youth Leadership](https://www.unicefusa.org/about-unicef-usa/leadership/youth-leadership)
     *  Partnerships 
         * [Partnerships](https://www.unicefusa.org/about-unicef-usa/partnerships)
