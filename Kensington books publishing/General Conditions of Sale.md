@@ -16,6 +16,7 @@
 
 [](https://cart.penguinrandomhouse.com/prhcart/prhcart.php "View Cart")
 
+* [![Kensington Books Publishing](https://dhjhkxawhe8q4.cloudfront.net/kensington-books-publishing-wp/wp-content/uploads/2024/12/17174648/Kensington-Small-Logo-Transparent.png)](https://www.kensingtonbooks.com/)
 * [Books](https://www.kensingtonbooks.com/search-results/)
     * [Column 1](#)
         * [Browse Genres](#)
@@ -40,8 +41,6 @@
 * [Librarians](https://www.kensingtonbooks.com/libraries/home)
     * [Column 1](#)
         * [Exclusives](https://www.kensingtonbooks.com/libraries/home/exclusives/)
-    * [Column 2](#)
-        * [Recommendations](https://www.kensingtonbooks.com/libraries/home/recommendationsnew/)
     * [Column 3](#)
         * [Book Club Extras](https://www.kensingtonbooks.com/libraries/home/bookclubextrasnew/)
     * [Column 4](#)
