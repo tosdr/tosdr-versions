@@ -6,6 +6,7 @@ Toggle Site Navigation Menu
 
 #### [About Us](https://www.fightforthefuture.org/about)
 
+* [Our Team](https://www.fightforthefuture.org/about/team)
 * [Timeline](https://www.fightforthefuture.org/about/timeline)
 * [Playbook](https://www.fightforthefuture.org/playbook)
 * [Jobs](https://www.fightforthefuture.org/about/jobs)
