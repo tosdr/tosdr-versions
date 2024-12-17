@@ -8,10 +8,10 @@
 
 *  
     
-* [COVID Conspiracy Theories](https://www.motherjones.com/politics/2024/12/bird-flu-pandemic-conspiracy-inauguration/)
-* [Biden](https://www.motherjones.com/criminal-justice/2024/12/biden-commutes-1500-sentences-largest-clemency/)
-* [Kash Patel](https://www.motherjones.com/politics/2024/12/kash-patel-benghazi-uganda-fbi-justice-department/)
-* [Trump](https://www.motherjones.com/politics/2024/12/trump-raskin-slapp-federal-law/)
+* [Mayor Eric Adams](https://www.motherjones.com/politics/2024/12/trump-eric-adams-pardon/)
+* [Steve Bannon](https://www.motherjones.com/politics/2024/12/steve-bannon-teases-a-third-trump-term/)
+* [For-Profit Insurance](https://www.motherjones.com/politics/2024/12/toll-health-insurance-industry-profits-claim-denials-delays-care-brian-thompson-unitedhealth-luigi-mangione-physicians-national-health-program/)
+* [Donald Trump](https://www.motherjones.com/politics/2024/12/donald-trump-wants-to-end-daylight-saving-that-may-not-be-a-bad-idea/)
 
 * [Newsletters](https://www.motherjones.com/newsletters/?mj_oac=dropdown_nav)
 * [Politics](https://www.motherjones.com/politics/)
@@ -27,10 +27,10 @@
 
 *  
     
-* [COVID Conspiracy Theories](https://www.motherjones.com/politics/2024/12/bird-flu-pandemic-conspiracy-inauguration/)
-* [Biden](https://www.motherjones.com/criminal-justice/2024/12/biden-commutes-1500-sentences-largest-clemency/)
-* [Kash Patel](https://www.motherjones.com/politics/2024/12/kash-patel-benghazi-uganda-fbi-justice-department/)
-* [Trump](https://www.motherjones.com/politics/2024/12/trump-raskin-slapp-federal-law/)
+* [Mayor Eric Adams](https://www.motherjones.com/politics/2024/12/trump-eric-adams-pardon/)
+* [Steve Bannon](https://www.motherjones.com/politics/2024/12/steve-bannon-teases-a-third-trump-term/)
+* [For-Profit Insurance](https://www.motherjones.com/politics/2024/12/toll-health-insurance-industry-profits-claim-denials-delays-care-brian-thompson-unitedhealth-luigi-mangione-physicians-national-health-program/)
+* [Donald Trump](https://www.motherjones.com/politics/2024/12/donald-trump-wants-to-end-daylight-saving-that-may-not-be-a-bad-idea/)
 
 [Subscribe to our magazine](https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGHOP&c=SEGHOC&d=SEGHOD&f=SEGHOF "Subscribe")
 
