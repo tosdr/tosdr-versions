@@ -1,4 +1,4 @@
-[🎁Holiday Sale for Teachers: 20% Off imagiCharms & EduPro🎁: Request a quote by Dec 20th to take advantage of this offer!](https://imagilabs.com/pages/quote)
+[✨Get 20% Off imagiCharms through Dec 23✨ - Last day for guaranteed delivery by Dec 25 has passed.](https://imagilabs.com/discount/codingjoy24?redirect=%2Fcollections%2Fshop-collection)
 
 [![imagi](//imagilabs.com/cdn/shop/files/1_-_MAIN_-_Imagi-logo-magenta-RGB_804c5ea4-e7c1-41d7-a6f7-7fa445c9fef9.png?v=1662552731&width=300)](https://imagilabs.com/ "imagi")
 
