@@ -670,7 +670,7 @@ Translate Language
     * [Password Reset](https://www.houstonisd.org/domain/34224)
     * [OnTrack](https://www.houstonisd.org/ontrack)
     * [Benefits](https://www.houstonisd.org/hisdbenefits)
-    * [Duty Schedules](https://www.houstonisd.org/dutyschedules)
+    * [HISD For Teachers](https://hisdforteachers.powerappsportals.com/)
     * [HISD Badges](https://www.houstonisd.org/site/default.aspx?PageType=3&DomainID=33076&ModuleInstanceID=179301&ViewID=047E6BE3-6D87-4130-8424-D8E4E9ED6C2A&RenderLoc=0&FlexDataID=138120&PageID=126161)
     * [Human Resources](https://www.houstonisd.org/hr)
     * [New Hires](https://www.houstonisd.org/Page/111602)
