@@ -12,9 +12,9 @@ Menu
     
     TOP STORIES
     
-    * [A bomb killed a Russian general in Moscow. A Ukrainian official says secret service was behind it](https://apnews.com/article/russia-explosion-head-of-nuclear-defense-forces-killed-9656bce946a9f552454df9debe5fbd18)
-    * [Authorities impose overnight curfew in cyclone-ravaged Mayotte as France rushes in aid](https://apnews.com/article/mayotte-france-cyclone-chido-50f0478e0dc3d402245941330b2fbd65)
-    * [Magnitude 7.3 earthquake causes widespread damage in Pacific island nation of Vanuatu](https://apnews.com/article/vanuatu-pacific-earthquake-ocean-3e4cc1e02bc0ec62d5931b00286688ed)
+    * [A top Russian general is killed in a Moscow bombing claimed by Ukraine](https://apnews.com/article/russia-explosion-head-of-nuclear-defense-forces-killed-9656bce946a9f552454df9debe5fbd18)
+    * [The killing of a Russian general is one of several that Moscow blames on Ukraine](https://apnews.com/article/russia-ukraine-killings-bomb-shooting-f456551684132c9ccee1420df8b9b282)
+    * [Middle East latest: Israel plans an extended occupation of Syrian buffer zone](https://apnews.com/article/israel-hamas-war-syria-news-17-december-2024-3df6c0a90a0d58efc30e4b5f7143c96f)
     
     Newsletters
     
@@ -30,9 +30,9 @@ Menu
     
     TOP STORIES
     
-    * [A 15-year-old girl fatally shoots a teacher and a teenager at a Christian school in Wisconsin](https://apnews.com/article/shooting-christian-school-madison-wisconsin-a8e1ee353d7fdab2b86dfb355938d871)
-    * [Things to know about the shooting at a Christian school in Wisconsin](https://apnews.com/article/school-shooting-wisconsin-things-to-know-3df4f40327e70aa863c4b5b36fd0a04b)
-    * [Judge rejects Trump’s bid to toss hush money conviction because of Supreme Court immunity ruling](https://apnews.com/article/trump-hush-money-conviction-stormy-daniels-908465ed0b7f2005c72226b5b2546260)
+    * [Motive is next key task for police investigating Wisconsin fatal school shooting](https://apnews.com/article/shooting-christian-school-madison-wisconsin-a8e1ee353d7fdab2b86dfb355938d871)
+    * [What to know about the shooting at a Christian school in Wisconsin](https://apnews.com/article/school-shooting-wisconsin-things-to-know-3df4f40327e70aa863c4b5b36fd0a04b)
+    * [Tech consultant found guilty of second-degree murder in stabbing death of Cash App founder Bob Lee](https://apnews.com/article/bob-lee-cash-app-nima-momeni-trial-7ecfa7709902d67f2248489af3c45715)
     
     Newsletters
     
@@ -52,9 +52,9 @@ Menu
     
     TOP STORIES
     
-    * [Americans end 2024 with grim economic outlook, but Republicans are optimistic for 2025: AP-NORC poll](https://apnews.com/article/economy-trump-biden-election-poll-39af2a837fc35173e13dd0e5d5e5d471)
-    * [Kamala Harris will deliver a post-election message to Maryland students](https://apnews.com/article/kamala-harris-donald-trump-6de09bd9d78d11a2cc4c4591c0f404e2)
-    * [Americans' trust in nation's court system hits record low, survey finds](https://apnews.com/article/donald-trump-joe-biden-courts-americans-trust-1d4d2e22e9699cc09b29ec6ac8f374e7)
+    * [Congress nears funding deal with more than $100 billion in disaster aid](https://apnews.com/article/congress-budget-government-shutdown-farmers-disaster-relief-4c6ae1e0033637bb6398b00c4799ba0d)
+    * [Lawsuit accuses State Department of creating loopholes for Israel on military aid and human rights](https://apnews.com/article/israel-military-aid-gaza-us-biden-leahy-law-3fe632e1ef524656b7a201bc4c1651a2)
+    * [Archivist says Equal Rights Amendment can't be certified as Democrats push Biden to recognize it](https://apnews.com/article/biden-equal-rights-amendment-women-sex-discrimination-a6ee48bd6e8199839f5a44adb483d59d)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
-    * [Vikings win 7th straight to forge tie for NFC North lead with 30-12 blowout of reeling Bears](https://apnews.com/article/bears-vikings-score-23d9db282d999097e2a72901be2d05ca)
-    * [Jefferson turns TD celebration into Moss tribute during Vikings win: 'We love you Randy'](https://apnews.com/article/bears-vikings-jefferson-moss-f51db45cf8d8137cc8977223ffe15e05)
-    * [FIFA set to announce its top players in men's and women's soccer in 'The Best' awards](https://apnews.com/article/fifa-best-awards-vinicius-bonmati-messi-ba46afdf3aec3b525b82fa26ef4fc915)
+    * [From Caitlin Clark and Simone Biles to a new hockey league, women's sports had a pivotal year](https://apnews.com/article/womens-sports-wnba-caitlin-clark-16c0b9500b45cf66ab4445b13d93e363)
+    * [The Unify League is soccer's latest incarnation of a breakaway European Super League](https://apnews.com/article/european-super-league-a22-uefa-champions-league-c6c4b6620f61dab77b224a8428d2a77e)
+    * [Conor McGregor says he's in negotiations with Logan Paul for boxing exhibition in India](https://apnews.com/article/mcgregor-paul-topuria-boxing-mma-fda75211c871dd0e307c665f1a531c38)
     
     Newsletters
     
@@ -94,9 +94,9 @@ Menu
     
     TOP STORIES
     
-    * [How the Roxies are made: Behind the iconic role in Broadway's megahit 'Chicago'](https://apnews.com/article/roxies-chicago-making-of-6c615aa4b64ea1bf98ba165636137f1b)
-    * ['Dirty Dancing,' 'Beverly Hills Cop,' 'Up in Smoke' among movies entering the National Film Registry](https://apnews.com/article/dirty-dancing-national-film-registry-social-network-f761e063d521a67e15ff2c17569deabf)
+    * [How the Roxies are made: Behind the iconic role in Broadway's megahit 'Chicago'](https://apnews.com/behind-the-iconic-role-roxie-broadway-chicago)
     * [Barry Jenkins on why he made 'Mufasa' and how it changed him as a filmmaker](https://apnews.com/article/mufasa-barry-jenkins-lion-king-interview-9c70f2933f428d78e12a3ad7eca077f5)
+    * [Pharrell Williams is being named a UNESCO goodwill ambassador](https://apnews.com/article/pharrell-williams-unesco-goodwill-ambassador-1f6d37964aa8aea7dd9425f62d44101e)
     
 * [Business](https://apnews.com/business)
     
@@ -106,9 +106,9 @@ Menu
     
     TOP STORIES
     
+    * [Retail sales rose at healthy pace last month in latest sign of US economy's health](https://apnews.com/article/retail-sales-economy-spending-483d7ee469187253262c5b47442a1988)
     * [Americans end 2024 with grim economic outlook, but Republicans are optimistic for 2025: AP-NORC poll](https://apnews.com/article/economy-trump-biden-election-poll-39af2a837fc35173e13dd0e5d5e5d471)
-    * [Federal Reserve is likely to slow its rate cuts with inflation pressures still elevated](https://apnews.com/article/federal-reserve-inflation-rates-trump-economy-prices-4abfd4fad49db65cad4a2b5607d9e952)
-    * [Why is tech giant SoftBank investing over $100 billion in the US?](https://apnews.com/article/japan-softbank-masayoshi-trump-ai-d45efad6e48f80579456fe48dba95562)
+    * [Biden calls for ban on congressional stock trading](https://apnews.com/article/joe-biden-congress-stock-trading-ban-dd9a17d7ea96a8f3a4705ebe1504c72d)
     
 * [Science](https://apnews.com/science)
     
@@ -118,9 +118,9 @@ Menu
     
     TOP STORIES
     
+    * [Two stars may be orbiting each other near a supermassive black hole in our Milky Way galaxy](https://apnews.com/article/milky-way-black-hole-binary-star-system-f6b6bdc24742f7bb1fe4dd50ba219aab)
     * [How old are Saturn's rings? Study suggests they could be 4.5 billion years old just like the planet](https://apnews.com/article/rings-of-saturn-age-f4f88140895f146d61f427d1378cd981)
     * [Ancient genes pinpoint when humans and Neanderthals mixed and mingled](https://apnews.com/article/neanderthal-dna-gene-human-origins-africa-1c584991f8028979993315c6793048eb)
-    * [How to catch the Geminids, one of the strongest meteor showers of the year](https://apnews.com/article/how-to-watch-geminid-meteor-shower-0404b8c198028749bc6c95313e3f8ecf)
     
 * [Fact Check](https://apnews.com/ap-fact-check)
     
@@ -136,9 +136,9 @@ Menu
     
     TOP STORIES
     
+    * [Are you catching holiday blues instead of cheer? Here are some ways to find peace](https://apnews.com/article/holiday-christmas-mental-health-depression-anxiety-c65eef56bfa54bff48a8d00d5b782280)
     * [Stay sober and have a jolly holiday season with these expert tips](https://apnews.com/article/staying-sober-holiday-tips-c1a18cbf0090b5049224c3f5d578590b)
     * [Working Well: When holidays present rude customers, taking breaks and the high road preserve peace](https://apnews.com/article/working-holiday-stress-customer-service-a91c5a58cc32f214b8937a40677afb52)
-    * [More beans and less red meat: Nutrition experts weigh in on US dietary guidelines](https://apnews.com/article/usda-hhs-dietary-guidelines-d6a9c6f0554f279497acb5714b3032b9)
     
 * [Newsletters](https://apnews.com/newsletters)
     
@@ -190,7 +190,7 @@ Menu
     
     TOP STORIES
     
-    * [From water destruction to deadly heat, Associated Press photographers capture climate change in 2024](https://apnews.com/article/photo-gallery-climate-2024-flooding-heat-928163df24a7a73d619bb138d80ac560)
+    * [From destruction to deadly heat, Associated Press photographers capture climate change in 2024](https://apnews.com/article/photo-gallery-climate-2024-flooding-heat-928163df24a7a73d619bb138d80ac560)
     * [Can U.N. summits save the planet? A faltering year of talks brings up questions about the process](https://apnews.com/article/united-nations-climate-biodiversity-plastics-drought-summits-failure-64b40bc06287a92d33bcdbfea4f3bf5f)
     * [26 people arrested in crackdown on illegal deforestation along Paraguay, Brazil and Argentina border](https://apnews.com/article/paraguay-brazil-argentina-border-deforestation-interpol-tree-trafficking-92599975a233802e62732a6a4de84a66)
     
@@ -198,9 +198,9 @@ Menu
     
     TOP STORIES
     
-    * [What's behind rising autism rates: A broader definition of autism and better screening](https://apnews.com/article/autism-rates-vaccines-trump-rfk-polio-4d1ef5bd69dc20533e95e8e34e0b1e86)
-    * [Are you catching holiday blues instead of cheer? Here are some ways to find peace](https://apnews.com/article/holiday-christmas-mental-health-depression-anxiety-c65eef56bfa54bff48a8d00d5b782280)
-    * [Some breast cancer patients can avoid certain surgeries, studies suggest](https://apnews.com/article/breast-cancer-treatment-surgery-dcis-lymph-nodes-983e2835a4ecd1f90f53105a5bab4bb9)
+    * [Most US teens are abstaining from drinking, smoking and marijuana, survey says](https://apnews.com/article/teen-drug-use-b5e877b4c7eecb5354c3b8214e7d8692)
+    * [Who wants a pig organ? Patients sick and tired of waiting years for a transplant](https://apnews.com/article/pig-organ-transplant-kidney-xenotransplant-revivicor-egenesis-92c378d867f6e1ed8e1587c050daf0f8)
+    * [A transplanted pig kidney has freed her from eight years of dialysis](https://apnews.com/article/pig-kidney-transplant-xenotransplant-revivicor-844b33450a9c228d1138827c1de8549d)
     * [America is trying to fix its maternal mortality crisis with federal, state and local programs](https://apnews.com/article/maternal-mortality-healthy-start-oklahoma-california-new-york-city-0aa1fa2a141ef82607026b384cc14af7)
     * [Europe offers clues for solving America's maternal mortality crisis](https://apnews.com/article/maternal-mortality-rate-us-global-deaths-norway-211218f769e9a5a6e856a485fb31aef3)
     * [Rural communities of color across the US find new ways to get the health care they need](https://apnews.com/article/rural-health-disparities-hospitals-closing-medicaid-961564a03a264812ce60006e416bd3ca)
@@ -213,9 +213,9 @@ Menu
     
     TOP STORIES
     
-    * [TikTok being investigated after suspected meddling in Romania's presidential election](https://apnews.com/article/tiktok-romania-european-union-election-0638e90cb3898fc61619e8aed4731a53)
+    * [EU investigates TikTok over Romanian presidential election safeguards](https://apnews.com/article/tiktok-romania-european-union-election-0638e90cb3898fc61619e8aed4731a53)
     * [Why is tech giant SoftBank investing over $100 billion in the US?](https://apnews.com/article/japan-softbank-masayoshi-trump-ai-d45efad6e48f80579456fe48dba95562)
-    * [Insider Q&A: High hopes for Australia social media ban and channeling parental 'fury' over tech](https://apnews.com/article/mama-social-media-addiction-kids-teens-julie-scelfo-f66bcbe64b1be143f3e93b93a4e83e94)
+    * [Tech consultant found guilty of second-degree murder in stabbing death of Cash App founder Bob Lee](https://apnews.com/article/bob-lee-cash-app-nima-momeni-trial-7ecfa7709902d67f2248489af3c45715)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -225,17 +225,17 @@ Menu
     
     TOP STORIES
     
-    * [How the Roxies are made: Behind the iconic role in Broadway's megahit 'Chicago'](https://apnews.com/article/roxies-chicago-making-of-6c615aa4b64ea1bf98ba165636137f1b)
-    * ['Dirty Dancing,' 'Beverly Hills Cop,' 'Up in Smoke' among movies entering the National Film Registry](https://apnews.com/article/dirty-dancing-national-film-registry-social-network-f761e063d521a67e15ff2c17569deabf)
-    * [Younger Asian Americans navigate something new to their generation: Taking up space](https://apnews.com/article/asian-americans-space-generations-3e042c230d94f01b5ce67f44eb917555)
+    * [Concert promoters, hotels and lodging sites soon will have to disclose extra fees up front](https://apnews.com/article/ftc-junk-fees-rule-hotels-tickets-085606d99f137040e9a86e5b1ac04068)
+    * [Most US teens are abstaining from drinking, smoking and marijuana, survey says](https://apnews.com/article/teen-drug-use-b5e877b4c7eecb5354c3b8214e7d8692)
+    * [A step-by-step guide to renovating a neglected garden](https://apnews.com/article/renovating-a-neglected-garden-046bb40be7e1cdb7dbf5ac478509d9b5)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
+    * [Pakistani air ambulance delivers medicines to violence-hit district as roads remain closed](https://apnews.com/article/pakistan-air-ambulance-kurram-clashes-c842da6c8a8bdaa3999868694242595c)
+    * [Pennsylvania's Bethlehem: The city founded by Moravians on Christmas eve keeps its traditions alive](https://apnews.com/article/christmas-traditions-moravians-bethlehem-pennsylvania-9f466ff886302a34703d8654712238a2)
     * [Pope in autobiography reveals an apparent bombing plot during his 2021 visit to Iraq](https://apnews.com/article/pope-iraq-birthday-bombing-plot-is-2bf8c5af703db1513eb3befd96689bc6)
-    * [A 15-year-old girl fatally shoots a teacher and a teenager at a Christian school in Wisconsin](https://apnews.com/article/shooting-christian-school-madison-wisconsin-a8e1ee353d7fdab2b86dfb355938d871)
-    * [Teacher and a teenage student killed in a shooting at a Christian school in Wisconsin](https://apnews.com/article/wisconsin-school-shooting-498c8ad26d299602553201ad639a4a5c)
     
     Newsletters
     
@@ -249,11 +249,11 @@ Menu
     
     TOP STORIES
     
+    * [Netanyahu dice que Israel se quedará en zona de contención en Siria el tiempo que sea necesario](https://apnews.com/article/siria-assad-israel-netanyahu-guerra-golan-5a0baebeb54a87b46c92c33d44bdf201)
+    * [La UE otorga el premio Sájarov a líderes opositores venezolanos](https://apnews.com/article/europa-ue-venezuela-premio-sajarov-derechos-humanos-e6404ca0b424d9e1a523a84febaec4bf)
+    * [Arquitecto de NY está acusado de asesinar a 7 mujeres](https://apnews.com/article/ny-gilgo-asesinatos-rex-heuermann-e810b2722aee03dc6c0383ee86fedd15)
     * [Bomba mata a general ruso en Moscú y funcionario de Kiev dice que el servicio secreto estuvo detrás](https://apnews.com/article/rusia-explosion-jefe-fuerzas-de-defensa-nuclear-372d87b34c4ab1c85a624bde596ba158)
-    * [Trump amenaza deportaciones masivas y Centroamérica se prepara ante llegada de migrantes vulnerables](https://apnews.com/article/honduras-trump-deportaciones-masivas-america-central-inmigracion-27dbe55e62a2ee02c67c1fd289316356)
-    * [Un terremoto de magnitud 7,3 causa daños generalizados en Vanuatu, una nación insular del Pacífico](https://apnews.com/article/vanuatu-sismo-comunicaciones-derrumbes-danos-606814fb6bec4f4331e735fe1802b285)
-    * [El papa revela en su autobiografía un supuesto complot de atentado durante su visita a Irak en 2021](https://apnews.com/article/papa-irak-cumpleanos-trama-atentado-ei-9c117581938132c367f947570b95b316)
-    * [TikTok, bajo investigación por presunta interferencia en elecciones presidenciales de Rumania](https://apnews.com/article/tiktok-rumania-union-europea-elecciones-10cbc525c4353989345d6df2ba607586)
+    * [Acusan a gobierno de EEUU de permitir ayuda militar a Israel pese a ley sobre derechos humanos](https://apnews.com/article/israel-eeuu-ayuda-militar-gaza-ley-leahy-f9dc573ef3e8ecd7d82bf2dc46ec934e)
     
 * [Quizzes](https://apnews.com/quizzes)
     
@@ -414,9 +414,9 @@ Submit Search
     
     TOP STORIES
     
-    * [A bomb killed a Russian general in Moscow. A Ukrainian official says secret service was behind it](https://apnews.com/article/russia-explosion-head-of-nuclear-defense-forces-killed-9656bce946a9f552454df9debe5fbd18)
-    * [Authorities impose overnight curfew in cyclone-ravaged Mayotte as France rushes in aid](https://apnews.com/article/mayotte-france-cyclone-chido-50f0478e0dc3d402245941330b2fbd65)
-    * [Magnitude 7.3 earthquake causes widespread damage in Pacific island nation of Vanuatu](https://apnews.com/article/vanuatu-pacific-earthquake-ocean-3e4cc1e02bc0ec62d5931b00286688ed)
+    * [A top Russian general is killed in a Moscow bombing claimed by Ukraine](https://apnews.com/article/russia-explosion-head-of-nuclear-defense-forces-killed-9656bce946a9f552454df9debe5fbd18)
+    * [The killing of a Russian general is one of several that Moscow blames on Ukraine](https://apnews.com/article/russia-ukraine-killings-bomb-shooting-f456551684132c9ccee1420df8b9b282)
+    * [Middle East latest: Israel plans an extended occupation of Syrian buffer zone](https://apnews.com/article/israel-hamas-war-syria-news-17-december-2024-3df6c0a90a0d58efc30e4b5f7143c96f)
     
     Newsletters
     
@@ -432,9 +432,9 @@ Submit Search
     
     TOP STORIES
     
-    * [A 15-year-old girl fatally shoots a teacher and a teenager at a Christian school in Wisconsin](https://apnews.com/article/shooting-christian-school-madison-wisconsin-a8e1ee353d7fdab2b86dfb355938d871)
-    * [Things to know about the shooting at a Christian school in Wisconsin](https://apnews.com/article/school-shooting-wisconsin-things-to-know-3df4f40327e70aa863c4b5b36fd0a04b)
-    * [Judge rejects Trump’s bid to toss hush money conviction because of Supreme Court immunity ruling](https://apnews.com/article/trump-hush-money-conviction-stormy-daniels-908465ed0b7f2005c72226b5b2546260)
+    * [Motive is next key task for police investigating Wisconsin fatal school shooting](https://apnews.com/article/shooting-christian-school-madison-wisconsin-a8e1ee353d7fdab2b86dfb355938d871)
+    * [What to know about the shooting at a Christian school in Wisconsin](https://apnews.com/article/school-shooting-wisconsin-things-to-know-3df4f40327e70aa863c4b5b36fd0a04b)
+    * [Tech consultant found guilty of second-degree murder in stabbing death of Cash App founder Bob Lee](https://apnews.com/article/bob-lee-cash-app-nima-momeni-trial-7ecfa7709902d67f2248489af3c45715)
     
     Newsletters
     
@@ -462,9 +462,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Americans end 2024 with grim economic outlook, but Republicans are optimistic for 2025: AP-NORC poll](https://apnews.com/article/economy-trump-biden-election-poll-39af2a837fc35173e13dd0e5d5e5d471)
-    * [Kamala Harris will deliver a post-election message to Maryland students](https://apnews.com/article/kamala-harris-donald-trump-6de09bd9d78d11a2cc4c4591c0f404e2)
-    * [Americans' trust in nation's court system hits record low, survey finds](https://apnews.com/article/donald-trump-joe-biden-courts-americans-trust-1d4d2e22e9699cc09b29ec6ac8f374e7)
+    * [Congress nears funding deal with more than $100 billion in disaster aid](https://apnews.com/article/congress-budget-government-shutdown-farmers-disaster-relief-4c6ae1e0033637bb6398b00c4799ba0d)
+    * [Lawsuit accuses State Department of creating loopholes for Israel on military aid and human rights](https://apnews.com/article/israel-military-aid-gaza-us-biden-leahy-law-3fe632e1ef524656b7a201bc4c1651a2)
+    * [Archivist says Equal Rights Amendment can't be certified as Democrats push Biden to recognize it](https://apnews.com/article/biden-equal-rights-amendment-women-sex-discrimination-a6ee48bd6e8199839f5a44adb483d59d)
     
     Newsletters
     
@@ -492,9 +492,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Vikings win 7th straight to forge tie for NFC North lead with 30-12 blowout of reeling Bears](https://apnews.com/article/bears-vikings-score-23d9db282d999097e2a72901be2d05ca)
-    * [Jefferson turns TD celebration into Moss tribute during Vikings win: 'We love you Randy'](https://apnews.com/article/bears-vikings-jefferson-moss-f51db45cf8d8137cc8977223ffe15e05)
-    * [FIFA set to announce its top players in men's and women's soccer in 'The Best' awards](https://apnews.com/article/fifa-best-awards-vinicius-bonmati-messi-ba46afdf3aec3b525b82fa26ef4fc915)
+    * [From Caitlin Clark and Simone Biles to a new hockey league, women's sports had a pivotal year](https://apnews.com/article/womens-sports-wnba-caitlin-clark-16c0b9500b45cf66ab4445b13d93e363)
+    * [The Unify League is soccer's latest incarnation of a breakaway European Super League](https://apnews.com/article/european-super-league-a22-uefa-champions-league-c6c4b6620f61dab77b224a8428d2a77e)
+    * [Conor McGregor says he's in negotiations with Logan Paul for boxing exhibition in India](https://apnews.com/article/mcgregor-paul-topuria-boxing-mma-fda75211c871dd0e307c665f1a531c38)
     
     Newsletters
     
@@ -521,9 +521,9 @@ Submit Search
     
     TOP STORIES
     
-    * [How the Roxies are made: Behind the iconic role in Broadway's megahit 'Chicago'](https://apnews.com/article/roxies-chicago-making-of-6c615aa4b64ea1bf98ba165636137f1b)
-    * ['Dirty Dancing,' 'Beverly Hills Cop,' 'Up in Smoke' among movies entering the National Film Registry](https://apnews.com/article/dirty-dancing-national-film-registry-social-network-f761e063d521a67e15ff2c17569deabf)
+    * [How the Roxies are made: Behind the iconic role in Broadway's megahit 'Chicago'](https://apnews.com/behind-the-iconic-role-roxie-broadway-chicago)
     * [Barry Jenkins on why he made 'Mufasa' and how it changed him as a filmmaker](https://apnews.com/article/mufasa-barry-jenkins-lion-king-interview-9c70f2933f428d78e12a3ad7eca077f5)
+    * [Pharrell Williams is being named a UNESCO goodwill ambassador](https://apnews.com/article/pharrell-williams-unesco-goodwill-ambassador-1f6d37964aa8aea7dd9425f62d44101e)
     
 * [Business](https://apnews.com/business)
     
@@ -538,9 +538,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Retail sales rose at healthy pace last month in latest sign of US economy's health](https://apnews.com/article/retail-sales-economy-spending-483d7ee469187253262c5b47442a1988)
     * [Americans end 2024 with grim economic outlook, but Republicans are optimistic for 2025: AP-NORC poll](https://apnews.com/article/economy-trump-biden-election-poll-39af2a837fc35173e13dd0e5d5e5d471)
-    * [Federal Reserve is likely to slow its rate cuts with inflation pressures still elevated](https://apnews.com/article/federal-reserve-inflation-rates-trump-economy-prices-4abfd4fad49db65cad4a2b5607d9e952)
-    * [Why is tech giant SoftBank investing over $100 billion in the US?](https://apnews.com/article/japan-softbank-masayoshi-trump-ai-d45efad6e48f80579456fe48dba95562)
+    * [Biden calls for ban on congressional stock trading](https://apnews.com/article/joe-biden-congress-stock-trading-ban-dd9a17d7ea96a8f3a4705ebe1504c72d)
     
 * [Science](https://apnews.com/science)
     
@@ -556,9 +556,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Two stars may be orbiting each other near a supermassive black hole in our Milky Way galaxy](https://apnews.com/article/milky-way-black-hole-binary-star-system-f6b6bdc24742f7bb1fe4dd50ba219aab)
     * [How old are Saturn's rings? Study suggests they could be 4.5 billion years old just like the planet](https://apnews.com/article/rings-of-saturn-age-f4f88140895f146d61f427d1378cd981)
     * [Ancient genes pinpoint when humans and Neanderthals mixed and mingled](https://apnews.com/article/neanderthal-dna-gene-human-origins-africa-1c584991f8028979993315c6793048eb)
-    * [How to catch the Geminids, one of the strongest meteor showers of the year](https://apnews.com/article/how-to-watch-geminid-meteor-shower-0404b8c198028749bc6c95313e3f8ecf)
     
 * [Fact Check](https://apnews.com/ap-fact-check)
     
@@ -574,9 +574,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Are you catching holiday blues instead of cheer? Here are some ways to find peace](https://apnews.com/article/holiday-christmas-mental-health-depression-anxiety-c65eef56bfa54bff48a8d00d5b782280)
     * [Stay sober and have a jolly holiday season with these expert tips](https://apnews.com/article/staying-sober-holiday-tips-c1a18cbf0090b5049224c3f5d578590b)
     * [Working Well: When holidays present rude customers, taking breaks and the high road preserve peace](https://apnews.com/article/working-holiday-stress-customer-service-a91c5a58cc32f214b8937a40677afb52)
-    * [More beans and less red meat: Nutrition experts weigh in on US dietary guidelines](https://apnews.com/article/usda-hhs-dietary-guidelines-d6a9c6f0554f279497acb5714b3032b9)
     
 * [Newsletters](https://apnews.com/newsletters)
     
@@ -638,7 +638,7 @@ Submit Search
     
     TOP STORIES
     
-    * [From water destruction to deadly heat, Associated Press photographers capture climate change in 2024](https://apnews.com/article/photo-gallery-climate-2024-flooding-heat-928163df24a7a73d619bb138d80ac560)
+    * [From destruction to deadly heat, Associated Press photographers capture climate change in 2024](https://apnews.com/article/photo-gallery-climate-2024-flooding-heat-928163df24a7a73d619bb138d80ac560)
     * [Can U.N. summits save the planet? A faltering year of talks brings up questions about the process](https://apnews.com/article/united-nations-climate-biodiversity-plastics-drought-summits-failure-64b40bc06287a92d33bcdbfea4f3bf5f)
     * [26 people arrested in crackdown on illegal deforestation along Paraguay, Brazil and Argentina border](https://apnews.com/article/paraguay-brazil-argentina-border-deforestation-interpol-tree-trafficking-92599975a233802e62732a6a4de84a66)
     
@@ -646,9 +646,9 @@ Submit Search
     
     TOP STORIES
     
-    * [What's behind rising autism rates: A broader definition of autism and better screening](https://apnews.com/article/autism-rates-vaccines-trump-rfk-polio-4d1ef5bd69dc20533e95e8e34e0b1e86)
-    * [Are you catching holiday blues instead of cheer? Here are some ways to find peace](https://apnews.com/article/holiday-christmas-mental-health-depression-anxiety-c65eef56bfa54bff48a8d00d5b782280)
-    * [Some breast cancer patients can avoid certain surgeries, studies suggest](https://apnews.com/article/breast-cancer-treatment-surgery-dcis-lymph-nodes-983e2835a4ecd1f90f53105a5bab4bb9)
+    * [Most US teens are abstaining from drinking, smoking and marijuana, survey says](https://apnews.com/article/teen-drug-use-b5e877b4c7eecb5354c3b8214e7d8692)
+    * [Who wants a pig organ? Patients sick and tired of waiting years for a transplant](https://apnews.com/article/pig-organ-transplant-kidney-xenotransplant-revivicor-egenesis-92c378d867f6e1ed8e1587c050daf0f8)
+    * [A transplanted pig kidney has freed her from eight years of dialysis](https://apnews.com/article/pig-kidney-transplant-xenotransplant-revivicor-844b33450a9c228d1138827c1de8549d)
     * [America is trying to fix its maternal mortality crisis with federal, state and local programs](https://apnews.com/article/maternal-mortality-healthy-start-oklahoma-california-new-york-city-0aa1fa2a141ef82607026b384cc14af7)
     * [Europe offers clues for solving America's maternal mortality crisis](https://apnews.com/article/maternal-mortality-rate-us-global-deaths-norway-211218f769e9a5a6e856a485fb31aef3)
     * [Rural communities of color across the US find new ways to get the health care they need](https://apnews.com/article/rural-health-disparities-hospitals-closing-medicaid-961564a03a264812ce60006e416bd3ca)
@@ -664,9 +664,9 @@ Submit Search
     
     TOP STORIES
     
-    * [TikTok being investigated after suspected meddling in Romania's presidential election](https://apnews.com/article/tiktok-romania-european-union-election-0638e90cb3898fc61619e8aed4731a53)
+    * [EU investigates TikTok over Romanian presidential election safeguards](https://apnews.com/article/tiktok-romania-european-union-election-0638e90cb3898fc61619e8aed4731a53)
     * [Why is tech giant SoftBank investing over $100 billion in the US?](https://apnews.com/article/japan-softbank-masayoshi-trump-ai-d45efad6e48f80579456fe48dba95562)
-    * [Insider Q&A: High hopes for Australia social media ban and channeling parental 'fury' over tech](https://apnews.com/article/mama-social-media-addiction-kids-teens-julie-scelfo-f66bcbe64b1be143f3e93b93a4e83e94)
+    * [Tech consultant found guilty of second-degree murder in stabbing death of Cash App founder Bob Lee](https://apnews.com/article/bob-lee-cash-app-nima-momeni-trial-7ecfa7709902d67f2248489af3c45715)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -684,17 +684,17 @@ Submit Search
     
     TOP STORIES
     
-    * [How the Roxies are made: Behind the iconic role in Broadway's megahit 'Chicago'](https://apnews.com/article/roxies-chicago-making-of-6c615aa4b64ea1bf98ba165636137f1b)
-    * ['Dirty Dancing,' 'Beverly Hills Cop,' 'Up in Smoke' among movies entering the National Film Registry](https://apnews.com/article/dirty-dancing-national-film-registry-social-network-f761e063d521a67e15ff2c17569deabf)
-    * [Younger Asian Americans navigate something new to their generation: Taking up space](https://apnews.com/article/asian-americans-space-generations-3e042c230d94f01b5ce67f44eb917555)
+    * [Concert promoters, hotels and lodging sites soon will have to disclose extra fees up front](https://apnews.com/article/ftc-junk-fees-rule-hotels-tickets-085606d99f137040e9a86e5b1ac04068)
+    * [Most US teens are abstaining from drinking, smoking and marijuana, survey says](https://apnews.com/article/teen-drug-use-b5e877b4c7eecb5354c3b8214e7d8692)
+    * [A step-by-step guide to renovating a neglected garden](https://apnews.com/article/renovating-a-neglected-garden-046bb40be7e1cdb7dbf5ac478509d9b5)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
+    * [Pakistani air ambulance delivers medicines to violence-hit district as roads remain closed](https://apnews.com/article/pakistan-air-ambulance-kurram-clashes-c842da6c8a8bdaa3999868694242595c)
+    * [Pennsylvania's Bethlehem: The city founded by Moravians on Christmas eve keeps its traditions alive](https://apnews.com/article/christmas-traditions-moravians-bethlehem-pennsylvania-9f466ff886302a34703d8654712238a2)
     * [Pope in autobiography reveals an apparent bombing plot during his 2021 visit to Iraq](https://apnews.com/article/pope-iraq-birthday-bombing-plot-is-2bf8c5af703db1513eb3befd96689bc6)
-    * [A 15-year-old girl fatally shoots a teacher and a teenager at a Christian school in Wisconsin](https://apnews.com/article/shooting-christian-school-madison-wisconsin-a8e1ee353d7fdab2b86dfb355938d871)
-    * [Teacher and a teenage student killed in a shooting at a Christian school in Wisconsin](https://apnews.com/article/wisconsin-school-shooting-498c8ad26d299602553201ad639a4a5c)
     
     Newsletters
     
@@ -708,11 +708,11 @@ Submit Search
     
     TOP STORIES
     
+    * [Netanyahu dice que Israel se quedará en zona de contención en Siria el tiempo que sea necesario](https://apnews.com/article/siria-assad-israel-netanyahu-guerra-golan-5a0baebeb54a87b46c92c33d44bdf201)
+    * [La UE otorga el premio Sájarov a líderes opositores venezolanos](https://apnews.com/article/europa-ue-venezuela-premio-sajarov-derechos-humanos-e6404ca0b424d9e1a523a84febaec4bf)
+    * [Arquitecto de NY está acusado de asesinar a 7 mujeres](https://apnews.com/article/ny-gilgo-asesinatos-rex-heuermann-e810b2722aee03dc6c0383ee86fedd15)
     * [Bomba mata a general ruso en Moscú y funcionario de Kiev dice que el servicio secreto estuvo detrás](https://apnews.com/article/rusia-explosion-jefe-fuerzas-de-defensa-nuclear-372d87b34c4ab1c85a624bde596ba158)
-    * [Trump amenaza deportaciones masivas y Centroamérica se prepara ante llegada de migrantes vulnerables](https://apnews.com/article/honduras-trump-deportaciones-masivas-america-central-inmigracion-27dbe55e62a2ee02c67c1fd289316356)
-    * [Un terremoto de magnitud 7,3 causa daños generalizados en Vanuatu, una nación insular del Pacífico](https://apnews.com/article/vanuatu-sismo-comunicaciones-derrumbes-danos-606814fb6bec4f4331e735fe1802b285)
-    * [El papa revela en su autobiografía un supuesto complot de atentado durante su visita a Irak en 2021](https://apnews.com/article/papa-irak-cumpleanos-trama-atentado-ei-9c117581938132c367f947570b95b316)
-    * [TikTok, bajo investigación por presunta interferencia en elecciones presidenciales de Rumania](https://apnews.com/article/tiktok-rumania-union-europea-elecciones-10cbc525c4353989345d6df2ba607586)
+    * [Acusan a gobierno de EEUU de permitir ayuda militar a Israel pese a ley sobre derechos humanos](https://apnews.com/article/israel-eeuu-ayuda-militar-gaza-ley-leahy-f9dc573ef3e8ecd7d82bf2dc46ec934e)
     
 * [Quizzes](https://apnews.com/quizzes)
     
