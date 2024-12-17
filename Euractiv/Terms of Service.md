@@ -613,25 +613,25 @@ Most recent
 
 [17-12-2024
 
+Portugal’s Teresa Anjinho elected EU ethics watchdog](https://www.euractiv.com/section/politics/news/portugals-teresa-anjinho-elected-eu-ethics-watchdog/)[17-12-2024
+
+EU plans to use frozen Russian asset profits to buy from Ukraine’s defence industry](https://www.euractiv.com/section/global-europe/news/eu-plans-to-use-frozen-russian-assets-to-buy-from-ukraines-defence-industry/)[17-12-2024
+
+Von der Leyen outlines plans for return hubs before EU leaders’ summit](https://www.euractiv.com/section/politics/news/von-der-leyen-outlines-plans-for-return-hubs-before-eu-leaders-summit/)[17-12-2024
+
+Russia continues to ship oil directly to the EU despite sanctions, investigation finds](https://www.euractiv.com/section/global-europe/news/russia-continues-to-ship-oil-directly-to-the-eu-despite-sanctions-investigation-finds/)[17-12-2024
+
+French PM Bayrou wants to do politics differently – if opposition lets him](https://www.euractiv.com/section/politics/news/french-pm-bayrou-wants-to-do-politics-differently-if-opposition-lets-him/)[17-12-2024
+
+Commission opens TikTok investigation over Romanian presidential elections disinformation](https://www.euractiv.com/section/tech/news/commission-opens-tiktok-investigation-over-romanian-presidential-elections-disinformation/) [17-12-2024
+
+Kyiv takes responsibility for killing of Russian general accused of chemical weapons crimes](https://www.euractiv.com/section/global-europe/news/kyiv-takes-responsibility-for-killing-of-russian-general-accused-of-chemical-weapons-crimes/)[17-12-2024
+
+Europe, Central Asia under pressure to modernise water security infrastructure, reports World Bank](https://www.euractiv.com/section/eet/news/europe-central-asia-under-pressure-to-modernise-water-security-infrastructure-reports-world-bank/)[17-12-2024
+
 Bomb kills chief of Russian nuclear protection forces in Moscow](https://www.euractiv.com/section/global-europe/news/bomb-kills-chief-of-russian-nuclear-protection-forces-in-moscow/)[17-12-2024
 
-Ukraine ready to work out new deal for gas transit to Europe](https://www.euractiv.com/section/eet/news/ukraine-ready-to-work-out-new-deal-for-gas-transit-to-europe/)[17-12-2024
-
-Slovakia accuses EU Parliament of ‘interference’ in Georgia’s elections](https://www.euractiv.com/section/politics/news/the-capitals-slovakia-accuses-eu-parliament-of-interference-in-georgias-elections/)[17-12-2024
-
-Bucharest mayor announces presidential candidacy](https://www.euractiv.com/section/politics/news/bucharest-mayor-announces-presidential-candidacy/)[17-12-2024
-
-EU moves towards suspending visa-free travel for Georgian diplomats](https://www.euractiv.com/section/global-europe/news/eu-moves-towards-suspending-visa-free-travel-for-georgian-diplomats/)[17-12-2024
-
-Borissov starts government talks with EPP partners, pro-Russian and populist parties](https://www.euractiv.com/section/politics/news/borissov-starts-government-talks-with-epp-partners-pro-russian-and-populist-parties/)[17-12-2024
-
-Czechia wants to delay ETS 2 until at least 2028](https://www.euractiv.com/section/politics/news/czechia-wants-to-delay-ets-2-until-at-least-2028/)[17-12-2024
-
-Portugal in trouble with Brussels over residents’ free museum entry](https://www.euractiv.com/section/politics/news/portugal-in-trouble-with-brussels-over-residents-free-museum-entry/)[17-12-2024
-
-Berlusconi group in rumoured takeover of Polish top broadcaster](https://www.euractiv.com/section/politics/news/berlusconi-group-in-rumoured-takeover-of-polish-top-broadcaster/)[17-12-2024
-
-Scholz vs Merz: Election manifestos reveal competing visions for Germany’s revamp](https://www.euractiv.com/section/economy-jobs/news/scholz-vs-merz-election-manifestos-reveal-competing-visions-for-germanys-revamp/)
+Ukraine ready to work out new deal for gas transit to Europe](https://www.euractiv.com/section/eet/news/ukraine-ready-to-work-out-new-deal-for-gas-transit-to-europe/)
 
 ###### Advertisement
 
