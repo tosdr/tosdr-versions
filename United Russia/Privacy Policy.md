@@ -289,53 +289,53 @@
 
 [Все новости](https://er.ru/activity/news)
 
-[![«Единая Россия» усилит реализацию государственной политики по сохранению и укреплению традиционных ценностей](https://cdn.er.ru/media/news/December2024/zhNsc9hkCu8qUMY1dplh-small.png)](https://er.ru/activity/news/edinaya-rossiya-usilit-realizaciyu-gosudarstvennoj-politiki-po-sohraneniyu-i-ukrepleniyu-tradicionnyh-cennostej)
+[![«Единая Россия» усилила защиту прав врачей](https://cdn.er.ru/media/news/December2024/EA21hmpK8yNk52PdoYpN-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-usilila-zashitu-prav-vrachej)
 
-[«Единая Россия» усилит реализацию государственной политики по сохранению и укреплению традиционных ценностей](https://er.ru/activity/news/edinaya-rossiya-usilit-realizaciyu-gosudarstvennoj-politiki-po-sohraneniyu-i-ukrepleniyu-tradicionnyh-cennostej)
+[«Единая Россия» усилила защиту прав врачей](https://er.ru/activity/news/edinaya-rossiya-usilila-zashitu-prav-vrachej)
 
-[#Мирвозможностей](https://er.ru/activity/news?tags%5B0%5D=1095786) [#РоманРоманов](https://er.ru/activity/news?tags%5B0%5D=1090697) [#XXIIСъездЕР](https://er.ru/activity/news?tags%5B0%5D=1095999) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Республика Мордовия](https://er.ru/activity/news?tags%5B0%5D=1090160) [#традиционные ценности](https://er.ru/activity/news?tags%5B0%5D=51661) [#духовныеценности](https://er.ru/activity/news?tags%5B0%5D=134254)
+[#Башанкаев](https://er.ru/activity/news?tags%5B0%5D=114445) [#медики](https://er.ru/activity/news?tags%5B0%5D=648) [#декриминализация](https://er.ru/activity/news?tags%5B0%5D=85386) [#медицина](https://er.ru/activity/news?tags%5B0%5D=273) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692)
 
-Сегодня 12:43
+Сегодня 19:01
 
-[![«Единая Россия» распространит на доноров меры поддержки, предусмотренные для волонтёров](https://cdn.er.ru/media/news/December2024/KDKIJlKouBhlgiuMdUmB-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-rasprostranit-na-donorov-mery-podderzhki-predusmotrennye-dlya-volontyorov)
+[![«Единая Россия» определила планы работы Экспертного совета постоянного комитета Форума сторонников борьбы с современными практиками неоколониализма «За свободу наций!»](https://cdn.er.ru/media/news/December2024/Jfg8aoCIO7Ok3daHOKwo-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-opredelila-plany-raboty-ekspertnogo-soveta-postoyannogo-komiteta-foruma-storonnikov-borby-s-sovremennymi-praktikami-neokolonializma-za-svobodu-nacij)
 
-[«Единая Россия» распространит на доноров меры поддержки, предусмотренные для волонтёров](https://er.ru/activity/news/edinaya-rossiya-rasprostranit-na-donorov-mery-podderzhki-predusmotrennye-dlya-volontyorov)
+[«Единая Россия» определила планы работы Экспертного совета постоянного комитета Форума сторонников борьбы с современными практиками неоколониализма «За свободу наций!»](https://er.ru/activity/news/edinaya-rossiya-opredelila-plany-raboty-ekspertnogo-soveta-postoyannogo-komiteta-foruma-storonnikov-borby-s-sovremennymi-praktikami-neokolonializma-za-svobodu-nacij)
 
-[#законопроекты](https://er.ru/activity/news?tags%5B0%5D=863) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#доноры крови](https://er.ru/activity/news?tags%5B0%5D=69279) [#молодежнаяполитика](https://er.ru/activity/news?tags%5B0%5D=109512)
+[#Климов](https://er.ru/activity/news?tags%5B0%5D=1872) [#международноесотрудничество](https://er.ru/activity/news?tags%5B0%5D=119742) [#неоколониализм](https://er.ru/activity/news?tags%5B0%5D=1094202) [#форум](https://er.ru/activity/news?tags%5B0%5D=19)
 
-Сегодня 12:03
+Сегодня 17:19
 
-[![«Единая Россия» усилит ответственность за продажу вейпов детям](https://cdn.er.ru/media/news/December2024/YJZnjAgLDlmkMgEQ9JbK-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-usilit-otvetstvennost-za-prodazhu-vejpov-detyam)
+[![Владимир Якушев: «Единая Россия» поддержит лучшие гражданские инициативы](https://cdn.er.ru/media/news/December2024/IeRMwh9MMVShxZN2G2Gt-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-edinaya-rossiya-podderzhit-luchshie-grazhdanskie-iniciativy)
 
-[«Единая Россия» усилит ответственность за продажу вейпов детям](https://er.ru/activity/news/edinaya-rossiya-usilit-otvetstvennost-za-prodazhu-vejpov-detyam)
+[Владимир Якушев: «Единая Россия» поддержит лучшие гражданские инициативы](https://er.ru/activity/news/vladimir-yakushev-edinaya-rossiya-podderzhit-luchshie-grazhdanskie-iniciativy)
 
-[#Башанкаев](https://er.ru/activity/news?tags%5B0%5D=114445) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#ФракцияЕР](https://er.ru/activity/news?tags%5B0%5D=1090016) [#вейпы](https://er.ru/activity/news?tags%5B0%5D=96999) [#дети](https://er.ru/activity/news?tags%5B0%5D=368) [#никотиносодержащаяпродукция](https://er.ru/activity/news?tags%5B0%5D=143416)
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#НКО](https://er.ru/activity/news?tags%5B0%5D=1394) [#гражданскиеинициативы](https://er.ru/activity/news?tags%5B0%5D=121730) [#конкурс](https://er.ru/activity/news?tags%5B0%5D=360) [#финансоваяподдержка](https://er.ru/activity/news?tags%5B0%5D=139419)
 
-Сегодня 11:40
+Сегодня 15:00
 
-[![Владимир Якушев: Российские ракетные войска обладают мощнейшим в мире вооружением, но их главная сила – твёрдые духом и верные долгу люди](https://cdn.er.ru/media/news/December2024/ihFZ9rQIkyE5JoctCrO6-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-rossijskie-raketnye-vojska-obladayut-moshnejshim-v-mire-vooruzheniem-no-ih-glavnaya-sila-tvyordye-duhom-i-vernye-dolgu-lyudi)
+[![Госдума приняла инициированный «Единой Россией» закон о молодёжной политике](https://cdn.er.ru/media/news/December2024/xvzmxAwVSeGVtYdbOrt8-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-iniciirovannyj-edinoj-rossiej-zakon-o-molodyozhnoj-politike)
 
-[Владимир Якушев: Российские ракетные войска обладают мощнейшим в мире вооружением, но их главная сила – твёрдые духом и верные долгу люди](https://er.ru/activity/news/vladimir-yakushev-rossijskie-raketnye-vojska-obladayut-moshnejshim-v-mire-vooruzheniem-no-ih-glavnaya-sila-tvyordye-duhom-i-vernye-dolgu-lyudi)
+[Госдума приняла инициированный «Единой Россией» закон о молодёжной политике](https://er.ru/activity/news/gosduma-prinyala-iniciirovannyj-edinoj-rossiej-zakon-o-molodyozhnoj-politike)
 
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#поздравление](https://er.ru/activity/news?tags%5B0%5D=172) [#ракетные войска](https://er.ru/activity/news?tags%5B0%5D=12521)
+[#Метелев](https://er.ru/activity/news?tags%5B0%5D=133170) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#молодежнаяполитика](https://er.ru/activity/news?tags%5B0%5D=109512) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692)
 
-Сегодня 10:28
+Сегодня 14:45
 
-[![«Единая Россия»: Приоритетом на ближайшие годы станет капремонт школ по всей стране](https://cdn.er.ru/media/news/December2024/Swvf9Dnl4jmKAYh20eUi-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-prioritetom-na-blizhajshie-gody-stanet-kapremont-shkol-po-vsej-strane)
+[![Госдума приняла закон «Единой России» о дополнительной поддержке донорства](https://cdn.er.ru/media/news/December2024/VrUBnV7oIVvkoP2DbJal-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-zakon-edinoj-rossii-o-dopolnitelnoj-podderzhke-donorstva)
 
-[«Единая Россия»: Приоритетом на ближайшие годы станет капремонт школ по всей стране](https://er.ru/activity/news/edinaya-rossiya-prioritetom-na-blizhajshie-gody-stanet-kapremont-shkol-po-vsej-strane)
+[Госдума приняла закон «Единой России» о дополнительной поддержке донорства](https://er.ru/activity/news/gosduma-prinyala-zakon-edinoj-rossii-o-dopolnitelnoj-podderzhke-donorstva)
 
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Кравцов](https://er.ru/activity/news?tags%5B0%5D=38915) [#Минпросвещения](https://er.ru/activity/news?tags%5B0%5D=120658) [#капремонт](https://er.ru/activity/news?tags%5B0%5D=5616) [#капремонтшкол](https://er.ru/activity/news?tags%5B0%5D=1095605) [#строительствошкол](https://er.ru/activity/news?tags%5B0%5D=108885) [#детскиесады](https://er.ru/activity/news?tags%5B0%5D=107844) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
+[#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#донорство](https://er.ru/activity/news?tags%5B0%5D=127509) [#сдачакрови](https://er.ru/activity/news?tags%5B0%5D=117217) [#благотворительнаядеятельность](https://er.ru/activity/news?tags%5B0%5D=149228) [#волонтерство](https://er.ru/activity/news?tags%5B0%5D=19443) [#добровольчество](https://er.ru/activity/news?tags%5B0%5D=19819)
 
-16.12.24
+Сегодня 14:30
 
-[![Будем воплощать: «Единая Россия» исполнит мечты детей - участников акции «Ёлка желаний»](https://cdn.er.ru/media/news/December2024/S7gFQF5aFf1WuG6MBL0Q-small.JPG)](https://er.ru/activity/news/budem-voploshat-edinaya-rossiya-ispolnit-mechty-detej-uchastnikov-akcii-yolka-zhelanij)
+[![Госдума приняла закон «Единой России» об обязательном строительстве социальных объектов при комплексном развитии территорий](https://cdn.er.ru/media/news/December2024/mXliF3vgDzyfbWY1izgy-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-zakon-edinoj-rossii-ob-obyazatelnom-stroitelstve-socialnyh-obektov-pri-kompleksnom-razvitii-territorij)
 
-[Будем воплощать: «Единая Россия» исполнит мечты детей - участников акции «Ёлка желаний»](https://er.ru/activity/news/budem-voploshat-edinaya-rossiya-ispolnit-mechty-detej-uchastnikov-akcii-yolka-zhelanij)
+[Госдума приняла закон «Единой России» об обязательном строительстве социальных объектов при комплексном развитии территорий](https://er.ru/activity/news/gosduma-prinyala-zakon-edinoj-rossii-ob-obyazatelnom-stroitelstve-socialnyh-obektov-pri-kompleksnom-razvitii-territorij)
 
-[#ДАМедведев](https://er.ru/activity/news?tags%5B0%5D=1095750) [#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Грызлов](https://er.ru/activity/news?tags%5B0%5D=68) [#акция](https://er.ru/activity/news?tags%5B0%5D=122836) [#елкажеланий](https://er.ru/activity/news?tags%5B0%5D=142041) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#новыйгод](https://er.ru/activity/news?tags%5B0%5D=99117)
+[#Пахомов](https://er.ru/activity/news?tags%5B0%5D=4075) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=126717) [#соцобъекты](https://er.ru/activity/news?tags%5B0%5D=6180) [#жилье](https://er.ru/activity/news?tags%5B0%5D=113) [#инфраструктура](https://er.ru/activity/news?tags%5B0%5D=1129)
 
-16.12.24
+Сегодня 14:15
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
