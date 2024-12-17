@@ -475,22 +475,22 @@ This privacy policy was last modified on April 24, 2024.
 
 ### Featured Articles
 
+[![Impress a Girl with Words](https://www.wikihow.com/images/thumb/1/19/Impress-a-Girl-with-Words-Step-14-Version-2.jpg/-crop-126-120-126px-Impress-a-Girl-with-Words-Step-14-Version-2.jpg)
+
+How to  
+Impress a Girl with Words](https://www.wikihow.com/Impress-a-Girl-with-Words)
+
+[![Flirty Knock Knock Jokes](https://www.wikihow.com/images/thumb/c/c7/Flirty-Knock-Knock-Jokes-Step-50.jpg/-crop-126-120-126px-Flirty-Knock-Knock-Jokes-Step-50.jpg)
+
+50 Cute & Flirty Knock-Knock Jokes to Make Them Smile](https://www.wikihow.com/Flirty-Knock-Knock-Jokes)
+
+[![Have a Sense of Humor](https://www.wikihow.com/images/thumb/2/2f/Have-a-Sense-of-Humor-Step-23.jpg/-crop-126-120-126px-Have-a-Sense-of-Humor-Step-23.jpg)
+
+Sense of Humor: Definition, Benefits, & How to Get One Yourself](https://www.wikihow.com/Have-a-Sense-of-Humor)
+
 [![Maturity Test](https://www.wikihow.com/images/thumb/e/e4/Maturity-quiz.png/-crop-126-120-126px-Maturity-quiz.png)
 
 Am I Mature Quiz](https://www.wikihow.com/Maturity-Test)
-
-[![Know if Your Friend Is Really a Friend](https://www.wikihow.com/images/thumb/8/88/Know-if-Your-Friend-Is-Really-a-Friend-Step-12.jpg/-crop-126-120-126px-Know-if-Your-Friend-Is-Really-a-Friend-Step-12.jpg)
-
-How to  
-Know if Your Friend Is Really a Friend](https://www.wikihow.com/Know-if-Your-Friend-Is-Really-a-Friend)
-
-[![Finding Dimes Meaning](https://www.wikihow.com/images/thumb/5/59/Finding-Dimes-Meaning-Step-12.jpg/-crop-126-120-126px-Finding-Dimes-Meaning-Step-12.jpg)
-
-What Does it Mean When You Find a Dime?](https://www.wikihow.com/Finding-Dimes-Meaning)
-
-[![Handle a Dog Attack](https://www.wikihow.com/images/thumb/5/5f/Handle-a-Dog-Attack-Step-15-Version-2.jpg/-crop-126-120-126px-Handle-a-Dog-Attack-Step-15-Version-2.jpg)
-
-What to Do When a Dog Attacks](https://www.wikihow.com/Handle-a-Dog-Attack)
 
   
 
@@ -533,4 +533,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-210
+189
