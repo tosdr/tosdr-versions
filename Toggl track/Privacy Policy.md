@@ -33,7 +33,7 @@ Table of Contents
 
 [Introduction](#introduction)[Application](#application)[Identifying the data controller](#identifying-the-data-controller)[The information we collect and receive](#the-information-we-collect-and-receive)[Purposes and grounds for Information processing](#purposes-and-grounds-for-information-processing)[Failure to provide Information](#failure-to-provide-information)[Duration of Personal Data storage](#duration-of-personal-data-storage)[Disclosure of Personal Data](#disclosure-of-personal-data)[International transfers of Personal Data](#international-transfers-of-personal-data)[Personal Data Security](#personal-data-security)[Your rights as a Data subject](#your-rights-as-data-subject)[Your rights under Californian law](#your-rights-under-californian-law)[Right to lodge a complaint with a supervisory authority](#right-to-lodge-a-complaint-with-a-supervisory-authority)[Changes to this Policy](#changes-to-this-policy)[Contact details](#contact-details)
 
-#### Introduction
+### Introduction
 
 The purpose of this privacy policy (“**Policy**”) is to explain how, when and why Toggl collects information about individuals, how, for what purposes and on what grounds these ‘personal data’ are subsequently processed, who processes them and what rights the individuals have in connection with their personal data. The Policy also explains Toggl’s practices in using cookies and other technologies for storing information on others’ devices and retrieving information from such devices.
 
@@ -43,7 +43,7 @@ By “**you**” we mean the individual reading this text, i.e., you as a natura
 
 Some words and phrases in this Policy are in single quotation marks (e.g., ‘controller’, ‘processor’ and ‘data subject’). These are legal terms, having the same meanings as given to them in the EU General Data Protection Regulation, i.e., Regulation (EU) 2016/679 (“**GDPR**”).
 
-#### Application
+### Application
 
 1\. This Policy applies to the data processing that takes place through or in connection with the following: (a) your use of the time tracking software or any other software of Toggl OÜ or any of its subsidiaries (by “software” we mean computer programs in any form, including local installations such as desktop and mobile applications as well as software in the form of on-demand services such as web and cloud applications). We shall use the word “**Service**” in this Policy to designate the above software, and the same word will designate any service, resource or other benefit that Toggl OÜ or its subsidiary offers as a part of or in connection with such software; (b) your visiting, or accessing resources that form part of, any website of Toggl OÜ or its subsidiary (we shall use the word “**Website**” to designate any such site), including, for example, the site at toggl.com; or (c) your communication or interaction with Toggl; insofar as the above activities are not subject to another privacy policy or similar document.
 
@@ -53,7 +53,7 @@ Some words and phrases in this Policy are in single quotation marks (e.g., ‘co
 
 4\. The Policy supplements our other terms and policies and is not intended to override them.
 
-#### Identifying the data controller
+### Identifying the data controller
 
 5\. We are a technology company and a lot of what we do involves data processing in one way or another. Various data need to be processed in a number of ways in order for us to carry on our business, including provide, maintain and develop the Service and Websites, and to communicate with you. Information is processed both for us as well as our customers, and customers themselves process information through the Service. Not all of this information constitutes Personal Data and much of the processing is controlled by parties other than Toggl.
 
@@ -65,7 +65,7 @@ In case your relationship with Toggl is through Toggl Inc, all data processing o
 
 8\. Toggl is using internal Toggl Group sub-processors to provide service development, service delivery, and customer support services for all our products. There is an internal privacy policy in place that governs the data processing of Toggl Group sub-processors. To see the full list of sub-processors please visit [the Sub-processors page](https://toggl.com/legal/track/sub-processors/).
 
-#### The information we collect and receive
+### The information we collect and receive
 
 9\. Toggl collects, generates and receives information in a variety of ways. Some of this information constitutes Personal Data and the rest does not. We shall use the word “Information” to designate any and all of the data that are collected, generated or otherwise processed by us or on our behalf. This part of the Policy describes which Information and how is collected or generated through the activities listed in section 1.
 
@@ -128,7 +128,7 @@ When accessing Google user data, Toggl's use and transfer to any other app of in
 
 We receive from you such Information as you provide us when filling in forms (e.g., applications or questionnaires) on a Website or via the Service or when you participate in our Service-related campaigns or programmes, sign up to receive notifications, newsletters or other communications from us, request support for the Service, interact with our social media accounts or correspond or otherwise communicate with Toggl. If you email us or send us a letter or a message, we may retain a record of such communication, including your name and address, email address or telephone number (as applicable), the content of your communication and our response. We may complement these data with other Information.
 
-#### Purposes and grounds for Information processing
+### Purposes and grounds for Information processing
 
 16\. The purposes for which Information is processed and the legal grounds for such processing are varied and depend on the nature of the Information. If Information is anonymous or de-identified, we may collect, use, disclose and otherwise process it for any purpose. Our processing of Personal Data, however, is limited to the purposes set out in this Policy.
 
@@ -209,7 +209,7 @@ We receive from you such Information as you provide us when filling in forms (e.
 
 20\. You can unsubscribe from certain Service Messages by adjusting your User Account settings and from others by following the instructions provided in the message. There are, however, some Service Messages that form part of the Service and which you cannot opt out of receiving unless you unsubscribe from the Service. As for Marketing Messages, you can always opt out of receiving these, but the variety of procedures for doing so may depend on the nature of the message and whether you have a User Account. If you do, try adjusting your User Account settings, and whether you have an account or not, there should always be opt-out instructions in the message itself. If you have trouble unsubscribing, contact us and we shall opt you out. Our details, as noted, are at the end of this Policy.
 
-#### Failure to provide Information
+### Failure to provide Information
 
 21\. Generally, no one is obliged to give us her Personal Data but failure to do so may, or, depending on the circumstances, will or is likely to, result in our not being able to achieve the data processing purpose(s) specified for the occasion in question (as listed in the table under section 17) and the particular ‘data subject’ may, or, respectively, will or is likely to, miss the benefits corresponding to that purpose (or those purposes).
 
@@ -217,13 +217,13 @@ We receive from you such Information as you provide us when filling in forms (e.
 
 23\. If you limit the ability of a Service application or Website to set cookies, you may, and in some cases most definitely will, prevent yourself from using that application or site or certain of its features, or may worsen your user experience as the item in question will not be personalised to you. It may also stop you from saving customised settings and you may need to validate your access to the Service or the Website more frequently during your browsing session.
 
-#### Duration of Personal Data storage
+### Duration of Personal Data storage
 
 24\. We only store your Personal Data for as long as necessary in the light of, or compatible with, the purposes for which the data were collected (e.g., enjoying our rights and performing our obligations under the contract you have with us, if that was the sole purpose) and such additional period as may be required by law.
 
 25\. Legal retention periods vary depending on the type of Information concerned, and they can be quite long. For instance, Personal Data relevant to our accounting or taxation (which is likely to be the case upon some of the Personal Data under the Profile Information and Billing Information categories, and may also apply to some other Personal Data) must be retained for at least seven years after the primary purpose for their processing ceases to apply (e.g., seven years following the financial year when our business relationship with you terminated and the last transaction between us occurred).
 
-#### Disclosure of Personal Data
+### Disclosure of Personal Data
 
 26\. This part of the Policy describes the circumstances in which we may disclose or transmit your Personal Data to third parties. Please note that the sections below only address the disclosures and transmissions of Personal Data and not, for example, anonymous or de-identified Information (which we may transmit and disclose at any time to anyone anywhere, in any manner and for any purpose). Nor does this part deal with the transmission or disclosure of Organization Data, which is at the discretion and responsibility of the Organization Owner.
 
@@ -247,7 +247,7 @@ We receive from you such Information as you provide us when filling in forms (e.
 
 36\. We shall disclose your Personal Data at your request (unless legally prohibited, impracticable or involving unreasonable effort or expense) or may do so upon your Consent.
 
-#### International transfers of Personal Data
+### International transfers of Personal Data
 
 37\. We may transfer your Personal Data to jurisdictions other than the one you reside in, subject to section 37.
 
@@ -255,7 +255,7 @@ We receive from you such Information as you provide us when filling in forms (e.
 
 For instance, if we are to transfer your Personal Data from the EEA to an infrastructure provider (or another service provider necessary for the provision of the Service) in the United States (which is likely to occur in our use of some of the service providers mentioned under section 30), we shall make sure that our provider ensures an adequate level of protection for the Personal Data received. In case our provider is located in the US, we implement, where possible, sufficient level of Standard Contractual Clauses included in service agreements between us and the service providers. Those agreements stipulate that the service provider must ensure a level of protection of Personal Data that is equivalent to the GDPR. As there are undergoing renewal of Standard Contractual Clauses in EU due to the fact that US Foreign Intelligence Surveillance Act (FISA) applies to data transferred to the US, we update our agreements with service providers accordingly. This does not influence technological protection measures that are in place at any time. In case our providers have implemented standard terms of data processing, we do our best to choose service providers that promise to ensure an adequate level of personal data protection according to GDPR. In addition to this, the risk for us to be subject to FISA or other US law enforcement related acts is relatively low as the main purpose of those acts is related to communication data.
 
-#### Personal Data Security
+### Personal Data Security
 
 39\. We shall maintain adequate technical and organisational measures to ensure such level of security in our processing of Personal Data as appropriate in the given circumstances. Upon assessing whether a measure is adequate and which level of security is appropriate we consider the nature of the Personal Data we are processing and the nature of the processing operations we perform, the risks to which you are exposed by our processing of your Personal Data, the state of the art, the costs of implementation and such other matters as may be relevant in the particular circumstances. Certain of these measures have been described in the Security Policy.
 
@@ -263,7 +263,7 @@ For instance, if we are to transfer your Personal Data from the EEA to an infras
 
 41\. However, please be aware that no security measure is perfect. Our efforts notwithstanding, we cannot guarantee that your Personal Data, during transmission over the internet or while stored in our systems or those of our service providers or while otherwise in our care, will be absolutely safe from unauthorised or unlawful processing or accidental loss, alteration or destruction, or that they will indeed be intact and confidential at all times or shortly available after any Service incident. Note also that we cannot control, and are not responsible for, the actions of other parties with whom you share (or instruct us to share) your Personal Data.
 
-#### Your rights as a Data subject
+### Your rights as a Data subject
 
 42\. ‘Data subjects’ in the EEA have certain statutory rights under the GDPR concerning the Personal Data that we have on them. This part of the Policy aims to give you a general understanding of these rights and we encourage you to deepen this understanding by studying the GDPR yourself. To facilitate this, we have, in relation to each of the rights noted below, provided a reference to the specific provision of the GDPR from which that right arises.
 
@@ -303,7 +303,7 @@ If we are processing your Personal Data based on Consent, you may withdraw that 
 
 52\. We shall not charge you any fee for exercising the above rights unless your requests are clearly unfounded or excessive (e.g., because of their repetitive character), in which case we may charge a reasonable fee. Alternatively, we may decline your request in such circumstances.
 
-#### Your rights under Californian law
+### Your rights under Californian law
 
 The rights in sections 53-55 of this Policy are applicable to residents of California.
 
@@ -313,7 +313,7 @@ The rights in sections 53-55 of this Policy are applicable to residents of Calif
 
 55\. How “Do Not Track” requests are handled. Our Websites do not support “Do Not Track” requests. However, some third-party sites do keep track of your browsing activities when they serve you content, which enables them to tailor what they present to you. If you are visiting such sites, your browser allows you to set the DNT signal on your browser so that third parties (particularly advertisers) know you do not want to be tracked. If you want to opt-out of this online behavioural advertising, visit the following sites: [http://www.aboutads.info/consumers](http://www.aboutads.info/consumers).
 
-#### Right to lodge a complaint with a supervisory authority
+### Right to lodge a complaint with a supervisory authority
 
 56\. In case you believe that we are processing your Personal Data in violation of the GDPR, you have the right to lodge a complaint with the ‘supervisory authority’ located in the EEA country where you reside or work or where the alleged infringement took place or you can lodge the complaint with our ‘supervisory authority’ whose details are below.
 
@@ -323,11 +323,11 @@ Tel: [+372 6274 135](tel:3726274135)
 Email: info@aki.ee  
 Web: www.aki.ee/en  
 
-#### Changes to this Policy
+### Changes to this Policy
 
 57\. We may revise this Policy from time to time to reflect changes to the Service, Websites, applicable laws, regulations or standards or other changes that may occur in our business. We shall post the revised Policy (or, as the case may be, our new privacy policy) on the same webpage where we published this Policy or on such other webpage as we then may habitually use for publishing materials such as the Policy. We may also use the Service, email or other means for notifying Users of such policy changes. The revised Policy (or, as applicable, the new one) will be effective when posted as described unless the document itself specifies a later time for its entry into force.
 
-#### Contact details
+### Contact details
 
 58\. Feel free to get in touch with us if you have any questions about this Policy or our data processing practices or if you would like to exercise any of your ‘data subject’ rights with respect to the Personal Data we maintain on you.
 
