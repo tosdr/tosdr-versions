@@ -165,66 +165,6 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
-More Back to Genesis
-
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/andtheInvisibleHand.jpg)](https://www.icr.org/article/speculation-invention-and-the-invis-hand)
-
-[Speculation, Invention, and the Invisible Hand](https://www.icr.org/article/speculation-invention-and-the-invis-hand/)
-
-Evolution is broadly and almost unequivocally accepted as fact. Creationists who try to present the evidence contradicting it are often met with “How...
-
-BY: [MICHAEL STAMP](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=220)
-
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/MtHermonFlood.jpg)](https://www.icr.org/article/mtHermon-flood-formed)
-
-[Mount Hermon Was Flood-Formed](https://www.icr.org/article/mtHermon-flood-formed/)
-
-Mount Hermon is a topic that seems to pop up increasingly these days, especially among Christian prophecy and end-times teachers. Much of this interest...
-
-BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
-
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/pterosaurs_nofeathers.jpg)](https://www.icr.org/article/pterosaurs-didnt-have-feathers)
-
-[Pterosaurs Didn't Have Feathers](https://www.icr.org/article/pterosaurs-didnt-have-feathers/)
-
-Evolutionary scientists have recently claimed that pterosaurs had feathers.1 Pterosaurs were winged reptiles. Although they’re sometimes...
-
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
-
-Shop Related Products
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/66534950/file.jpg)
-
-Living in Light of Genesis - Audiobook](https://store.icr.org/living-in-light-of-genesis-audiobook.html)
-
-$16.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/16087568/file.jpg)
-
-Ancient and Fossil Bone Collagen Remnants](https://store.icr.org/ancient-and-fossil-bone-collagen-remnants.html)
-
-$29.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/61538914/file.jpg)
-
-Living in Light of Genesis - eBook](https://store.icr.org/living-in-light-of-genesis-ebook.html)
-
-$9.99
-
-$15.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10474325/file.jpg)
-
-Dinosaurs and the Bible](https://store.icr.org/mr-brian-thomas-dinosaurs-and-the-bible.html)
-
-$4.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/49457244/file.jpg)
-
-Adam or Apes](https://store.icr.org/adam-or-apes.html)
-
-$12.99
-
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
