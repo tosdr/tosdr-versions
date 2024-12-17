@@ -14,6 +14,12 @@ Close
 
 [![](//i.okcdn.ru/i?r=BDEtjN7Zne-BVzZrRFypJtPdJW2mrT4gsLCdMZf1bSdX3CJF9JVQZJhPpPOIcIDc5ec)![](//i.okcdn.ru/i?r=BDEtjN7Zne-BVzZrRFypJtPdJW2mrT4gsLCdMZf1bSdX3CJF9JVQZJhPpPOIcIDc5ec)](https://ok.ru/dk?st.cmd=anonymMain)
 
+[Угадай блюдо
+
+Загадали любимый зимний салат россиян: 🐟❄ 🧥. Пишите свои варианты в комментариях
+
+Написать](https://ok.me/J2KK1)
+
 English
 
 русскийEnglishБеларускаяქართულიукраїнськаТатар телеҚазақ тіліՀայերենO'zbek tiliRomână (MD)Azərbaycan diliRomână (RO)Türkçe
