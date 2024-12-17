@@ -196,57 +196,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Integrated Debit Order Solution
-> -------------------------------
+> Saving time, saving money
+> -------------------------
 > 
-> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
+> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
 
-Hugo van Sittert
+Cornel Erasmus - TELA Loss Adjusters & Assessors
 
-![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=4ec7ddacd3b16601388e15336e718e39b2ea2a9534dc1ffb97d5d2011b3a05cc&c=103486382)  
-Waterfinatics Swim School
-
-![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=4ec7ddacd3b16601388e15336e718e39b2ea2a9534dc1ffb97d5d2011b3a05cc&c=165947517)  
-VIR Electrical (PTY) LTD
-
-![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=4ec7ddacd3b16601388e15336e718e39b2ea2a9534dc1ffb97d5d2011b3a05cc&c=207461684)  
-TurboFibre
-
-![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=4ec7ddacd3b16601388e15336e718e39b2ea2a9534dc1ffb97d5d2011b3a05cc&c=50116713)  
-National Elite Security Services (PTY) LTD
-
-![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=4ec7ddacd3b16601388e15336e718e39b2ea2a9534dc1ffb97d5d2011b3a05cc&c=37542649)  
-RADIO TYGERBERG 104FM NPC
-
-![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=4ec7ddacd3b16601388e15336e718e39b2ea2a9534dc1ffb97d5d2011b3a05cc&c=120118868)  
-MR Compressors& Industrial Supplies
-
-![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=4ec7ddacd3b16601388e15336e718e39b2ea2a9534dc1ffb97d5d2011b3a05cc&c=103241015)  
-NGB HOLDINGS PTY LTD
-
-![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=4ec7ddacd3b16601388e15336e718e39b2ea2a9534dc1ffb97d5d2011b3a05cc&c=194895454)  
-VIV'S TRUCKS (Pty) Ltd. (651)
-
-![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=4ec7ddacd3b16601388e15336e718e39b2ea2a9534dc1ffb97d5d2011b3a05cc&c=41788038)  
-McKaynine Mobility
-
-![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=4ec7ddacd3b16601388e15336e718e39b2ea2a9534dc1ffb97d5d2011b3a05cc&c=165046917)  
-Vplay Letsheng Mall
-
-![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=4ec7ddacd3b16601388e15336e718e39b2ea2a9534dc1ffb97d5d2011b3a05cc&c=61794827)  
-Konsortium Operations ( Roamfree Meats )
-
-![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=4ec7ddacd3b16601388e15336e718e39b2ea2a9534dc1ffb97d5d2011b3a05cc&c=150330097)  
+![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=aa755b291b3b27abe7beb9eca8003be8311d5c48f06b224d151a10189e068c85&c=31724594)  
 Konsortium Operations (PTY) LTD
 
-![valued client Protech Marketing](https://www.invoicesonline.co.za/scripts/image.php?bid=8712&file=logo_300_100&type=&fe=4ec7ddacd3b16601388e15336e718e39b2ea2a9534dc1ffb97d5d2011b3a05cc&c=189429586)  
-Protech Marketing
+![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=aa755b291b3b27abe7beb9eca8003be8311d5c48f06b224d151a10189e068c85&c=61379804)  
+Tantra Sound and Lightz
 
-![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=4ec7ddacd3b16601388e15336e718e39b2ea2a9534dc1ffb97d5d2011b3a05cc&c=137870012)  
-webb it services
+![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=aa755b291b3b27abe7beb9eca8003be8311d5c48f06b224d151a10189e068c85&c=26997438)  
+Baby Toddles Infant Care
 
-![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=4ec7ddacd3b16601388e15336e718e39b2ea2a9534dc1ffb97d5d2011b3a05cc&c=97869349)  
-Network Grey (Pty) Ltd
+![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=aa755b291b3b27abe7beb9eca8003be8311d5c48f06b224d151a10189e068c85&c=191138470)  
+Electro-Heat
+
+![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=aa755b291b3b27abe7beb9eca8003be8311d5c48f06b224d151a10189e068c85&c=80536257)  
+Waterfinatics Swim School
+
+![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=aa755b291b3b27abe7beb9eca8003be8311d5c48f06b224d151a10189e068c85&c=108108692)  
+AMS Ambu Medical Supplies
+
+![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=aa755b291b3b27abe7beb9eca8003be8311d5c48f06b224d151a10189e068c85&c=168124719)  
+NGB HOLDINGS PTY LTD
+
+![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=aa755b291b3b27abe7beb9eca8003be8311d5c48f06b224d151a10189e068c85&c=21644644)  
+Blue Bulls Rugby Coaches Association
+
+![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=aa755b291b3b27abe7beb9eca8003be8311d5c48f06b224d151a10189e068c85&c=101657771)  
+Entidee Enterprise PTY (ltd)
+
+![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=aa755b291b3b27abe7beb9eca8003be8311d5c48f06b224d151a10189e068c85&c=203549112)  
+Highlands Auto Engineering
+
+![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=aa755b291b3b27abe7beb9eca8003be8311d5c48f06b224d151a10189e068c85&c=121892775)  
+Enhle Oarabile Kea
+
+![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=aa755b291b3b27abe7beb9eca8003be8311d5c48f06b224d151a10189e068c85&c=165554280)  
+SMART GUY PCS (PTY) LTD
+
+![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=aa755b291b3b27abe7beb9eca8003be8311d5c48f06b224d151a10189e068c85&c=150391945)  
+NIMAWELL
+
+![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=aa755b291b3b27abe7beb9eca8003be8311d5c48f06b224d151a10189e068c85&c=49690686)  
+Creative Characters
+
+![valued client Van Der Merwe Olieverspreiders](https://www.invoicesonline.co.za/scripts/image.php?bid=8554&file=logo_300_100&type=&fe=aa755b291b3b27abe7beb9eca8003be8311d5c48f06b224d151a10189e068c85&c=83855466)  
+Van Der Merwe Olieverspreiders
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
