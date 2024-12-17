@@ -770,7 +770,7 @@ Unit price /  per](https://www.atari.com/products/distressed-fuji-tee)     
 
 ![Atari 50 Pocket Player Pro](files/pocket-02.webp)
 
-Add to cart
+Sold out
 
 ##### Atari 50 Pocket Player Pro
 
