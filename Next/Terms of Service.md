@@ -1,6 +1,6 @@
 6.0.12
 
-1734446240970
+1734468360440
 
                                       
 
@@ -12,7 +12,7 @@ en
 
 4.0.1
 
-1734446637457
+1734469139392
 
      Next Terms & Conditions | T&C's | Next Official Site                                  
 
@@ -22,7 +22,7 @@ en
 
 cutaway22
 
-1734446832556
+1734468413815
 
 You need to enable JavaScript to run this app.
 
@@ -200,7 +200,7 @@ This service is not available in Northern Ireland, mainland offshore islands and
 
 ### Delivery Charges
 
-Our standard courier delivery charge to home is £4.95 per order for one person delivery items. Items requiring 2 person delivery are charged at £15.00 per delivery. The following exceptions apply: wine & spirits £4.95 per box; personalised picture gifts £4.95 per item; Gift Cards £2 for standard delivery Royal Mail 1st class, £3 Royal Mail 1st Class Recorded Delivery and £5 Royal Mail Special Delivery, Gift Card orders with £125 to £200 value will automatically charge a special delivery rate (free delivery for eVouchers); large domestic appliances from £19.99 per item for England, Scotland & Wales, and £34.99 for Northern Ireland - charges will be detailed at point of order. These additional delivery charges will not be refunded if you cancel or return your order unless the product is faulty or does not fit the description given. We do not deliver fresh flowers and plants, wine & spirits outside mainland UK and Northern Ireland, this includes to BFPO addresses. Over our busy periods our standard delivery services may be affected, specific delivery details will be confirmed at the time of order.
+Our standard courier delivery charge to home is £4.95 per order for one person delivery items. Items requiring 2 person delivery are charged at £15.00 per delivery. The following exceptions apply: wine & spirits £4.95 per box; personalised picture gifts £4.95 per item; Gift Cards £2 for standard delivery Royal Mail 1st class, £3 Royal Mail 1st Class Recorded Delivery a Love & Roses + The Diamond Store UK Competitionnd £5 Royal Mail Special Delivery, Gift Card orders with £125 to £200 value will automatically charge a special delivery rate (free delivery for eVouchers); large domestic appliances from £19.99 per item for England, Scotland & Wales, and £34.99 for Northern Ireland - charges will be detailed at point of order. These additional delivery charges will not be refunded if you cancel or return your order unless the product is faulty or does not fit the description given. We do not deliver fresh flowers and plants, wine & spirits outside mainland UK and Northern Ireland, this includes to BFPO addresses. Over our busy periods our standard delivery services may be affected, specific delivery details will be confirmed at the time of order.
 
 ### nextunlimited Service
 
@@ -534,6 +534,54 @@ Please note the redemption of the 10% welcome offer to credit applies only to Ne
 
  Promotional Offers, Multibuys, Vouchers and Gift Cards
 
+### Friends Like These AW24 December Competition
+
+The Promoter: Friends Like These (Lipsy Limited) (registered at Company no. 05728110), 200 – 208 Tottenham Court Road, London, W1T 7PL  
+  
+**Friends Like These AW24 December Competition**  
+To enter the competition:
+
+1. Follow @FriendsLikethese on Instagram
+2. Like the post
+3. Tag one person in the comment section
+
+Please Note: Only the @FriendsLikeThese account will contact you if you are successful. Any other account claiming to contact you on behalf of FriendsLikeThese is not legitimate.  
+  
+This giveaway opens on Tuesday 17th December 2024 at 17.00pm and closes on Monday 23rd December 2024 at 12.00pm. UK residents 18+ only. We will only notify the winner here on Instagram, via our official account @FriendsLikeThese. This giveaway is in no way endorsed, affiliated with, administered, or sponsored by Instagram.
+
+1. Eligibility: This Promotion is open to UK residents, aged 18 or over, excluding:  
+    a)employees of Friends Like These (Lipsy Ltd) or its holding or subsidiary companies;  
+    b) employees or agents or suppliers of Friends Like These (Lipsy Ltd) or its holding or subsidiary companies, who are professionally connected with the competition or its administration; or  
+    c) members of the immediate families or households of a) and b) above.
+2. No purchase necessary. Multiple entries are permitted.
+3. Start Date/Time: Tuesday 17th December 2024 at 17.00pm.
+4. Closing date/Time: Monday 23rd December 2024 at 12.00pm.
+5. To enter, entrants must do the following on the official @FriendsLikeThese Instagram account between 17.00pm on the start date and 12.00pm on the closing date as well as the below:  
+    a) Follow @FriendsLikeThese on Instagram  
+    b) Like and save the post  
+    c) Tag one person in the comment section
+6. Entries made after 12.00pm on Monday 23rd December 2024, will not be counted
+7. One winner will be selected at random by @FriendsLikeThese on Monday 23rd December 2024 after 12.00pm and contacted directly by @FriendLikeThese Limited via Instagram direct mail before midnight that day.
+8. The winner must confirm whether they wish to claim the prize within 3 days of receiving a notification. If the winner fails to do so, the winner shall forfeit the prize and Friends Like These reserves the right to award the prize to a reserve winner selected at the same time as the original winner. Friends Like These does not accept any responsibility if you are not able to claim the prize.
+9. In the event of unforeseen circumstances Friends Like These reserves the right to substitute the prize for an alternative of equal or greater value. All reasonable efforts will be made to contact the winner before awarding the prize to a reserve.
+10. The prize is as follows:  
+    **1x £100 Next Voucher**
+11. The entirety of this prize is non-transferable and non-refundable. It must be taken as offered and will only be awarded to the Winner as specified in these Terms and Conditions.
+12. The prizes will be sent to the winner within 6 months of the competition ending and the exact date will be advised by the Friends Like These marketing team to the winner upon winning.
+13. Friends Like These will contact the prize winner via Instagram direct mail as soon as practicable to verify details for the prize.
+14. The winner must be a UK resident.
+15. Friends Like These decision is final and no correspondence will be entered into.
+16. The winner must declare any allergies.
+17. Friends Like These reserves the right to verify all entries and participants’ eligibility, including but not limited to asking for address and identity details and to refuse to award a prize or withdraw prize entitlement and/or refuse further participation in the promotion and disqualify the participant where there are reasonable grounds to believe there has been a breach of these Terms and Conditions or any instructions forming part of this promotions entry requirements or otherwise where a participant has gained unfair advantage in participating in the promotion or won using fraudulent means.
+18. By entering the competition you agree to being contacted for competition and marketing purposes by email, mail or telephone, from which you may opt out at any time, and to your personal details being used to administer the competition.
+19. The winner agrees to participate in publicity arising from the promotion in the form of use of their name and image in a congratulations competition social media post.
+20. If you object to any or all of your details being published or made available, please contact Friends Like These at [lipsymarketing@next.co.uk](mailto:lipsymarketing@next.co.uk).
+21. Events may occur that render the competition itself or the awarding of a prize impossible due to reasons beyond the control of Friends Like These. Accordingly, Friends Like These may at its absolute discretion vary, amend or withdraw the competition and the winner agrees that no liability shall attach to Friends Like These as a result thereof.
+22. To the fullest extent permitted by law, Friends Like These excludes all liability for any loss, damage, personal injury or death suffered by the prize winner and/or their guest as a result of accepting the prize, except where it is caused by the negligence of Friends Like These its agents or distributors or that of their employees. Your statutory rights are not affected.
+23. The competition and these Terms and Conditions are governed by English law and the parties submit to the non-exclusive jurisdiction of the English courts.
+
+Details of the competition winner will be available for 14 days after the competition ends by writing to Friends like These (Lipsy Limited) Marketing, Glen House, Tottenham Court Road, London, W1T 7PL and Friends Like These will provide the details of the winning entry to the Advertising Standards Authority on request
+
 ### Love & Roses + The Diamond Store UK Competition
 
 The Promoter: Lipsy Limited (registered at Company no. 05728110), 200 – 208 Tottenham Court Road, London, W1T 7PL
@@ -552,21 +600,21 @@ To enter today’s competition:
 
 Please Note: Only the @loveandroses account will contact you if you are successful.Any other account claiming to contact you on behalf of Lipsy London is not legitimate.
 
-This giveaway opens on Saturday 14th December at 10:00am and closes on Friday 20th December 2024 at 10:00am. UK or US residents 18+ only. We will only notify the winner here on Instagram, via our official account @loveandroses. This giveaway is in no way endorsed, affiliated with, administered, or sponsored by Instagram.
+This giveaway opens on Thursday 19th December at 5:00pm and closes on Thursday 26th December 2024 at 5:00pm. UK or US residents 18+ only. We will only notify the winner here on Instagram, via our official account @loveandroses. This giveaway is in no way endorsed, affiliated with, administered, or sponsored by Instagram.
 
 7. Eligibility: This Promotion is open to UK or US residents, aged 18 or over, excluding:
 a. employees of Lipsy Ltd or its holding or subsidiary companies; b. employees or agents or suppliers of Lipsy Ltd or its holding or subsidiary companies, who are professionally connected with the competition or its administration; or c. members of the immediate families or households of a) and b) above.8. No purchase necessary. Multiple entries are permitted.
-9. Start Date/Time: Saturday 14th December at 10:00am
-10. Closing date/Time: Friday 20th December 2024 at 10:00am.
-11. To enter, entrants must do the following on the official @loveandroses Instagram account between 10:00am on the start date and 10:00am on the closing date as well as the below:
+9. Start Date/Time: Thursday 19th December at 5:00pm
+10. Closing date/Time: Thursday 26th December 2024 at 5:00pm.
+11. To enter, entrants must do the following on the official @loveandroses Instagram account between 5:00pm on the start date and 5:00pm on the closing date as well as the below:
 A. Follow @loveandroses and @thediamondstoreuk on Instagram
 
 B. Like the post
 
 C. Tag a friend in the comment section
 
-D. Share to your stories for an extra entry15. Entries made after 10:00am on Friday 20th December, will not be counted
-16. One winner will be selected at random by @loveandroses on Friday 20th December at 11:00am and contacted directly by @loveandroses Limited via Instagram direct mail before midnight that day.
+D. Share to your stories for an extra entry15. Entries made after 5:00pm on Thursday 26th December, will not be counted
+16. One winner will be selected at random by @loveandroses on Friday 27th December 2024 at 11:00am and contacted directly by @loveandroses Limited via Instagram direct mail before midnight that day.
 17. The winner must confirm whether they wish to claim the prize within 3 days of receiving a notification. If the winner fails to do so, the winner shall forfeit the prize and Love & Roses reserves the right to award the prize to a reserve winner selected at the same time as the original winner. Love & Roses does not accept any responsibility if you are not able to claim the prize.
 18. In the event of unforeseen circumstances Love & Roses reserves the right to substitute the prize for an alternative of equal or greater value. All reasonable efforts will be made to contact the winner before awarding the prize to a reserve.
 19. The prize is as follows:
@@ -2031,58 +2079,6 @@ x2 Bath & Body Works goody bags containing the following: Japanese Cherry Blosso
 28. The competition and these terms and conditions are governed by English law and the parties submit to the exclusive jurisdiction of the English courts.
 29. Details of the competition winner will be available for 14 days after the competition ends by writing to Next Beauty Limited at Desford Road, Enderby, Leicester, LE19 4AT and Next Beauty Limited will provide the details of the winning entry to the Advertising Standards Authority on request.
 
-### Friends Like These x Millie Mackintosh AW24 October Competition
-
-The Promoter: Friends Like These (Lipsy Limited) (registered at Company no. 05728110), 200 – 208 Tottenham Court Road, London, W1T 7PL
-
-Friends Like These x Millie Mackintosh AW24 October Competition
-
-To enter today’s competition:
-
-1\. Follow @FriendsLikethese on Instagram
-
-2\. Like this post
-
-3\. Tag one person in the comment section
-
-Please Note: Only the @FriendsLikeThese account will contact you if you are successful. Any other account claiming to contact you on behalf of FriendsLikeThese is not legitimate.
-
-This giveaway opens on Sunday 6th October 2024 at 17.00pm and closes on Monday 14th October 2024 at 16.30pm. UK residents 18+ only. We will only notify the winner here on Instagram, via our official account @FriendsLikeThese. This giveaway is in no way endorsed, affiliated with, administered, or sponsored by Instagram.
-
-6. Eligibility: This Promotion is open to UK residents, aged 18 or over, excluding:
-a. employees of Friends Like These (Lipsy Ltd) or its holding or subsidiary companies; b. employees or agents or suppliers of Love & Roses (Lipsy Ltd) or its holding or subsidiary companies, who are professionally connected with the competition or its administration; or c. members of the immediate families or households of a) and b) above.7. No purchase necessary. Multiple entries are permitted.
-8. Start date/Time: \[Sunday 6th October 2024 at 17.00pm\]
-9. Closing date/Time: \[Monday 14th October 2024 at 16.30pm\]
-10. To enter, entrants must do the following on the official @FriendsLikeThese Instagram account between 17.00pm on the start date and 16.30pm on the closing date as well as the below
-A. Follow @FriendsLikeThese & @milliemackintosh on Instagram
-
-B. Like the post
-
-C. Tag one person in the comment section
-
-14. Entries made after 16.30pm on Monday 14th October 2024, will not be counted
-15. One winner will be selected at random by @FriendsLikeThese on Monday 14th October 2024 after 16.30pm and contacted directly by @FriendLikeThese Limited via Instagram direct mail before midnight that day.
-16. The winner must confirm whether they wish to claim the prize within 3 days of receiving a notification. If the winner fails to do so, the winner shall forfeit the prize and Friends Like These reserves the right to award the prize to a reserve winner selected at the same time as the original winner. Friends Like These does not accept any responsibility if you are not able to claim the prize.
-17. In the event of unforeseen circumstances Friends Like These reserves the right to substitute the prize for an alternative of equal or greater value. All reasonable efforts will be made to contact the winner before awarding the prize to a reserve.
-18. The prize is as follows:
-
-• 1 x £200 Next Voucher
-
-20. The entirety of this prize is non-transferable and non-refundable. It must be taken as offered and will only be awarded to the Winner as specified in these Terms and Conditions.
-21. This prizes will be sent to the winner within 6 months of the competition ending and the exact date will be advised by the Friends Like These marketing team to the winner upon winning.
-22. Friends Like These will contact the prize winner via Instagram direct mail as soon as practicable to verify details for the prize.
-23. The winner must be a UK resident and currently residing in the UK.
-24. Friends Like These decision is final and no correspondence will be entered into.
-25. Friends Like These reserves the right to verify all entries and participants’ eligibility, including but not limited to asking for address and identity details and to refuse to award a prize or withdraw prize entitlement and/or refuse further participation in the promotion and disqualify the participant where there are reasonable grounds to believe there has been a breach of these Terms and Conditions or any instructions forming part of this promotions entry requirements or otherwise where a participant has gained unfair advantage in participating in the promotion or won using fraudulent means.
-26. By entering the competition you agree to being contacted for competition and marketing purposes by email, mail or telephone, from which you may opt out at any time, and to your personal details being used to administer the competition.
-27. The winner agrees to participate in publicity arising from the promotion in the form of use of their name and image in a congratulations competition social media post.
-28. If you object to any or all of your details being published or made available, please contact Friends Like These at marketing@lipsy.co.uk.
-29. Events may occur that render the competition itself or the awarding of a prize impossible due to reasons beyond the control of Friends Like These. Accordingly, Friends Like These) may at its absolute discretion vary, amend or withdraw the competition and the winner agrees that no liability shall attach to Friends Like These) as a result thereof.
-30. To the fullest extent permitted by law, Friends Like These excludes all liability for any loss, damage, personal injury or death suffered by the prize winner and/or their guest as a result of accepting the prize, except where it is caused by the negligence of Friends Like These its agents or distributors or that of their employees. Your statutory rights are not affected./li>
-31. The competition and these Terms and Conditions are governed by English law and the parties submit to the non-exclusive jurisdiction of the English courts.
-
-Details of the competition winner will be available for 14 days after the competition ends by writing to Lipsy London Limited Marketing, Glen House, Tottenham Court Road, London, W1T 7PL and Lipsy London will provide the details of the winning entry to the Advertising Standards Authority on request.
-
 ### Lipsy Jet Set Style Competition AW24
 
 The Promoter: Lipsy Limited (registered at Company no. 05728110), 200 – 208 Tottenham Court Road, London, W1T 7PL
@@ -3526,7 +3522,7 @@ You need to enable JavaScript to run this app.
 
 4.0.1
 
-1734446345336
+1734469131815
 
 ##### Our Social Networks
 
