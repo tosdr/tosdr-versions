@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/c85738ba-9ecf-4d56-9029-3f97eddd2e60/20241216T034403/c85738ba-9ecf-4d56-9029-3f97eddd2e60_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c85738ba-9ecf-4d56-9029-3f97eddd2e60/20241216T034403/c85738ba-9ecf-4d56-9029-3f97eddd2e60_360x203.jpg)](https://www.king5.com/article/sports/geno-smith-injury-seahawks-packers/281-a396ee8b-0cf4-496c-ae36-1b03b2c99d44)
+        
+        #### [Geno Smith avoids major injury after exiting Seahawks' loss to Packers](https://www.king5.com/article/sports/geno-smith-injury-seahawks-packers/281-a396ee8b-0cf4-496c-ae36-1b03b2c99d44)
+        
     *  [![](https://media.king5.com/assets/KING/images/fc198a2d-2ecb-4d3c-a4ff-218e8d8efb0d/20241217T062101/fc198a2d-2ecb-4d3c-a4ff-218e8d8efb0d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fc198a2d-2ecb-4d3c-a4ff-218e8d8efb0d/20241217T062101/fc198a2d-2ecb-4d3c-a4ff-218e8d8efb0d_360x203.jpg)](https://www.king5.com/article/news/local/brothers-survived-tree-falling-on-car-i-5-bellingham/281-8e5e5e8e-71d8-475b-b2fc-75622f166dfb)
         
         #### [Brothers describe moments when tree fell on their car while driving on I-5 near Bellingham](https://www.king5.com/article/news/local/brothers-survived-tree-falling-on-car-i-5-bellingham/281-8e5e5e8e-71d8-475b-b2fc-75622f166dfb)
-        
-    *  [![](https://media.king5.com/assets/KING/images/58055eab-46c1-4e0a-80b8-42ac48474ae4/20241217T032039/58055eab-46c1-4e0a-80b8-42ac48474ae4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/58055eab-46c1-4e0a-80b8-42ac48474ae4/20241217T032039/58055eab-46c1-4e0a-80b8-42ac48474ae4_360x203.jpg)](https://www.king5.com/article/news/crime/two-brothers-posing-repair-contractors-defraud-elderly-homeowners-sentenced/281-e856ee30-46ee-4f12-ab92-24e7d2d732f0)
-        
-        #### [Two brothers sentenced to 18 months in prison for defrauding homeowners in 3 states](https://www.king5.com/article/news/crime/two-brothers-posing-repair-contractors-defraud-elderly-homeowners-sentenced/281-e856ee30-46ee-4f12-ab92-24e7d2d732f0)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/bd0fcb77-6053-40d8-830e-d77687b91d1e/20241118T055649/bd0fcb77-6053-40d8-830e-d77687b91d1e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bd0fcb77-6053-40d8-830e-d77687b91d1e/20241118T055649/bd0fcb77-6053-40d8-830e-d77687b91d1e_360x203.jpg)](https://www.king5.com/article/weather/freezing-rain-ice-expected-washington-mountain-passes-tuesday/281-16507188-0ae7-4bb6-947d-2bf3357b54b4)
-        
-        #### [Heavy rain in the lowlands, ice in Washington's mountain passes expected Tuesday](https://www.king5.com/article/weather/freezing-rain-ice-expected-washington-mountain-passes-tuesday/281-16507188-0ae7-4bb6-947d-2bf3357b54b4)
-        
-    *  [![](https://media.king5.com/assets/KING/images/0035dc62-e6cb-4d11-9e00-729524f8f45f/20241217T012926/0035dc62-e6cb-4d11-9e00-729524f8f45f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/0035dc62-e6cb-4d11-9e00-729524f8f45f/20241217T012926/0035dc62-e6cb-4d11-9e00-729524f8f45f_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/e528c8ab-3ac0-4fb3-ba6f-ed969adfa7d7/20241217T130508/e528c8ab-3ac0-4fb3-ba6f-ed969adfa7d7_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e528c8ab-3ac0-4fb3-ba6f-ed969adfa7d7/20241217T130508/e528c8ab-3ac0-4fb3-ba6f-ed969adfa7d7_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
+    *  [![](https://media.king5.com/assets/KING/images/39e8fbf7-061f-421b-b223-466bb55a99d2/39e8fbf7-061f-421b-b223-466bb55a99d2_16x9.jpg) ![](https://media.king5.com/assets/KING/images/39e8fbf7-061f-421b-b223-466bb55a99d2/39e8fbf7-061f-421b-b223-466bb55a99d2_360x203.jpg)](https://www.king5.com/article/weather/freezing-rain-ice-expected-washington-mountain-passes-tuesday/281-16507188-0ae7-4bb6-947d-2bf3357b54b4)
+        
+        #### [Heavy rain in the lowlands, ice in Washington's mountain passes expected Tuesday](https://www.king5.com/article/weather/freezing-rain-ice-expected-washington-mountain-passes-tuesday/281-16507188-0ae7-4bb6-947d-2bf3357b54b4)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -82,13 +82,13 @@ Navigation
     
     Latest Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/c85738ba-9ecf-4d56-9029-3f97eddd2e60/20241216T034403/c85738ba-9ecf-4d56-9029-3f97eddd2e60_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c85738ba-9ecf-4d56-9029-3f97eddd2e60/20241216T034403/c85738ba-9ecf-4d56-9029-3f97eddd2e60_360x203.jpg)](https://www.king5.com/article/sports/geno-smith-injury-seahawks-packers/281-a396ee8b-0cf4-496c-ae36-1b03b2c99d44)
+        
+        #### [Geno Smith avoids major injury after exiting Seahawks' loss to Packers](https://www.king5.com/article/sports/geno-smith-injury-seahawks-packers/281-a396ee8b-0cf4-496c-ae36-1b03b2c99d44)
+        
     *  [![](https://media.king5.com/assets/KING/images/c0310c6b-5a6e-400d-ab6a-4cebb6068434/20241216T140834/c0310c6b-5a6e-400d-ab6a-4cebb6068434_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c0310c6b-5a6e-400d-ab6a-4cebb6068434/20241216T140834/c0310c6b-5a6e-400d-ab6a-4cebb6068434_360x203.jpg)](https://www.king5.com/article/sports/nfl/seahawks/nfl-playoff-picture-seahawks-after-week-15/281-544d4f94-69a7-4ac3-a255-acf8f5d17c40)
         
         #### [NFL Playoff Picture: Where Seahawks stand after Week 15 loss to Packers](https://www.king5.com/article/sports/nfl/seahawks/nfl-playoff-picture-seahawks-after-week-15/281-544d4f94-69a7-4ac3-a255-acf8f5d17c40)
-        
-    *  [![](https://media.king5.com/assets/KING/images/e50b0e0a-39b4-4744-9204-ec41698d3150/20241216T032903/e50b0e0a-39b4-4744-9204-ec41698d3150_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e50b0e0a-39b4-4744-9204-ec41698d3150/20241216T032903/e50b0e0a-39b4-4744-9204-ec41698d3150_360x203.jpg)](https://www.king5.com/article/sports/nfl/seahawks/three-takeaways-seahawks-23-13-loss-green-bay-packers-sunday-night-football/281-4218c0ca-835c-4b93-a0ea-b2b54b638f3c)
-        
-        #### [Three takeaways from the Seahawks' 30-13 loss to the Packers on Sunday Night Football](https://www.king5.com/article/sports/nfl/seahawks/three-takeaways-seahawks-23-13-loss-green-bay-packers-sunday-night-football/281-4218c0ca-835c-4b93-a0ea-b2b54b638f3c)
         
     
 * [VERIFY](https://www.king5.com/verify)
@@ -105,9 +105,9 @@ Navigation
 
 Seattle, WA »
 
-43°
+45°
 
-![Rain](/assets/shared-images/weather-icons/rain-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
