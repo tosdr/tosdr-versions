@@ -232,8 +232,8 @@ Juniper's Ai-Native routing solution delivers robust 400GbE and 800GbE capabili
     
 * * [Government (federal, state and local)](https://www.juniper.net/us/en/solutions/government.html)
     * [Education](https://www.juniper.net/us/en/solutions/education.html)
-    * [Healthcare](https://www.juniper.net/us/en/solutions/healthcare.html)
-    * [Retail](https://www.juniper.net/us/en/solutions/retail.html)
+    * [Healthcare](https://www.juniper.net/content/juniper/us/en/solutions/healthcare)
+    * [Retail](https://www.juniper.net/content/juniper/us/en/solutions/retail)
     * [Energy and utilities](https://www.juniper.net/us/en/solutions/energy-utilities.html)
     * [Media and entertainment](https://www.juniper.net/us/en/solutions/media-and-entertainment.html)
 
@@ -915,8 +915,8 @@ Juniper's Ai-Native routing solution delivers robust 400GbE and 800GbE capabili
     
 * * [Government (federal, state and local)](https://www.juniper.net/us/en/solutions/government.html)
     * [Education](https://www.juniper.net/us/en/solutions/education.html)
-    * [Healthcare](https://www.juniper.net/us/en/solutions/healthcare.html)
-    * [Retail](https://www.juniper.net/us/en/solutions/retail.html)
+    * [Healthcare](https://www.juniper.net/content/juniper/us/en/solutions/healthcare)
+    * [Retail](https://www.juniper.net/content/juniper/us/en/solutions/retail)
     * [Energy and utilities](https://www.juniper.net/us/en/solutions/energy-utilities.html)
     * [Media and entertainment](https://www.juniper.net/us/en/solutions/media-and-entertainment.html)
 
@@ -1535,7 +1535,7 @@ Juniper may modify this Trademark Policy from time to time, and we will post the
 
 * Popular resources
     
-* * [Events](https://www.juniper.net/content/juniper/us/en/events)
+* * [Events](https://www.juniper.net/us/en/events.html)
     * [Blogs](https://blogs.juniper.net/)
     * [Community](https://community.juniper.net/home)
     * [Image library](https://www.juniper.net/us/en/company/images.html)
@@ -1557,9 +1557,7 @@ Subscribe
 
  ✓
 
-Send me updates about Juniper Networks news and product details.
-
-Read about Juniper's [privacy policy.](https://www.juniper.net/us/en/privacy-policy.html)
+Send me email updates about Juniper Networks, Inc.’s news, events, and product details. You may withdraw your consent at any time via the opt-out link in our emails.  For more information, see our [Privacy Notice](https://www.juniper.net/us/en/privacy-policy.html).
 
 Invalid Captcha
 
