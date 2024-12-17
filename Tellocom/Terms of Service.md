@@ -1,4 +1,4 @@
-In order to view all our website features you need to [enable Javascript.](http://www.enable-javascript.com/en) ![](/images/js_disabled_tracking.gif?cid=6cf128c8b041e80c4d25d05cf65785e8)
+In order to view all our website features you need to [enable Javascript.](http://www.enable-javascript.com/en) ![](/images/js_disabled_tracking.gif?cid=b3a38e0c4a17b11876f7e5c85473c339)
 
 Icons-MyTello Icons-MyTello Icons-MyTello Icons-MyTello Icons-MyTello
 
@@ -320,10 +320,13 @@ The Referral Program is governed by the following terms and conditions:
 Account protection
 ------------------
 
-Please select a password that would not be obvious to someone trying to guess your password, and change it regularly as an added precaution. Furthermore, we recommend that you use a different password from your email account as an additional security measure. You are responsible for maintaining the confidentiality of the password and account, and you are fully responsible for all activities that occur under your password or account identification. You should make every effort to safeguard your account data. Tello is not responsible for lost or stolen account data or unauthorized use. You agree to immediately notify Tello of any unauthorized use of your password or account or any other breach of security. Credit/debit card fraud is a criminal offense.  
-  
 A security PIN must be set up for all Tello accounts, in order to enhance the security of your account and information. The security PIN gives the Customer access to request certain account changes, such as: device change, port out, account deactivation, etc.  
-Also, for security reasons, any requests that require an action taken by our Support Team should come either from the email address registered to the account or from the Tello number. Customer must be properly authenticated by Customer Support personnel prior to the release of any Customer data via phone or email.
+Also, for security reasons, any requests that require an action taken by our Support Team should come either from the email address registered to the account or from the Tello number. Customer must be properly authenticated by Customer Support personnel prior to the release of any Customer data via phone or email.  
+  
+Two-Factor Authentication (2FA) is available as an additional security measure for your account. This feature adds an additional layer of protection by requiring a second verification step, such as a time-based one-time password (TOTP), along with your account password.  
+  
+Please select a password that would not be obvious to someone trying to guess your password, and change it regularly as an added precaution. Furthermore, we recommend using a different password from your email account as an additional security measure.  
+To further secure your account, we strongly encourage enabling Two-Factor Authentication (2FA), which requires an additional verification step when accessing your account. You are responsible for maintaining the confidentiality of your password, account, and 2FA credentials, and you are fully responsible for all activities that occur under your account identification. You should make every effort to safeguard your account data. Tello is not responsible for lost or stolen account data, 2FA credentials, or unauthorized use. You agree to immediately notify Tello of any unauthorized use of your password, account, 2FA, or any other breach of security. Credit/debit card fraud is a criminal offense.
 
 Transaction authorization
 -------------------------
@@ -664,7 +667,7 @@ From your Tello phone, dial 611
 
 **Email**  
 
-cust​omer​serv​ice@​tell​o.co​m​
+cu​st​om​er​se​rv​ic​e@​te​ll​o.​co​m​
 
 Shop
 
