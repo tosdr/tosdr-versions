@@ -167,14 +167,15 @@
     * [Adventure holidays](https://restless.co.uk/travel/adventure-holidays/)
     * [Beach holidays](https://restless.co.uk/travel/beach-holidays/)
     * [City breaks](https://restless.co.uk/travel/city-breaks/)
+    * [Coach holidays](https://restless.co.uk/travel/coach-holidays/)
     * [Cruise holidays](https://restless.co.uk/travel/cruises/)
     * [Cultural holidays](https://restless.co.uk/travel/cultural-holidays/)
     * [Cycling holidays](https://restless.co.uk/travel/active-holidays/cycling-holidays/)
-    * [Tours & guided holidays](https://restless.co.uk/travel/group-guided-tour-holidays/)
     * [Luxury holidays](https://restless.co.uk/travel/luxury-holidays/)
-    * [Solo holidays](https://restless.co.uk/travel/solo-traveller-holidays/)
     * [Long-haul holidays](https://restless.co.uk/travel/long-haul-holidays/)
-    * [Nature holidays](https://restless.co.uk/travel/nature-holidays/)
+    * [Rail holidays](https://restless.co.uk/travel/travel-by-rail/)
+    * [Solo holidays](https://restless.co.uk/travel/solo-traveller-holidays/)
+    * [Tours & guided holidays](https://restless.co.uk/travel/group-guided-tour-holidays/)
     * [Popular destinations](https://restless.co.uk/travel/holiday-destinations/)
     * [Travel guides](https://restless.co.uk/travel/travel-guides/)
     * [Travel competitions](https://restless.co.uk/travel/travel-competitions/)
@@ -713,7 +714,6 @@ By providing us your email address you agree to receive emails and communication
 
 #### [Money](https://restless.co.uk/money/)
 
-* [Money saving comparison tools](https://restless.co.uk/money/money-saving-comparison-tools/)
 * [Everyday finance](https://restless.co.uk/money/everyday-finance/)
 * [Mortgages and property](https://restless.co.uk/mortgages/)
 * [Retirement planning](https://restless.co.uk/pensions-retirement-planning/)
@@ -744,8 +744,8 @@ By providing us your email address you agree to receive emails and communication
 * [Beach holidays](https://restless.co.uk/travel/beach-holidays/)
 * [Solo travel](https://restless.co.uk/travel/solo-traveller-holidays/)
 * [Adventure holidays](https://restless.co.uk/travel/adventure-holidays/)
-* [Guided tours](https://travel.restless.co.uk/tours)
-* [Hotel reviews](https://travel.restless.co.uk/collection/hotel-only)
+* [Tour holidays](https://restless.co.uk/travel/group-guided-tour-holidays/)
+* [Rail holidays](https://restless.co.uk/travel/travel-by-rail/)
 
 #### Some important information about Rest Less
 
