@@ -34,6 +34,12 @@ Get Premium – Enjoy No Ads [![](https://assets.boredpanda.com/blog/wp-content/
 
 [Upgrade now](https://www.boredpanda.com/premium/?utm_source=boredpanda&utm_medium=popup&utm_campaign=premium-popup) [Already a subscriber? **Sign In**](javascript:void(0))
 
+![](https://assets.boredpanda.com/blog/wp-content/themes/boredpanda/images/premium/ic-close-full.svg)
+
+Get Premium – Enjoy No Ads and More
+
+[Subscribe](https://www.boredpanda.com/premium/?utm_source=boredpanda&utm_medium=anchor&utm_campaign=premium-anchor-ad)
+
 [_Modal close_](javascript:void(0))
 
 Are you sure you want to post this?
