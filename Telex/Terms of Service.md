@@ -4,7 +4,7 @@ Lázár, Olimpia
 
 ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNgYAAAAAMAASsJTYQAAAAASUVORK5CYII= "derült")
 
-6°11°
+3°8°
 
 Menü
 
