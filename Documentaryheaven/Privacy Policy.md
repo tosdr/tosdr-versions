@@ -123,44 +123,44 @@ Advertisement
     Suicide
     
     Released in 2001, Suicide is a film directed by Eames Yates and explores the suicide of his own brother which occurred two years prior to this films release. Eames' brother Teddy was 40 when he shot h...](https://documentaryheaven.com/suicide/ "Suicide")
-* [![September Clues](/wp-content/thumbnails/1588-100x70.jpg?x53432)
+* [![Dispatches: The Killing Zone](/wp-content/thumbnails/481-100x70.png?x53432)
     
-    September Clues
+    Dispatches: The Killing Zone
     
-    This comprehensive analysis of the 9/11 broadcasts shows how the mainstream media actively participated in the 9/11 false-flag operation aimed at generating public support for illegal wars. This media...](https://documentaryheaven.com/september-clues/ "September Clues")
-* [![Design: e²](/wp-content/thumbnails/2696-100x70.png?x53432)
+    While the world's attention has been fixed on the war in Iraq, Dispatches reporter Sandra Jordan and producer Rodrigo Vasquez risk their lives to reveal the shocking level of daily violence and murder...](https://documentaryheaven.com/dispatches-the-killing-zone/ "Dispatches: The Killing Zone")
+* [![The Hour Of Our Time: The Legacy of William Cooper](/wp-content/thumbnails/1157-100x70.jpg?x53432)
     
-    Design: e²
+    The Hour Of Our Time: The Legacy of William Cooper
     
-    The Green Apple. David Owen, a writer for The New Yorker, discusses the complex issues of sustainability as they relate to urban and suburban life. “Green Manhattan,” an article that Owen wrote for Th...](https://documentaryheaven.com/design-e%c2%b2/ "Design: e²")
+    Surrounding us in our day-to-day lives are mysteries, that to spend our days pondering would paralyze us from leading productive lives. So we turn away from these thoughts in order to seek out as trou...](https://documentaryheaven.com/the-hour-of-our-time-the-legacy-of-william-cooper/ "The Hour Of Our Time: The Legacy of William Cooper")
 
 ###### Throwback Documentaries
 
-* [![Scientology And Me](/wp-content/thumbnails/822-100x70.png?x53432)
+* [![Ghost Rapes of Bolivia](/wp-content/thumbnails/8054-100x70.jpg?x53432)
     
-    Scientology And Me
+    Ghost Rapes of Bolivia
     
-    John Sweeney investigates the Church of Scientology, endorsed by some major Hollywood celebrities, but which continues to face the criticism that it is less of a religion and more of a cult. Some form](https://documentaryheaven.com/scientology-and-me/ "Scientology And Me")
-* [![The Killing Fields: Enemies of the People](/wp-content/thumbnails/6734-100x70.jpg?x53432)
+    For a while, the residents of Manitoba Colony thought demons were raping the town's women. There was no other explanation. No way of explaining how a woman could wake up with blood and semen stains sm](https://documentaryheaven.com/ghost-rapes-bolivia/ "Ghost Rapes of Bolivia")
+* [![Africa Addio (Farewell Africa)](/wp-content/thumbnails/2327-100x70.jpg?x53432)
     
-    The Killing Fields: Enemies of the People
+    Africa Addio (Farewell Africa)
     
-    One of the most harrowing and compelling personal documentaries of our time, ENEMIES OF THE PEOPLE exposes for the first time the truth about the Killing Fields and the Khmer Rouge who were behind Cam](https://documentaryheaven.com/the-killing-fields-enemies-of-the-people/ "The Killing Fields: Enemies of the People")
-* [![Seven Wonders of the Microbe World (combined)](/wp-content/thumbnails/6259-100x70.jpg?x53432)
+    Africa Addio is an Italian documentary film made in 1966 about the end of the colonial era in Africa. The film was released under the names “Africa Blood and Guts” in the USA (which was only half of t](https://documentaryheaven.com/africa-addio-farewell-africa/ "Africa Addio (Farewell Africa)")
+* [![Space Race](/wp-content/thumbnails/16236-100x70.jpg?x53432)
     
-    Seven Wonders of the Microbe World (combined)
+    Space Race
     
-    From black death to cholera, microbes have been resonsible for some of the worlds most devastating diseases. But at the same time this tiny single cell organisms have aided our survival on earth helpi](https://documentaryheaven.com/seven-wonders-of-the-microbe-world-combined/ "Seven Wonders of the Microbe World (combined)")
-* [![Alan and Marcus Go Forth and Multiply](/wp-content/thumbnails/2950-100x70.jpg?x53432)
+    Space Race is a four-part documentary drama series that was released by the BBC in 2005. It chronicles the major events and characters involved in the historic space race that occurred between the So](https://documentaryheaven.com/space-race/ "Space Race")
+* [![Chicago Blues](/wp-content/thumbnails/12735-100x70.jpg?x53432)
     
-    Alan and Marcus Go Forth and Multiply
+    Chicago Blues
     
-    Ever since he was at school, actor and comedian Alan Davies has hated maths. And like many people, he is not much good at it either. But Alan has always had a sneaking suspicion that he was missing ou](https://documentaryheaven.com/alan-and-marcus-go-forth-and-multiply/ "Alan and Marcus Go Forth and Multiply")
-* [![Iraq for Sale: The War Profiteers](/wp-content/thumbnails/3387-100x70.jpg?x53432)
+    Released in 1972 and direct by Harley Cokeliss, Chicago Blues is not just a remarkable film but also one of incredible beauty, crafted with care by professionals who possess a true love and understand](https://documentaryheaven.com/chicago-blues/ "Chicago Blues")
+* [![The First Human](/wp-content/thumbnails/16104-100x70.jpg?x53432)
     
-    Iraq for Sale: The War Profiteers
+    The First Human
     
-    Join documentary filmmaker Robert Greenwald (Wal-Mart: The High Cost of Low Price, Outfoxed) in assessing the damage done to average Americans when corporations decide to wage war. For critics of the](https://documentaryheaven.com/iraq-for-sale/ "Iraq for Sale: The War Profiteers")
+    The roots of the human race are shrouded in mystery, lost to the depths of prehistoric time. Although every school kid knows that we evolved from the apes the reality is that almost nothing is known](https://documentaryheaven.com/first-human/ "The First Human")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
