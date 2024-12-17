@@ -1,3 +1,5 @@
+[Advertiser Disclosure](#)
+
 **Terms of Use**
 ================
 
