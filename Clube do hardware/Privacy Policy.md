@@ -128,119 +128,107 @@ Política de privacidade
 
 [](https://whatsapp.com/channel/0029VaA51oy9hXF2RfactE03 "WhatsApp Clube do Hardware")
 
-* ### Popular agora
-    
-    * [![ckaio_00](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1255361.thumb.png.50c1443265fb576c3673f752922a7f38.png)](https://www.clubedohardware.com.br/profile/1255361-ckaio_00/ "Ir ao perfil de ckaio_00")
-        
-        18
-        
-        [Minha placa pegou fogo(A520m S2H, fonte msi mag 650w)](https://www.clubedohardware.com.br/forums/topic/1705732-minha-placa-pegou-fogoa520m-s2h-fonte-msi-mag-650w/ "Visualizar tópico")
-        
-        Por [ckaio\_00](https://www.clubedohardware.com.br/profile/1255361-ckaio_00/ "Ir ao perfil de ckaio_00")  
-        1 hora atrás
-        
-    
 * ### Últimos tópicos
     
-    * [![Fabricio S S J](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c462a0%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EFS%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1253956-fabricio-s-s-j/ "Ir ao perfil de Fabricio S S J")
-        
-        0
-        
-        [recomendação controle para pc/xbox](https://www.clubedohardware.com.br/forums/topic/1705742-recomenda%C3%A7%C3%A3o-controle-para-pcxbox/?do=getNewComment "recomendação controle para pc/xbox")
-        
-        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
-        Por [Fabricio S S J](https://www.clubedohardware.com.br/profile/1253956-fabricio-s-s-j/ "Ir ao perfil de Fabricio S S J")  
-        20 minutos atrás
-        
-    * [![Reinan Rlsb](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2379c462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ERR%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1258039-reinan-rlsb/ "Ir ao perfil de Reinan Rlsb")
-        
-        2
-        
-        [Melhoria Corsair de 16Gb](https://www.clubedohardware.com.br/forums/topic/1705740-melhoria-corsair-de-16gb/?do=getNewComment "Melhoria Corsair de 16Gb")
-        
-        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
-        Por [Reinan Rlsb](https://www.clubedohardware.com.br/profile/1258039-reinan-rlsb/ "Ir ao perfil de Reinan Rlsb")  
-        24 minutos atrás
-        
-    * [![duduhdxd](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/images(4).thumb.jpg.63008a3f96cc9ec4c5cc99362d1ae114.jpg)](https://www.clubedohardware.com.br/profile/1258040-duduhdxd/ "Ir ao perfil de duduhdxd")
-        
-        8
-        
-        [consigo colocar um R7 5700x 3d em uma b550m?](https://www.clubedohardware.com.br/forums/topic/1705739-consigo-colocar-um-r7-5700x-3d-em-uma-b550m/?do=getNewComment "consigo colocar um R7 5700x 3d em uma b550m?")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [duduhdxd](https://www.clubedohardware.com.br/profile/1258040-duduhdxd/ "Ir ao perfil de duduhdxd")  
-        27 minutos atrás
-        
-    * [![Hu3Derp](https://www.clubedohardware.com.br/uploads/members/monthly_2019_12/imported-photo-1071086.thumb.jpeg.b5bef9742e89f11b736d1bb7cba860c8.jpeg)](https://www.clubedohardware.com.br/profile/1071086-hu3derp/ "Ir ao perfil de Hu3Derp")
-        
-        0
-        
-        [tela azul nvlddmkm.sys windows 10](https://www.clubedohardware.com.br/forums/topic/1705738-tela-azul-nvlddmkmsys-windows-10/?do=getNewComment "tela azul nvlddmkm.sys windows 10")
-        
-        [Telas azuis](https://www.clubedohardware.com.br/forums/forum/124-telas-azuis/ "Telas azuis")  
-        Por [Hu3Derp](https://www.clubedohardware.com.br/profile/1071086-hu3derp/ "Ir ao perfil de Hu3Derp")  
-        27 minutos atrás
-        
-    * [![Henrique2233](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c4a0%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EH%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1258036-henrique2233/ "Ir ao perfil de Henrique2233")
-        
-        3
-        
-        [Pc de 1.000 reais](https://www.clubedohardware.com.br/forums/topic/1705737-pc-de-1000-reais/?do=getNewComment "Pc de 1.000 reais")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Henrique2233](https://www.clubedohardware.com.br/profile/1258036-henrique2233/ "Ir ao perfil de Henrique2233")  
-        47 minutos atrás
-        
-    * [![ThiagoSouzA123](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2372c462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ET%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1258037-thiagosouza123/ "Ir ao perfil de ThiagoSouzA123")
-        
-        3
-        
-        [PC dando tela preta no meio da jogatina](https://www.clubedohardware.com.br/forums/topic/1705736-pc-dando-tela-preta-no-meio-da-jogatina/?do=getNewComment "PC dando tela preta no meio da jogatina")
-        
-        [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
-        Por [ThiagoSouzA123](https://www.clubedohardware.com.br/profile/1258037-thiagosouza123/ "Ir ao perfil de ThiagoSouzA123")  
-        48 minutos atrás
-        
-    * [![peixeoto369](https://www.clubedohardware.com.br/uploads/members/monthly_2023_03/imported-photo-1216341.thumb.jpeg.c2e38f10eb6593202ba946e8991d0092.jpeg)](https://www.clubedohardware.com.br/profile/1216341-peixeoto369/ "Ir ao perfil de peixeoto369")
+    * [![Jeová J. da Silva Oliveira](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c478%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EJJ%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1201564-jeov%C3%A1-j-da-silva-oliveira/ "Ir ao perfil de Jeová J. da Silva Oliveira")
         
         1
         
-        [Comprar 6700xt da Powercolor Red Devil ou XFX Merc?](https://www.clubedohardware.com.br/forums/topic/1705735-comprar-6700xt-da-powercolor-red-devil-ou-xfx-merc/?do=getNewComment "Comprar 6700xt da Powercolor Red Devil ou XFX Merc?")
+        [E aí, meu setup ficou bom?](https://www.clubedohardware.com.br/forums/topic/1705790-e-a%C3%AD-meu-setup-ficou-bom/?do=getNewComment "E aí, meu setup ficou bom?")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [Jeová J. da Silva Oliveira](https://www.clubedohardware.com.br/profile/1201564-jeov%C3%A1-j-da-silva-oliveira/ "Ir ao perfil de Jeová J. da Silva Oliveira")  
+        19 minutos atrás
+        
+    * [![iapereira](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c484%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EI%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1039988-iapereira/ "Ir ao perfil de iapereira")
+        
+        1
+        
+        [Windows não reconhece placa quando uso cabo Rise Mode (e somente ele)](https://www.clubedohardware.com.br/forums/topic/1705789-windows-n%C3%A3o-reconhece-placa-quando-uso-cabo-rise-mode-e-somente-ele/?do=getNewComment "Windows não reconhece placa quando uso cabo Rise Mode (e somente ele)")
         
         [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [peixeoto369](https://www.clubedohardware.com.br/profile/1216341-peixeoto369/ "Ir ao perfil de peixeoto369")  
-        1 hora atrás
+        Por [iapereira](https://www.clubedohardware.com.br/profile/1039988-iapereira/ "Ir ao perfil de iapereira")  
+        32 minutos atrás
         
-    * [![ckaio_00](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1255361.thumb.png.50c1443265fb576c3673f752922a7f38.png)](https://www.clubedohardware.com.br/profile/1255361-ckaio_00/ "Ir ao perfil de ckaio_00")
-        
-        18
-        
-        [Minha placa pegou fogo(A520m S2H, fonte msi mag 650w)](https://www.clubedohardware.com.br/forums/topic/1705732-minha-placa-pegou-fogoa520m-s2h-fonte-msi-mag-650w/?do=getNewComment "Minha placa pegou fogo(A520m S2H, fonte msi mag 650w)")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [ckaio\_00](https://www.clubedohardware.com.br/profile/1255361-ckaio_00/ "Ir ao perfil de ckaio_00")  
-        1 hora atrás
-        
-    * [![LUiZ .](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4bb62%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EL.%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1249372-luiz/ "Ir ao perfil de LUiZ .")
-        
-        13
-        
-        [Upgrade de SSD, compensa comprar um SATA de 1 TB para jogos?](https://www.clubedohardware.com.br/forums/topic/1705731-upgrade-de-ssd-compensa-comprar-um-sata-de-1-tb-para-jogos/?do=getNewComment "Upgrade de SSD, compensa comprar um SATA de 1 TB para jogos?")
-        
-        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
-        Por [LUiZ .](https://www.clubedohardware.com.br/profile/1249372-luiz/ "Ir ao perfil de LUiZ .")  
-        1 hora atrás
-        
-    * [![lincoln.hirota](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1258032.thumb.jpeg.307d2c545354df10f568ab6c3b8a4aa3.jpeg)](https://www.clubedohardware.com.br/profile/1258032-lincolnhirota/ "Ir ao perfil de lincoln.hirota")
+    * [![duduhdxd](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/images(4).thumb.jpg.63008a3f96cc9ec4c5cc99362d1ae114.jpg)](https://www.clubedohardware.com.br/profile/1258040-duduhdxd/ "Ir ao perfil de duduhdxd")
         
         0
         
-        [Roteador em modo repetidor com DFS](https://www.clubedohardware.com.br/forums/topic/1705730-roteador-em-modo-repetidor-com-dfs/?do=getNewComment "Roteador em modo repetidor com DFS")
+        [Meu PC está dando 100% uso de disco](https://www.clubedohardware.com.br/forums/topic/1705788-meu-pc-est%C3%A1-dando-100-uso-de-disco/?do=getNewComment "Meu PC está dando 100% uso de disco")
         
-        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
-        Por [lincoln.hirota](https://www.clubedohardware.com.br/profile/1258032-lincolnhirota/ "Ir ao perfil de lincoln.hirota")  
+        [Computador congelando](https://www.clubedohardware.com.br/forums/forum/123-computador-congelando/ "Computador congelando")  
+        Por [duduhdxd](https://www.clubedohardware.com.br/profile/1258040-duduhdxd/ "Ir ao perfil de duduhdxd")  
+        33 minutos atrás
+        
+    * [![kiroon12](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2389c462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EK%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1215537-kiroon12/ "Ir ao perfil de kiroon12")
+        
+        2
+        
+        [A placa de vídeo Radeon RX 6600 usa conector PCIe 6+2 pinos?](https://www.clubedohardware.com.br/forums/topic/1705784-a-placa-de-v%C3%ADdeo-radeon-rx-6600-usa-conector-pcie-62-pinos/?do=getNewComment "A placa de vídeo Radeon RX 6600 usa conector PCIe 6+2 pinos?")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [kiroon12](https://www.clubedohardware.com.br/profile/1215537-kiroon12/ "Ir ao perfil de kiroon12")  
         1 hora atrás
+        
+    * [![Heitor_](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c46962%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EH%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1255559-heitor_/ "Ir ao perfil de Heitor_")
+        
+        3
+        
+        [ligar fans na B550m pro vdh wifi msi](https://www.clubedohardware.com.br/forums/topic/1705782-ligar-fans-na-b550m-pro-vdh-wifi-msi/?do=getNewComment "ligar fans na B550m pro vdh wifi msi")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [Heitor\_](https://www.clubedohardware.com.br/profile/1255559-heitor_/ "Ir ao perfil de Heitor_")  
+        1 hora atrás
+        
+    * [![Rafaiaz](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c46296%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ER%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1258060-rafaiaz/ "Ir ao perfil de Rafaiaz")
+        
+        0
+        
+        [Led da fan muda a cor errada](https://www.clubedohardware.com.br/forums/topic/1705781-led-da-fan-muda-a-cor-errada/?do=getNewComment "Led da fan muda a cor errada")
+        
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [Rafaiaz](https://www.clubedohardware.com.br/profile/1258060-rafaiaz/ "Ir ao perfil de Rafaiaz")  
+        1 hora atrás
+        
+    * [![mate0s](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1258059.thumb.jpeg.98cf8f21e5e721f072734ff8ca0ac1f2.jpeg)](https://www.clubedohardware.com.br/profile/1258059-mate0s/ "Ir ao perfil de mate0s")
+        
+        1
+        
+        [Congelando na BIOS ou após loading do windows](https://www.clubedohardware.com.br/forums/topic/1705780-congelando-na-bios-ou-ap%C3%B3s-loading-do-windows/?do=getNewComment "Congelando na BIOS ou após loading do windows")
+        
+        [Computador congelando](https://www.clubedohardware.com.br/forums/forum/123-computador-congelando/ "Computador congelando")  
+        Por [mate0s](https://www.clubedohardware.com.br/profile/1258059-mate0s/ "Ir ao perfil de mate0s")  
+        1 hora atrás
+        
+    * [![FrostX](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257453.thumb.jpeg.afad70a9158869413761a4265effab48.jpeg)](https://www.clubedohardware.com.br/profile/1257453-frostx/ "Ir ao perfil de FrostX")
+        
+        8
+        
+        [Dicas de upgrade até R$ 500 no PC: Core 2 Quad Q8400, 3GB DDR2 e GeForce 8400GS](https://www.clubedohardware.com.br/forums/topic/1705779-dicas-de-upgrade-at%C3%A9-r-500-no-pc-core-2-quad-q8400-3gb-ddr2-e-geforce-8400gs/?do=getNewComment "Dicas de upgrade até R$ 500 no PC: Core 2 Quad Q8400, 3GB DDR2 e GeForce 8400GS")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [FrostX](https://www.clubedohardware.com.br/profile/1257453-frostx/ "Ir ao perfil de FrostX")  
+        2 horas atrás
+        
+    * [![pedro_fridrich](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1258058.thumb.jpeg.5b31df47c9b92505ee76d067b1810731.jpeg)](https://www.clubedohardware.com.br/profile/1258058-pedro_fridrich/ "Ir ao perfil de pedro_fridrich")
+        
+        2
+        
+        [Placa-mãe Mancer A520M-DX suporta SSD Corsair MP600 M.2 1TB?](https://www.clubedohardware.com.br/forums/topic/1705777-placa-m%C3%A3e-mancer-a520m-dx-suporta-ssd-corsair-mp600-m2-1tb/?do=getNewComment "Placa-mãe Mancer A520M-DX suporta SSD Corsair MP600 M.2 1TB?")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [pedro\_fridrich](https://www.clubedohardware.com.br/profile/1258058-pedro_fridrich/ "Ir ao perfil de pedro_fridrich")  
+        2 horas atrás
+        
+    * [![oexilado](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c47662%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EO%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1258056-oexilado/ "Ir ao perfil de oexilado")
+        
+        2
+        
+        [Dicas para montar PC para jogos até R$ 3.000,00](https://www.clubedohardware.com.br/forums/topic/1705776-dicas-para-montar-pc-para-jogos-at%C3%A9-r-300000/?do=getNewComment "Dicas para montar PC para jogos até R$ 3.000,00")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [oexilado](https://www.clubedohardware.com.br/profile/1258056-oexilado/ "Ir ao perfil de oexilado")  
+        2 horas atrás
         
     
 
@@ -398,10 +386,10 @@ Clube do Hardware [Powered by Invision Community](https://www.invisioncommunity.
 
 * Criar novo...
 
-[![GRÁTIS: ebook Redes Wi-Fi – 2ª Edição](https://www.clubedohardware.com.br/uploads/attachments/monthly_2023_04/redes-wifi2-capa-popup.jpg.808b72677a2bc3ea7b77c0c66fe6308b.jpg)](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
+[![Ebook grátis: Aprenda a ler resistores e capacitores!](https://www.clubedohardware.com.br/uploads/attachments/monthly_2021_01/Aprenda_a_Ler_Resistores_e_Capacitores-capa-3d-newsletter.thumb.jpg.8e89ae55e5231cd11f4fddb26b4d3aeb.jpg)](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
 
 **EBOOK GRÁTIS!**
 
-[**CLIQUE AQUI E BAIXE AGORA MESMO!**](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
+[**CLIQUE AQUI E BAIXE AGORA MESMO!**](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
 
 ![](https://www.facebook.com/tr?id=1945334499261173&ev=PageView&noscript=1)
