@@ -123,7 +123,7 @@ Main navigation
     
     #### Featured
     
-    [Shop All](https://www.morphe.com/collections/best-gifts) [NEW Holiday Drama](https://www.morphe.com/pages/holiday-drama) [Holiday Gift Guide](https://www.morphe.com/pages/holiday-gift-guide) [Gift Sets](https://www.morphe.com/collections/kit-sets) [Exclusive Bundles](https://www.morphe.com/collections/exclusive-bundles)
+    [Shop All](https://www.morphe.com/collections/best-gifts) [NEW Holiday Drama](https://www.morphe.com/pages/holiday-drama) [Holiday Gift Guide](https://www.morphe.com/pages/holiday-gift-guide) [Gift Sets](https://www.morphe.com/collections/kit-sets) [Exclusive Bundles](https://www.morphe.com/collections/exclusive-bundles) [Gift Card](https://www.morphe.com/products/e-gift-card)
     
     #### Gift By Price
     
@@ -309,6 +309,8 @@ Main navigation
     [Gift Sets](https://www.morphe.com/collections/kit-sets)
     
     [Exclusive Bundles](https://www.morphe.com/collections/exclusive-bundles)
+    
+    [Gift Card](https://www.morphe.com/products/e-gift-card)
     
     #### Gift By Price 
     
