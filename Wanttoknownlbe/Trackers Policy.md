@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/media/een-noorse-spiraal-n-russische-ufo-en-het-eindrapport-openheid/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/valse-vlag-operaties/oekraiens-neo-nazi-vakantiekamp-voor-jongeren/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
