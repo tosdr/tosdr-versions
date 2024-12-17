@@ -220,7 +220,7 @@ Grenseveien 10,
 
 Related Articles
 
-[Filemail Cookies policy](https://support.filemail.com/en/articles/1896030-filemail-cookies-policy)[Filemail & GDPR](https://support.filemail.com/en/articles/1896082-filemail-gdpr)[Terms and Conditions of Use](https://support.filemail.com/en/articles/9756527-terms-and-conditions-of-use)[Cookies Policy](https://support.filemail.com/en/articles/9756667-cookies-policy)[Security Introduction](https://support.filemail.com/en/articles/9845172-security-introduction)
+[Filemail Cookies policy](https://support.filemail.com/en/articles/1896030-filemail-cookies-policy)[Filemail & GDPR](https://support.filemail.com/en/articles/1896082-filemail-gdpr)[Terms and Conditions of Use](https://support.filemail.com/en/articles/9756527-terms-and-conditions-of-use)[Cookies Policy](https://support.filemail.com/en/articles/9756667-cookies-policy)[Is personal data transferred outside of the EU/EEA?](https://support.filemail.com/en/articles/9844756-is-personal-data-transferred-outside-of-the-eu-eea)
 
 Did this answer your question?
 
