@@ -409,7 +409,7 @@ Submit
 
  [![0034](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/es.svg) +34 (Country Code)](https://spamcalls.net/en/country-code/34)
 
- [![00670](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/tl.svg) +670 (Country Code)](https://spamcalls.net/en/country-code/670)
+ [![0040](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/ro.svg) +40 (Country Code)](https://spamcalls.net/en/country-code/40)
 
  [![0032](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/be.svg) +32 (Country Code)](https://spamcalls.net/en/country-code/32)
 
