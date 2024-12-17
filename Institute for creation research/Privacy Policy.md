@@ -95,65 +95,67 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Back to Genesis
+More Days of Praise
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/andtheInvisibleHand.jpg)](https://www.icr.org/article/speculation-invention-and-the-invis-hand)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/disciples-and-servants)
 
-[Speculation, Invention, and the Invisible Hand](https://www.icr.org/article/speculation-invention-and-the-invis-hand/)
+[Disciples and Servants](https://www.icr.org/article/disciples-and-servants/)
 
-Evolution is broadly and almost unequivocally accepted as fact. Creationists who try to present the evidence contradicting it are often met with “How...
+“The disciple is not above his master, nor the servant above his lord.” (Matthew 10:24) Note the twofold relation of the believer...
 
-BY: [MICHAEL STAMP](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=220)
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/MtHermonFlood.jpg)](https://www.icr.org/article/mtHermon-flood-formed)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/all-the-people)
 
-[Mount Hermon Was Flood-Formed](https://www.icr.org/article/mtHermon-flood-formed/)
+[All the People](https://www.icr.org/article/all-the-people/)
 
-Mount Hermon is a topic that seems to pop up increasingly these days, especially among Christian prophecy and end-times teachers. Much of this interest...
+“And all the people gathered themselves together as one man into the street that was before the water gate; and they spake unto Ezra the scribe...
 
-BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/pterosaurs_nofeathers.jpg)](https://www.icr.org/article/pterosaurs-didnt-have-feathers)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/breath-spirit)
 
-[Pterosaurs Didn't Have Feathers](https://www.icr.org/article/pterosaurs-didnt-have-feathers/)
+[Breath and Spirit](https://www.icr.org/article/breath-spirit/)
 
-Evolutionary scientists have recently claimed that pterosaurs had feathers.1 Pterosaurs were winged reptiles. Although they’re sometimes...
+“Thus saith God the LORD, he that created the heavens, and stretched them out; he that spread forth the earth, and that which cometh out of...
 
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
 Shop Related Products
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/66534950/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/32359/file.jpg)
 
-Living in Light of Genesis - Audiobook](https://store.icr.org/living-in-light-of-genesis-audiobook.html)
+Six Days of Creation](https://store.icr.org/dr-henry-morris-iii-six-days-of-creation.html)
 
-$16.99
+$2.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/16087568/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/7312979/file.jpg)
 
-Ancient and Fossil Bone Collagen Remnants](https://store.icr.org/ancient-and-fossil-bone-collagen-remnants.html)
+Places to Walk](https://store.icr.org/dr-henry-morris-iii-places-to-walk.html)
 
-$29.99
+$0.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/61538914/file.jpg)
+$2.99
 
-Living in Light of Genesis - eBook](https://store.icr.org/living-in-light-of-genesis-ebook.html)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/11926199/file.jpg)
 
-$9.99
+The Book of Beginnings - eBook](https://store.icr.org/the-book-of-beginnings-ebook.html)
 
-$15.99
+$14.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10474325/file.jpg)
+$49.99
 
-Dinosaurs and the Bible](https://store.icr.org/mr-brian-thomas-dinosaurs-and-the-bible.html)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10892599/file.jpg)
+
+Stand Fast](https://store.icr.org/stand-fast.html)
 
 $4.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/49457244/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/32548/file.jpg)
 
-Adam or Apes](https://store.icr.org/adam-or-apes.html)
+Exploring the Evidence for Creation](https://store.icr.org/dr-henry-morris-iii-exploring-the-evidence-for-cre.html)
 
-$12.99
+$13.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
