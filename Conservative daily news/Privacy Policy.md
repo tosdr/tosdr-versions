@@ -1,15 +1,15 @@
-Monday, December 16 2024
+Tuesday, December 17 2024
 
 Breaking News
 
+* [President Joe Biden’s Schedule for Tuesday, December 17, 2024](https://www.conservativedailynews.com/2024/12/president-joe-bidens-schedule-for-tuesday-december-17-2024/)
+* [Inflation is a problem. The Fed must NOT cut interest rates.](https://www.conservativedailynews.com/2024/12/inflation-is-a-problem-the-fed-must-not-cut-interest-rates/)
+* [The Smooth Transition Was Another Biden Fallacy](https://www.conservativedailynews.com/2024/12/the-smooth-transition-was-another-biden-fallacy/)
+* [Medal of Honor Monday: Army Col. Charles P. Murray Jr.](https://www.conservativedailynews.com/2024/12/medal-of-honor-monday-army-col-charles-p-murray-jr/)
 * [House Republicans Finally Putting The Squeeze On Bloated Pentagon Budget](https://www.conservativedailynews.com/2024/12/house-republicans-finally-putting-the-squeeze-on-bloated-pentagon-budget/)
 * [DOGE Must Focus On Big Picture To Achieve Big Change](https://www.conservativedailynews.com/2024/12/doge-must-focus-on-big-picture-to-achieve-big-change/)
 * [Pam Bondi Will Clean Up The DOJ And Bring Back Justice For All](https://www.conservativedailynews.com/2024/12/pam-bondi-will-clean-up-the-doj-and-bring-back-justice-for-all/)
 * [Norway Provides An Object Lesson On How Not To Make Energy Policy](https://www.conservativedailynews.com/2024/12/norway-provides-an-object-lesson-on-how-not-to-make-energy-policy/)
-* [Biden Official Signals Support For Two Of RFK’s Signature Issues On His Way Out The Door](https://www.conservativedailynews.com/2024/12/biden-official-signals-support-for-two-of-rfks-signature-issues-on-his-way-out-the-door/)
-* [125th Playing Of The Game & 1,500 Days And Posts](https://www.conservativedailynews.com/2024/12/125th-playing-of-the-game-1500-days-and-posts/)
-* [Michigan Dems Rush Gun Control Through State Legislature Ahead Of Republican House Majority](https://www.conservativedailynews.com/2024/12/michigan-dems-rush-gun-control-through-state-legislature-ahead-of-republican-house-majority/)
-* [What a Difference a Day (Election Day, Nov. 5, 2024) Makes](https://www.conservativedailynews.com/2024/12/what-a-difference-a-day-election-day-nov-5-2024-makes/)
 
 * [RSS](https://www.conservativedailynews.com/news-feeds/)
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
@@ -130,6 +130,30 @@ Orange = One-Time Donations
 
 Recent Posts
 
+* [![Joe Biden missing sleeping](https://www.conservativedailynews.com/wp-content/uploads/2024/12/stg121524dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/president-joe-bidens-schedule-for-tuesday-december-17-2024/)
+    
+    [President Joe Biden’s Schedule for Tuesday, December 17, 2024](https://www.conservativedailynews.com/2024/12/president-joe-bidens-schedule-for-tuesday-december-17-2024/)
+    
+    December 17, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/inflation-warning-sign-220x150.png)](https://www.conservativedailynews.com/2024/12/inflation-is-a-problem-the-fed-must-not-cut-interest-rates/)
+    
+    [Inflation is a problem. The Fed must NOT cut interest rates.](https://www.conservativedailynews.com/2024/12/inflation-is-a-problem-the-fed-must-not-cut-interest-rates/)
+    
+    December 16, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/IMG_5921-220x150.jpeg)](https://www.conservativedailynews.com/2024/12/the-smooth-transition-was-another-biden-fallacy/)
+    
+    [The Smooth Transition Was Another Biden Fallacy](https://www.conservativedailynews.com/2024/12/the-smooth-transition-was-another-biden-fallacy/)
+    
+    December 16, 2024
+    
+* [![A man in uniform and metal helmet stands at attention while wearing a medal around his neck.](https://www.conservativedailynews.com/wp-content/uploads/2024/12/450705-A-D0439-008-220x150.jpg)](https://www.conservativedailynews.com/2024/12/medal-of-honor-monday-army-col-charles-p-murray-jr/)
+    
+    [Medal of Honor Monday: Army Col. Charles P. Murray Jr.](https://www.conservativedailynews.com/2024/12/medal-of-honor-monday-army-col-charles-p-murray-jr/)
+    
+    December 16, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2020/11/confused-220x150.jpg)](https://www.conservativedailynews.com/2024/12/13-practical-tips-to-cut-pet-food-costs-without-sacrificing-quality/)
     
     [13 Practical Tips to Cut Pet Food Costs Without Sacrificing Quality](https://www.conservativedailynews.com/2024/12/13-practical-tips-to-cut-pet-food-costs-without-sacrificing-quality/)
@@ -154,33 +178,12 @@ Recent Posts
     
     December 15, 2024
     
-* [![Biden energy policy](https://www.conservativedailynews.com/wp-content/uploads/2023/03/mrz030523dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/norway-provides-an-object-lesson-on-how-not-to-make-energy-policy/)
-    
-    [Norway Provides An Object Lesson On How Not To Make Energy Policy](https://www.conservativedailynews.com/2024/12/norway-provides-an-object-lesson-on-how-not-to-make-energy-policy/)
-    
-    December 15, 2024
-    
-* [![FDA logo](https://www.conservativedailynews.com/wp-content/uploads/2018/02/FDA-logo.jpg)](https://www.conservativedailynews.com/2024/12/biden-official-signals-support-for-two-of-rfks-signature-issues-on-his-way-out-the-door/)
-    
-    [Biden Official Signals Support For Two Of RFK’s Signature Issues On His Way Out The Door](https://www.conservativedailynews.com/2024/12/biden-official-signals-support-for-two-of-rfks-signature-issues-on-his-way-out-the-door/)
-    
-    December 15, 2024
-    
-* [![Joe Biden missing sleeping](https://www.conservativedailynews.com/wp-content/uploads/2024/12/stg121524dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/the-year-we-had-no-president/)
-    
-    [The Year We Had No President](https://www.conservativedailynews.com/2024/12/the-year-we-had-no-president/)
-    
-    December 15, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/IMG_5917-220x150.jpeg)](https://www.conservativedailynews.com/2024/12/125th-playing-of-the-game-1500-days-and-posts/)
-    
-    [125th Playing Of The Game & 1,500 Days And Posts](https://www.conservativedailynews.com/2024/12/125th-playing-of-the-game-1500-days-and-posts/)
-    
-    December 15, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [TFB Review: Nocpix VISTA H50 Thermal Monocular](https://www.thegunpage.com/tfb-review-nocpix-vista-h50-thermal-monocular/10612546)
+* [POTD: Recon Marines with M27RWK in Latvia](https://www.thegunpage.com/potd-recon-marines-with-m27rwk-in-latvia/10612547)
+* [The Rimfire Report: NRL22 – The Poor Man's Precision Shooting Sport](https://www.thegunpage.com/the-rimfire-report-nrl22-the-poor-mans-precision-shooting-sport/10612548)
 * [John Commerford Appointed Interim Executive Director of NRA-ILA](https://www.thegunpage.com/john-commerford-appointed-interim-executive-director-of-nra-ila/10612542)
 * [Low Back Pressure Suppressors – Do They Really Make A Difference?](https://www.thegunpage.com/low-back-pressure-suppressors-do-they-really-make-a-difference/10612543)
 * [A Pilgrimage to the CMP North Store](https://www.thegunpage.com/a-pilgrimage-to-the-cmp-north-store/10612540)
@@ -188,9 +191,6 @@ Recent Posts
 * [Several New Ruger RXM Holsters From DeSantis Gunhide](https://www.thegunpage.com/several-new-ruger-rxm-holsters-from-desantis-gunhide/10612539)
 * [MI: Anti-gun Bills Moving in the House](https://www.thegunpage.com/mi-anti-gun-bills-moving-in-the-house/10612532)
 * [While Some Clamor for More Gun Laws, Judges Aren’t Enforcing Existing Laws](https://www.thegunpage.com/while-some-clamor-for-more-gun-laws-judges-arent-enforcing-existing-laws/10612530)
-* [TFB Weekly Web Deals 118: Deals for December 16th, 2024](https://www.thegunpage.com/tfb-weekly-web-deals-118-deals-for-december-16th-2024/10612529)
-* [Biden DOJ Rolls Out New Gun Control Measures](https://www.thegunpage.com/biden-doj-rolls-out-new-gun-control-measures/10612527)
-* [U.S. Army Marksmanship Unit To Lead Training At 2025 CMP Talladega Spring Classic](https://www.thegunpage.com/u-s-army-marksmanship-unit-to-lead-training-at-2025-cmp-talladega-spring-classic/10612533)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
