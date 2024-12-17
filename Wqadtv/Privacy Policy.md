@@ -30,14 +30,17 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/e102134e-1377-4fe0-88be-661de0fdd482/20241015T233049/e102134e-1377-4fe0-88be-661de0fdd482_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e102134e-1377-4fe0-88be-661de0fdd482/20241015T233049/e102134e-1377-4fe0-88be-661de0fdd482_360x203.jpg)](https://www.wqad.com/article/news/local/rock-island-vape-shop-moratorium-extended-june-2025/526-aa98a3d1-16a5-4cbd-8c39-c0d28feebecf)
         
-        #### [Boil orders in the Quad Cities region](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
+        #### [Rock Island vape shop moratorium extended to June 30, 2025](https://www.wqad.com/article/news/local/rock-island-vape-shop-moratorium-extended-june-2025/526-aa98a3d1-16a5-4cbd-8c39-c0d28feebecf)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/d903ddac-aaa4-482d-b09f-d9961a916434/d903ddac-aaa4-482d-b09f-d9961a916434_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d903ddac-aaa4-482d-b09f-d9961a916434/d903ddac-aaa4-482d-b09f-d9961a916434_360x203.jpg)](https://www.wqad.com/article/news/local/good-news/mr-thanksgiving-bob-vogelbaugh-moline-illinois-key-to-the-city/526-569f7e7f-87fd-4380-b8f6-c27017a0e1e4)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/7a5124cd-7de9-4516-acbd-58163b3c3d5d/20241217T220741/7a5124cd-7de9-4516-acbd-58163b3c3d5d_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/7a5124cd-7de9-4516-acbd-58163b3c3d5d/20241217T220741/7a5124cd-7de9-4516-acbd-58163b3c3d5d_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/bettendorf-police-chief-keith-kimball-retirement/526-a6a4bbfb-f021-45a8-a461-d5648b352da5)
         
-        #### [Mr. Thanksgiving will receive Key to the City during Tuesday city council meeting in Moline](https://www.wqad.com/article/news/local/good-news/mr-thanksgiving-bob-vogelbaugh-moline-illinois-key-to-the-city/526-569f7e7f-87fd-4380-b8f6-c27017a0e1e4)
+        #### [Bettendorf police chief to retire in April](https://www.wqad.com/article/news/local/public-safety/bettendorf-police-chief-keith-kimball-retirement/526-a6a4bbfb-f021-45a8-a461-d5648b352da5) [![](https://media.tegna-media.com/assets/WQAD/images/7a5124cd-7de9-4516-acbd-58163b3c3d5d/20241217T220741/7a5124cd-7de9-4516-acbd-58163b3c3d5d_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/7a5124cd-7de9-4516-acbd-58163b3c3d5d/20241217T220741/7a5124cd-7de9-4516-acbd-58163b3c3d5d_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/bettendorf-police-chief-keith-kimball-retirement/526-a6a4bbfb-f021-45a8-a461-d5648b352da5)
         
+        #### [Bettendorf police chief announces retirement](https://www.wqad.com/article/news/local/public-safety/bettendorf-police-chief-keith-kimball-retirement/526-a6a4bbfb-f021-45a8-a461-d5648b352da5) [![](https://media.tegna-media.com/assets/WQAD/images/7a5124cd-7de9-4516-acbd-58163b3c3d5d/20241217T220741/7a5124cd-7de9-4516-acbd-58163b3c3d5d_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/7a5124cd-7de9-4516-acbd-58163b3c3d5d/20241217T220741/7a5124cd-7de9-4516-acbd-58163b3c3d5d_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/bettendorf-police-chief-keith-kimball-retirement/526-a6a4bbfb-f021-45a8-a461-d5648b352da5)
+        
+        #### [Bettendorf's police chief is retiring](https://www.wqad.com/article/news/local/public-safety/bettendorf-police-chief-keith-kimball-retirement/526-a6a4bbfb-f021-45a8-a461-d5648b352da5)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -58,11 +61,11 @@ Navigation
     
     *  [![](https://media.tegna-media.com/assets/WQAD/images/35afca09-805b-4cb6-a7ba-96feb0103649/20241217T131440/35afca09-805b-4cb6-a7ba-96feb0103649_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/35afca09-805b-4cb6-a7ba-96feb0103649/20241217T131440/35afca09-805b-4cb6-a7ba-96feb0103649_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Quiet skies and mild temperatures continue Tuesday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Snow and rain showers tracking through overnight](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-    *  [![](https://media.tegna-media.com/assets/CCT/images/a6a79638-65d3-46fc-a550-d1d6da26d69b/a6a79638-65d3-46fc-a550-d1d6da26d69b_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/a6a79638-65d3-46fc-a550-d1d6da26d69b/a6a79638-65d3-46fc-a550-d1d6da26d69b_360x203.jpg)](https://www.wqad.com/article/news/nation-world/winter-solstice-shortest-day-of-the-year-2024/507-18e8fd4e-8808-496d-bda3-cfcc289778a2)
+    *  [![](https://media.tegna-media.com/assets/CCT/images/ab6d23a8-62f5-4a08-8169-d57b365d4875/20241217T202445/ab6d23a8-62f5-4a08-8169-d57b365d4875_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/ab6d23a8-62f5-4a08-8169-d57b365d4875/20241217T202445/ab6d23a8-62f5-4a08-8169-d57b365d4875_360x203.jpg)](https://www.wqad.com/article/news/nation-world/winter-solstice-2024-northern-hemisphere/507-dc38b5c6-b1b0-4062-87f3-88523eb33351)
         
-        #### [Winter solstice 2024: What it means and why it's the shortest day of the year](https://www.wqad.com/article/news/nation-world/winter-solstice-shortest-day-of-the-year-2024/507-18e8fd4e-8808-496d-bda3-cfcc289778a2)
+        #### [The winter solstice is almost here, the Northern Hemisphere's darkest day](https://www.wqad.com/article/news/nation-world/winter-solstice-2024-northern-hemisphere/507-dc38b5c6-b1b0-4062-87f3-88523eb33351)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -99,7 +102,7 @@ Davenport, IA »
 
 34°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
