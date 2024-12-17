@@ -251,23 +251,23 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Trump picks businessman George Glass as Japan ambassador](https://www.japantimes.co.jp/news/2024/12/17/japan/politics/trump-japan-george-glass-ambassador/ "Trump picks businessman George Glass as Japan ambassador")
+[Major quake crushes buildings in Vanuatu capital, bodies seen](https://www.japantimes.co.jp/news/2024/12/17/asia-pacific/vanuatu-earthquake/ "Major quake crushes buildings in Vanuatu capital, bodies seen")
 
-34 mins ago
+8 mins ago
 
-[Starmer’s China reset plans get undercut by royal access scandal](https://www.japantimes.co.jp/news/2024/12/17/world/politics/starmer-china-royal-access-scandal/ "Starmer’s China reset plans get undercut by royal access scandal")
+[Taiwan’s bullet train a testament to shinkansen’s export potential](https://www.japantimes.co.jp/business/2024/12/17/taiwan-hsr-shinkansen/ "Taiwan’s bullet train a testament to shinkansen’s export potential")
 
-1 hour ago
+27 mins ago
 
-[New fencing installed to help manage tourists at Mount Fuji photo spot](https://www.japantimes.co.jp/news/2024/12/17/japan/mount-fuji-fence/ "New fencing installed to help manage tourists at Mount Fuji photo spot")
-
-1 hour ago
-
-[Chipmaker Kioxia faces a tough debut in Tokyo’s busy IPO arena](https://www.japantimes.co.jp/business/2024/12/17/companies/japan-kioxia-ipo-tough-debut/ "Chipmaker Kioxia faces a tough debut in Tokyo’s busy IPO arena")
+[Cambodian interns accuse farmer of sexual abuse and wage theft](https://www.japantimes.co.jp/news/2024/12/17/japan/crime-legal/cambodia-technical-interns-lawsuit/ "Cambodian interns accuse farmer of sexual abuse and wage theft")
 
 1 hour ago
 
-[Germany's Scholz loses confidence vote, triggering early elections](https://www.japantimes.co.jp/news/2024/12/17/world/politics/germany-scholz-confidence-elections/ "Germany's Scholz loses confidence vote, triggering early elections")
+[Tajik migrants fear for income and security as Russia reels from terror attack](https://www.japantimes.co.jp/news/2024/12/17/world/politics/russia-tajik-economic-security-risks/ "Tajik migrants fear for income and security as Russia reels from terror attack")
+
+1 hour ago
+
+[Japan to let investigators go undercover to crack down on _yami baito_](https://www.japantimes.co.jp/news/2024/12/17/japan/crime-legal/yamibaito-first-ministerial-meeting/ "Japan to let investigators go undercover to crack down on yami baito")
 
 1 hour ago
 
