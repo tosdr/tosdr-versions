@@ -664,12 +664,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fake-E-Mails: Betrüger geben sich als Finanz­aufsicht aus](https://www.test.de/Fake-E-Mails-Betrueger-geben-sich-als-Finanzaufsicht-aus-6168134-0/ "Fake-E-Mails - Betrüger geben sich als Finanzaufsicht aus")
-* [L&G Gerd Kommer Multifactor Equity ETF: Breite Streuung und etwas Weihrauch](https://www.test.de/LG-Gerd-Kommer-Multifactor-Equity-ETF-Breite-Streuung-und-etwas-Weihrauch-6029520-0/ "L&G Gerd Kommer Multifactor Equity ETF - Breite Streuung und etwas Weihrauch")
-* [Heiz­decken im Test: Mit denen werden wir warm](https://www.test.de/Heizdecken-im-Test-6157422-0/ "Heizdecken im Test - Mit denen werden wir warm")
-* [Stürze im Alter: Sorge vor Stürzen in Griff bekommen](https://www.test.de/Stuerze-im-Alter-Sorge-vor-Stuerzen-in-Griff-bekommen-6104640-0/ "Stürze im Alter - Sorge vor Stürzen in Griff bekommen")
-* [Krypto-Währungen: In vier Schritten Krypto-Broker einrichten](https://www.test.de/Krypto-Waehrungen-Krypto-Broker-einrichten-in-vier-Schritten-6159811-0/ "Krypto-Währungen - In vier Schritten Krypto-Broker einrichten")
-* [Digi­taler Euro: Gefälschte E-Mail mit KfW-Angebot](https://www.test.de/Digitaler-Euro-Gefaelschte-E-Mail-mit-KfW-Angebot-6119446-0/ "Digitaler Euro - Gefälschte E-Mail mit KfW-Angebot")
+* [Gold als Depotbei­mischung: Mehr Stabilität, aber auch weniger Rendite](https://www.test.de/Gold-als-Depotbeimischung-Mehr-Stabilitaet-aber-auch-weniger-Rendite-6159011-0/ "Gold als Depotbeimischung - Mehr Stabilität, aber auch weniger Rendite")
+* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
+* [Smartwatches: Uhren täuschen Blut­zucker-Messung vor](https://www.test.de/Smartwatches-Uhren-taeuschen-Blutzucker-Messung-vor-6124003-0/ "Smartwatches - Uhren täuschen Blutzucker-Messung vor")
+* [Teekannen im Test: Pannen bei den Kannen](https://www.test.de/Teekannen-im-Test-Pannen-bei-den-Kannen-5953366-0/ "Teekannen im Test - Pannen bei den Kannen")
+* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
+* [PC-Anschlüsse: Die 10 wichtigsten Laptop-Anschlüsse](https://www.test.de/PC-Anschluesse-Die-10-wichtigsten-Laptop-Anschluesse-5974253-0/ "PC-Anschlüsse - Die 10 wichtigsten Laptop-Anschlüsse")
 
 Weitere Informationen
 
@@ -3082,12 +3082,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fake-E-Mails: Betrüger geben sich als Finanz­aufsicht aus](https://www.test.de/Fake-E-Mails-Betrueger-geben-sich-als-Finanzaufsicht-aus-6168134-0/ "Fake-E-Mails - Betrüger geben sich als Finanzaufsicht aus")
-* [L&G Gerd Kommer Multifactor Equity ETF: Breite Streuung und etwas Weihrauch](https://www.test.de/LG-Gerd-Kommer-Multifactor-Equity-ETF-Breite-Streuung-und-etwas-Weihrauch-6029520-0/ "L&G Gerd Kommer Multifactor Equity ETF - Breite Streuung und etwas Weihrauch")
-* [Heiz­decken im Test: Mit denen werden wir warm](https://www.test.de/Heizdecken-im-Test-6157422-0/ "Heizdecken im Test - Mit denen werden wir warm")
-* [Stürze im Alter: Sorge vor Stürzen in Griff bekommen](https://www.test.de/Stuerze-im-Alter-Sorge-vor-Stuerzen-in-Griff-bekommen-6104640-0/ "Stürze im Alter - Sorge vor Stürzen in Griff bekommen")
-* [Krypto-Währungen: In vier Schritten Krypto-Broker einrichten](https://www.test.de/Krypto-Waehrungen-Krypto-Broker-einrichten-in-vier-Schritten-6159811-0/ "Krypto-Währungen - In vier Schritten Krypto-Broker einrichten")
-* [Digi­taler Euro: Gefälschte E-Mail mit KfW-Angebot](https://www.test.de/Digitaler-Euro-Gefaelschte-E-Mail-mit-KfW-Angebot-6119446-0/ "Digitaler Euro - Gefälschte E-Mail mit KfW-Angebot")
+* [Gold als Depotbei­mischung: Mehr Stabilität, aber auch weniger Rendite](https://www.test.de/Gold-als-Depotbeimischung-Mehr-Stabilitaet-aber-auch-weniger-Rendite-6159011-0/ "Gold als Depotbeimischung - Mehr Stabilität, aber auch weniger Rendite")
+* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
+* [Smartwatches: Uhren täuschen Blut­zucker-Messung vor](https://www.test.de/Smartwatches-Uhren-taeuschen-Blutzucker-Messung-vor-6124003-0/ "Smartwatches - Uhren täuschen Blutzucker-Messung vor")
+* [Teekannen im Test: Pannen bei den Kannen](https://www.test.de/Teekannen-im-Test-Pannen-bei-den-Kannen-5953366-0/ "Teekannen im Test - Pannen bei den Kannen")
+* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
+* [PC-Anschlüsse: Die 10 wichtigsten Laptop-Anschlüsse](https://www.test.de/PC-Anschluesse-Die-10-wichtigsten-Laptop-Anschluesse-5974253-0/ "PC-Anschlüsse - Die 10 wichtigsten Laptop-Anschlüsse")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -3138,12 +3138,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fake-E-Mails: Betrüger geben sich als Finanz­aufsicht aus](https://www.test.de/Fake-E-Mails-Betrueger-geben-sich-als-Finanzaufsicht-aus-6168134-0/ "Fake-E-Mails - Betrüger geben sich als Finanzaufsicht aus")
-* [L&G Gerd Kommer Multifactor Equity ETF: Breite Streuung und etwas Weihrauch](https://www.test.de/LG-Gerd-Kommer-Multifactor-Equity-ETF-Breite-Streuung-und-etwas-Weihrauch-6029520-0/ "L&G Gerd Kommer Multifactor Equity ETF - Breite Streuung und etwas Weihrauch")
-* [Heiz­decken im Test: Mit denen werden wir warm](https://www.test.de/Heizdecken-im-Test-6157422-0/ "Heizdecken im Test - Mit denen werden wir warm")
-* [Stürze im Alter: Sorge vor Stürzen in Griff bekommen](https://www.test.de/Stuerze-im-Alter-Sorge-vor-Stuerzen-in-Griff-bekommen-6104640-0/ "Stürze im Alter - Sorge vor Stürzen in Griff bekommen")
-* [Krypto-Währungen: In vier Schritten Krypto-Broker einrichten](https://www.test.de/Krypto-Waehrungen-Krypto-Broker-einrichten-in-vier-Schritten-6159811-0/ "Krypto-Währungen - In vier Schritten Krypto-Broker einrichten")
-* [Digi­taler Euro: Gefälschte E-Mail mit KfW-Angebot](https://www.test.de/Digitaler-Euro-Gefaelschte-E-Mail-mit-KfW-Angebot-6119446-0/ "Digitaler Euro - Gefälschte E-Mail mit KfW-Angebot")
+* [Gold als Depotbei­mischung: Mehr Stabilität, aber auch weniger Rendite](https://www.test.de/Gold-als-Depotbeimischung-Mehr-Stabilitaet-aber-auch-weniger-Rendite-6159011-0/ "Gold als Depotbeimischung - Mehr Stabilität, aber auch weniger Rendite")
+* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
+* [Smartwatches: Uhren täuschen Blut­zucker-Messung vor](https://www.test.de/Smartwatches-Uhren-taeuschen-Blutzucker-Messung-vor-6124003-0/ "Smartwatches - Uhren täuschen Blutzucker-Messung vor")
+* [Teekannen im Test: Pannen bei den Kannen](https://www.test.de/Teekannen-im-Test-Pannen-bei-den-Kannen-5953366-0/ "Teekannen im Test - Pannen bei den Kannen")
+* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
+* [PC-Anschlüsse: Die 10 wichtigsten Laptop-Anschlüsse](https://www.test.de/PC-Anschluesse-Die-10-wichtigsten-Laptop-Anschluesse-5974253-0/ "PC-Anschlüsse - Die 10 wichtigsten Laptop-Anschlüsse")
 
 Neueste Tests
 
@@ -3156,12 +3156,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fake-E-Mails: Betrüger geben sich als Finanz­aufsicht aus](https://www.test.de/Fake-E-Mails-Betrueger-geben-sich-als-Finanzaufsicht-aus-6168134-0/ "Fake-E-Mails - Betrüger geben sich als Finanzaufsicht aus")
-* [L&G Gerd Kommer Multifactor Equity ETF: Breite Streuung und etwas Weihrauch](https://www.test.de/LG-Gerd-Kommer-Multifactor-Equity-ETF-Breite-Streuung-und-etwas-Weihrauch-6029520-0/ "L&G Gerd Kommer Multifactor Equity ETF - Breite Streuung und etwas Weihrauch")
-* [Heiz­decken im Test: Mit denen werden wir warm](https://www.test.de/Heizdecken-im-Test-6157422-0/ "Heizdecken im Test - Mit denen werden wir warm")
-* [Stürze im Alter: Sorge vor Stürzen in Griff bekommen](https://www.test.de/Stuerze-im-Alter-Sorge-vor-Stuerzen-in-Griff-bekommen-6104640-0/ "Stürze im Alter - Sorge vor Stürzen in Griff bekommen")
-* [Krypto-Währungen: In vier Schritten Krypto-Broker einrichten](https://www.test.de/Krypto-Waehrungen-Krypto-Broker-einrichten-in-vier-Schritten-6159811-0/ "Krypto-Währungen - In vier Schritten Krypto-Broker einrichten")
-* [Digi­taler Euro: Gefälschte E-Mail mit KfW-Angebot](https://www.test.de/Digitaler-Euro-Gefaelschte-E-Mail-mit-KfW-Angebot-6119446-0/ "Digitaler Euro - Gefälschte E-Mail mit KfW-Angebot")
+* [Gold als Depotbei­mischung: Mehr Stabilität, aber auch weniger Rendite](https://www.test.de/Gold-als-Depotbeimischung-Mehr-Stabilitaet-aber-auch-weniger-Rendite-6159011-0/ "Gold als Depotbeimischung - Mehr Stabilität, aber auch weniger Rendite")
+* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
+* [Smartwatches: Uhren täuschen Blut­zucker-Messung vor](https://www.test.de/Smartwatches-Uhren-taeuschen-Blutzucker-Messung-vor-6124003-0/ "Smartwatches - Uhren täuschen Blutzucker-Messung vor")
+* [Teekannen im Test: Pannen bei den Kannen](https://www.test.de/Teekannen-im-Test-Pannen-bei-den-Kannen-5953366-0/ "Teekannen im Test - Pannen bei den Kannen")
+* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
+* [PC-Anschlüsse: Die 10 wichtigsten Laptop-Anschlüsse](https://www.test.de/PC-Anschluesse-Die-10-wichtigsten-Laptop-Anschluesse-5974253-0/ "PC-Anschlüsse - Die 10 wichtigsten Laptop-Anschlüsse")
 
 Stiftung Warentest
 
