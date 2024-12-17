@@ -243,6 +243,28 @@ Jump right in and you will get your printable ideas by email:
 
 ![](https://forms.aweber.com/form/displays.htm?id=TBxsTCxsnAzM)
 
+[💫 Here’s my one-day bucket list itinerary for ![💫 Here’s my one-day bucket list itinerary for REDDING, CALIFORNIA 💫
+1️⃣ Start your morning @evergreen.rdd with amazing coffee and seasonal avocado toast. Bonus is if you make it for $5 Waffle Sundays aka waffle church.
+2️⃣ Take the Shasta Dam Tour – It’s free, it’s massive, and yes, you can walk on top of it and go inside.
+3️⃣ Explore @LakeShastaCaverns – A cool boat rides over the lake and 612 stairs lead to limestone caves with amazing formations. Worth every step!
+4️⃣ Lunch at @pipeline_craft_taps: You cannot skip the duck fat fries—trust me on this one. But the seared ahi bowl? So good I actually went back for it a second time!
+5️⃣ Turtle Bay Exploration Park (@turtlebay_redding) – Museums, wildlife, and a stroll across the iconic Sundial Bridge. Oh, and say hi 👋 to Timber the beaver for me!
+6️⃣ Explore & Shop Downtown Redding: Street art and cute boutiques galore (my favorite was @ridecarousel who had me with their trendy clothes and dainty necklaces).
+7️⃣ Taste wine @new_clairvaux_vineyard_redding (I loved their Primitivo 🍷)! If you’re more of a beer person grab a flight  @finaldraftbrewingco
+8️⃣ Dinner at Paradisio –  I had the tofu curry that had just the right amount of spice, but the elk burger looked delicious too!
+👉 Save for your next trip to Redding, California 👈](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
+
+![💫 Here’s my one-day bucket list itinerary for REDDING, CALIFORNIA 💫
+1️⃣ Start your morning @evergreen.rdd with amazing coffee and seasonal avocado toast. Bonus is if you make it for $5 Waffle Sundays aka waffle church.
+2️⃣ Take the Shasta Dam Tour – It’s free, it’s massive, and yes, you can walk on top of it and go inside.
+3️⃣ Explore @LakeShastaCaverns – A cool boat rides over the lake and 612 stairs lead to limestone caves with amazing formations. Worth every step!
+4️⃣ Lunch at @pipeline_craft_taps: You cannot skip the duck fat fries—trust me on this one. But the seared ahi bowl? So good I actually went back for it a second time!
+5️⃣ Turtle Bay Exploration Park (@turtlebay_redding) – Museums, wildlife, and a stroll across the iconic Sundial Bridge. Oh, and say hi 👋 to Timber the beaver for me!
+6️⃣ Explore & Shop Downtown Redding: Street art and cute boutiques galore (my favorite was @ridecarousel who had me with their trendy clothes and dainty necklaces).
+7️⃣ Taste wine @new_clairvaux_vineyard_redding (I loved their Primitivo 🍷)! If you’re more of a beer person grab a flight  @finaldraftbrewingco
+8️⃣ Dinner at Paradisio –  I had the tofu curry that had just the right amount of spice, but the elk burger looked delicious too!
+👉 Save for your next trip to Redding, California 👈](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DDpSgWivHqF/) 
+
 [If you’re a foodie like me and heading to the #N ![If you’re a foodie like me and heading to the #NorthernCalifornia city of Redding, you might be surprised by the food scene! I’ve done the research 😋 and these are my favorite spots to grab a bite:
 ▪️ Paradisio: Cozy vibes, bold flavors—try the tofu curry or the elk burger 
 ▪️ @pipeline_craft_taps: Absolutely, positively don’t skip the duck fat fries, but the seared ahi bowl is yummy too (I actually went back a second time to get it!).
@@ -310,18 +332,6 @@ From iconic Golden Gate vistas to Eastern Mediterranean delights, here’s how t
 9️⃣ Have an unforgettable Dinner at @Dalidasf, an eastern mediterranean restaurant where it’s mandatory to start your meal with their breaking bread pita and end it with their layered baklava.
 1️⃣0️⃣ End on a playful note @Presidio_Bowl, where your face turns into hilarious animations after every frame.
 1️⃣1️⃣ Go back to the @InnatthePresidio for a nightcap and some well-earned rest.](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DDPhGv9pW3d/) 
-
-[✨ Looking for a cozy holiday escape in San Franc ![✨ Looking for a cozy holiday escape in San Francisco? ✨ 
-I just had the perfect little getaway @innatthepresidio and it had everything I needed to get into the spirit.
-It was filled with twinkling holiday décor, a cozy room that was hard to leave, evening wine and cheese by the fire pit (my favorite time of the day!), and a breakfast that sets you up to explore the Presidio the way it deserves to be explored—enjoying the outdoors with friends and family 🥰
-PS: The Lodge at the Presidio (@presidiolodging) is just as festive 🎄
-👉 Stay tuned for my One-Day Bucket List Itinerary for the Presidio, San Francisco.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
-
-![✨ Looking for a cozy holiday escape in San Francisco? ✨ 
-I just had the perfect little getaway @innatthepresidio and it had everything I needed to get into the spirit.
-It was filled with twinkling holiday décor, a cozy room that was hard to leave, evening wine and cheese by the fire pit (my favorite time of the day!), and a breakfast that sets you up to explore the Presidio the way it deserves to be explored—enjoying the outdoors with friends and family 🥰
-PS: The Lodge at the Presidio (@presidiolodging) is just as festive 🎄
-👉 Stay tuned for my One-Day Bucket List Itinerary for the Presidio, San Francisco.](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DDKiw-OyPg_/) 
 
 [Follow on Instagram](https://www.instagram.com/bucketlistjourney/)
 
