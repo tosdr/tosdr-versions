@@ -18,8 +18,6 @@
     * [News and Events](https://precisefp.com/media)
     * [Careers](https://docupace.com/careers)
 
-Menu
-
 * [Product](https://precisefp.com/features)
     * [Features](https://precisefp.com/features)
     * [How It Works](https://precisefp.com/how-it-works/)
