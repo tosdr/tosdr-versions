@@ -31,992 +31,1108 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-¿A qué hora y dónde ver los premios The Best de la FIFA?
-========================================================
+Barcelona Sporting Club presentó tres camisetas para el centenario
+==================================================================
 
-Los premios The Best de la FIFA se llevarán a cabo durante este martes 17 de diciembre del 2024 y se podrán ver en Ecuador.
----------------------------------------------------------------------------------------------------------------------------
+Barcelona Sporting Club jugará la Liga Pro, Copa Ecuador y Libertadores en el 2025.
+-----------------------------------------------------------------------------------
 
-![El trofeo The Best que entrega la FIFA a lo mejor del fútbol.](https://www.elcomercio.com/wp-content/uploads/2023/02/best-scaled.jpg)
+![Álex Rangel (d) y Braian Oyola en el Clásico del Astillero en el estadio Monumental.](https://www.elcomercio.com/wp-content/uploads/2024/12/camisetas_cien_1.jpg)
 
-Los ganadores de los premios **‘The Best’** de la FIFA, a los mejores jugadores y jugadoras, entrenadores y entrenadoras, goles y aficionados de 2024, se conocerán este martes en un acto virtual que tendrá lugar en Doha (Catar).
+Las noticias en **Barcelona Sporting Club** están a la orden del día este martes 17 de diciembre de 2024, primero en lo deportivo, y luego en lo referente a la indumentaria que utilizará en el 2025, año de su centenario.
 
-La cita, que se restransmitirá en directo por **FIFA.com**, tendrá lugar en una cena de gala, en la Aspire Academy, en la víspera de la final de la Copa Intercontinental que, el miércoles, disputarán el Real Madrid y el mexicano Pachuca.
+En las primeras horas de la mañana, **Barcelona SC ratificó a Segundo Alejandro Castillo** como su entrenador. El contrato del ecuatoriano será por un año y aún falta conocer el nombre de su asistente técnico.
 
 ### Más noticias:
 
-* [Lamine Yamal gana el Golden Boy y Lionel Messi lo felicita](https://www.elcomercio.com/deportes/lionel-messi-lamine-yamal-golden-boy.html "Lamine Yamal gana el Golden Boy y Lionel Messi lo felicita")
-* [Messi y Cristiano, nominados al mejor del mundo en 2024](https://www.elcomercio.com/deportes/futbol/the-best-messi-cristiano-nominados.html "Messi y Cristiano, nominados al mejor del mundo en 2024")
-* [Rodri ganó el Balón de Oro a Vinícius solo por 41 puntos](https://www.elcomercio.com/deportes/futbol/puntos-rodri-vinicius-balon-oro.html "Rodri ganó el Balón de Oro a Vinícius solo por 41 puntos")
-
-En la misma, con motivo del 20º aniversario de la academia, estarán distintos mandatarios, incluido el presidente de la FIFA, **Gianni Infantino**, miembros del Consejo de la FIFA, FIFA Legends y otros representantes locales y regionales, además de otras personalidades del mundo del fútbol.
-
-El evento se llevará a cabo a las **12:00** de Ecuador[.](https://es.wikipedia.org/wiki/Premio_The_Best_FIFA "https://es.wikipedia.org/wiki/Premio_The_Best_FIFA")
-
-Nominadas al Premio ‘The Best’ a la Jugadora de la FIFA
--------------------------------------------------------
-
-Aitana Bonmatí (España/Barcelona)  
-Barbra Banda (Zambia y Shanghái Shengli/Orlando Pride)  
-Caroline Graham Hansen (Noruega/Barcelona)  
-Keira Walsh (Inglaterra/Barcelona)  
-Khadija Shaw (Jamaica/Manchester City)  
-Lauren Hemp (Inglaterra/Manchester City)  
-Lindsey Horan (Estados Unidos/Olympique de Lyon)  
-Lucy Bronze (Inglaterra/Barcelona/Chelsea)  
-Mallory Swanson (Estados Unidos/Chicago Red Stars)  
-Mariona Caldentey (España/Barcelona/Arsenal)  
-Naomi Girma (Estados Unidos/San Diego Wave)  
-Ona Batlle (España/Barcelona)  
-Salma Paralluelo (España/Barcelona)  
-Sophia Smith (Estados Unidos/Portland Thorns)  
-Tabitha Chawinga (Malaui/París Saint-Germain/Olympique de Lyon  
-Trinity Rodman (Estados Unidos/Washington Spirit)
-
-Nominados al Premio ‘The Best’ al Jugador de la FIFA
-----------------------------------------------------
-
-Dani Carvajal (España/Real Madrid)  
-Erling Haaland (Noruega/Manchester City)  
-Federico Valverde (Uruguay/Real Madrid)  
-Florian Wirtz (Alemania/Bayer Leverkusen)  
-Jude Bellingham (Inglaterra/Real Madrid)  
-Kylian Mbappé (Francia/París Saint-Germain/Real Madrid)  
-Lamine Yamal (España/Barcelona)  
-Lionel Messi (Argentina/Inter de Miami)  
-Rodri (España/Manchester City)  
-Toni Kroos (Alemania/Real Madrid, retirado)  
-Vinícius Jr. (Brasil/Real Madrid)
-
-Nominado/as al Premio ‘The Best’ al Entrenador de la FIFA de Fútbol Femenino
-----------------------------------------------------------------------------
-
-Arthur Elias (BRA/selec. Brasil)  
-Elena Sadiku (SWE/Celtic)  
-Emma Hayes (ENG/Chelsea/selec. Estados Unidos)  
-Futoshi Ikeda (JPN/selec. Japón)  
-Gareth Taylor (ENG/Manchester City)  
-Jonatan Giráldez (ESP/Barcelona/Washington Spirit)  
-Sandrine Soubeyrand (FRA/París FC)  
-Sonia Bompastor (FRA/Olympique de Lyon/Chelsea
-
-Nominados al Premio ‘The Best’ al Entrenador de la FIFA de Fútbol Masculino
----------------------------------------------------------------------------
-
-Carlo Ancelotti (ITA/Real Madrid)  
-Lionel Scaloni (ARG/selc. Argentina)  
-Luis de la Fuente (ESP/selc. España)  
-Pep Guardiola (ESP/Manchester City)  
-Xabi Alonso (ESP/Bayer Leverkusen)
-
-Nominadas al Premio ‘The Best’ a la Guardameta de la FIFA
----------------------------------------------------------
-
-Alyssa Naeher (Estados Unidos/Chicago Red Stars)  
-Ann-Katrin Berger (Alemania/Chelsea/NJ/NY Gotham)  
-Ayaka Yamashita (Japón/INAC Kobe Leonessa/Manchester City)  
-Cata Coll (España/Barcelona)  
-Mary Earps (Inglaterra/Manchester United/París Saint-Germain)
-
-Nominados al Premio ‘The Best’ al Guardameta de la FIFA
--------------------------------------------------------
-
-Andriy Lunin (Ucrania/Real Madrid)  
-David Raya (España/Arsenal)  
-Ederson (Brasil/Manchester City)  
-Emiliano Martínez (Argentina/Aston Villa)  
-Gianluigi Donnarumma (Italia/París Saint-Germain)  
-Mike Maignan (Francia/AC Milan)  
-Unai Simón (España/Athletic Club)
-
-Nominadas al Premio Marta de la FIFA
-------------------------------------
-
-Delphine Cascarino (FRA/Olympique de Lyon–Benfica)  
-Marina Hegering (GER/Essen–Wolfsburg)  
-Sakina Karchaoui (FRA/Francia–Suecia)  
-Paulina Krumbiegel (GER/Duisburg–Hoffenheim)  
-Marta (BRA/Brasil–Jamaica)  
-Nina Matejić (SRB/selección sub-19 femenina de Serbia–selección sub-17 femenina de Inglaterra)  
-Beth Mead (ENG/Arsenal–West Ham United)  
-Giuseppina Moraca (ITA/Lazio–Bologna)  
-Asisat Oshoala (NGA/Barcelona–Benfica)  
-Mayra Pelayo (MEX/México–Estados Unidos)  
-Trinity Rodman (USA/Estados Unidos–Japón)
-
-Nominados al Premio Puskás la FIFA
-----------------------------------
-
-Hassan Al Haydos (QAT/Catar–RP China)  
-Terry Antonis (AUS/Melbourne City–Western Sydney Wanderers)  
-Yassine Benzia (ALG/Argelia–Sudáfrica)  
-Walter Bou (ARG/Lanús–Tigre)  
-Michaell Chirinos (HON/Costa Rica–Honduras)  
-Federico Dimarco (ITA/Inter de Milán–Frosinone)  
-Alejandro Garnacho (ARG/Everton–Manchester United)  
-Mohammed Kudus (GHA/West Ham United–Freiburg)  
-Denis Omedi (UGA/KCCA–Kitara)  
-Paul Onuachu (NGA/Trabzonspor–Konyaspor)  
-Jaden Philogene (ENG/Rotherham United–Hull City)
-
-Nominados al Premio a la Afición de la FIFA
--------------------------------------------
-
-José Armando (MEX)  
-Craig Ferguson (SCO)  
-Guilherme Gandra Moura (BRA). EFE  
-lm
-
-Cortes de luz no programados se aplicaron en Quito
-==================================================
-
-El Gobierno informó que los cortes de luz se mantendrán hasta el 20 de diciembre. Sin embargo, los cortes de luz sorpresivos preocupan
---------------------------------------------------------------------------------------------------------------------------------------
-
-![Cortes de luz no programados se aplicaron el lunes 16 de diciembre.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-17T075157.101.jpg)
-
-Usuarios en redes sociales reportaron **cortes de luz que no estaban programados** para sus sectores. La **Empresa Eléctrica Quito** no se ha pronunciado al respecto.
-
-### Más noticias
-
-* [Cortes de luz en Quito este martes 17 de diciembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-en-quito-este-martes-17-de-diciembre.html "Cortes de luz en Quito este martes 17 de diciembre")
-* [Así funciona el Pico y placa en Quito este martes 17 de diciembre](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-martes-17-de-diciembre.html "Así funciona el Pico y placa en Quito este martes 17 de diciembre")
-* [Opciones de estacionamiento en Quito en época navideña](https://www.elcomercio.com/actualidad/quito/estacionamiento-compras-navidena-quito-publico.html "Opciones de estacionamiento en Quito en época navideña")
-
-Cortes de luz a deshoras
-------------------------
-
-Durante la tarde y noche del **lunes 16 de diciembre de 2024**, algunos sectores de Quito se quedaron sin luz repentinamente.
-
-Esto ocasionó la **molestia de los moradores** debido a que su planificación diaria está basada en los cronogramas publicados con la programación de la suspensión eléctrica.
-
-Esto sucede luego de que el **Ministerio de Energía y Minas** comunicó a la ciudadanía la reducción de los apagones a escala nacional. En la actualidad, se aplican en Ecuador **cortes de luz de dos horas.**
-
-En la cuenta de X de l**a Empresa Eléctrica Quito**, los usuarios reportaron el corte de energía. Barrios como la Julio Matovelle, Cristianía, El Bosque, Gualo, Barrionuevo, Villa Flora, Eugenio Espejo, Cumbayá, Chimbacalle fueron afectados.
-
-El Ministerio de Energía informó que **los apagones se mantendrán hasta el 20 de diciembre;** sin embargo, ante los cortes de luz sorpresivos, la duda persiste.
-
-Apagones se mantendrán hasta el 20 de diciembre
------------------------------------------------
-
-Según el Gobierno, hay varios factores qu**e permiten acabar con los cortes de luz** este viernes 20 de diciembre.
-
-Los **feriados de Navidad y Año Nuevo** los ecuatorianos tendrán servicio de energía eléctrica ininterrumpido, según las proyecciones del Gobierno.
-
-Entre estas están: optimización de la capacidad instalada, inversión en activación o reactivación de proyectos energéticos.
-
-Además, de**l incremento de las lluvias** que ha permitido subir los niveles de los canales y los embalses que abastecen las hidroeléctricas.
-
-Este lunes, también se puso en funcionamiento la Unidad 3 de la **Central Alluriquín**, que pertenece al complejo Toachi-Pilatón.  
-
-Así funciona el Pico y placa en Quito este martes 17 de diciembre
-=================================================================
-
-Infórmate sobre las restricciones y documentos necesarios para circular en Quito este martes. Revisa la fecha de caducidad de tus documentos.
----------------------------------------------------------------------------------------------------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-16T151418.232.jpg)
-
-La medida d**el Pico y placa** sigue vigente en Quito para restringir la **movilidad de ciertos vehículos** un día de la semana, **según el último dígito** del registro metálico.
-
-### Más noticias
-
-* [Cortes de luz reducidos en Quito este lunes 16 de diciembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-reducidos-lunes-16-de-diciembre.html "Cortes de luz reducidos en Quito este lunes 16 de diciembre")
-* [Últimos días para matriculación y revisión técnica vehicular en Quito](https://www.elcomercio.com/actualidad/quito/ultimos-dias-para-matriculacion-y-revision-tecnica-vehicular-en-quito.html "Últimos días para matriculación y revisión técnica vehicular en Quito")
-* [Bomberos de Quito intensifican campaña contra la pirotecnia](https://www.elcomercio.com/actualidad/quito/bomberos-campana-pirotecnia.html "Bomberos de Quito intensifican campaña contra la pirotecnia")
-
-El esquema de aplicación del Pico y Placa
------------------------------------------
-
-En la mañana la medida se aplica en un **horario de 06:00 a 09:30** y en la tarde, de 16:00 a 20:00.
-
-Según el **último dígito de la placa**, el cronograma es el siguiente:
-
-* **Lunes:** placas terminadas en 1 y 2.
-* **Martes**: placas terminadas en 3 y 4.
-* **Miércoles**: placas terminadas en 5 y 6.
-* **Jueves**: placas terminadas en 7 y 8.
-* **Viernes:** placas terminadas en 9 y 0.
-
-Este martes, **todos los vehículos pueden circular** debido a que en feriados no se aplica la medida.
-
-Documentos necesarios para circular
------------------------------------
-
-Para circular, es **esencial tener la licencia** y la matrícula vigentes.
-
-Si tu licencia está caducada, debe**s seguir estos pasos** para renovarla:
-
-* Generar una orden de pago en la página de la Agencia Nacional de Tránsito (ANT).
-* Cancelar el valor correspondiente, ya sea en línea o en puntos físicos de pago.
-* Obtener un turno para la emisión de la licencia en la agencia de tu preferencia.
-* Acercarte a la agencia 15 minutos antes de la hora asignada, presentar el turno impreso con la hora y día agendado.
-* Realizar la evaluación teórica.
-* Esperar la entrega de la nueva licencia.
-
-Si tu licencia está **próxima a caducarse y** tu turno es aún lejano, puedes mostrar impreso el turno cuando los agentes de tránsito te detengan.
-
-Colaboración ciudadana en el Pico y placa
------------------------------------------
-
-El **Municipio de Quito** insta a los conductores a cumplir con las restricciones del Pico y placa para mejorar el flujo vehicular en las horas pico.
-
-Planificar los recorridos y verificar que todos **los documentos estén en regla** es fundamental para evitar sanciones y garantizar una movilidad más eficiente.
-
-En conclusión, este martes, **los vehículos con placas terminadas en 3** **y 4** no pueden circular dentro de Quito. Asegúrate de tener tu licencia y matrícula vigentes para evitar [inconvenientes](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
-
-> 🚨[#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
->   
-> 💁 Recuerda, hoy la medida “Pico y Placa” se mantiene con normalidad.  
->   
-> Respeta las normas de tránsito y evita sanciones.  
->   
-> 🚘 Con cultura vial [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/zPj1sgdKTa](https://t.co/zPj1sgdKTa)
-> 
-> — AMTQuito (@AMT\_Quito) [October 15, 2024](https://twitter.com/AMT_Quito/status/1846123824149868564?ref_src=twsrc%5Etfw)
-
-¿Un chocolate será un regalo suntuoso en el mundo?
-==================================================
-
-La tonelada métrica de cacao subió —otra vez— en las bolsas de valores de Londres y Nueva York. El viernes 13 de diciembre de 2024 se cotizó en los 11 300 dólares. Es un crecimiento importante, ya que en el segundo semestre de 2024 se estabilizó y varió entre los 7 000 y 8 000 \[…\]
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Imagen creada en Ideogram con el prompt: barra de chocolate en empaque especial dorado sobre monedas de oro.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-14-1.jpg)
-
-La tonelada métrica de cacao subió —otra vez— en las **bolsas de valores de Londres y Nueva York**. El viernes 13 de diciembre de 2024 se cotizó en los 11 300 dólares.
-
-Es un crecimiento importante, ya que en el segundo semestre de 2024 se estabilizó y varió entre los 7 000 y 8 000 dólares por tonelada métrica de cacao. En abril rondaba los 12 000.
-
-> La cotización se debe a la oferta y la demanda. La Organización Internacional del Cacao (ICCO) prevé que la producción mundial de cacao disminuya un 11 % en la temporada 2023/2024. Eso representaría un déficit récord de 374 000 toneladas.
-
-Sería el tercer año consecutivo en que la demanda supere a la oferta, algo que no se veía desde 1969.
-
-Los **chocolates, bebidas y otros productos**, que tienen al cacao como materia prima, pueden convertirse en un regalo lujoso de mantenerse la tendencia.
-
-Los chocolates ya fueron más costosos en **San Valentín de 2024**. Esta es una época de gran demanda en el mundo por las festividades de **Navidad, Año Nuevo y Reyes**. 
-
-Los costos de producción son directamente afectados y quienes sepan negociar mejor en los denominados mercados a futuro.
-
-Los expertos internacionales coinciden en que podría existir una crisis debido al crecimiento de los precios y del déficit para cubrir la demanda.
-
-El **cacao** —en el mundo— se enfrenta a factores climáticos que inciden en su rendimiento. El planeta soporta las **altas temperaturas**, los cambios en las **épocas lluviosas** y suelos erosionados.
-
-En Ecuador, aunque el precio del cacao ha sido un factor clave en el aumento de las exportaciones, el volumen también ha mostrado un crecimiento.
-
-Durante seis de los 10 meses de 2024, el volumen de **exportaciones de cacao** aumentó en comparación con el mismo período del 2023. Los productores nacionales indicaron que reciben un castigo en los precios. Esos valores son fijados por los mercados internacionales.
-
-La vida se da paso mientras la justicia no llega
-================================================
-
-El incendio del Auqui mostró devastación, pero la recuperación avanza sin respuestas de las autoridades.
---------------------------------------------------------------------------------------------------------
-
-![Saudia Levoyer, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Saudia-Levoyer-2.jpg)
-
-Todos quienes vivimos en **Quito** seguramente recordamos la tarde del 24 de septiembre. Por si no se acuerda, fue el día en que la **capital** se llenó de **humo y ceniza**, muchos pudieron verla pintarse de un color naranja intenso y otros sentir un calor intenso mientras trataban de salir de dos de las rutas que conectan Cumbayá con Quito. El incendio de la zona del Auqui –y otros cuantos más que se provocaron casi simultáneamente- avanzó rápidamente y los **bomberos** lucharon por controlarlo, ante los millones que seguían la noticia.
-
-La siguiente **imagen** parecía una escena sacada de una película: cerros de diferentes tonos de negro –con algo de ocre y amarillo por la fuerte sequía-, con árboles, maleza y arbustos convertidos en carbón. Los que se mantuvieron en pie parecían dibujados y suspendidos en el aire. No les quedaba **señal de vida**. Cruzar especialmente la avenida De Los Conquistadores, que atraviesa Guápulo y se usa también para conectar Quito y Cumbayá, conmovía. Ahí se podía apreciar la magnitud del peligro: a pocos pasos de varias casas quedaron los vestigios de lo que fue la **línea de fuego**.
-
-Tres meses más tarde hay una **buena noticia**, que es visible y muestra como la vida se da paso. Con la llegada de la lluvia el color comenzó a cambiar. En alguno de los troncos que parecían suspendidos en el aire se han comenzado a ver retoños verdes. Los **arbustos** están también cambiando de color, al igual que la maleza, que otra vez crece. Desde la avenida Simón Bolívar se nota la variedad de **colores del suelo**, pero ya no dominan los negros. Parecería un otoño que lucha entre la **muerte de sus hojas** y el **resurgimiento de nuevas.** Poco a poco desaparece del suelo las señales del voraz incendio.
-
-De lo que no hay noticias es de las **investigaciones** a las que estaban obligadas las autoridades: Municipio de Quito y Fiscalía. Se trató de un delito. Hasta donde se informó fueron **flagelos provocados** y, la verdad, es que en los dos últimos años estos son cada vez más graves. También se dijo que se buscaría a los **responsables**, que se trabajaría en esa dirección, pero por lo que se sabe, no pasa ni pasará nada.
-
-Parte de la **gestión de las autoridades** –sean políticas o de justicia- es obligar a que quienes atentan contra una ciudad, que pusieron en riesgo grave a miles, que colapsaron a la capital, sigan como si nada hubiese pasado. Sin embargo, aquello no existe y luego debemos escuchar sus discursos de un supuesto interés por proteger a la **población** y al **ambiente** y de que cumplen con sus **responsabilidades**.
-
-Tampoco hay **información** sobre algún cambio en el **sistema de monitoreo de zonas** como la del Auqui. Quito tiene **pocos bosques** y eso debiera cuidarse, pero tampoco se sabe nada. ¿Ya tienen los planes preventivos? ¿Cuándo arrancaron? ¿Cómo se va a mejorar la **protección de estas zonas** que son parte de los pulmones de la ciudad? ¿Alguien puede dar alguna respuesta?
-
-Xavier León Borja o “el retorno de lo nuevo”
-============================================
-
-El dibujo como huella explora la esencia del dibujo como memoria y resistencia en un mundo marcado por el caos social y ambiental.
-----------------------------------------------------------------------------------------------------------------------------------
-
-![Marco Antonio Rodríguez, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Marco-Antonio-Rodriguez-1.jpg)
-
-Vuelven él y su arte. Esta vez para explorar la esencia del dibujo en nuestro tiempo, en el cual la mayoría de **artistas visuales** lo excluyen por novelería oscilante entre la inopia y el esnobismo (moda). Más de doscientos dibujos remetidos en los últimos preceptos del **conceptualismo**. Lo hace asociado con Jorge Zaldumbide en lo atinente al episodio resuelto con el **realismo virtual** y la lúcida curaduría de Meysis Carmenati. _El dibujo como huella_ titula a su exposición Xavier León Borja (Quito, 1979).
-
-¿Qué es la huella? La define Walter Benjamin: “La **huella** es la aparición de una cercanía, por lejos que pueda estar lo que dejó atrás”. Este **horizonte** brumoso y fascinante es el que persigue este **artista**. Y la huella tiene surtidas facetas: las que deja el **peregrinaje** de los seres humanos a través de la historia; aquellas que revelan ciudades y comarcas; las que labran nuestros propios pasos: **fárrago** de **rostros** y rastros; los que dejan los pueblos en su erranza a través del tiempo…
-
-El dibujo: negación del vacío
+* [Ocho posibles rivales de Barcelona Sporting Club en la Libertadores](https://www.elcomercio.com/deportes/futbol/sorteo-fases-preliminares-copa-libertadores.html "Ocho posibles rivales de Barcelona Sporting Club en la Libertadores")
+* [Segundo Castillo ratificado por Barcelona Sporting Club](https://www.elcomercio.com/deportes/futbol/segundo-castillo-ratificado-barcelona-guayaquil.html "Segundo Castillo ratificado por Barcelona Sporting Club")
+* [Liga de Quito queda a tres títulos de Barcelona Sporting Club](https://www.elcomercio.com/deportes/futbol/liga-quito-titulos-nacionales-ecuador.html "Liga de Quito queda a tres títulos de Barcelona Sporting Club")
+
+Las camisetas de Barcelona SC
 -----------------------------
 
-“Nacimos de la noche. En ella vivimos. Moriremos en ella. Pero la luz será mañana para los más, para aquellos que hoy lloran la noche, para quienes se niega el día, para quienes es regalo la muerte, para quienes está prohibida la vida. Para todos la luz. Para todos todo” (Declaración de la selva Lacandona).
+En las primeras horas de la tarde el **cuadro guayaquileño utilizó sus redes sociales** para presentar el lote de camisetas con las que afrontará la temporada venidera. Son tres que están ligadas a la historia del club.
 
-Cuatro momentos presenta la muestra: el primero, que la preludia, diseñado para las gradas de ingreso mediante un discurso inserto en nuestro **escenario humano, social y político**; el segundo, una instalación en papel, grafito y realismo virtual, que conmina a la reflexión en un ámbito silencioso; el tercero, un mural colectivo dirigido por León Borja, consumado en xilografía y que alude a la memoria y las revueltas sociales, y el cuarto, _Nacimos de la noche_, propuesta interactiva, luz y tiniebla, que habla del caos que impera en la humanidad, los desastres ambientales y una convocación a la esperanza.
+La principal será la amarilla. **El cuello y los hombros serán de color negro** y en las mangas destacan el color rojo, al igual que en el nombre de la marca que confecciona las prendas.
 
-Obra de sitio específico, la de León Borja. Apropiación del espacio público. El artista omite el pasaje físico para llegar a la sala. Cuando se camina y asciende, se ingresa a la **racionalidad** del dibujo y a la forma misma de su aparición recurrente, performática, ubicua. En su proclama urde y cruza diversos ciclos de la vida y episodios históricos, como el de las **modernidades contradictorias**, el **capitalismo tecnológico** y el colonialismo. Relato polisémico que ata los tiempos: ayer, hoy y mañana. Tiempos: nacemos para morir, pero entre los dos actos ocurre la vida, sus heridas y sus goces. Y lo que se adentra en la vida, la historia, la cultura y lo que significa habitar, una historia a la que estamos condenados, pero de la que somos sus forjadores.
+En el escudo, en la parte posterior del cuello y en la parte inferior izquierda se colocó el número 100 y en la parte lateral se lee: “**[un amor para toda la vida](https://www.elcomercio.com/deportes/futbol/camiseta-barcelona-sporting-club-pasarelas.html)**“.
 
-“¿Todo dibujo es una sucesión de puntos o es más que eso? ¿Es el acto, el pensamiento?” Son interrogantes que proyecta la obra de León Borja. Y sigue en la cacería de su sustancia: “¿Puede el dibujo decirnos algo hoy? ¿Debe hacerlo? ¿Cuáles son sus alcances?”, se pregunta, anclado a la realidad que vivimos: un mundo desahuciado por las **guerras de los poderosos** contra los sin tierra, los sin patria, los saqueados “por siempre jamás”; por la presencia de fascismos de derechas e izquierdas; del poder como expresión de opresión y muerte; por el amasijo de miedos que funda la depredación ecológica; por la codicia de los mil millonarios que invierten en otros planetas porque sus vidas son despojos de una **humanidad** que perdió su nombre…
+En la parte inferior del escudo consta 1925 (año de la fundación) y 2025 (año en el que cumplirá 100 años de vida institucional).
 
-_Memorama_ es otro capítulo de León Borja: todo arte es un juego, parece decirnos. **Entretenimiento** para la memoria. Otro de los espacios poblados de dibujos se titula _El dibujo que acompaña_. Instalación sobre la **permanencia del dibujo en el tiempo**. Legado y rastreo, armonía y algarabía, agitación y sosiego de este arte. Permanencia. Inmutabilidad.
+Las alternas cargadas de historia
+---------------------------------
 
-El arte de León Borja ha recorrido mundos. España, México, Cuba, Japón… albergan su obra visual. Muestras que han grabado su nombre en la historia reciente de nuestras artes visuales: _Animal_, 2010, recreación de la naturaleza. Develamiento del ser. _La toma de la casa grande_, 2011, travesía por sus laberintos interiores. La eviterna contienda entre civilización y barbarie. _Movimientos circulares,_ 2013, sondeo a fondo de la infancia. Crecer, “abrir los ojos” es el _fatum_ que nos atosiga y vence… hasta levantarnos y seguir en ese círculo ineluctable.
+La primera alterna es de color negro. Uno de los detalles que destacan es que su cuello **hace un guiño a la primera camiseta** que los canarios utilizaron en 1925, año de su fundación.
 
-Oficio y destrezas, el artista no deja de aprender, sus caminos se ensanchan y acrecientan. Testimonio y profecía. Tal el sentido grave y jubiloso de su propuesta.
+El cuello y las mangas tienen un detalles de color blanco. También tiene una parte del himno; “salve salve Barcelona” e “Ídolo del Ecuador” estampado en las partes laterales.
 
-“no poseyendo más/ entre cielo y tierra que/ mi memoria, que este tiempo;/ decido hacer mi testamento./ Es este:/ les dejo/ el tiempo, todo el tiempo” (Eliseo Diego).
+La segunda alterna es blanca con rayas rojas. El modelo y la tipografía es la misma que se **utilizó en 1993, año en el que Carlos Muñoz Martínez**, uno de los máximos referentes del club, falleció en un siniestro de tránsito; y en 1994.
 
-Reseña de inventos e inventores
-===============================
+“**Ídolo como te explico cuanto te amo yo**” es la frase elegida para es histórica camiseta.
 
-La historia de la ciencia difiere según las épocas, los enfoques y tendencias. En las siguientes líneas un breve registro de los principales avances.
------------------------------------------------------------------------------------------------------------------------------------------------------
+Según el sitio web de la empresa que elabora la indumentaria, [la camiseta titular tiene un costo que bordea los 70 dólares](https://www.marathon.store/ec/productos/marca/marathon-sports/camiseta-oficial-bsc-2025/p/bt_AM_11024521).
 
-![Los inventos forman parte de la producción intelectual.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-12.jpg)
+> ¡El más grande hoy, mañana y siempre! 🤩⭐️  
+>   
+> Presentamos la colección oficial de Barcelona 2025, la colección para el único Ídolo del Ecuador.🛡️  
+>   
+> ¡Celebramos un amor para toda la vida! 💯💛[#BarcelonaSomosTodos](https://twitter.com/hashtag/BarcelonaSomosTodos?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/qaIkYLqzq4](https://t.co/qaIkYLqzq4)
+> 
+> — BARCELONA S.C. (@BarcelonaSC) [December 17, 2024](https://twitter.com/BarcelonaSC/status/1869085125797171558?ref_src=twsrc%5Etfw)
 
-**La creación de la Lógica por parte de Aristóteles es un hito universal de todos los tiempos y en todas las culturas.** En el mismo rango se encuentran **el método socrático y el dialéctico propuesto por Heráclito.**
+Confesionario – segunda temporada en proceso
+--------------------------------------------
 
-En el **mundo oriental**, los **chinos** **hicieron importantes avances en la ciencia, la tecnología, la matemática, la astronomía y la escritura basada en símbolos.** Las primeras observaciones de cometas, eclipses solares y supernovas provienen de China. También hay aportes en la medicina: **la acupuntura y la medicina herbal.** El **ábaco, el “reloj de sombra” y las primeras máquinas voladoras tienen origen chino.** Los inventos de China antigua son **la brújula, la pólvora, el papel y la impresión.**
+¿Ecuador merece el puesto 76 entre las mejores cocinas del mundo?
+=================================================================
 
-**Los árabes fueron algebristas, médicos, geógrafos, matemáticos, físicos y astrónomos.** **Alhacén** fue pionero de la física experimental; **Al-Biruni** realizó estudios de cronología, astrolabios, sistemas decimales y el radio de la esfera terrestre.
+En el ranking mundial de Taste Atlas 2024, Ecuador descendió. Se cuestiona la subjetividad del sistema de votación,
+-------------------------------------------------------------------------------------------------------------------
 
-Pero si alguien revolucionó la astronomía antes de **Galileo Galilei fue Nicolás Copérnico**, quien escribió sobre la teoría helio centrista, que rebasó la teoría eclesiástica, de estilo tolemaico, que concebía a la Tierra como el centro del universo, que representó una **ruptura básica de la** **ideología religiosa medieval.**
+![El encebollado fue calificado como la mejor sopa de pescado del mundo en el 2023.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-6.jpg)
 
-**Galileo Galilei,** por su parte, fue considerado **el padre de la ciencia, por sus trabajos experimentales sobre el método científico, junto a Francis Bacon y Johannes Kepler.** Galilei construyó el **primer telescopio**, que permitió comparar, de manera objetiva, el nivel de calor y de frío. Descubrió la **Vía Láctea**, los **anillos de Saturno**, los **satélites de Júpiter y las manchas solares**. Fue un duro golpe para los aristotélicos, que sostenían que **“los cielos son perfectos”.**
+La organización **Taste Atlas** dejó a **Ecuador** en el puesto 76 entre las 100 **mejores cocinas del mundo**. Es una posición que no se esperaría, sobre todo por el gran momento que vive la gastronomía nacional.
 
-La **ciencia moderna** se nutrió de creadores e inventores, en especial en la **Matemática, las Ciencias de la Naturaleza y las nacientes Ciencias Sociales.**
+Es un retroceso: en el **ranking de Taste Atlas** del año pasado, Ecuador quedó en el puesto 48. ¿Por qué ocupa esta posición en 2024?
 
-**Lista incompleta de inventores**
-----------------------------------
+### Más Noticias
 
-Los inventos forman parte de la producción intelectual. Según los especialistas como **Edward De Bono** corresponden al denominado **pensamiento lateral o diferente, no oficial o divergente.**
+* [La Sobremesa, con Juan Pablo Holguín: el rescate de la comida casera](https://www.elcomercio.com/sabores/sobremesa-juan-pablo-holguin-rescate-comida-casera.html "La Sobremesa, con Juan Pablo Holguín: el rescate de la comida casera")
+* [El sabor y la bohemia se juntan en un lugar llamado La Carnicería](https://www.elcomercio.com/sabores/restaurante-la-carniceria-sabor-bohemia.html "El sabor y la bohemia se juntan en un lugar llamado La Carnicería")
+* [CATS, la buena comida de un restaurante clásico de Quito](https://www.elcomercio.com/videos/sabores-video/cats-restaurante-buena-comida-buen-ambiente.html "CATS, la buena comida de un restaurante clásico de Quito")
 
-La mayoría de los inventos –sobre todo en la antigüedad- era producto de **esfuerzos individuales**. En la actualidad los inventos son el resultado de **trabajo en equipo**, con fuertes aplicaciones tecnológicas.
+¿Cuáles son las tres mejores cocinas, según Taste Atlas?
+--------------------------------------------------------
 
-**No se ha logrado identificar un sistema para clasificar los inventos y los inventores.** A continuación, una lista incompleta de inventores, según esta fuente: **https://www.lifeder.com/inventores-famosos/**
+Los tres países con la mejor cocina del mundo, para Taste Atlas, son Grecia, Italia y México. Llama la atención que Francia esté en el octavo lugar y China, en el décimo.
 
-**Arquímedes (287-212 ac).** Matemático, físico, ingeniero, astrónomo e inventor griego. El valor PI y el famoso tornillo que permitía elevar el agua en minas y pozos se le atribuyen a Arquímedes.
+Octavio Paz, el Nobel de Literatura de 1990, decía que tres cocinas son fundamentales en el mundo: la china, la francesa y la mexicana. En este caso, solo México, su país de origen, está en ese escalafón particular.
 
-**Cai Lun (50-121).** Chino. Inventor del papel, mediante fibras vegetales compactadas suspendidas en agua y luego secadas.
+En el ránking mundial de Taste Atlas, Ecuador ocupa el puesto 76. Solo supera a Paraguay, República Dominicana, Bolivia y Nicaragua.
 
-**Galileo Galilei (1564-1642).** Científico italiano, creador del telescopio, que revolucionó la ciencia de la época. Otro de sus inventos fue la brújula.
+Por encima de Ecuador, están, en cambio, además de México, Perú (14), Brasil (15), Colombia (18), Argentina (25), Chile (32), Venezuela (55), Cuba (58) y Uruguay (60).
 
-**Isaac Newton (1642-1726).** Este científico inglés inventó el telescopio reflexivo, que amplió la capacidad de los telescopios y redujo la distorsión óptica.
+¿Qué es Taste Atlas?
+--------------------
 
-**Blaise Pascal (1623-1662).** De nacionalidad francesa, Pascal inventó la teoría de la probabilidad estadística o el principio de transmisión de presión en los fluidos. Se le atribuye la creación de la calculadora mecánica.
+Desde su lanzamiento en 2018, **Taste Atlas** se ha posicionado como uno de los referentes más consultados en el mundo de la gastronomía. Fundada por el **periodista croata Matija Babić**, la plataforma cataloga y preserva platos tradicionales, restaurantes y productos locales de todo el mundo.
 
-**Thomas Sabery (1650-1715).** Inglés. Patentó una de las primeras máquinas de vapor, que se usó para bombear agua en las minas. Este invento es precursor de la máquina de vapor moderna.
+No obstante, detrás del aparente encanto del “atlas de sabores”, crecen las dudas y críticas sobre la transparencia y metodología con la que elaboran sus rankings. Mientras unos lo aplauden por su afán de promover la diversidad culinaria, otros cuestionan su validez y relevancia.
 
-**Benjamín Franklin (1705-1790).** Científico americano que descubrió la electricidad e inventó la estufa, el pararrayos y los lentes bifocales.
+“Conocer la cocina local es tal vez la manera más importante de viajar y entender una cultura”, dijo Babić en una entrevista con **El Tiempo.** Esta frase resume la filosofía detrás de Taste Atlas, una guía virtual que recopila más de 10.000 platillos e ingredientes, desde el bulgogi coreano hasta la lechona colombiana. Pero ¿qué tan objetiva puede ser una clasificación de esta magnitud?
 
-**Alessandro Volta (1745-1827).** Es físico italiano, que inventó la batería electroquímica, con la utilización de zinc, cobre y un electrolito.
+El controversial ranking de Taste Atlas
+---------------------------------------
 
-**Nikola Tesla (1856-1943).** Físico serbio. Es el inventor de la luz fluorescente, el motor por inducción, la electricidad de tres fases y la corriente alterna.
+Matija Babić, creador también del sitio croata de noticias **Index.hr,** ideó **Taste Atlas** con la intención de democratizar la información sobre **gastronomía tradicional**. La plataforma no solo ofrece descripciones detalladas de cada platillo, sino también mapas interactivos y **listas de recomendaciones** sobre dónde probar la versión más auténtica. Sin embargo, el punto más controversial son sus famosos rankings.
 
-**Michael Faraday (1791-1867).** De origen inglés, contribuyó a la electricidad en un sistema de utilización cotidiano. Descubrió el benceno y el mechero Bunsen.
+La **metodología** de **Taste Atlas** combina **reseñas** y **calificaciones** de **usuarios en Internet,** así como el aporte de **investigadores gastronómicos.** Según Babić, el sistema incluye **filtros** para eliminar votaciones con sesgos o **intenciones nacionalistas**.
 
-**Sir Richard Arkwrigth (1732-1792).** Se le considera padre de la revolución industrial. Creó el telar industrial, que hizo posible la creación masiva de textiles.
+“Tenemos un sistema de votación que asigna importancia a ciertos votos y descarta otros”, explicó Babić a **Total Croatia News,** en 2022. Sin embargo, los críticos señalan que esta afirmación deja más preguntas que respuestas.
 
-**Louis Braille (1809-1852).** Tras quedarse ciego en su infancia, desarrolló un sistema de lectura para ciegos y también para lectura de partituras musicales.
+“No es un ranking que pueda tomarse como referencia seria”, comentó el **periodista gastronómico peruano Javier Masías** en _Infobae_ en 2023, luego de que el **pisco peruano quedara fuera** de una lista destacada. “**No hay un respaldo metodológico** claro ni expertos verificables detrás de las elecciones”, añadió, destacando la falta de transparencia en cómo Taste Atlas determina sus posiciones[.](https://en.wikipedia.org/wiki/TasteAtlas "https://en.wikipedia.org/wiki/TasteAtlas")
 
-**Samuel Morse (1791-1872).** Este inventor americano desarrolló el electromagnetismo cablegráfico. El código Morse es famoso como sistema de comunicación utilizado en el telégrafo.
+La lechona colombiana, el mejor plato del mundo para Taste Atlas
+----------------------------------------------------------------
 
-**James Clerk Maxwell (1831-1879).** Inventor escocés, que creó un proceso para producir fotografías a color.
+La plataforma ha generado controversia por algunas de sus elecciones. Recientemente, en el rakning de **Taste Atlas**, la **lechona colombiana** quedó como el mejor plato del mundo, basándose en **367 000 calificaciones.** Si bien esta elección fue celebrada en Colombia, otros países expresaron desconcierto. El chef y crítico chileno **Gonzalo Muñoz** afirmó en _La Cuarta_: “No puedes dejar una decisión tan importante en manos de votaciones de usuarios que probablemente ni siquiera han probado el plato”.
 
-**Karl Benz (1844-1929).** Alemán. Inventó el automóvil de propulsión por combustible de petróleo.
+Por otro lado, el hecho de que Babić no sea un crítico gastronómico o chef ha sido utilizado como argumento por quienes restan credibilidad a la plataforma. “Es una idea buena, pero carece de una base experta”, indicó el analista gastronómico Francisco García, en el portal **GastroMakers,** en 2023.
 
-**Thomas Alva Edison (1847-1931).** Es uno de los inventores más importantes del siglo XX. El bombillo –junto con Tesla-, el fonógrafo y la cámara de imágenes móviles son algunos de sus inventos.
+¿Por qué baja Ecuador del puesto 48 al 76?
+------------------------------------------
 
-**Alexander Graham Bell (1847-1922).** Este científico inglés inventó el teléfono. Sus aportaciones abarcaron las telecomunicaciones, la aeronáutica y la hidrodinámica.
+En el ranking de **Taste Atlas**, en 2023, Ecuador estaba entre las 50 mejores cocinas del mundo. De hecho, estaba en el **puesto 48**. Para este **2024**, bajó al **76.**
 
-**Rudolf Diesel (1858-1913).** Alemán de origen, inventó la máquina que lleva su nombre. Es un motor de combustión interna.
+Si los rankings importan, este descenso no va de la mano con lo que está ocurriendo con la gastronomía ecuatoriana. Vale recordar, con todo, que **esta tabla de posiciones no tiene que ver con la alta cocina,** sino con las **comidas tradicionales**. Por eso, el año pasado, el encebollado fue considerado la segunda mejor sopa del mundo y la mejor sopa de pescado del mundo.
 
-**Edward Michelin (1859-1940).** Inventor francés de la llanta neumática, en base al prototipo de John Dunlop.
+Sin embargo, este año, Ecuador ha tenido un rol destacado a escala mundial y regional. Por primera vez, **cuatro restaurantes de Quito** están en la lista **Latinoamérica de The World’s 50 Best.** Además, **Manabí** fue declarada **Región Gastronómica Mundial para 2026.**
 
-**Marie Curie (1867-1934).**  Esta científica polaca descubrió el radio, que hizo posible el desarrollo de la radiación y los rayos X.
+Para el chef **Francisco Marín**, del restaurante **Misky**, es un tema bastante **subjetivo** porque estas clasificaciones están hechas por personas que, en teoría, conocen y saben de gastronomía. “Sin embargo, **no está del todo claro cómo funciona el proceso**. No se especifica de manera transparente si quienes votan han visitado los lugares, probado los platos o comprobado su calidad de manera personal. No tiene una verificación formal ni parámetros claros sobre **dónde, cómo y cuándo** se realizó la votación”.
 
-**Hermanos Wright /1871-1948).** Inventores estadounidenses que diseñaron, construyeron y volaron el primer avión, en 1903.
+Marín además cree que el avance de unos países y el retroceso de otros es porqu**e hay difusores de la gastronomía que incentivan a la gente** a participar de estas votaciones. “De alguna manera, van a posicionar la cocina de un país en el **mapa gastronómico mundial”.**
 
-**Alexander Fleming (1881-1955).** Científico escocés, que descubrió por accidente el antibiótico, denominado penicilina, en 1928.
+En ese sentido, “habría que ir al inicio de este proceso, si se está promocionando para que la gente participe para esto. Ahí debe ser el enfoque. Hay muchos destinos gastronómicos que hacen mucha promoción, en **nuestro país, recién está despuntando en esta tarea”.**
 
-**Johannes Gutenberg (1398-1468).** Alemán. Inventó la imprenta de caracteres móviles. Fue el fundamento para el desarrollo del libro, la prensa escrita y la industria editorial.
+Ocho posibles rivales de Barcelona Sporting Club en la Libertadores
+===================================================================
 
-**Alfred Nobel (1833-1896).** De origen sueco. Se le considera el inventor de la dinamita.
+El sorteo de las fases preliminares de la Copa Libertadores 2025 será el jueves 19 de diciembre.
+------------------------------------------------------------------------------------------------
 
-**Enrico Fermi (1901-1954).** Hizo importantes descubrimientos de la radioactividad inducida. Este científico italiano es el creador de la industria nuclear moderna.
+![Janner Corozo fue el mejor jugador de Barcelona SC en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/equipos_rivales_1.jpg)
 
-**Robert Oppenheimer (1904-1967).** Estadounidense. Fue creador de la bomba atómica. Más tarde se convirtió en activista en contra de su misma invención.
+**Barcelona Sporting Club y El Nacional** serán los primeros equipos ecuatorianos que tendrán competencia en el 2025. Lo harán en las fases dos y uno, respectivamente de la Copa Libertadores.
 
-**Erno Rubik (1944). Inventor húngaro.** Creó el famoso cubo Kubik, el juguete más popular de la historia.
-
-**Tim Berners-Lee (1955).** De origen británico, inventó la web (WWW), World Wide Web, que permite acceder a Internet. Desarrolló el protocolo HTTP y contribuyó a la creación de la principal red de redes del mundo.
-
-**Steve Jobs (1955-2011).** Empresario e inventor estadounidense, que contribuyó a la revolución de la computación personal, con dispositivos para la computadora Mac, ¡Pod y ¡Phone.
-
-Cartas a Quito / 17 de diciembre de 2024
-========================================
-
-Estas son las cartas a Quito de este martes 17 de diciembre de 2024
--------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-Los plagios y la coherencia
----------------------------
-
-Desde hace algunos años, el ataque implacable en contra de la Fiscal General del Estado, Doña Diana Salazar, han girado, de manera permanente e insistente, en el supuesto plagio de su tesis de grado en la Universidad Central.
-
-Hasta donde conozco, el principal sustento de la acusación, es el hecho de que no constan las citas a las fuentes de donde se obtuvo la información.
-
-De hecho, todos quienes obtenemos un título universitario recurrimos a obtener información de muchas fuentes, para poder conformar un todo que lleve a las conclusiones a las que queremos llegar en nuestras tesis de grado. Cierto que es una obligación moral citar las fuentes de manera precisa, no solamente como muestra de que respetamos autorías ajenas, si no, para el caso de que algún lector de nuestro trabajo desee ampliar información sobre determinado tema mencionado en nuestro trabajo. El no citarlas es lo que se está usando como confirmación de plagio.
-
-El hecho condenatorio debe extenderse a todo profesional que comete estas omisiones en su trabajo, que es el que le permite obtener el título universitario.
-
-La parte incoherente se presenta cuando, un grupo se empeña en condenar el trabajo de una persona por estas omisiones, mientras mantiene silencio cuando alguien afín a ese grupo hizo exactamente lo mismo para graduarse de ingeniero. No olvidemos que quien fue vicepresidente en uno de los períodos en que ese grupo político manejó el país, se confirmó que gran parte de su tesis fue copiada del sitio web “el rincón del vago” y que tampoco se mencionó en ese trabajo la fuente de la que obtuvo la información. ¿No es coherente que critiquen a las dos personas por la misma omisión?
-
-José M. Jalil Haas
-
-Donald Trump invita a Javier Milei a su ceremonia de investidura presidencial
-=============================================================================
-
-El presidente electo de EE. UU., Donald Trump, invitó al mandatario de Argentina, Javier Milei, a su posesión presidencial, en enero de 2025.
----------------------------------------------------------------------------------------------------------------------------------------------
-
-![Elon Musk, Javier Milei y Donald Trump, durante el foro de conservadores, en noviembre de 2024](https://www.elcomercio.com/wp-content/uploads/2024/12/donald-trump-javier-milei.jpg)
-
-El presidente electo de los Estados Unidos, **Donald Trump**, invitó al mandatario argentino, **Javier Milei**, a la ceremonia de **investidura presidencial**. Así lo informó este lunes 16 de diciembre de 2024 las autoridades del Gobierno del país suramericano.
-
-### Más noticias internacionales
-
-* [Tiroteo en escuela de Wisconsin, Estados Unidos, deja muertos y heridos](https://www.elcomercio.com/actualidad/mundo/tiroteo-escuela-estados-unidos-wisconsin-asesinados.html "Tiroteo en escuela de Wisconsin, Estados Unidos, deja muertos y heridos")
-* [Estados Unidos e Israel analizan la posibilidad de liberar rehenes de Gaza](https://www.elcomercio.com/actualidad/mundo/estados-unidos-israel-liberacion-rehenes-gaza.html "Estados Unidos e Israel analizan la posibilidad de liberar rehenes de Gaza")
-* [Javier Milei no tomará vacaciones e implementa restricciones para funcionarios](https://www.elcomercio.com/actualidad/mundo/javier-milei-tomara-vacaciones-pero-implementa-restricciones-funcionarios.html "Javier Milei no tomará vacaciones e implementa restricciones para funcionarios")
-
-“El presidente electo de los Estados Unidos, Donald Trump, invitó al presidente argentino a su acto de toma de mando el próximo **20 de enero**“, señaló el portavoz de la Presidencia, **Manuel Adorni**.
-
-El funcionario destacó que “es la **primera vez en la historia** que un presidente electo estadounidense invita a su par argentino a su acto de asunción”, en el que, según Adorni, estarán presentes la primera ministra de Italia, **Giorgia Meloni**, y el presidente de El Salvador, **Nayib Bukele**.
-
-Último encuentro de Donald Trump y Javier Milei
------------------------------------------------
-
-Trump y Milei se vieron por última vez en noviembre, durante un **foro de conservadores** que se llevó a cabo en Mar-a-Lago, el club privado del líder republicano en **Palm Beach**, en Florida, Estados Unidos.
-
-Durante una gala en ese evento, Trump, quien ya gobernó los Estados Unidos entre 2017 y 2021, felicitó a Milei, presidente desde finales de 2023, por el **trabajo** que ha hecho para “hacer la Argentina grande de nuevo”.
-
-“Creo que tus números están funcionando. Has hecho un **trabajo fantástico** en un período de tiempo muy corto”, le manifestó Trump en esa ocasión[.](https://es.wikipedia.org/wiki/Donald_Trump "https://es.wikipedia.org/wiki/Donald_Trump")
-
-Previamente, Milei había resaltado al republicano por su “**contundente victoria** y por la remontada política más grande de la historia, enfrentando a todo el establishment e, incluso, poniendo en riesgo su propia vida”, en referencia a los **dos atentados** que Trump sufrió durante la campaña.
-
-Elon Musk y el Departamento de Eficiencia Gubernamental
--------------------------------------------------------
-
-Durante esa gala en Florida, Milei además se reunió con el multimillonario **Elon Musk**, a quien también felicitó por su nombramiento para el nuevo **Departamento de Eficiencia Gubernamental** (DOGE, en inglés) de Estados Unidos.
-
-Según resaltó este lunes Adorni, el DOGE que creará Trump es un “ente de desregulación hecho a semejanza” del **Ministerio de Desregulación y Transformación** del Estado creado por Milei y que preside Federico Sturzenegger.
-
-El presidente electo de Estados Unidos, Donald Trump, regresará a la **Casa Blanca** el 20 de enero con varias ofertas de cambios radicales, prometiendo aranceles sin precedentes, la mayor deportación en la historia del país y una política aislacionista.
-
-Déficit fiscal 2024: ¿Cómo afecta sus finanzas y qué medidas se necesitan?
-==========================================================================
-
-El déficit fiscal de Ecuador alcanzará cerca de 4 000 millones de dólares en 2024, impulsado por altos gastos en diciembre.
----------------------------------------------------------------------------------------------------------------------------
-
-![El déficit fiscal afecta la economía del país con falta de inversión pública y empleo.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-47.jpg)
-
-Los últimos días del 2024 se incrementará el **déficit fiscal** para llegar a cerca de 4 000 millones de dólares. Esto debido a que las dos últimas semanas del año se incrementan los gastos por el pago del décimo tercer sueldo al sector público y otros pagos[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [Ley de alivio financiero en Ecuador: puntos clave y fecha de acceso a los más de 20 beneficios](https://www.elcomercio.com/actualidad/negocios/ley-de-alivio-financiero-en-ecuador-puntos-clave-y-fecha-de-acceso-a-los-mas-de-20-beneficios.html "Ley de alivio financiero en Ecuador: puntos clave y fecha de acceso a los más de 20 beneficios")
-* [Daniel Noboa cumple su primer año de gobierno](https://www.elcomercio.com/actualidad/politica/daniel-noboa-cumple-presidencia-ecuador.html "Daniel Noboa cumple su primer año de gobierno")
-* [¿Cómo acceder al seguro de desempleo con la ley de alivio financiero?](https://www.elcomercio.com/actualidad/negocios/como-acceder-seguro-desempleo-con-ley-alivio-financiero.html "¿Cómo acceder al seguro de desempleo con la ley de alivio financiero?")
-
-¿Qué es el déficit fiscal y cómo le afecta a los ecuatorianos?
---------------------------------------------------------------
-
-El **déficit fiscal** es un indicador que demuestra que los **gastos** del Estado superan los **ingresos recaudados** en un año. Así, los **ingresos totales del** Ecuador no logran cubrir los gastos obligatorios de país, que en su **mayoría son corrientes**: pago de sueldos, pago de servicios e intereses de deuda.
-
-Entre enero y noviembre de 2024, los ingresos del Ecuador llegaron a **20 497 millones de dólares**, entre **impuestos y petróleo**. Mientras que los gastos sumaron **22 658 millones de dólares.** Esto se tradujo en un **déficit fiscal de 2 161 millones de dólares**, pero la cifra que podría superar los 3 500 millones de dólares al cierre del año, según datos del **Ministerio de Finanzas**, recogidos por el Observatorio de la Política Fiscal.
-
-Esto pese a que hubo **ingresos adicionales significativos**. Según datos de Finanzas, Ecuador recibió más de 2 000 millones de dólares extras gracias al aumento del impuesto al valor agregado (IVA), **autorretenciones y remisión.**
-
-El déficit fiscal deja poco margen para la **inversión pública** y los atrasos con proveedores se incrementan. Esto se traduce en **desempleo y menos dinero** para la economía ecuatoriana.
-
-Financiamiento basado en deuda y acumulación de atrasos
--------------------------------------------------------
-
-El déficit fiscal y otras necesidades de financiamiento se han cubierto principalmente con deuda interna y externa, explicó **Jaime Carrera**, director ejecutivo del Observatorio de la Política Fiscal.
-
-El Instituto Ecuatoriano de Seguridad Social (IESS) se posicionó como el principal comprador de bonos estatales, mientras que organismos multilaterales como el **Banco Mundial y el FMI** han desembolsado préstamos significativos. A septiembre de 2024, la deuda interna aumentó en 1 955 millones de dólares y la deuda externa 1 796 millones de dólares. Además, se espera un nuevo desembolso de 500 millones de dólares del FMI en las próximas semanas.
-
-Adicionalmente, los atrasos en pagos superaron los 2 100 millones de dólares hasta noviembre. Para **Fausto Ortiz**, exministro de Finanzas, los atrasos económicos siguen siendo un desafío para el Gobierno. Aunque se heredó una economía con más de **5 500 millones de dólares** en atrasos, la administración actual no ha logrado reducir significativamente esta cifra. Si bien se ha priorizado el pago de las deudas más antiguas, el saldo total se mantiene.
-
-Proyecciones para 2025
-----------------------
-
-El análisis de Carrera anticipa un 2025 aún más complicado. Los pagos de intereses y amortizaciones de deuda, tanto interna como externa, alcanzarán los 8 877 millones dólares, equivalentes al 3,7% del PIB. Los intereses de los llamados “bonos basura” experimentarán un incremento sustancial debido al alza en las tasas. Por ejemplo, la tasa del bono 2040 subirá del 2,5% al 5,5%.
-
-Los compromisos con organismos multilaterales también aumentarán. El pago de intereses al FMI en 2025 será de 599 millones de dólares, mientras que el total de intereses de la **deuda externa** ascenderá a 2 545 millones dólares. Este peso financiero es insostenible, especialmente en un contexto de bajo crecimiento económico.
-
-El Fondo Monetario Internacional (FMI) prevé que la economía de Ecuador crecerá 0,3% en 2024, ligeramente por encima de su proyección inicial, que era de 0,1%.
-
-La persistencia en financiar el déficits mediante endeudamiento, sin ajustar el gasto corriente ni fomentar la inversión privada, limita el crecimiento económico, impide la creación de empleo y perpetúa la pobreza. Sin reformas estructurales profundas, el panorama fiscal de Ecuador continuará deteriorándose, comprometiendo su desarrollo a largo plazo, finalizó Carrera.
-
-Juez dictó medidas cautelares en el caso Triple A
-=================================================
-
-Cinco personas naturales y cinco personas jurídicas con medidas cautelares en el caso Triple A.
------------------------------------------------------------------------------------------------
-
-![Se desarrolló la audiencia de formulación de cargos del caso Triple A.](https://www.elcomercio.com/wp-content/uploads/2024/12/caso-triple-a.jpg)
-
-Un juez dictó **medidas cautelares** en el **caso Triple A**, este lunes 16 de diciembre de 2024.
-
-En este caso, **Fiscalía** investiga el presunto cometimiento del **delito de almacenamiento, comercialización o distribución ilegal de hidrocarburos.**
+Barcelona SC se clasificó para la Libertadores como el **tercer mejor ubicado en la tabla acumulada de la Liga Pro**, mientras que El Nacional lo hizo como [campeón de la Copa Ecuador](https://www.elcomercio.com/deportes/futbol/final-unica-copa-ecuador-resultado.html). En la final derrotó por 1-0 a Independiente del Valle.
 
 ### Más noticias:
 
-* [Caso Triple A, audiencia de formulación de cargos se suspendió por segunda ocasión](https://www.elcomercio.com/actualidad/seguridad/caso-triple-a-audiencia-formulacion-cargos-suspendio-segunda-ocasion.html "Caso Triple A, audiencia de formulación de cargos se suspendió por segunda ocasión")
-* [Nueva pugna entre Gobierno y Alcaldía de Guayaquil ¿Cuál es el motivo?](https://www.elcomercio.com/actualidad/politica/nueva-pugna-entre-gobierno-y-alcaldia-de-guayaquil-cual-es-el-motivo.html "Nueva pugna entre Gobierno y Alcaldía de Guayaquil ¿Cuál es el motivo?")
+* [Segundo Castillo ratificado por Barcelona Sporting Club](https://www.elcomercio.com/deportes/futbol/segundo-castillo-ratificado-barcelona-guayaquil.html "Segundo Castillo ratificado por Barcelona Sporting Club")
+* [Liga de Quito queda a tres títulos de Barcelona Sporting Club](https://www.elcomercio.com/deportes/futbol/liga-quito-titulos-nacionales-ecuador.html "Liga de Quito queda a tres títulos de Barcelona Sporting Club")
+* [El Nacional lanza camiseta y escudo para Copa Libertadores 2025](https://www.elcomercio.com/deportes/el-nacional-nuevo-escudo-camiseta-copa-libertadores.html "El Nacional lanza camiseta y escudo para Copa Libertadores 2025")
 
-Las medidas cautelares en el caso Triple A
+¿Cómo será el sorteo de la Libertadores?
+----------------------------------------
+
+El próximo jueves 19 de diciembre, desde las 10:00, se realizará el **sorteo de las fases preliminares de la Copa Libertadores**. El acto se desarrollará en la sede de la Conmebol en Asunción.
+
+La Conmebol explicó en su portal web que en la fase dos la disputarán los tres equipos clasificados de la fase uno, más 13 equipos provenientes de **Brasil (2), Colombia (2), Chile (2) y un equipo por Venezuela**, Ecuador, Perú, Argentina, Uruguay, Paraguay y Bolivia.
+
+En esta etapa de la Libertadores, aclara la Conmebol, no se podrán enfrentar dos equipos de una misma asociación que se ubiquen en bolilleros distintos, “excepto que sea un equipo proveniente de la Fase 1 y **que sea desconocido al momento del sorteo**“.
+
+“En caso de que el sorteo así lo determine, y para evitar que se crucen en la misma llave, el último equipo sorteado pasará a integrar la siguiente línea, sorteándose nuevamente el rival para el primer equipo”, acotan.
+
+Es decir, en caso de que El Nacional clasifique a esta instancia, [no se enfrentará con Barcelona SC](https://www.elcomercio.com/deportes/futbol/barcelona-sporting-club-nacional-amistoso.html).
+
+![API.](https://www.elcomercio.com/wp-content/uploads/2024/12/equipos_rivales_3-1024x683.jpg)
+
+API.
+
+Los rivales de Barcelona SC
+---------------------------
+
+Bajo estos parámetros, BSC quedó emparejado en el bolillero uno junto a Boca Juniors, Corinthians, Cerro Porteño, Santa Fe, Melgar, Bahía y Ñublense.
+
+Los potenciales rivales son el **Deportes Iquique, Boston River, Universidad Central de Venezuela**, el representante de Colombia, el de Bolivia, más los tres que provienen de la fase previa.
+
+Con ninguno de los rivales conocidos los canarios se han enfrentado en torneos Conmebol. Falta saber si el equipo colombiano o boliviano existe un historial previo de juegos.
+
+¿Qué equipos están en la Fase 1?
+--------------------------------
+
+El bolillero uno contempla a Alianza Lima de Perú, El Nacional de Ecuador y Defensor Sporting de Uruguay.
+
+**Nacional de Paraguay, Monagas de Venezuela** y el representante de Bolivia son sus posibles rivales.
+
+Para determinar a los tres clasificados se jugarán partidos de ida y vuelta. Los conjuntos del bolillero dos arrancarán la serie como locales.
+
+![Alejandro Cabeza (d) con la camiseta de El Nacional en la final de la Copa Ecuador 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/equipos_rivales_2-1024x683.jpg)
+
+Alejandro Cabeza (d) con la camiseta de El Nacional en la final de la Copa Ecuador 2024.
+
+Confesionario – segunda temporada en proceso
+--------------------------------------------
+
+Asamblea aprueba Ley sobre discriminación laboral por edad
+==========================================================
+
+Ley enfocada en detalles sobre el empleo joven, se trató este 17 de diciembre. ¿En qué consiste?
+------------------------------------------------------------------------------------------------
+
+![Asamblea Nacional aprobó la Ley que obliga la contratación de los jóvenes en sector público y privado, este 17 de diciembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/asamblea-122024.jpg)
+
+El Pleno de la **Asamblea Nacional** aprobó la Ley orgánica que reforma normas para garantizar el acceso al empleo sin **discriminación por edad** en Ecuador[.](https://es.wikipedia.org/wiki/Ecuador)[](https://es.wikipedia.org/wiki/Ecuador)
+
+El tratamiento y votación se dio este martes, 17 de diciembre de 2024. La norma contempla beneficios a personas de entre **18 y 29 años**.
+
+### Más noticias
+
+* [Cómo usan los jóvenes ecuatorianos las tarjetas de crédito](https://www.elcomercio.com/actualidad/negocios/jovenes-ecuatorianos-tarjetas-credito-como-usan.html "Cómo usan los jóvenes ecuatorianos las tarjetas de crédito")
+* [Daniel Noboa habló sobre el programa ‘Jóvenes en Acción’](https://www.elcomercio.com/actualidad/politica/daniel-noboa-hablo-programa-jovenes-accion.html "Daniel Noboa habló sobre el programa ‘Jóvenes en Acción’")
+* [Aumento de penas a niños en Ecuador marca debate en Asamblea y Unicef](https://www.elcomercio.com/actualidad/seguridad/aumento-penas-menores-ecuador-asamblea-unicef-derechos.html "Aumento de penas a niños en Ecuador marca debate en Asamblea y Unicef")
+
+Empleo joven y norma en la Asamblea
+-----------------------------------
+
+La normativa contempla que las empresas deberán contar con, al menos, el **10% de jóvenes** en la nómina total. Ellos contarán con todos los beneficios definidos en la Ley, con la supervisión del **Ministerio del Trabajo**.
+
+Del mismo modo, el **empleador** debe garantizar la plurinacionalidad e interculturalidad en los procesos de contratación.
+
+También se define que las empresas que cuente con un número mínimo de **25 trabajadores**  
+están obligadas a contratar, con una o un trabajador mayor de 40 años, observándose los principios  
+de equidad de **género y diversidad**.
+
+En el segundo año, la contratación será de, al menos, el 1% del total de los trabajadores; en el tercer, del 2%; en el cuarto, el 3% y en el quinto, el **4% del total** de empleados.
+
+El asambleísta **Jordan Arroyo** resaltó que la crisis de empleo está relacionada, a su vez, con la inseguridad que vive Ecuador.
+
+La norma y sus detalles
+-----------------------
+
+La normativa aprobada por la [Asamblea Nacional](https://www.asambleanacional.gob.ec/es), además, define:
+
+* Prohíbase **establecer restricciones** de edad en los anuncios de empleo o para el desempeño de cargos de cualquier tipo, a excepción de la necesidad del empleador, debido a la naturaleza del empleo, de conocer en casos excepcionales las cualidades físicas de la persona trabajadora. Las excepciones las regulará el ministerio rector de las políticas pública del trabajo.
+* Prohíbase solicitar pólizas de **seguros privados de salud**, de vida o por enfermedades degenerativas y catastróficas como requisito previo a la vinculación laboral de la persona trabajadora.
+* Prohíbase establecer límites de edad para programas de capacitación, ascensos o cualquier mejoramiento a la situación laboral de la persona trabajadora, se exceptúan las capacitaciones por la naturaleza de sus funciones o necesidad excepcional del empleador.
+* Prohíbase la terminación de la **relación laboral** por razones de edad o por acciones de acoso o violencia provocadas para promover la renuncia de la persona trabajadora.
+* Prohíbase la discriminación, el acoso o la **violencia** en los espacios de trabajo por razones de edad.
+
+* * *
+
+Recolección de basura en Quito modifica sus horarios
+====================================================
+
+Durante las fiestas de Navidad y fin de año también se adaptan las jornadas de acuerdo con la generación de basura y actividades
+--------------------------------------------------------------------------------------------------------------------------------
+
+![Los servicios de recolección de basura se suspenden la mañana del jueves 19 de diciembre en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-17T133245.448.jpg)
+
+La **Empresa Pública Metropolitana de Aseo** (Emaseo EP) informó este martes 17 de diciembre sobre los cambios en las jornadas de **recolección de basura** en Quito.
+
+### Más noticias
+
+* [Cortes de luz no programados se aplicaron en Quito](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-no-programados-se-aplicaron-en-quito.html "Cortes de luz no programados se aplicaron en Quito")
+* [Opciones de estacionamiento en Quito en época navideña](https://www.elcomercio.com/actualidad/quito/estacionamiento-compras-navidena-quito-publico.html "Opciones de estacionamiento en Quito en época navideña")
+* [Un temblor de 3.8 se registró en Ecuador este martes 17 de diciembre](https://www.elcomercio.com/actualidad/ecuador/temblor-de-3-8-se-registro-ecuador-martes-17-de-diciembre.html "Un temblor de 3.8 se registró en Ecuador este martes 17 de diciembre")
+
+Recolección suspendida
+----------------------
+
+La empresa Emaseo informó que el día jueves 19 de diciembre de 2024 se **suspenderán parcialmente** los **servicios de recolección de residuos y limpieza** en Quito.
+
+Esto se debe a actividades programadas por la **conmemoración anual del Día del Trabajador de Emaseo.**
+
+Las **jornadas que se suspenderán** son las correspondientes a la **matutina** (mañana), la cual se suspenderá solo parcialmente, y la **vespertina** (tarde), que se suspende totalmente.
+
+El **servicio se suspende entre las 11:00 y las 19:00** del jueves 19 de diciembre. Sin embargo, la jornada nocturna se mantiene sin cambios.
+
+Las rutas de la **jornada de la noche se realizarán con normalidad** en los sectores correspondientes. Así también, la recolección en el Centro Histórico, donde se mantendrá el barrido manual y el hidrolavado.
+
+Emaseo recomienda a la ciudadanía **reducir la producción de residuos.** Además, se pide a la ciudadanía no sacar la basura en las horas sin servicio para evitar la acumulación de desechos.
+
+> 💙[#QuitoSostenible](https://twitter.com/hashtag/QuitoSostenible?src=hash&ref_src=twsrc%5Etfw) | Informamos que el 19 de diciembre se suspenderán parcialmente los servicios de recolección y limpieza en la jornada matutina y totalmente en la vespertina, por el ‘Día del Trabajador de Emaseo’.  
+>   
+> En Navidad y Fin de Año se reforzarán nuestros servicios hasta… [pic.twitter.com/LK2krBMW5T](https://t.co/LK2krBMW5T)
+> 
+> — Empresa Aseo Quito (@EmAseoQuito) [December 17, 2024](https://twitter.com/EmAseoQuito/status/1868809369560690730?ref_src=twsrc%5Etfw)
+
+Recolección de basura en Navidad y fin de año
+---------------------------------------------
+
+Emaseo dio a conocer que para las **fiestas de Navidad** se reforzarán los servicios de barrido y recolección de residuos, sobre todo en los alrededores de centros comerciales y lugares de mayor afluencia.
+
+Además, el **31 de diciembre** Emaseo operará **hasta las 18:00 d**ebido al cierre de vías en Quito por la tradición del año viejo. Los **servicios se reanudarán el 1 de enero** de 2025 a las 00:00.
+
+La empresa exhorta a la ciudadanía a **no quemar monigotes**, en cumplimiento a lo establecido en el Código Municipal que prohíbe quemar cualquier material en la vía pública urbana.
+
+Además, está **prohibido colocar material inflamable** en los contenedores de superficie. También, está prohibido destruir contenedores de [basura](https://es.wikipedia.org/wiki/Basura "https://es.wikipedia.org/wiki/Basura") o mobiliario urbano instalado para la recolección de residuos; esta infracción conlleva una multa de 920 dólares.
+
+Caso Purga, la audiencia de evaluación y preparatoria de juicio se instaló
+==========================================================================
+
+Fiscalía investiga a 23 procesados por delincuencia organizada en la Corte de Guayas en el caso Purga.
+------------------------------------------------------------------------------------------------------
+
+![Audiencia del caso Purga investigado por la Fiscalía General del Estado.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-17T123311.740.jpg)
+
+La **Fiscalía General del Estado** investiga a una presunta organización delictiva que habría operado en la Corte de Justicia de Guayas, obteniendo **beneficios judiciales y administrativos**. Con la presencia del fiscal general subrogante, **Wilson Toainga**, este martes 17 de diciembre se instaló la **audiencia de evaluación y preparatoria de juicio** contra 23 procesados por el delito de **delincuencia organizada**.
+
+### Más noticias
+
+* [Caso Purga, juez Javier de la Cadena resolvió tres solicitudes](https://www.elcomercio.com/actualidad/seguridad/caso-purga-juez-javier-de-la-cadena-resolvio-tres-solicitudes.html "Caso Purga, juez Javier de la Cadena resolvió tres solicitudes")
+* [Diana Salazar estuvo presente en el caso Purga este 26 de noviembre](https://www.elcomercio.com/actualidad/seguridad/diana-salazar-estuvo-presente-caso-purga.html "Diana Salazar estuvo presente en el caso Purga este 26 de noviembre")
+* [¿Tribunal de la CNJ puede pedir nuevas investigaciones a Fiscalía sobre caso Metástasis?](https://www.elcomercio.com/actualidad/politica/tribunal-cnj-puede-pedir-nuevas-investigaciones-fiscalia-caso-metastasis.html "¿Tribunal de la CNJ puede pedir nuevas investigaciones a Fiscalía sobre caso Metástasis?")
+
+Caso Purga, en audiencia de evaluación
+--------------------------------------
+
+Entre los investigados se encuentran figuras clave del **ámbito judicial y político**, como **Pablo M., exasambleísta, y Fabiola G., expresidenta de la Corte Provincial de Justicia de Guayas**.
+
+La investigación, que se desprende del **caso Metástasis**, permitió identificar a una presunta estructura conformada por jueces, funcionarios judiciales, **asesores jurídicos y miembros del sector político**.
+
+> [#AHORA](https://twitter.com/hashtag/AHORA?src=hash&ref_src=twsrc%5Etfw) | [#CasoPurga](https://twitter.com/hashtag/CasoPurga?src=hash&ref_src=twsrc%5Etfw): con la presencia del fiscal general (s), Wilson Toainga, se instala la audiencia de evaluación y preparatoria de juicio contra 23 procesados por [#DelincuenciaOrganizada](https://twitter.com/hashtag/DelincuenciaOrganizada?src=hash&ref_src=twsrc%5Etfw), entre ellos Pablo M., exasambleísta, y Fabiola G., expresidenta de la Corte de [#Guayas](https://twitter.com/hashtag/Guayas?src=hash&ref_src=twsrc%5Etfw). [pic.twitter.com/MjZnEozGTB](https://t.co/MjZnEozGTB)
+> 
+> — Fiscalía Ecuador (@FiscaliaEcuador) [December 17, 2024](https://twitter.com/FiscaliaEcuador/status/1869045031694434766?ref_src=twsrc%5Etfw)
+
+La Fiscalía señala que este grupo habría intervenido para manipular decisiones judiciales, garantizar resoluciones favorables y gestionar cambios administrativos desde la **Corte Provincial de Guayas**.
+
+Procesados y sus roles en el caso Purga
+---------------------------------------
+
+Entre los 23 procesados **figuran exautoridades y funcionarios** de diferentes entidades:
+
+* **Pablo M.:** exasambleísta.
+* **Fabiola G.:** expresidenta de la Corte Provincial de Justicia de Guayas.
+* **Johann M.:** juez de la Sala Penal de la Corte Provincial.
+* **Mercedes V.:** directora del Consejo de la Judicatura de Guayas.
+* **Susana B. y Jackeline D.:** funcionarias del Consejo de la Judicatura.
+
+Asimismo, varios jueces de unidades judiciales de Guayas, asesores jurídicos y militares activos también constan en el proceso. Entre ellos están Juan R. J. y Freddy J. C., comandantes del Cuerpo de Ingenieros del Ejército.
+
+Delitos y estructura investigada
+--------------------------------
+
+Según la acusación fiscal, esta presunta **estructura delictiva operaba con roles definidos**. Esto bajo un esquema de corrupción judicial que tenía como fin favorecer intereses particulares e ilícitos.
+
+La investigación **también involucra a exfuncionarios relacionados con el poder político y el narcotráfico**, lo que habría generado perjuicio al **sistema judicial y al Estado**.
+
+El objetivo de la audiencia de evaluación y preparatoria de juicio es determinar si **existen los elementos suficientes para llamar a juicio a los 23 procesados**. La Fiscalía argumenta que existen pruebas documentales, pericias e interceptaciones que vinculan a los investigados con los hechos.
+
+* * *
+
+Vinícius Júnior ganó el premio The Best 2024 al mejor futbolista
+================================================================
+
+A pesar de no ganar el Balón de Oro, Vinícius Júnior, del Real Madrid, se llevó el The Best 2024
+------------------------------------------------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-17T125320.801.jpg)
+
+El delantero del Real Madrid y de la selección de Brasil, **Vinícius Júnior**, recibió este martes 17 de diciembre en Doha, Catar, el premio **The Best de la FIFA como el mejor jugador** del mundo en 2024.
+
+Este reconocimiento llega como recompensa a la gran temporada de la estrella del Madrid, quien fue clave en los títulos que obtuvo su club, entre los que destacan la **Champions League,** La Liga y las Supercopas de Europa y de España.
+
+### Más noticias:
+
+* [Vinícius Júnior confesó que ‘sufre’ por los actos de racismo](https://www.elcomercio.com/deportes/futbol/vinicius-junior-racismo-camino-correcto.html "Vinícius Júnior confesó que ‘sufre’ por los actos de racismo")
+* [¿A qué hora y dónde ver los premios The Best de la FIFA?](https://www.elcomercio.com/deportes/hora-donde-ver-premios-the-best.html "¿A qué hora y dónde ver los premios The Best de la FIFA?")
+* [Rodri ganó el Balón de Oro a Vinícius solo por 41 puntos](https://www.elcomercio.com/deportes/futbol/puntos-rodri-vinicius-balon-oro.html "Rodri ganó el Balón de Oro a Vinícius solo por 41 puntos")
+
+El brasileño fue elegido por un jurado compuesto por jugadores, entrenadores, periodistas y aficionados, superando a futbolistas como su compañero de equipo **Jude Bellingham**, quien tuvo una destacada temporada, y al español Rodri Hernández.
+
+Con este galardón, Vinícius Júnior sucede al argentino **Lionel Messi**, quien ganó las dos ediciones anteriores. Además, el brasileño se convierte en el jugador con más premios The Best, con tres, uno más que Cristiano Ronaldo y Robert Lewandowski, quienes tienen dos.
+
+> Vini Jr is [#TheBest](https://twitter.com/hashtag/TheBest?src=hash&ref_src=twsrc%5Etfw) FIFA Men's Player 2024! 🏆
+> 
+> — FIFA World Cup (@FIFAWorldCup) [December 17, 2024](https://twitter.com/FIFAWorldCup/status/1869079362806694134?ref_src=twsrc%5Etfw)
+
+Vinícius Júnior se toma su venganza
+-----------------------------------
+
+Meses atrás, Vinícius Júnior era el gran favorito para ganar el **Balón de Oro** 2024, el prestigioso premio otorgado por la revista francesa _France Football_.
+
+Hasta hace algunos años, la [FIFA](https://www.fifa.com/en/watch/5CcViGIHSQew9bX5ODSqv5 "https://www.fifa.com/en/watch/5CcViGIHSQew9bX5ODSqv5") organizaba este evento junto con _France Football_ para elegir al mejor jugador del mundo. Sin embargo, en los días previos a la entrega del [Balón de Oro](https://www.elcomercio.com/deportes/futbol/puntos-rodri-vinicius-balon-oro.html "Rodri ganó el Balón de Oro a Vinícius solo por 41 puntos"), se filtró que, a pesar de su impresionante temporada con el Real Madrid, **Vinícius** terminó en segundo lugar en las votaciones.
+
+Finalmente, el ganador del Balón de Oro fue **Rodri Hernández,** quien brilló con la selección española en la Eurocopa y consiguió títulos con el Manchester City. Su victoria generó controversia en redes sociales, ya que muchos consideraban que Vinícius Júnior había tenido una temporada más destacada.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-27T115334.555.jpg)
+
+Tanto Vinícius como el **Real Madrid** no estuvieron de acuerdo con esa decisión, pero al final del año, el brasileño tomó su revancha al ganar el premio al mejor jugador del mundo **The Best.**
+
+Además de recibir el galardón como el mejor jugador del mundo, Vinícius también integró el equipo ideal de la temporada 2024.
+
+Propuesta de bases militares extranjeras en Ecuador tiene fecha para ir al Pleno
+================================================================================
+
+Proyecto sobre bases militares extranjeras tiene fecha para llegar al primer debate en la Asamblea.
+---------------------------------------------------------------------------------------------------
+
+![Comisión ocasional de la Asamblea sobre bases militares extranjeras se reunió este 16 de diciembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/Ciudadana-de-Seleccion-y-Designacion-de-la-Primera-Autoridad-de-la-Defensoria-Publica-31.jpg)
+
+La propuesta del presidente **Daniel Noboa** para reformar parcialmente la Constitución de la República de Ecuador y dar paso a la operación de bases militares extranjeras en Ecuador recibe criterios diversos. Los aportes se recopilan en la comisión ocasional conformada en la **Asamblea Nacional**[.](https://es.wikipedia.org/wiki/Daniel_Noboa)
+
+### Más noticias
+
+* [Bases militares extranjeras, ¿un nuevo capítulo para la seguridad y soberanía en Ecuador?](https://www.elcomercio.com/actualidad/politica/funcionario-daniel-noboa-bases-militares-extranjeras-asamblea.html "Bases militares extranjeras, ¿un nuevo capítulo para la seguridad y soberanía en Ecuador?")
+* [Propuesta de Daniel Noboa sobre bases militares tiene cronograma en la Asamblea](https://www.elcomercio.com/actualidad/politica/propuesta-daniel-noboa-bases-militares-cronograma-asamblea.html "Propuesta de Daniel Noboa sobre bases militares tiene cronograma en la Asamblea")
+* [Comisión para reforma sobre bases militares extranjeras en Ecuador tiene Presidenta](https://www.elcomercio.com/actualidad/politica/comision-reforma-bases-militares-extranjeras-tiene-presidenta.html "Comisión para reforma sobre bases militares extranjeras en Ecuador tiene Presidenta")
+
+Hay tiempos definidos para que el informe vaya al **Pleno del Legislativo**. Actualmente, el planteamiento está en etapa de comparecencias.
+
+Ya han acudido funcionarios como la canciller de Ecuador, **Gabriela Sommerfeld**, y el presidente del Consejo de la Judicatura, **Mario Godoy**.
+
+> A Ecuador no le hacían falta oportunidades, sino honestidad y voluntad política.  
+>   
+> Por eso, hoy presentaremos un Proyecto de Reforma Parcial a la Constitución en la Asamblea Nacional que modifique el artículo 5, el cual prohíbe el establecimiento de bases militares extranjeras y… [pic.twitter.com/myn2IBjHa9](https://t.co/myn2IBjHa9)
+> 
+> — Daniel Noboa Azin (@DanielNoboaOk) [September 16, 2024](https://twitter.com/DanielNoboaOk/status/1835737547231969400?ref_src=twsrc%5Etfw)
+
+Bases militares extranjeras en Ecuador y Asamblea
+-------------------------------------------------
+
+**Mario Godoy** detalló que, en caso de establecerse bases militares extranjeras en territorio ecuatoriano, el rol de la justicia será técnico, con base en la Constitución y la soberanía nacional. El principal eje será el respeto a los derechos humanos.
+
+Según el funcionario, en la reunión de la delegación, este 16 de diciembre de 2024, sería necesario establecer, en el acuerdo de instalación de la **base militar extranjera**, la jurisdicción y competencia con la que se actuará.
+
+Por su parte, **José Terán Naranjo**, representante de la **Corte Nacional de Justicia**, recordó que la Constitución define que las relaciones del Ecuador con la comunidad internacional responderán exclusivamente a los intereses del país.
+
+> A la ciudadanía: [pic.twitter.com/3rj7EANbMj](https://t.co/3rj7EANbMj)
+> 
+> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [October 17, 2024](https://twitter.com/Presidencia_Ec/status/1846963131198644274?ref_src=twsrc%5Etfw)
+
+Los criterios de seguridad
+--------------------------
+
+De acuerdo con **José Luis Castillo**, experto en seguridad y desarrollo, hay una imposibilidad para enfrentar al crimen organizado transfronterizo.
+
+El analista, además, remarcó que la situación geoestratégica de Ecuador favorece al crimen, sobre todo, por el territorio marítimo. Este supera cinco a uno al continental. Esto sin olvidar los **531 kilómetros de frontera**.
+
+De ahí que, dijo Castillo, las fuerzas policiales y militares se ven imposibilitadas de controlar ese espacio. Por este sale el **80% de la droga** al continente europeo.
+
+Seguridad en otros frentes
+--------------------------
+
+A decir de **Francisco Trejo**, experto en seguridad, las bases militares extranjeras deben ser establecidas con un carácter de coordinación entre dos o más instituciones o agencias. Se debe priorizar el componente de inteligencia.
+
+Para Trejo, los militares extranjeros no operarían directamente en territorio nacional, sino que brindarían soporte, asesoramiento e información de **inteligencia**.
+
+Antecedentes sobre la reforma y las bases militares
+---------------------------------------------------
+
+**Daniel Noboa** presentó el proyecto para la reforma parcial al artículo 5 de la Constitución en octubre de 2024.
+
+La restricción para las operaciones de bases militares extranjeras en Ecuador se instauró durante la presidencia de **Rafael Correa**.
+
+El último registro fue la **Base de Manta**, que cerró en 2009. Esta funcionaba a través de un acuerdo bilateral.
+
+Las reformas a la Constitución tienen varias vías: consulta popular, reforma parcial o asamblea constituyente. El Presidente de Ecuador se inclinó por la segunda.
+
+Luego de la Asamblea, el proceso sigue con la convocatoria al referendo. Este mecanismo procede cuando el cambio al texto constitucional afecta el carácter o los elementos constitutivos del Estado.
+
+La comisión y los tiempos
+-------------------------
+
+El 30 de octubre de 2024, el Pleno de la **[Asamblea Nacional](https://www.asambleanacional.gob.ec/es)**, con 108 votos, creó la comisión especializada ocasional que tramita el proyecto de reforma parcial a la Constitución.
+
+La agrupación está integrada por **Gissela Garzón, Sofía Sánchez, Mariana Yumbay, Arturo Ugsha, Rafael Dávila, Nathaly Murillo y Jorge Peñafiel**.
+
+Desde la **Asamblea** informaron que la comisión tendrá listo el informe para el tratamiento en primer debate a finales de diciembre de 2024.
+
+* * *
+
+Alexander Domínguez es el jugador más ganador de Liga de Quito
+==============================================================
+
+Alexander Domínguez es uno de los futbolistas ecuatorianos más exitosos de la historia.
+---------------------------------------------------------------------------------------
+
+![Alexander Domínguez tiene 10 títulos como profesional, nueve con Liga de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-17T120432.009.jpg)
+
+**Alexander Domínguez** alcanzó su noveno título con **Liga de Quito** tras conquistar la Liga Pro 2024. En su histórica trayectoria con la ‘U’, el arquero no solo es un referente, sino también un ídolo, acumulando casi 14 temporadas y más de 400 partidos defendiendo los colores del club.
+
+En este reciente torneo, el golero tricolor **logró su cuarto campeonato ecuatoriano** (2007, 2010, 2023 y 2024), reafirmando su importancia como una de las figuras claves del equipo gracias a sus atajadas decisivas.
+
+### Más noticias:
+
+* [Alexander Domínguez pide estatua junto a Rodrigo Paz](https://www.elcomercio.com/deportes/futbol/alexander-dominguez-estatua-liga-quito.html "Alexander Domínguez pide estatua junto a Rodrigo Paz")
+* [Alexander Domínguez jugó 16 finales con Liga de Quito](https://www.elcomercio.com/deportes/futbol/alexander-dominguez-finales-liga-quito.html "Alexander Domínguez jugó 16 finales con Liga de Quito")
+* [La Supercopa Ecuador tendrá el clásico de El Nacional y Liga de Quito](https://www.elcomercio.com/deportes/el-nacional-liga-quito-final-supercopa-ecuador.html "La Supercopa Ecuador tendrá el clásico de El Nacional y Liga de Quito")
+
+Alexander Domínguez tiene más títulos que clubes de Ecuador
+-----------------------------------------------------------
+
+Si solo se toman en cuenta los títulos de campeonato ecuatoriano, [**Alexander Domínguez**](https://es.wikipedia.org/wiki/Alexander_Dom%C3%ADnguez#Palmar%C3%A9s "https://es.wikipedia.org/wiki/Alexander_Dom%C3%ADnguez#Palmar%C3%A9s") con sus cuatro trofeos **estaría en la sexta posición en la tabla histórica de títulos**, por detrás de Barcelona SC (16), Emelec (14), El Nacional (13), Liga de Quito (13) y Deportivo Quito (5).
+
+‘Dida’ supera en campeonatos nacionales a clubes com**o Deportivo Cuenca**, Independiente del Valle, Olmedo, **Aucas** y Everest, que tienen un título cada uno.
+
+Además, considerando todos los trofeos en su carrera con [Liga de Quito](https://es.wikipedia.org/wiki/Liga_Deportiva_Universitaria_de_Quito "https://es.wikipedia.org/wiki/Liga_Deportiva_Universitaria_de_Quito"), Domínguez suma un total de 9 títulos. Esto lo ubica incluso por encima de clubes como **Deportivo Quito** e Independiente del Valle si se comparan los títulos obtenidos.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-17T120702.267-1024x683.jpg)
+
+Una carrera dorada con Liga de Quito
+------------------------------------
+
+Alexander Domínguez llegó a Liga de Quito en 2006 con apenas 19 años. Desde entonces, **construyó un legado** que lo inscribe en las páginas doradas del club.
+
+En su primera etapa (2006-2016), conquistó dos campeonatos ecuatorianos, una **Copa Libertadores**, dos Recopas Sudamericanas y una Copa **Sudamericana** antes de emigrar al fútbol internacional.
+
+Tras su regreso en 2022, continuó ampliando su leyenda al ganar otra Copa Sudamericana y dos campeonatos ecuatorianos más.
+
+Junto a Néicer Reascos, son los dos jugadores que más títulos ganaron con la camiseta blanca con nueve, por delante de figuras de la talla de **Franklin Salas, Paúl Ambrosi y Alfonso Obregón**, que se quedaron con ocho.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-17T120652.919-1024x683.jpg)
+
+Las cifras que respaldan su grandeza
+------------------------------------
+
+En términos estadísticos, **Domínguez acumula 436 partidos con Liga de Quito**, en los que ha recibido 343 goles, con un promedio de 0,79 goles por encuentro. Además, ha dejado su arco invicto en 168 ocasiones, logrando mantener su portería imbatida en el 38 % de sus partidos.
+
+Tras levantar su último trofeo con [Liga](https://www.elcomercio.com/deportes/futbol/liga-de-quito-ya-tiene-a-su-primer-refuerzo-para-el-2025.html "Liga de Quito ya tiene a su primer refuerzo para el 2025"), Domínguez expresó su orgullo por ser el jugador más exitoso en la historia del club. En tono jocoso, manifestó:
+
+“Voy a hablar con el doctor (Isaac Álvarez) para que **me hagan una estatua** junto a la de don Rodrigo (Paz). Nadie ha ganado más títulos que yo en este club”.
+
+San Viernes – Halloween
+-----------------------
+
+Financiamiento a partidos políticos en Ecuador se tramitará en comisión ocasional de la Asamblea
+================================================================================================
+
+Financiamiento a partidos políticos se trata en la Asamblea, tras la propuesta de Daniel Noboa.
+-----------------------------------------------------------------------------------------------
+
+![Asamblea Nacional conformó una comisión ocasional para tratar proyecto de Daniel Noboa.](https://www.elcomercio.com/wp-content/uploads/2024/12/asamblea-partidos.jpg)
+
+El presidente **Daniel Noboa** propone reformar la Constitución de la República de Ecuador en materia de financiamiento a partidos políticos[.](https://es.wikipedia.org/wiki/Daniel_Noboa)
+
+La **[Asamblea Nacional](https://www.asambleanacional.gob.ec/es)**, este 17 de diciembre, con 89 votos a favor, integró la comisión ocasional para el tratamiento de la reforma parcial a los artículos 110 y 115 de la Carta Magna.
+
+### Más noticias
+
+* [CAL decidió sobre reforma al financiamiento público de organizaciones políticas](https://www.elcomercio.com/actualidad/politica/cal-decidio-sobre-reforma-al-financiamiento-publico-de-organizaciones-politicas.html "CAL decidió sobre reforma al financiamiento público de organizaciones políticas")
+* [Corte Constitucional da paso a propuesta sobre financiamiento público a organizaciones políticas](https://www.elcomercio.com/actualidad/politica/corte-constitucional-paso-propuesta-financiamiento-publico-organizaciones-politicas.html "Corte Constitucional da paso a propuesta sobre  financiamiento público a organizaciones políticas")
+* [Gobierno impulsa reforma constitucional, ¿qué pasa con el financiamiento ilícito?](https://www.elcomercio.com/actualidad/politica/gobierno-reforma-constitucional-que-pasa-financiamiento-ilicito.html "Gobierno impulsa reforma constitucional, ¿qué pasa con el financiamiento ilícito?")
+
+> Les dejo el decreto que da paso para que la Asamblea trate la reforma parcial a la constitución y que el Estado deje de financiar campañas políticas.  
+>   
+> Para que se pongan las pilas. [pic.twitter.com/aYPfVVercx](https://t.co/aYPfVVercx)
+> 
+> — Daniel Noboa Azin (@DanielNoboaOk) [November 28, 2024](https://twitter.com/DanielNoboaOk/status/1861924996815176128?ref_src=twsrc%5Etfw)
+
+Financiamiento a partidos políticos y la Asamblea
+-------------------------------------------------
+
+La delegación ocasional quedó conformada por los asambleístas **Lucía Posso, Arisdely Parrales, María de Lourdes Alarcón, Nathaly Farinango y Carlos Rodríguez**.
+
+El grupo de asambleístas tiene un plazo de mínimo **30 días y máximo 60** para elaborar el informe para que sea conocida por el Pleno del Legislativo.
+
+La propuesta ya tiene el aval de la **Corte Constitucional**. Con esta, Daniel Noboa le apunta a que el Estado no financie la publicidad electoral de ninguna organización política.
+
+Los argumentos de Daniel Noboa
+------------------------------
+
+El Presidente sustentó el planteamiento en un adecuado uso de los **recursos públicos** y se canalicen en salud, seguridad, educación y otras áreas. 
+
+La iniciativa también pasó por el **Consejo de Administración Legislativa (CAL)**. Esta instancia decidió enviar el proyecto de reforma parcial a la Constitución al Pleno de la Asamblea.
+
+Los artículos que se propone reformar
+-------------------------------------
+
+El proyecto de **Daniel Noboa** propone sustituir el artículo 110 de la Constitución para eliminar la obligación del Estado de asignar recursos económicos a partidos y movimientos políticos.
+
+Con la nueva redacción, las organizaciones se financiarán solo con aportes de **afiliados, adherentes y simpatizantes**.
+
+Sobre el **artículo 115**, con la reforma se prohibiría el uso de recursos e infraestructura estatales, incluyendo la publicidad gubernamental, para la campaña electoral.
+
+A su vez, se dispone que el **Estado** garantice la promoción equitativa de todas las candidaturas a través de los medios de comunicación, fomentando el debate público.
+
+La propuesta incluye sanciones para quienes incumplan las disposiciones establecidas en este artículo.
+
+Actuales financiamientos
+------------------------
+
+El gasto electoral y el **Fondo de Promoción Electoral** son montos distintos relacionados con los procesos electorales. En el primer caso, se refiere a cada partido político y movimiento destina de recursos propios o autogestionados.
+
+El Fondo de Promoción Electoral, en cambio, es el que destina el **Estado**, por medio del **[Consejo Nacional Electoral (CNE)](https://www.cne.gob.ec/)**, para gastos en radio, prensa escrita, televisión y medios digitales, así como en vallas publicitarias.
+
+* * *
+
+Donald Trump revive debate sobre vacunas y autismo
+==================================================
+
+Trump dijo que una de las conclusiones fue que "el horrible intermediario hace más dinero que las farmacéuticas..."
+-------------------------------------------------------------------------------------------------------------------
+
+![Donald Trump durante uno de sus discursos.](https://www.elcomercio.com/wp-content/uploads/2024/12/Donald-Trump-truiunfo-efe.jpg)
+
+El presidente electo estadounidense, **Donald Trump**, reiteró sus dudas sobre si algunas vacunas aumentaron el índice de **autismo entre la población**. Esto después de asegurar que este mes tuvo una “fantástica” cena en Mar-a-Lago con los **consejeros delegados de Pfizer y Eli Lilly** en la que estuvo presente Robert F. Kennedy Jr., su **candidato a secretario de Salud**.
+
+Más noticias
+------------
+
+* [Donald Trump invita a Javier Milei a su ceremonia de investidura presidencial](https://www.elcomercio.com/actualidad/mundo/donald-trump-javier-milei-invitacion-investidura.html "Donald Trump invita a Javier Milei a su ceremonia de investidura presidencial")
+* [Donald Trump revela sus drásticas medidas para las primeras 24 horas de su gobierno](https://www.elcomercio.com/actualidad/mundo/donald-trump-revela-drasticas-medidas-primeras-24-horas-gobierno.html "Donald Trump revela sus drásticas medidas para las primeras 24 horas de su gobierno")
+* [Donald Trump agradece el ‘honor’ a TIME pero solo ‘habla bien’ del 25 % de sus portadas](https://www.elcomercio.com/actualidad/mundo/donald-trump-persona-ano-2024-honor-revista-time.html "Donald Trump agradece el ‘honor’ a TIME pero solo ‘habla bien’ del 25 % de sus portadas")
+
+En una rueda de prensa en **Mar-a-Lago** Trump aseguró este lunes, 16 de diciembre de 2024, que el índice de **autismo es más alto ahora que hace 30 años** y que “hay algo que está mal” y van a averiguar qué es.
+
+Investigaciones sobre autismo
+-----------------------------
+
+Las investigaciones científicas consideraron que el **aumento de los índices de autismo** se debe a un mejor diagnóstico y que en todo caso puede tener que ver con la **mayor edad de la maternidad y** factores ambientales y no las vacunas.
+
+No obstante, según reveló este lunes el diario de **The Washington Post**, en una reunión con los consejeros **delegados de Pfizer, Albert Bourla, y de Eli Lilly, David Ricks, y Kennedy,** entre otros, el presidente electo pidió investigar la relación entre **vacunas y autismo.**
+
+El objetivo de esa reunión fue **disipar las dudas de la industria farmacéutica** sobre la posibilidad de que RFK Jr. se convierta en secretario de Salud, quien mostró su **escepticismo sobre la efectividad** de algunas vacunas y denomina a los grandes del sector farmacéutico como una “sociedad criminal”.
+
+Trump dijo que una de las conclusiones del encuentro fue que “el **horrible intermediario** hace más dinero que las farmacéuticas. Y vamos a quitarnos del **medio al intermediario**.”
+
+[Donald Trump](https://es.wikipedia.org/wiki/Donald_Trump "https://es.wikipedia.org/wiki/Donald_Trump") añadió que es “un gran creyente en la vacuna de la polio” y que van a rebajar el coste de los fármacos “a niveles que no se han visto nunca antes”.
+
+“Hablamos de eso más que cualquier otra cosa”, sostuvo.
+
+RFK Jr. mantendrá esta semana reuniones con **senadores en el Capitolio** para conseguir los apoyos necesarios que aseguren su confirmación en el Senado.
+
+La Liga Pro tiene tres fichajes que prometen funcionar
+======================================================
+
+La edición 2025 de la Liga Pro arrancará en febrero. Antes se jugará la Supercopa Ecuador.
+------------------------------------------------------------------------------------------
+
+![Diego Amas en su presentación como jugador de Orense.](https://www.elcomercio.com/wp-content/uploads/2024/12/traspaso_1.jpg)
+
+El sábado 14 de diciembre de 2024 se **terminó una nueva temporada de la Liga Pro**, la sexta desde que la Federación Ecuatoriana de Fútbol (FEF) dejó de organizar el principal torneo de fútbol del país.
+
+Una vez que Liga de Quito se proclamó como campeón de la Liga Pro, **recibió sus medallas, el trofeo y recorrió la capital ecuatoriana** para festejar junto a su multitudinaria hinchada, empezaron los movimientos en el mercado de piernas nacional.
+
+### Más noticias:
+
+* [Kendry Páez y Álex Arce finalizan como los más caros de Liga Pro](https://www.elcomercio.com/deportes/kendry-paez-alex-arce-valores-liga-pro.html "Kendry Páez y Álex Arce finalizan como los más caros de Liga Pro")
+* [Liga de Quito ya tiene a su primer refuerzo para el 2025](https://www.elcomercio.com/deportes/futbol/liga-de-quito-ya-tiene-a-su-primer-refuerzo-para-el-2025.html "Liga de Quito ya tiene a su primer refuerzo para el 2025")
+* [Javier Gandolfi fue despedido por Independiente del Valle](https://www.elcomercio.com/deportes/futbol/javier-gandolfi-independiente-valle-entrenador.html "Javier Gandolfi fue despedido por Independiente del Valle")
+
+Los primeros fichajes de la Liga Pro
+------------------------------------
+
+Los jugadores de los 16 equipos que jugarán en la **Liga Pro Serie A del siguiente año están en plena etapa de vacaciones**, pero los que están jugando su campeonato aparte son los dirigentes, que están armando sus equipos.
+
+Por ejemplo, **Independiente del Valle anunció este martes 17 de diciembre** que el argentino Javier Gandolfi no será más entrenador del primer equipo, con lo que puso fin a un ciclo en el que se fue con las manos vacías sin ningún título.
+
+Libertad de Loja ratificó a Juan Carlos León, como entrenador, al igual que **Mushuc Runa lo hizo con el experimentado Éver Hugo Almeida**, el recién ascendido Manta con el joven Efrén ‘Cachorro’ Mera, y Orense sigue manteniendo la confianza en Santiago Escobar, por citar algunos.
+
+Diego Armas a Orense
+--------------------
+
+Diego Armas y Orense comparten una particularidad en el 2024: fue el mejor año de sus carreras desde que compiten en la Primera División de Ecuador.
+
+Armas fue el mejor jugador ecuatoriano de este año. **[Marcó 20 goles con la camiseta de Técnico Universitario](https://www.elcomercio.com/deportes/futbol/goleadores-ecuador-numero-9-liga-pro-alex-arce.html)**, dio cinco asistencia y fue el segundo máximo goleador de la Liga Pro, igualado con el colombiano Jeison Medina de Independiente del Valle.
+
+El máximo goleador fue el paraguayo Álex Arce, delantero paraguayo de Liga de Quito que alcanzó los 28 tantos y se proyecta para consagrarse como el mejor jugador de todo el año en Ecuador.
+
+Orense por su parte alcanzó un cupo a la **Copa Sudamericana con 40 puntos en la tabla acumulada**, la mejor cosecha desde el 2020, año en el que jugó por primera vez en la Liga Pro Serie A.
+
+En el 2025 la meta **no es solo destacar en el torneo local, sino empezar a marcar su historia** en los torneos Conmebol, para lo que Armas será clave a la hora de conseguir los resultados planificados por la directiva.
+
+Segundo Castillo y Barcelona SC
+-------------------------------
+
+**Segundo Alejandro Castillo es la primera ‘incorporación’** que tiene Barcelona SC para el 2025, año de su centenario, un aditamento extra que pondrá más presión sobre los integrantes de la institución.
+
+Castillo se mantendrá como entrenador d**e Barcelona en la temporada 2025**, tal como la anunciaron este martes 17 de diciembre de 2024, a través de un video y comunicado oficial.
+
+Será el encargado de armar el plantel con el que tiene que jugar la Liga Pro, Copa Ecuador y la fase dos de la Copa Libertadores del año que viene.
+
+El ‘Mortero’ de San Lorenzo se hizo **cargo del primer equipo de los guayaquileños en octubre** para el cierre del año. Reemplazo en el cargo al argentino Ariel Holan. Terminó invicto con tres victorias y tres empates.
+
+![Facebook del club.](https://www.elcomercio.com/wp-content/uploads/2024/12/traspasos_2-1024x683.jpg)
+
+Facebook del club.
+
+Kevin Minda a Liga de Quito
+---------------------------
+
+Kevin Minda es un jugador que necesitó salir de Liga de Quito para mostrar su potencial. **Debutó en el 2018 y se mantuvo un año má**s, hasta que se fue con destino a la Universidad Católica.
+
+En la Católica se afianzó y se ganó la **[titularidad en las cinco temporadas que ahí forjó](https://www.elcomercio.com/deportes/futbol/kevin-minda-cambio-posicion-titular.html)**. Su contrato terminó con el otro equipo universitario de la capital ecuatoriana y todos los caminos apuntan a su retorno.
+
+El jugador y la directiva **alba están en proceso de negociaciones y en las siguientes horas se espera** que se anuncie su retorno al equipo con el que supo ser campeón del campeonato nacional en 2018 y de la Copa Ecuador en 2019.
+
+Confesionario – segunda temporada en proceso
+--------------------------------------------
+
+Karely Ruiz enfrenta problemas de salud en su embarazo 
+=======================================================
+
+Karely Ruiz atraviesa problemas de salud. Conoce más sobre su vida y carrera.
+-----------------------------------------------------------------------------
+
+![Karely Ruiz construyó una carrera tras un incidente que la hizo viral. Instagram: @karelyruiz.](https://www.elcomercio.com/wp-content/uploads/2024/12/Karely-Ruiz.jpg)
+
+**Karely Ruiz** se ha convertido en una figura icónica en el mundo de las **redes sociales**. Conocida por su contenido en plataformas como **OnlyFans**, esta **joven ‘influencer’** mexicana ha capturado la atención del público en Ecuador y más allá. Sin embargo, recientemente ha estado en el centro de la **atención mediática** debido a **problemas de salud** durante su embarazo. 
+
+### Más noticias
+
+* [¿Quién es Karely Ruiz?](https://www.elcomercio.com/tendencias/entretenimiento/quien-es-karely-ruiz.html "https://www.elcomercio.com/tendencias/entretenimiento/quien-es-karely-ruiz.html")
+* [¿Quién es Karely Ruiz? Cuenta con 8,6 millones de seguidores en Instagram](https://www.elcomercio.com/tendencias/entretenimiento/karely-ruiz-modelo-contenido-adulto-redes-sociales.html "https://www.elcomercio.com/tendencias/entretenimiento/karely-ruiz-modelo-contenido-adulto-redes-sociales.html")
+
+**Estado de salud actual de Karely Ruiz** 
 ------------------------------------------
 
-Este lunes, se reinstaló la **audiencia de formulación de cargos** en el caso Triple A contra cinco personas naturales y cinco jurídicas.
+**Karely Ruiz** ha revelado que enfrenta ciertos **inconvenientes de salud** durante su embarazo. Según la web [Milenio](https://www.milenio.com/espectaculos/famosos/karely-ruiz-cual-es-su-estado-de-salud-tras-horrible-infeccion "https://www.milenio.com/espectaculos/famosos/karely-ruiz-cual-es-su-estado-de-salud-tras-horrible-infeccion"), ha sufrido una infección en vías urinarias que ha requerido **atención médica** constante. Esta situación ha llevado a la ‘influencer’ a expresar su **angustia en redes sociales**, donde ha compartido momentos de vulnerabilidad con sus seguidores. 
 
-Se les investiga por almacenamiento, transporte, envasado, comercialización o distribución ilegal de productos derivados de **hidrocarburos**.
+En un reciente video, **Karely se mostró desconsolada**, al manifestar su preocupación por las complicaciones que podría traer esta infección para su bebé. 
 
-Las **personas naturales** son: Fernando V., José C., Lady C., Jessenia V. y Carolina T..
+> [@karelyruizoficial01](https://www.tiktok.com/@karelyruizoficial01?refer=embed "@karelyruizoficial01") 🥹🤰🏻 [#fyp](https://www.tiktok.com/tag/fyp?refer=embed "fyp") [#parati](https://www.tiktok.com/tag/parati?refer=embed "parati") [#embarazo](https://www.tiktok.com/tag/embarazo?refer=embed "embarazo") [#mamaprimeriza](https://www.tiktok.com/tag/mamaprimeriza?refer=embed "mamaprimeriza") [#embarazada](https://www.tiktok.com/tag/embarazada?refer=embed "embarazada") [♬ sonido original – Karelyruizoficial01](https://www.tiktok.com/music/sonido-original-7448114549747698438?refer=embed "♬ sonido original - Karelyruizoficial01")
 
-Las **personas jurídicas**: Fuelcorp S. A., Copedesa S. A., Corpalubri S. A., Ternape Petroleum S. A. y Indudiesel S. A.
+**¿Quién es Karely Ruiz?** 
+---------------------------
 
-El Juez Especializado en **Delitos Relacionados con Corrupción y Crimen Organizado** que conoció la causa dispuso medidas cautelares.
+**Karely Alejandra Ruiz García** nació el 28 de octubre de 2000 en **Monterrey,** Nuevo León, México. Desde pequeña, Karely mostró un espíritu emprendedor, al ayudar a su familia en un puesto de dulces. A pesar de las dificultades económicas, siempre mantuvo una actitud positiva y trabajadora, según recoge [UnoTV](https://www.unotv.com/karely-ruiz/quien-es-karely-ruiz-y-por-que-se-hizo-famosa/ "https://www.unotv.com/karely-ruiz/quien-es-karely-ruiz-y-por-que-se-hizo-famosa/"). 
 
-Para las personas naturales, resolvió la **prohibición de salida del país** y presentaciones periódicas dos días a la semana (lunes y viernes).
+Su **carrera como ‘influencer’** comenzó a despegar a los 18 años, tras un incidente donde un exnovio publicó **fotos íntimas** sin su consentimiento. Este evento la llevó a ganar notoriedad y a aprovechar la viralidad para **construir una carrera exitosa** en las redes sociales, siguiendo con la misma fuente. 
 
-Con relación a las personas, el juez ordenó **prohibición de enajenar** bienes y acciones.
+Actualmente, cuenta con más de **2 millones de seguidores** en Instagram y es reconocida por su **contenido erótico en OnlyFans**, donde se encuentra entre las creadoras mejor pagadas, de acuerdo con [Periódico correo](https://www.periodicocorreo.com.mx/ocio/karely-ruiz-biografia-quien-es-como-se-hizo-famosa-y-cuanto-gana-20230315-70006.html "https://www.periodicocorreo.com.mx/ocio/karely-ruiz-biografia-quien-es-como-se-hizo-famosa-y-cuanto-gana-20230315-70006.html").  
 
-El **Fiscal** del caso informó que, luego de la investigación, se hallaron suficientes elementos de convicción para formular cargos contra los hoy procesados.
+Karely también es conocida por su **compromiso social**. Utiliza parte de sus ingresos para **ayudar a personas necesitadas** y apoyar **causas benéficas**, lo que le ha ganado el respeto y cariño de muchos, según Uno TV.  
 
-Sin embargo, también informó que no se puede dar inicio al proceso penal de otros presuntos involucrados porque están de **candidatos** a una dignidad de elección popular en las elecciones 2025.
+Actualmente, mantiene una relación con **Jhon Echeverry**, el padre de su **hija Madisson**. 
 
-El caso Triple A empezó con una denuncia presentada el 12 de julio del año en curso, por parte de la **Agencia de Regulación y Control de Energía y Recursos Naturales No Renovables**.
+**¿Por qué es famosa?** 
+------------------------
 
-La Agencia detectó una irregular distribución y comercialización de combustibles, que provocaría un perjuicio al **Estado ecuatoriano**.
+La fama de Karely Ruiz no solo se debe a su contenido. A través de sus **redes sociales**, comparte momentos íntimos y reflexiones sobre la vida, lo que la hace accesible y **auténtica ante sus seguidores**, de acuerdo con [Infobae](https://www.infobae.com/mexico/2024/02/21/como-inicio-la-fama-de-karely-ruiz-la-famosa-modelo-mexicana-de-onlyfans/ "https://www.infobae.com/mexico/2024/02/21/como-inicio-la-fama-de-karely-ruiz-la-famosa-modelo-mexicana-de-onlyfans/").  
 
-“De la denuncia se extrae que existirían **diferencias considerables** entre el volumen de combustible despachado y el facturado por varias estaciones y empresas”, señaló la Fiscalía.
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DDAWXH6yaWg/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de Karely Ruiz (@karelyruiz)](https://www.instagram.com/reel/DDAWXH6yaWg/?utm_source=ig_embed&utm_campaign=loading)
 
-Se estableció la existencia de la relación de las empresas procesadas con otras distribuidoras de combustible, entre las que se **comercializaron** grandes cantidades de combustible, sobre todo diésel.
+Además, **ha colaborado con diversas celebridades** y participado en programas de televisión, lo que ha ampliado su alcance y consolidado su estatus como **figura influyente** en la **cultura pop mexicana.** 
 
-“En dichas transacciones, se hallaron **presuntas irregularidades**“, agregó.
+Su capacidad para **transformar experiencias difíciles en oportunidades** positivas es parte fundamental de su atractivo. 
 
-### Las investigaciones
+### Te recomendamos:
 
-La Fiscalía presume que el **diésel** subsidiado habría sido desviado a otros segmentos, pues varias de las estaciones que adquirieron el combustible se encuentran en **zonas fronterizas y mineras**.
+Un militar resultó herido en un enfrentamiento en Tulcán
+========================================================
 
-En uno de los casos señalados, una estación de venta de combustible adquirió más de 7 millones de galones, cuando la misma tiene una **capacidad de almacenamiento** para cerca de 10 000 galones.
+El ataque armado se produjo cuando dos camiones intentaron evadir el control militar debido a presunto contrabando
+------------------------------------------------------------------------------------------------------------------
 
-La Fiscalía expuso informes del **Servicio de Rentas Internas (SRI)** y de la **Unidad de Análisis Financiero y Económico (UAFE)** para sustentar sus argumentos.
+![Un ataque armado se dio en la noche del 16 de diciembre.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-17T115546.427.jpg)
 
-El delito que se investiga es sancionado con una pena privativa de libertad de hasta cinco años, según el **Código Orgánico Integral Penal (Coip)**.
+El **Ejército Ecuatoriano** informó sobre un **enfrentamiento armado** que se produjo en Tulcán, en el que un efectivo militar resultó herido. El ataque se dio cuando dos camiones trataron de evadir el control militar.
 
-La Supercopa Ecuador tendrá el clásico de El Nacional y Liga de Quito
-=====================================================================
+### Más noticias
 
-Liga de Quito, campeón de la Liga Pro, jugará ante El Nacional, campeón de la Copa Ecuador, la final de la Supercopa Ecuador.
------------------------------------------------------------------------------------------------------------------------------
+* [Ejército ecuatoriano trasladó 180 reos a la cárcel de Latacunga](https://www.elcomercio.com/actualidad/seguridad/ejercito-ecuatoriano-traslado-180-reos-carcel-de-latacunga.html "Ejército ecuatoriano trasladó 180 reos a la cárcel de Latacunga")
+* [Ejército ecuatoriano abrirá inscripciones en enero de 2025](https://www.elcomercio.com/actualidad/ecuador/ejercito-ecuatoriano-abrira-inscripciones-enero-2025.html "Ejército ecuatoriano abrirá inscripciones en enero de 2025")
+* [Ejército y SNAI trasladan a 1 193 personas privadas de la libertad a otras prisiones](https://www.elcomercio.com/actualidad/seguridad/snai-traslada-a-1-193-personas-privadas-de-la-libertad-a-otras-prisiones.html "Ejército y SNAI trasladan a 1 193 personas privadas de la libertad a otras prisiones")
 
-![David Cabezas (izq.) de El Nacional, mejor arquero de la Copa Ecuador, saluda con Álex Arce (der.) de Liga de Quito, máximo goleador de la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/12/20241002130692-fbl-copa-ecuador-liga-nacional-scaled.jpg)
+El ataque armado
+----------------
 
-Con el culmen de los torneos de 2024 en el país, una nueva final ya quedó determinada para el 2025. Una vez que **Liga de Quito** se coronó como campeón de la Liga Pro, el duelo de definición de la Supercopa Ecuador quedó fijada y los albos se enfrentarán a **El Nacional**, que ganó la **Copa Ecuador**.
+El **personal militar** del Batallón de Infantería motorizado N°39 Mayor Galo Molina se encontraba realizando un **operativo en la noche** del lunes 16 de diciembre.
 
-El conjunto azucena fue el encargado de cerrar el año futbolístico en Ecuador ante Independiente del Valle, al que derrotó en la final de la **Liga Pro** por un marcador global de 3-1. En la ida, la ‘U’ se impuso por 3-0 y en la vuelta cayó por la mínima diferencia.
+En el sector de **San Vicente, del cantón Tulcán,** dos camiones **trataron de evadir** el control militar y abrieron fuego contra el personal.
+
+Como consecuencia, uno de los **militares resultó herido** y fue trasladado al Centro de Especialidades Médicas de Tulcán. Así mismo, un camión militar HOWO sufrió el impacto de las balas.
+
+El personal militar, en uso legítimo de la fuerza, respondió al fuego iniciado por los presuntos contrabandistas, lo que concluyó con una **persona civil herida**.
+
+En este operativo, se **detuvo a una persona y a los dos camiones**, los cuales fueron entregados a las autoridades competentes para los trámites de ley.
+
+El Ejército Ecuatoriano reafirma su compromiso con la seguridad de los ecuatorianos y no se dejará intimidar por los amedrentamientos de los [grupos delictivos](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador").
+
+> El éxito de las operaciones militares y la seguridad de la nación radica en la formación y en el rigor de sus soldados.[#EjércitoECU](https://twitter.com/hashtag/Ej%C3%A9rcitoECU?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/LmekelX6QK](https://t.co/LmekelX6QK)
+> 
+> — Ejército Ecuatoriano (@EjercitoECU) [December 17, 2024](https://twitter.com/EjercitoECU/status/1868992577334394898?ref_src=twsrc%5Etfw)
+
+Ejército realizó operativos en Esmeraldas
+-----------------------------------------
+
+El Batallón de Infantería Motorizado de **Esmeraldas** implementó una operación de seguridad en el sector La Siete, en el que identificó a dos individuos en un asalto.
+
+Los **sujetos intentaban robar** a otra persona con el uso de un arma de fuego. De inmediato, los militares siguieron al sospechoso y **aprehendió a uno de ellos.**
+
+Se aprehendió a Herlin Xavier V., quien **tenía posesión de un arma de fuego**, municiones y una moto, las que se decomisaron por los militares.
+
+> 𝗠𝗶𝗹𝗶𝘁𝗮𝗿𝗲𝘀 𝗮𝗽𝗿𝗲𝗵𝗲𝗻𝗱𝗲𝗻 𝗮 𝗽𝗿𝗲𝘀𝘂𝗻𝘁𝗼𝘀 𝗮𝘀𝗮𝗹𝘁𝗮𝗻𝘁𝗲𝘀[#Esmeraldas](https://twitter.com/hashtag/Esmeraldas?src=hash&ref_src=twsrc%5Etfw)| El Batallón de Infantería Motorizado N.º 13 Esmeraldas, durante una operación de seguridad en el sector de [#LaSiete](https://twitter.com/hashtag/LaSiete?src=hash&ref_src=twsrc%5Etfw), observó a dos individuos cometiendo un asalto con un arma de… [pic.twitter.com/l9Fhih7Kf2](https://t.co/l9Fhih7Kf2)
+> 
+> — Ejército Ecuatoriano (@EjercitoECU) [December 16, 2024](https://twitter.com/EjercitoECU/status/1868683622196339165?ref_src=twsrc%5Etfw)
+
+Moisés Caicedo brilla en el equipo de la semana de la Premier League
+====================================================================
+
+El ecuatoriano Moisés Caicedo, jornada tras jornada en la Premier League, demuestra por qué es uno de los mejores futbolistas de la actualidad.
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+![Moisés Caicedo integró el equipo de la semana de la Premier League por segunda vez en la temporada 24/25.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-17T112529.711.jpg)
+
+**Moisés Caicedo** fue una de las figuras del **Chelsea** en la última victoria de su equipo por 2-1 frente al Brentford, en la jornada 16 de la **Premier League.** Aunque no marcó ni asistió, su destacado desempeño en el mediocampo le valió un lugar en el equipo de la semana de la liga inglesa.
+
+El ‘Niño Moi’ volvió a brillar como un auténtico “perro de caza” en el centro del campo, destacándose por sus importantes recuperaciones y precisión en los pases. Además, el tricolor participó activamente en la jugada del segundo gol de los ‘Blues’.
+
+### Más noticias:
+
+* [Moisés Caicedo reveló quién es su ídolo del Chelsea](https://www.elcomercio.com/deportes/moises-caicedo-idolo-chelsea-revelacion.html "Moisés Caicedo reveló quién es su ídolo del Chelsea")
+* [Moisés Caicedo recibe un nuevo reconocimiento en el Chelsea](https://www.elcomercio.com/deportes/futbol/moises-caicedo-recibe-nuevo-reconocimiento-chelsea-premier.html "Moisés Caicedo recibe un nuevo reconocimiento en el Chelsea")
+* [Moisés Caicedo brilló, Chelsea ganó y es escolta del Liverpool](https://www.elcomercio.com/deportes/futbol/moises-caicedo-premier-league-escolta.html "Moisés Caicedo brilló, Chelsea ganó y es escolta del Liverpool")
+
+Moisés Caicedo en el XI ideal de la Premier League
+--------------------------------------------------
+
+Para el Chelsea, **[Moisés Caicedo](https://www.elcomercio.com/deportes/moises-caicedo-chelsea-rendimiento-premier-league-tottenham.html "Premier League destaca las cualidades de Moisés Caicedo con Chelsea")** fue la figura destacada del compromiso, y también lo fue para Alan Shearer, leyenda del fútbol inglés y encargado de seleccionar el equipo de la semana de la Premier League.
+
+El exfutbolista ubicó a Caicedo **como pivote en su XI ideal de la jornada 16**, siendo el único jugador del Chelsea en aparecer.
+
+“El centrocampista del Chelsea **volvió a brillar, ganando tackles y recuperando la posesión** una y otra vez en la mitad del campo del Brentford”, escribió [Shearer](https://www.premierleague.com/news/4199403 "https://www.premierleague.com/news/4199403") sobre la actuación del ecuatoriano.
+
+![Moisés Caicedo en un partido de la Premier League con el Chelsea.](https://www.elcomercio.com/wp-content/uploads/2024/12/moi_segundo_1-1024x683.jpg)
+
+A nivel estadístico, según SofaScore, [Caicedo](https://www.sofascore.com/es/jugador/moises-caicedo/987650 "https://www.sofascore.com/es/jugador/moises-caicedo/987650") completó el 86% de sus pases, dio dos pases clave y realizó un disparo a puerta, destacándose en el apartado ofensivo. En defensa, **volvió a sobresalir al ganar seis de 14 duelos**, realizar cuatro intercepciones, dos entradas y recuperar el balón en 13 ocasiones.
+
+Estas cifras demuestran su **capacidad para ser determinante** tanto en la recuperación como en la construcción del juego.
+
+El equipo de la semana quedó conformado de la siguiente manera:
+
+**Arquero:** Jordan Pickford (Everton).  
+**Defensas:** Nikola Milenkovic (Nott. Forest), Maxence Lacroix (Crystal Palace) y Lewis Hall (Newcastle).  
+**Mediocampistas:** Moisés Caicedo (Chelsea), Amad Diallo (Man. United), James Maddison (Spurs) e Ismaila Sarr (Crystal Palace).  
+**Delanteros:** Jacob Murphy (Newcastle), Alexander Isak (Newcastle) y Son Heung-Min (Spurs).
+
+> Alan Shearer's Team of the Week for Matchweek 16 has landed 🛬  
+>   
+> Do you agree with his selections? 👇 [pic.twitter.com/L141AWhqn2](https://t.co/L141AWhqn2)
+> 
+> — Premier League (@premierleague) [December 17, 2024](https://twitter.com/premierleague/status/1869026257410617782?ref_src=twsrc%5Etfw)
+
+El Chelsea y sus aspiraciones en la Premier League
+--------------------------------------------------
+
+Con este triunfo, el **Chelsea** se mantiene firme en la segunda posición de la tabla con 34 puntos y una diferencia de gol de +19. Su campaña incluye 10 victorias, 4 empates y solo 2 derrotas.
+
+El **Liverpool** lidera con 36 puntos y un partido menos, por lo que, de ganar su encuentro pendiente, podría extender su ventaja a 5 puntos sobre los londinenses.
+
+El Chelsea aún tiene **compromisos importantes en 2024**, comenzando con su último partido de la fase de grupos de la Conference League ante el Shamrock Rovers. Luego, en la Premier League, enfrentará a Everton, Fulham e Ipswich Town, encuentros clave para mantener la presión sobre el Liverpool y continuar en la pelea por el título.
+
+Confesionario – Antonio Valencia
+--------------------------------
+
+Edmundo González y María Corina Machado, galardonados con el premio Sájarov
+===========================================================================
+
+Edmundo González recogió el premio Sájarov que otorga el Parlamento Europeo junto a Ana Corina Sosa, la hija de María Corina Machado.
+-------------------------------------------------------------------------------------------------------------------------------------
+
+![Ana Corina Sosa (d), hija de la líder opositora María Corina Machado y el candidato presidencial de la oposición, Edmundo González Urrutia (i), posan junto a Roberta Metsola (c), presidenta del Parlamento Europeo.](https://www.elcomercio.com/wp-content/uploads/2024/12/edmungo-gonzalez-machado-efe.jpg)
+
+El líder opositor venezolano Edmundo González recibió este martes, 17 de diciembre de 2024, el **premio Sájarov** a la libertad de conciencia. Aseguró que lo acepta **“con gratitud pero sobre todo con inmensa responsabilidad**“. Advirtió de que la **violencia que sufren por parte del régimen** es “un torpe instrumento para postergar lo inevitable”.
+
+### Más noticias
+
+* [Fiscalía de Venezuela abre investigación contra María Corina Machado](https://www.elcomercio.com/actualidad/mundo/fiscalia-venezuela-maria-corina-machado-investigacion.html "Fiscalía de Venezuela abre investigación contra María Corina Machado")
+* [Venezuela aprueba ley que ordena 30 años de prisión por promover sanciones extranjeras](https://www.elcomercio.com/actualidad/mundo/venezuela-aprueba-ley-ordena-30-anos-prision-promuevan-extranjeras.html "Venezuela aprueba ley que ordena 30 años de prisión por promover sanciones extranjeras")
+* [Edmundo González está moralmente preparado para una eventual detención en Venezuela](https://www.elcomercio.com/actualidad/mundo/edmundo-gonzalez-moralmente-preparado-eventual-detencion-venezuela.html "Edmundo González está moralmente preparado para una eventual detención en Venezuela")
+
+“Quienes quieren secuestrar lo que pertenece a todos los venezolanos saben que más temprano que tarde **nuestro país retomará el rumbo** que ya marcó nuestro pueblo”, dijo el líder opositor ante el hemiciclo de la Eurocámara.
+
+Ana Corina Sosa, hija de María Corina Machado
+---------------------------------------------
+
+Edmundo González recogió el premio Sájarov a la libertad de conciencia que otorga cada año el Parlamento Europeo junto a **Ana Corina Sosa**, la hija de María Corina Machado. La líder no pudo acudir a Francia a recoger el galardón. Reconoce la **labor de ambos como líderes** de la oposición venezolana.
+
+“Sabemos bien que esta lucha no es ni será fácil. Lo saben mejor que nadie **nuestros presos políticos,** cuyo número, por desgracia, la dictadura se encargo de **elevar exponencialmente** durante los últimos meses. Tal como lo demuestra la experiencia de quienes obtuvieron este premio anteriormente, el largo camino hacia la **libertad siempre estuvo minado de dificultades**“, lamentó González Urrutia.
+
+El líder opositor venezolano, que pronunció su discurso en **español, inglés y francés,** incidió en que “ningún gobierno que se **sustenta en la violencia es estable**“. Reiteró que su compromiso personal es de “tender la mano a todos los **actores dispuestos** a acercar posturas para avanzar por este camino de concordia y unidad nacional”.
+
+En un mensaje en vídeo intervino también María Corina Machado, que permanece en la c**landestinidad en Venezuela** por el riesgo de represalias por parte del régimen.
+
+> Después de 6 días de brutal represión, creyeron que nos iban a callar, a parar o atemorizar… miren la respuesta.  
+>   
+> Hoy, la presencia de que cada ciudadano en las calles de Venezuela demuestra la magnitud de la fuerza cívica que tenemos y la determinación de llegar hasta el… [pic.twitter.com/O8u4EDcsSR](https://t.co/O8u4EDcsSR)
+> 
+> — María Corina Machado (@MariaCorinaYA) [August 3, 2024](https://twitter.com/MariaCorinaYA/status/1819801672715223278?ref_src=twsrc%5Etfw)
+
+“Nuestra lucha demuestra lo que puede alcanzar una **sociedad profundamente maltratada** cuando, remando contra la corriente y superando obstáculos, decide avanzar unida por la senda del bien. Venezuela cambió, nunca más seremos los mismos. Por la naturaleza de este movimiento épico sabemos que vamos a triunfar”, dijo Machado al hemiciclo.
+
+La líder opositora venezolana aseguró que durante el **último cuarto de siglo el régimen** trató de enfrentar mutuamente a los venezolanos y dividirles. Además, de debilitar al núcleo de la familia, destruir las instituciones democráticas y asfixiar la economía.
+
+“Pero esa **Venezuela postrada reaccionó.** Contra todo pronóstico, esa sociedad dividida decidió reencontrarse y levantarse desde sus cenizas”, celebró [María Corina Machado](https://es.wikipedia.org/wiki/Mar%C3%ADa_Corina_Machado "https://es.wikipedia.org/wiki/Mar%C3%ADa_Corina_Machado").
+
+La **presidenta del Parlamento Europeo, Roberta Metsola**, transmitió a ambos que el premio reconoce “sus esfuerzos incansables para **restaurar la libertad y democracia en Venezuela** y para asegurar una transición de poder justa, libre y pacífica”.
+
+“Arriesgaron todo por los **valores que millones de venezolanos** y este Parlamento tanto aprecian: justicia, democracia y e**l Estado de derecho**“, señaló Metsola. Se mostró convencida de que el “puño de hierro de Nicolás Maduro no puede aplastar el espíritu. Las **voces del pueblo venezolano** que salen a las calles para reclamar democracia y justicia”, la “verdadera esencia de la **libertad de pensamiento**“.
+
+En una rueda de prensa, **Metsola aseguró que volverá a trasladar a los jefes de Estado** y de Gobierno de la Unión Europea su impulso para tratar de que reconozcan a [Edmundo González](https://es.wikipedia.org/wiki/Edmundo_Gonz%C3%A1lez "https://es.wikipedia.org/wiki/Edmundo_Gonz%C3%A1lez") **como presidente electo de Venezuela**. Esto es algo que sí hizo el Parlamento Europeo pero para lo que aún no hay consenso entre los gobiernos de la UE.
+
+“Hemos estado consistentemente del lado del pueblo venezolano. En el **primer Consejo Europeo** al que fui después de las elecciones de julio este es el mensaje que di a los líderes. Este es el mensaje que llevaré conmigo, incluyendo pasado mañana”, dijo, en referencia a la cumbre de líderes que se celebra en Bruselas. 
+
+Un temblor de 3.8 se registró en Ecuador este martes 17 de diciembre
+====================================================================
+
+Usuarios en redes sociales comentaron que no sintieron el sismo, pues este fue de poca magnitud y muy profundo.
+---------------------------------------------------------------------------------------------------------------
+
+![Un temblor se registró en Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-17T105737.299.jpg)
+
+El **Instituto Geofísico** (IG) de la Politécnica Nacional informó este martes **17 de diciembre** de 2024 sobre la actividad sísmica registrada en Ecuador.
+
+### Más noticias
+
+* [¿Sintieron el temblor de 2.9 en Quito?](https://www.elcomercio.com/actualidad/quito/un-temblor-de-2-9-se-registro-en-quito-este-jueves-12-de-diciembre.html "¿Sintieron el temblor de 2.9 en Quito?")
+* [Un terremoto de 7.3 causó destrozos en la capital de Vanuatu, en Oceanía](https://www.elcomercio.com/actualidad/mundo/terremoto-de-7-3-destrozos-capital-vanuatu-oceania-fallecidos.html "Un terremoto de 7.3 causó destrozos en la capital de Vanuatu, en Oceanía")
+* [Un terremoto de magnitud 7 sacudió el norte de California](https://www.elcomercio.com/actualidad/mundo/terremoto-magnitud-sacude-norte-california-alerta-tsunami.html "Un terremoto de magnitud 7 sacudió el norte de California")
+
+El epicentro se ubicó cerca de la costa
+---------------------------------------
+
+Este martes 17 de diciembre, **un nuevo temblor se registró en Ecuador**. El sismo tuvo una magnitud de 3.8 en la escala de Richter y se registró a una profundidad de 48 kilómetros.
+
+El **movimiento telúrico** se ubicó a una latitud de 2.630° S y a una longitud de 80.596° W.
+
+Su epicentro se localizó a **22,95 kilómetros de Playas,** provincia del Guayas.
+
+Usuarios en redes sociales comentaron que **no sintieron el sismo**, pues este fue de poca magnitud y muy profundo.
+
+> \[REVISADO\]  
+> Evento: igepn2024ysjx  
+> Ocurrido: 2024-12-17 09:18:34  
+> Mag.: 3.8MLv  
+> Prof.: 48.0 km  
+> Lat.: 2.630° S  
+> Long.: 80.596° W  
+> Localizado: a 22.95 km de Playas, Guayas  
+> Sintió este sismo? Repórtelo: [https://t.co/HuSPtsYcCk](https://t.co/HuSPtsYcCk) [pic.twitter.com/xZtof7aJfM](https://t.co/xZtof7aJfM)
+> 
+> — Instituto Geofísico (@IGecuador) [December 17, 2024](https://twitter.com/IGecuador/status/1869028211302293733?ref_src=twsrc%5Etfw)
+
+Otro temblor se sintió en Guayas
+--------------------------------
+
+El **Instituto** **Geofísico** de la Escuela Politécnica Nacional informó sobre un **sismo** de magnitud 4.1 MLv ocurrido en **Durán**, provincia de **Guayas**, la mañana del sábado 14 de diciembre de 2024[.](https://es.wikipedia.org/wiki/Terremoto "https://es.wikipedia.org/wiki/Terremoto")
+
+Según el reporte del Instituto **Geofísico**, el sismo tuvo una profundidad de 68 kilómetros, con coordenadas de latitud 2.373° S y longitud 79.792° W. El epicentro se localizó a 23,78 kilómetros de **Durán**.
+
+> \[REVISADO\]  
+> Evento: igepn2024ymvz  
+> Ocurrido: 2024-12-14 08:35:34  
+> Mag.: 4.1MLv  
+> Prof.: 68.0 km  
+> Lat.: 2.373° S  
+> Long.: 79.792° W  
+> Localizado: a 23.78 km de Duran, Guayas  
+> Sintió este sismo? Repórtelo: [https://t.co/Tf4oLfKlVJ](https://t.co/Tf4oLfKlVJ) [pic.twitter.com/iLXjW5guCO](https://t.co/iLXjW5guCO)
+> 
+> — Instituto Geofísico (@IGecuador) [December 14, 2024](https://twitter.com/IGecuador/status/1867930001250668750?ref_src=twsrc%5Etfw)
+
+Ese mismo día, otro sismo en **Paján, Manabí.** Este tuvo una magnitud de 4.5 en la escala de Richter, a una profundidad de 50 kilómetros de la superficie.
+
+El sismo se dio a una latitud de 1.554° S y a una longitud de 80.611° W. Su epicentro se localizó a 20,45 kilómetros de Paján, [Manabí](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador").
+
+> \[REVISADO\]  
+> Evento: igepn2024ynew  
+> Ocurrido: 2024-12-14 13:05:13  
+> Mag.: 4.5MLv  
+> Prof.: 50.0 km  
+> Lat.: 1.554° S  
+> Long.: 80.611° W  
+> Localizado: a 20.45 km de Pajan, Manabi  
+> Sintió este sismo? Repórtelo: [https://t.co/mLNPbkLKw6](https://t.co/mLNPbkLKw6) [pic.twitter.com/BG7dFtyWRL](https://t.co/BG7dFtyWRL)
+> 
+> — Instituto Geofísico (@IGecuador) [December 14, 2024](https://twitter.com/IGecuador/status/1867997252633141392?ref_src=twsrc%5Etfw)
+
+‘El Cigala’ condenado a prisión por maltratos a su exmujer 
+===========================================================
+
+Diego ‘El Cigala’ ha sido condenado por maltratos a su exmujer, Kina Méndez.
+----------------------------------------------------------------------------
+
+![El cantaor Diego ‘El Cigala’ une flamenco y géneros latinos. Foto: Instagram @elcigalaoficial.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diego-El-Cigala.jpg)
+
+El **cantaor español [Diego ‘El Cigala’](https://www.instagram.com/elcigalaoficial/ "https://www.instagram.com/elcigalaoficial/")** ha sido condenado a dos años y un mes de prisión por **maltratos a su exmujer**, la cantaora **Kina Méndez**. Esta sentencia, emitida por el Juzgado de lo Penal número 3 de **Jerez de la Frontera** (Cádiz), se basa en **varios episodios de violencia** que ocurrieron entre 2017 y 2020, según recoge el [Huffingtonpost](https://www.huffingtonpost.es/life/cultura/el-cigala-condenado-dosnos-mes-prision-malos-tratos-exmujer.html "https://www.huffingtonpost.es/life/cultura/el-cigala-condenado-dosnos-mes-prision-malos-tratos-exmujer.html"). 
+
+### Más noticias
+
+* [El cantaor El Cigala es detenido en España acusado de maltrato por su pareja](https://www.elcomercio.com/tendencias/entretenimiento/artista-cigala-detenido-maltrato-pareja.html "https://www.elcomercio.com/tendencias/entretenimiento/artista-cigala-detenido-maltrato-pareja.html")
+* [Diego El Cigala suspende concierto en República Dominica por complicaciones de salud](https://www.elcomercio.com/tendencias/entretenimiento/diego-cigala-presentacion-republica-dominicana.html "https://www.elcomercio.com/tendencias/entretenimiento/diego-cigala-presentacion-republica-dominicana.html")
+
+Aunque **la sentencia no es firme** y se puede apelar, la decisión del tribunal ha generado un gran revuelo en el ámbito cultural y musical. 
+
+**Biografía de Diego ‘El Cigala’** 
+-----------------------------------
+
+**Diego Ramón Jiménez Salazar**, conocido artísticamente como **Diego ‘El Cigala’**, nació el 27 de diciembre de 1970 en Madrid, España. Es reconocido por su estilo único que **fusiona el flamenco con otros géneros** como el jazz y la música latina. Su carrera despegó en los años 90, y desde entonces ha lanzado varios álbumes aclamados, convirtiéndose en una **figura emblemática del flamenco** contemporáneo. ‘El Cigala’ se ha presentado [varias veces en Ecuador](https://www.casadelamusica.ec/programacion/elcigala "https://www.casadelamusica.ec/programacion/elcigala"), donde ha cautivado al público con su potente voz y emotivas interpretaciones. 
+
+**Detalles del juicio** 
+------------------------
+
+La condena se basa en **tres delitos de malos tratos**. El primero ocurrió en un hotel de Jerez durante el verano de 2017, donde tras una discusión acalorada, **‘El Cigala’ le propinó una bofetada a su exmujer**. En otro incidente, ocurrido en julio de 2019 en Palafrugell (Girona), **agredió físicamente a Méndez** tras un enfrentamiento verbal. Finalmente, un tercer episodio se produjo en noviembre de 2020 en su hogar en Jerez, donde la magistrada constató que **‘El Cigala’ la agarró del cuello durante una discusión**, a decir de [El Confidencial](https://www.elconfidencial.com/cultura/2024-12-17/cigala-condenado-prision-malos-tratos-exmujer_4025667/ "https://www.elconfidencial.com/cultura/2024-12-17/cigala-condenado-prision-malos-tratos-exmujer_4025667/").  
+
+La jueza impuso una pena total de seis meses por el primer delito y ocho meses por el segundo. Además, **le prohibió comunicarse o acercarse** a menos de 200 metros de su expareja durante dos años, de acuerdo con [Diario Libre](https://www.diariolibre.com/revista/musica/2024/12/17/diego-el-cigala-condenado-a-dos-anos-y-un-mes-de-carcel/2943636 "https://www.diariolibre.com/revista/musica/2024/12/17/diego-el-cigala-condenado-a-dos-anos-y-un-mes-de-carcel/2943636").  
+
+También fue condenado por un **delito leve** y continuado de vejaciones en el ámbito doméstico, según [El Diario](https://www.eldiario.es/andalucia/cigala-condenado-anos-mes-prision-malos-tratos-exmujer_1_11908338.html "https://www.eldiario.es/andalucia/cigala-condenado-anos-mes-prision-malos-tratos-exmujer_1_11908338.html").  
+
+**Reacciones y contexto** 
+--------------------------
+
+La noticia **ha causado conmoción** no solo entre los seguidores del cantaor sino también en el ámbito musical. La sentencia resalta la **importancia de abordar estos problemas** dentro del contexto cultural y social actual. **‘El Cigala’ ha negado las acusaciones** y ha anunciado su intención de **apelar la decisión judicial**, a decir de [Telecinco](https://www.telecinco.es/famosos/20241217/cigala-condenado-prision-malos-tratos-exmujer_18_014305205.html "https://www.telecinco.es/famosos/20241217/cigala-condenado-prision-malos-tratos-exmujer_18_014305205.html").  
+
+Este caso pone de relieve la necesidad de una discusión más amplia sobre la **violencia contra las mujeres** en todas las esferas, incluida la cultura. A medida que avanza el proceso judicial, muchos esperan que este caso sirva como un punto de inflexión para abordar temas críticos relacionados con la **violencia doméstica** y el tratamiento adecuado hacia las víctimas. 
+
+### Te recomendamos:
+
+Ucrania alerta desastre ambiental en el Mar Negro por vertido de petróleo ruso
+==============================================================================
+
+Dos petroleros con más de 8 000 toneladas de combustible sufrieron graves daños el domingo, 15 de diciembre de 2024.
+--------------------------------------------------------------------------------------------------------------------
+
+![Es una imagen tomada desde el petrolero Volgoneft 212.](https://www.elcomercio.com/wp-content/uploads/2024/12/naufragio-rusos-petroleo-1.jpeg)
+
+Ucrania advirtió que el vertido en las **costas de la península** ocupada de Crimea del petróleo que transportaban dos petroleros rusos puede provocar graves daños. Esto para el ecosistema del mar Negro y pone de manifiesto el peligro que, para el medioambiente a escala global, suponen los barcos en ocasiones viejos y mal asegurados que usa **Rusia para exportar crudo pese a las sanciones.**
+
+### Más noticias
+
+* [La invasión de Ucrania sigue dividiendo a Rusia y Occidente](https://www.elcomercio.com/actualidad/mundo/invasion-ucrania-sigue-dividiendo-rusia-occidente.html "La invasión de Ucrania sigue dividiendo a Rusia y Occidente ")
+* [Zelenski sugiere que podría poner fin a la guerra en Ucrania a cambio de unirse a la OTAN](https://www.elcomercio.com/actualidad/mundo/zelenski-sugiere-podria-poner-fin-guerra-ucrania-cambio-unirse-otan.html "Zelenski sugiere que podría poner fin a la guerra en Ucrania a cambio de unirse a la OTAN")
+* [Maria Zakharova, portavoz de Rusia, recibió instrucciones para no hablar sobre Ucrania](https://www.elcomercio.com/actualidad/mundo/maria-zakharova-portavoz-de-rusia-recibio-instrucciones-para-no-hablar-sobre-ucrania.html "Maria Zakharova, portavoz de Rusia, recibió instrucciones para no hablar sobre Ucrania")
+
+Según señaló el **Ministerio de Medio Ambiente ucraniano** el lunes, 16 de diciembre de 2024, el derrame tendrá **consecuencias “catastróficas”** para las poblaciones de peces, **plancton y aves marinas de la zona**, y también para las costas y el fondo del mar.
+
+Dos petroleros con más de **8 000 toneladas de combustible sufrieron graves daños** el domingo, 15 de diciembre de 2024, junto al puerto de Kerch, en Crimea, durante una tormenta, según han informado medios rusos.
+
+**Greenpeace Ucrania** alertó del riesgo de que el **derrame de combustible contamine** gravemente la línea de la costa si los barcos acaban hundiéndose y que sería **“extremadamente difícil”** limpiar el vertido si se da finalmente esa circunstancia.
+
+Negligencias de seguridad
+-------------------------
+
+“Esto es una consecuencia del **típico desprecio ruso** por los estándares internacionales de seguridad”, afirmó el **Ministerio de Medio Ambiente** ucraniano en su comunicado sobre el accidente.
+
+Según el Ministerio, es probable que el siniestro se produjera a **causa del incumplimiento** por parte de Rusia de los requisitos de **seguridad marítima** por usar en mar abierto y durante una tormenta barcos diseñados para navegar por ríos.
+
+Los **dos petroleros siniestrados**, que llevan por nombre **Volgoneft-212 y Volgoneft-239,** tenían respectivamente 55 y 51 años y podían ser utilizados sólo en **ríos o zonas de costa** en condiciones metereológicas favorables, según explicó Andrí Klimenko, del **Instituto para Estudios Estratégicos del Mar Negro.**
+
+Según anunció el **Ministerio de Medio Ambiente** ucraniano, Kiev llevará el caso a las organizaciones internacionales competentes mientras sus expertos evalúan la **posible magnitud** de la contaminación provocada por el accidente.
+
+Un peligro global
+-----------------
+
+Según el Gobierno ucraniano, el incidente pone de manifiesto la necesidad de un **mayor control** del nivel de cumplimiento por parte de Rusia de los estándares de seguridad marítima. Kiev considera lo ocurrido como una **señal de la urgencia** de que se ejerza más presión sobre Rusia para evitar futuras catástrofes similares en el futuro.
+
+Para Maksim Gardus, de la oenegé ucraniana Razom We Stand, el **incidente en el estrecho de Kerch** -que **separa Crimea del territorio ruso**– es otra prueba de que Rusia sigue utilizando petroleros viejos que son peligrosos para el medioambiente para transportar **petróleo** y **productos derivados.**
+
+“Rusia utiliza **viejos petroleros** que suponen una amenaza para toda la región, para el **mar Negro, el Báltico, el Mediterráneo y los mares del Norte**. Reforzar las sanciones y controlar el movimiento de los barcos rusos ya no es simplemente una cuestión política, sino también un **asunto de seguridad** y ecología”, escribió Gardus en sus redes sociales.
+
+El Instituto KSE de Ucrania, que forma parte del **grupo internacional de expertos Yermak-McFaul** sobre sanciones a Rusia, pidió en octubre que se adoptaran **medidas urgentes** para evitar que centenares de barcos viejos y sin seguros adecuados provoquen vertidos como el que se produjo en el mar Negro.
+
+El instituto aplaudió las sanciones de la UE adoptadas el lunes, en el marco de su décimoquinto paquete de sanciones contra Rusia, contra 45 petroleros rusos.
+
+Según los expertos ucranianos, la UE sigue sin cerrar las muchas grietas que siguen mermando el efecto de las sanciones.
+
+**Centenares de petroleros** transportan cada mes **millones de toneladas de crudo** desde los puertos rusos del mar Negro y del Báltico, pasando por las **arterias marítimas europeas** como los estrechos daneses y el estrecho de Gibraltar, declaró Andrí Klimenko, del **Instituto de Estudios Estratégicos del Mar Negro**.
+
+Según Klimenko, los **propietarios ocultan información** sobre la carga y ayudan así a Rusia a evadir los límites de precio a su petróleo. Las **exportaciones de crudo rusas** volvieron a crecer en 2024 tras una **caída temporal en 2023**.
+
+Aunque reciben a menudo e**l nombre de ‘flota fantasma’**, sus operaciones son visibles pese a los intentos de ocultarlas con la desactivación de los **sistemas GPS** y el origen de sus propietarios puede encontrarse sin **dificultad en Rusia** y en empresas de otros países.
+
+Petroleros de Grecia y de otros países europeos transportan hasta el **30 % del crudo ruso**, afirma Klimenko.
+
+Según el experto, **Rusia continuará su agresión contra Ucrania** mientras las sanciones sigan siendo ineficaces, ya que las exportaciones de petróleo suponen la mitad de sus ingresos comerciales.
+
+El **accidente del estrecho de Kerch**, declara Maksim Gardus, de la oenegé **Razom We Stand**, le ofrece a la UE un argumento aún más poderoso para **prohibir o restringir el movimiento** de los petroleros rusos.
+
+Segundo Castillo ratificado por Barcelona Sporting Club
+=======================================================
+
+Segundo Castillo se vinculó al equipo de entrenadores de Barcelona SC en el 2022.
+---------------------------------------------------------------------------------
+
+![Segundo Castillo en la Noche Amarilla 2024 en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/12/mortero_ratificado_1.jpg)
+
+Por fin se confirmó. **Segundo Alejandro Castillo Nazareno** seguirá siendo entrenador de Barcelona Sporting Club para la temporada 2025, tal como ya se sabía desde algunos días atrás.
+
+Barcelona Sporting Club aprovechó sus redes sociales oficiales para darle, nuevamente, **la bienvenida a Segundo Castillo**, entrenador ecuatoriano que estará al frente del primer plantel en el año del centenario.
 
 ### Más noticias:
 
 * [El Nacional lanza camiseta y escudo para Copa Libertadores 2025](https://www.elcomercio.com/deportes/el-nacional-nuevo-escudo-camiseta-copa-libertadores.html "El Nacional lanza camiseta y escudo para Copa Libertadores 2025")
-* [Liga de Quito ya tiene a su primer refuerzo para el 2025](https://www.elcomercio.com/deportes/futbol/liga-de-quito-ya-tiene-a-su-primer-refuerzo-para-el-2025.html "Liga de Quito ya tiene a su primer refuerzo para el 2025")
-* [Liga de Quito, a un paso de igualar a El Nacional en campeonatos ecuatorianos](https://www.elcomercio.com/deportes/liga-quito-titulos-el-nacional-barcelona-cantidad.html "Liga de Quito, a un paso de igualar a El Nacional en campeonatos ecuatorianos")
+* [El futuro de Álex Arce sigue ligado a Liga de Quito](https://www.elcomercio.com/deportes/futbol/alex-arce-propuestas-brasil-liga.html "El futuro de Álex Arce sigue ligado a Liga de Quito")
+* [Alex Arce, el delantero de Liga de Quito que rompió varios récords](https://www.elcomercio.com/deportes/futbol/alex-arce-delantero-de-liga-de-quito-que-rompio-varios-records.html "Alex Arce, el delantero de Liga de Quito que rompió varios récords")
 
-El título del torneo liguero le dio el pase hacia el primer torneo que se disputará en 2025, pues este enfrenta al ganador del campeonato regular con el de la **Copa Ecuador**. En este último certamen, **El Nacional** también se impuso a **Independiente del Valle**, pero lo hizo en una final única y con un marcador de 1-0.
+El contrato de Castillo
+-----------------------
 
-La fecha para el cotejo entre universitarios y criollos aún no ha sido oficializada por la **Federación Ecuatoriana de Fútbol (FEF)**. Pese a ello, este torneo es el que inaugura la temporada de certámenes en el país y en su última edición se jugó en el mes de febrero.
+“Barcelona Sporting Club ha llegado a un acuerdo con el entrenador Segundo Alejandro Castillo, **para convertirse en el director técnico del primer equipo**“, reza la primera parte del comunicado de los amarillos colgado en su portal web.
 
-¿Cómo les fue a El Nacional y Liga de Quito en 2024?
-----------------------------------------------------
+Mencionan que el ‘Mortero’ se vinculó a la institución en 2022 como asistente técnico y desde el 2025 será el entrenador principal.
 
-Los dos campeones ecuatorianos tuvieron una temporada que, si bien coincidió en la obtención de títulos, **a nivel de rendimiento marcó diferencias**. Asimismo, uno de los clubes tuvo supremacía sobre el otro en cuanto a enfrentamientos.
+En el equipo de trabajo se mantendrá Orlando Cedeño (segundo asistente), **Robin Pico (preparador de arqueros)** y en los próximos días se anunciará al nuevo preparador físico con el asistente técnico, agregaron los canarios.
 
-**Liga de Quito** se coronó campeón tras ganar la segunda etapa y en la tabla acumulada finalizó en segundo puesto, separada de Independiente del Valle, únicamente, por gol diferencia. En el caso de El Nacional, este terminó séptimo en el escalafón global, sin embargo, en la **Copa Ecuador** consiguió pasar de rondas desde los dieciseisavos de final hasta hacerse con el título[.](https://es.wikipedia.org/wiki/Supercopa_de_Ecuador "https://es.wikipedia.org/wiki/Supercopa_de_Ecuador")
+Adelantaron que la pretemporada arrancará el **3 de enero con los chequeos médicos** y luego con la preparación en la parte física y futbolística para afrontar la Liga Pro, Copa Ecuador y fase dos de la Copa Libertadores.
 
-Los dos clubes se cruzaron en **tres oportunidades** en el año. En la Liga Pro, los universitarios vencieron en una oportunidad y empataron en otra; dentro de la Copa Ecuador, los clubes se midieron en cuartos de final y el ‘Rojo’ venció en penales tras igualar en el tiempo reglamentario.
+El mundo de [Barcelona](https://www.instagram.com/barcelonasc/) se sacudió el miércoles 11 de diciembre de 2024. La noticia que **trascendió desde Guayaquil fue el no acuerdo** entre en ecuatoriano y la directiva que encabeza Antonio Álvarez.
 
-¿Cómo fueron las anteriores ediciones de la Supercopa Ecuador?
---------------------------------------------------------------
+Sin embargo, el jueves 12 las negociaciones se retomaron y **llegaron a un buen puerto luego de ponerse de acuerdo** en la parte económica. Con esto el ‘Mortero’ tendrá en sus manos la responsabilidad de encaminar al equipo a sumar un nuevo título.
 
-Para la nueva final de la **Supercopa Ecuador**, Liga de Quito llega como el máximo campeón del torneo. El cuadro azucena ha levantado la presea en dos oportunidades, mientras que El Nacional buscará aquel trofeo de manera inédita.
-
-La primera vez que se jugó el certamen fue en el 2020, donde los albos se coronaron campeones tras vencer al Delfín. Al año siguiente, estos lo volvieron a hacer con un triunfo sobre **Barcelona SC.**
-
-En 2022 no se disputó el torneo y en 2024 tampoco. La última vez que se jugó fue en 2023 y dirimió como campeón a **Independiente del Valle** tras vencer a Aucas.
-
-Ecuador envió un mensaje a Corea del Sur tras varios días de crisis política
-============================================================================
-
-La Cancillería de Ecuador envió un mensaje a Corea del Sur, tras los días de crisis política que enfrentó con la destitución de su Presidente.
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-![El Parlamento de Corea del Sur destituyó a su Presidente el sábado 14 de diciembre](https://www.elcomercio.com/wp-content/uploads/2024/12/corea-del-sur-cancilleria-ecuador.jpg)
-
-El Gobierno de **Ecuador** envió un mensaje a **Corea del Sur**, este lunes 16 de diciembre de 2024, tras la **crisis política** que enfrentó el país en días pasados, y que culminó con la destitución del presidente **Yoon Suk-yeol**.
-
-### Más noticias internacionales
-
-* [El Presidente de Corea del Sur fue destituido](https://www.elcomercio.com/actualidad/mundo/presidente-corea-sur-destituido-parlamento.html "El Presidente de Corea del Sur fue destituido")
-* [Sucoreanos celebran con K-pop la destitución de Yoon Suk-yeol](https://www.elcomercio.com/actualidad/sucoreanos-k-pop-destitucion-yoon-suk-yeol.html "Sucoreanos celebran con K-pop la destitución de Yoon Suk-yeol")
-* [El exministro de Corea del Sur fue arrestado por orden de la fiscalía](https://www.elcomercio.com/actualidad/mundo/exministro-corea-sur-arrestado-orden-fiscalia.html "El exministro de Corea del Sur fue arrestado por orden de la fiscalía")
-
-Cancillería de Ecuador, sobre situación en Corea del Sur
---------------------------------------------------------
-
-La Cancillería, en su comunicado oficial, “apreció la **recuperación del orden** en Corea del Sur”.
-
-“Ecuador se congratula de la firme defensa de la **democracia** y la ausencia de incidentes violentos durante este proceso, lo que refleja la **madurez cívica** del pueblo coreano y su compromiso inquebrantable con los valores democráticos”, manifestó el Ministerio de Relaciones Exteriores y Movilidad Humana.
-
-Además, reafirmó el “**apoyo y compromiso**” de Ecuador “para seguir fortaleciendo los lazos de amistad y cooperación” bilateral con el gobierno de **Han Duck-Soo**, el primer ministro surcoreano que asumió la presidencia interina del país tras la salida de Yoon[.](https://es.wikipedia.org/wiki/Corea_del_Sur "https://es.wikipedia.org/wiki/Corea_del_Sur")
-
-Ecuador “valora profundamente la **relación bilateral** con la República de Corea y continuará trabajando para promover una **agenda conjunta** que fomente el desarrollo, la prosperidad y el entendimiento mutuo entre ambos pueblos”, añadió la Cancillería.
-
-> Comunicado oficial | Ecuador saluda la recuperación del orden constitucional en la República de Corea [pic.twitter.com/AcD5juLVF8](https://t.co/AcD5juLVF8)
-> 
-> — Cancillería del Ecuador 🇪🇨 (@CancilleriaEc) [December 16, 2024](https://twitter.com/CancilleriaEc/status/1868777185911488759?ref_src=twsrc%5Etfw)
-
-Destitución del Presidente de Corea del Sur
--------------------------------------------
-
-El **Parlamento** de **Corea** del **Sur** destituyó este sábado 14 de diciembre al presidente Yoon Suk-yeol, tras declarar la **ley marcial** el pasado 3 de septiembre
-
-Los 300 diputados de la **Asamblea** **Nacional** participaron en el proceso, que concluyó con **204 votos** a favor de la moción presentada por la oposición, 85 en contra, tres abstenciones y ocho papeletas nulas.
-
-Para aprobar la destitución, se requería una mayoría de dos tercios, es decir, al menos **200 votos**. La decisión contó con el respaldo de **diputados** pertenecientes a su propio partido.
-
-Tribunal decidirá el futuro de Yoon Suk-yeol
---------------------------------------------
-
-Concluido el conteo, **Yoon** quedó **inhabilitado** de forma inmediata, y el primer ministro **Han** **Duck**–**soo** asumió interinamente la jefatura de Estado y Gobierno.
-
-El **Tribunal** **Constitucional** deberá decidir en un plazo máximo de 180 días si el presidente violó la Constitución al declarar la ley marcial.
-
-Si se confirma la infracción, **Yoon** se convertiría en el segundo mandatario destituido en democracia en **Corea** del **Sur**.
-
-En 2017, la expresidenta **Park Geun-hye**, también conservadora, fue apartada del cargo y encarcelada por corrupción.
-
-A Yoon, al que se le ha prohibido salir del país, así como a otros miembros de su Gabinete, como el exministro de Defensa, Kim Yong-hyun, que permanece en prisión preventiva, se les investiga por presuntos delitos de **amotinamiento**, abuso de poder o insurrección.
-
-Este último cargo es el más grave de todos ellos e incluso puede suponer el arresto de Yoon. A los líderes de levantamientos se los sanciona con **cadena perpetua**. _**Con información de EFE**_.
-
-Moisés Caicedo reveló quién es su ídolo del Chelsea
-===================================================
-
-Moisés Caicedo contó que uno de sus ídolos es un antiguo referente del Chelsea y afianzó su lazo con el club.
--------------------------------------------------------------------------------------------------------------
-
-![Moisés Caicedo durante un partido con el Chelsea en la Premier League.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-16T202241.158.jpg)
-
-**Moisés Caicedo** vive una temporada extraordinaria en el Chelsea de Inglaterra y es uno de los referentes de la escuadra. El futbolista ecuatoriano dio a conocer quién es su ídolo y nombró a una de las más recientes figuras del equipo, quien también ocupó su posición.
-
-El volante tricolor vive su segunda campaña con la casaca de los ‘blues’ y ha sido un pilar en el equipo que dirige **Enzo Maresca**. En su último partido en la Premier League, que terminó en una victoria favorable ante el Brentford, este fue elegido como el mejor de su equipo.
-
-### Más noticias:
-
-* [Moisés Caicedo recibe un nuevo reconocimiento en el Chelsea](https://www.elcomercio.com/deportes/futbol/moises-caicedo-recibe-nuevo-reconocimiento-chelsea-premier.html "Moisés Caicedo recibe un nuevo reconocimiento en el Chelsea")
-* [Moisés Caicedo brilló, Chelsea ganó y es escolta del Liverpool](https://www.elcomercio.com/deportes/futbol/moises-caicedo-premier-league-escolta.html "Moisés Caicedo brilló, Chelsea ganó y es escolta del Liverpool")
-* [Moisés Caicedo estuvo cerca de ganar un prestigioso premio en Inglaterra](https://www.elcomercio.com/deportes/futbol/moises-caicedo-estuvo-cerca-de-ganar-prestigioso-premio-en-inglaterra.html "Moisés Caicedo estuvo cerca de ganar un prestigioso premio en Inglaterra")
-
-Al conjunto británico, **Caicedo** arribó para la temporada 2023-2024 desde el Brighton por una cifra récord. La escuadra de Londres pagó una cifra de **146 millones de dólares** y el fichaje del ecuatoriano se convirtió en el más caro en la historia de la liga inglesa.
-
-Cuando llegó al **Chelsea**, Caicedo mencionó que hacía realidad un sueño, pues desde sus inicios el cuadro británico había sido una de sus referencias y hacia donde apuntaba. Ahora, la vinculación con el plantel de la capital inglesa se hizo aún más fuerte debido a su revelación.
-
-N’Golo Kanté, el ídolo de Moisés Caicedo en el Chelsea
-------------------------------------------------------
-
-En una reciente entrevista con la cadena BBC, **Moisés Caicedo** contó parte de sus expectativas en el Chelsea. Allí, fue donde contó que uno de sus objetivos es emular a **N’Golo Kanté**, exfigura de los ‘blues’, y que este es uno de sus referentes[.](https://en.wikipedia.org/wiki/Chelsea_F.C. "https://en.wikipedia.org/wiki/Chelsea_F.C.")
-
-“**N’golo Kanté es mi ídolo. Intento a ayudar al equipo como él. Es un jugador muy grande y yo intento dar lo mejor (…) Estamos disfrutando este momento, lo estamos haciendo fantástico. El cielo es el límite**“, expresó el jugador oriundo de Santo Domingo.
-
-Moisés Caicedo, tal como Kanté, juega como volante defensivo, aunque se ha mostrado polivalente y ha rendido en otras posiciones. Junto al Chelsea, el tricolor ocupa la segunda posición de la Premier League, a su vez, lidera la primera ronda de la **UEFA Conference League** y aún tiene pendiente su participación en la FA Cup.
-
-La figura de N’Golo Kanté en el Chelsea
----------------------------------------
-
-El francés **N’golo Kanté** aún se mantiene en actividad a los 33 años, sin embargo, lo hace en el Al-Ittihad de Arabia Saudita. El jugador se desempeñó en el Chelsea entre 2022 y 2023 y obtuvo una Premier League, una FA Cup, una UEFA Europa League, una Champions League, una Supercopa de Europa y un Mundial de Clubes.
-
-Dentro de su carrera, Kanté también cuenta con un **Mundial** y un subcampeonato con la Selección de Francia. Asimismo, con Leicester City ganó la Premier League en el 2016.
-
-Ciclovía en la Av. De la Prensa causa reclamos de usuarios y conductores
-========================================================================
-
-Una ciclovía se construye en la av. De la Prensa, en el norte de Quito. Algunos usuarios mostraron su preocupación por su ubicación.
-------------------------------------------------------------------------------------------------------------------------------------
-
-![Ciclovía delimitada de forma temporal con pintura en la av. De la Prensa, en el norte de Quito](https://www.elcomercio.com/wp-content/uploads/2024/12/av-de-la-prensa-ciclovia.jpg)
-
-El Municipio de **Quito**, a través de la Empresa de Movilidad y Obras Públicas (**Epmmop**) comenzó con los trabajos de **señalización** horizontal y vertical de la **av. De la Prensa**, en el norte de Quito. En esta calle, también, se implementa una **nueva ciclovía**.
-
-Nueva ciclovía en la av. De la Prensa
--------------------------------------
-
-Según detalló la entidad, la ciclovía cubrirá un recorrido de **4,5 kilómetros**. Los trabajos se realizan a través de **tres tramos** de intervención:
-
-* **Av. Amazonas:** Desde los parqueaderos del Parque Bicentenario, hasta la av. De la Prensa.
-* **Av. de La Prensa:** Desde la av. Amazonas hasta la av. Diego Vásquez de Cepeda.
-* **Av. Diego Vásquez de Cepeda:** Desde la av. Amazonas hasta la estación del Corredor Norte La Ofelia.
-
-La intervención comenzó el **jueves 12 de diciembre**; se tiene previsto que la obra finalice en **30 días**, el 12 de enero de 2025.
-
-El proyecto de **363 000** **dólares** incluye la instalación de bolardos, bordillos plásticos, obras civiles y elementos semafóricos.
-
-Esta nueva ciclovía se sumará a los **130,29 kilómetros** de infraestructura ya existente en la capital.
-
-> 🚴‍♀️[#Ciclovía](https://twitter.com/hashtag/Ciclov%C3%ADa?src=hash&ref_src=twsrc%5Etfw) | Iniciamos los trabajos de señalización vial y la implementación de una nueva ciclovía en la av. de La Prensa, con un alcance total de 4.5 kilómetros.  
+> ¡Yes, SIR! 🫡🎩  
 >   
-> Conoce todos los detalles 👉 [https://t.co/n2WTHP6tAm](https://t.co/n2WTHP6tAm)[#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw)[#QuitoQuedaPapelito](https://twitter.com/hashtag/QuitoQuedaPapelito?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/4uT3yRIcT8](https://t.co/4uT3yRIcT8)
+> 💻 Detalles: [https://t.co/LfS5DdrknU](https://t.co/LfS5DdrknU)[#CentenarioBSC](https://twitter.com/hashtag/CentenarioBSC?src=hash&ref_src=twsrc%5Etfw)[#BarcelonaSomosTodos](https://twitter.com/hashtag/BarcelonaSomosTodos?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/V3NRXYNrY4](https://t.co/V3NRXYNrY4)
 > 
-> — Obras Quito (@ObrasQuito) [December 12, 2024](https://twitter.com/ObrasQuito/status/1867280480493535373?ref_src=twsrc%5Etfw)
+> — BARCELONA S.C. (@BarcelonaSC) [December 17, 2024](https://twitter.com/BarcelonaSC/status/1869029435971863009?ref_src=twsrc%5Etfw)
 
-Nueva ciclovía causa reclamos de usuarios y conductores
--------------------------------------------------------
+Castillo como entrenador
+------------------------
 
-La Epmmop afirmó que el objetivo de esta nueva ciclovía es fomentar formas de transporte sostenibles y mejorar la infraestructura destinada a **ciclistas**. Sin embargo, usuarios en **redes sociales** mostraron su preocupación con parte de la obra.
+La primera experiencia del exmundialista con la **Selección de Ecuador en Alemania 2006** fue entre junio y julio de 2023. Fue el puente entre la salida del argentino Fabián Bustos y la contratación del argentino Diego López.
 
-En los cinco primeros días de la intervención, los operarios **delimitaron el área** destinada a la ciclovía con pintura en la calzada. Ante ello, ciclistas mostraron su malestar al considerar que este espacio, en ciertos puntos, “**los pone en riesgo**“.
+Debutó con una derrota 4-2 ante Palmeiras en Brasil por la Copa Libertadores. Luego sumó su p**rimera victoria por 1-2 de visitante ante Guayaquil City** en la Liga Pro. A fecha seguido fue derrotado 1-2 ante Universidad Católica en el Monumental, también por el torneo nacional.
 
-Por ejemplo, en X, usuarios dijeron considerar a la obra como “peligrosa” por ubicarse en medio del tránsito vehicular y del carril exclusivo del **Corredor Central Norte**, entre la calle Jorge Piedra y Base Aérea[.](https://www.epmmop.gob.ec/ "https://www.epmmop.gob.ec/")
+Los dos últimos partidos fueron un empate y victoria. Fue 2-2 ante Cerro Porteño en la última fecha de la Libertadores, y 2-1 frente a E**studiantes de La Plata por los play-off de los octavos de final de la Copa Sudamericana**.
 
-Algunos conductores también mostraron su **inconformidad** con la ubicación de la ciclovía; creen que la movilidad en la avenida **se complicará** debido a los carros que se parquean al lado derecho, a lo largo de la calle.
+Su segunda experiencia empezó en octubre de 2024. Fue el reemplazante del argentino Ariel Holan. Ganó tres y empató tres juegos, todos en la Liga Pro.
 
-“El momento que pasa un bus s**olo queda un carril** por el cual transitar (…) deben controlar de mejor forma el espacio”, mencionó un usuario en la red social.
+Destacan las victorias 2-1 ante Emelec y 8-1 frente a Cumbayá en la Liga Pro, pero en la altura de Quito y de Ambato **alcanzó empates 1-1 y 2-2 ante Aucas y Mushuc Runa**, respectivamente, con lo que se quedó con el premio consuelo de la clasificación a la fase dos de la Copa Libertadores del siguiente año.
 
-Señalización vial en la av. De la Prensa
-----------------------------------------
-
-Además de la implementación de la ciclovía, la Epmmop realiza la colocación de **señalización vial** en toda la av. De la Prensa.
-
-Estos trabajos durarán unos **45 días** y “no afectarán la implementación de la ciclovía”, a decir por la entidad.
-
-Procuraduría explicó el monto que pidió como reparación integral en el caso Metástasis
-======================================================================================
-
-El monto de reparación integral del caso Metástasis se dará a conocer por escrito.
-----------------------------------------------------------------------------------
-
-![Procuraduría explicó el monto de reparación integral que pidió en el caso Metástasis.](https://www.elcomercio.com/wp-content/uploads/2024/10/metastasis-1.jpg)
-
-La **Procuraduría** explicó el **monto** que pidió como **reparación integral** en el **caso Metástasis**, este lunes 16 de diciembre de 2024.
-
-La institución sacó el cálculo del monto total de la suma de **dos valores**.
-
-### Más noticias:
-
-* [Caso Metástasis, estas son las razones de los jueces para sentenciar a 20 vinculados](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-estas-son-las-razones-de-los-jueces-para-sentenciar-a-20-vinculados.html "Caso Metástasis, estas son las razones de los jueces para sentenciar a 20 vinculados")
-* [Caso Metástasis, Tribunal sentencia a Wilman Terán y 19 procesados a entre 3 y 10 años](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-jueza-confirma-delincuencia-organizada-se-espera-sentencia.html "Caso Metástasis, Tribunal sentencia a Wilman Terán y 19 procesados a entre 3 y 10 años")
-
-El monto de la reparación integral pedido por Procuraduría en el caso Metástasis
---------------------------------------------------------------------------------
-
-El pasado 25 de noviembre, tras casi ocho horas de audiencia, un tribunal de la **Corte Nacional de Justicia** (CNJ) emitió sentencia en el caso Metástasis.
-
-Un total de **20 personas**, incluido el exjuez de la CNJ, **Wilman T.**, recibieron sentencia de forma oral, de primera instancia.
-
-Las sentencias contra la red que favoreció a **Leandro Norero (+)** fueron desde los 10 años hasta los tres años de cárcel, sin contar con los procedimientos abreviados.
-
-El Tribunal señaló que dará a conocer por **escrito** lo que deberán pagar los imputados.
-
-Además, hay **ocho procesados** que aún no son sometidos a juicio porque están **prófugos**, entre estos están el exasambleísta del correísmo, **Ronny A.** y el empresario Xavier J..
-
-Más de 20 días después, la Procuraduría emitió un comunicado para aclarar sobre el momento que solicitó como reparación integral en el **caso Metástasis.**
-
-La Procuraduría explica el monto solicitado con base en **dos parámetros**:
-
-* La **Constitución y el Código Orgánico Integral Penal (Coip)**, último que establece una multa de 12 a 20 salarios básicos unificados para los delitos sancionados con pena privativa de la libertad entre 5 y 7 años.
-* El valor del **informe pericial financiero** que comparó la declaración de los impuestos pagados por los procesados en el **Servicio de Rentas Internas (SRI)** y los montos disponibles en sus cuentas bancarias.
-
-Así, el **monto total de reparación económica** solicitado por la Procuraduría fue de **2 916 973,44 dólares**.
-
-Considerando los **2 512 173,44**, resultado del peritaje financiero, que es la suma de cada uno de los montos individuales de los sentenciados.
-
-Y, los **404 800 dólares**, que es el duplo del máximo del valor establecido en Coip.
-
-La Procuraduría agregó que, el **informe pericial financiero** incluye a ocho de los 21 procesados.
-
-Estos son: **Xavier Alexander N.A.**, Ronald Xavier G.C., Eddin Alexander I.C., Armando Heriberto R.T..
-
-Además, Víctor Hugo A.B., César Manuel A., Sofía Nathaly G.M., **Katherine Pilar G.A.**.
-
-Ecuador fue la selección más joven de Sudamérica en 2024
-========================================================
-
-La Selección de Ecuador está disfrutando de una generación dorada de jóvenes futbolistas que destacan en las mejores ligas y torneos del mundo.
------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Moisés Caicedo y Alan Franco en un partido con la Selección de Ecuador en 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-16T190724.898.jpg)
-
-La **Selección de Ecuador** se posicionó como la más joven de la Confederación Sudamericana de Fútbol (Conmebol) durante 2024, según un estudio del Centro Internacional de Estudios Deportivos (CIES).
-
-El combinado nacional cuenta con destacados talentos juveniles que se han consolidado como piezas clave en la ‘Tri’. Entre ellos están **Moisés Caicedo, Piero Hincapié y Willian Pacho**, ninguno de los cuales supera los 23 años.
-
-### Más noticias:
-
-* [Calendario de la Selección de Ecuador sub-20 para el Sudamericano](https://www.elcomercio.com/deportes/futbol/calendario-campeonato-sudamericano-sub20-venezuela.html "Calendario de la Selección de Ecuador sub-20 para el Sudamericano")
-* [La Selección de Ecuador cumple dos años de su última participación en un Mundial](https://www.elcomercio.com/deportes/seleccion-ecuador-mundial-catar-aniversario.html "La Selección de Ecuador cumple dos años de su última participación en un Mundial")
-* [La Selección de Ecuador fue top mundial, ¿qué pasó con sus jugadores?](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-top-ranking-fifa.html "La Selección de Ecuador fue top mundial, ¿qué pasó con sus jugadores?")
-
-Además, **Kendry Páez**, con apenas 16-17 años, se convirtió en un habitual en las convocatorias, tanto bajo la dirección de Félix Sánchez Bas como con el nuevo entrenador, Sebastián Beccacece.
-
-Ecuador, la selección más joven de Sudamérica
----------------------------------------------
-
-Según el estudio del CIES, **Ecuador fue la selección más joven de Sudamérica** en 2024, con un promedio de edad de **25,86 años**. En contraste, Perú tuvo la plantilla más veterana no solo de la región, sino también entre 144 selecciones analizadas, con un promedio de **30,38 años**.
-
-El análisis detalla que el 12,9 % de los futbolistas convocados por Ecuador durante el año tenían 21 años o menos, mientras que el grupo mayoritario se situó en el rango de 22 a 25 años, representando el **44,9 %** de los jugadores.
-
-Los futbolistas de 26 a 29 años constituyeron el 26,1 % de la plantilla, mientras que aquellos de **30 años o más representaron apenas el 16,1 %.**
-
-A nivel sudamericano, Ecuador también destacó como el **segundo equipo que más futbolistas menores de 21 años utilizó**, con un 12,9 %, solo superado por Bolivia (15,1 %). Por otro lado, fue la segunda selección con menor porcentaje de jugadores mayores de 30 años, detrás de Uruguay (14,8 %).
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-16T190424.215-1024x683.jpg)
-
-Foto: CIES.
-
-### Selección de Ecuador en 2024
-
-El 2024 fue un año de cambios importantes para la Selección de Ecuador. Después de la Copa América, Félix Sánchez dejó el cargo de director técnico, y fue reemplazado por el argentino Sebastián Beccacece.
-
-En cuanto a competiciones, la ‘Tri’ alcanzó los **cuartos de final de la Copa América**, donde fue eliminada por penales ante Argentina, que terminó coronándose campeona del torneo. Un dato destacado es que Ecuador fue el único equipo que logró marcarle a la ‘Albiceleste’ en el campeonato, tras empatar 1-1.
-
-En las eliminatorias sudamericanas, Ecuador cerró el año en **tercer lugar con 19 puntos en 12 partidos**, consolidándose en puestos de clasificación al Mundial. Además, el equipo se destacó por tener la mejor defensa del continente, permitiendo solo **cuatro goles en contra** durante la competición.
-
-Cabe recordar que Ecuador comenzó las eliminatorias con **\-3 puntos** debido a la sanción impuesta por el caso Byron Castillo, lo que resalta aún más el mérito de su desempeño.
-
-Cancillería hizo un anuncio sobre 12 ecuatorianos presuntamente desaparecidos en México
-=======================================================================================
-
-Los ecuatorianos desaparecidos en México son parte de un grupo más grande de migrantes irregulares.
----------------------------------------------------------------------------------------------------
-
-![Imagen referencial. Cancillería conoció de los ecuatorianos presuntamente desaparecidos en México el 28 de noviembre.](https://www.elcomercio.com/wp-content/uploads/2024/12/ecuatorianos-desaparecidos-mexico.jpg)
-
-La **Cancillería** hizo un anuncio sobre **12 ecuatorianos presuntamente desaparecidos** en **México**, este lunes 16 de diciembre de 2024[.](https://es.wikipedia.org/wiki/M%C3%A9xico)
-
-El **Ministerio de Relaciones Exteriores y Movilidad Humana** conoció el hecho el 28 de noviembre.
-
-### Más noticias:
-
-* [Gobierno de Daniel Noboa hará una petición a México sobre Walter Solís](https://www.elcomercio.com/actualidad/seguridad/gobierno-daniel-noboa-peticion-mexico-walter-solis.html "Gobierno de Daniel Noboa hará una petición a México sobre Walter Solís")
-* [La caravana migrante se topa con el bloqueo de las autoridades en el sur de México](https://www.elcomercio.com/actualidad/mundo/caravana-migrante-topa-bloqueo-autoridades-sur-mexico.html "La caravana migrante se topa con el bloqueo de las autoridades en el sur de México")
-
-La decisión de Cancillería sobre los 12 ecuatorianos presuntamente desaparecidos en México
-------------------------------------------------------------------------------------------
-
-El 28 de noviembre, la Cancillería conoció sobre la posible desaparición de 23 migrantes en **México**.
-
-Entre los 23 migrantes, estaría 12 ciudadanos ecuatorianos, que transitaban de forma irregular hacia los **Estados Unidos de América**.
-
-Una vez que se conoció sobre el hecho, la Cancillería **inició la búsqueda** de los compatriotas.
-
-Lo hizo a través de la Sección de Intereses del Ecuador en la **Ciudad de México** y la oficina consular en **Ciudad de Guatemala**.
-
-La Cancillería informó que ha mantenido un constante acompañamiento y contacto permanente con las **familias** de estos ciudadanos.
-
-Los familiares han fortalecido las tareas de **localización** en este proceso de búsqueda.
-
-El Ministerio de Relaciones Exteriores y Movilidad Humana anunció que continuará trabajando con las instituciones involucradas para la localización de los **ciudadanos ecuatorianos**.
-
-Cortes de luz en Guayaquil para este martes 17 de diciembre
-===========================================================
-
-Guayaquil tendrá cortes de luz de dos horas este martes 17 de diciembre. Te compartimos el cronograma completo de los apagones.
--------------------------------------------------------------------------------------------------------------------------------
-
-![CNEL es la empresa encargada de brindar el servicio eléctrico a Guayaquil](https://www.elcomercio.com/wp-content/uploads/2024/12/cortes-luz-guayaquil-17-diciembre.jpg)
-
-La Corporación Nacional de Electricidad (**CNEL**) anunció los horarios de **cortes de luz** que tendrá **Guayaquil** este martes 17 de diciembre de 2024.
-
-### Más noticias
-
-* [Cortes de luz en Quito este martes 17 de diciembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-en-quito-este-martes-17-de-diciembre.html "Cortes de luz en Quito este martes 17 de diciembre")
-* [Una unidad de la Central Alluriquín se conecta a la red eléctrica nacional](https://www.elcomercio.com/actualidad/negocios/una-unidad-de-la-central-alluriquin-se-conecta-a-la-red-electrica-nacional.html "Una unidad de la Central Alluriquín se conecta a la red eléctrica nacional")
-* [Ministra de Energía de Ecuador afirma que solo siete empresas tendrán un apagón de 15 días](https://www.elcomercio.com/actualidad/negocios/ministra-energia-ecuador-afirma-solo-siete-empresas-apagon-15-dias.html "Ministra de Energía de Ecuador afirma que solo siete empresas tendrán un apagón de 15 días")
-
-La capital de **Guayas** tendrá **apagones programados** de **dos** **horas** **diarias**, luego de la reducción que hizo el Ministerio de Energía en todo el país.
-
-La cartera de Estado redujo de tres a dos horas los racionamientos a partir de este lunes, tras comprobar que la **situación hídrica** en Ecuador mejoró en algunos sectores estratégicos, como **Coca Codo Sinclair**, por ejemplo.
-
-Entre el domingo y el lunes, en algunos sectores, usuarios reportaron en redes sociales que los cronogramas de racionamientos se aplicaron en **menos horas** de las esperadas o no exisiteron; sobre todo, en la **noche** y **madrugada**.
-
-Fin de los cortes de luz en Ecuador
------------------------------------
-
-El presidente **Daniel Noboa** anunció que el 20 de diciembre finalizarán los **cortes de luz** programados por la crisis energética, por lo que esta sería la última semana con ellos.
-
-El Gobierno afirmó que esta medida será posible gracias a la **recuperación** del sistema eléctrico nacional y a la incorporación de nueva generación de energía a través de varios proyectos. Uno de ellos, fue la **compra** de energía a **Colombia** y los trabajos realizados en la central de Alluriquín.
-
-El aumento de los **caudales** y los embalses que abastecen a hidroeléctricas del Austro, como **Mazar** y **Paute**, contribuyeron en gran medida a considerar la finalización de los apagones.
-
-De cumplirse, los ecuatorianos habrían pasado 87 días con racionamientos. La suspensión de **energía eléctrica** empezó el **23 de septiembre** a nivel nacional.
-
-En los días más críticos, Ecuador enfrentó apagones de hasta **14 horas diarias**.
-
-Avances en central de Alluriquín
---------------------------------
-
-La Unidad de Generación Eléctrica número 3 de la central **Alluriquín**, parte del complejo **Toachi Pilatón**, se conectó a la red eléctrica del país o Sistema Nacional Interconectado (SNI).
-
-El proceso de sincronización de este generador, con una capacidad de **68 megavatios**, consistió en alinear parámetros como voltaje, frecuencia, ángulo de fase, secuencia, etc.
-
-La ministra encargada de Energía**, Inés Manzano**, anunció que las **dos unidades restantes de la central,** que aportarán 136 MW adicionales para completar los 204 MW, se sincronizarán en las próximas semanas.
-
-Cortes de luz en Guayaquil para este martes 17 de diciembre
------------------------------------------------------------
-
-Los cortes de luz en Guayaquil serán de dos horas este **martes 17 de diciembre** en las **zonas residenciales**.
-
-Esta programación se ejecutará de corrido, en la madrugada, mañana, tarde y noche.
-
-Para el sector industrial, los cortes de luz serán de hasta **seis horas**.
-
-Te compartimos el **cronograma completo** de cortes de luz para este martes:
-
-### Esperanza
-
-Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
-
-Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
-
-[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
-
-Lamine Yamal gana el Golden Boy y Lionel Messi lo felicita
-==========================================================
-
-Lionel Messi aclamó el papel de Lamine Yamal después de que este ganara el premio Golden Boy a mejor futbolista sub-21 en Europa.
----------------------------------------------------------------------------------------------------------------------------------
-
-![Lamine Yamal exhibe su premio Golden Boy al mejor jugador de Europa menor a 21 años.](https://www.elcomercio.com/wp-content/uploads/2024/12/36003431d9726ac08ea5f8cd92ed701a75ab05c6.jpg)
-
-El delantero argentino **Lionel Messi** felicitó este lunes al extremo del Barcelona Lamine Yamal por el premio ‘Golden Boy’, que consideró fruto “no solo del talento, sino del duro trabajo y sacrificio”.
-
-**Messi**, en un mensaje en su cuenta de X, hizo extensiva la enhorabuena a la jugadora del Barcelona Vicky López, premiada con el mismo galardón que **Yamal** en la categoría femenina por el diario italiano Tuttosport, que reconoce cada año a los mejores futbolistas menores de 21 años de las ligas europeas.
-
-### Más noticias:
-
-* [El FC Barcelona acaricia los octavos de la Champions](https://www.elcomercio.com/deportes/futbol/barcelona-dortmund-resultado-champions-league.html "El FC Barcelona acaricia los octavos de la Champions")
-* [Lamine Yamal ganó el Golden Boy con doble récord](https://www.elcomercio.com/deportes/futbol/lamine-yamal-golden-boy-record.html "Lamine Yamal ganó el Golden Boy con doble récord")
-* [Lionel Messi y sus emotivos gestos en reconocimiento masivo](https://www.elcomercio.com/deportes/lionel-messi-azerbaiyan-reconocimiento-masivo.html "Lionel Messi y sus emotivos gestos en reconocimiento masivo")
-
-“**Lamine, Vicky: este premio es el resultado no solo del talento, sino del duro trabajo y sacrificio. Es un orgullo que formen parte del Messi+10. Felicidades y sigan así!**“, señaló el delantero argentino del Inter Miami en referencia a la marca de botas de la marca deportiva que le patrocina, que solo llevan once futbolistas en el mundo además de él.
-
-**Yamal**, de 17 años, y Vicky López, de 18 años, no asistieron a la gala celebrada en la ciudad italiana de Turín, en la que no hubo ningún representante del FC Barcelona[.](https://en.wikipedia.org/wiki/FC_Barcelona "https://en.wikipedia.org/wiki/FC_Barcelona")
-
-Ambos se unen a un palmarés del que forma parte **Messi**, quien obtuvo el premio en 2005 cuando militaba en el **FC Barcelona.**
-
-Lamine Yamal y sus extraordinarios objetivos
+Confesionario – segunda temporada en proceso
 --------------------------------------------
-
-El español **Lamine Yamal**, flamante ganador del ‘Golden Boy’, declaró que sus próximos objetivos ahora son los de ganar el Mundial con España y la Liga de Campeones con el Barcelona, todo antes de cumplir 21 años.
-
-El jugador concedió una entrevista a Tuttosport y dejó claro que su ambición es máxima: “**Antes de los 21 años mi objetivo es ganar el Mundial con España, la Liga de Campeones y dos Ligas más con el Barça**“.
-
-“Es un honor recibir este premio Golden Boy. El primer paso de una gran carrera que espero tener. Aunque soy muy consciente de que los premios individuales son fruto del trabajo colectivo, así que quiero seguir haciéndolo bien en el Barça y con España para **poder acumular más trofeos**. De equipo e individuales. En cualquier caso, **ganar el Golden Boy es un gran punto de partida** para un futbolista joven. Todos los chicos del mundo aspiran a ganarlo”, dijo en la entrevista.
-
-Además, apuntó al **Balón de Oro**: “Si gano con el Barça, sobre todo la Liga de Campeones, tendré más posibilidades de aspirar al trofeo individual que corona la carrera de un jugador: el **Balón de Oro**. Ningún jugador gana premios individuales si no puede ganar nada colectivamente con su equipo. Así que ganando colectivamente estaré más cerca de los premios individuales, porque una cosa es consecuencia de la otra”, agregó.
