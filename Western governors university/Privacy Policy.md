@@ -74,9 +74,7 @@
 * [Elementary Education – B.A.](https://www.wgu.edu/online-teaching-degrees/elementary-education-bachelors-program.html)
 * [Special Education and Elementary Education (Dual Licensure) – B.A.](https://www.wgu.edu/online-teaching-degrees/special-education-bachelors-program.html)
 * [Special Education (Mild-to-Moderate) – B.A.](https://www.wgu.edu/online-teaching-degrees/special-education-bachelors-program-mild-moderate.html)
-* [Mathematics Education (Middle Grades) – B.S.](https://www.wgu.edu/online-teaching-degrees/mathematics-teacher-certification-middle-school-bachelors-program.html)
 * [Mathematics Education (Secondary)– B.S.](https://www.wgu.edu/online-teaching-degrees/mathematics-teacher-certification-secondary-bachelors-program.html)
-* [Science Education (Middle Grades) – B.S.](https://www.wgu.edu/online-teaching-degrees/science-education-bachelors-program.html)
 * [Science Education (Secondary Chemistry) – B.S.](https://www.wgu.edu/online-teaching-degrees/chemistry-education-bachelors-program.html)
 * [Science Education (Secondary Physics) – B.S.](https://www.wgu.edu/online-teaching-degrees/physics-education-bachelors-program.html)
 * [Science Education (Secondary Biological Sciences) – B.S.](https://www.wgu.edu/online-teaching-degrees/biology-education-bachelors-program.html)
@@ -99,7 +97,6 @@
 
 * [Teaching, Elementary Education – M.A.](https://www.wgu.edu/online-teaching-degrees/elementary-education-masters-program.html)
 * [Teaching, English Education (Secondary) – M.A.](https://www.wgu.edu/online-teaching-degrees/english-education-masters-program.html)
-* [Teaching, Mathematics Education (Middle Grades) – M.A.](https://www.wgu.edu/online-teaching-degrees/mathematics-teacher-certification-middle-school-masters-program.html)
 * [Teaching, Mathematics Education (Secondary) – M.A.](https://www.wgu.edu/online-teaching-degrees/mathematics-teacher-certification-secondary-masters-program.html)
 * [Teaching, Science Education (Secondary) – M.A.](https://www.wgu.edu/online-teaching-degrees/science-teacher-certification-masters-program.html)
 * [Teaching, Special Education (K-12) – M.A.](https://www.wgu.edu/online-teaching-degrees/special-education-masters-program.html)
@@ -150,6 +147,8 @@
 * [Front End Web Developer with CodeSignal](https://www.wgu.edu/online-it-degrees/certificates/front-end-web-development.html)
 * [Java Developer with CodeSignal](https://www.wgu.edu/online-it-degrees/certificates/java-developer.html)
 * [ServiceNow Application Developer](https://wgu.edu/online-it-degrees/certificates/service-now-application-developer.html)
+* [Data Analytics Skills](https://www.wgu.edu/online-it-degrees/certificates/data-analytics.html)
+* [Artificial Intelligence (Single Course)](https://www.wgu.edu/online-it-degrees/certificates/ai.html)
 
 ##### 3rd Party Certifications
 
@@ -169,7 +168,7 @@
 * [Public Health – B.S.](https://www.wgu.edu/online-nursing-health-degrees/public-health-bachelors-program.html)
 * [Healthcare Administration – B.S. (from the School of Business)](https://www.wgu.edu/online-business-degrees/healthcare-administration-bachelors-program.html)
 
-##### Certificates
+##### Post-Master's Certificates
 
 * [View all Nursing Post-Master's Certificates](https://www.wgu.edu/online-nursing-health-degrees/post-masters-nursing-certificate.html)
 * [Nursing Education—Post-Master's Certificate](https://www.wgu.edu/online-nursing-health-degrees/post-masters-nursing-certificate/education.html)
@@ -197,6 +196,10 @@
 
 ##### Certificates
 
+* [Nursing Leadership](https://www.wgu.edu/online-nursing-health-degrees/certificates/nursing-leadership.html)
+
+##### Certificates
+
 * [Business Leadership (with the School of Business)](https://www.wgu.edu/online-business-degrees/certificates/leadership.html)
 * [Supply Chain (with the School of Business)](https://wgu.edu/online-business-degrees/certificates/supply-chain.html)
 * [Accounting Fundamentals (with the School of Business)](https://www.wgu.edu/online-business-degrees/certificates/accounting-fundamentals.html)
@@ -205,6 +208,9 @@
 * [Front End Web Developer (with CodeSignal and the School of Technology)](https://www.wgu.edu/online-it-degrees/certificates/front-end-web-development.html)
 * [Full Stack Engineering (with the School of Technology)](https://www.wgu.edu/online-it-degrees/certificates/full-stack-engineering.html)
 * [ServiceNow Application Developer (with the School of Technology)](https://www.wgu.edu/online-it-degrees/certificates/service-now-application-developer.html)
+* [Data Analytics Skills (with the School of Technology)](https://www.wgu.edu/online-it-degrees/certificates/data-analytics.html)
+* [Artificial Intelligence (Single Course with the School of Technology)](https://www.wgu.edu/online-it-degrees/certificates/ai.html)
+* [Nursing Leadership (with the Leavitt School of Health)](https://www.wgu.edu/online-nursing-health-degrees/certificates/nursing-leadership.html)
 
 ##### Courses
 
@@ -413,9 +419,7 @@ Online Degrees
         * [Elementary Education – B.A.](https://www.wgu.edu/online-teaching-degrees/elementary-education-bachelors-program.html)
         * [Special Education and Elementary Education (Dual Licensure) – B.A.](https://www.wgu.edu/online-teaching-degrees/special-education-bachelors-program.html)
         * [Special Education (Mild-to-Moderate) – B.A.](https://www.wgu.edu/online-teaching-degrees/special-education-bachelors-program-mild-moderate.html)
-        * [Mathematics Education (Middle Grades) – B.S.](https://www.wgu.edu/online-teaching-degrees/mathematics-teacher-certification-middle-school-bachelors-program.html)
         * [Mathematics Education (Secondary)– B.S.](https://www.wgu.edu/online-teaching-degrees/mathematics-teacher-certification-secondary-bachelors-program.html)
-        * [Science Education (Middle Grades) – B.S.](https://www.wgu.edu/online-teaching-degrees/science-education-bachelors-program.html)
         * [Science Education (Secondary Chemistry) – B.S.](https://www.wgu.edu/online-teaching-degrees/chemistry-education-bachelors-program.html)
         * [Science Education (Secondary Physics) – B.S.](https://www.wgu.edu/online-teaching-degrees/physics-education-bachelors-program.html)
         * [Science Education (Secondary Biological Sciences) – B.S.](https://www.wgu.edu/online-teaching-degrees/biology-education-bachelors-program.html)
@@ -436,7 +440,6 @@ Online Degrees
         
         * [Teaching, Elementary Education – M.A.](https://www.wgu.edu/online-teaching-degrees/elementary-education-masters-program.html)
         * [Teaching, English Education (Secondary) – M.A.](https://www.wgu.edu/online-teaching-degrees/english-education-masters-program.html)
-        * [Teaching, Mathematics Education (Middle Grades) – M.A.](https://www.wgu.edu/online-teaching-degrees/mathematics-teacher-certification-middle-school-masters-program.html)
         * [Teaching, Mathematics Education (Secondary) – M.A.](https://www.wgu.edu/online-teaching-degrees/mathematics-teacher-certification-secondary-masters-program.html)
         * [Teaching, Science Education (Secondary) – M.A.](https://www.wgu.edu/online-teaching-degrees/science-teacher-certification-masters-program.html)
         * [Teaching, Special Education (K-12) – M.A.](https://www.wgu.edu/online-teaching-degrees/special-education-masters-program.html)
@@ -493,6 +496,8 @@ Online Degrees
         * [Front End Web Developer with CodeSignal](https://www.wgu.edu/online-it-degrees/certificates/front-end-web-development.html)
         * [Java Developer with CodeSignal](https://www.wgu.edu/online-it-degrees/certificates/java-developer.html)
         * [ServiceNow Application Developer](https://wgu.edu/online-it-degrees/certificates/service-now-application-developer.html)
+        * [Data Analytics Skills](https://www.wgu.edu/online-it-degrees/certificates/data-analytics.html)
+        * [Artificial Intelligence (Single Course)](https://www.wgu.edu/online-it-degrees/certificates/ai.html)
         
     * 3rd Party Certifications
         
@@ -516,7 +521,7 @@ Online Degrees
         * [Public Health – B.S.](https://www.wgu.edu/online-nursing-health-degrees/public-health-bachelors-program.html)
         * [Healthcare Administration – B.S. (from the School of Business)](https://www.wgu.edu/online-business-degrees/healthcare-administration-bachelors-program.html)
         
-    * Certificates
+    * Post-Master's Certificates
         
         * [View all Nursing Post-Master's Certificates](https://www.wgu.edu/online-nursing-health-degrees/post-masters-nursing-certificate.html)
         * [Nursing Education—Post-Master's Certificate](https://www.wgu.edu/online-nursing-health-degrees/post-masters-nursing-certificate/education.html)
@@ -540,6 +545,10 @@ Online Degrees
         * [MBA Healthcare Management (from the School of Business)](https://www.wgu.edu/online-business-degrees/mba-masters-business-administration-healthcare-management-program.html)
         * [Education Technology and Instructional Design – M.Ed. (from the School of Education)](https://www.wgu.edu/online-teaching-degrees/education-technology-instructional-design-masters.html)
         
+    * Certificates
+        
+        * [Nursing Leadership](https://www.wgu.edu/online-nursing-health-degrees/certificates/nursing-leadership.html)
+        
     
     * [View all Health & Nursing Degrees](https://www.wgu.edu/online-nursing-health-degrees.html)
     
@@ -556,6 +565,9 @@ Online Degrees
         * [Front End Web Developer (with CodeSignal and the School of Technology)](https://www.wgu.edu/online-it-degrees/certificates/front-end-web-development.html)
         * [Full Stack Engineering (with the School of Technology)](https://www.wgu.edu/online-it-degrees/certificates/full-stack-engineering.html)
         * [ServiceNow Application Developer (with the School of Technology)](https://www.wgu.edu/online-it-degrees/certificates/service-now-application-developer.html)
+        * [Data Analytics Skills (with the School of Technology)](https://www.wgu.edu/online-it-degrees/certificates/data-analytics.html)
+        * [Artificial Intelligence (Single Course with the School of Technology)](https://www.wgu.edu/online-it-degrees/certificates/ai.html)
+        * [Nursing Leadership (with the Leavitt School of Health)](https://www.wgu.edu/online-nursing-health-degrees/certificates/nursing-leadership.html)
         
     * Courses
         
