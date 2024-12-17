@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/onderzoeker-van-big-pharma-geeft-grove-fraude-toe/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/valse-vlag-operaties/waarschuwing-voor-nepnieuws-mh17/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
