@@ -12,9 +12,9 @@ Menu
     
     TOP STORIES
     
+    * [Ukraine and US say some North Korean troops have been killed fighting alongside Russian forces](https://apnews.com/article/russia-ukraine-war-north-korea-troops-33bf427736c5802fb97df41fdbf61396)
+    * [Negotiators say Israel and Hamas are inching toward a ceasefire deal. This is what it may look like](https://apnews.com/article/israel-hamas-gaza-war-ceasefire-egypt-qatar-264087c7a547031a9433ecbbdcd920d2)
     * [Syria's ousted leader Assad says he wanted to keep fighting but Russian allies evacuated him](https://apnews.com/article/syria-war-assad-russia-news-16-december-2024-72a8e44f762da2ff78434ff76faeb633)
-    * [Death toll in Gaza from the Israel-Hamas war tops 45,000 Palestinians, health officials say](https://apnews.com/article/israel-palestinians-hamas-war-news-12-16-2024-9f7c8f0df71dc4c97a6b31aed6e13304)
-    * [Middle East latest: Assad says he wanted to stay in Syria but Russia evacuated him](https://apnews.com/article/israel-hamas-war-syria-news-16-december-2024-4ed0ec24506a1b78f0561ed0cc8f0994)
     
     Newsletters
     
@@ -30,9 +30,9 @@ Menu
     
     TOP STORIES
     
-    * [Survivors seek a reckoning as FBI investigates child sex abuse in little-known Christian sect](https://apnews.com/article/christian-sect-child-sex-abuse-scandal-a94073c27168a7998c1a225f72672a3d)
-    * [Takeaways from AP's reporting on a child sex abuse crisis inside a secretive Christian sect](https://apnews.com/article/christian-sect-child-sex-abuse-scandal-398b68475c2eab693e40e35552030e87)
-    * [Drone sightings lead to airspace shutdown at Ohio military base, arrests near Boston airport](https://apnews.com/article/drones-mystery-new-jersey-york-b37fda04755803392178b1f39b76ccd8)
+    * [Teacher and a teenage student killed in a shooting at a private Christian school in Wisconsin](https://apnews.com/article/wisconsin-school-shooting-498c8ad26d299602553201ad639a4a5c)
+    * [The Latest: Teacher and a student killed in a shooting at a private Christian school in Wisconsin](https://apnews.com/article/wisconsin-school-shooting-8c0610859b9fb285a7f67a1dce7b22d9)
+    * [Things to know about the shooting at a Christian school in Wisconsin](https://apnews.com/article/school-shooting-wisconsin-things-to-know-3df4f40327e70aa863c4b5b36fd0a04b)
     
     Newsletters
     
@@ -52,9 +52,9 @@ Menu
     
     TOP STORIES
     
-    * [Trump says he will 'look at' pardon for embattled New York mayor Eric Adams](https://apnews.com/article/trump-maralago-press-conference-44beea6cf8c93f070638842712bf3aca)
-    * [Former FBI informant pleads guilty to lying about phony bribery scheme involving the Bidens](https://apnews.com/article/alexander-smirnov-guilty-plea-biden-informant-fbi-62a3b7acce0345303f812ca6d0206b10)
-    * [As he prepares to leave leadership, McConnell challenges Trump on foreign policy](https://apnews.com/article/mcconnell-trump-isolationism-foreign-affairs-dcad297fa82e1794612fa2582e21162f)
+    * [Trump weighs in on NY mayor, vaccines and drones in freewheeling press conference at Mar-a-Lago](https://apnews.com/article/trump-maralago-press-conference-44beea6cf8c93f070638842712bf3aca)
+    * [What's behind rising autism rates: A broader definition of autism and better screening](https://apnews.com/article/autism-rates-vaccines-trump-rfk-polio-4d1ef5bd69dc20533e95e8e34e0b1e86)
+    * [TikTok asks the Supreme Court for an emergency order to block a US ban unless it's sold](https://apnews.com/article/supreme-court-tiktok-lawsuit-china-101afd280e5018bc1296613517f041d6)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
-    * [Dolphins' Grant DuBose has movement in extremities after scary hit to the head vs. Texans](https://apnews.com/article/dolphins-grant-dubose-injury-ee9725cd29930e910e05f02c7247b8fc)
-    * [NFL can't revise the onside kick fast enough for Dan Campbell: Analysis](https://apnews.com/article/campbell-lions-onside-kick-allen-bills-aad163d5edb6c548cbd39fcba66a2c0e)
-    * [Women's Champions League to wrap up group stage that highlights a growing imbalance in European game](https://apnews.com/article/womens-champions-league-7abffe9262539e39288b01ea9ac2f19b)
+    * [Spurs coach Gregg Popovich expresses desire to return to bench in first comments since stroke](https://apnews.com/article/spurs-popovich-stroke-a06003d47d5a480e8e3d8681113f0b5f)
+    * [Chiefs QB Patrick Mahomes has high-ankle sprain, status for Houston remains unclear, AP source says](https://apnews.com/article/kansas-city-chiefs-patrick-mahomes-injury-b1d2fa37c154828f6f76f78312f0562e)
+    * [Norfolk State interviews Michael Vick to be its football coach, according to report](https://apnews.com/article/norfolk-state-michael-vick-coach-64dc6004c339ea73798c2632f1b13370)
     
     Newsletters
     
@@ -96,7 +96,7 @@ Menu
     
     * [These three new sports dramas punch above their weight](https://apnews.com/article/sports-movies-unstoppable-day-fight-fire-inside-26efbc7f942ce5c251a6cd8dad881b4a)
     * [Stage spoofs of Hallmark TV movies are Christmas gifts for theaters](https://apnews.com/article/hallmark-christmas-holiday-movie-parody-theater-a2ffe1465b9492e88c58d683904ac87b)
-    * [Kane Brown 'gave everything' on his new album, 'The High Road.' The journey home meant experimenting](https://apnews.com/article/kane-brown-interview-high-road-c7eef2070190bb158a885581d131b600)
+    * [Former TV host Carlos Watson gets nearly 10 years in prison in case about failed startup Ozy Media](https://apnews.com/article/carlos-watson-ozy-media-trial-sentencing-08f18ac01494d0b5f0285db32ff5ecb9)
     
 * [Business](https://apnews.com/business)
     
@@ -107,7 +107,7 @@ Menu
     TOP STORIES
     
     * [Federal Reserve is likely to slow its rate cuts with inflation pressures still elevated](https://apnews.com/article/federal-reserve-inflation-rates-trump-economy-prices-4abfd4fad49db65cad4a2b5607d9e952)
-    * [Trump says he will 'look at' pardon for embattled New York mayor Eric Adams](https://apnews.com/article/trump-maralago-press-conference-44beea6cf8c93f070638842712bf3aca)
+    * [Trump weighs in on NY mayor, vaccines and drones in freewheeling press conference at Mar-a-Lago](https://apnews.com/article/trump-maralago-press-conference-44beea6cf8c93f070638842712bf3aca)
     * [Journalists anticipate a renewed hostility toward their work under the incoming Trump administration](https://apnews.com/article/trump-press-media-news-1915c25137eb4605b95ab3b3ccc6fb4c)
     
 * [Science](https://apnews.com/science)
@@ -191,15 +191,15 @@ Menu
     TOP STORIES
     
     * [Can U.N. summits save the planet? A faltering year of talks brings up questions about the process](https://apnews.com/article/united-nations-climate-biodiversity-plastics-drought-summits-failure-64b40bc06287a92d33bcdbfea4f3bf5f)
+    * [26 people arrested in crackdown on illegal deforestation along Paraguay, Brazil and Argentina border](https://apnews.com/article/paraguay-brazil-argentina-border-deforestation-interpol-tree-trafficking-92599975a233802e62732a6a4de84a66)
     * [American chestnuts are part of Yuletide lore. But in the US, they've nearly been wiped out](https://apnews.com/article/american-chestnut-trees-roasting-blight-chinese-restoration-1c3e50ef33a67926c0800222f0e7e619)
-    * [UN talks fail to reach agreement on dealing with rising risk of global drought](https://apnews.com/article/un-drought-desertification-climate-riyadh-saudi-arabia-a353d12a2fe8c19e932f96198fa3421d)
     
 * [Health](https://apnews.com/health)
     
     TOP STORIES
     
+    * [What's behind rising autism rates: A broader definition of autism and better screening](https://apnews.com/article/autism-rates-vaccines-trump-rfk-polio-4d1ef5bd69dc20533e95e8e34e0b1e86)
     * [Are you catching holiday blues instead of cheer? Here are some ways to find peace](https://apnews.com/article/holiday-christmas-mental-health-depression-anxiety-c65eef56bfa54bff48a8d00d5b782280)
-    * [Algunas pacientes de cáncer de mama podrían evitar ciertas cirugías, sugieren estudios](https://apnews.com/article/pacientes-cancer-mama-carcinoma-intraductal-743fbde12792891e3a7af800c86d84f7)
     * [Some breast cancer patients can avoid certain surgeries, studies suggest](https://apnews.com/article/breast-cancer-treatment-surgery-dcis-lymph-nodes-983e2835a4ecd1f90f53105a5bab4bb9)
     * [America is trying to fix its maternal mortality crisis with federal, state and local programs](https://apnews.com/article/maternal-mortality-healthy-start-oklahoma-california-new-york-city-0aa1fa2a141ef82607026b384cc14af7)
     * [Europe offers clues for solving America's maternal mortality crisis](https://apnews.com/article/maternal-mortality-rate-us-global-deaths-norway-211218f769e9a5a6e856a485fb31aef3)
@@ -213,9 +213,9 @@ Menu
     
     TOP STORIES
     
+    * [Insider Q&A: High hopes for Australia social media ban and channeling parental 'fury' over tech](https://apnews.com/article/mama-social-media-addiction-kids-teens-julie-scelfo-f66bcbe64b1be143f3e93b93a4e83e94)
+    * [TikTok asks the Supreme Court for an emergency order to block a US ban unless it's sold](https://apnews.com/article/supreme-court-tiktok-lawsuit-china-101afd280e5018bc1296613517f041d6)
     * [US agencies should use advanced technology to identify mysterious drones, Schumer says](https://apnews.com/article/drones-new-york-jersey-schumer-80de1d64708677cfa7efc60249075d7b)
-    * [Schools are cutting bus service for children. Parents are turning to ride-hailing apps](https://apnews.com/article/school-bus-rideshare-chicago-3fdcedfc4f957f748bf109066806bc88)
-    * [Senate report alleges Amazon rejected warehouse safety recommendations due to productivity concerns](https://apnews.com/article/amazon-warehouse-worker-injuries-senate-committee-eb5b72dd501be0bcce9d919c34731290)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -225,17 +225,17 @@ Menu
     
     TOP STORIES
     
+    * [US to require passenger vehicles to sound alarms if rear passengers don't fasten their seat belts](https://apnews.com/article/nhtsa-rear-seat-belt-safety-1c0e6cc4e50f4edf9c0b8c24b1c0da07)
     * [Are you catching holiday blues instead of cheer? Here are some ways to find peace](https://apnews.com/article/holiday-christmas-mental-health-depression-anxiety-c65eef56bfa54bff48a8d00d5b782280)
     * [Stage spoofs of Hallmark TV movies are Christmas gifts for theaters](https://apnews.com/article/hallmark-christmas-holiday-movie-parody-theater-a2ffe1465b9492e88c58d683904ac87b)
-    * [Short ribs braised in wine and aromatics make for an elegant holiday dinner](https://apnews.com/article/holiday-dinner-braised-short-ribs-milk-street-a3bf12c0f33b3f3c9924adad0567f2e4)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
+    * [Teacher and a teenage student killed in a shooting at a private Christian school in Wisconsin](https://apnews.com/article/wisconsin-school-shooting-498c8ad26d299602553201ad639a4a5c)
+    * [Longtime Auburn football team pastor dies in an accident on an Alabama lake](https://apnews.com/article/lake-martin-auburn-football-pastor-accident-eda02c5804196211165052c1ded81454)
     * [A second top Church of England cleric is facing calls to resign over his handling of abuse claims](https://apnews.com/article/church-of-england-archbishop-abuse-scandal-9553d1e0d7e1e675a686e0d2cd90fe64)
-    * [Takeaways from AP's reporting on a child sex abuse crisis inside a secretive Christian sect](https://apnews.com/article/christian-sect-child-sex-abuse-scandal-398b68475c2eab693e40e35552030e87)
-    * [Survivors seek a reckoning as FBI investigates child sex abuse in little-known Christian sect](https://apnews.com/article/christian-sect-child-sex-abuse-scandal-a94073c27168a7998c1a225f72672a3d)
     
     Newsletters
     
@@ -250,10 +250,10 @@ Menu
     TOP STORIES
     
     * [Trump amenaza deportaciones masivas y Centroamérica se prepara ante llegada de migrantes vulnerables](https://apnews.com/article/honduras-trump-deportaciones-masivas-america-central-inmigracion-27dbe55e62a2ee02c67c1fd289316356)
-    * [Los muertos en Gaza de la guerra entre Israel y Hamás superan los 45.000, según palestinos](https://apnews.com/article/gaza-hamas-israel-guerra-ataques-5fcf44407f59568166a4985408be97ff)
-    * [Assad, presidente depuesto de Siria, quería seguir luchando pero aliados rusos lo evacuaron.](https://apnews.com/article/siria-assad-rusia-guerra-9030c2a2f26e69d194dcd222cb2a86fb)
-    * [Alemania: Canciller Scholz pierde voto de confianza y anticipa elecciones en febrero](https://apnews.com/article/alemania-scholz-voto-de-confianza-parlamento-elecciones-gobierno-e55493ff75190687822696177177e4b7)
-    * [EEUU: 2024 fue un gran año para el bitcoin; se anticipa oleada de políticas cripto para 2025](https://apnews.com/article/criptomonedas-eeuu-pensiones-tesoro-pensilvania-wisconsin-michigan-trump-0049dc7e557f918e15e80d25118fab17)
+    * [Tiroteo en escuela de Wisconsin deja 3 muertos, incluida la atacante, y varios heridos](https://apnews.com/article/wisconsin-tiroteo-escuela-1899ce45daa7757f6bc9ad7140faa7e7)
+    * [Trump promete reanudar obras de muro fronterizo; sopesa indulto para el alcalde de NY, Eric Adams](https://apnews.com/article/eeuu-trump-rueda-de-prensa-maralago-alcalde-adams-nueva-york-indulto-gobierno-transicion-biden-51c3581752b5624f645a1be00b5f798d)
+    * [Francia acelera envío de ayuda a Mayotte tras paso del ciclón Chido; temen cientos de muertos](https://apnews.com/article/mayotte-chido-ciclon-francia-97ceaa5ce30b98d6f910ae9d84c6254a)
+    * [La fiscalía de Bolivia imputa a Evo Morales y requiere su detención por presunto abuso a una menor](https://apnews.com/article/bolivia-policia-regresa-chapare-feudo-cocalero-evo-morales-tras-protestas-94d96671dcdf493a4ef9c7010c870db2)
     
 * [Quizzes](https://apnews.com/quizzes)
     
@@ -414,9 +414,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Ukraine and US say some North Korean troops have been killed fighting alongside Russian forces](https://apnews.com/article/russia-ukraine-war-north-korea-troops-33bf427736c5802fb97df41fdbf61396)
+    * [Negotiators say Israel and Hamas are inching toward a ceasefire deal. This is what it may look like](https://apnews.com/article/israel-hamas-gaza-war-ceasefire-egypt-qatar-264087c7a547031a9433ecbbdcd920d2)
     * [Syria's ousted leader Assad says he wanted to keep fighting but Russian allies evacuated him](https://apnews.com/article/syria-war-assad-russia-news-16-december-2024-72a8e44f762da2ff78434ff76faeb633)
-    * [Death toll in Gaza from the Israel-Hamas war tops 45,000 Palestinians, health officials say](https://apnews.com/article/israel-palestinians-hamas-war-news-12-16-2024-9f7c8f0df71dc4c97a6b31aed6e13304)
-    * [Middle East latest: Assad says he wanted to stay in Syria but Russia evacuated him](https://apnews.com/article/israel-hamas-war-syria-news-16-december-2024-4ed0ec24506a1b78f0561ed0cc8f0994)
     
     Newsletters
     
@@ -432,9 +432,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Survivors seek a reckoning as FBI investigates child sex abuse in little-known Christian sect](https://apnews.com/article/christian-sect-child-sex-abuse-scandal-a94073c27168a7998c1a225f72672a3d)
-    * [Takeaways from AP's reporting on a child sex abuse crisis inside a secretive Christian sect](https://apnews.com/article/christian-sect-child-sex-abuse-scandal-398b68475c2eab693e40e35552030e87)
-    * [Drone sightings lead to airspace shutdown at Ohio military base, arrests near Boston airport](https://apnews.com/article/drones-mystery-new-jersey-york-b37fda04755803392178b1f39b76ccd8)
+    * [Teacher and a teenage student killed in a shooting at a private Christian school in Wisconsin](https://apnews.com/article/wisconsin-school-shooting-498c8ad26d299602553201ad639a4a5c)
+    * [The Latest: Teacher and a student killed in a shooting at a private Christian school in Wisconsin](https://apnews.com/article/wisconsin-school-shooting-8c0610859b9fb285a7f67a1dce7b22d9)
+    * [Things to know about the shooting at a Christian school in Wisconsin](https://apnews.com/article/school-shooting-wisconsin-things-to-know-3df4f40327e70aa863c4b5b36fd0a04b)
     
     Newsletters
     
@@ -462,9 +462,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Trump says he will 'look at' pardon for embattled New York mayor Eric Adams](https://apnews.com/article/trump-maralago-press-conference-44beea6cf8c93f070638842712bf3aca)
-    * [Former FBI informant pleads guilty to lying about phony bribery scheme involving the Bidens](https://apnews.com/article/alexander-smirnov-guilty-plea-biden-informant-fbi-62a3b7acce0345303f812ca6d0206b10)
-    * [As he prepares to leave leadership, McConnell challenges Trump on foreign policy](https://apnews.com/article/mcconnell-trump-isolationism-foreign-affairs-dcad297fa82e1794612fa2582e21162f)
+    * [Trump weighs in on NY mayor, vaccines and drones in freewheeling press conference at Mar-a-Lago](https://apnews.com/article/trump-maralago-press-conference-44beea6cf8c93f070638842712bf3aca)
+    * [What's behind rising autism rates: A broader definition of autism and better screening](https://apnews.com/article/autism-rates-vaccines-trump-rfk-polio-4d1ef5bd69dc20533e95e8e34e0b1e86)
+    * [TikTok asks the Supreme Court for an emergency order to block a US ban unless it's sold](https://apnews.com/article/supreme-court-tiktok-lawsuit-china-101afd280e5018bc1296613517f041d6)
     
     Newsletters
     
@@ -492,9 +492,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Dolphins' Grant DuBose has movement in extremities after scary hit to the head vs. Texans](https://apnews.com/article/dolphins-grant-dubose-injury-ee9725cd29930e910e05f02c7247b8fc)
-    * [NFL can't revise the onside kick fast enough for Dan Campbell: Analysis](https://apnews.com/article/campbell-lions-onside-kick-allen-bills-aad163d5edb6c548cbd39fcba66a2c0e)
-    * [Women's Champions League to wrap up group stage that highlights a growing imbalance in European game](https://apnews.com/article/womens-champions-league-7abffe9262539e39288b01ea9ac2f19b)
+    * [Spurs coach Gregg Popovich expresses desire to return to bench in first comments since stroke](https://apnews.com/article/spurs-popovich-stroke-a06003d47d5a480e8e3d8681113f0b5f)
+    * [Chiefs QB Patrick Mahomes has high-ankle sprain, status for Houston remains unclear, AP source says](https://apnews.com/article/kansas-city-chiefs-patrick-mahomes-injury-b1d2fa37c154828f6f76f78312f0562e)
+    * [Norfolk State interviews Michael Vick to be its football coach, according to report](https://apnews.com/article/norfolk-state-michael-vick-coach-64dc6004c339ea73798c2632f1b13370)
     
     Newsletters
     
@@ -523,7 +523,7 @@ Submit Search
     
     * [These three new sports dramas punch above their weight](https://apnews.com/article/sports-movies-unstoppable-day-fight-fire-inside-26efbc7f942ce5c251a6cd8dad881b4a)
     * [Stage spoofs of Hallmark TV movies are Christmas gifts for theaters](https://apnews.com/article/hallmark-christmas-holiday-movie-parody-theater-a2ffe1465b9492e88c58d683904ac87b)
-    * [Kane Brown 'gave everything' on his new album, 'The High Road.' The journey home meant experimenting](https://apnews.com/article/kane-brown-interview-high-road-c7eef2070190bb158a885581d131b600)
+    * [Former TV host Carlos Watson gets nearly 10 years in prison in case about failed startup Ozy Media](https://apnews.com/article/carlos-watson-ozy-media-trial-sentencing-08f18ac01494d0b5f0285db32ff5ecb9)
     
 * [Business](https://apnews.com/business)
     
@@ -539,7 +539,7 @@ Submit Search
     TOP STORIES
     
     * [Federal Reserve is likely to slow its rate cuts with inflation pressures still elevated](https://apnews.com/article/federal-reserve-inflation-rates-trump-economy-prices-4abfd4fad49db65cad4a2b5607d9e952)
-    * [Trump says he will 'look at' pardon for embattled New York mayor Eric Adams](https://apnews.com/article/trump-maralago-press-conference-44beea6cf8c93f070638842712bf3aca)
+    * [Trump weighs in on NY mayor, vaccines and drones in freewheeling press conference at Mar-a-Lago](https://apnews.com/article/trump-maralago-press-conference-44beea6cf8c93f070638842712bf3aca)
     * [Journalists anticipate a renewed hostility toward their work under the incoming Trump administration](https://apnews.com/article/trump-press-media-news-1915c25137eb4605b95ab3b3ccc6fb4c)
     
 * [Science](https://apnews.com/science)
@@ -639,15 +639,15 @@ Submit Search
     TOP STORIES
     
     * [Can U.N. summits save the planet? A faltering year of talks brings up questions about the process](https://apnews.com/article/united-nations-climate-biodiversity-plastics-drought-summits-failure-64b40bc06287a92d33bcdbfea4f3bf5f)
+    * [26 people arrested in crackdown on illegal deforestation along Paraguay, Brazil and Argentina border](https://apnews.com/article/paraguay-brazil-argentina-border-deforestation-interpol-tree-trafficking-92599975a233802e62732a6a4de84a66)
     * [American chestnuts are part of Yuletide lore. But in the US, they've nearly been wiped out](https://apnews.com/article/american-chestnut-trees-roasting-blight-chinese-restoration-1c3e50ef33a67926c0800222f0e7e619)
-    * [UN talks fail to reach agreement on dealing with rising risk of global drought](https://apnews.com/article/un-drought-desertification-climate-riyadh-saudi-arabia-a353d12a2fe8c19e932f96198fa3421d)
     
 * [Health](https://apnews.com/health)
     
     TOP STORIES
     
+    * [What's behind rising autism rates: A broader definition of autism and better screening](https://apnews.com/article/autism-rates-vaccines-trump-rfk-polio-4d1ef5bd69dc20533e95e8e34e0b1e86)
     * [Are you catching holiday blues instead of cheer? Here are some ways to find peace](https://apnews.com/article/holiday-christmas-mental-health-depression-anxiety-c65eef56bfa54bff48a8d00d5b782280)
-    * [Algunas pacientes de cáncer de mama podrían evitar ciertas cirugías, sugieren estudios](https://apnews.com/article/pacientes-cancer-mama-carcinoma-intraductal-743fbde12792891e3a7af800c86d84f7)
     * [Some breast cancer patients can avoid certain surgeries, studies suggest](https://apnews.com/article/breast-cancer-treatment-surgery-dcis-lymph-nodes-983e2835a4ecd1f90f53105a5bab4bb9)
     * [America is trying to fix its maternal mortality crisis with federal, state and local programs](https://apnews.com/article/maternal-mortality-healthy-start-oklahoma-california-new-york-city-0aa1fa2a141ef82607026b384cc14af7)
     * [Europe offers clues for solving America's maternal mortality crisis](https://apnews.com/article/maternal-mortality-rate-us-global-deaths-norway-211218f769e9a5a6e856a485fb31aef3)
@@ -664,9 +664,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Insider Q&A: High hopes for Australia social media ban and channeling parental 'fury' over tech](https://apnews.com/article/mama-social-media-addiction-kids-teens-julie-scelfo-f66bcbe64b1be143f3e93b93a4e83e94)
+    * [TikTok asks the Supreme Court for an emergency order to block a US ban unless it's sold](https://apnews.com/article/supreme-court-tiktok-lawsuit-china-101afd280e5018bc1296613517f041d6)
     * [US agencies should use advanced technology to identify mysterious drones, Schumer says](https://apnews.com/article/drones-new-york-jersey-schumer-80de1d64708677cfa7efc60249075d7b)
-    * [Schools are cutting bus service for children. Parents are turning to ride-hailing apps](https://apnews.com/article/school-bus-rideshare-chicago-3fdcedfc4f957f748bf109066806bc88)
-    * [Senate report alleges Amazon rejected warehouse safety recommendations due to productivity concerns](https://apnews.com/article/amazon-warehouse-worker-injuries-senate-committee-eb5b72dd501be0bcce9d919c34731290)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -684,17 +684,17 @@ Submit Search
     
     TOP STORIES
     
+    * [US to require passenger vehicles to sound alarms if rear passengers don't fasten their seat belts](https://apnews.com/article/nhtsa-rear-seat-belt-safety-1c0e6cc4e50f4edf9c0b8c24b1c0da07)
     * [Are you catching holiday blues instead of cheer? Here are some ways to find peace](https://apnews.com/article/holiday-christmas-mental-health-depression-anxiety-c65eef56bfa54bff48a8d00d5b782280)
     * [Stage spoofs of Hallmark TV movies are Christmas gifts for theaters](https://apnews.com/article/hallmark-christmas-holiday-movie-parody-theater-a2ffe1465b9492e88c58d683904ac87b)
-    * [Short ribs braised in wine and aromatics make for an elegant holiday dinner](https://apnews.com/article/holiday-dinner-braised-short-ribs-milk-street-a3bf12c0f33b3f3c9924adad0567f2e4)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
+    * [Teacher and a teenage student killed in a shooting at a private Christian school in Wisconsin](https://apnews.com/article/wisconsin-school-shooting-498c8ad26d299602553201ad639a4a5c)
+    * [Longtime Auburn football team pastor dies in an accident on an Alabama lake](https://apnews.com/article/lake-martin-auburn-football-pastor-accident-eda02c5804196211165052c1ded81454)
     * [A second top Church of England cleric is facing calls to resign over his handling of abuse claims](https://apnews.com/article/church-of-england-archbishop-abuse-scandal-9553d1e0d7e1e675a686e0d2cd90fe64)
-    * [Takeaways from AP's reporting on a child sex abuse crisis inside a secretive Christian sect](https://apnews.com/article/christian-sect-child-sex-abuse-scandal-398b68475c2eab693e40e35552030e87)
-    * [Survivors seek a reckoning as FBI investigates child sex abuse in little-known Christian sect](https://apnews.com/article/christian-sect-child-sex-abuse-scandal-a94073c27168a7998c1a225f72672a3d)
     
     Newsletters
     
@@ -709,10 +709,10 @@ Submit Search
     TOP STORIES
     
     * [Trump amenaza deportaciones masivas y Centroamérica se prepara ante llegada de migrantes vulnerables](https://apnews.com/article/honduras-trump-deportaciones-masivas-america-central-inmigracion-27dbe55e62a2ee02c67c1fd289316356)
-    * [Los muertos en Gaza de la guerra entre Israel y Hamás superan los 45.000, según palestinos](https://apnews.com/article/gaza-hamas-israel-guerra-ataques-5fcf44407f59568166a4985408be97ff)
-    * [Assad, presidente depuesto de Siria, quería seguir luchando pero aliados rusos lo evacuaron.](https://apnews.com/article/siria-assad-rusia-guerra-9030c2a2f26e69d194dcd222cb2a86fb)
-    * [Alemania: Canciller Scholz pierde voto de confianza y anticipa elecciones en febrero](https://apnews.com/article/alemania-scholz-voto-de-confianza-parlamento-elecciones-gobierno-e55493ff75190687822696177177e4b7)
-    * [EEUU: 2024 fue un gran año para el bitcoin; se anticipa oleada de políticas cripto para 2025](https://apnews.com/article/criptomonedas-eeuu-pensiones-tesoro-pensilvania-wisconsin-michigan-trump-0049dc7e557f918e15e80d25118fab17)
+    * [Tiroteo en escuela de Wisconsin deja 3 muertos, incluida la atacante, y varios heridos](https://apnews.com/article/wisconsin-tiroteo-escuela-1899ce45daa7757f6bc9ad7140faa7e7)
+    * [Trump promete reanudar obras de muro fronterizo; sopesa indulto para el alcalde de NY, Eric Adams](https://apnews.com/article/eeuu-trump-rueda-de-prensa-maralago-alcalde-adams-nueva-york-indulto-gobierno-transicion-biden-51c3581752b5624f645a1be00b5f798d)
+    * [Francia acelera envío de ayuda a Mayotte tras paso del ciclón Chido; temen cientos de muertos](https://apnews.com/article/mayotte-chido-ciclon-francia-97ceaa5ce30b98d6f910ae9d84c6254a)
+    * [La fiscalía de Bolivia imputa a Evo Morales y requiere su detención por presunto abuso a una menor](https://apnews.com/article/bolivia-policia-regresa-chapare-feudo-cocalero-evo-morales-tras-protestas-94d96671dcdf493a4ef9c7010c870db2)
     
 * [Quizzes](https://apnews.com/quizzes)
     
