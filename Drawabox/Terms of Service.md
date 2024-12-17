@@ -24,7 +24,15 @@
 
 [](javascript:ShowNextAnnouncement(false,'next'))
 
-[](https://amzn.to/3KUTasJ)
+[](https://amzn.to/4cDKBhz)
+
+[](https://drawabox.com/rec/bucci/digitalpainting)
+
+USE CODE 12DAYS
+
+FOR 15% OFF
+
+SALE ENDS December 25th
 
 [](https://drawabox.com/rec/zapata/shading)
 
@@ -34,9 +42,7 @@ FOR 15% OFF
 
 SALE ENDS December 25th
 
-[](https://amzn.to/4cDKBhz)
-
-[](https://amzn.to/2SjhDei)
+[](https://amzn.to/45JqVq9)
 
 ![Drawabox](https://d15v304a6xpq4b.cloudfront.net/assets/images/drawabox-logo.png "Drawabox")
 
