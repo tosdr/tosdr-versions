@@ -133,7 +133,6 @@ En cualquier caso, puedes inhabilitar las cookies de Google Analytics desde [aq
 [Acreditaciones y reconocimientos](https://firmaprofesional.com/somos-firmaprofesional#acreditaciones-y-reconocimientos)  
 [Políticas y prácticas de certificación](https://firmaprofesional.com/politicas-y-practicas-de-certificacion/)  
 [Legislación](https://firmaprofesional.com/legislacion/)  
-[Proyectos I+D](https://firmaprofesional.com/proyectos-id/)  
 [Partners tecnológicos](https://firmaprofesional.com/somos-firmaprofesional#partners-tecnologicos)  
 [Trabaja con nosotros](https://empleo.firmaprofesional.com/)  
 [Canal de denuncias](https://start.regtechsolutions.es/es/complaintchannel/report/1992c79e-0045-4b52-a484-c67828038f63)
