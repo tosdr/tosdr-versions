@@ -38,7 +38,7 @@ More
 
 My Account Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[AUS vs IND - Break](https://www.cricbuzz.com/live-cricket-scores/91796/aus-vs-ind-3rd-test-india-tour-of-australia-2024-25 "Australia v India, 3rd Test - Break")[NZ vs ENG - Complete](https://www.cricbuzz.com/live-cricket-scores/92408/nz-vs-eng-3rd-test-england-tour-of-new-zealand-2024 "New Zealand v England, 3rd Test - Complete")[ENGW vs RSAW - Stumps](https://www.cricbuzz.com/live-cricket-scores/94478/engw-vs-rsaw-only-test-england-women-tour-of-south-africa-2024 "England Women v South Africa Women, Only Test - Stumps")[SYT vs ADS - Preview](https://www.cricbuzz.com/live-cricket-scores/101571/syt-vs-ads-3rd-match-big-bash-league-2024-25 "Sydney Thunder v Adelaide Strikers, 3rd Match - Preview")[ZIM vs AFG - Preview](https://www.cricbuzz.com/live-cricket-scores/109337/zim-vs-afg-1st-odi-afghanistan-tour-of-zimbabwe-2024-25 "Zimbabwe v Afghanistan, 1st ODI - Preview")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[AUS vs IND - Live](https://www.cricbuzz.com/live-cricket-scores/91796/aus-vs-ind-3rd-test-india-tour-of-australia-2024-25 "Australia v India, 3rd Test - Live")[ZIM vs AFG - Delay](https://www.cricbuzz.com/live-cricket-scores/109337/zim-vs-afg-1st-odi-afghanistan-tour-of-zimbabwe-2024-25 "Zimbabwe v Afghanistan, 1st ODI - Delay")[SYT vs ADS - Preview](https://www.cricbuzz.com/live-cricket-scores/101571/syt-vs-ads-3rd-match-big-bash-league-2024-25 "Sydney Thunder v Adelaide Strikers, 3rd Match - Preview")[NZ vs ENG - NZ Won](https://www.cricbuzz.com/live-cricket-scores/92408/nz-vs-eng-3rd-test-england-tour-of-new-zealand-2024 "New Zealand v England, 3rd Test - NZ Won")[RSA vs PAK - Preview](https://www.cricbuzz.com/live-cricket-scores/94345/rsa-vs-pak-1st-odi-pakistan-tour-of-south-africa-2024-25 "South Africa v Pakistan, 1st ODI - Preview")
 
 AllLive NowToday
 
@@ -46,13 +46,13 @@ AllLive NowToday
     
     Australia v India
     
-    [Australia vs India](https://www.cricbuzz.com/live-cricket-scores/91796/aus-vs-ind-3rd-test-australia-v-india "Australia v India, 3rd Test - Break")
+    [Australia vs India  LIVE](https://www.cricbuzz.com/live-cricket-scores/91796/aus-vs-ind-3rd-test-australia-v-india "Australia v India, 3rd Test - Live")
     
     3rd Test
     
 * New Zealand v England, 2024
     
-    [New Zealand vs England](https://www.cricbuzz.com/live-cricket-scores/92408/nz-vs-eng-3rd-test-new-zealand-v-england-2024 "New Zealand v England, 3rd Test - Complete")
+    [New Zealand vs England](https://www.cricbuzz.com/live-cricket-scores/92408/nz-vs-eng-3rd-test-new-zealand-v-england-2024 "New Zealand v England, 3rd Test - NZ Won")
     
     3rd Test
     
@@ -64,7 +64,7 @@ AllLive NowToday
     
 * Afghanistan tour of Zimbabwe, 2024-25
     
-    [Zimbabwe vs Afghanistan](https://www.cricbuzz.com/live-cricket-scores/109337/zim-vs-afg-1st-odi-afghanistan-tour-of-zimbabwe-2024-25 "Zimbabwe v Afghanistan, 1st ODI - Preview")
+    [Zimbabwe vs Afghanistan](https://www.cricbuzz.com/live-cricket-scores/109337/zim-vs-afg-1st-odi-afghanistan-tour-of-zimbabwe-2024-25 "Zimbabwe v Afghanistan, 1st ODI - Delay")
     
     1st ODI
     
@@ -120,21 +120,21 @@ AllLive NowToday
     
     Match 31
     
-* [Mexico vs Bahamas](https://www.cricbuzz.com/live-cricket-scores/111513/mex-vs-bhm-match-34-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Mexico v Bahamas, Match 34 - Preview")
+* [Bahamas vs Mexico  LIVE](https://www.cricbuzz.com/live-cricket-scores/111513/bhm-vs-mex-match-34-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Bahamas v Mexico, Match 34 - Live")
     
     Match 34
     
-* [Cayman Islands vs Bermuda](https://www.cricbuzz.com/live-cricket-scores/111505/caym-vs-ber-match-33-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Cayman Islands v Bermuda, Match 33 - Preview")
+* [Bermuda vs Cayman Islands](https://www.cricbuzz.com/live-cricket-scores/111505/ber-vs-caym-match-33-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Bermuda v Cayman Islands, Match 33 - Complete")
     
     Match 33
-    
-* [Suriname vs Belize](https://www.cricbuzz.com/live-cricket-scores/111521/sn-vs-blz-match-35-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Suriname v Belize, Match 35 - Upcoming")
-    
-    Match 35
     
 * [Brazil vs Argentina](https://www.cricbuzz.com/live-cricket-scores/111529/brazil-vs-arg-match-36-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Brazil v Argentina, Match 36 - Upcoming")
     
     Match 36
+    
+* [Suriname vs Belize](https://www.cricbuzz.com/live-cricket-scores/111521/sn-vs-blz-match-35-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Suriname v Belize, Match 35 - Upcoming")
+    
+    Match 35
     
 * West Indies v Bangladesh, 2024
     
@@ -142,7 +142,7 @@ AllLive NowToday
     
     1st T20I
     
-* [West Indies vs Bangladesh](https://www.cricbuzz.com/live-cricket-scores/95241/wi-vs-ban-2nd-t20i-west-indies-v-bangladesh-2024 "West Indies v Bangladesh, 2nd T20I - Upcoming")
+* [West Indies vs Bangladesh](https://www.cricbuzz.com/live-cricket-scores/95241/wi-vs-ban-2nd-t20i-west-indies-v-bangladesh-2024 "West Indies v Bangladesh, 2nd T20I - Preview")
     
     2nd T20I
     
@@ -575,39 +575,39 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/132807/calf-strain-set-to-force-hazlewood-out-of-the-remainder-of-india-series "Calf strain set to force Hazlewood out of the remainder of India series")
+
+[Calf strain set to force Hazlewood out of the remainder of India series](https://www.cricbuzz.com/cricket-news/132807/calf-strain-set-to-force-hazlewood-out-of-the-remainder-of-india-series "Calf strain set to force Hazlewood out of the remainder of India series")
+
+30m ago
+
+  [](https://www.cricbuzz.com/cricket-news/132806/jadeja-holds-firm-even-as-cummins-strike-threaten-india "Jadeja holds firm even as Cummins' strike threatens India")
+
+[Jadeja holds firm even as Cummins' strike threatens India](https://www.cricbuzz.com/cricket-news/132806/jadeja-holds-firm-even-as-cummins-strike-threaten-india "Jadeja holds firm even as Cummins' strike threatens India")
+
+37m ago
+
+  [](https://www.cricbuzz.com/cricket-news/132805/southee-signs-off-on-a-happy-note-with-a-pretty-special-win "Southee signs off on a happy note with a "pretty special" win")
+
+[Southee signs off on a happy note with a "pretty special" win](https://www.cricbuzz.com/cricket-news/132805/southee-signs-off-on-a-happy-note-with-a-pretty-special-win "Southee signs off on a happy note with a "pretty special" win")
+
+1h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132804/australia-remain-on-top-after-kl-rahuls-vigil "Australia remain on top despite KL Rahul's vigilant knock")
+
+[Australia remain on top despite KL Rahul's vigilant knock](https://www.cricbuzz.com/cricket-news/132804/australia-remain-on-top-after-kl-rahuls-vigil "Australia remain on top despite KL Rahul's vigilant knock")
+
+4h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132803/mitchell-santner-picks-four-as-new-zealand-clinch-massive-423-run-win "Santner picks four as New Zealand clinch massive 423-run win")
+
+[Santner picks four as New Zealand clinch massive 423-run win](https://www.cricbuzz.com/cricket-news/132803/mitchell-santner-picks-four-as-new-zealand-clinch-massive-423-run-win "Santner picks four as New Zealand clinch massive 423-run win")
+
+5h ago
+
   [](https://www.cricbuzz.com/cricket-news/132802/england-fetch-handy-first-innings-lead-after-south-africas-collapse "England fetch handy first innings lead after South Africa's collapse")
 
 [England fetch handy first innings lead after South Africa's collapse](https://www.cricbuzz.com/cricket-news/132802/england-fetch-handy-first-innings-lead-after-south-africas-collapse "England fetch handy first innings lead after South Africa's collapse")
-
-6h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132801/drs-disaster-strikes-again-as-england-surge-ahead "DRS disaster strikes again as England surge ahead")
-
-[DRS disaster strikes again as England surge ahead](https://www.cricbuzz.com/cricket-news/132801/drs-disaster-strikes-again-as-england-surge-ahead "DRS disaster strikes again as England surge ahead")
-
-7h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132800/sammy-appointed-west-indies-all-format-coach "Sammy appointed West Indies' all-format coach")
-
-[Sammy appointed West Indies' all-format coach](https://www.cricbuzz.com/cricket-news/132800/sammy-appointed-west-indies-all-format-coach "Sammy appointed West Indies' all-format coach")
-
-7h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132799/between-champions-trophy-dreams-and-injury-woes-south-africa-prepare-for-pakistan-challenge "Between Champions Trophy dreams and injury woes, SA prepare for PAK challenge")
-
-[Between Champions Trophy dreams and injury woes, SA prepare for PAK challenge](https://www.cricbuzz.com/cricket-news/132799/between-champions-trophy-dreams-and-injury-woes-south-africa-prepare-for-pakistan-challenge "Between Champions Trophy dreams and injury woes, SA prepare for PAK challenge")
-
-11h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132798/ankit-rajpoot-retires-from-indian-cricket-at-31 "Ankit Rajpoot retires from Indian cricket at 31")
-
-[Ankit Rajpoot retires from Indian cricket at 31](https://www.cricbuzz.com/cricket-news/132798/ankit-rajpoot-retires-from-indian-cricket-at-31 "Ankit Rajpoot retires from Indian cricket at 31")
-
-11h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132797/we-are-in-transition-so-its-my-job-to-help-the-others-bumrah "We are in transition so it's my job to help the others - Bumrah")
-
-[We are in transition so it's my job to help the others - Bumrah](https://www.cricbuzz.com/cricket-news/132797/we-are-in-transition-so-its-my-job-to-help-the-others-bumrah "We are in transition so it's my job to help the others - Bumrah")
 
 12h ago
 
