@@ -4,8 +4,6 @@
 
 [![brightwheel logo](https://mybrightwheel.com/wp-content/themes/_brightwheel/img/brightwheel-logo-white.svg)](https://mybrightwheel.com/)
 
-Contact Sales: (855) 758-6642
-
 [Get a demo](https://mybrightwheel.com/demo/) [Request pricing](https://mybrightwheel.com/pricing/)
 
 * [Solutions](https://mybrightwheel.com/childcare-management-software/ "Brightwheel's all-in-one childcare management solutions are built to save you and your staff time.")
@@ -26,8 +24,7 @@ Contact Sales: (855) 758-6642
     * [Blog](https://mybrightwheel.com/blog "Brightwheel Blog shares ideas and inspiration that help you run an amazing early education center")
 * [Pricing](https://mybrightwheel.com/pricing/)
 * [Request a Demo](https://mybrightwheel.com/demo/ "Request your free, personalized demo and we’ll show you how easy it is to get started on brightwheel.")
-* Contact Sales: (855) 758-6642
-    
+
 * [Log In](https://schools.mybrightwheel.com/sign-in)
 * [Get a demo](https://mybrightwheel.com/demo/ "Request your free, personalized demo and we’ll show you how easy it is to get started on brightwheel.")
 
@@ -265,9 +262,6 @@ If you have any questions or concerns regarding our privacy practices, or to exe
     * [Terms of Service](https://mybrightwheel.com/terms/)
     * [Privacy Policy](https://mybrightwheel.com/privacy/)
 * [Get a demo](https://mybrightwheel.com/demo/ "Request your free, personalized demo and we’ll show you how easy it is to get started on brightwheel.")
-    
-    Contact Sales: (855) 758-6642
-    
 
 [![Shark Tank logo that is hyperlinked to YouTube video where brightwheel pitched its childcare software to the sharks.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20210%2055'%3E%3C/svg%3E)
 
