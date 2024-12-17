@@ -16,15 +16,15 @@
     
     [**Government**
     
-    Build an engaged community that connects and stays safe.](https://www.socialnewsdesk.com/government/)[**Universities**
+    Build an engaged community that connects and stays safe.](https://www.socialnewsdesk.com/government/)[**Public Safety**
+    
+    Rely on mission critical social media tools to keep the community safe.](https://www.socialnewsdesk.com/public-safety/)[**Universities**
     
     Reach, retain and engage with students, faculty and donors.](https://www.socialnewsdesk.com/universities/)[**K-12 Education**
     
     Engage parents and celebrate education in your community.](https://www.socialnewsdesk.com/social-media-management-for-k-12-education/)[**News & Publishing**
     
-    Tell a more powerful, engaging story through social media.](https://www.socialnewsdesk.com/news/)[**Public Safety**
-    
-    Rely on mission critical social media tools to keep the community safe.](https://www.socialnewsdesk.com/public-safety/)[Customer Stories
+    Tell a more powerful, engaging story through social media.](https://www.socialnewsdesk.com/news/)[Customer Stories
     
     See what real SND customers have to say about their experience.](https://www.socialnewsdesk.com/snd-customer-stories)
     
@@ -95,16 +95,18 @@ Some of our features use YouTube API Services. If you use these services you are
 ### Social Media Management Tools
 
 * [Social Media for Government](https://www.socialnewsdesk.com/municipalities/)
-* [Social Media for Healthcare](https://www.socialnewsdesk.com/healthcare/)
-* [Social Media for Higher Education](https://www.socialnewsdesk.com/universities/)
-* [Social Media for Newsrooms](https://www.socialnewsdesk.com/news/)
 * [Social Media for Public Safety](https://www.socialnewsdesk.com/public-safety/)
+* [Social Media for Higher Education](https://www.socialnewsdesk.com/universities/)
+* [Social Media for K-12 Education](https://www.socialnewsdesk.com/social-media-management-for-k-12-education/)
+* [Social Media for Newsrooms](https://www.socialnewsdesk.com/news/)
+* [Social Media for Healthcare](https://www.socialnewsdesk.com/healthcare/)
 
 * [Social Media for Government](https://www.socialnewsdesk.com/municipalities/)
-* [Social Media for Healthcare](https://www.socialnewsdesk.com/healthcare/)
-* [Social Media for Higher Education](https://www.socialnewsdesk.com/universities/)
-* [Social Media for Newsrooms](https://www.socialnewsdesk.com/news/)
 * [Social Media for Public Safety](https://www.socialnewsdesk.com/public-safety/)
+* [Social Media for Higher Education](https://www.socialnewsdesk.com/universities/)
+* [Social Media for K-12 Education](https://www.socialnewsdesk.com/social-media-management-for-k-12-education/)
+* [Social Media for Newsrooms](https://www.socialnewsdesk.com/news/)
+* [Social Media for Healthcare](https://www.socialnewsdesk.com/healthcare/)
 
 ### Resources
 
