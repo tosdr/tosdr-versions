@@ -117,59 +117,59 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Quick and efficient support
-> ---------------------------
+> Enjoying Invoices Online
+> ------------------------
 > 
-> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
+> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
 > 
-> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
+> I have upgraded to the Gold account in order to support you guys!
 
-Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
+Shaun Gartshore
 
-![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=1c14adaf24a25237eae95a001d41cd8d2c63aca24d416ed523b231f34ef0b7fa&c=31840251)  
-Tracknetics
+![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=b6eb8cd0470a9f264f3d9170eabf792fa83740126e05547492eb08345d0d24c4&c=81689877)  
+Frequency Fanatics (Pty) Ltd
 
-![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=1c14adaf24a25237eae95a001d41cd8d2c63aca24d416ed523b231f34ef0b7fa&c=31958969)  
-Multi CNC Solutions CC
+![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=b6eb8cd0470a9f264f3d9170eabf792fa83740126e05547492eb08345d0d24c4&c=107421265)  
+Repairs In Motion
 
-![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=1c14adaf24a25237eae95a001d41cd8d2c63aca24d416ed523b231f34ef0b7fa&c=140062793)  
-Iurus Inc
+![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=b6eb8cd0470a9f264f3d9170eabf792fa83740126e05547492eb08345d0d24c4&c=50992258)  
+Roamfree Boerdery (PTY) LTD
 
-![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=1c14adaf24a25237eae95a001d41cd8d2c63aca24d416ed523b231f34ef0b7fa&c=209994401)  
-Abandoned Vehicle and Truck Solutions
+![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=b6eb8cd0470a9f264f3d9170eabf792fa83740126e05547492eb08345d0d24c4&c=14190066)  
+Redlum Group (Pty) Ltd
 
-![valued client FlipDesign - Renovation Contracting Firm](https://www.invoicesonline.co.za/scripts/image.php?bid=8663&file=logo_300_100&type=&fe=1c14adaf24a25237eae95a001d41cd8d2c63aca24d416ed523b231f34ef0b7fa&c=27594861)  
-FlipDesign - Renovation Contracting Firm
+![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=b6eb8cd0470a9f264f3d9170eabf792fa83740126e05547492eb08345d0d24c4&c=193813080)  
+Lizzy Pop PTY(Ltd)
 
-![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=1c14adaf24a25237eae95a001d41cd8d2c63aca24d416ed523b231f34ef0b7fa&c=74830559)  
-AquariumSmiths
+![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=b6eb8cd0470a9f264f3d9170eabf792fa83740126e05547492eb08345d0d24c4&c=4467270)  
+United Paintball Federation
 
-![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=1c14adaf24a25237eae95a001d41cd8d2c63aca24d416ed523b231f34ef0b7fa&c=122954264)  
-ARCHITEK PTY LTD
+![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=b6eb8cd0470a9f264f3d9170eabf792fa83740126e05547492eb08345d0d24c4&c=24598466)  
+Leef in Afrikaans
 
-![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=1c14adaf24a25237eae95a001d41cd8d2c63aca24d416ed523b231f34ef0b7fa&c=125314852)  
-NEW BEGINNINGS DESIGNS
+![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=b6eb8cd0470a9f264f3d9170eabf792fa83740126e05547492eb08345d0d24c4&c=169057129)  
+Cape Adventure Zone
 
-![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=1c14adaf24a25237eae95a001d41cd8d2c63aca24d416ed523b231f34ef0b7fa&c=158498536)  
-National Elite Security Services (PTY) LTD
+![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=b6eb8cd0470a9f264f3d9170eabf792fa83740126e05547492eb08345d0d24c4&c=135806981)  
+Bchange Online CC
 
-![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=1c14adaf24a25237eae95a001d41cd8d2c63aca24d416ed523b231f34ef0b7fa&c=153542814)  
-On The Spot Marketing (Pty) Ltd t/a 24hrprinting
-
-![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=1c14adaf24a25237eae95a001d41cd8d2c63aca24d416ed523b231f34ef0b7fa&c=164763656)  
-IYD
-
-![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=1c14adaf24a25237eae95a001d41cd8d2c63aca24d416ed523b231f34ef0b7fa&c=164169599)  
+![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=b6eb8cd0470a9f264f3d9170eabf792fa83740126e05547492eb08345d0d24c4&c=214133949)  
 VerdanTech Pty Ltd
 
-![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=1c14adaf24a25237eae95a001d41cd8d2c63aca24d416ed523b231f34ef0b7fa&c=159732927)  
-Blue Bulls Rugby Coaches Association
+![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=b6eb8cd0470a9f264f3d9170eabf792fa83740126e05547492eb08345d0d24c4&c=58198504)  
+Camp 4 Africa (Pty) Ltd
 
-![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=1c14adaf24a25237eae95a001d41cd8d2c63aca24d416ed523b231f34ef0b7fa&c=90858381)  
-GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
+![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=b6eb8cd0470a9f264f3d9170eabf792fa83740126e05547492eb08345d0d24c4&c=40970968)  
+Entidee Enterprise PTY (ltd)
 
-![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=1c14adaf24a25237eae95a001d41cd8d2c63aca24d416ed523b231f34ef0b7fa&c=61063031)  
-Redlum Group (Pty) Ltd
+![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=b6eb8cd0470a9f264f3d9170eabf792fa83740126e05547492eb08345d0d24c4&c=160261731)  
+Imhoff Equestrian Centre
+
+![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=b6eb8cd0470a9f264f3d9170eabf792fa83740126e05547492eb08345d0d24c4&c=32548594)  
+Qothiphango Mining
+
+![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=b6eb8cd0470a9f264f3d9170eabf792fa83740126e05547492eb08345d0d24c4&c=118566284)  
+Frameless Fanatix (Pty) Ltd.
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
