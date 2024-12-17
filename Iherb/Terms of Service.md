@@ -785,7 +785,7 @@ Themenwelten
 
 [Snacks, Riegel und Fingerfood](https://de.iherb.com/c/snacks-bars-finger-food)
 
-[Zahnungswaffeln](https://de.iherb.com/c/teething-wafers)
+[Zahnungskekse](https://de.iherb.com/c/teething-wafers)
 
 [Schutzmittel für Baby und Kind](https://de.iherb.com/c/health-safety)
 
