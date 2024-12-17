@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Excellent support service.
+You have an excellent product which addresses users’ needs very well.
 
-Malcolm MacKillop
+Michael Alexander
