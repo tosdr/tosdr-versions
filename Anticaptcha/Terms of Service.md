@@ -1,4 +1,4 @@
-  Anti Captcha: Captcha Solving Service. Bypass Recaptcha, hCaptcha, image captcha, FunCaptcha Arkose Labs, GeeTest, Turnstile, Amazon, and others                                                                
+  Anti Captcha: Captcha Solving Service. Bypass Recaptcha, hCaptcha, image captcha, FunCaptcha Arkose Labs, GeeTest, Turnstile, Amazon, and others                                                                    
 
 [![logo](https://d2dcgek2qxtwh0.cloudfront.net/images/nuxt3/logo.svg)](https://anti-captcha.com/)[Home](https://anti-captcha.com/)[Documentation](https://anti-captcha.com/apidoc)[Tutorials](https://anti-captcha.com/tutorials)
 
