@@ -196,57 +196,61 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Saving time, saving money
-> -------------------------
+> Support even on Sundays!
+> ------------------------
 > 
-> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
+> Thanks Adriaan...
+> 
+> You guys even work on Sundays?
+> 
+> I’m impressed!!
 
-Cornel Erasmus - TELA Loss Adjusters & Assessors
+Johan Botha - Brand Xplosion
 
-![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=aa755b291b3b27abe7beb9eca8003be8311d5c48f06b224d151a10189e068c85&c=31724594)  
-Konsortium Operations (PTY) LTD
+![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=b2923215811ae111a35aa02640464bc10d69a0d7be3be3ddd0683c17baa63e95&c=44152534)  
+MONSTER SECURITY GUARDING
 
-![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=aa755b291b3b27abe7beb9eca8003be8311d5c48f06b224d151a10189e068c85&c=61379804)  
-Tantra Sound and Lightz
+![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=b2923215811ae111a35aa02640464bc10d69a0d7be3be3ddd0683c17baa63e95&c=111952784)  
+IAS Logistics (Pty) Ltd T/A MULTITRANSIT
 
-![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=aa755b291b3b27abe7beb9eca8003be8311d5c48f06b224d151a10189e068c85&c=26997438)  
-Baby Toddles Infant Care
+![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=b2923215811ae111a35aa02640464bc10d69a0d7be3be3ddd0683c17baa63e95&c=10327114)  
+SA Security Brokerz (Pty) Ltd
 
-![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=aa755b291b3b27abe7beb9eca8003be8311d5c48f06b224d151a10189e068c85&c=191138470)  
-Electro-Heat
+![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=b2923215811ae111a35aa02640464bc10d69a0d7be3be3ddd0683c17baa63e95&c=181675335)  
+Digifax (Pty) Ltd trading as Digirent
 
-![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=aa755b291b3b27abe7beb9eca8003be8311d5c48f06b224d151a10189e068c85&c=80536257)  
-Waterfinatics Swim School
+![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=b2923215811ae111a35aa02640464bc10d69a0d7be3be3ddd0683c17baa63e95&c=10279666)  
+LEONARD
 
-![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=aa755b291b3b27abe7beb9eca8003be8311d5c48f06b224d151a10189e068c85&c=108108692)  
-AMS Ambu Medical Supplies
+![valued client Safe Train Mokgethwa (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8103&file=logo_300_100&type=&fe=b2923215811ae111a35aa02640464bc10d69a0d7be3be3ddd0683c17baa63e95&c=70961272)  
+Safe Train Mokgethwa (PTY) Ltd
 
-![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=aa755b291b3b27abe7beb9eca8003be8311d5c48f06b224d151a10189e068c85&c=168124719)  
-NGB HOLDINGS PTY LTD
+![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=b2923215811ae111a35aa02640464bc10d69a0d7be3be3ddd0683c17baa63e95&c=17331238)  
+Lindani Protection Services & Projects
 
-![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=aa755b291b3b27abe7beb9eca8003be8311d5c48f06b224d151a10189e068c85&c=21644644)  
-Blue Bulls Rugby Coaches Association
+![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=b2923215811ae111a35aa02640464bc10d69a0d7be3be3ddd0683c17baa63e95&c=183710609)  
+BD Maintenance
 
-![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=aa755b291b3b27abe7beb9eca8003be8311d5c48f06b224d151a10189e068c85&c=101657771)  
-Entidee Enterprise PTY (ltd)
+![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=b2923215811ae111a35aa02640464bc10d69a0d7be3be3ddd0683c17baa63e95&c=59450762)  
+Depot Diesel (Pty) Ltd
 
-![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=aa755b291b3b27abe7beb9eca8003be8311d5c48f06b224d151a10189e068c85&c=203549112)  
-Highlands Auto Engineering
+![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=b2923215811ae111a35aa02640464bc10d69a0d7be3be3ddd0683c17baa63e95&c=97075106)  
+Meyer Towing & Recovery
 
-![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=aa755b291b3b27abe7beb9eca8003be8311d5c48f06b224d151a10189e068c85&c=121892775)  
-Enhle Oarabile Kea
+![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=b2923215811ae111a35aa02640464bc10d69a0d7be3be3ddd0683c17baa63e95&c=203586338)  
+Salvage Genie
 
-![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=aa755b291b3b27abe7beb9eca8003be8311d5c48f06b224d151a10189e068c85&c=165554280)  
-SMART GUY PCS (PTY) LTD
+![valued client MONSTER SECURITY SERVICES (NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=b2923215811ae111a35aa02640464bc10d69a0d7be3be3ddd0683c17baa63e95&c=148773656)  
+MONSTER SECURITY SERVICES (NORTHAM)
 
-![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=aa755b291b3b27abe7beb9eca8003be8311d5c48f06b224d151a10189e068c85&c=150391945)  
-NIMAWELL
+![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=b2923215811ae111a35aa02640464bc10d69a0d7be3be3ddd0683c17baa63e95&c=126739695)  
+Camp 4 Africa (Pty) Ltd
 
-![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=aa755b291b3b27abe7beb9eca8003be8311d5c48f06b224d151a10189e068c85&c=49690686)  
-Creative Characters
+![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=b2923215811ae111a35aa02640464bc10d69a0d7be3be3ddd0683c17baa63e95&c=202217613)  
+KTEN PARTS
 
-![valued client Van Der Merwe Olieverspreiders](https://www.invoicesonline.co.za/scripts/image.php?bid=8554&file=logo_300_100&type=&fe=aa755b291b3b27abe7beb9eca8003be8311d5c48f06b224d151a10189e068c85&c=83855466)  
-Van Der Merwe Olieverspreiders
+![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=b2923215811ae111a35aa02640464bc10d69a0d7be3be3ddd0683c17baa63e95&c=187716073)  
+TIGERDSL
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
