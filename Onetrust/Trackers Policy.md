@@ -172,9 +172,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
+* [OneTrust Consent & Preferences Demo Video](https://www.onetrust.com/resources/consent-and-preferences-demo-video/)
+* [Data Privacy Day 2025](https://www.onetrust.com/resources/data-privacy-day-2025-webinar/)
 * [Automating metadata capture: Future-proofing data management for AI](https://www.onetrust.com/resources/automating-metadata-capture-future-proofing-data-management-for-ai-webinar/)
-* [How Samsung achieved seamless global consent management with OneTrust](https://www.onetrust.com/resources/how-samsung-achieved-seamless-global-consent-management-with-onetrust-webinar/)
-* [PIA and DPIA demo webinar with Data Privacy Group](https://www.onetrust.com/resources/pia-and-dpia-demo-webinar-with-data-privacy-group-webinar/)
 
 ### Platform
 
