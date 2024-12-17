@@ -1,6 +1,6 @@
 □
 
-                                                                            Terms & Conditions - Muscat Livestock                                         
+                                                                                      Terms & Conditions - Muscat Livestock                               
 
 [Skip to content](#main-content)
 
@@ -677,27 +677,6 @@ Muscat Livestock, SHS Tower - Suite 81 Ghala, Muscat, Oman
 * [Instagram](https://www.instagram.com/mls.om/ "Muscat Livestock on Instagram")
 * [WhatsApp](https://wa.me/96892423242 "Muscat Livestock on WhatsApp")
 * [LinkedIn](https://www.linkedin.com/company/muscatlivestock/ "Muscat Livestock on LinkedIn")
-
-About MLS
----------
-
-* [Our Story](https://mls.om/pages/our-story)
-* [MLS Rewards](https://mls.om/pages/rewards)
-* [MLS Partner](https://mls.om/pages/mls-affiliate)
-* [Refer a Friend](https://mls.om/pages/referral)
-* [Stores Locations](https://mls.om/pages/mls-gourmet)
-* [Customer Reviews](https://mls.om/pages/customer-reviews)
-* [FAQs](https://mls.om/pages/faqs)
-* [MLS Blogs](https://mls.om/pages/all-blogs)
-
-Customer Care
--------------
-
-* [FAQs](https://mls.om/pages/faqs)
-* [Contact Us](https://mls.om/pages/contact-us)
-* [Delivery Info](https://mls.om/pages/delivery-info)
-* [Refunds & Returns](https://mls.om/pages/refund-exchange)
-* [Terms & Conditions](https://mls.om/pages/terms-conditions)
 
 Get Notified on Exclusive Offers
 --------------------------------
