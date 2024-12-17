@@ -1,20 +1,6 @@
-[![](https://framerusercontent.com/images/Tjb3L7naijsE5eqhFslwQ8MN60.svg)](https://www.bunq.com/assets/media/legal/en/)
+[Update 27 is almost here! Join us **tonight at 20:30 CET** to discover all that's new and improved.](https://www.bunq.com/assets/media/legal/en/update-27)
 
-[Compare Plans](https://www.bunq.com/assets/media/legal/en/plans)
-
-[Log in](https://web.bunq.com/)
-
-[Sign up](https://app.adjust.com/dqvbt6?engagement_type=fallback_click&fallback=https%3A%2F%2Fweb.bunq.com%2Fsignup&redirect_macos=https%3A%2F%2Fweb.bunq.com%2Fsignup%3Ftracker_token%3Ddqvbt6)
-
-[Business](https://www.bunq.com/assets/media/legal/en/business)
-
-[About Us](https://www.bunq.com/assets/media/legal/en/about)
-
-[Help Center](https://www.bunq.com/assets/media/legal/en/help)
-
-[Jobs](https://jobs.bunq.com/)
-
-[Press](https://press.bunq.com/)
+![](https://framerusercontent.com/images/DU7HAXnvm85IhmGAomOAGAZUlMY.svg)
 
 [![](https://framerusercontent.com/images/Tjb3L7naijsE5eqhFslwQ8MN60.svg)](https://www.bunq.com/assets/media/legal/en/)
 
@@ -33,6 +19,32 @@
 [Jobs](https://jobs.bunq.com/)
 
 [Press](https://press.bunq.com/)
+
+[Update 27 is almost here! Join us **tonight at 20:30 CET** to discover all that's new and improved.](https://www.bunq.com/assets/media/legal/en/update-27)
+
+![](https://framerusercontent.com/images/DU7HAXnvm85IhmGAomOAGAZUlMY.svg)
+
+[![](https://framerusercontent.com/images/Tjb3L7naijsE5eqhFslwQ8MN60.svg)](https://www.bunq.com/assets/media/legal/en/)
+
+[Compare Plans](https://www.bunq.com/assets/media/legal/en/plans)
+
+[Log in](https://web.bunq.com/)
+
+[Sign up](https://app.adjust.com/dqvbt6?engagement_type=fallback_click&fallback=https%3A%2F%2Fweb.bunq.com%2Fsignup&redirect_macos=https%3A%2F%2Fweb.bunq.com%2Fsignup%3Ftracker_token%3Ddqvbt6)
+
+[Business](https://www.bunq.com/assets/media/legal/en/business)
+
+[About Us](https://www.bunq.com/assets/media/legal/en/about)
+
+[Help Center](https://www.bunq.com/assets/media/legal/en/help)
+
+[Jobs](https://jobs.bunq.com/)
+
+[Press](https://press.bunq.com/)
+
+[Update 27 is almost here! Join us **tonight at 20:30 CET** to discover all that's new and improved.](https://www.bunq.com/assets/media/legal/en/update-27)
+
+![](https://framerusercontent.com/images/DU7HAXnvm85IhmGAomOAGAZUlMY.svg)
 
 [![](https://framerusercontent.com/images/Tjb3L7naijsE5eqhFslwQ8MN60.svg)](https://www.bunq.com/assets/media/legal/en/)
 
