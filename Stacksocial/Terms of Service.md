@@ -1,99 +1,144 @@
-[nofollow](https://iar40lbead.execute-api.us-east-1.amazonaws.com/ProdStage)
+Access Granted!
+---------------
 
-     
+Click below to view deal
 
-* [StackSocial](https://www.stacksocial.com/)
-* [Citizen Goods](https://www.citizengoods.com/)
-* [Skillwise](https://www.skillwise.com/)
+[View Deal](https://stacksocial.com/sales/oystervpn-lifetime-subscription)
 
-[Get 1TB FolderFort Lifetime for $59 – Lowest Price!](https://stacksocial.com/sales/folderfort-1tb-storage-pro-plan-lifetime-subscription)
+[Internxt Lifetime Storage - Lowest Price Ever!](https://stacksocial.com/sales/internxt-cloud-storage-lifetime-subscription-2tb-plan)
 
-[Give $10, Get $10](https://stacksocial.com/user/credits)
+[![StackSocial Logo mobile](https://cdnp1.stackassets.com/6e671abaa5d0fe1ecaa134783b0dc291dd778601/store/5028ebcfae8c4e22b8a83fe28feaa0422b45d2aa2bad934961999e4c43f2/StackSocial_2023_Logomark_Black_Knockout.svg)![StackSocial Logo](https://cdnp0.stackassets.com/a3c277997d108b87ef125bea3ae70e8b48766ff1/store/e85890a11ca444bed8792c60bd9ddef9aa34dc9b26f9fabb4714c6a41a0b/StackSocial_2023_Logomark_Black_Knockout.svg)](https://stacksocial.com/)
 
-Toggle navigation
+[Sign In](https://stacksocial.com/sign_in)
 
- [![StackSocial](https://cdnp0.stackassets.com/a3c277997d108b87ef125bea3ae70e8b48766ff1/store/e85890a11ca444bed8792c60bd9ddef9aa34dc9b26f9fabb4714c6a41a0b/StackSocial_2023_Logomark_Black_Knockout.svg) ![StackSocial Mobile](https://cdnp1.stackassets.com/6e671abaa5d0fe1ecaa134783b0dc291dd778601/store/5028ebcfae8c4e22b8a83fe28feaa0422b45d2aa2bad934961999e4c43f2/StackSocial_2023_Logomark_Black_Knockout.svg)](https://stacksocial.com/)
+[![StackSocial Logo mobile](https://cdnp1.stackassets.com/6e671abaa5d0fe1ecaa134783b0dc291dd778601/store/5028ebcfae8c4e22b8a83fe28feaa0422b45d2aa2bad934961999e4c43f2/StackSocial_2023_Logomark_Black_Knockout.svg)![StackSocial Logo](https://cdnp0.stackassets.com/a3c277997d108b87ef125bea3ae70e8b48766ff1/store/e85890a11ca444bed8792c60bd9ddef9aa34dc9b26f9fabb4714c6a41a0b/StackSocial_2023_Logomark_Black_Knockout.svg)](https://stacksocial.com/)
 
-* [](https://stacksocial.com/user?show=home-tab)
-
-* [Login](https://stacksocial.com/sign_in?source=signup_page)
-
-* [StackSocial](#)
-    
-    * [Citizen Goods](https://www.citizengoods.com/)
-    * [Skillwise](https://www.skillwise.com/)
-    
-* [Apps & Software](#)
-    
-    * [Backup & Storage](https://stacksocial.com/collections/apps-software/backup-storage)
-    * [Business](https://stacksocial.com/collections/apps-software/business)
-    * [Education](https://stacksocial.com/collections/apps-software/education)
-    * [Leisure](https://stacksocial.com/collections/apps-software/leisure)
-    * [Productivity](https://stacksocial.com/collections/apps-software/productivity)
-    
-* [Online Courses](#)
-    
-    * [Business & Finance](https://stacksocial.com/collections/online-courses/business-finance)
-    * [Development](https://stacksocial.com/collections/online-courses/development)
-    * [IT & Security](https://stacksocial.com/collections/online-courses/it-security)
-    * [Languages](https://stacksocial.com/collections/online-courses/languages)
-    * [Personal Development](https://stacksocial.com/collections/online-courses/personal-development)
-    
+* Apps & Software
+* Online Courses
 * [Lifetime Subscriptions](https://stacksocial.com/collections/lifetime-subscriptions)
-* [Memberships](#)
-    
-    * [Club Stores](https://stacksocial.com/collections/memberships/club-stores)
-    * [Travel](https://stacksocial.com/collections/memberships/travel)
-    * [Other](https://stacksocial.com/collections/memberships/other)
-    
-* [Electronics & Gadgets](#)
-    
-    * [Charging](https://stacksocial.com/collections/electronics-gadgets/charging)
-    * [Computers](https://stacksocial.com/collections/electronics-gadgets/computers)
-    * [Connected Devices](https://stacksocial.com/collections/electronics-gadgets/connected-devices)
-    * [Gaming & Toys](https://stacksocial.com/collections/electronics-gadgets/gaming-toys)
-    * [Sound](https://stacksocial.com/collections/electronics-gadgets/sound)
-    
-* [More](#)
-    
-    * [Lifestyle](https://stacksocial.com/collections/lifestyle)
-    * [Gift Cards](https://stacksocial.com/collections/gift-cards)
-    * [Other](https://stacksocial.com/collections/other)
-    * [Freebies](https://stacksocial.com/free)
-    * [Expert Picks](https://stacksocial.com/articles)
-    * [Gift Guides](https://stacksocial.com/collections/category-gift-guides)
-    
-* [Lifestyle](#)
-    
-    * [Accessories](https://stacksocial.com/collections/lifestyle/accessories)
-    * [Beauty](https://stacksocial.com/collections/lifestyle/beauty)
-    * [Games & Toys](https://stacksocial.com/collections/lifestyle/games-toys)
-    * [Health & Fitness](https://stacksocial.com/collections/lifestyle/health-fitness)
-    * [Home](https://stacksocial.com/collections/lifestyle/home)
-    
+* Memberships
+* Electronics & Gadgets
+* Lifestyle
 * [Gift Cards](https://stacksocial.com/collections/gift-cards)
 * [Other](https://stacksocial.com/collections/other)
 * [Freebies](https://stacksocial.com/free)
 * [Expert Picks](https://stacksocial.com/articles)
-* [Gift Guides](#)
-    
-    * [Gifts for Him](https://stacksocial.com/collections/gifts-for-him)
-    * [Gifts for Her](https://stacksocial.com/collections/gifts-for-her)
-    * [Gifts for the Techie](https://stacksocial.com/collections/gifts-for-the-techie)
-    * [Lowest Price This Year](https://stacksocial.com/collections/lowest-price-this-year)
-    * [Customer Favorites](https://stacksocial.com/collections/customer-favorites-perfect-for-gifting)
-    
-* Login
-* [Wishlist](https://stacksocial.com/user?show=home-tab)
-* [Login](https://stacksocial.com/sign_in?source=signup_page)
+* Gift Guides
+* [Login](https://stacksocial.com/sign_in?source=lower+footer+login+link)
+* [Contact](https://stacksocial.com/contact)
+* [Shipping](https://stacksocial.com/help?g=Shipping%20and%20Tracking)
+* [FAQs](https://stacksocial.com/help)
+* [Return and Refund Policy](https://stacksocial.com/help?a=Refund-and-Cancelation-Policy-Digital-Voucher-or-License-Code---id--B0X7NJrVSHak1qte86iODw)
 
- 
+* Apps & Software
+* [Backup & Storage](https://stacksocial.com/collections/apps-software/backup-storage)
+* [Business](https://stacksocial.com/collections/apps-software/business)
+* [Education](https://stacksocial.com/collections/apps-software/education)
+* [Leisure](https://stacksocial.com/collections/apps-software/leisure)
+* [Productivity](https://stacksocial.com/collections/apps-software/productivity)
+* [Security](https://stacksocial.com/collections/apps-software/security)
+* [Utilities](https://stacksocial.com/collections/apps-software/utilities)
+* [Other](https://stacksocial.com/collections/apps-software/other)
 
-### Terms and Conditions
+* Online Courses
+* [Business & Finance](https://stacksocial.com/collections/online-courses/business-finance)
+* [Development](https://stacksocial.com/collections/online-courses/development)
+* [IT & Security](https://stacksocial.com/collections/online-courses/it-security)
+* [Languages](https://stacksocial.com/collections/online-courses/languages)
+* [Personal Development](https://stacksocial.com/collections/online-courses/personal-development)
+* [Other](https://stacksocial.com/collections/online-courses/other)
+
+* Memberships
+* [Club Stores](https://stacksocial.com/collections/memberships/club-stores)
+* [Travel](https://stacksocial.com/collections/memberships/travel)
+* [Other](https://stacksocial.com/collections/memberships/other)
+
+* Electronics & Gadgets
+* [Charging](https://stacksocial.com/collections/electronics-gadgets/charging)
+* [Computers](https://stacksocial.com/collections/electronics-gadgets/computers)
+* [Connected Devices](https://stacksocial.com/collections/electronics-gadgets/connected-devices)
+* [Gaming & Toys](https://stacksocial.com/collections/electronics-gadgets/gaming-toys)
+* [Sound](https://stacksocial.com/collections/electronics-gadgets/sound)
+* [Tablets](https://stacksocial.com/collections/electronics-gadgets/tablets)
+* [Other](https://stacksocial.com/collections/electronics-gadgets/other)
+
+* Lifestyle
+* [Accessories](https://stacksocial.com/collections/lifestyle/accessories)
+* [Beauty](https://stacksocial.com/collections/lifestyle/beauty)
+* [Games & Toys](https://stacksocial.com/collections/lifestyle/games-toys)
+* [Health & Fitness](https://stacksocial.com/collections/lifestyle/health-fitness)
+* [Home](https://stacksocial.com/collections/lifestyle/home)
+* [Kitchen](https://stacksocial.com/collections/lifestyle/kitchen)
+* [Outdoors](https://stacksocial.com/collections/lifestyle/outdoors)
+* [Other](https://stacksocial.com/collections/lifestyle/other)
+
+* Gift Guides
+* [Gifts for Him](https://stacksocial.com/collections/gifts-for-him)
+* [Gifts for Her](https://stacksocial.com/collections/gifts-for-her)
+* [Gifts for the Techie](https://stacksocial.com/collections/gifts-for-the-techie)
+* [Lowest Price This Year](https://stacksocial.com/collections/lowest-price-this-year)
+* [Customer Favorites](https://stacksocial.com/collections/customer-favorites-perfect-for-gifting)
+
+* * [Apps & Software](https://stacksocial.com/collections/apps-software)
+    * * [Backup & Storage](https://stacksocial.com/collections/apps-software/backup-storage)
+        * [Business](https://stacksocial.com/collections/apps-software/business)
+        * [Education](https://stacksocial.com/collections/apps-software/education)
+        * [Leisure](https://stacksocial.com/collections/apps-software/leisure)
+        * [Productivity](https://stacksocial.com/collections/apps-software/productivity)
+        * [Security](https://stacksocial.com/collections/apps-software/security)
+        * [Utilities](https://stacksocial.com/collections/apps-software/utilities)
+        * [Other](https://stacksocial.com/collections/apps-software/other)
+* * [Online Courses](https://stacksocial.com/collections/online-courses)
+    * * [Business & Finance](https://stacksocial.com/collections/online-courses/business-finance)
+        * [Development](https://stacksocial.com/collections/online-courses/development)
+        * [IT & Security](https://stacksocial.com/collections/online-courses/it-security)
+        * [Languages](https://stacksocial.com/collections/online-courses/languages)
+        * [Personal Development](https://stacksocial.com/collections/online-courses/personal-development)
+        * [Other](https://stacksocial.com/collections/online-courses/other)
+* * [Lifetime Subscriptions](https://stacksocial.com/collections/lifetime-subscriptions)
+    
+* * [Memberships](https://stacksocial.com/collections/memberships)
+    * * [Club Stores](https://stacksocial.com/collections/memberships/club-stores)
+        * [Travel](https://stacksocial.com/collections/memberships/travel)
+        * [Other](https://stacksocial.com/collections/memberships/other)
+* * [Electronics & Gadgets](https://stacksocial.com/collections/electronics-gadgets)
+    * * [Charging](https://stacksocial.com/collections/electronics-gadgets/charging)
+        * [Computers](https://stacksocial.com/collections/electronics-gadgets/computers)
+        * [Connected Devices](https://stacksocial.com/collections/electronics-gadgets/connected-devices)
+        * [Gaming & Toys](https://stacksocial.com/collections/electronics-gadgets/gaming-toys)
+        * [Sound](https://stacksocial.com/collections/electronics-gadgets/sound)
+        * [Tablets](https://stacksocial.com/collections/electronics-gadgets/tablets)
+        * [Other](https://stacksocial.com/collections/electronics-gadgets/other)
+* * [Lifestyle](https://stacksocial.com/collections/lifestyle)
+    * * [Accessories](https://stacksocial.com/collections/lifestyle/accessories)
+        * [Beauty](https://stacksocial.com/collections/lifestyle/beauty)
+        * [Games & Toys](https://stacksocial.com/collections/lifestyle/games-toys)
+        * [Health & Fitness](https://stacksocial.com/collections/lifestyle/health-fitness)
+        * [Home](https://stacksocial.com/collections/lifestyle/home)
+        * [Kitchen](https://stacksocial.com/collections/lifestyle/kitchen)
+        * [Outdoors](https://stacksocial.com/collections/lifestyle/outdoors)
+        * [Other](https://stacksocial.com/collections/lifestyle/other)
+* * [Gift Cards](https://stacksocial.com/collections/gift-cards)
+    
+* * [Other](https://stacksocial.com/collections/other)
+    
+* * [Freebies](https://stacksocial.com/free)
+    
+* * [Expert Picks](https://stacksocial.com/articles)
+    
+* * [Gift Guides](https://stacksocial.com/collections/category-gift-guides)
+    * * [Gifts for Him](https://stacksocial.com/collections/gifts-for-him)
+        * [Gifts for Her](https://stacksocial.com/collections/gifts-for-her)
+        * [Gifts for the Techie](https://stacksocial.com/collections/gifts-for-the-techie)
+        * [Lowest Price This Year](https://stacksocial.com/collections/lowest-price-this-year)
+        * [Customer Favorites](https://stacksocial.com/collections/customer-favorites-perfect-for-gifting)
+
+Terms and Conditions
+--------------------
 
 **LAST REVISED**: 04/21/20
 
-These Terms and Conditions of use (the “Terms of Use”) apply to Stacksocial Inc and/or all websites, applications, and platforms that are directly owned and operated by StackCommerce, any affiliated publisher websites and sub-domains, and any other affiliated website as may be designated by StackCommerce (collectively, the “Network”). When you access the Network, you agree to be bound by: (i) these Terms and Conditions of Use; (ii) our Privacy policy (located at the url: https://stacksocial.com/privacy) which identifies how we may use your personal and non-personal information when you access and use our Network; (iii) our Return and Exchange policy which is located at the following url: https://support.stacksocial.com; (iv) and other requirements applicable to your access and use of the Network (collectively “Agreement”). In accessing and using any portion of the Network, you also represent that you are of legal age to form such consent and have the authority to bind yourself to this Agreement.
+These Terms and Conditions of use (the “Terms of Use”) apply to Stacksocial Inc and/or all websites, applications, and platforms that are directly owned and operated by StackCommerce, any affiliated publisher websites and sub-domains, and any other affiliated website as may be designated by StackCommerce (collectively, the “Network”). When you access the Network, you agree to be bound by: (i) these Terms and Conditions of Use; (ii) our Privacy policy (located at the url: https://stacksocial.com/privacy) which identifies how we may use your personal and non-personal information when you access and use our Network; (iii) our Return and Exchange policy which is located at the following url: https://www.stacksocial.com/help; (iv) and other requirements applicable to your access and use of the Network (collectively “Agreement”). In accessing and using any portion of the Network, you also represent that you are of legal age to form such consent and have the authority to bind yourself to this Agreement.
 
 **By accessing and/or using the Network, you agree to the Terms of Use; If you do not agree, do not use the Network.**
 
@@ -153,7 +198,7 @@ StackSocial, Inc. dba StackCommerce (hereinafter “we” “our” or “us”)
 6. **Purchases.** You must provide us with your full legal name, an active telephone, a valid credit card and current address to make a transaction through the Network. All payments are processed by PayPal (https://paypal.com) and Stripe (https://stripe.com/) and are subject to additional provisions. We will send you a confirmation email confirming that your request has been processed and that payment was received. In the event we ship item(s) to you we will send a confirmation email to you regarding the same.
     
 
-7. **Returns, Cancellations, Exchanges, and Warranties.** All returns, cancellations, and exchanges are subject to our return policy located at: https://support.stacksocial.com. We may partner with third party websites to offer warranties on select products. For additional information on warranties, please find additional information at: https://support.stacksocial.com.
+7. **Returns, Cancellations, Exchanges, and Warranties.** All returns, cancellations, and exchanges are subject to our return policy located at: https://www.stacksocial.com/help. We may partner with third party websites to offer warranties on select products. For additional information on warranties, please find additional information at: https://www.stacksocial.com/help.
     
 
 8. **Products and Pricing.** The Network is a platform through which Vendors make available digital or physical Product(s) for purchase. StackCommerce shall not be liable for any claim arising out of or relating to the Products and services provided by Vendors, including but not limited to, any claims for false advertising, product defects, personal injury, death, or property damages (i.e. if the goods or service does not achieve a standard quality, or if the goods or services may affect the health of the User, etc.).
@@ -178,10 +223,8 @@ StackSocial, Inc. dba StackCommerce (hereinafter “we” “our” or “us”)
     These Terms of Use apply to your access to, and participation in, any of StackCommerce's Rewards Programs ("Reward Programs"). These Terms of Use do not alter in any way the terms or conditions of any other agreement you may have with StackCommerce. StackCommerce reserves the right to change, modify, and/or eliminate the Reward Programs and/or all or any portion of these Terms of Use or any policy, FAQ, or guideline pertaining to the Reward Programs at any time and in its sole discretion. Any changes or modifications will be effective immediately upon posting the revisions and you waive any right you may have to receive specific notice of such changes or modifications. Your participation in the Reward Programs confirms your acceptance of these Terms of Use and any such changes or modifications; therefore, you should receive these Terms of Use and applicable policies and FAQs frequently.
     
     1. **Membership and Eligibility.** The Rewards Programs are offered at the sole discretion of StackCommerce. The Rewards Programs are available to individuals for their personal use only and is limited to one account per individual. Individuals who are at least 18 years or older and who provide and maintain a valid account are eligible to become members. No purchase is necessary to join the Rewards Programs. Employees of StackCommerce and individuals employed by our business partners or vendors are eligible for membership for personal use only but may be excluded from certain benefits of Reward Programs.
-        
     
-    2. **Earning and Redeeming Rewards.** StackCommerce offers 1 Reward Program: (1) Refer-A-Friend Program. All members with valid accounts are automatically enrolled in the Refer-A-Friend Program upon account creation.
-        
+    2. **Earning and Redeeming Rewards.** StackCommerce offers 1 Reward Program: (1) I Refer-A-Friend Program. All members with valid accounts are automatically enrolled in the Refer-A-Friend Program upon account creation.
         * Under the Refer-A-Friend program, credits are earned for the first purchase made on each new account registered from a Referrer's unique referral link. To be eligible to earn credits, the Referrer must maintain an active consumer account and the Referred Customer must not have an existing account. Credits earned from the Refer-A-Friend Program will be automatically applied to your account once the Referred Customer has made his or her first purchase. Minimum purchase amounts and some exclusions may apply.
             
     
@@ -192,39 +235,17 @@ StackSocial, Inc. dba StackCommerce (hereinafter “we” “our” or “us”)
 
 12. **Subscription Products.**
     
-    1. **About the Subscription Product ("Subscription").** In addition to selling Products on a one-off basis, we also make available Subscriptions that allow for the recurring use of Products provided by third party vendors over a set duration of time.
-        
-        The Subscription can be accessed either via a Free Trial or through a Paid Subscription. The Free Trial gives you (free) full access to the products contained in the Subscription for a finite duration. The Paid Subscription is a fee-based program which gives you full access to the products within the Subscription. You will only have access to the Products contained in the Subscription while your Subscription is active and subsisting. You may have access to a Free Trial of the Paid Subscription made available to you during a promotional offer. You can become a subscriber to the Paid Subscription by purchasing a Subscription on the Network or when your Free Trial converts if not cancelled before the end of the Free Trial.
-        
+    1. **About the Subscription Product ("Subscription").** In addition to selling Products on a one-off basis, we also make available Subscriptions that allow for the recurring use of Products provided by third party vendors over a set duration of time.The Subscription can be accessed either via a Free Trial or through a Paid Subscription. The Free Trial gives you (free) full access to the products contained in the Subscription for a finite duration. The Paid Subscription is a fee-based program which gives you full access to the products within the Subscription. You will only have access to the Products contained in the Subscription while your Subscription is active and subsisting. You may have access to a Free Trial of the Paid Subscription made available to you during a promotional offer. You can become a subscriber to the Paid Subscription by purchasing a Subscription on the Network or when your Free Trial converts if not cancelled before the end of the Free Trial.
     
-    2. **Free Trials.** We may offer trials of our Paid Subscription (Free Trial) for a specified period of time that provides full access to the Subscription without requiring payment. We may determine the eligibility for a Free Trial and withdraw or modify a Free Trial at any time without prior notice and with no liability, to the extent permitted under applicable law.
-        
-        The Free Trial will begin on the day you sign-up and checkout with the Subscription in your cart, not on the day you redeem/start using any Products contained in the Subscription. For most Free Trials, we’ll require you to provide your payment details to begin the Free Trial. By providing such details you agree that we may automatically begin charging you for the Paid Subscription on the first day following the end of the Free Trial on a recurring monthly basis or annual basis depending on the type of Paid Subscription you select. IF YOU DO NOT WANT THIS CHARGE, YOU MUST CANCEL THE APPLICABLE PAID SUBSCRIPTION BEFORE THE END OF THE FREE TRIAL.
-        
+    2. **Free Trials.** We may offer trials of our Paid Subscription (Free Trial) for a specified period of time that provides full access to the Subscription without requiring payment. We may determine the eligibility for a Free Trial and withdraw or modify a Free Trial at any time without prior notice and with no liability, to the extent permitted under applicable law.The Free Trial will begin on the day you sign-up and checkout with the Subscription in your cart, not on the day you redeem/start using any Products contained in the Subscription. For most Free Trials, we’ll require you to provide your payment details to begin the Free Trial. By providing such details you agree that we may automatically begin charging you for the Paid Subscription on the first day following the end of the Free Trial on a recurring monthly basis or annual basis depending on the type of Paid Subscription you select. IF YOU DO NOT WANT THIS CHARGE, YOU MUST CANCEL THE APPLICABLE PAID SUBSCRIPTION BEFORE THE END OF THE FREE TRIAL.
     
-    3. **Billing.** We offer both a monthly and annual Paid Subscription plans. You may purchase a Paid Subscription by paying a fee in advance on a monthly or annual basis. We may change the price of a Paid Subscription, including recurring subscription fees from time to time and will communicate any price change to you in advance, and, if applicable, how to accept those changes. Any price change will take effect at the start of the next subscription period following the date of the price change. Subject to applicable law, you accept the price change by continuing to utilize the Products after the price change takes effect. If you do not agree with the price change, you have the right to reject the change by cancelling the Paid Subscription prior to the price change going into effect.
-        
-        For monthly Paid Subscriptions, for each month that your Paid Subscription is active, you acknowledge and agree that we are authorized to charge the same credit card that was used for the initial subscription fee (Payment Method). For annual Paid Subscriptions, each year is paid for by an upfront payment that will automatically renew and you authorize us to continue to charge your Payment Method while the subscription is active.
-        
+    3. **Billing.** We offer both a monthly and annual Paid Subscription plans. You may purchase a Paid Subscription by paying a fee in advance on a monthly or annual basis. We may change the price of a Paid Subscription, including recurring subscription fees from time to time and will communicate any price change to you in advance, and, if applicable, how to accept those changes. Any price change will take effect at the start of the next subscription period following the date of the price change. Subject to applicable law, you accept the price change by continuing to utilize the Products after the price change takes effect. If you do not agree with the price change, you have the right to reject the change by cancelling the Paid Subscription prior to the price change going into effect.For monthly Paid Subscriptions, for each month that your Paid Subscription is active, you acknowledge and agree that we are authorized to charge the same credit card that was used for the initial subscription fee (Payment Method). For annual Paid Subscriptions, each year is paid for by an upfront payment that will automatically renew and you authorize us to continue to charge your Payment Method while the subscription is active.
     
-    4. **Renewals and Cancellation.** Your subscription period will begin on the day you purchase a Paid Subscription or the day your Free Trial converts to a Paid Subscription. Monthly Paid Subscriptions purchased on the 31st of a given month will always be billed on the last day of each subsequent month.
-        
-        Your Paid Subscription will automatically renew at the end of the applicable subscription period unless you cancel your Paid Subscription before the end of the then-current subscription period. The cancellation will take effect on the day after the last day of the current subscription period. YOU MUST CANCEL YOUR SUBSCRIPTION BEFORE IT RENEWS IN ORDER TO AVOID THE BILLING OF THE RENEWAL SUBSCRIPTION FEE TO THE PAYMENT METHOD PROVIDED. We do not provide refunds or credits for any partial subscription periods.
-        
-        If you were given a promotional offer for a monthly or annual Paid Subscription, unless otherwise noted in the promotional offer, your Paid Subscription will automatically renew at the standard Subscription rate once the promotional offer stated term has ended. For example, if you redeem a promotional offer that discounts the first month of a monthly Paid Subscription to $1, at the end of the 1-month period your monthly rate would go to the then-current full monthly Paid Subscription rate. If you do not wish to convert to the then-current standard Subscription rate, you would need to cancel your Paid Subscription prior to the end of the promotional offer stated term.
-        
-        You may cancel your Free Trial or Paid Subscription by going to the “Subscriptions” tab in your user account.
-        
+    4. **Renewals and Cancellation.** Your subscription period will begin on the day you purchase a Paid Subscription or the day your Free Trial converts to a Paid Subscription. Monthly Paid Subscriptions purchased on the 31st of a given month will always be billed on the last day of each subsequent month.Your Paid Subscription will automatically renew at the end of the applicable subscription period unless you cancel your Paid Subscription before the end of the then-current subscription period. The cancellation will take effect on the day after the last day of the current subscription period. YOU MUST CANCEL YOUR SUBSCRIPTION BEFORE IT RENEWS IN ORDER TO AVOID THE BILLING OF THE RENEWAL SUBSCRIPTION FEE TO THE PAYMENT METHOD PROVIDED. We do not provide refunds or credits for any partial subscription periods.If you were given a promotional offer for a monthly or annual Paid Subscription, unless otherwise noted in the promotional offer, your Paid Subscription will automatically renew at the standard Subscription rate once the promotional offer stated term has ended. For example, if you redeem a promotional offer that discounts the first month of a monthly Paid Subscription to $1, at the end of the 1-month period your monthly rate would go to the then-current full monthly Paid Subscription rate. If you do not wish to convert to the then-current standard Subscription rate, you would need to cancel your Paid Subscription prior to the end of the promotional offer stated term.You may cancel your Free Trial or Paid Subscription by going to the “Subscriptions” tab in your user account.
     
     5. **Redemption.** The Subscription consists of license codes to access various Products provided by third party vendors. We will provide you with the redemption codes necessary to gain access to the Products. No additional purchases or credit card information will need to be provided to any 3rd party vendor while redeeming the Products.
-        
     
-    6. **Subscription Term and Termination.** Section 12 of this Agreement will continue to apply to you until terminated by either you or StackCommerce. StackCommerce may terminate or suspend your access to the Subscription at any time, including in the event of your actual or suspected unauthorized use or non-compliance with the Agreement, non-payment, or if we withdraw Products from the Subscription (in which case we shall provide you with reasonable notice in advance of doing so).
-        
-        If you or StackCommerce terminate the Subscription, or if StackCommerce suspends your access to the Subscription, you agree that StackCommerce shall have no liability or responsibility to you, and StackCommerce will not refund any amounts that you have already paid, to the fullest extent permitted under applicable law. You may cancel your Paid Subscription or Free Trial and terminate this agreement as laid out in section 12D. This section will be enforced to the extent permissible by applicable law.
-        
-        Sections 2-11 and 13-34 herein, as well as any other sections of the Agreement that, either explicitly or by their nature, must remain in effect even after termination of the Subscription, shall survive termination.
-        
+    6. **Subscription Term and Termination.** Section 12 of this Agreement will continue to apply to you until terminated by either you or StackCommerce. StackCommerce may terminate or suspend your access to the Subscription at any time, including in the event of your actual or suspected unauthorized use or non-compliance with the Agreement, non-payment, or if we withdraw Products from the Subscription (in which case we shall provide you with reasonable notice in advance of doing so).If you or StackCommerce terminate the Subscription, or if StackCommerce suspends your access to the Subscription, you agree that StackCommerce shall have no liability or responsibility to you, and StackCommerce will not refund any amounts that you have already paid, to the fullest extent permitted under applicable law. You may cancel your Paid Subscription or Free Trial and terminate this agreement as laid out in section 12D. This section will be enforced to the extent permissible by applicable law.Sections 2-11 and 13-34 herein, as well as any other sections of the Agreement that, either explicitly or by their nature, must remain in effect even after termination of the Subscription, shall survive termination.
     
     We reserve the right, at our sole discretion, to change, modify, add or remove portions of the Subscription Products portion of these terms, at any time. It is your responsibility to check these Terms and Conditions periodically for changes. Your continued use of the Subscription following the posting of changes will mean you accept and agree to the changes. As long as you comply with these Terms and Conditions, we grant you a personal, non-exclusive, non-transferable, limited privilege to utilize the Subscription.
     
@@ -366,30 +387,19 @@ StackSocial, Inc. dba StackCommerce (hereinafter “we” “our” or “us”)
 28. **Digital Millennium Copyright Act (DMCA)**
     
     1. Infringement Notification: If you believe that your work has been copied and posted on our Network in a way that constitutes copyright infringement, please provide our designated agent with the following information:
-        
         1. your contact information (i.e. name, email address, telephone number, and address);
-            
         2. a description of the copyrighted work of concern;
-            
         3. a link to the location(s) on the Network of the copyrighted work of concern;
-            
         4. a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law;
-            
         5. a signed statement by you, made under penalty of perjury, that the information contained in your report is accurate and that you are the copyright owner (or authorized to act on behalf of the copyright owner).
-            
     
     The foregoing information (“DMCA Notice”) should be sent to our “Designated Agent” as follows: legal@stacksocial.com.
     
     2. Counter-Notice: If your work has been removed due to a DMCA Notice pursuant to the foregoing procedure, and you believe that your content is not infringing, then you may send a counter-notice (“DMCA Counter-Notice”) to our Designated Agent (contact information above) containing the following information:
-        
         1. Identification of the content that has been removed or to which access has been disabled and the location at which the content appeared before it was removed or disabled;
-            
         2. A statement that you have a good faith belief that the content was removed or disabled as a result of mistake or a misidentification of the content;
-            
         3. Your contact information (i.e. name, email address, telephone number, and address), a statement that you consent to the jurisdiction of the federal court in Los Angeles, California, and a statement that you will accept service of process from the person who provided notification of the alleged infringement; and
-            
         4. Your physical or electronic signature.
-            
     
     If a DMCA Counter-Notice is received by our Designated Agent, then we may send a copy of the DMCA Counter-Notice to the original complaining party informing that person that we may replace the removed content or cease disabling it after a reasonable time period. Unless the alleged copyright owner files an action seeking a court order against the content provider, member, or user, the removed content may be replaced, or access to it restored, in a reasonable time period after receipt of the DMCA Counter-Notice, at our sole discretion.
     
@@ -428,48 +438,40 @@ StackSocial, Inc. dba StackCommerce (hereinafter “we” “our” or “us”)
     support@stackcommerce.com
     
 
-##### Sign up & get 10% Off
+Your Cart
 
- Email address   Sign up
+Your cart is empty. [Continue Shopping!](https://stacksocial.com/)
 
-\*New customers only. Offer lasts 30 days. See Terms. This site is protected by reCAPTCHA and the Google [Privacy Policy](https://policies.google.com/privacy) and [Terms of Service](https://policies.google.com/terms) apply.
+Processing order...
 
-#### My Account
+Get on the List!
 
-* [Profile](https://stacksocial.com/user?show=profile-tab)
-* [Account](https://stacksocial.com/user?show=account-tab)
-* [Purchases](https://stacksocial.com/user/purchases)
-* [Credits](https://stacksocial.com/user/credits)
-* [Preferences](https://stacksocial.com/user?show=preferences-tab)
+Enjoy early access, exclusive offers, and 15% off your first order.
+
+Sign Up
+
+Customer Care
+
+* [My Order](https://stacksocial.com/help)
+* [Digital Redemption](https://stacksocial.com/help?g=Digital%2C%20eLearning%2C%20Software%2C%20and%20Subscription%20Purchases%20and%20Order%20Information)
+* [Login](https://stacksocial.com/sign_in?source=lower+footer+login+link)
+* [Contact Us](https://stacksocial.com/contact)
+* [FAQs](https://stacksocial.com/help)
+
+* [Returns & Refunds](https://stacksocial.com/help?a=Refund-and-Cancelation-Policy-Digital-Voucher-or-License-Code---id--B0X7NJrVSHak1qte86iODw)
+* [Terms & Conditions](https://stacksocial.com/terms)
+* [Accessibility](https://stacksocial.com/accessibility)
 * [Do Not Sell My Personal Information](https://stacksocial.com/user?show=info-request-tab)
 
-#### Support
+About Us
 
-* [Contact](https://stacksocial.com/contact)
-* [FAQs](https://stacksocial.com/help)
-* [Shipping](https://stacksocial.com/help?g=Shipping%20and%20Tracking)
-* [Terms](https://stacksocial.com/terms)
-* [Privacy](https://stacksocial.com/privacy)
-* [Accessibility](https://stacksocial.com/accessibility)
-* [Return and Refund Policy](https://stacksocial.com/help?a=Refund-and-Cancelation-Policy-Digital-Voucher-or-License-Code---id--B0X7NJrVSHak1qte86iODw)
-
-#### StackCommerce
-
-* [About](https://www.stackcommerce.com/about)
+* [About Stack Social](https://www.stackcommerce.com/about)
+* [Expert Picks](https://stacksocial.com/articles)
 * [Publishers](https://www.stackcommerce.com/publishers)
 * [Affiliates](https://partners.stackcommerce.com/affiliates/new)
 * [Vendors](https://www.stackcommerce.com/vendors)
-* [Blog](http://blog.stackcommerce.com/)
 * [Careers](https://www.stackcommerce.com/careers)
 
-###### Powered By
+[![BBB Logo](https://seal-sanjose.bbb.org/logo/sehzbus/stackcommerce-1013267.png)](https://www.bbb.org/losangelessiliconvalley/business-reviews/online-retailer/stackcommerce-in-venice-ca-1013267#bbbseal)
 
-[![StackCommerce](https://shops1.stackassets.com/assets/core/logo-light-be04c77da6de1475cb2c1c82cf75120f338265aa36dfd6ed8a6404a720c28431.svg)](https://stackcommerce.com/)
-
-Made in Venice, CA
-
-Copyright © 2024 StackCommerce. All Rights Reserved.
-
-[![StackCommerce, Online Retailer, Venice, CA](https://seal-sanjose.bbb.org/logo/sehzbus/stackcommerce-1013267.png)](https://www.bbb.org/losangelessiliconvalley/business-reviews/online-retailer/stackcommerce-in-venice-ca-1013267#bbbseal "StackCommerce, Online Retailer, Venice, CA")
-
-![](https://analytics.twitter.com/i/adsct?txn_id=l4m1m&p_id=Twitter) ![](//t.co/i/adsct?txn_id=l4m1m&p_id=Twitter)
+Made in Venice, CA & powered by [![StackCommerce logo](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMDAgMzMiPgogIDxzdHlsZT4KICAgIC5zdDAgeyBmaWxsOiMwY2FmYzcgfQogIDwvc3R5bGU+CiAgPHBhdGggY2xhc3M9InN0MCIgZD0iTTEwLjggMTkuNGMtMi44LS45LTUuNS0xLjctNS41LTMuNnYtLjFjMC0xLjggMS43LTMgNC0zIDEuNyAwIDMuNy42IDUuNiAxLjcuMS4xLjQuMi44LjIuOSAwIDEuNi0uNyAxLjYtMS42IDAtLjktLjYtMS4zLS45LTEuNS0yLjItMS4yLTQuOC0xLjktNy0xLjktNC40LjEtNy42IDIuNy03LjYgNi40di4xYzAgNC4yIDQgNS40IDcuMyA2LjMgMi45LjggNS4zIDEuNiA1LjMgMy43di4xYzAgMi0xLjcgMy4zLTQuMyAzLjMtMi4zIDAtNC42LS44LTYuOC0yLjMtLjItLjItLjYtLjMtLjktLjMtLjkgMC0xLjYuNy0xLjYgMS42IDAgLjYuMyAxLjEuNyAxLjMgMi40IDEuNyA1LjYgMi44IDguNSAyLjggNC43IDAgNy45LTIuNyA3LjktNi43di0uMWMtLjEtNC0zLjYtNS40LTcuMS02LjR6TTMxLjEgMTMuMmMuOSAwIDEuNi0uNyAxLjYtMS42IDAtLjktLjgtMS42LTEuNi0xLjZoLTUuNVY1LjFjMC0xLS44LTEuOC0xLjgtMS44UzIyIDQuMSAyMiA1LjFWMTBoLTEuNmMtLjkgMC0xLjYuNy0xLjYgMS42IDAgLjkuNyAxLjYgMS42IDEuNkgyMnYxMi45YzAgNC4xIDIuMiA2LjMgNi4zIDYuMyAxLjIgMCAyLjMtLjIgMy4zLS42LjYtLjIgMS0uOCAxLTEuNCAwLS44LS43LTEuNi0xLjYtMS42LS4xIDAtLjIgMC0uNC4xLS4zLjEtLjguMi0xLjYuMi0yLjMgMC0zLjUtMS4xLTMuNS0zLjRWMTMuMmg1LjZ6TTQ0LjIgOS43Yy0yLjYgMC00LjguNS03LjIgMS41LS41LjItMSAuOC0xIDEuNSAwIC44LjcgMS42IDEuNiAxLjYuMiAwIC40IDAgLjctLjEgMS44LS44IDMuNi0xLjIgNS42LTEuMiA0LjEgMCA2LjMgMiA2LjMgNS43di41Yy0xLjYtLjUtMy42LS45LTYuNS0uOS01LjkgMC05LjQgMi43LTkuNCA3LjJ2LjFjMCA0LjUgNC4yIDYuOSA4LjMgNi45IDMuOSAwIDYuMy0xLjggNy43LTMuNHYxLjVjMCAxIC43IDEuNyAxLjcgMS43czEuNy0uOCAxLjctMS44VjE4LjZjMC0yLjgtLjgtNC45LTIuMy02LjUtMS43LTEuNS00LjEtMi40LTcuMi0yLjR6bTYgMTIuM3YyYzAgMy4zLTMgNS43LTcuMSA1LjctMy4xIDAtNS4zLTEuNy01LjMtNC4ydi0uMWMwLTIuNyAyLjMtNC4zIDYuMi00LjMgMi4xIDAgNC4xLjMgNi4yLjl6TTc1LjEgMjYuM2MtLjQgMC0uNy4yLTEgLjUtMS44IDEuNy0zLjggMi42LTUuOSAyLjYtNC40IDAtNy44LTMuNi03LjgtOC4zVjIxYzAtNC42IDMuMy04LjIgNy42LTguMiAyLjcgMCA0LjQgMS4zIDUuOCAyLjYuMy4zLjcuNCAxLjIuNCAxIDAgMS43LS44IDEuNy0xLjcgMC0uNi0uMy0xLS42LTEuMy0yLjQtMi4yLTUtMy4yLTguMS0zLjItMy4xIDAtNS45IDEuMi04LjEgMy40LTIuMSAyLjItMy4yIDUtMy4yIDguMXYuMWMwIDMgMS4xIDUuOSAzLjIgOCAyLjEgMi4yIDUgMy40IDguMSAzLjQgMy4zIDAgNS45LTEuMSA4LjMtMy41LjMtLjMuNS0uNy41LTEuMSAwLTEtLjgtMS43LTEuNy0xLjd6TTkwLjMgMTkuN2w3LTYuOWMuNC0uNC43LS44LjctMS40IDAtLjktLjctMS43LTEuNi0xLjctLjUgMC0xIC4yLTEuNC43TDgzLjUgMjIuMlYyLjdjMC0xLS44LTEuOC0xLjgtMS44cy0xLjguOC0xLjggMS44djI3LjhjMCAxIC44IDEuOCAxLjggMS44czEuOC0uOCAxLjgtMS44di00LjFsNC4zLTQuMyA3LjQgOS4zYy41LjYuOS44IDEuNS44IDEgMCAxLjctLjcgMS43LTEuNyAwLS40LS4xLS44LS41LTEuMmwtNy42LTkuNnoiLz4KICA8Zz4KICAgIDxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0xNzEuNyA5LjZjLTMuMiAwLTUuNyAxLjQtNy42IDQuMi0xLjQtMi43LTMuOS00LjItNy00LjItMy42IDAtNS42IDEuOS02LjggMy43di0xLjdjMC0xLS44LTEuOC0xLjgtMS44cy0xLjguOC0xLjggMS44djE4LjhjMCAxIC44IDEuOCAxLjggMS44czEuOC0uOCAxLjgtMS44di0xMWMwLTMuOSAyLjUtNi43IDUuOS02LjcgMy40IDAgNS40IDIuNCA1LjQgNi4zdjExLjNjMCAxIC44IDEuOCAxLjggMS44czEuOC0uOCAxLjgtMS44VjE5LjRjMC0zLjkgMi4zLTYuNSA1LjgtNi41czUuNSAyLjMgNS41IDYuNHYxMS4yYzAgMSAuOCAxLjggMS44IDEuOHMxLjgtLjggMS44LTEuOHYtMTJjLS4yLTUuNS0zLjQtOC45LTguNC04Ljl6TTIwOS41IDkuNmMtMy4yIDAtNS43IDEuNC03LjYgNC4yLTEuNC0yLjctMy45LTQuMi03LTQuMi0zLjYgMC01LjYgMS45LTYuOCAzLjd2LTEuN2MwLTEtLjgtMS44LTEuOC0xLjhzLTEuOC44LTEuOCAxLjh2MTguOGMwIDEgLjggMS44IDEuOCAxLjhzMS44LS44IDEuOC0xLjh2LTExYzAtMy45IDIuNS02LjcgNS45LTYuNyAzLjQgMCA1LjQgMi40IDUuNCA2LjN2MTEuM2MwIDEgLjggMS44IDEuOCAxLjhzMS44LS44IDEuOC0xLjhWMTkuNGMwLTMuOSAyLjMtNi41IDUuOC02LjVzNS41IDIuMyA1LjUgNi40djExLjJjMCAxIC44IDEuOCAxLjggMS44czEuOC0uOCAxLjgtMS44di0xMmMtLjItNS41LTMuMy04LjktOC40LTguOXpNMjMxLjUgOS42Yy0yLjkgMC01LjYgMS4yLTcuNiAzLjQtMS45IDIuMS0zIDUtMyA4LjF2LjFjMCA2LjUgNC43IDExLjUgMTEgMTEuNSAzLjMgMCA1LjktMSA4LjMtMy4zLjQtLjMuNi0uNy42LTEuMiAwLS45LS43LTEuNi0xLjYtMS42LS40IDAtLjcuMS0xIC40LTEuOCAxLjctMy44IDIuNS02LjEgMi41LTQgMC03LTIuOC03LjQtN2gxNS41Yy45IDAgMS43LS44IDEuNy0xLjctLjEtNS42LTMuNy0xMS4yLTEwLjQtMTEuMnptNi43IDEwLjFoLTEzLjZjLjUtNC4yIDMuMy03IDYuOS03IDIuOS0uMSA2LjIgMS44IDYuNyA3ek0yNTUuOSA5LjdjLTIuOCAwLTUuNyAyLjEtNy4zIDUuMnYtMy4zYzAtMS0uOC0xLjgtMS44LTEuOHMtMS44LjgtMS44IDEuOHYxOC44YzAgMSAuOCAxLjggMS44IDEuOHMxLjgtLjggMS44LTEuOFYyM2MwLTUuNSAyLjgtOS4yIDcuNS05LjcuOS0uMSAxLjYtLjkgMS42LTEuOCAwLTEtLjgtMS44LTEuOC0xLjh6TTI3Ni4xIDI2LjNjLS40IDAtLjcuMi0xIC41LTEuOCAxLjctMy44IDIuNi01LjkgMi42LTQuNCAwLTcuOC0zLjYtNy44LTguM1YyMWMwLTQuNiAzLjMtOC4yIDcuNi04LjIgMi43IDAgNC40IDEuMyA1LjggMi42LjMuMy43LjQgMS4yLjQgMSAwIDEuNy0uOCAxLjctMS43IDAtLjYtLjMtMS0uNi0xLjMtMi40LTIuMi01LTMuMi04LjEtMy4yLTMuMSAwLTUuOSAxLjItOC4xIDMuNC0yLjEgMi4yLTMuMiA1LTMuMiA4LjF2LjFjMCAzIDEuMSA1LjkgMy4yIDggMi4xIDIuMiA1IDMuNCA4LjEgMy40IDMuMyAwIDUuOS0xLjEgOC4zLTMuNS4zLS4zLjUtLjcuNS0xLjEtLjEtMS0uOC0xLjctMS43LTEuN3pNMjk5LjcgMjAuN2MwLTUuNS0zLjUtMTEuMi0xMC4yLTExLjItMi45IDAtNS42IDEuMi03LjYgMy40LTEuOSAyLjEtMyA1LTMgOC4xdi4xYzAgNi41IDQuNyAxMS41IDExIDExLjUgMy4zIDAgNS45LTEgOC4zLTMuMy40LS4zLjYtLjcuNi0xLjIgMC0uOS0uNy0xLjYtMS42LTEuNi0uNCAwLS43LjEtMSAuNC0xLjggMS43LTMuOCAyLjUtNi4xIDIuNS00IDAtNy0yLjgtNy40LTdIMjk4YzEgMCAxLjctLjcgMS43LTEuN3ptLTMuNi0xaC0xMy42Yy41LTQuMiAzLjMtNyA2LjktNyAyLjktLjEgNi4yIDEuOCA2LjcgN3oiLz4KICA8L2c+CiAgPGc+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9IlNWR0lEXzFfIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjEyMC41OTQiIHkxPSIyMS4xMTciIHgyPSIxNDMuMjEyIiB5Mj0iMjEuMTE3Ij4KICAgICAgPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjMTI3MTg3Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iLjU5OCIgc3RvcC1jb2xvcj0iIzBlOWRiNCIvPgogICAgICA8c3RvcCBvZmZzZXQ9Ii44MyIgc3RvcC1jb2xvcj0iIzBjYWZjNyIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxwYXRoIGQ9Ik0xMzEuOSA5LjhjLTQuNCAwLTggMi40LTkuOSA1LjgtLjUuOC0uOCAxLjctMSAyLjctLjEuMi0uMS41LS4yLjctLjEuNy0uMiAxLjMtLjIgMi4xdi4xYzAgMS43LjQgMy4yIDEgNC43IDEuMS0xLjcgMi0zLjkgMi41LTYuNnYuMWMuNy0zLjggMy43LTYuOCA3LjgtNi44IDQuNiAwIDguMSAzLjggOC4xIDguNXYuMWMwIDQuNi0zLjMgOC40LTggOC40LTMuNSAwLTYuMy0yLjItNy40LTUuMi0uNSAxLjMtMS4xIDIuNC0xLjkgMy40IDIgMi44IDUuMyA0LjcgOS4yIDQuNyA2LjUgMCAxMS40LTUuMiAxMS40LTExLjNWMjFjLS4xLTYuMS00LjktMTEuMi0xMS40LTExLjJ6IiBmaWxsPSJ1cmwoI1NWR0lEXzFfKSIvPgogICAgPHBhdGggY2xhc3M9InN0MCIgZD0iTTEzMS45IDkuOGMtNS44IDAtMTAuMiA0LjEtMTEuMSA5LjMtMS43IDguNS03LjMgMTAuMS05LjUgMTAuNUgxMTBjLTIuNS0uMi00LjYtMS41LTUuOS0zLjQtMS0xLjQtMS41LTMuMS0xLjUtNVYyMWMwLTQuNyAzLjQtOC40IDcuOC04LjQgMi42IDAgNC40IDEuMiA1LjkgMi42LjMuMi42LjQgMSAuNC44IDAgMS42LS43IDEuNi0xLjYgMC0uNS0uMy0uOS0uNS0xLjEtMS45LTEuOC00LjQtMy4xLTgtMy4xLTYuMyAwLTExLjEgNS4yLTExLjEgMTEuM3YuMWMwIDYuMSA0LjggMTEuMyAxMS4xIDExLjNoLjJjNC43IDAgOC44LTIuNiAxMC45LTYuNSAxLjEtMS43IDItMy45IDIuNS02LjYuNy0zLjggMy43LTYuNiA3LjgtNi42IDQgMCA3LjEgMi45IDcuOSA2LjZoMy40Yy0uOC01LjQtNS4zLTkuNi0xMS4yLTkuNnoiLz4KICA8L2c+Cjwvc3ZnPgo=)](https://www.stacksocial.com/ "StackCommerce")
