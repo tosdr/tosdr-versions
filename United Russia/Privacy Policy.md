@@ -289,13 +289,21 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![«Единая Россия» провела в штабах общественной поддержки мероприятия, посвящённые самбо](https://cdn.er.ru/media/news/December2024/oNpDflQ9zjDIxxxKEFzj-small.png)](https://er.ru/activity/news/edinaya-rossiya-provela-v-shtabah-obshestvennoj-podderzhki-meropriyatiya-posvyashyonnye-sambo)
+
+[«Единая Россия» провела в штабах общественной поддержки мероприятия, посвящённые самбо](https://er.ru/activity/news/edinaya-rossiya-provela-v-shtabah-obshestvennoj-podderzhki-meropriyatiya-posvyashyonnye-sambo)
+
+[#Елисеев](https://er.ru/activity/news?tags%5B0%5D=25667) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#zасамбо](https://er.ru/activity/news?tags%5B0%5D=1093193) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#штабобщественнойподдержки](https://er.ru/activity/news?tags%5B0%5D=1092101) [#спорт](https://er.ru/activity/news?tags%5B0%5D=380)
+
+17.12.24
+
 [![«Единая Россия» усилила защиту прав врачей](https://cdn.er.ru/media/news/December2024/EA21hmpK8yNk52PdoYpN-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-usilila-zashitu-prav-vrachej)
 
 [«Единая Россия» усилила защиту прав врачей](https://er.ru/activity/news/edinaya-rossiya-usilila-zashitu-prav-vrachej)
 
 [#Башанкаев](https://er.ru/activity/news?tags%5B0%5D=114445) [#медики](https://er.ru/activity/news?tags%5B0%5D=648) [#декриминализация](https://er.ru/activity/news?tags%5B0%5D=85386) [#медицина](https://er.ru/activity/news?tags%5B0%5D=273) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692)
 
-Сегодня 19:01
+17.12.24
 
 [![«Единая Россия» определила планы работы Экспертного совета постоянного комитета Форума сторонников борьбы с современными практиками неоколониализма «За свободу наций!»](https://cdn.er.ru/media/news/December2024/Jfg8aoCIO7Ok3daHOKwo-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-opredelila-plany-raboty-ekspertnogo-soveta-postoyannogo-komiteta-foruma-storonnikov-borby-s-sovremennymi-praktikami-neokolonializma-za-svobodu-nacij)
 
@@ -303,7 +311,7 @@
 
 [#Климов](https://er.ru/activity/news?tags%5B0%5D=1872) [#международноесотрудничество](https://er.ru/activity/news?tags%5B0%5D=119742) [#неоколониализм](https://er.ru/activity/news?tags%5B0%5D=1094202) [#форум](https://er.ru/activity/news?tags%5B0%5D=19)
 
-Сегодня 17:19
+17.12.24
 
 [![Владимир Якушев: «Единая Россия» поддержит лучшие гражданские инициативы](https://cdn.er.ru/media/news/December2024/IeRMwh9MMVShxZN2G2Gt-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-edinaya-rossiya-podderzhit-luchshie-grazhdanskie-iniciativy)
 
@@ -311,7 +319,7 @@
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#НКО](https://er.ru/activity/news?tags%5B0%5D=1394) [#гражданскиеинициативы](https://er.ru/activity/news?tags%5B0%5D=121730) [#конкурс](https://er.ru/activity/news?tags%5B0%5D=360) [#финансоваяподдержка](https://er.ru/activity/news?tags%5B0%5D=139419)
 
-Сегодня 15:00
+17.12.24
 
 [![Госдума приняла инициированный «Единой Россией» закон о молодёжной политике](https://cdn.er.ru/media/news/December2024/xvzmxAwVSeGVtYdbOrt8-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-iniciirovannyj-edinoj-rossiej-zakon-o-molodyozhnoj-politike)
 
@@ -319,7 +327,7 @@
 
 [#Метелев](https://er.ru/activity/news?tags%5B0%5D=133170) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#молодежнаяполитика](https://er.ru/activity/news?tags%5B0%5D=109512) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692)
 
-Сегодня 14:45
+17.12.24
 
 [![Госдума приняла закон «Единой России» о дополнительной поддержке донорства](https://cdn.er.ru/media/news/December2024/VrUBnV7oIVvkoP2DbJal-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-zakon-edinoj-rossii-o-dopolnitelnoj-podderzhke-donorstva)
 
@@ -327,15 +335,7 @@
 
 [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#донорство](https://er.ru/activity/news?tags%5B0%5D=127509) [#сдачакрови](https://er.ru/activity/news?tags%5B0%5D=117217) [#благотворительнаядеятельность](https://er.ru/activity/news?tags%5B0%5D=149228) [#волонтерство](https://er.ru/activity/news?tags%5B0%5D=19443) [#добровольчество](https://er.ru/activity/news?tags%5B0%5D=19819)
 
-Сегодня 14:30
-
-[![Госдума приняла закон «Единой России» об обязательном строительстве социальных объектов при комплексном развитии территорий](https://cdn.er.ru/media/news/December2024/mXliF3vgDzyfbWY1izgy-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-zakon-edinoj-rossii-ob-obyazatelnom-stroitelstve-socialnyh-obektov-pri-kompleksnom-razvitii-territorij)
-
-[Госдума приняла закон «Единой России» об обязательном строительстве социальных объектов при комплексном развитии территорий](https://er.ru/activity/news/gosduma-prinyala-zakon-edinoj-rossii-ob-obyazatelnom-stroitelstve-socialnyh-obektov-pri-kompleksnom-razvitii-territorij)
-
-[#Пахомов](https://er.ru/activity/news?tags%5B0%5D=4075) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=126717) [#соцобъекты](https://er.ru/activity/news?tags%5B0%5D=6180) [#жилье](https://er.ru/activity/news?tags%5B0%5D=113) [#инфраструктура](https://er.ru/activity/news?tags%5B0%5D=1129)
-
-Сегодня 14:15
+17.12.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
