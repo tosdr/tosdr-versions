@@ -289,9 +289,9 @@ Search
         
         [Rush Shahani TechTalk](https://events.zoom.us/ev/AnS0TL61il-lC-HpZSc_PtOmuob1gugyFp9pOP8oMtKNeL-gCH5W~Aho1aHCGUVV3qxnTaGNTHAr9ThJT6T2hunbW_fa9r3gCCLCeyF9gQCqCTQ)
         
-        [![Image of Xin Luna Dong](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/xin-luna-dong-bytecast.jpg)](https://learning.acm.org/bytecast/ep60-xin-luna-dong)
+        [![Image of Roger Dannenberg](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/roger-dannenberg-bytecast.jpg)](https://learning.acm.org/bytecast/ep61-roger-dannenberg)
         
-        [ByteCast Ep60: Xin Luna Dong](https://learning.acm.org/bytecast/ep60-xin-luna-dong)
+        [ByteCast Ep61: Roger Dannenberg](https://learning.acm.org/bytecast/ep61-roger-dannenberg)
         
     
 * [Learning Center](#)
@@ -310,17 +310,17 @@ Search
         
         The ACM Learning Center offers ACM members access to lifelong learning tools and resources. Our E-Learning collections offer complimentary access to more than 80,000 online books, courses, and videos from top content publishers. The ACM TechTalk series brings leading computing luminaries and visionaries to your screen. Members enjoy exclusive offers and discounts on IT industry certifications and vendor-specific training.
         
-    * [![Image of Nashlie Sephus](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/nashlie-sephus.jpg)](https://learning.acm.org/bytecast/ep59-nashlie-sephus)
+    * [![Image of Roger Dannenberg](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/roger-dannenberg-bytecast.jpg)](https://learning.acm.org/bytecast/ep61-roger-dannenberg)
+        
+        [ByteCast Ep61: Roger Dannenberg](https://learning.acm.org/bytecast/ep61-roger-dannenberg)
+        
+        [![Image of Xin Luna Dong](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/xin-luna-dong-bytecast.jpg)](https://learning.acm.org/bytecast/ep60-xin-luna-dong)
+        
+        [ByteCast Ep60: Xin Luna Dong](https://learning.acm.org/bytecast/ep60-xin-luna-dong)
+        
+        [![Image of Nashlie Sephus](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/nashlie-sephus.jpg)](https://learning.acm.org/bytecast/ep59-nashlie-sephus)
         
         [ByteCast Ep59: Nashlie Sephus](https://learning.acm.org/bytecast/ep59-nashlie-sephus)
-        
-        [![Image of Wen-Mei Hwu](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/wen-mei-hwu-bytecast.jpg)](https://learning.acm.org/bytecast/ep58-wen-mei-hwu)
-        
-        [ByteCast Ep58: Wen-Mei Hwu](https://learning.acm.org/bytecast/ep58-wen-mei-hwu)
-        
-        [![Image of Xavier Leroy](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/xavier-leroy-bytecast.jpg)](https://learning.acm.org/bytecast/ep57-xavier-leroy)
-        
-        [ByteCast Ep57: Xavier Leroy](https://learning.acm.org/bytecast/ep57-xavier-leroy)
         
     
 * [Public Policy](#)
