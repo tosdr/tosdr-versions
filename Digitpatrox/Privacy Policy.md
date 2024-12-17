@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Monday, December 16 2024
+Tuesday, December 17 2024
 
 Latest
 
-* [Google’s Whisk AI generator will ‘remix’ the pictures you plug in](https://digitpatrox.com/googles-whisk-ai-generator-will-remix-the-pictures-you-plug-in/)
-* [Google Releases Veo 2 Video Generation Model to Rival Sora](https://digitpatrox.com/google-releases-veo-2-video-generation-model-to-rival-sora/)
-* [Texas medical school notifies 1.5 million people of two data breaches that compromised SSNs, medical records, and financial info](https://digitpatrox.com/texas-medical-school-notifies-1-5-million-people-of-two-data-breaches-that-compromised-ssns-medical-records-and-financial-info/)
-* [Klarna has stopped hiring amid its relentless AI efficiency drive](https://digitpatrox.com/klarna-has-stopped-hiring-amid-its-relentless-ai-efficiency-drive/)
-* [What IT hiring looks like heading into 2025 – Computerworld](https://digitpatrox.com/what-it-hiring-looks-like-heading-into-2025-computerworld/)
-* [How to Use Microsoft Windows Recall](https://digitpatrox.com/how-to-use-microsoft-windows-recall/)
-* [How to correctly install graphics drivers when upgrading to a new GPU on Windows 11](https://digitpatrox.com/how-to-correctly-install-graphics-drivers-when-upgrading-to-a-new-gpu-on-windows-11/)
-* [How to Find a Great Home Health Aide](https://digitpatrox.com/how-to-find-a-great-home-health-aide/)
-* [Why You Still Need Excel Skills in Today’s AI World](https://digitpatrox.com/why-you-still-need-excel-skills-in-todays-ai-world/)
-* [How to use Airplane mode on Android & Samsung Galaxy devices](https://digitpatrox.com/how-to-use-airplane-mode-on-android-samsung-galaxy-devices/)
+* [FBI spots HiatusRAT malware attacks targeting web cameras, DVRs](https://digitpatrox.com/fbi-spots-hiatusrat-malware-attacks-targeting-web-cameras-dvrs/)
+* [Mark Zuckerberg says Threads has more than 100 million daily active users](https://digitpatrox.com/mark-zuckerberg-says-threads-has-more-than-100-million-daily-active-users/)
+* [Duel Warriors Codes (December 2024)](https://digitpatrox.com/duel-warriors-codes-december-2024/)
+* [Nokia hails success of Europe’s first commercial 5G cloud RAN deployment](https://digitpatrox.com/nokia-hails-success-of-europes-first-commercial-5g-cloud-ran-deployment/)
+* [Making AI popular is a marathon, not a sprint – Computerworld](https://digitpatrox.com/making-ai-popular-is-a-marathon-not-a-sprint-computerworld/)
+* [These Were the Most Popular iPhone Apps of 2024](https://digitpatrox.com/these-were-the-most-popular-iphone-apps-of-2024/)
+* [How to restore Registry from secret backup on Windows 11, 10](https://digitpatrox.com/how-to-restore-registry-from-secret-backup-on-windows-11-10/)
+* [How to Choose Healthier Cookware and Kitchen Tools](https://digitpatrox.com/how-to-choose-healthier-cookware-and-kitchen-tools/)
+* [5 Ways to Switch Off From Your Microsoft Work This Holiday](https://digitpatrox.com/5-ways-to-switch-off-from-your-microsoft-work-this-holiday/)
+* [What are return to office (RTO) mandates and why is big tech embracing them?](https://digitpatrox.com/what-are-return-to-office-rto-mandates-and-why-is-big-tech-embracing-them/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://cdn.vox-cdn.com/thumbor/27GikmT3l83HxnHHUzkV3iDr1ME=/0x0:1752x1167/1200x628/filters:focal(876x584:877x585)/cdn.vox-cdn.com/uploads/chorus_asset/file/25792808/ai_label_3.png)](https://digitpatrox.com/googles-whisk-ai-generator-will-remix-the-pictures-you-plug-in/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/12/16/rat_malware.jpg)](https://digitpatrox.com/fbi-spots-hiatusrat-malware-attacks-targeting-web-cameras-dvrs/)
     
-    [Google’s Whisk AI generator will ‘remix’ the pictures you plug in](https://digitpatrox.com/googles-whisk-ai-generator-will-remix-the-pictures-you-plug-in/)
+    [FBI spots HiatusRAT malware attacks targeting web cameras, DVRs](https://digitpatrox.com/fbi-spots-hiatusrat-malware-attacks-targeting-web-cameras-dvrs/)
     
-    4 minutes ago
+    22 minutes ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/12/google-releases-veo-2-video-generation-model.jpg)](https://digitpatrox.com/google-releases-veo-2-video-generation-model-to-rival-sora/)
+* [![](https://cdn.vox-cdn.com/thumbor/YavtHu47GBXbFJeKLrxkZwo474E=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24774110/STK156_Instagram_threads_1.jpg)](https://digitpatrox.com/mark-zuckerberg-says-threads-has-more-than-100-million-daily-active-users/)
     
-    [Google Releases Veo 2 Video Generation Model to Rival Sora](https://digitpatrox.com/google-releases-veo-2-video-generation-model-to-rival-sora/)
+    [Mark Zuckerberg says Threads has more than 100 million daily active users](https://digitpatrox.com/mark-zuckerberg-says-threads-has-more-than-100-million-daily-active-users/)
     
-    20 minutes ago
+    43 minutes ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/12/Texas-medical-school-data-breach-compromises-almost-1.5-million-patients-1.jpg)](https://digitpatrox.com/texas-medical-school-notifies-1-5-million-people-of-two-data-breaches-that-compromised-ssns-medical-records-and-financial-info/)
+* [![](https://beebom.com/wp-content/uploads/2024/12/Duel-Warriors-banner-from-Roblox.jpg)](https://digitpatrox.com/duel-warriors-codes-december-2024/)
     
-    [Texas medical school notifies 1.5 million people of two data breaches that compromised SSNs, medical records, and financial info](https://digitpatrox.com/texas-medical-school-notifies-1-5-million-people-of-two-data-breaches-that-compromised-ssns-medical-records-and-financial-info/)
+    [Duel Warriors Codes (December 2024)](https://digitpatrox.com/duel-warriors-codes-december-2024/)
     
-    1 hour ago
+    59 minutes ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/nhn9u4wJDLMnUKnNw6XCjU-1200-80.jpg)](https://digitpatrox.com/klarna-has-stopped-hiring-amid-its-relentless-ai-efficiency-drive/)
+* [![](https://cdn.mos.cms.futurecdn.net/D6hvhc8ZrWoC2dXjvMxggB-1200-80.jpg)](https://digitpatrox.com/nokia-hails-success-of-europes-first-commercial-5g-cloud-ran-deployment/)
     
-    [Klarna has stopped hiring amid its relentless AI efficiency drive](https://digitpatrox.com/klarna-has-stopped-hiring-amid-its-relentless-ai-efficiency-drive/)
-    
-    2 hours ago
-    
-* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3623583-0-39613200-1734352353-shutterstock_797089132.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/what-it-hiring-looks-like-heading-into-2025-computerworld/)
-    
-    [What IT hiring looks like heading into 2025 – Computerworld](https://digitpatrox.com/what-it-hiring-looks-like-heading-into-2025-computerworld/)
+    [Nokia hails success of Europe’s first commercial 5G cloud RAN deployment](https://digitpatrox.com/nokia-hails-success-of-europes-first-commercial-5g-cloud-ran-deployment/)
     
     2 hours ago
+    
+* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3625337-0-54480100-1734374515-runner-silhouettes-by-fitsum-admasu-via-unsplash.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/making-ai-popular-is-a-marathon-not-a-sprint-computerworld/)
+    
+    [Making AI popular is a marathon, not a sprint – Computerworld](https://digitpatrox.com/making-ai-popular-is-a-marathon-not-a-sprint-computerworld/)
+    
+    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [4 minutes ago
+* [22 minutes ago
     
-    ### Google’s Whisk AI generator will ‘remix’ the pictures you plug in](https://digitpatrox.com/googles-whisk-ai-generator-will-remix-the-pictures-you-plug-in/)
-* [20 minutes ago
+    ### FBI spots HiatusRAT malware attacks targeting web cameras, DVRs](https://digitpatrox.com/fbi-spots-hiatusrat-malware-attacks-targeting-web-cameras-dvrs/)
+* [43 minutes ago
     
-    ### Google Releases Veo 2 Video Generation Model to Rival Sora](https://digitpatrox.com/google-releases-veo-2-video-generation-model-to-rival-sora/)
-* [1 hour ago
+    ### Mark Zuckerberg says Threads has more than 100 million daily active users](https://digitpatrox.com/mark-zuckerberg-says-threads-has-more-than-100-million-daily-active-users/)
+* [59 minutes ago
     
-    ### Texas medical school notifies 1.5 million people of two data breaches that compromised SSNs, medical records, and financial info](https://digitpatrox.com/texas-medical-school-notifies-1-5-million-people-of-two-data-breaches-that-compromised-ssns-medical-records-and-financial-info/)
+    ### Duel Warriors Codes (December 2024)](https://digitpatrox.com/duel-warriors-codes-december-2024/)
 
 Most Popular Topics
 
-* [3 weeks ago
+* [4 weeks ago
     
-    ### Grab Your Dream OnePlus Devices With These Black Friday Deals](https://digitpatrox.com/grab-your-dream-oneplus-devices-with-these-black-friday-deals/)
-* [November 13, 2024
+    ### Listary is a Fast, Powerful Search Tool for Windows](https://digitpatrox.com/listary-is-a-fast-powerful-search-tool-for-windows/)
+* [October 13, 2024
     
-    ### How to show file extensions on Windows 10](https://digitpatrox.com/how-to-show-file-extensions-on-windows-10/)
-* [September 4, 2024
+    ### Why You Need to File Your Homeowners Insurance Claim ASAP After a Disaster](https://digitpatrox.com/why-you-need-to-file-your-homeowners-insurance-claim-asap-after-a-disaster/)
+* [2 weeks ago
     
-    ### Everything we know about the TfL cyber attack so far](https://digitpatrox.com/everything-we-know-about-the-tfl-cyber-attack-so-far/)
+    ### US energy contractor ENGlobal reveals ransomware attack](https://digitpatrox.com/us-energy-contractor-englobal-reveals-ransomware-attack/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### How to correctly install graphics drivers when upgrading to a new GPU on Windows 11](https://digitpatrox.com/how-to-correctly-install-graphics-drivers-when-upgrading-to-a-new-gpu-on-windows-11/)
+    ### How to restore Registry from secret backup on Windows 11, 10](https://digitpatrox.com/how-to-restore-registry-from-secret-backup-on-windows-11-10/)
 * [3 hours ago
     
-    ### How to Find a Great Home Health Aide](https://digitpatrox.com/how-to-find-a-great-home-health-aide/)
-* [3 hours ago
+    ### How to Choose Healthier Cookware and Kitchen Tools](https://digitpatrox.com/how-to-choose-healthier-cookware-and-kitchen-tools/)
+* [4 hours ago
     
-    ### Why You Still Need Excel Skills in Today’s AI World](https://digitpatrox.com/why-you-still-need-excel-skills-in-todays-ai-world/)
+    ### 5 Ways to Switch Off From Your Microsoft Work This Holiday](https://digitpatrox.com/5-ways-to-switch-off-from-your-microsoft-work-this-holiday/)
 
 Most Viewed Topics
 
+* [August 12, 2024
+    
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 * [August 11, 2024
     
     ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 12, 2024
     
     ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
-* [October 4, 2024
-    
-    ### Wordle Answer for Today, October 4, 2024](https://digitpatrox.com/wordle-answer-for-today-october-4-2024/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
