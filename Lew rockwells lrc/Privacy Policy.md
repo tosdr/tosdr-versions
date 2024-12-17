@@ -80,6 +80,7 @@ If you have questions regarding our privacy policy, feel free to [contact me](h
 
 #### [LRC Blog](https://www.lewrockwell.com/lrc-blog/)
 
+* [A Road Map To Ending The Fed](https://www.lewrockwell.com/lrc-blog/a-road-map-to-ending-the-fed/)
 * [DOD Insanity](https://www.lewrockwell.com/lrc-blog/dod-insanity/)
 * [This is Free Market Health Care](https://www.lewrockwell.com/lrc-blog/this-is-free-market-health-care/)
 * [Medicaid Dumps Millions from Health Coverage (12.13.24)](https://www.lewrockwell.com/lrc-blog/medicaid-dumps-millions-from-health-coverage-12-13-24/)
@@ -89,8 +90,7 @@ If you have questions regarding our privacy policy, feel free to [contact me](h
 * [So What?](https://www.lewrockwell.com/lrc-blog/so-what-3/)
 * [Speaking Truth to Power: Robert Barnes and Ron Paul](https://www.lewrockwell.com/lrc-blog/speaking-truth-to-power-robert-barnes-and-ron-paul/)
 * [Burisma & Beyond! Down the Deep State Rabbit Hole with Mike Benz! Viva Frei Live!](https://www.lewrockwell.com/lrc-blog/burisma-beyond-down-the-deep-state-rabbit-hole-with-mike-benz-viva-frei-live/)
-* [How Washington Provoked the New Cold War, with Guest Scott Horton](https://www.lewrockwell.com/lrc-blog/how-washington-provoked-the-new-cold-war-with-guest-scott-horton/)
-* [MORE](https://www.lewrockwell.com/lrc-blog/#post-897876)
+* [MORE](https://www.lewrockwell.com/lrc-blog/#post-897917)
 
 #### [LRC Podcasts](https://www.lewrockwell.com/podcast/)
 
