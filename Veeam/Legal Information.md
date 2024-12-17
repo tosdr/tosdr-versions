@@ -228,6 +228,7 @@ Menu
     
     * [Veeam University](https://www.veeam.com/support/training/free-on-demand-trainings.html?ad=menu-support)
     * [Courses & Certifications](https://www.veeam.com/support/training/vmce-training.html?ad=menu-support)
+    * [Kubernetes Learning Portal](https://www.veeam.com/support/training/kubernetes-learning.html?ad=menu-support)
     
     Support Resources
     
