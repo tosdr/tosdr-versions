@@ -204,6 +204,7 @@ Legal
 
 * [Cookie Policy](https://taimi.com/cookie-policy/)
 * [Privacy Policy](https://taimi.com/privacy-policy/)
+* [Consumer Health Data Privacy Policy](https://taimi.com/consumer-health-data-privacy-policy/)
 * [Subscription Terms](https://taimi.com/billing/)
 * [Terms of Service](https://taimi.com/terms/)
 * [Safety/Reporting](https://taimi.com/safety-reporting/)
