@@ -288,7 +288,7 @@ Teads and Outbrain Merge To Form Leading Omnichannel Advertising Platform…
 
 [Learn more](https://www.teads.com/Teads-Outbrain-Merge/?mtm_campaign=teads-outbrain-merge-popup&mtm_source=popbanner)
 
-                                  
+                                 
 
 English
 
