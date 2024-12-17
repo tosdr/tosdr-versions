@@ -39,7 +39,7 @@ account
     * [Deals](https://faithgateway.com/collections/biblegateway-special-deals?utm_source=bg&utm_medium=referral&utm_campaign=nav_deals)
     * [More](https://faithgateway.com/?utm_source=bg&utm_medium=referral&utm_campaign=nav_more)
 
-[Lee Strobel answers questions about faith. Subscribe now for weekly insights!](https://www.biblegateway.com/landing/investigating_faith/?utm_source=bg&utm_medium=alert_mobile&utm_campaign=alert_strobel20241111)
+[Want to receive the Verse of the Day each day?](https://www.biblegateway.com/landing/verse-of-the-day/?utm_source=bg&utm_medium=alert_mobile&utm_campaign=alert_votdeaday410)
 
 close
 
