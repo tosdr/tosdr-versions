@@ -287,6 +287,14 @@ Autism news
 
 All the latest that matters to our community
 
+![Spectrum colored border with autism speaks logo at bottom in center. Middle of image has the following text over a semi-transparent graphic of a capitol dome: "Congress passes Autism CARES Act of 2024; next stop, the President."](/sites/default/files/styles/content_list/public/Congress%20passes%20CARES.png.webp?itok=6ZH7FA_w)
+
+12.16.24
+
+[### Autism Speaks’ Advocacy Helps Secure Autism CARES Act Victory](https://guide.autismspeaks.org/press-release/autism-speaks-advocacy-helps-secure-autism-cares-act-victory)
+
+The Autism CARES Act of 2024, the only federal law solely dedicated to the autism community, has been sent to the President’s desk for signature.
+
 ![Stuart Spielman looking at camera smiling with arm around his son's shoulder. Zak smiles while leaning his face towards side of Stuart's head.](/sites/default/files/styles/content_list/public/Stuart%20%26%20Zak.jpg.webp?itok=85I1iwOg)
 
 11.26.24
@@ -326,14 +334,6 @@ This newsletter edition shares updates about the Autism CARES Act of 2024, suppo
 [### US Senate passes the Autism CARES Act of 2024, sending it back to House for final passage](https://guide.autismspeaks.org/advocacy-news/us-senate-passes-autism-cares-act-2024-sending-it-back-house-final-passage)
 
 In a significant step forward for autism advocacy, the United States Senate has passed the Autism CARES Act of 2024, advancing the critical
-
-![Andy Shih, Autism Speaks Chief Science Officer at the congressional hearing on global public health](/sites/default/files/styles/content_list/public/Andy-Shih%2C-Autism-Speaks-Chief-Science-Officer-at-the-congressional-hearing-on-global-public-health.jpg.webp?itok=AheKYS5F)
-
-11.20.24
-
-[### Autism Speaks Chief Science Officer speaks at congressional hearing on global public health](https://guide.autismspeaks.org/advocacy-news/andy-shih-congressional-hearing-public-health)
-
-Autism Speaks Chief Science Officer Dr. Andy Shih was one of three individuals invited to testify before the Subcommittee on Global Health.
 
 [Read more news](https://guide.autismspeaks.org/articles?article_type%5B981%5D=981&article_type%5B2181%5D=2181&article_type%5B2186%5D=2186&article_type%5B986%5D=986)
 
