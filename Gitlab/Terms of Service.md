@@ -645,6 +645,7 @@
             * [ ]  [Professional Services Instructional Design and Development](https://handbook.gitlab.com/handbook/customer-success/professional-services-engineering/instruct-dev/)
             * [ ]  [Professional Services Offerings](https://handbook.gitlab.com/handbook/customer-success/professional-services-engineering/offerings/)
             * [ ]  [Professional Services Offerings Framework](https://handbook.gitlab.com/handbook/customer-success/professional-services-engineering/framework/)
+            * [ ]  [Professional Services Partner Invoice Example](https://handbook.gitlab.com/handbook/customer-success/professional-services-engineering/examples/partner_invoice_mockup/)
             * [ ]  [Professional Services Practice Management](https://handbook.gitlab.com/handbook/customer-success/professional-services-engineering/practice-mgmt/)
             * [ ]  [Professional Services Project Management](https://handbook.gitlab.com/handbook/customer-success/professional-services-engineering/project-mgmt/)
             * [ ]  [Professional Services Remote Training Session Setup and Reporting](https://handbook.gitlab.com/handbook/customer-success/professional-services-engineering/remote-training-session-setup/)
