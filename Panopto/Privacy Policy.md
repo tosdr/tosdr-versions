@@ -40,8 +40,8 @@ English Français Deutsch 日本語 한국어 Italiano Español
     [Read More](https://www.panopto.com/elai-trial/)
     
     * Elai Generative AI Video
-        * [Elai for Business](https://www.panopto.com/create-impactful-training-videos-with-elai/)
-        * [Elai for Higher Education](https://www.panopto.com/make-video-learning-more-interactive-and-flexible-with-elai/)
+        * [Elai for Business](https://www.panopto.com/create-training-videos-with-elai/)
+        * [Elai for Higher Education](https://www.panopto.com/interactive-video-learning-with-elai/)
     
 * [Switch to Panopto](https://www.panopto.com/switching-to-panopto/)
 * Industries
@@ -120,11 +120,9 @@ We believe in the power of learning, and we built an intelligent platform to hel
 
 [![](https://www.panopto.com/wp-content/uploads/2024/12/Panopto_US_English_2024_Certification_Badge.png)](https://www.greatplacetowork.com/certified-company/7004402)
 
-![](https://www.panopto.com/wp-content/uploads/2024/09/medal.png)
+![](https://www.panopto.com/wp-content/uploads/2024/12/VideoCMS_EasiestToDoBusinessWith_Enterprise_EaseOfDoingBusinessWith.png)
 
-![](https://www.panopto.com/wp-content/uploads/2024/09/medal-2.png)
-
-![](https://www.panopto.com/wp-content/uploads/2024/09/medal-1.png)
+![](https://www.panopto.com/wp-content/uploads/2024/12/users-love-us.png)
 
 * Platform
     * [Create Content](https://www.panopto.com/features/create-content/)
