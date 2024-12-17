@@ -505,6 +505,15 @@ Get Advice[Design Dilemmas](https://www.gardenweb.com/discussions/design-dilemma
 * [Flags & Flagpoles](https://www.houzz.com/products/flags-and-flagpoles/theme_flag--Seasons)
 * [Holiday Storage](https://www.houzz.com/products/holiday-storage)
 
+* [Cyber Monday Sale](https://www.houzz.com/products/sale-event--cyber-monday-sale)
+* [Furniture Cyber Monday Deals](https://www.houzz.com/products/furniture/sale-event--cyber-monday-sale)
+* [Outdoor Furniture Cyber Monday Deals](https://www.houzz.com/products/patio-furniture/sale-event--cyber-monday-sale)
+* [Sofas & Sectionals Cyber Monday Deals](https://www.houzz.com/products/sofas-and-sectionals/sale-event--cyber-monday-sale)
+* [Decor Cyber Monday Deals](https://www.houzz.com/products/home-decor/sale-event--cyber-monday-sale)
+* [Area Rugs Cyber Monday Deals](https://www.houzz.com/products/area-rugs/sale-event--cyber-monday-sale)
+* [Lighting Cyber Monday Deals](https://www.houzz.com/products/lighting/sale-event--cyber-monday-sale)
+* [Christmas Trees Cyber Monday Deals](https://www.houzz.com/products/christmas-trees/sale-event--cyber-monday-sale)
+
 * [Holiday Sale](https://www.houzz.com/products/holiday-decorations/on-sale)
 
 * [Trending in Holiday](https://www.houzz.com/shop-houzz/holiday)
