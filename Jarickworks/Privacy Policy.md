@@ -156,7 +156,7 @@ Designing where you want to go today
 
 [Donate](#donate)
 
-[![freeblr faq what criticisms have been made of anarchism](/freeblr/faq/what-criticisms-have-been-made-of-anarchism/card.svg)](https://jarick.works/freeblr/faq/what-criticisms-have-been-made-of-anarchism)[![freeblr taxation private charity versus public welfare](/freeblr/taxation/private-charity-versus-public-welfare/card.svg)](https://jarick.works/freeblr/taxation/private-charity-versus-public-welfare)[![freeblr limited government libertarian anarchism responses to ten objections](/freeblr/limited-government/libertarian-anarchism-responses-to-ten-objections/card.svg)](https://jarick.works/freeblr/limited-government/libertarian-anarchism-responses-to-ten-objections)[![spekr what is libertarian capitalism](/spekr/what-is-libertarian-capitalism/card.svg)](https://jarick.works/spekr/what-is-libertarian-capitalism)
+[![freeblr faq how would left anarchy work](/freeblr/faq/how-would-left-anarchy-work/card.svg)](https://jarick.works/freeblr/faq/how-would-left-anarchy-work)[![freeblr government only cowards vote](/freeblr/government/only-cowards-vote/card.svg)](https://jarick.works/freeblr/government/only-cowards-vote)[![freeblr money the gold standard](/freeblr/money/the-gold-standard/card.svg)](https://jarick.works/freeblr/money/the-gold-standard)[![spekr what is mutualism](/spekr/what-is-mutualism/card.svg)](https://jarick.works/spekr/what-is-mutualism)
 
 [Follow](#follow)
 
