@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/hoofdartikelen/wat-gebeurt-er-nou-eigenlijk-het-virusverhaal/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/china-houdt-8-scheepsladingen-gmo-tegen/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
