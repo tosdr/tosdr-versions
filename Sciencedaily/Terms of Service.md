@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**December 16, 2024**
+**December 17, 2024**
 
 * * *
 
@@ -229,16 +229,16 @@ this hour
 
 * * *
 
+* [Taxi Drivers: Lower Death Rates from Alzheimer's](https://www.sciencedaily.com/releases/2024/12/241216184729.htm)
+* [Prehistoric Rock and Ocean Anoxic Event](https://www.sciencedaily.com/releases/2024/12/241217141022.htm)
+* [Physicists 'Bootstrap' Validity of String Theory](https://www.sciencedaily.com/releases/2024/12/241217141004.htm)
+* [Binary Star Found Near Milky Way's Black Hole](https://www.sciencedaily.com/releases/2024/12/241217130904.htm)
 * [New Neurons That Suppress Food Intake](https://www.sciencedaily.com/releases/2024/12/241205143009.htm)
 * [Exoplanet Trappist-1 B: Atmosphere?](https://www.sciencedaily.com/releases/2024/12/241216130034.htm)
 * [Naughty or Nice? Many Parents Rely On Threats](https://www.sciencedaily.com/releases/2024/12/241216130304.htm)
 * [Violence of the Early Bronze Age](https://www.sciencedaily.com/releases/2024/12/241216000434.htm)
 * [Anglerfish's Fishing Rod: Unique Motor Control](https://www.sciencedaily.com/releases/2024/12/241212120224.htm)
 * [Critical Fertilizer Ingredient from Thin Air](https://www.sciencedaily.com/releases/2024/12/241213140619.htm)
-* [Heart of Jovian Moon's Volcanic Rage](https://www.sciencedaily.com/releases/2024/12/241213125505.htm)
-* [Planets Form Through Domino Effect](https://www.sciencedaily.com/releases/2024/12/241213125457.htm)
-* [Intense Gamma-Ray Outburst: Virgo Constellation](https://www.sciencedaily.com/releases/2024/12/241213140634.htm)
-* [Light Shed On the Origin of the Genetic Code](https://www.sciencedaily.com/releases/2024/12/241212190257.htm)
 
 Trending Topics
 ---------------
@@ -251,25 +251,25 @@ this week
 
 [Prostate Cancer](https://www.sciencedaily.com/news/health_medicine/prostate_cancer/)
 
-[Lung Cancer](https://www.sciencedaily.com/news/health_medicine/lung_cancer/)
+[Hypertension](https://www.sciencedaily.com/news/health_medicine/hypertension/)
 
-[Medical Devices](https://www.sciencedaily.com/news/health_medicine/medical_devices/)
+[Urology](https://www.sciencedaily.com/news/health_medicine/urology/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
 
-[Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
+[Detectors](https://www.sciencedaily.com/news/matter_energy/detectors/)
 
-[Optics](https://www.sciencedaily.com/news/matter_energy/nature_of_light/)
+[Sun](https://www.sciencedaily.com/news/space_time/sun/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Sustainability](https://www.sciencedaily.com/news/earth_climate/sustainability/)
+[Bacteria](https://www.sciencedaily.com/news/plants_animals/bacteria/)
+
+[Pollution](https://www.sciencedaily.com/news/earth_climate/pollution/)
 
 [Fish](https://www.sciencedaily.com/news/plants_animals/fish/)
-
-[Marine Biology](https://www.sciencedaily.com/news/plants_animals/marine_biology/)
 
   
 
