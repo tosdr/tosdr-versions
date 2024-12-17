@@ -23,7 +23,7 @@ My Tote
 
 ### [Coffee Bean Caffeine Brightening Eye Cream](https://www.100percentpure.com/products/coffee-bean-caffeine-brightening-eye-cream)
 
-4643 reviews (4644)
+4643 reviews (4645)
 
 $16.00 $29.00
 
@@ -161,7 +161,7 @@ ADD TO TOTE
 
 $27.00 $27.00
 
-Blackest - $27 Gleaming Pewter - $27 Dark Cacao - $27
+Blackest - $27 Dark Cacao - $27 Gleaming Pewter - $27
 
 Gleaming Pewter
 
@@ -315,7 +315,7 @@ ADD TO TOTE
 
 ### [Long Last Liquid Eye Liner](https://www.100percentpure.com/products/long-last-liquid-eye-liner)
 
-1579 reviews (1579)
+1581 reviews (1581)
 
 $30.00 $30.00
 
