@@ -8,7 +8,15 @@ _My Services_* [HomeNew](https://cloudamo.com/index.php)
     * [Nextcloud](https://cloudamo.com/cart.php?gid=1)
     * [ownCloud](https://cloudamo.com/cart.php?gid=9)
     * [Product Addons](https://cloudamo.com/knowledgebase/12/cart.php?gid=addons)
-* [Affiliates](https://cloudamo.com/affiliates.php)
+    * [Domain Renewals](https://cloudamo.com/cart.php?gid=renewals)
+    * [Register a New Domain](https://cloudamo.com/cart.php?a=add&domain=register)
+    * [Transfer in a Domain](https://cloudamo.com/cart.php?a=add&domain=transfer)
+* Domains
+    * [My Domains](https://cloudamo.com/clientarea.php?action=domains)
+    * [Domain Renewals](https://cloudamo.com/knowledgebase/12/cart.php?gid=renewals)
+    * [Register a New Domain](https://cloudamo.com/cart.php?a=add&domain=register)
+    * [Transfer in a Domain](https://cloudamo.com/cart.php?a=add&domain=transfer)
+    * [Domain Search](https://cloudamo.com/cart.php?a=add&domain=register)
 _Support_* Support
     * [Tickets](https://cloudamo.com/supporttickets.php)
     * [Open Ticket](https://cloudamo.com/submitticket.php)
@@ -151,9 +159,9 @@ SiteLock provides a range of features designed to protect both your website and 
 
 ###### this is footer
 
-Copyright © 2024 Cloudamo.
+Copyright © 2024 Cloudamo. Nextcloud optmized web hosting solutions!
 
-[Store](https://cloudamo.com/cart.php) [Register](https://cloudamo.com/register.php) [Contact Us](https://cloudamo.com/contact.php)
+[Place a New Order](https://cloudamo.com/cart.php) [Get Support](https://cloudamo.com/submitticket.php) [Terms of Service](https://cloudamo.com/knowledgebase/44/Terms-and-conditions.html)
 
 ![](/assets/img/overlay-spinner.svg)  
 
