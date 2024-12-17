@@ -128,11 +128,11 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [Ind vs Aus Live](https://www.news18.com/cricket/india-vs-australia-3rd-test-match-today-day-4-india-national-cricket-team-vs-australia-national-cricket-team-latest-scorecard-gabba-brisbane-weather-updates-liveblog-9158305.html)
-    * [MobiKwik IPO](https://www.news18.com/business/ipo/mobikwik-ipo-allotment-finalised-gmp-at-59-14-a-step-by-step-guide-to-check-allotment-status-online-9157515.html)
+    * [One Nation, One Election](https://www.news18.com/india/lok-sabha-bills-one-nation-one-election-parliament-winter-session-opposition-furore-nda-bjp-allies-back-bill-constitution-amendment-bill-9159177.html)
+    * [Chennai Weather](https://www.news18.com/india/chennai-weather-imd-tamil-nadu-weather-heavy-rains-low-pressure-cyclone-bay-of-bengal-ws-b-9158714.html)
+    * [Stock Market](https://www.news18.com/business/markets/stock-market-crash-why-sensex-fell-over-1000-points-nifty-below-24400-today-9158948.html)
     * [Champions Trophy Schedule](https://www.news18.com/cricket/icc-champions-trophy-2025-schedule-announcement-live-updates-match-date-time-venue-india-vs-pakistan-liveblog-9157982.html)
-    * [Railways Waiting List](https://www.news18.com/auto/till-what-number-can-waiting-list-tickets-be-confirmed-railways-reveals-the-magic-formula-ws-b-9157749.html)
-    * [Zeenat Aman](https://www.news18.com/movies/zeenat-aman-adjusted-for-heroes-on-dostana-set-amitabh-bachchan-would-leave-shatrugan-sinha-would-enter-9158435.html)
+    * [Kapil Sharma](https://www.news18.com/movies/kapil-sharma-breaks-silence-about-insulting-atlee-watch-and-decide-by-yourself-9159106.html)
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
@@ -169,11 +169,11 @@ Follow us on
 
 In Trends:
 
-* [Ind vs Aus Live](https://www.news18.com/cricket/india-vs-australia-3rd-test-match-today-day-4-india-national-cricket-team-vs-australia-national-cricket-team-latest-scorecard-gabba-brisbane-weather-updates-liveblog-9158305.html)
-* [MobiKwik IPO](https://www.news18.com/business/ipo/mobikwik-ipo-allotment-finalised-gmp-at-59-14-a-step-by-step-guide-to-check-allotment-status-online-9157515.html)
+* [One Nation, One Election](https://www.news18.com/india/lok-sabha-bills-one-nation-one-election-parliament-winter-session-opposition-furore-nda-bjp-allies-back-bill-constitution-amendment-bill-9159177.html)
+* [Chennai Weather](https://www.news18.com/india/chennai-weather-imd-tamil-nadu-weather-heavy-rains-low-pressure-cyclone-bay-of-bengal-ws-b-9158714.html)
+* [Stock Market](https://www.news18.com/business/markets/stock-market-crash-why-sensex-fell-over-1000-points-nifty-below-24400-today-9158948.html)
 * [Champions Trophy Schedule](https://www.news18.com/cricket/icc-champions-trophy-2025-schedule-announcement-live-updates-match-date-time-venue-india-vs-pakistan-liveblog-9157982.html)
-* [Railways Waiting List](https://www.news18.com/auto/till-what-number-can-waiting-list-tickets-be-confirmed-railways-reveals-the-magic-formula-ws-b-9157749.html)
-* [Zeenat Aman](https://www.news18.com/movies/zeenat-aman-adjusted-for-heroes-on-dostana-set-amitabh-bachchan-would-leave-shatrugan-sinha-would-enter-9158435.html)
+* [Kapil Sharma](https://www.news18.com/movies/kapil-sharma-breaks-silence-about-insulting-atlee-watch-and-decide-by-yourself-9159106.html)
 * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 
 * Follow Us
