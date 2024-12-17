@@ -1,4 +1,4 @@
-[](https://social.osb-alliance.de/@OSBA)       
+[](https://social.osb-alliance.de/@OSBA)           
 
 [![OSBA – Open Source Business Alliance](https://osb-alliance.de/wp-content/uploads/2020/04/osba-logo-claim.svg)](https://osb-alliance.de/)
 
