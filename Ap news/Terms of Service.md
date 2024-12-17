@@ -12,9 +12,9 @@ Menu
     
     TOP STORIES
     
-    * [Ukraine and US say some North Korean troops have been killed fighting alongside Russian forces](https://apnews.com/article/russia-ukraine-war-north-korea-troops-33bf427736c5802fb97df41fdbf61396)
-    * [Negotiators say Israel and Hamas are inching toward a ceasefire deal. This is what it may look like](https://apnews.com/article/israel-hamas-gaza-war-ceasefire-egypt-qatar-264087c7a547031a9433ecbbdcd920d2)
-    * [Syria's ousted leader Assad says he wanted to keep fighting but Russian allies evacuated him](https://apnews.com/article/syria-war-assad-russia-news-16-december-2024-72a8e44f762da2ff78434ff76faeb633)
+    * [A bomb killed a Russian general in Moscow. A Ukrainian official says secret service was behind it](https://apnews.com/article/russia-explosion-head-of-nuclear-defense-forces-killed-9656bce946a9f552454df9debe5fbd18)
+    * [Authorities impose overnight curfew in cyclone-ravaged Mayotte as France rushes in aid](https://apnews.com/article/mayotte-france-cyclone-chido-50f0478e0dc3d402245941330b2fbd65)
+    * [Magnitude 7.3 earthquake causes widespread damage in Pacific island nation of Vanuatu](https://apnews.com/article/vanuatu-pacific-earthquake-ocean-3e4cc1e02bc0ec62d5931b00286688ed)
     
     Newsletters
     
@@ -30,9 +30,9 @@ Menu
     
     TOP STORIES
     
-    * [15-year-old girl fatally shoots teacher and teenager at a Christian school in Wisconsin](https://apnews.com/article/shooting-christian-school-madison-wisconsin-a8e1ee353d7fdab2b86dfb355938d871)
-    * [The Latest: Teacher and a student killed in a shooting at a private Christian school in Wisconsin](https://apnews.com/article/wisconsin-school-shooting-8c0610859b9fb285a7f67a1dce7b22d9)
+    * [A 15-year-old girl fatally shoots a teacher and a teenager at a Christian school in Wisconsin](https://apnews.com/article/shooting-christian-school-madison-wisconsin-a8e1ee353d7fdab2b86dfb355938d871)
     * [Things to know about the shooting at a Christian school in Wisconsin](https://apnews.com/article/school-shooting-wisconsin-things-to-know-3df4f40327e70aa863c4b5b36fd0a04b)
+    * [Judge rejects Trump’s bid to toss hush money conviction because of Supreme Court immunity ruling](https://apnews.com/article/trump-hush-money-conviction-stormy-daniels-908465ed0b7f2005c72226b5b2546260)
     
     Newsletters
     
@@ -52,9 +52,9 @@ Menu
     
     TOP STORIES
     
+    * [Americans end 2024 with grim economic outlook, but Republicans are optimistic for 2025: AP-NORC poll](https://apnews.com/article/economy-trump-biden-election-poll-39af2a837fc35173e13dd0e5d5e5d471)
+    * [Kamala Harris will deliver a post-election message to Maryland students](https://apnews.com/article/kamala-harris-donald-trump-6de09bd9d78d11a2cc4c4591c0f404e2)
     * [Americans' trust in nation's court system hits record low, survey finds](https://apnews.com/article/donald-trump-joe-biden-courts-americans-trust-1d4d2e22e9699cc09b29ec6ac8f374e7)
-    * [Judge rejects Trump’s bid to toss hush money conviction because of Supreme Court immunity ruling](https://apnews.com/article/trump-hush-money-conviction-stormy-daniels-908465ed0b7f2005c72226b5b2546260)
-    * [Trump weighs in on NY mayor, vaccines and drones in freewheeling press conference at Mar-a-Lago](https://apnews.com/article/trump-maralago-press-conference-44beea6cf8c93f070638842712bf3aca)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
-    * [Chiefs QB Patrick Mahomes has high-ankle sprain, status for Houston remains unclear, AP source says](https://apnews.com/article/kansas-city-chiefs-patrick-mahomes-injury-b1d2fa37c154828f6f76f78312f0562e)
-    * [Michael Vick talks to Sacramento State and Norfolk State about head coaching jobs](https://apnews.com/article/norfolk-state-michael-vick-coach-64dc6004c339ea73798c2632f1b13370)
     * [Vikings win 7th straight to forge tie for NFC North lead with 30-12 blowout of reeling Bears](https://apnews.com/article/bears-vikings-score-23d9db282d999097e2a72901be2d05ca)
+    * [Jefferson turns TD celebration into Moss tribute during Vikings win: 'We love you Randy'](https://apnews.com/article/bears-vikings-jefferson-moss-f51db45cf8d8137cc8977223ffe15e05)
+    * [FIFA set to announce its top players in men's and women's soccer in 'The Best' awards](https://apnews.com/article/fifa-best-awards-vinicius-bonmati-messi-ba46afdf3aec3b525b82fa26ef4fc915)
     
     Newsletters
     
@@ -94,9 +94,9 @@ Menu
     
     TOP STORIES
     
+    * [How the Roxies are made: Behind the iconic role in Broadway's megahit 'Chicago'](https://apnews.com/article/roxies-chicago-making-of-6c615aa4b64ea1bf98ba165636137f1b)
+    * ['Dirty Dancing,' 'Beverly Hills Cop,' 'Up in Smoke' among movies entering the National Film Registry](https://apnews.com/article/dirty-dancing-national-film-registry-social-network-f761e063d521a67e15ff2c17569deabf)
     * [Barry Jenkins on why he made 'Mufasa' and how it changed him as a filmmaker](https://apnews.com/article/mufasa-barry-jenkins-lion-king-interview-9c70f2933f428d78e12a3ad7eca077f5)
-    * [Jay-Z's lawyer says accuser's rape claim is 'provably, demonstrably false'](https://apnews.com/article/jayz-diddy-sexual-assault-vmas-2cf826fcd87098585b63ea4b87f397b8)
-    * [Stage spoofs of Hallmark TV movies are Christmas gifts for theaters](https://apnews.com/article/hallmark-christmas-holiday-movie-parody-theater-a2ffe1465b9492e88c58d683904ac87b)
     
 * [Business](https://apnews.com/business)
     
@@ -106,9 +106,9 @@ Menu
     
     TOP STORIES
     
+    * [Americans end 2024 with grim economic outlook, but Republicans are optimistic for 2025: AP-NORC poll](https://apnews.com/article/economy-trump-biden-election-poll-39af2a837fc35173e13dd0e5d5e5d471)
     * [Federal Reserve is likely to slow its rate cuts with inflation pressures still elevated](https://apnews.com/article/federal-reserve-inflation-rates-trump-economy-prices-4abfd4fad49db65cad4a2b5607d9e952)
-    * [Trump weighs in on NY mayor, vaccines and drones in freewheeling press conference at Mar-a-Lago](https://apnews.com/article/trump-maralago-press-conference-44beea6cf8c93f070638842712bf3aca)
-    * [Journalists anticipate a renewed hostility toward their work under the incoming Trump administration](https://apnews.com/article/trump-press-media-news-1915c25137eb4605b95ab3b3ccc6fb4c)
+    * [Why is tech giant SoftBank investing over $100 billion in the US?](https://apnews.com/article/japan-softbank-masayoshi-trump-ai-d45efad6e48f80579456fe48dba95562)
     
 * [Science](https://apnews.com/science)
     
@@ -190,9 +190,9 @@ Menu
     
     TOP STORIES
     
+    * [From water destruction to deadly heat, Associated Press photographers capture climate change in 2024](https://apnews.com/article/photo-gallery-climate-2024-flooding-heat-928163df24a7a73d619bb138d80ac560)
     * [Can U.N. summits save the planet? A faltering year of talks brings up questions about the process](https://apnews.com/article/united-nations-climate-biodiversity-plastics-drought-summits-failure-64b40bc06287a92d33bcdbfea4f3bf5f)
     * [26 people arrested in crackdown on illegal deforestation along Paraguay, Brazil and Argentina border](https://apnews.com/article/paraguay-brazil-argentina-border-deforestation-interpol-tree-trafficking-92599975a233802e62732a6a4de84a66)
-    * [American chestnuts are part of Yuletide lore. But in the US, they've nearly been wiped out](https://apnews.com/article/american-chestnut-trees-roasting-blight-chinese-restoration-1c3e50ef33a67926c0800222f0e7e619)
     
 * [Health](https://apnews.com/health)
     
@@ -213,9 +213,9 @@ Menu
     
     TOP STORIES
     
+    * [TikTok being investigated after suspected meddling in Romania's presidential election](https://apnews.com/article/tiktok-romania-european-union-election-0638e90cb3898fc61619e8aed4731a53)
+    * [Why is tech giant SoftBank investing over $100 billion in the US?](https://apnews.com/article/japan-softbank-masayoshi-trump-ai-d45efad6e48f80579456fe48dba95562)
     * [Insider Q&A: High hopes for Australia social media ban and channeling parental 'fury' over tech](https://apnews.com/article/mama-social-media-addiction-kids-teens-julie-scelfo-f66bcbe64b1be143f3e93b93a4e83e94)
-    * [TikTok asks the Supreme Court for an emergency order to block a US ban unless it's sold](https://apnews.com/article/supreme-court-tiktok-lawsuit-china-101afd280e5018bc1296613517f041d6)
-    * [US agencies should use advanced technology to identify mysterious drones, Schumer says](https://apnews.com/article/drones-new-york-jersey-schumer-80de1d64708677cfa7efc60249075d7b)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -225,17 +225,17 @@ Menu
     
     TOP STORIES
     
+    * [How the Roxies are made: Behind the iconic role in Broadway's megahit 'Chicago'](https://apnews.com/article/roxies-chicago-making-of-6c615aa4b64ea1bf98ba165636137f1b)
+    * ['Dirty Dancing,' 'Beverly Hills Cop,' 'Up in Smoke' among movies entering the National Film Registry](https://apnews.com/article/dirty-dancing-national-film-registry-social-network-f761e063d521a67e15ff2c17569deabf)
     * [Younger Asian Americans navigate something new to their generation: Taking up space](https://apnews.com/article/asian-americans-space-generations-3e042c230d94f01b5ce67f44eb917555)
-    * [US to require passenger vehicles to sound alarms if rear passengers don't fasten their seat belts](https://apnews.com/article/nhtsa-rear-seat-belt-safety-1c0e6cc4e50f4edf9c0b8c24b1c0da07)
-    * [Are you catching holiday blues instead of cheer? Here are some ways to find peace](https://apnews.com/article/holiday-christmas-mental-health-depression-anxiety-c65eef56bfa54bff48a8d00d5b782280)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
-    * [15-year-old girl fatally shoots teacher and teenager at a Christian school in Wisconsin](https://apnews.com/article/shooting-christian-school-madison-wisconsin-a8e1ee353d7fdab2b86dfb355938d871)
+    * [Pope in autobiography reveals an apparent bombing plot during his 2021 visit to Iraq](https://apnews.com/article/pope-iraq-birthday-bombing-plot-is-2bf8c5af703db1513eb3befd96689bc6)
+    * [A 15-year-old girl fatally shoots a teacher and a teenager at a Christian school in Wisconsin](https://apnews.com/article/shooting-christian-school-madison-wisconsin-a8e1ee353d7fdab2b86dfb355938d871)
     * [Teacher and a teenage student killed in a shooting at a Christian school in Wisconsin](https://apnews.com/article/wisconsin-school-shooting-498c8ad26d299602553201ad639a4a5c)
-    * [Longtime Auburn football team pastor dies in an accident on an Alabama lake](https://apnews.com/article/lake-martin-auburn-football-pastor-accident-eda02c5804196211165052c1ded81454)
     
     Newsletters
     
@@ -249,11 +249,11 @@ Menu
     
     TOP STORIES
     
+    * [Bomba mata a general ruso en Moscú y funcionario de Kiev dice que el servicio secreto estuvo detrás](https://apnews.com/article/rusia-explosion-jefe-fuerzas-de-defensa-nuclear-372d87b34c4ab1c85a624bde596ba158)
     * [Trump amenaza deportaciones masivas y Centroamérica se prepara ante llegada de migrantes vulnerables](https://apnews.com/article/honduras-trump-deportaciones-masivas-america-central-inmigracion-27dbe55e62a2ee02c67c1fd289316356)
-    * [Congreso colombiano hunde por segunda vez la reforma política del gobierno de Petro](https://apnews.com/article/colombia-reforma-politica-congreso-oposicion-5e0b1d0469f6c85511fb697bb271e24b)
-    * [La Corte Suprema argentina confirma juicio contra Cristina Fernández por presunto lavado de dinero](https://apnews.com/article/argentina-corrupcion-cristina-fernandez-kirchner-juicio-presunto-lavado-fc7f1aa6e53064fe12235ea7d3ef3f32)
-    * [EEUU devuelve a México al exlíder del Cártel del Golfo, que enfrentará cargos en el país](https://apnews.com/article/mexico-osiel-cardenas-cartel-golfo-eeuu-5065791e574802c9f6479c32c791884f)
-    * [Juez de NY rechaza petición de Trump para desestimar declaración de culpabilidad](https://apnews.com/article/trump-nueva-york-juicio-corte-suprema-46f688e17e69f9cbd219831a070edfc6)
+    * [Un terremoto de magnitud 7,3 causa daños generalizados en Vanuatu, una nación insular del Pacífico](https://apnews.com/article/vanuatu-sismo-comunicaciones-derrumbes-danos-606814fb6bec4f4331e735fe1802b285)
+    * [El papa revela en su autobiografía un supuesto complot de atentado durante su visita a Irak en 2021](https://apnews.com/article/papa-irak-cumpleanos-trama-atentado-ei-9c117581938132c367f947570b95b316)
+    * [TikTok, bajo investigación por presunta interferencia en elecciones presidenciales de Rumania](https://apnews.com/article/tiktok-rumania-union-europea-elecciones-10cbc525c4353989345d6df2ba607586)
     
 * [Quizzes](https://apnews.com/quizzes)
     
@@ -414,9 +414,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Ukraine and US say some North Korean troops have been killed fighting alongside Russian forces](https://apnews.com/article/russia-ukraine-war-north-korea-troops-33bf427736c5802fb97df41fdbf61396)
-    * [Negotiators say Israel and Hamas are inching toward a ceasefire deal. This is what it may look like](https://apnews.com/article/israel-hamas-gaza-war-ceasefire-egypt-qatar-264087c7a547031a9433ecbbdcd920d2)
-    * [Syria's ousted leader Assad says he wanted to keep fighting but Russian allies evacuated him](https://apnews.com/article/syria-war-assad-russia-news-16-december-2024-72a8e44f762da2ff78434ff76faeb633)
+    * [A bomb killed a Russian general in Moscow. A Ukrainian official says secret service was behind it](https://apnews.com/article/russia-explosion-head-of-nuclear-defense-forces-killed-9656bce946a9f552454df9debe5fbd18)
+    * [Authorities impose overnight curfew in cyclone-ravaged Mayotte as France rushes in aid](https://apnews.com/article/mayotte-france-cyclone-chido-50f0478e0dc3d402245941330b2fbd65)
+    * [Magnitude 7.3 earthquake causes widespread damage in Pacific island nation of Vanuatu](https://apnews.com/article/vanuatu-pacific-earthquake-ocean-3e4cc1e02bc0ec62d5931b00286688ed)
     
     Newsletters
     
@@ -432,9 +432,9 @@ Submit Search
     
     TOP STORIES
     
-    * [15-year-old girl fatally shoots teacher and teenager at a Christian school in Wisconsin](https://apnews.com/article/shooting-christian-school-madison-wisconsin-a8e1ee353d7fdab2b86dfb355938d871)
-    * [The Latest: Teacher and a student killed in a shooting at a private Christian school in Wisconsin](https://apnews.com/article/wisconsin-school-shooting-8c0610859b9fb285a7f67a1dce7b22d9)
+    * [A 15-year-old girl fatally shoots a teacher and a teenager at a Christian school in Wisconsin](https://apnews.com/article/shooting-christian-school-madison-wisconsin-a8e1ee353d7fdab2b86dfb355938d871)
     * [Things to know about the shooting at a Christian school in Wisconsin](https://apnews.com/article/school-shooting-wisconsin-things-to-know-3df4f40327e70aa863c4b5b36fd0a04b)
+    * [Judge rejects Trump’s bid to toss hush money conviction because of Supreme Court immunity ruling](https://apnews.com/article/trump-hush-money-conviction-stormy-daniels-908465ed0b7f2005c72226b5b2546260)
     
     Newsletters
     
@@ -462,9 +462,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Americans end 2024 with grim economic outlook, but Republicans are optimistic for 2025: AP-NORC poll](https://apnews.com/article/economy-trump-biden-election-poll-39af2a837fc35173e13dd0e5d5e5d471)
+    * [Kamala Harris will deliver a post-election message to Maryland students](https://apnews.com/article/kamala-harris-donald-trump-6de09bd9d78d11a2cc4c4591c0f404e2)
     * [Americans' trust in nation's court system hits record low, survey finds](https://apnews.com/article/donald-trump-joe-biden-courts-americans-trust-1d4d2e22e9699cc09b29ec6ac8f374e7)
-    * [Judge rejects Trump’s bid to toss hush money conviction because of Supreme Court immunity ruling](https://apnews.com/article/trump-hush-money-conviction-stormy-daniels-908465ed0b7f2005c72226b5b2546260)
-    * [Trump weighs in on NY mayor, vaccines and drones in freewheeling press conference at Mar-a-Lago](https://apnews.com/article/trump-maralago-press-conference-44beea6cf8c93f070638842712bf3aca)
     
     Newsletters
     
@@ -492,9 +492,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Chiefs QB Patrick Mahomes has high-ankle sprain, status for Houston remains unclear, AP source says](https://apnews.com/article/kansas-city-chiefs-patrick-mahomes-injury-b1d2fa37c154828f6f76f78312f0562e)
-    * [Michael Vick talks to Sacramento State and Norfolk State about head coaching jobs](https://apnews.com/article/norfolk-state-michael-vick-coach-64dc6004c339ea73798c2632f1b13370)
     * [Vikings win 7th straight to forge tie for NFC North lead with 30-12 blowout of reeling Bears](https://apnews.com/article/bears-vikings-score-23d9db282d999097e2a72901be2d05ca)
+    * [Jefferson turns TD celebration into Moss tribute during Vikings win: 'We love you Randy'](https://apnews.com/article/bears-vikings-jefferson-moss-f51db45cf8d8137cc8977223ffe15e05)
+    * [FIFA set to announce its top players in men's and women's soccer in 'The Best' awards](https://apnews.com/article/fifa-best-awards-vinicius-bonmati-messi-ba46afdf3aec3b525b82fa26ef4fc915)
     
     Newsletters
     
@@ -521,9 +521,9 @@ Submit Search
     
     TOP STORIES
     
+    * [How the Roxies are made: Behind the iconic role in Broadway's megahit 'Chicago'](https://apnews.com/article/roxies-chicago-making-of-6c615aa4b64ea1bf98ba165636137f1b)
+    * ['Dirty Dancing,' 'Beverly Hills Cop,' 'Up in Smoke' among movies entering the National Film Registry](https://apnews.com/article/dirty-dancing-national-film-registry-social-network-f761e063d521a67e15ff2c17569deabf)
     * [Barry Jenkins on why he made 'Mufasa' and how it changed him as a filmmaker](https://apnews.com/article/mufasa-barry-jenkins-lion-king-interview-9c70f2933f428d78e12a3ad7eca077f5)
-    * [Jay-Z's lawyer says accuser's rape claim is 'provably, demonstrably false'](https://apnews.com/article/jayz-diddy-sexual-assault-vmas-2cf826fcd87098585b63ea4b87f397b8)
-    * [Stage spoofs of Hallmark TV movies are Christmas gifts for theaters](https://apnews.com/article/hallmark-christmas-holiday-movie-parody-theater-a2ffe1465b9492e88c58d683904ac87b)
     
 * [Business](https://apnews.com/business)
     
@@ -538,9 +538,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Americans end 2024 with grim economic outlook, but Republicans are optimistic for 2025: AP-NORC poll](https://apnews.com/article/economy-trump-biden-election-poll-39af2a837fc35173e13dd0e5d5e5d471)
     * [Federal Reserve is likely to slow its rate cuts with inflation pressures still elevated](https://apnews.com/article/federal-reserve-inflation-rates-trump-economy-prices-4abfd4fad49db65cad4a2b5607d9e952)
-    * [Trump weighs in on NY mayor, vaccines and drones in freewheeling press conference at Mar-a-Lago](https://apnews.com/article/trump-maralago-press-conference-44beea6cf8c93f070638842712bf3aca)
-    * [Journalists anticipate a renewed hostility toward their work under the incoming Trump administration](https://apnews.com/article/trump-press-media-news-1915c25137eb4605b95ab3b3ccc6fb4c)
+    * [Why is tech giant SoftBank investing over $100 billion in the US?](https://apnews.com/article/japan-softbank-masayoshi-trump-ai-d45efad6e48f80579456fe48dba95562)
     
 * [Science](https://apnews.com/science)
     
@@ -638,9 +638,9 @@ Submit Search
     
     TOP STORIES
     
+    * [From water destruction to deadly heat, Associated Press photographers capture climate change in 2024](https://apnews.com/article/photo-gallery-climate-2024-flooding-heat-928163df24a7a73d619bb138d80ac560)
     * [Can U.N. summits save the planet? A faltering year of talks brings up questions about the process](https://apnews.com/article/united-nations-climate-biodiversity-plastics-drought-summits-failure-64b40bc06287a92d33bcdbfea4f3bf5f)
     * [26 people arrested in crackdown on illegal deforestation along Paraguay, Brazil and Argentina border](https://apnews.com/article/paraguay-brazil-argentina-border-deforestation-interpol-tree-trafficking-92599975a233802e62732a6a4de84a66)
-    * [American chestnuts are part of Yuletide lore. But in the US, they've nearly been wiped out](https://apnews.com/article/american-chestnut-trees-roasting-blight-chinese-restoration-1c3e50ef33a67926c0800222f0e7e619)
     
 * [Health](https://apnews.com/health)
     
@@ -664,9 +664,9 @@ Submit Search
     
     TOP STORIES
     
+    * [TikTok being investigated after suspected meddling in Romania's presidential election](https://apnews.com/article/tiktok-romania-european-union-election-0638e90cb3898fc61619e8aed4731a53)
+    * [Why is tech giant SoftBank investing over $100 billion in the US?](https://apnews.com/article/japan-softbank-masayoshi-trump-ai-d45efad6e48f80579456fe48dba95562)
     * [Insider Q&A: High hopes for Australia social media ban and channeling parental 'fury' over tech](https://apnews.com/article/mama-social-media-addiction-kids-teens-julie-scelfo-f66bcbe64b1be143f3e93b93a4e83e94)
-    * [TikTok asks the Supreme Court for an emergency order to block a US ban unless it's sold](https://apnews.com/article/supreme-court-tiktok-lawsuit-china-101afd280e5018bc1296613517f041d6)
-    * [US agencies should use advanced technology to identify mysterious drones, Schumer says](https://apnews.com/article/drones-new-york-jersey-schumer-80de1d64708677cfa7efc60249075d7b)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -684,17 +684,17 @@ Submit Search
     
     TOP STORIES
     
+    * [How the Roxies are made: Behind the iconic role in Broadway's megahit 'Chicago'](https://apnews.com/article/roxies-chicago-making-of-6c615aa4b64ea1bf98ba165636137f1b)
+    * ['Dirty Dancing,' 'Beverly Hills Cop,' 'Up in Smoke' among movies entering the National Film Registry](https://apnews.com/article/dirty-dancing-national-film-registry-social-network-f761e063d521a67e15ff2c17569deabf)
     * [Younger Asian Americans navigate something new to their generation: Taking up space](https://apnews.com/article/asian-americans-space-generations-3e042c230d94f01b5ce67f44eb917555)
-    * [US to require passenger vehicles to sound alarms if rear passengers don't fasten their seat belts](https://apnews.com/article/nhtsa-rear-seat-belt-safety-1c0e6cc4e50f4edf9c0b8c24b1c0da07)
-    * [Are you catching holiday blues instead of cheer? Here are some ways to find peace](https://apnews.com/article/holiday-christmas-mental-health-depression-anxiety-c65eef56bfa54bff48a8d00d5b782280)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
-    * [15-year-old girl fatally shoots teacher and teenager at a Christian school in Wisconsin](https://apnews.com/article/shooting-christian-school-madison-wisconsin-a8e1ee353d7fdab2b86dfb355938d871)
+    * [Pope in autobiography reveals an apparent bombing plot during his 2021 visit to Iraq](https://apnews.com/article/pope-iraq-birthday-bombing-plot-is-2bf8c5af703db1513eb3befd96689bc6)
+    * [A 15-year-old girl fatally shoots a teacher and a teenager at a Christian school in Wisconsin](https://apnews.com/article/shooting-christian-school-madison-wisconsin-a8e1ee353d7fdab2b86dfb355938d871)
     * [Teacher and a teenage student killed in a shooting at a Christian school in Wisconsin](https://apnews.com/article/wisconsin-school-shooting-498c8ad26d299602553201ad639a4a5c)
-    * [Longtime Auburn football team pastor dies in an accident on an Alabama lake](https://apnews.com/article/lake-martin-auburn-football-pastor-accident-eda02c5804196211165052c1ded81454)
     
     Newsletters
     
@@ -708,11 +708,11 @@ Submit Search
     
     TOP STORIES
     
+    * [Bomba mata a general ruso en Moscú y funcionario de Kiev dice que el servicio secreto estuvo detrás](https://apnews.com/article/rusia-explosion-jefe-fuerzas-de-defensa-nuclear-372d87b34c4ab1c85a624bde596ba158)
     * [Trump amenaza deportaciones masivas y Centroamérica se prepara ante llegada de migrantes vulnerables](https://apnews.com/article/honduras-trump-deportaciones-masivas-america-central-inmigracion-27dbe55e62a2ee02c67c1fd289316356)
-    * [Congreso colombiano hunde por segunda vez la reforma política del gobierno de Petro](https://apnews.com/article/colombia-reforma-politica-congreso-oposicion-5e0b1d0469f6c85511fb697bb271e24b)
-    * [La Corte Suprema argentina confirma juicio contra Cristina Fernández por presunto lavado de dinero](https://apnews.com/article/argentina-corrupcion-cristina-fernandez-kirchner-juicio-presunto-lavado-fc7f1aa6e53064fe12235ea7d3ef3f32)
-    * [EEUU devuelve a México al exlíder del Cártel del Golfo, que enfrentará cargos en el país](https://apnews.com/article/mexico-osiel-cardenas-cartel-golfo-eeuu-5065791e574802c9f6479c32c791884f)
-    * [Juez de NY rechaza petición de Trump para desestimar declaración de culpabilidad](https://apnews.com/article/trump-nueva-york-juicio-corte-suprema-46f688e17e69f9cbd219831a070edfc6)
+    * [Un terremoto de magnitud 7,3 causa daños generalizados en Vanuatu, una nación insular del Pacífico](https://apnews.com/article/vanuatu-sismo-comunicaciones-derrumbes-danos-606814fb6bec4f4331e735fe1802b285)
+    * [El papa revela en su autobiografía un supuesto complot de atentado durante su visita a Irak en 2021](https://apnews.com/article/papa-irak-cumpleanos-trama-atentado-ei-9c117581938132c367f947570b95b316)
+    * [TikTok, bajo investigación por presunta interferencia en elecciones presidenciales de Rumania](https://apnews.com/article/tiktok-rumania-union-europea-elecciones-10cbc525c4353989345d6df2ba607586)
     
 * [Quizzes](https://apnews.com/quizzes)
     
