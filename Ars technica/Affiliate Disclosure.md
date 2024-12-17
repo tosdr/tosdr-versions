@@ -84,17 +84,17 @@ We apply the same rigor and standards of objectivity to these articles as we do 
 
 Most Read
 
-1. [![Listing image for first story in Most Read: Buying a TV in 2025? Expect lower prices, more ads, and an OS war.](https://cdn.arstechnica.net/wp-content/uploads/2024/12/GettyImages-168653771-768x432.jpg)](https://arstechnica.com/gadgets/2024/12/buying-a-tv-in-2025-expect-lower-prices-more-ads-and-an-os-war/)
+1. [![Listing image for first story in Most Read: Huge math error corrected in black plastic study; authors say it doesn’t matter](https://cdn.arstechnica.net/wp-content/uploads/2024/12/GettyImages-1387194168-768x432.jpg)](https://arstechnica.com/health/2024/12/huge-math-error-corrected-in-black-plastic-study-authors-say-it-doesnt-matter/)
     
-    1. [Buying a TV in 2025? Expect lower prices, more ads, and an OS war.](https://arstechnica.com/gadgets/2024/12/buying-a-tv-in-2025-expect-lower-prices-more-ads-and-an-os-war/)
+    1. [Huge math error corrected in black plastic study; authors say it doesn’t matter](https://arstechnica.com/health/2024/12/huge-math-error-corrected-in-black-plastic-study-authors-say-it-doesnt-matter/)
     
-2. 2. [Trump to block the government and military from buying EVs](https://arstechnica.com/cars/2024/12/on-trumps-chopping-block-evs-charger-funding-californias-emissions/)
+2. 2. [Buying a TV in 2025? Expect lower prices, more ads, and an OS war.](https://arstechnica.com/gadgets/2024/12/buying-a-tv-in-2025-expect-lower-prices-more-ads-and-an-os-war/)
     
-3. 3. [Why do we get headaches from drinking red wine?](https://arstechnica.com/health/2024/12/researchers-hone-in-on-headache-causing-compounds-in-red-wine/)
+3. 3. [Trump to block the government and military from buying EVs](https://arstechnica.com/cars/2024/12/on-trumps-chopping-block-evs-charger-funding-californias-emissions/)
     
-4. 4. [Huge math error corrected in black plastic study; authors say it doesn’t matter](https://arstechnica.com/health/2024/12/huge-math-error-corrected-in-black-plastic-study-authors-say-it-doesnt-matter/)
+4. 4. [T-Mobile users can try Starlink-enabled phone service for free during beta](https://arstechnica.com/tech-policy/2024/12/t-mobile-opens-beta-registration-for-starlink-enabled-cell-phone-service/)
     
-5. 5. [T-Mobile users can try Starlink-enabled phone service for free during beta](https://arstechnica.com/tech-policy/2024/12/t-mobile-opens-beta-registration-for-starlink-enabled-cell-phone-service/)
+5. 5. [Why do we get headaches from drinking red wine?](https://arstechnica.com/health/2024/12/researchers-hone-in-on-headache-causing-compounds-in-red-wine/)
     
 
 Customize
