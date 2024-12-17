@@ -36,9 +36,13 @@ For advertisers
 
 [Yandex Terms of Service](https://yandex.com/legal/termsofservice/index.html)
 
+[Yandex ID Privacy Policy](https://yandex.com/legal/id_privacy_policy/en)
+
 General
 
 [Yandex Terms of Service](https://yandex.com/legal/termsofservice/index.html)
+
+[Yandex ID Privacy Policy](https://yandex.com/legal/id_privacy_policy/en)
 
 Terms of Use
 
@@ -182,18 +186,6 @@ General
 
 Yandex Terms of Service
 
-English
-
-English
-
-Polski
-
-Eesti keel
-
-Latviešu valoda
-
-Lietuvių
-
 Yandex Terms of Service
 =======================
 
@@ -325,35 +317,11 @@ _Previous version of the document: [https://yandex.com/legal/termsofservice/1809
 
 [Next
 
-Yandex.Maps](https://yandex.com/legal/maps_termsofuse/index.html)
-
-English
-
-English
-
-Polski
-
-Eesti keel
-
-Latviešu valoda
-
-Lietuvių
+Yandex ID Privacy Policy](https://yandex.com/legal/id_privacy_policy/en)
 
 [Next
 
-Yandex.Maps](https://yandex.com/legal/maps_termsofuse/index.html)
-
-English
-
-English
-
-Polski
-
-Eesti keel
-
-Latviešu valoda
-
-Lietuvių
+Yandex ID Privacy Policy](https://yandex.com/legal/id_privacy_policy/en)
 
 [Yandex.Support homepage](https://yandex.com/legal)
 
