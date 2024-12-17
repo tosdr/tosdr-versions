@@ -18,14 +18,14 @@ Back
     
     [![](https://assets.bosecreative.com/m/7d8a974a2c421580/webimage-SF_NavFlyout_Holiday_12-Day-Push_Cross-Cat_Mobile.png)
     
-    ### New Holiday Deals](https://www.bose.com/c/holiday-sale "SHOP")
+    ### Shop Holiday Deals](https://www.bose.com/c/holiday-sale "SHOP")
     
      
     
-    Get gifting done
+    Time’s almost up
     ----------------
     
-    Save up to 40% on holiday favorites, before it’s too late.
+    Beat the countdown and shop now to save up to 40% for holiday delivery.
     
     [SHOP](https://www.bose.com/c/holiday-sale "SHOP")
     
@@ -103,20 +103,22 @@ Back
     * [Gift Sets](https://www.bose.com/c/sets)
     * [Gift Cards](https://www.bose.com/gift-cards)
     
-    [![](https://assets.bosecreative.com/m/105c2e7afb9dc5e/webimage-QCUHLE25-Diamond_SF_FlashSale1_NavFlyout_Mobile.png)
+    [![](https://assets.bosecreative.com/m/4bd415f0c27b767/webimage-SF_NavFlyout_Holiday_12-Day-Push_UOE-Chilled-Lilac-Situ_Mobile.png)
     
-    Last Chance
+    Ultra Open Earbuds
     
-    ### 48-hour Sale](https://www.bose.com/QCUH-HEADPHONEARN.html?dwvar_QCUH-HEADPHONEARN_color=DIAMOND+60TH+EDITION&quantity=1 "SHOP")
+    ### Now in Chilled Lilac](https://www.bose.com/ULT-HEADPHONEOPN.html?dwvar_ULT-HEADPHONEOPN_color=CHILLED+LILAC "BUY NOW")
     
      
     
-    48-hour Flash Sale
-    ------------------
+    Exclusive color drop
     
-    Last chance to get $130 off Diamond 60th Edition QuietComfort Ultra Headphones. 
+    Hot deal. Chill hue.
+    --------------------
     
-    [BUY NOW](https://www.bose.com/QCUH-HEADPHONEARN.html?dwvar_QCUH-HEADPHONEARN_color=DIAMOND+60TH+EDITION&quantity=1 "BUY NOW")
+    Enjoy $70 off Ultra Open Earbuds, now in Chilled Lilac.
+    
+    [BUY NOW](https://www.bose.com/ULT-HEADPHONEOPN.html?dwvar_ULT-HEADPHONEOPN_color=CHILLED+LILAC "BUY NOW")
     
 
 * [Explore](#)
@@ -186,7 +188,7 @@ Back
 
 [![](https://assets.bosecreative.com/m/7d8a974a2c421580/webimage-SF_NavFlyout_Holiday_12-Day-Push_Cross-Cat_Mobile.png)
 
-### New Holiday Deals](https://www.bose.com/c/holiday-sale "SHOP")
+### Shop Holiday Deals](https://www.bose.com/c/holiday-sale "SHOP")
 
 [![Bose](/on/demandware.static/Sites-Bose_US-Site/-/default/dw6c9fe375/images/logo.svg)](https://www.bose.com/home "Bose Home")
 
