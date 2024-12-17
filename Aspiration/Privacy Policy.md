@@ -178,10 +178,13 @@ Get Started
 WHAT WE DO
 
 * [Spend & Save](https://www.aspiration.com/spendandsave)
-* [Investing](https://funds.aspiration.com/redwood/)
-* [Plant Your Change](https://www.aspiration.com/plantyourchange)
-* [Tree Planting](https://www.aspiration.com/tree-planting)
+* [Checking Account](https://www.aspiration.com/checking)
+* [High-Yield Savings](https://www.aspiration.com/savings)
 * [Marketplace](https://www.aspiration.com/marketplace)
+* [Plant Your Change](https://www.aspiration.com/plantyourchange)
+* [55,000 Fee-Free ATMs](https://www.aspiration.com/atms)
+* [Aspiration Plus](https://www.aspiration.com/aspiration-plus)
+* [Investing](https://funds.aspiration.com/redwood/)
 
 ABOUT US
 
