@@ -69,7 +69,7 @@
                 * [Payment Forms](https://factsmgt.com/products/financial-management/payment-forms/)
                 * [Incidental Billing & Prepay Accounts](https://factsmgt.com/products/financial-management/incidental-billing-prepay-accounts/)
                 * [Security and Compliance](https://factsmgt.com/tuition-management-security/)
-        * * ![Smiling person holding a tablet device](/wp-content/uploads/Header-Featured-Circle.png)
+        * * ![A teacher assisting a student with their assignment](/wp-content/uploads/teacher-student-class-468x448-241217-1.png)
                 
                 Elevating the Education Experience
                 ----------------------------------
