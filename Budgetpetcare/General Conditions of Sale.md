@@ -1,10 +1,10 @@
-12.12 SUPER SALE!
+HOLIDAY SEASON SALE!
 
-24% Off + 10% **Cashback**
+20% Off + 10% **Cashback**
 
 on all orders -
 
-Use Code : DECSALE24
+Use Code : HDEALS20
 
 * [![Free Shipping](/images/truck.png)FREE SHIPPING\* | Guaranteed Delivery](https://www.budgetpetcare.com/ship_returns.aspx)
     
@@ -104,6 +104,8 @@ You can check the status of your order anytime by logging into your account on o
 **Delivery Time**
 
 Most of our orders arrive within **10-15 business days** within the USA. Orders shipped outside the USA, take **21-28 days** to arrive after shipping.
+
+**Note: Due to the holiday season, the delivery of most of the shipments may be affected and we seek your cooperation at this time.**
 
 **We Guarantee**
 
