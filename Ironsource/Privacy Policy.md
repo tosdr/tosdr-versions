@@ -102,11 +102,11 @@
             
             [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](#)
             
-            [**Blog**](#)[](https://www.is.com/community/blog/breaking-down-match-triple-3d/)
+            [**Blog**](#)[](https://www.is.com/community/blog/spotlight-on-mobile-game-growth-2024-customer-successes-and-insights/)
             
-            Breaking down Match Triple 3D: What game developers can learn from Lihuhu’s monetization strategy
+            Spotlight on mobile game growth: 2024 customer successes and insights
             
-            [Read more >](https://www.is.com/community/blog/breaking-down-match-triple-3d/)
+            [Read more >](https://www.is.com/community/blog/spotlight-on-mobile-game-growth-2024-customer-successes-and-insights/)
             
 * [Company](#)
     * [About](https://www.is.com/about/)
