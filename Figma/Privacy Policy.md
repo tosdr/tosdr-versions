@@ -732,6 +732,8 @@ Resources
 * [Colors](https://www.figma.com/colors/)
 * [Color picker](https://www.figma.com/color-picker/)
 * [Color palettes](https://www.figma.com/color-palettes/)
+* [Color palette generator](https://www.figma.com/color-palette-generator/)
+* [Color contrast checker](https://www.figma.com/color-contrast-checker/)
 * [Templates](https://www.figma.com/templates/)
 * [Developers](https://www.figma.com/developers)
 * [Integrations](https://www.figma.com/product-integrations/)
