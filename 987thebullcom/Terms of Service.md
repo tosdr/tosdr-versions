@@ -212,11 +212,11 @@ Recently Played
 
 |     |
 | --- |
-| Wind Up Missing YouTucker Wetmore<br><br>4:41pm |
-| Dancin' In The CountryTyler Hubbard<br><br>4:38pm |
-| Neon MoonBrooks And Dunn Ft Morgan Wallen<br><br>4:34pm |
-| LiarJelly Roll<br><br>4:31pm |
-| Long Hot SummerKeith Urban<br><br>4:27pm |
+| Thats My Kind Of NightLuke Bryan<br><br>10:39pm |
+| Truck BedHardy<br><br>10:36pm |
+| Devil You KnowTyler Braden<br><br>10:33pm |
+| I Ain'T Sayin'Jordan Davis<br><br>10:22pm |
+| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>10:19pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -360,21 +360,21 @@ State
 Featured Brands
 ---------------
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
-
-News Talk • Eastern
-
 [![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
-
-Top 40 • Eastern
-
 [![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
 Top 40 • Pacific NW
+
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+
+News Talk • Eastern
+
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+
+Top 40 • Eastern
 
 [](https://www.alphamediausa.com/)
 
