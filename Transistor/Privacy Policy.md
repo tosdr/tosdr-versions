@@ -97,44 +97,44 @@ Transistor provides podcast hosting and analytics for thousands of organizations
 
 ### Podcast Solutions
 
-* [Hosting](https://transistor.fm/features/host-multiple-podcasts-on-the-same-account)
-* [Analytics](https://transistor.fm/public-podcast-stats)
-* [Distribution](https://transistor.fm/changelog/distribution)
-* [Private podcasting](https://transistor.fm/private-podcast)
-* [Service Providers](https://transistor.fm/vendors)
+* [Hosting](https://transistor.fm/features/host-multiple-podcasts-on-the-same-account/)
+* [Analytics](https://transistor.fm/public-podcast-stats/)
+* [Distribution](https://transistor.fm/changelog/distribution/)
+* [Private podcasting](https://transistor.fm/private-podcast/)
+* [Service Providers](https://transistor.fm/vendors/)
 
 ### Support
 
-* [Pricing](https://transistor.fm/pricing)
+* [Pricing](https://transistor.fm/pricing/)
 * [System status](https://status.transistor.fm/)
 * [Help guides](https://support.transistor.fm/en/)
 * [API docs](https://developers.transistor.fm/)
-* [Affiliates](https://transistor.fm/affiliates)
+* [Affiliates](https://transistor.fm/affiliates/)
 
 ### Company
 
-* [Blog](https://transistor.fm/blog)
-* [About](https://transistor.fm/about)
-* [Our customers](https://transistor.fm/customers)
-* [New features](https://transistor.fm/changelog)
+* [Blog](https://transistor.fm/blog/)
+* [About](https://transistor.fm/about/)
+* [Our customers](https://transistor.fm/customers/)
+* [New features](https://transistor.fm/changelog/)
 * [Podcast](https://saas.transistor.fm/)
 
 ### Podcast Examples
 
-* [Church podcasts](https://transistor.fm/customers/churches)
-* [Fitness podcasts](https://transistor.fm/customers/top-fitness-podcast)
-* [YouTube podcasts](https://transistor.fm/customers/ali)
-* [Education podcasts](https://transistor.fm/customers/education)
-* [Government podcasts](https://transistor.fm/customers/veteranaffairs)
+* [Church podcasts](https://transistor.fm/customers/churches/)
+* [Fitness podcasts](https://transistor.fm/customers/top-fitness-podcast/)
+* [YouTube podcasts](https://transistor.fm/customers/ali/)
+* [Education podcasts](https://transistor.fm/customers/education/)
+* [Government podcasts](https://transistor.fm/customers/veteranaffairs/)
 
 ### Resources
 
-* [Libsyn Alternative](https://transistor.fm/alternative/libsyn)
-* [Buzzsprout Alternative](https://transistor.fm/alternative/buzzsprout)
-* [Captivate Alternative](https://transistor.fm/alternative/captivate)
-* [Castos Alternative](https://transistor.fm/alternative/castos)
-* [Simplecast Alternative](https://transistor.fm/alternative/simplecast)
-* [bCast Alternative](https://transistor.fm/alternative/bcast)
+* [Libsyn Alternative](https://transistor.fm/alternative/libsyn/)
+* [Buzzsprout Alternative](https://transistor.fm/alternative/buzzsprout/)
+* [Captivate Alternative](https://transistor.fm/alternative/captivate/)
+* [Castos Alternative](https://transistor.fm/alternative/castos/)
+* [Simplecast Alternative](https://transistor.fm/alternative/simplecast/)
+* [bCast Alternative](https://transistor.fm/alternative/bcast/)
 
 [](https://podstandards.org/)
 
