@@ -356,7 +356,7 @@ Suchen
     * [Bücher + Spezialhefte](https://www.test.de/shop/altersvorsorge-rente/)
     * [test Hefte](https://www.test.de/shop/test-hefte/)
     * [Finanztest Hefte](https://www.test.de/shop/finanztest-hefte/)
-    * [Jahrbücher + Archiv-CDs](https://www.test.de/shop/jahrbuecher-archivcds/)
+    * [Jahrbücher](https://www.test.de/shop/jahrbuecher/)
 
 * [Kontakt](https://www.test.de/kontakt/)
 * [Über uns](https://www.test.de/unternehmen/)
@@ -384,7 +384,7 @@ weiter
 
 Suchen
 
-![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v123930893.svg)
+![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;vf35476a93acb81fb.svg)
 
 1. [Startweiter](https://www.test.de/)
 2. Daten­schutz­erklärung
@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Tages­geld und Fest­geld: Anlegen geht auch ohne Internet](https://www.test.de/Tagesgeld-Festgeld-Konten-ohne-Online-Banking-oder-App-6143253-0/ "Tagesgeld und Festgeld - Anlegen geht auch ohne Internet")
-* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
-* [Rück­ruf: Bremse bei Stokke-Kinder­wagen kann sich lösen](https://www.test.de/Stokke-Rueckruf-Problem-mit-der-Bremse-6176592-0/ "Rückruf - Bremse bei Stokke-Kinderwagen kann sich lösen")
-* [Groß­baustellen der Deutschen Bahn: Wo nichts mehr zügig geht](https://www.test.de/Grossbaustellen-der-Deutschen-Bahn-Wo-nichts-mehr-zuegig-geht-6073286-0/ "Großbaustellen der Deutschen Bahn - Wo nichts mehr zügig geht")
-* [Beruhigungs­mittel im Test: Von Hopfen bis Lavendel – viele Mittel sind wenig geeignet](https://www.test.de/Beruhigungsmittel-2999340-0/ "Beruhigungsmittel im Test - Von Hopfen bis Lavendel – viele Mittel sind wenig geeignet")
-* [Geld­anlage richtig planen: Anlegen auf Sicht kostet Rendite](https://www.test.de/Geldanlage-richtig-planen-Anlegen-auf-Sicht-kostet-Rendite-6048767-0/ "Geldanlage richtig planen - Anlegen auf Sicht kostet Rendite")
+* [Kosten bei der Geld­anlage: Wenn aus Nach­kommastellen Tausende Euro werden](https://www.test.de/Kosten-bei-der-Geldanlage-Wenn-aus-Nachkommastellen-Tausende-Euro-werden-6086265-0/ "Kosten bei der Geldanlage - Wenn aus Nachkommastellen Tausende Euro werden")
+* [Weichmacher: Sonnen­creme unter Schad­stoff­verdacht – was ist dran?](https://www.test.de/Weichmacher-Sonnencreme-unter-Schadstoffverdacht-was-ist-dran-6103822-0/ "Weichmacher - Sonnencreme unter Schadstoffverdacht – was ist dran?")
+* [Zinsportale: So finden Sie die Haken bei Zins­angeboten](https://www.test.de/Zinsportale-So-finden-Sie-die-Haken-bei-Zinsangeboten-6007289-0/ "Zinsportale - So finden Sie die Haken bei Zinsangeboten")
+* [Toaster im Test: Klein bräunt besser](https://www.test.de/Toaster-im-Test-Klein-braeunt-besser-6132973-0/ "Toaster im Test - Klein bräunt besser")
+* [Fest­geld: Abzo­cker von One Wall Street](https://www.test.de/Festgeld-Abzocker-von-One-Wall-Street-6077062-0/ "Festgeld - Abzocker von One Wall Street")
+* [Aktien-ETF mit geringerem US-Anteil: Was bringt der gleichgewichtete Welt­index?](https://www.test.de/Aktien-ETF-mit-geringerem-US-Anteil-Das-bringt-der-gleichgewichtete-Weltindex-6173772-0/ "Aktien-ETF mit geringerem US-Anteil - Was bringt der gleichgewichtete Weltindex?")
 
 Weitere Informationen
 
@@ -1284,7 +1284,7 @@ Suchen
     * [Bücher + Spezialhefte](https://www.test.de/shop/altersvorsorge-rente/)
     * [test Hefte](https://www.test.de/shop/test-hefte/)
     * [Finanztest Hefte](https://www.test.de/shop/finanztest-hefte/)
-    * [Jahrbücher + Archiv-CDs](https://www.test.de/shop/jahrbuecher-archivcds/)
+    * [Jahrbücher](https://www.test.de/shop/jahrbuecher/)
 
 * [Kontakt](https://www.test.de/kontakt/)
 * [Über uns](https://www.test.de/unternehmen/)
@@ -1638,7 +1638,7 @@ Suchen
     * [Bücher + Spezialhefte](https://www.test.de/shop/altersvorsorge-rente/)
     * [test Hefte](https://www.test.de/shop/test-hefte/)
     * [Finanztest Hefte](https://www.test.de/shop/finanztest-hefte/)
-    * [Jahrbücher + Archiv-CDs](https://www.test.de/shop/jahrbuecher-archivcds/)
+    * [Jahrbücher](https://www.test.de/shop/jahrbuecher/)
 
 * [Kontakt](https://www.test.de/kontakt/)
 * [Über uns](https://www.test.de/unternehmen/)
@@ -1975,7 +1975,7 @@ Suchen
     * [Bücher + Spezialhefte](https://www.test.de/shop/altersvorsorge-rente/)
     * [test Hefte](https://www.test.de/shop/test-hefte/)
     * [Finanztest Hefte](https://www.test.de/shop/finanztest-hefte/)
-    * [Jahrbücher + Archiv-CDs](https://www.test.de/shop/jahrbuecher-archivcds/)
+    * [Jahrbücher](https://www.test.de/shop/jahrbuecher/)
 
 [Tests & Themen](https://www.test.de/thema/)
 
@@ -3871,12 +3871,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Tages­geld und Fest­geld: Anlegen geht auch ohne Internet](https://www.test.de/Tagesgeld-Festgeld-Konten-ohne-Online-Banking-oder-App-6143253-0/ "Tagesgeld und Festgeld - Anlegen geht auch ohne Internet")
-* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
-* [Rück­ruf: Bremse bei Stokke-Kinder­wagen kann sich lösen](https://www.test.de/Stokke-Rueckruf-Problem-mit-der-Bremse-6176592-0/ "Rückruf - Bremse bei Stokke-Kinderwagen kann sich lösen")
-* [Groß­baustellen der Deutschen Bahn: Wo nichts mehr zügig geht](https://www.test.de/Grossbaustellen-der-Deutschen-Bahn-Wo-nichts-mehr-zuegig-geht-6073286-0/ "Großbaustellen der Deutschen Bahn - Wo nichts mehr zügig geht")
-* [Beruhigungs­mittel im Test: Von Hopfen bis Lavendel – viele Mittel sind wenig geeignet](https://www.test.de/Beruhigungsmittel-2999340-0/ "Beruhigungsmittel im Test - Von Hopfen bis Lavendel – viele Mittel sind wenig geeignet")
-* [Geld­anlage richtig planen: Anlegen auf Sicht kostet Rendite](https://www.test.de/Geldanlage-richtig-planen-Anlegen-auf-Sicht-kostet-Rendite-6048767-0/ "Geldanlage richtig planen - Anlegen auf Sicht kostet Rendite")
+* [Kosten bei der Geld­anlage: Wenn aus Nach­kommastellen Tausende Euro werden](https://www.test.de/Kosten-bei-der-Geldanlage-Wenn-aus-Nachkommastellen-Tausende-Euro-werden-6086265-0/ "Kosten bei der Geldanlage - Wenn aus Nachkommastellen Tausende Euro werden")
+* [Weichmacher: Sonnen­creme unter Schad­stoff­verdacht – was ist dran?](https://www.test.de/Weichmacher-Sonnencreme-unter-Schadstoffverdacht-was-ist-dran-6103822-0/ "Weichmacher - Sonnencreme unter Schadstoffverdacht – was ist dran?")
+* [Zinsportale: So finden Sie die Haken bei Zins­angeboten](https://www.test.de/Zinsportale-So-finden-Sie-die-Haken-bei-Zinsangeboten-6007289-0/ "Zinsportale - So finden Sie die Haken bei Zinsangeboten")
+* [Toaster im Test: Klein bräunt besser](https://www.test.de/Toaster-im-Test-Klein-braeunt-besser-6132973-0/ "Toaster im Test - Klein bräunt besser")
+* [Fest­geld: Abzo­cker von One Wall Street](https://www.test.de/Festgeld-Abzocker-von-One-Wall-Street-6077062-0/ "Festgeld - Abzocker von One Wall Street")
+* [Aktien-ETF mit geringerem US-Anteil: Was bringt der gleichgewichtete Welt­index?](https://www.test.de/Aktien-ETF-mit-geringerem-US-Anteil-Das-bringt-der-gleichgewichtete-Weltindex-6173772-0/ "Aktien-ETF mit geringerem US-Anteil - Was bringt der gleichgewichtete Weltindex?")
 
 Weitere spannende Themen
 
@@ -3891,12 +3891,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Tages­geld und Fest­geld: Anlegen geht auch ohne Internet](https://www.test.de/Tagesgeld-Festgeld-Konten-ohne-Online-Banking-oder-App-6143253-0/ "Tagesgeld und Festgeld - Anlegen geht auch ohne Internet")
-* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
-* [Rück­ruf: Bremse bei Stokke-Kinder­wagen kann sich lösen](https://www.test.de/Stokke-Rueckruf-Problem-mit-der-Bremse-6176592-0/ "Rückruf - Bremse bei Stokke-Kinderwagen kann sich lösen")
-* [Groß­baustellen der Deutschen Bahn: Wo nichts mehr zügig geht](https://www.test.de/Grossbaustellen-der-Deutschen-Bahn-Wo-nichts-mehr-zuegig-geht-6073286-0/ "Großbaustellen der Deutschen Bahn - Wo nichts mehr zügig geht")
-* [Beruhigungs­mittel im Test: Von Hopfen bis Lavendel – viele Mittel sind wenig geeignet](https://www.test.de/Beruhigungsmittel-2999340-0/ "Beruhigungsmittel im Test - Von Hopfen bis Lavendel – viele Mittel sind wenig geeignet")
-* [Geld­anlage richtig planen: Anlegen auf Sicht kostet Rendite](https://www.test.de/Geldanlage-richtig-planen-Anlegen-auf-Sicht-kostet-Rendite-6048767-0/ "Geldanlage richtig planen - Anlegen auf Sicht kostet Rendite")
+* [Kosten bei der Geld­anlage: Wenn aus Nach­kommastellen Tausende Euro werden](https://www.test.de/Kosten-bei-der-Geldanlage-Wenn-aus-Nachkommastellen-Tausende-Euro-werden-6086265-0/ "Kosten bei der Geldanlage - Wenn aus Nachkommastellen Tausende Euro werden")
+* [Weichmacher: Sonnen­creme unter Schad­stoff­verdacht – was ist dran?](https://www.test.de/Weichmacher-Sonnencreme-unter-Schadstoffverdacht-was-ist-dran-6103822-0/ "Weichmacher - Sonnencreme unter Schadstoffverdacht – was ist dran?")
+* [Zinsportale: So finden Sie die Haken bei Zins­angeboten](https://www.test.de/Zinsportale-So-finden-Sie-die-Haken-bei-Zinsangeboten-6007289-0/ "Zinsportale - So finden Sie die Haken bei Zinsangeboten")
+* [Toaster im Test: Klein bräunt besser](https://www.test.de/Toaster-im-Test-Klein-braeunt-besser-6132973-0/ "Toaster im Test - Klein bräunt besser")
+* [Fest­geld: Abzo­cker von One Wall Street](https://www.test.de/Festgeld-Abzocker-von-One-Wall-Street-6077062-0/ "Festgeld - Abzocker von One Wall Street")
+* [Aktien-ETF mit geringerem US-Anteil: Was bringt der gleichgewichtete Welt­index?](https://www.test.de/Aktien-ETF-mit-geringerem-US-Anteil-Das-bringt-der-gleichgewichtete-Weltindex-6173772-0/ "Aktien-ETF mit geringerem US-Anteil - Was bringt der gleichgewichtete Weltindex?")
 
 Neueste Tests
 
@@ -3909,12 +3909,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Tages­geld und Fest­geld: Anlegen geht auch ohne Internet](https://www.test.de/Tagesgeld-Festgeld-Konten-ohne-Online-Banking-oder-App-6143253-0/ "Tagesgeld und Festgeld - Anlegen geht auch ohne Internet")
-* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
-* [Rück­ruf: Bremse bei Stokke-Kinder­wagen kann sich lösen](https://www.test.de/Stokke-Rueckruf-Problem-mit-der-Bremse-6176592-0/ "Rückruf - Bremse bei Stokke-Kinderwagen kann sich lösen")
-* [Groß­baustellen der Deutschen Bahn: Wo nichts mehr zügig geht](https://www.test.de/Grossbaustellen-der-Deutschen-Bahn-Wo-nichts-mehr-zuegig-geht-6073286-0/ "Großbaustellen der Deutschen Bahn - Wo nichts mehr zügig geht")
-* [Beruhigungs­mittel im Test: Von Hopfen bis Lavendel – viele Mittel sind wenig geeignet](https://www.test.de/Beruhigungsmittel-2999340-0/ "Beruhigungsmittel im Test - Von Hopfen bis Lavendel – viele Mittel sind wenig geeignet")
-* [Geld­anlage richtig planen: Anlegen auf Sicht kostet Rendite](https://www.test.de/Geldanlage-richtig-planen-Anlegen-auf-Sicht-kostet-Rendite-6048767-0/ "Geldanlage richtig planen - Anlegen auf Sicht kostet Rendite")
+* [Kosten bei der Geld­anlage: Wenn aus Nach­kommastellen Tausende Euro werden](https://www.test.de/Kosten-bei-der-Geldanlage-Wenn-aus-Nachkommastellen-Tausende-Euro-werden-6086265-0/ "Kosten bei der Geldanlage - Wenn aus Nachkommastellen Tausende Euro werden")
+* [Weichmacher: Sonnen­creme unter Schad­stoff­verdacht – was ist dran?](https://www.test.de/Weichmacher-Sonnencreme-unter-Schadstoffverdacht-was-ist-dran-6103822-0/ "Weichmacher - Sonnencreme unter Schadstoffverdacht – was ist dran?")
+* [Zinsportale: So finden Sie die Haken bei Zins­angeboten](https://www.test.de/Zinsportale-So-finden-Sie-die-Haken-bei-Zinsangeboten-6007289-0/ "Zinsportale - So finden Sie die Haken bei Zinsangeboten")
+* [Toaster im Test: Klein bräunt besser](https://www.test.de/Toaster-im-Test-Klein-braeunt-besser-6132973-0/ "Toaster im Test - Klein bräunt besser")
+* [Fest­geld: Abzo­cker von One Wall Street](https://www.test.de/Festgeld-Abzocker-von-One-Wall-Street-6077062-0/ "Festgeld - Abzocker von One Wall Street")
+* [Aktien-ETF mit geringerem US-Anteil: Was bringt der gleichgewichtete Welt­index?](https://www.test.de/Aktien-ETF-mit-geringerem-US-Anteil-Das-bringt-der-gleichgewichtete-Weltindex-6173772-0/ "Aktien-ETF mit geringerem US-Anteil - Was bringt der gleichgewichtete Weltindex?")
 
 Stiftung Warentest
 
