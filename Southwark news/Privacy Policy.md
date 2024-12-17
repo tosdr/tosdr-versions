@@ -375,11 +375,11 @@ Website
 
 [15th December 2024](https://southwarknews.co.uk/area/borough/disabled-woman-has-not-left-borough-flat-in-two-years-as-fourteen-steps-separate-her-from-freedom/)
 
-[![Neil Harris applauds supporters after his side beat Swansea City. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/N-Harris-25425727-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/neil-harris-addresses-lions-fans-as-he-explains-decision-to-leave-millwall-for-second-time/)
+[![Neil Harris speaks to Romain Ese. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/11/b32c7390-96d5-11ef-a0ae-55537b2d2117-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/news-at-den-plus/millwalls-head-coach-search-clean-slate-out-of-contract-players-esse-and-was-harris-making-point-not-starting-club-signing/)
 
-### [Neil Harris addresses Lions fans as he explains decision to leave Millwall for second time](https://southwarknews.co.uk/sport/football/millwall/neil-harris-addresses-lions-fans-as-he-explains-decision-to-leave-millwall-for-second-time/)
+### [Millwall’s head coach search: clean slate, out-of-contract players, Esse – and was Harris making point not starting ‘club’ signing?](https://southwarknews.co.uk/sport/football/millwall/news-at-den-plus/millwalls-head-coach-search-clean-slate-out-of-contract-players-esse-and-was-harris-making-point-not-starting-club-signing/)
 
-[10th December 2024](https://southwarknews.co.uk/sport/football/millwall/neil-harris-addresses-lions-fans-as-he-explains-decision-to-leave-millwall-for-second-time/)
+[13th December 2024](https://southwarknews.co.uk/sport/football/millwall/news-at-den-plus/millwalls-head-coach-search-clean-slate-out-of-contract-players-esse-and-was-harris-making-point-not-starting-club-signing/)
 
 ### Featured Articles
 
