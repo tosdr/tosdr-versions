@@ -378,9 +378,9 @@ A Cambium Learning® Group Brand
     
 * [Why Lexia](https://www.lexialearning.com/why-lexia/) Toggle Navigation
     
+    * [Overview](https://www.lexialearning.com/why-lexia/)
     * [Our Approach](https://www.lexialearning.com/why-lexia/our-approach)
     * [Customer Success](https://www.lexialearning.com/why-lexia/customer-success)
-    * [Overview](https://www.lexialearning.com/why-lexia/)
     * [Case Studies](https://www.lexialearning.com/why-lexia/case-studies)
     * [Awards](https://www.lexialearning.com/why-lexia/awards)
     * [The Future of Literacy](https://www.lexialearning.com/why-lexia/the-future-of-literacy)
