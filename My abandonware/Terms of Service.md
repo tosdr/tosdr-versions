@@ -118,9 +118,9 @@ Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/mya
 
 Screenshots needed
 
-* [Lissy: 50 Pferde-Spiele](https://www.myabandonware.com/game/lissy-50-pferde-spiele-stp)
-* [Hisō Kihei X-Serd](https://www.myabandonware.com/game/hiso-kihei-x-serd-kqj)
-* [Indoor Football](https://www.myabandonware.com/game/indoor-football-oni)
+* [Hydra](https://www.myabandonware.com/game/hydra-mz3)
+* [Kick Off 2: Winning Tactics](https://www.myabandonware.com/game/kick-off-2-winning-tactics-7cr)
+* [Sweep!](https://www.myabandonware.com/game/sweep-o5s)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
