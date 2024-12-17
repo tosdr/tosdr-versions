@@ -1,11 +1,10 @@
-[Skip to content](#fl-main-content)
-
-[![TWDC walking Mickey logo horizontal](https://disneytermsofuse.com/app/uploads/2013/06/TWDC-Logo-WM-Color.png "TWDC-Logo-WM-Color")](https://disneytermsofuse.com/)
+[![](https://disneytermsofuse.com/app/uploads/2024/12/TWDC-Logo-WM-Color-1024x262-1.png)](https://disneytermsofuse.com/)
 
 TERMS OF USE
+------------
 
 English – Disney Terms of Use – United States
-=============================================
+---------------------------------------------
 
 **Terms of Use – United States**
 
@@ -258,5 +257,5 @@ E. Waiver. No waiver of any provision of this Agreement by us shall be deemed a 
 * [Privacy Policy](https://privacy.thewaltdisneycompany.com/)
 * [Your US State Privacy Rights](https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/your-us-state-privacy-rights)
 * [Children’s Online Privacy Policy](https://privacy.thewaltdisneycompany.com/for-parents/childrens-online-privacy-policy/)
-* [Interest-Based Ads](https://preferences-mgr.truste.com/?type=disneycolor&affiliateId=115)
+* [Interest-Based Ads](https://preferences-mgr.truste.com/?type=disneycoloru0026affiliateId=115)
 * [Do Not Sell or Share My Personal Information](https://privacyportal-de.onetrust.com/webform/64f077b5-2f93-429f-a005-c0206ec0738e/0a4f1f0b-7130-421f-971d-ef578c0bce6d)
