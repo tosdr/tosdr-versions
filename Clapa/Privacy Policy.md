@@ -305,6 +305,8 @@ Comments are closed.
 * [](https://www.facebook.com/clapacommunity)
 * [✉](https://www.clapa.com/contact-us)
 
+CLAPA will be closed for the holidays from 23rd December until 2nd January. Please order your feeding equipment by midday on Thursday 19th December to make sure it's sent out before Christmas. [Dismiss](#)
+
 ### Site navigation
 
 * [What is Cleft Lip & Palate?](https://www.clapa.com/what-is-cleft-lip-palate/)
