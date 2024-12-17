@@ -2,10 +2,10 @@ To add your instance below please open an issue on [the documentation repository
 
 | [name](https://invidious.tiekoetter.com/?sort_by=name) | [version](https://invidious.tiekoetter.com/?sort_by=version) | [type](https://invidious.tiekoetter.com/?sort_by=type) | [users](https://invidious.tiekoetter.com/?sort_by=users) | [signup](https://invidious.tiekoetter.com/?sort_by=signup) | [location](https://invidious.tiekoetter.com/?sort_by=location) | [healthUptime / Downtime displayed in percentage](https://invidious.tiekoetter.com/?sort_by=health) | [cors](https://invidious.tiekoetter.com/?sort_by=cors) | [api](https://invidious.tiekoetter.com/?sort_by=api) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [inv.nadeko.net](https://inv.nadeko.net/) | 2024.12.15-336b590 | https | 10561 | ❌   | 🇨🇱 CL | [99.315](https://updown.io/ozfh) | ❌   | ✔   |
-| [invidious.nerdvpn.de](https://invidious.nerdvpn.de/) | 2024.11.12-98926047 | https | 4475 | ✔   | 🇺🇦 UA | [98.616](https://updown.io/oo85) | ❌   | ❌   |
-| [yewtu.be](https://yewtu.be/) | 2024.12.16-db29760 | https | 1   | ❌   | 🇩🇪 DE | [99.873](https://updown.io/0h16) | ❌   | ❌   |
-| [invidious.jing.rocks](https://invidious.jing.rocks/) | \-  | https | \-  | \-  | 🇯🇵 JP | [92.677](https://updown.io/cfds) | \-  | \-  |
+| [inv.nadeko.net](https://inv.nadeko.net/) | 2024.12.15-336b590 | https | 10560 | ❌   | 🇨🇱 CL | [99.315](https://updown.io/ozfh) | ❌   | ✔   |
+| [invidious.nerdvpn.de](https://invidious.nerdvpn.de/) | 2024.11.12-98926047 | https | 4475 | ✔   | 🇺🇦 UA | [97.783](https://updown.io/oo85) | ❌   | ❌   |
+| [yewtu.be](https://yewtu.be/) | 2024.12.17-f5459c7 | https | 1   | ❌   | 🇩🇪 DE | [99.873](https://updown.io/0h16) | ❌   | ❌   |
+| [invidious.jing.rocks](https://invidious.jing.rocks/) | \-  | https | \-  | \-  | 🇯🇵 JP | [91.844](https://updown.io/cfds) | \-  | \-  |
 | [zzlsbhhfvwg3...q.b32.i2p](http://zzlsbhhfvwg3oh36tcvx4r7n6jrw7zibvyvfxqlodcwn3mfrvzuq.b32.i2p/) | \-  | i2p | \-  | \-  | 🇨🇱 CL | [\-](https://updown.io/p/resvf) | \-  | \-  |
 | [inv.nadekonw...vyd.onion](http://inv.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion/) | \-  | onion | \-  | \-  | 🇨🇱 CL | [\-](https://updown.io/p/resvf) | \-  | \-  |
 
