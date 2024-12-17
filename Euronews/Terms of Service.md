@@ -17,54 +17,54 @@
     
     * [Russia](https://www.euronews.com/tag/russia)
     * [France](https://www.euronews.com/tag/france)
-    * [Russia's invasion of Ukraine](https://www.euronews.com/tag/russia-ukraine-invasion)
     * [European Union](https://www.euronews.com/tag/european-union)
-    * [Mayotte](https://www.euronews.com/tag/mayotte)
-    * [Cyclone](https://www.euronews.com/tag/cyclone)
+    * [Donald Trump](https://www.euronews.com/tag/donald-trump)
+    * [European Commission](https://www.euronews.com/tag/eu-commission)
+    * [Germany](https://www.euronews.com/tag/germany)
     
     * * *
     
     Latest stories
     
-    [![European Commission President Ursula von der Leyen, at the European Parliament in Strasbourg, France, Wednesday, Nov. 27, 2024. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "European Commission President Ursula von der Leyen, at the European Parliament in Strasbourg, France, Wednesday, Nov. 27, 2024. ")
+    [![France's newly appointed Prime Minister Francois Bayrou and outgoing Prime minister Michel Barnier speak at Matignon, Paris. 13 December, 2024.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "France's newly appointed Prime Minister Francois Bayrou and outgoing Prime minister Michel Barnier speak at Matignon, Paris. 13 December, 2024.")
     
-    ![European Commission President Ursula von der Leyen, at the European Parliament in Strasbourg, France, Wednesday, Nov. 27, 2024. ](https://static.euronews.com/articles/stories/08/91/09/70/368x207_cmsv2_234c01cd-5f27-5b3e-954f-0b80cf01da12-8910970.jpg "European Commission President Ursula von der Leyen, at the European Parliament in Strasbourg, France, Wednesday, Nov. 27, 2024. ")](https://www.euronews.com/my-europe/2024/12/17/tiktok-disinformation-falsely-accuses-von-der-leyen-of-cancelling-romanias-presidential-ru)
-    
-    Now playing Next
-    
-    [EuroVerify](https://www.euronews.com/my-europe/my-europe-series/euro-verify)
-    
-    ### [Disinformation falsely claims von der Leyen cancelled Romania election](https://www.euronews.com/my-europe/2024/12/17/tiktok-disinformation-falsely-accuses-von-der-leyen-of-cancelling-romanias-presidential-ru)
-    
-    [![Brazil court orders Adele song to be removed from streaming over plagiarism claim ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Brazil court orders Adele song to be removed from streaming over plagiarism claim ")
-    
-    ![Brazil court orders Adele song to be removed from streaming over plagiarism claim ](https://static.euronews.com/articles/stories/08/91/59/92/368x207_cmsv2_e9826584-4d90-53b8-afa8-27d124a337b1-8915992.jpg "Brazil court orders Adele song to be removed from streaming over plagiarism claim ")](https://www.euronews.com/culture/2024/12/17/brazil-court-orders-adele-song-to-be-removed-from-streaming-over-plagiarism-claim)
+    ![France's newly appointed Prime Minister Francois Bayrou and outgoing Prime minister Michel Barnier speak at Matignon, Paris. 13 December, 2024.](https://static.euronews.com/articles/stories/08/91/65/44/368x207_cmsv2_6cd1cfa2-89c0-5e5a-b364-a0a80e121aca-8916544.jpg "France's newly appointed Prime Minister Francois Bayrou and outgoing Prime minister Michel Barnier speak at Matignon, Paris. 13 December, 2024.")](https://www.euronews.com/business/2024/12/17/french-central-bank-lowers-2025-growth-forecast-after-tumultuous-year)
     
     Now playing Next
     
-    [Culture news](https://www.euronews.com/culture/culture-news)
+    [Economy](https://www.euronews.com/business/economy)
     
-    ### [Brazil court orders Adele song to be removed from global streaming](https://www.euronews.com/culture/2024/12/17/brazil-court-orders-adele-song-to-be-removed-from-streaming-over-plagiarism-claim)
+    ### [French central bank lowers 2025 growth forecast after tumultuous year](https://www.euronews.com/business/2024/12/17/french-central-bank-lowers-2025-growth-forecast-after-tumultuous-year)
     
-    [![Servicemen of the 24th Mechanised Brigade fire a 2s1 self-propelled 122mm howitzer towards Russian positions near Chasiv Yar town, in Donetsk region, Ukraine, 13/11/24.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Servicemen of the 24th Mechanised Brigade fire a 2s1 self-propelled 122mm howitzer towards Russian positions near Chasiv Yar town, in Donetsk region, Ukraine, 13/11/24.")
+    [![Rescuers clean the coast after oil stains from two Russian tankers washed ashore in the Krasnodar region in Russia, 17 December, 2024.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Rescuers clean the coast after oil stains from two Russian tankers washed ashore in the Krasnodar region in Russia, 17 December, 2024.")
     
-    ![Servicemen of the 24th Mechanised Brigade fire a 2s1 self-propelled 122mm howitzer towards Russian positions near Chasiv Yar town, in Donetsk region, Ukraine, 13/11/24.](https://static.euronews.com/articles/stories/08/91/50/48/368x207_cmsv2_8d0744eb-637e-5ea9-8ffd-ccbc24961d1c-8915048.jpg "Servicemen of the 24th Mechanised Brigade fire a 2s1 self-propelled 122mm howitzer towards Russian positions near Chasiv Yar town, in Donetsk region, Ukraine, 13/11/24.")](https://www.euronews.com/my-europe/2024/12/17/they-can-just-take-you-ukrainian-soldier-faces-redeployment-to-frontlines-as-russians-adva)
+    ![Rescuers clean the coast after oil stains from two Russian tankers washed ashore in the Krasnodar region in Russia, 17 December, 2024.](https://static.euronews.com/articles/stories/08/91/61/96/368x207_cmsv2_04ccfacd-5430-543e-8b6c-5cb194ae749b-8916196.jpg "Rescuers clean the coast after oil stains from two Russian tankers washed ashore in the Krasnodar region in Russia, 17 December, 2024.")](https://www.euronews.com/2024/12/17/oil-stains-wash-ashore-after-storm-damages-russian-oil-tankers)
     
     Now playing Next
     
-    [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
+    [Russia](https://www.euronews.com/news/europe/russia)
     
-    ### [Ukrainian soldier faces redeployment to frontlines as Russians advance](https://www.euronews.com/my-europe/2024/12/17/they-can-just-take-you-ukrainian-soldier-faces-redeployment-to-frontlines-as-russians-adva)
+    ### [Oil stains wash ashore after storm damages Russian oil tankers](https://www.euronews.com/2024/12/17/oil-stains-wash-ashore-after-storm-damages-russian-oil-tankers)
     
-    [![Denys Khrystov, Ukrainian volunteer ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Denys Khrystov, Ukrainian volunteer ")
+    [![Portugal's Teresa Anjinho addresses MEPs in a 3 December hearing](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Portugal's Teresa Anjinho addresses MEPs in a 3 December hearing")
     
-    ![Denys Khrystov, Ukrainian volunteer ](https://static.euronews.com/articles/stories/08/91/48/98/368x207_cmsv2_b7353ab4-f510-5c2a-9cfd-d44260f7ae10-8914898.jpg "Denys Khrystov, Ukrainian volunteer ")](https://www.euronews.com/my-europe/2024/12/17/last-chance-the-story-of-harrowing-evacuations-of-ukrainian-civilians)
+    ![Portugal's Teresa Anjinho addresses MEPs in a 3 December hearing](https://static.euronews.com/articles/stories/08/91/61/48/368x207_cmsv2_267d4b82-5e18-576a-9177-563a3e82ee28-8916148.jpg "Portugal's Teresa Anjinho addresses MEPs in a 3 December hearing")](https://www.euronews.com/my-europe/2024/12/17/ex-portuguese-justice-minister-anjinho-elected-to-be-eu-ombudsman)
     
     Now playing Next
     
     [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
     
-    ### [Last chance: The story of harrowing evacuations of Ukraine's civilians](https://www.euronews.com/my-europe/2024/12/17/last-chance-the-story-of-harrowing-evacuations-of-ukrainian-civilians)
+    ### [Ex-Portuguese Justice Minister Anjinho elected EU ombudsman](https://www.euronews.com/my-europe/2024/12/17/ex-portuguese-justice-minister-anjinho-elected-to-be-eu-ombudsman)
+    
+    [![epublican presidential candidate former President Donald Trump speaks at the Bitcoin 2024 Conference Saturday, July 27, 2024, in Nashville, Tenn. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "epublican presidential candidate former President Donald Trump speaks at the Bitcoin 2024 Conference Saturday, July 27, 2024, in Nashville, Tenn. ")
+    
+    ![epublican presidential candidate former President Donald Trump speaks at the Bitcoin 2024 Conference Saturday, July 27, 2024, in Nashville, Tenn. ](https://static.euronews.com/articles/stories/08/83/47/38/368x207_cmsv2_0743b145-e464-5f75-97dc-c55021dc5a6d-8834738.jpg "epublican presidential candidate former President Donald Trump speaks at the Bitcoin 2024 Conference Saturday, July 27, 2024, in Nashville, Tenn. ")](https://www.euronews.com/business/2024/12/17/bitcoin-reaches-yet-another-all-time-high-what-is-behind-the-rally)
+    
+    Now playing Next
+    
+    [Markets](https://www.euronews.com/business/markets)
+    
+    ### [Bitcoin hits another all-time high – what's behind the crypto rally?](https://www.euronews.com/business/2024/12/17/bitcoin-reaches-yet-another-all-time-high-what-is-behind-the-rally)
     
 * [Europe](https://www.euronews.com/my-europe)
     
@@ -318,6 +318,7 @@ Special coverage
 
 * [Climate](https://www.euronews.com/special/climate)
 * [Depth of Field](https://www.euronews.com/special/depth-of-field)
+* [Kazakhstan](https://www.euronews.com/special/kazakhstan)
 * [The New Uzbekistan](https://www.euronews.com/special/a-new-uzbekistan)
 * [Azerbaijan Diary](https://www.euronews.com/special/azerbaijan-diary)
 * [Discover Algeria](https://www.euronews.com/special/discover-algeria)
@@ -333,16 +334,16 @@ Partner content
 
 * [Better Connected](https://www.euronews.com/partnercontent/hitachi/better-connected/EN-index.html)
 * [Classic Piano Competition](https://www.euronews.com/partnercontent/cmdi/classic-piano-competition-2024/EN-index.html)
-* [Digital Garden City Nation](https://www.euronews.com/partnercontent/world/pmo-japan/)
+* [Powering Progress](https://www.euronews.com/partnercontent/iberdrola/renewables/EN-index.html)
 * [Experience Brazil](https://www.euronews.com/partnercontent/embratur/experience-brazil/EN-index.html)
 * [Galaxy Brain Investor](https://www.euronews.com/partnercontent/capital/galaxy-brain-investor/EN-index.html)
 * [Kerala Tourism](https://www.euronews.com/partnercontent/travel/kerala-tourism/)
 * [My Tokyo](https://www.euronews.com/partnercontent/tcvb/my-tokyo/EN-index.html)
-* [Powering Progress](https://www.euronews.com/partnercontent/iberdrola/renewables/EN-index.html)
+* [Digital Garden City Nation](https://www.euronews.com/partnercontent/world/pmo-japan/)
 * [Securing the future](https://www.euronews.com/partnercontent/intel/securing-the-future/EN-index.html)
 * [Sparkle](https://www.euronews.com/partnercontent/sparkle/your-world-connected/EN-index.html)
-* [Turkmenistan – Our story](https://www.euronews.com/partnercontent/turkmenistan/our-story/EN-index.html)
 * [Wine of Moldova](https://www.euronews.com/partnercontent/moldova/wine-of-moldova/EN-index.html)
+* [Turkmenistan – Our story](https://www.euronews.com/partnercontent/turkmenistan/our-story/EN-index.html)
 
 * * *
 
@@ -365,60 +366,60 @@ Trending
 
 * [Russia](https://www.euronews.com/tag/russia)
 * [France](https://www.euronews.com/tag/france)
-* [Russia's invasion of Ukraine](https://www.euronews.com/tag/russia-ukraine-invasion)
 * [European Union](https://www.euronews.com/tag/european-union)
-* [Mayotte](https://www.euronews.com/tag/mayotte)
-* [Cyclone](https://www.euronews.com/tag/cyclone)
+* [Donald Trump](https://www.euronews.com/tag/donald-trump)
+* [European Commission](https://www.euronews.com/tag/eu-commission)
+* [Germany](https://www.euronews.com/tag/germany)
 
 * * *
 
 Latest stories
 
-[![European Commission President Ursula von der Leyen, at the European Parliament in Strasbourg, France, Wednesday, Nov. 27, 2024. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "European Commission President Ursula von der Leyen, at the European Parliament in Strasbourg, France, Wednesday, Nov. 27, 2024. ")
+[![France's newly appointed Prime Minister Francois Bayrou and outgoing Prime minister Michel Barnier speak at Matignon, Paris. 13 December, 2024.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "France's newly appointed Prime Minister Francois Bayrou and outgoing Prime minister Michel Barnier speak at Matignon, Paris. 13 December, 2024.")
 
-![European Commission President Ursula von der Leyen, at the European Parliament in Strasbourg, France, Wednesday, Nov. 27, 2024. ](https://static.euronews.com/articles/stories/08/91/09/70/368x207_cmsv2_234c01cd-5f27-5b3e-954f-0b80cf01da12-8910970.jpg "European Commission President Ursula von der Leyen, at the European Parliament in Strasbourg, France, Wednesday, Nov. 27, 2024. ")](https://www.euronews.com/my-europe/2024/12/17/tiktok-disinformation-falsely-accuses-von-der-leyen-of-cancelling-romanias-presidential-ru)
-
-Now playing Next
-
-[EuroVerify](https://www.euronews.com/my-europe/my-europe-series/euro-verify)
-
-### [Disinformation falsely claims von der Leyen cancelled Romania election](https://www.euronews.com/my-europe/2024/12/17/tiktok-disinformation-falsely-accuses-von-der-leyen-of-cancelling-romanias-presidential-ru)
-
-* * *
-
-[![Brazil court orders Adele song to be removed from streaming over plagiarism claim ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Brazil court orders Adele song to be removed from streaming over plagiarism claim ")
-
-![Brazil court orders Adele song to be removed from streaming over plagiarism claim ](https://static.euronews.com/articles/stories/08/91/59/92/368x207_cmsv2_e9826584-4d90-53b8-afa8-27d124a337b1-8915992.jpg "Brazil court orders Adele song to be removed from streaming over plagiarism claim ")](https://www.euronews.com/culture/2024/12/17/brazil-court-orders-adele-song-to-be-removed-from-streaming-over-plagiarism-claim)
+![France's newly appointed Prime Minister Francois Bayrou and outgoing Prime minister Michel Barnier speak at Matignon, Paris. 13 December, 2024.](https://static.euronews.com/articles/stories/08/91/65/44/368x207_cmsv2_6cd1cfa2-89c0-5e5a-b364-a0a80e121aca-8916544.jpg "France's newly appointed Prime Minister Francois Bayrou and outgoing Prime minister Michel Barnier speak at Matignon, Paris. 13 December, 2024.")](https://www.euronews.com/business/2024/12/17/french-central-bank-lowers-2025-growth-forecast-after-tumultuous-year)
 
 Now playing Next
 
-[Culture news](https://www.euronews.com/culture/culture-news)
+[Economy](https://www.euronews.com/business/economy)
 
-### [Brazil court orders Adele song to be removed from global streaming](https://www.euronews.com/culture/2024/12/17/brazil-court-orders-adele-song-to-be-removed-from-streaming-over-plagiarism-claim)
+### [French central bank lowers 2025 growth forecast after tumultuous year](https://www.euronews.com/business/2024/12/17/french-central-bank-lowers-2025-growth-forecast-after-tumultuous-year)
 
 * * *
 
-[![Servicemen of the 24th Mechanised Brigade fire a 2s1 self-propelled 122mm howitzer towards Russian positions near Chasiv Yar town, in Donetsk region, Ukraine, 13/11/24.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Servicemen of the 24th Mechanised Brigade fire a 2s1 self-propelled 122mm howitzer towards Russian positions near Chasiv Yar town, in Donetsk region, Ukraine, 13/11/24.")
+[![Rescuers clean the coast after oil stains from two Russian tankers washed ashore in the Krasnodar region in Russia, 17 December, 2024.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Rescuers clean the coast after oil stains from two Russian tankers washed ashore in the Krasnodar region in Russia, 17 December, 2024.")
 
-![Servicemen of the 24th Mechanised Brigade fire a 2s1 self-propelled 122mm howitzer towards Russian positions near Chasiv Yar town, in Donetsk region, Ukraine, 13/11/24.](https://static.euronews.com/articles/stories/08/91/50/48/368x207_cmsv2_8d0744eb-637e-5ea9-8ffd-ccbc24961d1c-8915048.jpg "Servicemen of the 24th Mechanised Brigade fire a 2s1 self-propelled 122mm howitzer towards Russian positions near Chasiv Yar town, in Donetsk region, Ukraine, 13/11/24.")](https://www.euronews.com/my-europe/2024/12/17/they-can-just-take-you-ukrainian-soldier-faces-redeployment-to-frontlines-as-russians-adva)
+![Rescuers clean the coast after oil stains from two Russian tankers washed ashore in the Krasnodar region in Russia, 17 December, 2024.](https://static.euronews.com/articles/stories/08/91/61/96/368x207_cmsv2_04ccfacd-5430-543e-8b6c-5cb194ae749b-8916196.jpg "Rescuers clean the coast after oil stains from two Russian tankers washed ashore in the Krasnodar region in Russia, 17 December, 2024.")](https://www.euronews.com/2024/12/17/oil-stains-wash-ashore-after-storm-damages-russian-oil-tankers)
+
+Now playing Next
+
+[Russia](https://www.euronews.com/news/europe/russia)
+
+### [Oil stains wash ashore after storm damages Russian oil tankers](https://www.euronews.com/2024/12/17/oil-stains-wash-ashore-after-storm-damages-russian-oil-tankers)
+
+* * *
+
+[![Portugal's Teresa Anjinho addresses MEPs in a 3 December hearing](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Portugal's Teresa Anjinho addresses MEPs in a 3 December hearing")
+
+![Portugal's Teresa Anjinho addresses MEPs in a 3 December hearing](https://static.euronews.com/articles/stories/08/91/61/48/368x207_cmsv2_267d4b82-5e18-576a-9177-563a3e82ee28-8916148.jpg "Portugal's Teresa Anjinho addresses MEPs in a 3 December hearing")](https://www.euronews.com/my-europe/2024/12/17/ex-portuguese-justice-minister-anjinho-elected-to-be-eu-ombudsman)
 
 Now playing Next
 
 [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
 
-### [Ukrainian soldier faces redeployment to frontlines as Russians advance](https://www.euronews.com/my-europe/2024/12/17/they-can-just-take-you-ukrainian-soldier-faces-redeployment-to-frontlines-as-russians-adva)
+### [Ex-Portuguese Justice Minister Anjinho elected EU ombudsman](https://www.euronews.com/my-europe/2024/12/17/ex-portuguese-justice-minister-anjinho-elected-to-be-eu-ombudsman)
 
 * * *
 
-[![Denys Khrystov, Ukrainian volunteer ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Denys Khrystov, Ukrainian volunteer ")
+[![epublican presidential candidate former President Donald Trump speaks at the Bitcoin 2024 Conference Saturday, July 27, 2024, in Nashville, Tenn. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "epublican presidential candidate former President Donald Trump speaks at the Bitcoin 2024 Conference Saturday, July 27, 2024, in Nashville, Tenn. ")
 
-![Denys Khrystov, Ukrainian volunteer ](https://static.euronews.com/articles/stories/08/91/48/98/368x207_cmsv2_b7353ab4-f510-5c2a-9cfd-d44260f7ae10-8914898.jpg "Denys Khrystov, Ukrainian volunteer ")](https://www.euronews.com/my-europe/2024/12/17/last-chance-the-story-of-harrowing-evacuations-of-ukrainian-civilians)
+![epublican presidential candidate former President Donald Trump speaks at the Bitcoin 2024 Conference Saturday, July 27, 2024, in Nashville, Tenn. ](https://static.euronews.com/articles/stories/08/83/47/38/368x207_cmsv2_0743b145-e464-5f75-97dc-c55021dc5a6d-8834738.jpg "epublican presidential candidate former President Donald Trump speaks at the Bitcoin 2024 Conference Saturday, July 27, 2024, in Nashville, Tenn. ")](https://www.euronews.com/business/2024/12/17/bitcoin-reaches-yet-another-all-time-high-what-is-behind-the-rally)
 
 Now playing Next
 
-[Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
+[Markets](https://www.euronews.com/business/markets)
 
-### [Last chance: The story of harrowing evacuations of Ukraine's civilians](https://www.euronews.com/my-europe/2024/12/17/last-chance-the-story-of-harrowing-evacuations-of-ukrainian-civilians)
+### [Bitcoin hits another all-time high – what's behind the crypto rally?](https://www.euronews.com/business/2024/12/17/bitcoin-reaches-yet-another-all-time-high-what-is-behind-the-rally)
 
 [Europe](https://www.euronews.com/my-europe)
 
@@ -674,6 +675,7 @@ Special coverage
 
 * [Climate](https://www.euronews.com/special/climate)
 * [Depth of Field](https://www.euronews.com/special/depth-of-field)
+* [Kazakhstan](https://www.euronews.com/special/kazakhstan)
 * [The New Uzbekistan](https://www.euronews.com/special/a-new-uzbekistan)
 * [Azerbaijan Diary](https://www.euronews.com/special/azerbaijan-diary)
 * [Discover Algeria](https://www.euronews.com/special/discover-algeria)
@@ -689,16 +691,16 @@ Partner content
 
 * [Better Connected](https://www.euronews.com/partnercontent/hitachi/better-connected/EN-index.html)
 * [Classic Piano Competition](https://www.euronews.com/partnercontent/cmdi/classic-piano-competition-2024/EN-index.html)
-* [Digital Garden City Nation](https://www.euronews.com/partnercontent/world/pmo-japan/)
+* [Powering Progress](https://www.euronews.com/partnercontent/iberdrola/renewables/EN-index.html)
 * [Experience Brazil](https://www.euronews.com/partnercontent/embratur/experience-brazil/EN-index.html)
 * [Galaxy Brain Investor](https://www.euronews.com/partnercontent/capital/galaxy-brain-investor/EN-index.html)
 * [Kerala Tourism](https://www.euronews.com/partnercontent/travel/kerala-tourism/)
 * [My Tokyo](https://www.euronews.com/partnercontent/tcvb/my-tokyo/EN-index.html)
-* [Powering Progress](https://www.euronews.com/partnercontent/iberdrola/renewables/EN-index.html)
+* [Digital Garden City Nation](https://www.euronews.com/partnercontent/world/pmo-japan/)
 * [Securing the future](https://www.euronews.com/partnercontent/intel/securing-the-future/EN-index.html)
 * [Sparkle](https://www.euronews.com/partnercontent/sparkle/your-world-connected/EN-index.html)
-* [Turkmenistan – Our story](https://www.euronews.com/partnercontent/turkmenistan/our-story/EN-index.html)
 * [Wine of Moldova](https://www.euronews.com/partnercontent/moldova/wine-of-moldova/EN-index.html)
+* [Turkmenistan – Our story](https://www.euronews.com/partnercontent/turkmenistan/our-story/EN-index.html)
 
 * * *
 
