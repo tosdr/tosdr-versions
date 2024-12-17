@@ -2,9 +2,9 @@
 
 [Skip to main content](#maincontent) [Skip to footer content](#footercontent)
 
-[Days to Christmas
+[Guaranteed Christmas Delivery
 
-Last Days to Ship — Learn More](https://www.horizonhobby.com/shipping-billing-returns-info.html?cp_source=global&cp_medium=tippy-top)
+Ground Ship Cutoff – Wednesday 12/18 @ 12PM CST](https://www.horizonhobby.com/shipping-billing-returns-info.html?cp_source=global&cp_medium=tippy-top)
 
 [Last Minute Deals Ending Soon](https://www.horizonhobby.com/horizon-hobby-rc-sale/last-minute-deals/?cp_source=global&cp_medium=tippy-top)
 
@@ -12,9 +12,9 @@ Last Days to Ship — Learn More](https://www.horizonhobby.com/shipping-billing-
 
 Find The Perfect RC Gift](https://www.horizonhobby.com/holiday-headquarters/?cp_source=global&cp_medium=tippy-top)
 
-[Days to Christmas
+[Guaranteed Christmas Delivery
 
-Last Days to Ship — Learn More](https://www.horizonhobby.com/shipping-billing-returns-info.html?cp_source=global&cp_medium=tippy-top)
+Ground Ship Cutoff – Wednesday 12/18 @ 12PM CST](https://www.horizonhobby.com/shipping-billing-returns-info.html?cp_source=global&cp_medium=tippy-top)
 
 [Last Minute Deals Ending Soon](https://www.horizonhobby.com/horizon-hobby-rc-sale/last-minute-deals/?cp_source=global&cp_medium=tippy-top)
 
@@ -104,9 +104,9 @@ My store
 
 [](#)
 
-[Days to Christmas
+[Guaranteed Christmas Delivery
 
-Last Days to Ship — Learn More](https://www.horizonhobby.com/shipping-billing-returns-info.html?cp_source=global&cp_medium=tippy-top)
+Ground Ship Cutoff – Wednesday 12/18 @ 12PM CST](https://www.horizonhobby.com/shipping-billing-returns-info.html?cp_source=global&cp_medium=tippy-top)
 
 [Last Minute Deals Ending Soon](https://www.horizonhobby.com/horizon-hobby-rc-sale/last-minute-deals/?cp_source=global&cp_medium=tippy-top)
 
@@ -114,9 +114,9 @@ Last Days to Ship — Learn More](https://www.horizonhobby.com/shipping-billing-
 
 Find The Perfect RC Gift](https://www.horizonhobby.com/holiday-headquarters/?cp_source=global&cp_medium=tippy-top)
 
-[Days to Christmas
+[Guaranteed Christmas Delivery
 
-Last Days to Ship — Learn More](https://www.horizonhobby.com/shipping-billing-returns-info.html?cp_source=global&cp_medium=tippy-top)
+Ground Ship Cutoff – Wednesday 12/18 @ 12PM CST](https://www.horizonhobby.com/shipping-billing-returns-info.html?cp_source=global&cp_medium=tippy-top)
 
 [Last Minute Deals Ending Soon](https://www.horizonhobby.com/horizon-hobby-rc-sale/last-minute-deals/?cp_source=global&cp_medium=tippy-top)
 
@@ -223,7 +223,7 @@ My store
             * [Biplanes](https://www.horizonhobby.com/airplanes/by-type/biplanes/)
             * [Float Planes](https://www.horizonhobby.com/airplanes/by-type/float-planes/)
             * [Multi-Engine](https://www.horizonhobby.com/airplanes/by-type/multi-engine/)
-            * [Sailplanes](https://www.horizonhobby.com/airplanes/by-type/sailplanes/)
+            * [Sailplanes](https://www.horizonhobby.com/airplanes/by-type/rc-gliders-and-sailplanes/)
             * [STOL](https://www.horizonhobby.com/airplanes/by-type/stol/)
             * [Free Flight](https://www.horizonhobby.com/airplanes/by-type/free-flight/)
             * [View All](https://www.horizonhobby.com/airplanes/by-type/)
