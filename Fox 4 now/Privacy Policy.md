@@ -103,8 +103,6 @@ Search site  Go
 * [Careers Search](https://scripps.wd5.myworkdayjobs.com/Scripps_Careers)
     
 
-[Charlotte Co. deputy killed in traffic stop; sheriff mourns 'friend.. great cop'](https://www.fox4now.com/charlotte-county/breaking-deputies-swarm-gas-station-at-sunseeker-2nd-scene-41-bridge-closed)
-
 Privacy Policy
 ==============
 
