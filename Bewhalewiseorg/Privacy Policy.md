@@ -30,7 +30,7 @@ Give whales space._
     * [Know The Flags](https://www.bewhalewise.org/know-the-flags/)
     * [Know The Zones](https://www.bewhalewise.org/know-the-zones/)
 * Resources
-    * [Get a Whale Warning Flag](https://www.bewhalewise.org/get-a-whale-warning-flag/)
+    * [Get a Whale Warning Flag](https://www.bewhalewise.org/?page_id=4045)
     * [Marine Mammal Sightings](https://www.bewhalewise.org/marine-mammal-sightings/)
     * [Outreach Toolkit](https://www.bewhalewise.org/outreach-toolkit/)
     * [Land-Based Viewing](https://www.bewhalewise.org/land-based-viewing/)
@@ -38,7 +38,7 @@ Give whales space._
     * [Partners and Organizations](https://www.bewhalewise.org/partners-and-organizations/)
     * [Latest News](https://www.bewhalewise.org/latest-news/)
     * [FAQs](https://www.bewhalewise.org/marine-wildlife-guidelines-2/)
-    * [Downloads](https://www.bewhalewise.org/downloads/)
+    * [Downloads](https://www.bewhalewise.org/?page_id=4000)
 
 Privacy Policy
 ==============
