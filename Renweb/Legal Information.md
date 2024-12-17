@@ -113,6 +113,9 @@ Search
 Terms of Use
 ============
 
+Terms of Use
+============
+
 Please Read Carefully Before Using this Website
 -----------------------------------------------
 
