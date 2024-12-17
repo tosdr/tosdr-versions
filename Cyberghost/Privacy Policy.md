@@ -1,6 +1,6 @@
 [Your IP Your Status](https://www.cyberghostvpn.com/hide-ip "Do you want to hide your IP?")
 
-[![CyberGhost VPN](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/logo-cyberghost.svg?v=137029)](https://www.cyberghostvpn.com/)* * [![](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/globe-lang-v2.svg?v=137029)en](https://www.cyberghostvpn.com/privacypolicy) 
+[![CyberGhost VPN](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/logo-cyberghost.svg?v=13800)](https://www.cyberghostvpn.com/)* * [![](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/globe-lang-v2.svg?v=13800)en](https://www.cyberghostvpn.com/privacypolicy) 
         * [English](https://www.cyberghostvpn.com/privacypolicy)
         * [Čeština](https://www.cyberghostvpn.com/cs/privacypolicy)
         * [Dansk](https://www.cyberghostvpn.com/da/privacypolicy)
@@ -25,7 +25,7 @@
         * [简体中文](https://www.cyberghostvpn.com/zh/privacypolicy)
         * [한국어](https://www.cyberghostvpn.com/ko/privacypolicy)
 
-![Close](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/btn-close.svg?v=137029)
+![Close](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/btn-close.svg?v=13800)
 
 * [What Is VPN](https://www.cyberghostvpn.com/what-is-a-vpn)
     
@@ -63,7 +63,7 @@
 * [Privacy Hub](https://www.cyberghostvpn.com/privacyhub/)
 * [Help](https://support.cyberghostvpn.com/hc/en-us)
 
-* * [![](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/globe-lang-v2.svg?v=137029)en](https://www.cyberghostvpn.com/privacypolicy) 
+* * [![](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/globe-lang-v2.svg?v=13800)en](https://www.cyberghostvpn.com/privacypolicy) 
         * [English](https://www.cyberghostvpn.com/privacypolicy)
         * [Čeština](https://www.cyberghostvpn.com/cs/privacypolicy)
         * [Dansk](https://www.cyberghostvpn.com/da/privacypolicy)
@@ -92,7 +92,7 @@
 * [Get OFF](https://www.cyberghostvpn.com/buy)
     
 
-![Back](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/btn-right-arrow.svg?v=137029)
+![Back](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/btn-right-arrow.svg?v=13800)
 
 * [What Is VPN](https://www.cyberghostvpn.com/what-is-a-vpn)
     
@@ -342,7 +342,7 @@ We are registered in Romania under registration number J40/1278/2011, and our re
 You can contact us:
 
 * \[by post, using the postal address \[given above\]\];
-* \[via our website contact form \[[https://www.cyberghostvpn.com/en\_US/support/new](https://www.cyberghostvpn.com/en_US/support/new)\]
+* \[via our website contact form \[[https://cyberghostvpnsupport.zendesk.com/hc/en-us/requests/new](https://cyberghostvpnsupport.zendesk.com/hc/en-us/requests/new)\]
 * \[by email, using \[[support@cyberghost.ro](mailto:support@cyberghost.ro)\]\]
 
 ### Data protection officer
@@ -389,7 +389,7 @@ Not 100% satisfied with CyberGhost VPN? Contact us within 45 days of purchase an
 
 Connect with us
 
-[](https://www.facebook.com/cyberghostEN)[](https://twitter.com/cyberghost_EN)[](https://www.instagram.com/cyberghost_private_life/)[](https://www.youtube.com/c/CyberghostvpnOfficial)[](https://www.linkedin.com/company/cyberghost/)[](https://vimeo.com/cyberghost)
+[](https://www.facebook.com/cyberghostEN)[](https://x.com/CyberGhost_EN)[](https://www.instagram.com/cyberghost_private_life/)[](https://www.youtube.com/c/CyberghostvpnOfficial)[](https://www.linkedin.com/company/cyberghost/)[](https://vimeo.com/cyberghost)
 
 © 2024 CyberGhost S.R.L.
 
