@@ -1,9 +1,9 @@
-* [![CookieHub](https://www.cookiehub.com/wp-content/uploads/2023/06/cookiehub-logo.svg)](https://www.cookiehub.com/)
+* [![CookieHub CMP](https://www.cookiehub.com/wp-content/uploads/2023/06/cookiehub-logo.svg)](https://www.cookiehub.com/)
     
 
 * [](https://www.cookiehub.com/)
 
-* [![CookieHub](https://www.cookiehub.com/wp-content/uploads/2023/06/cookiehub-logo.svg)](https://www.cookiehub.com/) [![CookieHub](https://www.cookiehub.com/wp-content/uploads/2023/06/cookiehub-logo.svg)](https://www.cookiehub.com/)
+* [![CookieHub CMP](https://www.cookiehub.com/wp-content/uploads/2023/06/cookiehub-logo.svg)](https://www.cookiehub.com/) [![CookieHub CMP](https://www.cookiehub.com/wp-content/uploads/2023/06/cookiehub-logo.svg)](https://www.cookiehub.com/)
     
 
 * * [Product](https://www.cookiehub.com/product)
@@ -35,7 +35,6 @@
             * [Squarespace](https://docs.cookiehub.com/installation/content-management-systems#squarespace)
             * [and many more…](https://docs.cookiehub.com/installation/content-management-systems)
     * [Pricing](https://www.cookiehub.com/pricing)
-        * [Compare Plans](https://www.cookiehub.com/compare-plans)
     * [Resources](https://docs.cookiehub.com/)
         * [Getting Started](https://docs.cookiehub.com/getting-started)
         * [FAQ’s](https://docs.cookiehub.com/getting-started/faq)
@@ -276,7 +275,6 @@ Sign up today and create a custom cookie banner for your website
         * [Squarespace](https://docs.cookiehub.com/docs/content-management-systems/squarespace/)
         * [and many more…](https://docs.cookiehub.com/docs/content-management-systems/)
 * [Pricing](https://www.cookiehub.com/pricing)
-    * [Compare Plans](https://www.cookiehub.com/compare-plans)
 * [Resources](https://support.cookiehub.com/)
     * [Getting Started](https://support.cookiehub.com/category/18-getting-started)
     * [FAQ’s](https://support.cookiehub.com/category/54-faq)
