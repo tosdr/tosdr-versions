@@ -1284,7 +1284,6 @@ Gå direkt till :
         * [Lediga jobb](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/)[](#)
             * [Biomedicinsk analytiker](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/biomedicinsk-analytiker/)
             * [Jurist](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/jurist/)
-            * [Laboratorieveterinär - intermittent anställning](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/laboratorieveterinar-intermittent-anstallning/)
             * [Säkerhetsspecialist och signalskyddschef](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/sakerhetsspecialist-och-signalskyddschef/)
             * [Vetenskaplig granskare intermittent anställning](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/vetenskaplig-granskare-intermittent-anstallning/)
             * [Säkerhetschef](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/sakerhetschef/)
