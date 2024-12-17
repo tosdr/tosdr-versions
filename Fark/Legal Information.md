@@ -230,11 +230,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-Want to see behind the curtain? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-It's how we feed the squirrel
+More funny for your money.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -334,16 +334,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | ["Political prisoner" freed by CNN reporter on camera was actually Assad's Top Torturer from the Syrian Air Force. In other news, combining torture & flying means Syria has figured out Spirit Air's trade secrets](https://www.fark.com/goto/13495858) ( [dailymail.co.uk](https://www.fark.com/goto/13495858) ) » [(0 comments)](https://www.fark.com/comments/13495858/Political-prisoner-freed-by-CNN-reporter-on-camera-was-actually-Assads-Top-Torturer-from-Syrian-Air-Force-In-other-news-combining-torture-flying-means-Syria-has-figured-out-Spirit-Airs-trade-secrets) |
-| [Discussion](https://www.fark.com/discussion/) | [Monday Premier League has West Ham traveling south to Bournemouth. With a win the Cherries could climb up to fifth, while the Hammers are stuck in a lower mid-table quagmire. On USA at 3:00 pm ET](https://www.fark.com/goto/13495526) ( [premierleague.com](https://www.fark.com/goto/13495526) ) » [(0 comments)](https://www.fark.com/comments/13495526/Monday-Premier-League-has-West-Ham-traveling-south-to-Bournemouth-With-a-win-Cherries-could-climb-up-to-fifth-while-Hammers-are-stuck-in-a-lower-mid-table-quagmire-On-USA-at-300-pm-ET) |
-| [Sports](https://www.fark.com/sports/) | [Monday Premier League has West Ham traveling south to Bournemouth. With a win the Cherries could climb up to fifth, while the Hammers are stuck in a lower mid-table quagmire. On USA at 3:00 pm ET](https://www.fark.com/goto/13495526) ( [premierleague.com](https://www.fark.com/goto/13495526) ) » [(0 comments)](https://www.fark.com/comments/13495526/Monday-Premier-League-has-West-Ham-traveling-south-to-Bournemouth-With-a-win-Cherries-could-climb-up-to-fifth-while-Hammers-are-stuck-in-a-lower-mid-table-quagmire-On-USA-at-300-pm-ET) |
-| [Business](https://www.fark.com/business/) | [She comes in colors everywhere; she's like a rainbow](https://www.fark.com/goto/13495944) ( [the-sun.com](https://www.fark.com/goto/13495944) ) » [(7 comments)](https://www.fark.com/comments/13495944/She-comes-in-colors-everywhere-shes-like-a-rainbow) |
-| [STEM](https://www.fark.com/stem/) | [JWST found the most detailed "baby Milky Way" ever spotted: from 13.2 billion years ago. "Cute" isn't exactly the right description](https://www.fark.com/goto/13495694) ( [bigthink.com](https://www.fark.com/goto/13495694) ) » [(0 comments)](https://www.fark.com/comments/13495694/JWST-found-most-detailed-baby-Milky-Way-ever-spotted-from-132-billion-years-ago-Cute-isnt-exactly-right-description) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Paul McCartney played his greatest song at Manchester concert](https://www.fark.com/goto/13495822) ( [nme.com](https://www.fark.com/goto/13495822) ) » [(9 comments)](https://www.fark.com/comments/13495822/Paul-McCartney-played-his-greatest-song-at-Manchester-concert) |
-| [Fandom](https://www.fark.com/fandom/) | [Silo to empty the grain after season 4](https://www.fark.com/goto/13495762) ( [deadline.com](https://www.fark.com/goto/13495762) ) » [(10 comments)](https://www.fark.com/comments/13495762/Silo-to-empty-grain-after-season-4) |
-| [D'awww](https://www.fark.com/dawww/) | [10 years ago a couple planted 1000 Christmas trees to fund their grandkids' education](https://www.fark.com/goto/13495412) ( [mymodernmet.com](https://www.fark.com/goto/13495412) ) » [(7 comments)](https://www.fark.com/comments/13495412/-10-years-ago-a-couple-planted-1000-Christmas-trees-to-fund-their-grandkids-education) |
-| [Food](https://www.fark.com/food/) | [Bring Your Own .... gravy](https://www.fark.com/goto/13495892) ( [dailymail.co.uk](https://www.fark.com/goto/13495892) ) » [(2 comments)](https://www.fark.com/comments/13495892/Bring-Your-Own-gravy) |
-| [Politics](https://www.fark.com/politics/) | [Just in case you didn't hate United Health Care enough, they want to stop offering coverage to children](https://www.fark.com/goto/13495778) ( [mediaite.com](https://www.fark.com/goto/13495778) ) » [(23 comments)](https://www.fark.com/comments/13495778/Just-in-case-you-didnt-hate-United-Health-Care-enough-they-want-to-stop-offering-coverage-to-children) |
+| [Main](https://www.fark.com/) | [Photoshop these coffee beans](https://www.fark.com/goto/13492722) ( [upload.wikimedia.org](https://www.fark.com/goto/13492722) ) » [(11 comments)](https://www.fark.com/comments/13492722/Photoshop-these-coffee-beans) |
+| [Discussion](https://www.fark.com/discussion/) | [It's a two-for-one deal for Monday Night Football. Do the Chicago Bears have a prayer against the Minnesota Vikings (8:00 PM ET on ABC)? Will it be the Atlanta Falcons or the Las Vegas Raiders winning the other one (8:30 PM on ESPN)? Let's do this](https://www.fark.com/goto/13495384) ( [espn.com](https://www.fark.com/goto/13495384) ) » [(84 comments)](https://www.fark.com/comments/13495384/Its-a-two-for-one-deal-for-Monday-Night-Football-Do-Chicago-Bears-have-a-prayer-against-Minnesota-Vikings-800-PM-ET-on-ABC-Will-it-be-Atlanta-Falcons-the-Las-Vegas-Raiders-winning-other-one-830-PM-on-ESPN-Lets-do-this) |
+| [Sports](https://www.fark.com/sports/) | [Didn't want to play last Sunday? How about not playing for the rest of the season](https://www.fark.com/goto/13496074) ( [sports.yahoo.com](https://www.fark.com/goto/13496074) ) » [(1 comment)](https://www.fark.com/comments/13496074/Didnt-want-to-play-last-Sunday-How-about-not-playing-for-rest-of-season) |
+| [Business](https://www.fark.com/business/) | [Tesla's End of Year Sales Event includes driving a new vehicle off the lot with a pre-busted computer](https://www.fark.com/goto/13496160) ( [electrek.co](https://www.fark.com/goto/13496160) ) » [(29 comments)](https://www.fark.com/comments/13496160/Teslas-End-of-Year-Sales-Event-includes-driving-a-new-vehicle-off-lot-with-a-pre-busted-computer) |
+| [STEM](https://www.fark.com/stem/) | [Snot Otters getting special status, sticky](https://www.fark.com/goto/13496180) ( [citizen-times.com](https://www.fark.com/goto/13496180) ) » [(0 comments)](https://www.fark.com/comments/13496180/Snot-Otters-getting-special-status-sticky) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Well tonight thank God it's them at Christmas Number One insteaaaaaaaaad of you](https://www.fark.com/goto/13496032) ( [nme.com](https://www.fark.com/goto/13496032) ) » [(3 comments)](https://www.fark.com/comments/13496032/Well-tonight-thank-God-its-them-at-Christmas-Number-One-insteaaaaaaaaad-of-you) |
+| [Fandom](https://www.fark.com/fandom/) | [Enjoy empty London: "28 Days Later" is making a digital comeback](https://www.fark.com/goto/13496132) ( [gizmodo.com](https://www.fark.com/goto/13496132) ) » [(1 comment)](https://www.fark.com/comments/13496132/Enjoy-empty-London-28-Days-Later-is-making-a-digital-comeback) |
+| [D'awww](https://www.fark.com/dawww/) | [Zoo staff chase a woman dressed as an ostrich around the park, just to keep in practice](https://www.fark.com/goto/13496184) ( [boingboing.net](https://www.fark.com/goto/13496184) ) » [(2 comments)](https://www.fark.com/comments/13496184/Zoo-staff-chase-a-woman-dressed-as-an-ostrich-around-park-just-to-keep-in-practice) |
+| [Food](https://www.fark.com/food/) | [A chicken tikka masala chocolate bar: The ultimate food crime?](https://www.fark.com/goto/13496176) ( [indy100.com](https://www.fark.com/goto/13496176) ) » [(5 comments)](https://www.fark.com/comments/13496176/A-chicken-tikka-masala-chocolate-bar-The-ultimate-food-crime) |
+| [Politics](https://www.fark.com/politics/) | [Please submit your W-2 to qualify for the Justice System's express lane](https://www.fark.com/goto/13496094) ( [kenklippenstein.com](https://www.fark.com/goto/13496094) ) » [(9 comments)](https://www.fark.com/comments/13496094/Please-submit-your-W-2-to-qualify-for-Justice-Systems-express-lane) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -353,7 +353,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Dec 16 2024 14:42:37  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Dec 16 2024 20:43:32  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
