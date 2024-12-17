@@ -166,32 +166,32 @@ Last Updated on October 18, 2018 by Media Bias Fact Check
 
 #### Recently Updated Pages
 
-* [Krystal Ball Bias Rating](https://mediabiasfactcheck.com/krystal-ball-bias-rating/ "View Krystal Ball Bias Rating") - December 16, 2024
+* [C19proxalutamide.com – Bias and Credibility](https://mediabiasfactcheck.com/c19proxalutamide-com-bias/ "View C19proxalutamide.com – Bias and Credibility") - December 16, 2024
     
-* [Kaitlan Collins Bias Rating](https://mediabiasfactcheck.com/kaitlan-collins-bias-rating/ "View Kaitlan Collins Bias Rating") - December 16, 2024
+* [C19ivermectin.com – Bias and Credibility](https://mediabiasfactcheck.com/c19ivermectin-com-bias/ "View C19ivermectin.com – Bias and Credibility") - December 16, 2024
     
-* [Joe Scarborbough Bias Rating](https://mediabiasfactcheck.com/joe-scarborbough-bias-rating/ "View Joe Scarborbough Bias Rating") - December 16, 2024
+* [C19hcq.com – Bias and Credibility](https://mediabiasfactcheck.com/c19hcq-com-bias/ "View C19hcq.com – Bias and Credibility") - December 16, 2024
     
-* [Questionable Sources](https://mediabiasfactcheck.com/fake-news/ "View Questionable Sources") - December 16, 2024
+* [C19fluvoxamine.com – Bias and Credibility](https://mediabiasfactcheck.com/c19fluvoxamine-com-bias/ "View C19fluvoxamine.com – Bias and Credibility") - December 16, 2024
     
-* [Anonymous News (AN) – Bias and Credibility](https://mediabiasfactcheck.com/anonymous-news-an-bias-and-credibility/ "View Anonymous News (AN) – Bias and Credibility") - December 16, 2024
+* [C19favipiravir.com – Bias and Credibility](https://mediabiasfactcheck.com/c19favipiravir-com-bias/ "View C19favipiravir.com – Bias and Credibility") - December 16, 2024
     
-* [Jim Acosta Bias Rating](https://mediabiasfactcheck.com/jim-acosta-bias-rating/ "View Jim Acosta Bias Rating") - December 16, 2024
+* [c19bromhexine.com – Bias and Credibility](https://mediabiasfactcheck.com/c19bromhexine-com-bias/ "View c19bromhexine.com – Bias and Credibility") - December 16, 2024
     
-* [Jake Tapper Bias Rating](https://mediabiasfactcheck.com/jake-tapper-bias-rating/ "View Jake Tapper Bias Rating") - December 16, 2024
+* [Buzzfeed News – Bias and Credibility](https://mediabiasfactcheck.com/buzzfeed-news/ "View Buzzfeed News – Bias and Credibility") - December 16, 2024
     
-* [Glenn Beck Bias Rating](https://mediabiasfactcheck.com/glenn-beck-bias-rating/ "View Glenn Beck Bias Rating") - December 16, 2024
+* [Butler County Times-Gazette – Bias and Credibility](https://mediabiasfactcheck.com/butler-county-times-gazette-bias/ "View Butler County Times-Gazette – Bias and Credibility") - December 16, 2024
     
-* [George Stephanopoulos Bias Rating](https://mediabiasfactcheck.com/george-stephanopoulos-bias-rating/ "View George Stephanopoulos Bias Rating") - December 16, 2024
+* [Business Standard (India) – Bias and Credibility](https://mediabiasfactcheck.com/business-standard-india/ "View Business Standard (India) – Bias and Credibility") - December 16, 2024
     
-* [Erin Burnett Bias Rating](https://mediabiasfactcheck.com/erin-burnett-bias-rating/ "View Erin Burnett Bias Rating") - December 16, 2024
+* [Burnsville-Eagan Sun ThisWeek – Bias and Credibility](https://mediabiasfactcheck.com/burnsville-eagan-sun-thisweek-bias/ "View Burnsville-Eagan Sun ThisWeek – Bias and Credibility") - December 16, 2024
     
 
 #### Today’s Top Page Views
 
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
-* [Least Biased](https://mediabiasfactcheck.com/center/)
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
+* [Least Biased](https://mediabiasfactcheck.com/center/)
 * [NewsNation - Bias and Credibility](https://mediabiasfactcheck.com/newsnation/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
