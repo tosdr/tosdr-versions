@@ -1,8 +1,8 @@
 ChargePoint global privacy policy
 =================================
 
-Last updated: July 2nd, 2024
-----------------------------
+Last updated: December 17th, 2024
+---------------------------------
 
 ChargePoint (“ChargePoint,” “we,” “our” or “us”) — defined as any entity directly or indirectly controlled by ChargePoint Inc., 240 East Hacienda Ave., Campbell, CA 95008 USA — provides this privacy policy (the “Policy”) to inform you on how we process your information, whether you are a visitor to our website, a user of the ChargePoint app, an operator of our electric vehicle (EV) charging stations, a user of EV charging stations on the ChargePoint network, a user of a ChargePoint account, an owner of a ChargePoint radio-frequency identification (RFID) card, a user of our EV monitoring solutions, a user of any other service offered by ChargePoint that includes a link to this Policy, or a visitor of our offices in Europe. Each of these services and applications are collectively defined as the “Service(s)”.
 
@@ -88,18 +88,18 @@ The “ChargePoint network” is defined as the network of electric vehicle char
     9. ChargePoint uses account registration data to:
         * Notify you per SMS (e.g., for sending you a verification code, providing charging session receipts, messages related to the Waitlist feature, vehicle charging status, etc.)
         * Provide you with e-books and other information or services
-    10. ChargePoint uses app and website data to:
+    10. ChargePoint uses application and website data to:
         * Assist with customer service requests and accessibility
         * Keep our website and app secure and operational
         * Provide you with all services offered on our website and in the app
         * Track static and company IP addresses on the website for potential customer identification
-    11. ChargePoint uses your account registration data, connections data, telematics, ChargePoint station data, charging network data, and fraud and safety protection data to:
+    11. ChargePoint uses your account registration data, connections data, telematics data, ChargePoint station data, charging network data, and fraud and safety protection data to:
         * Safeguard the security of our systems and Service
         * Analyze and compile information on Service use patterns
         * Perform billing (including settling roaming charges) and customer support processes
         * Improve services and other elements of our business
         * Provide value-added services, promotions and pricing
-    12. ChargePoint uses camera footage to protect the persons and property at ChargePoint charging stations, offices, warehouses and high- and low-voltage labs.
+    12. ChargePoint uses camera footage data to protect the persons and property at ChargePoint charging stations, offices, warehouses and high- and low-voltage labs.
     13. ChargePoint may use your account registration data and charging network data to provide you with advertising and marketing-related information about our products, services, sweepstakes, newsletters, events, promotions or information from our third-party partners that may interest you (only based on your consent where required by applicable law).
     14. ChargePoint may combine any of the information that we collect from you with other information, including information that we obtain from third parties or information derived from any other products or services we provide for general purpose uses, as permissible under this policy.  
           
@@ -134,6 +134,8 @@ The “ChargePoint network” is defined as the network of electric vehicle char
     With respect to our disclosure of information to service providers and third-party network providers, such parties may have limited access to certain features and data from the ChargePoint network to be able to provide the required services (such as billing and pricing). If you are a beneficiary of a charging arrangement with a provider, for example, when your employer or a leasing company has agreed to cover the cost of your charging session, the provider will have access to your session and, in some cases, to certain data within your account.
     
     With regard to the processing of such data, ChargePoint and the provider are either individual (sole) controllers or joint controllers, depending on the contractual agreement. Please refer to the provider’s privacy policy to understand how they process, collect, use and disclose your data. If you would like a summary of the commitments between the parties where ChargePoint is a joint controller, please use the contact information provided in Section 11.
+    
+    No mobile information will be shared with third parties/affiliates for marketing/promotional purposes. All other categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties
     
 5. **Security measures**  
       
@@ -174,7 +176,7 @@ The “ChargePoint network” is defined as the network of electric vehicle char
     * North America:
         * Email: [privacy@chargepoint.com](mailto:privacy@chargepoint.com)
         * Phone (24/7): +1-888-758-4389
-        * [Web form](https://na.chargepoint.com/guest/chargepoint_help)
+        * Web form: [https://na.chargepoint.com/guest/chargepoint\_help](https://na.chargepoint.com/guest/chargepoint_help)
         * Snail mail: ChargePoint, Attn: Legal Department, 254 E. Hacienda Avenue, Campbell, CA 95008-6901
     * European Economic Area and the United Kingdom:
         * Email: [privacy.eu@chargepoint.com](mailto:privacy.eu@chargepoint.com)
@@ -206,7 +208,7 @@ The “ChargePoint network” is defined as the network of electric vehicle char
             
             We may have to grant access to your personal data, such as account registration and charging network data, to ChargePoint affiliates in the United States and India (e.g., to provide you with support when receiving Services or to allow analysis of the data to develop and improve our products and services). Those purposes include usage patterns of the ChargePoint charging station network that help inform product development, safety features, sales strategy, support and maintenance.
             
-            Further, these ChargePoint entities may need to access information for billing and accounting purposes. Transfers to these ChargePoint entities are based on the appropriate standard contractual clauses approved by the European Commission. You may request further information about our transfer safeguards by sending an email to privacy.eu@chargepoint.com.
+            Further, these ChargePoint entities may need to access information for billing and accounting purposes. Transfers to these ChargePoint entities are based on the appropriate standard contractual clauses approved by the European Commission. You may request further information about our transfer safeguards by sending an email to [privacy.eu@chargepoint.com](mailto:privacy.eu@chargepoint.com).
             
         3. Rights of European residents
             
@@ -270,17 +272,17 @@ The “ChargePoint network” is defined as the network of electric vehicle char
         
         If you would like to exercise any of these rights, please submit a request through one of our available channels:
         
-        * Email: [privacy@chargepoint.com](mailto:privacy@chargepoint.com)
-        * [Web form](https://na.chargepoint.com/guest/chargepoint_help), or
+        * Email: [privacy@chargepoint.com](mailto:privacy@chargepoint.com)li>
+        * Webform: [https://na.chargepoint.com/guest/chargepoint\_help](https://na.chargepoint.com/guest/chargepoint_help), or
         * Phone (24/7): +1-888-758-4389
         
         You will be required to verify your identity before we fulfill your request. To do so, you will need to provide the information identified in the webform or as otherwise directed by us. You can also designate an authorized agent to make a request on your behalf. To do so, you must provide us with written authorization or a power of attorney, signed by you, for the agent to act on your behalf. You will still need to verify your identity directly with us.
         
-        The CCPA requires businesses that sell personal information, as the term “sell” is defined under the CCPA, to provide an opt-out from such sales. Some people have taken the position that when a website uses third-party cookies or similar technology for its own analytics or advertising purposes, the website is engaged in a “sale” under the CCPA if the third parties have some ability to use, disclose or retain the data to improve their service or to take steps beyond the most narrowly drawn bounds of merely providing their service to the website or app. Some take this position even when the website pays the third party (not vice versa) and, in most cases, merely provides the third party with an opportunity to collect data directly, instead of providing personal information to the third party. These analytics and advertising services technologies may access identifiers (such as IP addresses), internet or other electronic network activity information (such as information regarding an individual’s browsing interactions on a ChargePoint website) and commercial information (such as the fact that a browser visited a page directed to people who are considering an electric vehicle) to those sorts of companies. While ChargePoint does not believe these are “sales” as that term is defined under the CCPA, you can opt out of this activity by changing your “privacy choices” on our website (when accessing the [ChargePoint website](https://www.chargepoint.com/), you will be presented with a privacy preference center which will enable your choices).
+        The CCPA requires businesses that sell personal information, as the term “sell” is defined under the CCPA, to provide an opt-out from such sales. Some people have taken the position that when a website uses third-party cookies or similar technology for its own analytics or advertising purposes, the website is engaged in a “sale” under the CCPA if the third parties have some ability to use, disclose or retain the data to improve their service or to take steps beyond the most narrowly drawn bounds of merely providing their service to the website or app. Some take this position even when the website pays the third party (not vice versa) and, in most cases, merely provides the third party with an opportunity to collect data directly, instead of providing personal information to the third party. These analytics and advertising services technologies may access identifiers (such as IP addresses), internet or other electronic network activity information (such as information regarding an individual’s browsing interactions on a ChargePoint website) and commercial information (such as the fact that a browser visited a page directed to people who are considering an electric vehicle) to those sorts of companies. While ChargePoint does not believe these are “sales” as that term is defined under the CCPA, you can opt out of this activity by changing your “privacy choices” on our website (when accessing the ChargePoint [website](https://www.chargepoint.com/), you will be presented with a privacy preference center which will enable your choices).
         
-        The CCPA also requires businesses that share personal information to provide an opt-out from such sharing. Under the CCPA, sharing is defined as the targeting of advertising to a consumer based on that consumer’s personal information obtained from the consumer’s activity across websites. We share information for these purposes to provide more relevant and tailored advertising to you regarding our Services. As part of this advertising, we may share identifiers (such as IP addresses and email addresses), internet or other electronic network activity information (such as information regarding an individual’s browsing interactions on a ChargePoint website), and commercial information (such as the fact that a browser visited a page directed to people who are considering an electric vehicle) with advertising platforms and advertising networks. To opt out of such sharing, please change your “privacy choices” online, on our website (when accessing the [ChargePoint website](https://www.chargepoint.com/), you will be presented with a privacy preference center which will enable your choices).
+        The CCPA also requires businesses that share personal information to provide an opt-out from such sharing. Under the CCPA, sharing is defined as the targeting of advertising to a consumer based on that consumer’s personal information obtained from the consumer’s activity across websites. We share information for these purposes to provide more relevant and tailored advertising to you regarding our Services. As part of this advertising, we may share identifiers (such as IP addresses and email addresses), internet or other electronic network activity information (such as information regarding an individual’s browsing interactions on a ChargePoint website), and commercial information (such as the fact that a browser visited a page directed to people who are considering an electric vehicle) with advertising platforms and advertising networks. To opt out of such sharing, please change your “privacy choices” online, on our website (when accessing the ChargePoint [website](https://www.chargepoint.com/), you will be presented with a privacy preference center which will enable your choices).
         
-        Please note that we also respond to and abide by opt-out preference signals sent through the Global Privacy Control**.** Any opt-out preferences you have indicated through these methods will only apply to the specific device or browser on which you made them. For more information on how to use the Global Privacy Control, please visit www.globalprivacycontrol.org.
+        Please note that we also respond to and abide by opt-out preference signals sent through the Global Privacy Control. Any opt-out preferences you have indicated through these methods will only apply to the specific device or browser on which you made them. For more information on how to use the Global Privacy Control, please visit www.globalprivacycontrol.org.
         
         We do not knowingly sell or share the personal information of children under 16.
         
@@ -290,7 +292,7 @@ The “ChargePoint network” is defined as the network of electric vehicle char
         
         **California Do Not Track setting.** We do not respond to browser-initiated Do Not Track signals, as the internet industry is currently still working on Do Not Track standards, implementations and solutions. Please note that Do Not Track is a different privacy mechanism than the Global Privacy Control browser choice referenced above.
         
-    4. Supplemental privacy notice for residents of other states
+    4. Supplemental privacy notice for other US states
         
         Depending on where you live, you may have certain rights. Where applicable, the state law may permit you to request that we:
         
@@ -302,14 +304,28 @@ The “ChargePoint network” is defined as the network of electric vehicle char
         
         Certain information may be exempt from such requests under applicable law. We need certain types of information so we can provide the Service to you. If you ask us to delete it, you may no longer be able to access or use the Service.
         
-        If would like to exercise any of these rights, please submit a request at [privacy@chargepoint.com](mailto:privacy@chargepoint.com) or visit our [Web form](https://na.chargepoint.com/guest/chargepoint_help). You will be required to verify your identity before we fulfill your request. To do so, you will need to provide the information identified in the webform or as otherwise directed by us.
+        If would like to exercise any of these rights, please submit a request at [privacy@chargepoint.com](mailto:privacy@chargepoint.com) or visit [https://na.chargepoint.com/guest/chargepoint\_help](https://na.chargepoint.com/guest/chargepoint_help). You will be required to verify your identity before we fulfill your request. To do so, you will need to provide the information identified in the webform or as otherwise directed by us.
         
-        ChargePoint may use your personal information to send you targeted advertising (as that term is defined in certain state privacy laws). To opt out of targeted advertising, please change your privacy choices online (when accessing the [ChargePoint website](https://www.chargepoint.com/), you will be presented with a privacy preference center which will enable your preferences).
+        ChargePoint may use your personal information to send you targeted advertising (as that term is defined in certain state privacy laws). To opt out of targeted advertising, please change your privacy choices online (when accessing the ChargePoint [website](https://www.chargepoint.com/), you will be presented with a privacy preference center which will enable your preferences).
         
         Depending on where you live, if we deny your request to exercise any of the rights above, you may have the right to appeal that denial by contacting us at [privacy@chargepoint.com](mailto:privacy@chargepoint.com) with the subject “Data privacy request appeal” and providing us with information about why you are appealing the decision.
         
-    5. Residents of Canada
+    5. Supplemental Privacy Notice for Canada
         
-        If you are a Canadian resident, you may have the right to access your personal information. To exercise that right, please submit a request at [privacy@chargepoint.com](mailto:privacy@chargepoint.com) or visit our [Web form](https://na.chargepoint.com/guest/chargepoint_help). You will be required to verify your identity before we fulfill your request. To do so, you will need to provide the information identified in the webform or as otherwise directed by us. Certain information may be exempt from such requests under applicable law.
+        If you are a Canadian resident or if your personal data is processed by ChargePoint’s Canadian Legal Entity, you have the right to access your personal information. To exercise that right, please submit a request at [privacy@chargepoint.com](mailto:privacy@chargepoint.com) or visit [https://na.chargepoint.com/guest/chargepoint\_help](https://na.chargepoint.com/guest/chargepoint_help). You will be required to verify your identity before we fulfill your request. To do so, you will need to provide the information identified in the webform or as otherwise directed by us. Certain information may be exempt from such requests under applicable law.
         
         ChargePoint is a global company that operates its website and Service through servers located in several countries. We may grant access to your personal data (such as account registration and charging network data) to ChargePoint affiliates in the United States and India, where that data may be accessible to law enforcement and national security authorities under certain circumstances.
+        
+    6. Supplemental Privacy Notice for Mexico
+        
+        This Supplemental Privacy Notice supplements the information in our Privacy Policy, and except as provided herein, applies solely to data subjects in Mexico. It applies to personal information we collect on or through the Service and through other means (such as information collected offline, in person, and over the telephone).
+        
+        For individuals in Mexico, Charge Point, Inc., with address at 240 East Hacienda Ave, Campbell, California 95008 and ChargePoint Mexico, S. de R.L. de C.V., with address at Avenida de las Américas No. 1536, Piso 5 B-2, Col. Country Club, 44610 Guadalajara, Jalisco shall be considered as the data controllers for the processing of personal data.
+        
+        Access, Rectification, Cancellation and Opposition (“ARCO”) Rights
+        
+        Subject to certain exceptions detailed in the Mexican law, you have the right to: (i) request access to your Mexican information; (ii) request deletion of the Mexican information we collected from you; (iii) request correction of inaccurate Mexican information; and (iv) oppose to particular processing activities, unless those are necessary for the maintenance of the legal relationship with us. We will not discriminate against you for exercising such rights. You also have the right to revoke any consent previously granted.
+        
+        To request such rights, or for any questions, please email [privacy@chargepoint.com](mailto:support@chargepoint.com) and in the subject line of your email, please indicate “Mexico Privacy Rights Request ARCO RIGHTS: (Insert Your Name)”). In addition, please confirm: (i) name of the data subject and email address or means to communicate the respective response; (ii) documents proving your identity, or the identity of legal representative; (iii) clear and precise description of the personal data in respect of which you seek to exercise any of your ARCO Rights; and (iv) documents or information that facilitates the location of the respective personal data.
+        
+        To the extent that you elect to designate an authorized agent to make a request on your behalf, they must provide appropriate documentation including written signed permission from you, proof of your identity, and verification of their identity; or a valid, designated power of attorney as defined under the Mexican Civil Code.
