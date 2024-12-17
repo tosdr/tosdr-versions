@@ -38,7 +38,7 @@ More
 
 My Account Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[AUS vs IND - Stumps](https://www.cricbuzz.com/live-cricket-scores/91796/aus-vs-ind-3rd-test-india-tour-of-australia-2024-25 "Australia v India, 3rd Test - Stumps")[ENGW vs RSAW - Stumps](https://www.cricbuzz.com/live-cricket-scores/94478/engw-vs-rsaw-only-test-england-women-tour-of-south-africa-2024 "England Women v South Africa Women, Only Test - Stumps")[NZ vs ENG - Stumps](https://www.cricbuzz.com/live-cricket-scores/92408/nz-vs-eng-3rd-test-england-tour-of-new-zealand-2024 "New Zealand v England, 3rd Test - Stumps")[SYT vs ADS - Preview](https://www.cricbuzz.com/live-cricket-scores/101571/syt-vs-ads-3rd-match-big-bash-league-2024-25 "Sydney Thunder v Adelaide Strikers, 3rd Match - Preview")[ZIM vs AFG - Preview](https://www.cricbuzz.com/live-cricket-scores/109337/zim-vs-afg-1st-odi-afghanistan-tour-of-zimbabwe-2024-25 "Zimbabwe v Afghanistan, 1st ODI - Preview")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[AUS vs IND - Break](https://www.cricbuzz.com/live-cricket-scores/91796/aus-vs-ind-3rd-test-india-tour-of-australia-2024-25 "Australia v India, 3rd Test - Break")[NZ vs ENG - Complete](https://www.cricbuzz.com/live-cricket-scores/92408/nz-vs-eng-3rd-test-england-tour-of-new-zealand-2024 "New Zealand v England, 3rd Test - Complete")[ENGW vs RSAW - Stumps](https://www.cricbuzz.com/live-cricket-scores/94478/engw-vs-rsaw-only-test-england-women-tour-of-south-africa-2024 "England Women v South Africa Women, Only Test - Stumps")[SYT vs ADS - Preview](https://www.cricbuzz.com/live-cricket-scores/101571/syt-vs-ads-3rd-match-big-bash-league-2024-25 "Sydney Thunder v Adelaide Strikers, 3rd Match - Preview")[ZIM vs AFG - Preview](https://www.cricbuzz.com/live-cricket-scores/109337/zim-vs-afg-1st-odi-afghanistan-tour-of-zimbabwe-2024-25 "Zimbabwe v Afghanistan, 1st ODI - Preview")
 
 AllLive NowToday
 
@@ -46,23 +46,19 @@ AllLive NowToday
     
     Australia v India
     
-    [Australia vs India](https://www.cricbuzz.com/live-cricket-scores/91796/aus-vs-ind-3rd-test-australia-v-india "Australia v India, 3rd Test - Stumps")
+    [Australia vs India](https://www.cricbuzz.com/live-cricket-scores/91796/aus-vs-ind-3rd-test-australia-v-india "Australia v India, 3rd Test - Break")
     
     3rd Test
     
 * New Zealand v England, 2024
     
-    [New Zealand vs England](https://www.cricbuzz.com/live-cricket-scores/92408/nz-vs-eng-3rd-test-new-zealand-v-england-2024 "New Zealand v England, 3rd Test - Stumps")
+    [New Zealand vs England](https://www.cricbuzz.com/live-cricket-scores/92408/nz-vs-eng-3rd-test-new-zealand-v-england-2024 "New Zealand v England, 3rd Test - Complete")
     
     3rd Test
     
 * South Africa vs Pakistan,2024-25
     
-    [South Africa vs Pakistan](https://www.cricbuzz.com/live-cricket-scores/94336/rsa-vs-pak-3rd-t20i-south-africa-vs-pakistan2024-25 "South Africa v Pakistan, 3rd T20I - Abandon")
-    
-    3rd T20I
-    
-* [South Africa vs Pakistan](https://www.cricbuzz.com/live-cricket-scores/94345/rsa-vs-pak-1st-odi-south-africa-vs-pakistan2024-25 "South Africa v Pakistan, 1st ODI - Preview")
+    [South Africa vs Pakistan](https://www.cricbuzz.com/live-cricket-scores/94345/rsa-vs-pak-1st-odi-south-africa-vs-pakistan2024-25 "South Africa v Pakistan, 1st ODI - Preview")
     
     1st ODI
     
@@ -108,15 +104,7 @@ AllLive NowToday
     
 * ICC Mens T20 World Cup Americas Sub Regional Qualifier, 2024
     
-    [Argentina vs Mexico](https://www.cricbuzz.com/live-cricket-scores/111477/arg-vs-mex-match-28-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Argentina v Mexico, Match 28 - ARG Won")
-    
-    Match 28
-    
-* [Panama vs Belize](https://www.cricbuzz.com/live-cricket-scores/111469/pan-vs-blz-match-27-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Panama v Belize, Match 27 - BLZ Won")
-    
-    Match 27
-    
-* [Cayman Islands vs Argentina](https://www.cricbuzz.com/live-cricket-scores/111489/caym-vs-arg-match-30-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Cayman Islands v Argentina, Match 30 - CAYM Won")
+    [Cayman Islands vs Argentina](https://www.cricbuzz.com/live-cricket-scores/111489/caym-vs-arg-match-30-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Cayman Islands v Argentina, Match 30 - CAYM Won")
     
     Match 30
     
@@ -132,21 +120,21 @@ AllLive NowToday
     
     Match 31
     
-* [Cayman Islands vs Bermuda](https://www.cricbuzz.com/live-cricket-scores/111505/caym-vs-ber-match-33-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Cayman Islands v Bermuda, Match 33 - Preview")
-    
-    Match 33
-    
 * [Mexico vs Bahamas](https://www.cricbuzz.com/live-cricket-scores/111513/mex-vs-bhm-match-34-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Mexico v Bahamas, Match 34 - Preview")
     
     Match 34
     
-* [Brazil vs Argentina](https://www.cricbuzz.com/live-cricket-scores/111529/brazil-vs-arg-match-36-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Brazil v Argentina, Match 36 - Upcoming")
+* [Cayman Islands vs Bermuda](https://www.cricbuzz.com/live-cricket-scores/111505/caym-vs-ber-match-33-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Cayman Islands v Bermuda, Match 33 - Preview")
     
-    Match 36
+    Match 33
     
 * [Suriname vs Belize](https://www.cricbuzz.com/live-cricket-scores/111521/sn-vs-blz-match-35-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Suriname v Belize, Match 35 - Upcoming")
     
     Match 35
+    
+* [Brazil vs Argentina](https://www.cricbuzz.com/live-cricket-scores/111529/brazil-vs-arg-match-36-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Brazil v Argentina, Match 36 - Upcoming")
+    
+    Match 36
     
 * West Indies v Bangladesh, 2024
     
@@ -238,13 +226,13 @@ AllLive NowToday
     
 * CSA Four-Day Series Division Two 2024-25
     
-    [Limpopo vs Northern Cape](https://www.cricbuzz.com/live-cricket-scores/104378/limpo-vs-ncape-11th-match-csa-four-day-series-division-two-2024-25 "Limpopo v Northern Cape, 11th Match - NCAPE Won")
-    
-    11th Match
-    
-* [Mpumalanga Rhinos vs Eastern Storm](https://www.cricbuzz.com/live-cricket-scores/104380/mpr-vs-estorm-12th-match-csa-four-day-series-division-two-2024-25 "Mpumalanga Rhinos v Eastern Storm, 12th Match - MPR Won")
+    [Mpumalanga Rhinos vs Eastern Storm](https://www.cricbuzz.com/live-cricket-scores/104380/mpr-vs-estorm-12th-match-csa-four-day-series-division-two-2024-25 "Mpumalanga Rhinos v Eastern Storm, 12th Match - MPR Won")
     
     12th Match
+    
+* [Limpopo vs Northern Cape](https://www.cricbuzz.com/live-cricket-scores/104378/limpo-vs-ncape-11th-match-csa-four-day-series-division-two-2024-25 "Limpopo v Northern Cape, 11th Match - NCAPE Won")
+    
+    11th Match
     
 * WOMEN
     
@@ -257,6 +245,12 @@ AllLive NowToday
 * [India Women vs West Indies Women](https://www.cricbuzz.com/live-cricket-scores/110021/indw-vs-wiw-2nd-t20i-india-women-v-west-indies-women-2024 "India Women v West Indies Women, 2nd T20I - Preview")
     
     2nd T20I
+    
+* New Zealand W v Australia W, 2024
+    
+    [New Zealand Women vs Australia Women](https://www.cricbuzz.com/live-cricket-scores/102126/nzw-vs-ausw-1st-odi-icc-championship-match-new-zealand-w-v-australia-w-2024 "New Zealand Women v Australia Women, 1st ODI (ICC Championship Match) - Upcoming")
+    
+    1st ODI (ICC Championship Match)
     
 * South Africa Women v England Women, 2024
     
@@ -585,37 +579,37 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 [England fetch handy first innings lead after South Africa's collapse](https://www.cricbuzz.com/cricket-news/132802/england-fetch-handy-first-innings-lead-after-south-africas-collapse "England fetch handy first innings lead after South Africa's collapse")
 
-45m ago
+6h ago
 
   [](https://www.cricbuzz.com/cricket-news/132801/drs-disaster-strikes-again-as-england-surge-ahead "DRS disaster strikes again as England surge ahead")
 
 [DRS disaster strikes again as England surge ahead](https://www.cricbuzz.com/cricket-news/132801/drs-disaster-strikes-again-as-england-surge-ahead "DRS disaster strikes again as England surge ahead")
 
-1h ago
+7h ago
 
   [](https://www.cricbuzz.com/cricket-news/132800/sammy-appointed-west-indies-all-format-coach "Sammy appointed West Indies' all-format coach")
 
 [Sammy appointed West Indies' all-format coach](https://www.cricbuzz.com/cricket-news/132800/sammy-appointed-west-indies-all-format-coach "Sammy appointed West Indies' all-format coach")
 
-1h ago
+7h ago
 
   [](https://www.cricbuzz.com/cricket-news/132799/between-champions-trophy-dreams-and-injury-woes-south-africa-prepare-for-pakistan-challenge "Between Champions Trophy dreams and injury woes, SA prepare for PAK challenge")
 
 [Between Champions Trophy dreams and injury woes, SA prepare for PAK challenge](https://www.cricbuzz.com/cricket-news/132799/between-champions-trophy-dreams-and-injury-woes-south-africa-prepare-for-pakistan-challenge "Between Champions Trophy dreams and injury woes, SA prepare for PAK challenge")
 
-5h ago
+11h ago
 
   [](https://www.cricbuzz.com/cricket-news/132798/ankit-rajpoot-retires-from-indian-cricket-at-31 "Ankit Rajpoot retires from Indian cricket at 31")
 
 [Ankit Rajpoot retires from Indian cricket at 31](https://www.cricbuzz.com/cricket-news/132798/ankit-rajpoot-retires-from-indian-cricket-at-31 "Ankit Rajpoot retires from Indian cricket at 31")
 
-5h ago
+11h ago
 
   [](https://www.cricbuzz.com/cricket-news/132797/we-are-in-transition-so-its-my-job-to-help-the-others-bumrah "We are in transition so it's my job to help the others - Bumrah")
 
 [We are in transition so it's my job to help the others - Bumrah](https://www.cricbuzz.com/cricket-news/132797/we-are-in-transition-so-its-my-job-to-help-the-others-bumrah "We are in transition so it's my job to help the others - Bumrah")
 
-6h ago
+12h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
