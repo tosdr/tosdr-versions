@@ -2,7 +2,7 @@
 
 Previous
 
-[Enjoy free 2-day shipping on any order. Use code: **DAY9** at checkout.](https://www.bobbibrowncosmetics.com/products/14358/best-sellers)
+[Enjoy 25% off sitewide.\* Use code: **DAY10** at checkout.](https://www.bobbibrowncosmetics.com/products/14358/best-sellers)
 
 [Join our mailing list and get 15% off your first order.](https://www.bobbibrowncosmetics.com/account/signin.tmpl)
 
