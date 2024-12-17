@@ -89,7 +89,7 @@ Learn more
 Privacy Policy
 --------------
 
-**Updated:** September 05, 2023
+**Updated:** December 17, 2024
 
 This Privacy Policy (“Privacy Policy”) informs about Personal Information processed  
 through adMarketplace, Inc.’s ("adMarketplace’s") products and services (“Service(s)”)  
@@ -98,43 +98,31 @@ Customers.
 
 This Privacy Policy also informs about information collected from this website,  
 [www.admarketplace.com](http://www.admarketplace.com/), which serves two basic functions. First, it has  
-information about our Services as well as online advertising generally. Second, it is a portal  
-for adMarketplace publishers and advertisers ("Customer(s)") to access certain restricted,  
-Customer-only materials through secure log-in.
+information about our Services as well as online advertising generally. Second, it is a portal for adMarketplace publishers and advertisers ("Customer(s)") to access certain restricted, Customer-only materials through secure log-in.
 
 This Privacy Policy does not relate to Customer business information shared with us (e.g.,  
-billing or contact details). As well, it does not relate to information shared by employees or  
-other staff, or by applicants for positions with our company. You may reach your business  
-or HR contact for inquiries related to such information).
+billing or contact details). As well, it does not relate to information shared by employees or other staff, or by applicants for positions with our company. You may reach your business or HR contact for inquiries related to such information).
 
 **1\. Our Commitment to Data Privacy**
 --------------------------------------
 
-It is of critical importance to us to keep the information we collect secure. adMarketplace is  
-also committed to protecting the privacy of consumers and observes compliance with  
+It is of critical importance to us to keep the information we collect secure. adMarketplace is also committed to protecting the privacy of consumers and observes compliance with  
 applicable laws, including the EU’s and United Kingdom’s Data Protection Regulation  
 ("GDPR") and various state privacy laws in the United States including CCPA (“US Privacy  
 Laws”) and relevant laws of other countries and/or regions, collectively referred to as  
 “Data Protection Laws”. As our practices evolve, this Privacy Policy may be revised to  
-reflect those changes. Notice of such amendments will be posted as an updated notice on  
-this website. Please review this Privacy Policy periodically in order to keep up to date with  
-any modifications.
+reflect those changes. Notice of such amendments will be posted as an updated notice on this website. Please review this Privacy Policy periodically in order to keep up to date with any modifications.
 
 **2\. Who is adMarketplace?**
 -----------------------------
 
-adMarketplace is a provider of Services that enable our Customers to reach consumers as  
-they search for or indicate intent to learn more about or engage with our Customers’  
+adMarketplace is a provider of Services that enable our Customers to reach consumers as they search for or indicate intent to learn more about or engage with our Customers’  
 products or services. Our Services do not use **Personal Information** to track, target, or  
 otherwise profile consumers across unrelated websites, apps, devices, platforms or  
-properties (collectively referred to herein as ‘**Sites**’). Personal Information (also referred to  
-as Personal Data) means any information related to an identifiable person and includes IP  
-addresses, cookie identifiers and device identifiers.
+properties (collectively referred to herein as ‘**Sites**’). Personal Information (also referred to as Personal Data) means any information related to an identifiable person and includes IP addresses, cookie identifiers and device identifiers.
 
 (Personal Information is distinct from **Personally Identifiable Information (PII)** which is  
-information that on its own is able to identify, contact, or locate an individual. An example  
-of PII is an individual’s email address. adMarketplace Services do not collect, process, or  
-use PII).
+information that on its own is able to identify, contact, or locate an individual. An example of PII is an individual’s email address. adMarketplace Services do not collect, process, or use PII).
 
 The corporate entity that decides how and for what purpose we process information (the  
 legal basis for processing) is:
@@ -248,20 +236,13 @@ unrelated Sites.
 We do not collect any personal information defined as “sensitive personal information”  
 under CCPA or US Privacy Laws, nor any “special categories” of personal data per GDPR.
 
-The Services are not intended to process personal information of children under the age of  
-16 and we do not knowingly collect, sell, share, or process any personal information from  
-children under the age of 16. If you, as a parent or guardian, believe that your child under  
-the age of 16 has interacted with our Services and caused us to unknowingly collect  
-their personal information, please contact us and we will use our best efforts to identify  
-and remove their information to the extent it is in our records.
+The Services are not intended to process personal information of children under the age of 16 and we do not knowingly collect, sell, share, or process any personal information from children under the age of 16. If you, as a parent or guardian, believe that your child under the age of 16 has interacted with our Services and caused us to unknowingly collect their personal information, please contact us and we will use our best efforts to identify and remove their information to the extent it is in our records.
 
 In addition to our personal information collection and processing, we may collect, create,  
 process, disclose and store information that is not considered personal information  
 because it is not identifiable to a particular individual, such as sets of aggregate data,  
 metadata, and other generalized information about online browsing, usage and  
-interactions, as well as de-identified information that does not reveal your identity. We do  
-not attempt to re-identify or associate such information to you, and we retain the right to  
-use and disclose such information in any manner permitted by applicable law.
+interactions, as well as de-identified information that does not reveal your identity. We do not attempt to re-identify or associate such information to you, and we retain the right to use and disclose such information in any manner permitted by applicable law.
 
 **7\. What are the Sources of Personal Information?**
 -----------------------------------------------------
@@ -310,33 +291,19 @@ advertising or otherwise as those terms are defined under applicable U.S. Privac
 
 adMarketplace applies commercially reasonable physical, technical and organizational  
 security measures to protect information from unauthorized access, corruption or loss.  
-These include storing information in databases which are protected by security measures  
-such as password protection, multi-factor authentication, and encryption using Transport  
-Layer Security technology (TLS). However, no system can be completely secure, and we  
-make no guarantees as to security of information transmitted through our Services or our  
-own website ([adMarketplace.com](http://admarketplace.com/))
+These include storing information in databases which are protected by security measures such as password protection, multi-factor authentication, and encryption using Transport Layer Security technology (TLS). However, no system can be completely secure, and we make no guarantees as to security of information transmitted through our Services or our own website ([adMarketplace.com](http://admarketplace.com/))
 
 **10\. Third Parties we work with**
 -----------------------------------
 
-We may use processors or service providers for our business purposes (e.g. for data storage  
-or fraud detection); when we do so, we obligate these services to comply with our Privacy  
-and Security policy requirements and the Privacy Shield Principles for onward data  
-transfers, including obligations to provide the same level of protection that we afford for  
-transferred data.
+We may use processors or service providers for our business purposes (e.g. for data storage or fraud detection); when we do so, we obligate these services to comply with our Privacy and Security policy requirements and the below Data Privacy Framework for onward data transfers, including obligations to provide the same level of protection that we afford for transferred data.
 
-The adMarketplace website may contain links to third party websites; please be aware that  
-we do not endorse and are not responsible for the privacy practices of those websites. If  
-you follow a link to those websites, you should read their privacy notice and terms and  
-conditions to discern their practices.
+The adMarketplace website may contain links to third party websites; please be aware that we do not endorse and are not responsible for the privacy practices of those websites. If you follow a link to those websites, you should read their privacy notice and terms and conditions to discern their practices.
 
 **11\. International Data Transfers**
 -------------------------------------
 
-For EU and UK data transfers to entities in countries that have not been deemed to provide  
-an adequate level of protection by the European Commission, we use approved contracts,  
-such as the EU Standard Contractual Clauses for the transfer of personal data to Third  
-Countries pursuant to Regulation (EU) 2016/679 in accordance with Commission  
+For EU and UK data transfers to entities in countries that have not been deemed to provide an adequate level of protection by the European Commission, we use approved contracts, such as the EU Standard Contractual Clauses for the transfer of personal data to Third Countries pursuant to Regulation (EU) 2016/679 in accordance with Commission  
 Implementing Decision (EU) 2021/914 of 4 June 2021 and the United Kingdom’s  
 International Data Transfer Addendum to the EU Commission Standard Contractual  
 Clauses, in force 21 March 2022, as appropriate and additional safeguards where required.
@@ -350,43 +317,32 @@ data received from the European Union in reliance on the EU-U.S. DPF and from th
 United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF.  
 adMarketplace has certified to the U.S. Department of Commerce that it adheres to the  
 Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard  
-to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF.  
-If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles  
-and/or the Swiss-U.S. DPF Principles, the Principles shall govern.  To learn more about the  
-Data Privacy Framework (DPF) program, and to view our certification, please visit  
-[https://www.dataprivacyframework.gov](https://www.dataprivacyframework.gov/)/.
+to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern.  To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit [https://www.dataprivacyframework.gov](https://www.dataprivacyframework.gov/)/.
 
-In compliance with the EU-US DPF Principles, adMarketplace commits to resolve complaints  
-about our collection or use of your personal information.  EU or UK individuals with questions  
-concerning our DPF policy may directed them to [privacy@admarketplace.com](mailto:privacy@admarketplace.com). If we have  
-not been able to satisfactorily resolve the issue, then, you may submit your complaint to  
-JAMS using this link: [https://www.jamsadr.com/eu-us-data-privacy-framework](https://www.jamsadr.com/eu-us-data-privacy-framework).  
-JAMS is adMarketplace’s designated DPF dispute resolution provider.
+In compliance with the DPF Principles, adMarketplace commits to resolve complaints  
+about our collection or use of your personal information.  EU, UK, or Swiss individuals with questions concerning our DPF policy may directed them to [privacy@admarketplace.com](mailto:privacy@admarketplace.com). If we have not been able to satisfactorily resolve the issue, then, you may submit your complaint to JAMS using this link: [https://www.jamsadr.com/DPF-Dispute-Resolution](https://www.jamsadr.com/DPF-Dispute-Resolution).  
+JAMS is the alternative dispute resolution provider designated to address complaints and provide appropriate recourse free of charge to the affected individual.
 
-For transfers of personal data from non-EU/UK countries where international data transfers are  
-limited or restricted, we comply with the relevant applicable laws to legitimize such transfers.
+For transfers of personal data from non-EU/UK countries where international data transfers are limited or restricted, we comply with the relevant applicable laws to legitimize such transfers.
 
-adMarketplace is responsible for processing personal information it receives under the DPF  
-and subsequently transfers to a third party acting as an agent on its behalf. adMarketplace  
-shall remain liable under the Principles if its agent processes such personal information in a  
-manner inconsistent with the Principles unless it shows it is not responsible for the event  
-giving rise to the matter.
+adMarketplace is responsible for processing personal information it receives under the DPF and subsequently transfers to a third party acting as an agent on its behalf. adMarketplace shall remain liable under the Principles if its agent processes such personal information in a manner inconsistent with the Principles unless it shows it is not responsible for the event giving rise to the matter.
+
+adMarketplace is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).
+
+Note: adMarketplace is obligated to arbitrate claims and follow the terms as set forth in Annex I of the DPF Principles, provided than an individual has invoked binding arbitration by delivering notice to adMarketplace and following the procedures and subject to conditions set forth in Annex I of Principles.
 
 **12\. Retention of Data**
 --------------------------
 
 We retain Personal Information for only as long as necessary for the business purpose of  
-the processing. Personal Information collected by our Services is retained for sixty-one days  
-in the normal course. Aggregated and anonymized may be retained for a longer period for  
-statistical purposes and for reporting to and billing our customers.
+the processing. Personal Information collected by our Services is retained for sixty-one days in the normal course. Aggregated and anonymized may be retained for a longer period for statistical purposes and for reporting to and billing our customers.
 
 **13\. Your Privacy Rights under Data Protection Laws**
 -------------------------------------------------------
 
 Description of your privacy rights
 
-You may have certain rights regarding your personal information, based on applicable Data  
-Protection Laws, which may include the following:
+You may have certain rights regarding your personal information, based on applicable Data Protection Laws, which may include the following:
 
 1. To know about our processing of your personal information/data – you may request  
     that we provide you:  
@@ -434,12 +390,11 @@ Protection Laws, which may include the following:
     UK’s ICO here: [https://ico.org.uk/global/contact-us/](https://ico.org.uk/global/contact-us/)**.**
 
 For Personal Information collected via our Services, you should contact the relevant  
-Customer (Site publisher or advertiser) that is the business controlling or controller of such  
-information.
+Customer (Site publisher or advertiser) that is the business controlling or controller of such information.
 
 In regard to Personal Information collected from our own website ([adMarketplace.com](http://admarketplace.com/)),  
 you can withdraw your consent by contacting us. In regard to Europe Data, you may also  
-contact our DPO at [dpo@admarketplace.com](mailto:dpo@admarketplace.com) or [privacy@admarketplace.com](mailto:privacy@admarketplace.com) .
+contact our DPO at [dpo@admarketplace.com](mailto:dpo@admarketplace.com) or [privacy@admarketplace.com](mailto:privacy@admarketplace.com).
 
 **14\. California requirements**
 --------------------------------
@@ -457,19 +412,12 @@ not share your information with third parties for their direct marketing purpose
 ----------------------------------
 
 adMarketplace reserves the right to change or replace this Privacy Policy at any time to  
-reflect any changes in our privacy practices or updates to applicable laws. When we update  
-our Privacy Policy, we will take appropriate measures to inform you, consistent with the  
-significance of the changes we make. We will obtain your consent to any material Privacy  
-Policy changes that affect your personal information if and where this is required by  
-applicable data protection laws. Any changes or replacement will be posted on our website  
-related to this Privacy Policy and located here. We encourage you to review our Privacy Policy  
-on a regular basis.
+reflect any changes in our privacy practices or updates to applicable laws. When we update our Privacy Policy, we will take appropriate measures to inform you, consistent with the significance of the changes we make. We will obtain your consent to any material Privacy Policy changes that affect your personal information if and where this is required by applicable data protection laws. Any changes or replacement will be posted on our website related to this Privacy Policy and located here. We encourage you to review our Privacy Policy on a regular basis.
 
 **Contact us**
 --------------
 
-For any questions about our privacy practices, you may contact our data protection officer  
-and privacy team by email here: [privacy@admarketplace.com](mailto:privacy@admarketplace.com), or via:
+For any questions about our privacy practices, you may contact our data protection officer and privacy team by email here: [privacy@admarketplace.com](mailto:privacy@admarketplace.com), or via:
 
 Our postal address:  
 adMarketplace Inc.  
