@@ -294,11 +294,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/katarina-radovic/dok-nas-smrt-ne-rastavi/38.jpg?itok=yAkNT-2a)](http://seecult.org/galerija/galerija-umetnika/katarina-radovic/dok-nas-smrt-ne-rastavi)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/olga-jancic/plodovi-i-raspukline/presek.jpg?itok=GCRnXlfc)](http://seecult.org/galerija/galerija-umetnika/olga-jancic/plodovi-i-raspukline)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/siouxsie-monatery.jpg?itok=gprrGeFa)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/nadezda-petrovic-001.jpg?itok=RCiYbLSY)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
