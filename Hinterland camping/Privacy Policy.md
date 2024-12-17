@@ -281,7 +281,7 @@ Sofern sich aus den sonstigen Informationen dieser Erklärung über spezifische 
 
 Auf ins Hinterland, wo Freiheit und Abenteuer Zuhause sind! Bei uns findest du 3000+ private Zelt- und Stellplätze in Alleinlage für dein nächstes Outdoor-Abenteuer.
 
-[Camps & Cabins](https://www.hinterland.camp/locations)[Gastgeber:in werden](https://www.hinterland.camp/host)[Tipps & Inspiration](https://www.hinterland.camp/discover)[Plattform-Updates](https://www.hinterland.camp/changelog)[Kontakt](https://www.hinterland.camp/contact)[Presse](https://www.hinterland.camp/press)
+[Camps & Cabins](https://www.hinterland.camp/locations)[Gastgeber:in werden](https://www.hinterland.camp/host)[Tipps & Inspiration](https://www.hinterland.camp/discover)[Plattform-Updates](https://www.hinterland.camp/changelog)[Kontakt](https://www.hinterland.camp/contact)[Presse & Media](https://www.hinterland.camp/press)
 
 [Stories](https://www.hinterland.camp/stories)[Über uns](https://www.hinterland.camp/team)[So funktioniert's](https://www.hinterland.camp/info/how-it-works)[FAQ Gast](https://www.hinterland.camp/info/faq-guest)[FAQ Gastgeber:in](https://www.hinterland.camp/info/faq-host)[Shop](https://shop.hinterland.camp/)[Gutscheine](https://www.hinterland.camp/voucher)
 
