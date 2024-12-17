@@ -30,7 +30,7 @@ Menu
     
     TOP STORIES
     
-    * [Teacher and a teenage student killed in a shooting at a private Christian school in Wisconsin](https://apnews.com/article/wisconsin-school-shooting-498c8ad26d299602553201ad639a4a5c)
+    * [15-year-old girl fatally shoots teacher and teenager at a Christian school in Wisconsin](https://apnews.com/article/shooting-christian-school-madison-wisconsin-a8e1ee353d7fdab2b86dfb355938d871)
     * [The Latest: Teacher and a student killed in a shooting at a private Christian school in Wisconsin](https://apnews.com/article/wisconsin-school-shooting-8c0610859b9fb285a7f67a1dce7b22d9)
     * [Things to know about the shooting at a Christian school in Wisconsin](https://apnews.com/article/school-shooting-wisconsin-things-to-know-3df4f40327e70aa863c4b5b36fd0a04b)
     
@@ -52,9 +52,9 @@ Menu
     
     TOP STORIES
     
+    * [Americans' trust in nation's court system hits record low, survey finds](https://apnews.com/article/donald-trump-joe-biden-courts-americans-trust-1d4d2e22e9699cc09b29ec6ac8f374e7)
+    * [Judge rejects Trump’s bid to toss hush money conviction because of Supreme Court immunity ruling](https://apnews.com/article/trump-hush-money-conviction-stormy-daniels-908465ed0b7f2005c72226b5b2546260)
     * [Trump weighs in on NY mayor, vaccines and drones in freewheeling press conference at Mar-a-Lago](https://apnews.com/article/trump-maralago-press-conference-44beea6cf8c93f070638842712bf3aca)
-    * [What's behind rising autism rates: A broader definition of autism and better screening](https://apnews.com/article/autism-rates-vaccines-trump-rfk-polio-4d1ef5bd69dc20533e95e8e34e0b1e86)
-    * [TikTok asks the Supreme Court for an emergency order to block a US ban unless it's sold](https://apnews.com/article/supreme-court-tiktok-lawsuit-china-101afd280e5018bc1296613517f041d6)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
-    * [Spurs coach Gregg Popovich expresses desire to return to bench in first comments since stroke](https://apnews.com/article/spurs-popovich-stroke-a06003d47d5a480e8e3d8681113f0b5f)
     * [Chiefs QB Patrick Mahomes has high-ankle sprain, status for Houston remains unclear, AP source says](https://apnews.com/article/kansas-city-chiefs-patrick-mahomes-injury-b1d2fa37c154828f6f76f78312f0562e)
-    * [Norfolk State interviews Michael Vick to be its football coach, according to report](https://apnews.com/article/norfolk-state-michael-vick-coach-64dc6004c339ea73798c2632f1b13370)
+    * [Michael Vick talks to Sacramento State and Norfolk State about head coaching jobs](https://apnews.com/article/norfolk-state-michael-vick-coach-64dc6004c339ea73798c2632f1b13370)
+    * [Vikings win 7th straight to forge tie for NFC North lead with 30-12 blowout of reeling Bears](https://apnews.com/article/bears-vikings-score-23d9db282d999097e2a72901be2d05ca)
     
     Newsletters
     
@@ -94,9 +94,9 @@ Menu
     
     TOP STORIES
     
-    * [These three new sports dramas punch above their weight](https://apnews.com/article/sports-movies-unstoppable-day-fight-fire-inside-26efbc7f942ce5c251a6cd8dad881b4a)
+    * [Barry Jenkins on why he made 'Mufasa' and how it changed him as a filmmaker](https://apnews.com/article/mufasa-barry-jenkins-lion-king-interview-9c70f2933f428d78e12a3ad7eca077f5)
+    * [Jay-Z's lawyer says accuser's rape claim is 'provably, demonstrably false'](https://apnews.com/article/jayz-diddy-sexual-assault-vmas-2cf826fcd87098585b63ea4b87f397b8)
     * [Stage spoofs of Hallmark TV movies are Christmas gifts for theaters](https://apnews.com/article/hallmark-christmas-holiday-movie-parody-theater-a2ffe1465b9492e88c58d683904ac87b)
-    * [Former TV host Carlos Watson gets nearly 10 years in prison in case about failed startup Ozy Media](https://apnews.com/article/carlos-watson-ozy-media-trial-sentencing-08f18ac01494d0b5f0285db32ff5ecb9)
     
 * [Business](https://apnews.com/business)
     
@@ -225,17 +225,17 @@ Menu
     
     TOP STORIES
     
+    * [Younger Asian Americans navigate something new to their generation: Taking up space](https://apnews.com/article/asian-americans-space-generations-3e042c230d94f01b5ce67f44eb917555)
     * [US to require passenger vehicles to sound alarms if rear passengers don't fasten their seat belts](https://apnews.com/article/nhtsa-rear-seat-belt-safety-1c0e6cc4e50f4edf9c0b8c24b1c0da07)
     * [Are you catching holiday blues instead of cheer? Here are some ways to find peace](https://apnews.com/article/holiday-christmas-mental-health-depression-anxiety-c65eef56bfa54bff48a8d00d5b782280)
-    * [Stage spoofs of Hallmark TV movies are Christmas gifts for theaters](https://apnews.com/article/hallmark-christmas-holiday-movie-parody-theater-a2ffe1465b9492e88c58d683904ac87b)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
-    * [Teacher and a teenage student killed in a shooting at a private Christian school in Wisconsin](https://apnews.com/article/wisconsin-school-shooting-498c8ad26d299602553201ad639a4a5c)
+    * [15-year-old girl fatally shoots teacher and teenager at a Christian school in Wisconsin](https://apnews.com/article/shooting-christian-school-madison-wisconsin-a8e1ee353d7fdab2b86dfb355938d871)
+    * [Teacher and a teenage student killed in a shooting at a Christian school in Wisconsin](https://apnews.com/article/wisconsin-school-shooting-498c8ad26d299602553201ad639a4a5c)
     * [Longtime Auburn football team pastor dies in an accident on an Alabama lake](https://apnews.com/article/lake-martin-auburn-football-pastor-accident-eda02c5804196211165052c1ded81454)
-    * [A second top Church of England cleric is facing calls to resign over his handling of abuse claims](https://apnews.com/article/church-of-england-archbishop-abuse-scandal-9553d1e0d7e1e675a686e0d2cd90fe64)
     
     Newsletters
     
@@ -250,10 +250,10 @@ Menu
     TOP STORIES
     
     * [Trump amenaza deportaciones masivas y Centroamérica se prepara ante llegada de migrantes vulnerables](https://apnews.com/article/honduras-trump-deportaciones-masivas-america-central-inmigracion-27dbe55e62a2ee02c67c1fd289316356)
-    * [Tiroteo en escuela de Wisconsin deja 3 muertos, incluida la atacante, y varios heridos](https://apnews.com/article/wisconsin-tiroteo-escuela-1899ce45daa7757f6bc9ad7140faa7e7)
-    * [Trump promete reanudar obras de muro fronterizo; sopesa indulto para el alcalde de NY, Eric Adams](https://apnews.com/article/eeuu-trump-rueda-de-prensa-maralago-alcalde-adams-nueva-york-indulto-gobierno-transicion-biden-51c3581752b5624f645a1be00b5f798d)
-    * [Francia acelera envío de ayuda a Mayotte tras paso del ciclón Chido; temen cientos de muertos](https://apnews.com/article/mayotte-chido-ciclon-francia-97ceaa5ce30b98d6f910ae9d84c6254a)
-    * [La fiscalía de Bolivia imputa a Evo Morales y requiere su detención por presunto abuso a una menor](https://apnews.com/article/bolivia-policia-regresa-chapare-feudo-cocalero-evo-morales-tras-protestas-94d96671dcdf493a4ef9c7010c870db2)
+    * [Congreso colombiano hunde por segunda vez la reforma política del gobierno de Petro](https://apnews.com/article/colombia-reforma-politica-congreso-oposicion-5e0b1d0469f6c85511fb697bb271e24b)
+    * [La Corte Suprema argentina confirma juicio contra Cristina Fernández por presunto lavado de dinero](https://apnews.com/article/argentina-corrupcion-cristina-fernandez-kirchner-juicio-presunto-lavado-fc7f1aa6e53064fe12235ea7d3ef3f32)
+    * [EEUU devuelve a México al exlíder del Cártel del Golfo, que enfrentará cargos en el país](https://apnews.com/article/mexico-osiel-cardenas-cartel-golfo-eeuu-5065791e574802c9f6479c32c791884f)
+    * [Juez de NY rechaza petición de Trump para desestimar declaración de culpabilidad](https://apnews.com/article/trump-nueva-york-juicio-corte-suprema-46f688e17e69f9cbd219831a070edfc6)
     
 * [Quizzes](https://apnews.com/quizzes)
     
@@ -432,7 +432,7 @@ Submit Search
     
     TOP STORIES
     
-    * [Teacher and a teenage student killed in a shooting at a private Christian school in Wisconsin](https://apnews.com/article/wisconsin-school-shooting-498c8ad26d299602553201ad639a4a5c)
+    * [15-year-old girl fatally shoots teacher and teenager at a Christian school in Wisconsin](https://apnews.com/article/shooting-christian-school-madison-wisconsin-a8e1ee353d7fdab2b86dfb355938d871)
     * [The Latest: Teacher and a student killed in a shooting at a private Christian school in Wisconsin](https://apnews.com/article/wisconsin-school-shooting-8c0610859b9fb285a7f67a1dce7b22d9)
     * [Things to know about the shooting at a Christian school in Wisconsin](https://apnews.com/article/school-shooting-wisconsin-things-to-know-3df4f40327e70aa863c4b5b36fd0a04b)
     
@@ -462,9 +462,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Americans' trust in nation's court system hits record low, survey finds](https://apnews.com/article/donald-trump-joe-biden-courts-americans-trust-1d4d2e22e9699cc09b29ec6ac8f374e7)
+    * [Judge rejects Trump’s bid to toss hush money conviction because of Supreme Court immunity ruling](https://apnews.com/article/trump-hush-money-conviction-stormy-daniels-908465ed0b7f2005c72226b5b2546260)
     * [Trump weighs in on NY mayor, vaccines and drones in freewheeling press conference at Mar-a-Lago](https://apnews.com/article/trump-maralago-press-conference-44beea6cf8c93f070638842712bf3aca)
-    * [What's behind rising autism rates: A broader definition of autism and better screening](https://apnews.com/article/autism-rates-vaccines-trump-rfk-polio-4d1ef5bd69dc20533e95e8e34e0b1e86)
-    * [TikTok asks the Supreme Court for an emergency order to block a US ban unless it's sold](https://apnews.com/article/supreme-court-tiktok-lawsuit-china-101afd280e5018bc1296613517f041d6)
     
     Newsletters
     
@@ -492,9 +492,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Spurs coach Gregg Popovich expresses desire to return to bench in first comments since stroke](https://apnews.com/article/spurs-popovich-stroke-a06003d47d5a480e8e3d8681113f0b5f)
     * [Chiefs QB Patrick Mahomes has high-ankle sprain, status for Houston remains unclear, AP source says](https://apnews.com/article/kansas-city-chiefs-patrick-mahomes-injury-b1d2fa37c154828f6f76f78312f0562e)
-    * [Norfolk State interviews Michael Vick to be its football coach, according to report](https://apnews.com/article/norfolk-state-michael-vick-coach-64dc6004c339ea73798c2632f1b13370)
+    * [Michael Vick talks to Sacramento State and Norfolk State about head coaching jobs](https://apnews.com/article/norfolk-state-michael-vick-coach-64dc6004c339ea73798c2632f1b13370)
+    * [Vikings win 7th straight to forge tie for NFC North lead with 30-12 blowout of reeling Bears](https://apnews.com/article/bears-vikings-score-23d9db282d999097e2a72901be2d05ca)
     
     Newsletters
     
@@ -521,9 +521,9 @@ Submit Search
     
     TOP STORIES
     
-    * [These three new sports dramas punch above their weight](https://apnews.com/article/sports-movies-unstoppable-day-fight-fire-inside-26efbc7f942ce5c251a6cd8dad881b4a)
+    * [Barry Jenkins on why he made 'Mufasa' and how it changed him as a filmmaker](https://apnews.com/article/mufasa-barry-jenkins-lion-king-interview-9c70f2933f428d78e12a3ad7eca077f5)
+    * [Jay-Z's lawyer says accuser's rape claim is 'provably, demonstrably false'](https://apnews.com/article/jayz-diddy-sexual-assault-vmas-2cf826fcd87098585b63ea4b87f397b8)
     * [Stage spoofs of Hallmark TV movies are Christmas gifts for theaters](https://apnews.com/article/hallmark-christmas-holiday-movie-parody-theater-a2ffe1465b9492e88c58d683904ac87b)
-    * [Former TV host Carlos Watson gets nearly 10 years in prison in case about failed startup Ozy Media](https://apnews.com/article/carlos-watson-ozy-media-trial-sentencing-08f18ac01494d0b5f0285db32ff5ecb9)
     
 * [Business](https://apnews.com/business)
     
@@ -684,17 +684,17 @@ Submit Search
     
     TOP STORIES
     
+    * [Younger Asian Americans navigate something new to their generation: Taking up space](https://apnews.com/article/asian-americans-space-generations-3e042c230d94f01b5ce67f44eb917555)
     * [US to require passenger vehicles to sound alarms if rear passengers don't fasten their seat belts](https://apnews.com/article/nhtsa-rear-seat-belt-safety-1c0e6cc4e50f4edf9c0b8c24b1c0da07)
     * [Are you catching holiday blues instead of cheer? Here are some ways to find peace](https://apnews.com/article/holiday-christmas-mental-health-depression-anxiety-c65eef56bfa54bff48a8d00d5b782280)
-    * [Stage spoofs of Hallmark TV movies are Christmas gifts for theaters](https://apnews.com/article/hallmark-christmas-holiday-movie-parody-theater-a2ffe1465b9492e88c58d683904ac87b)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
-    * [Teacher and a teenage student killed in a shooting at a private Christian school in Wisconsin](https://apnews.com/article/wisconsin-school-shooting-498c8ad26d299602553201ad639a4a5c)
+    * [15-year-old girl fatally shoots teacher and teenager at a Christian school in Wisconsin](https://apnews.com/article/shooting-christian-school-madison-wisconsin-a8e1ee353d7fdab2b86dfb355938d871)
+    * [Teacher and a teenage student killed in a shooting at a Christian school in Wisconsin](https://apnews.com/article/wisconsin-school-shooting-498c8ad26d299602553201ad639a4a5c)
     * [Longtime Auburn football team pastor dies in an accident on an Alabama lake](https://apnews.com/article/lake-martin-auburn-football-pastor-accident-eda02c5804196211165052c1ded81454)
-    * [A second top Church of England cleric is facing calls to resign over his handling of abuse claims](https://apnews.com/article/church-of-england-archbishop-abuse-scandal-9553d1e0d7e1e675a686e0d2cd90fe64)
     
     Newsletters
     
@@ -709,10 +709,10 @@ Submit Search
     TOP STORIES
     
     * [Trump amenaza deportaciones masivas y Centroamérica se prepara ante llegada de migrantes vulnerables](https://apnews.com/article/honduras-trump-deportaciones-masivas-america-central-inmigracion-27dbe55e62a2ee02c67c1fd289316356)
-    * [Tiroteo en escuela de Wisconsin deja 3 muertos, incluida la atacante, y varios heridos](https://apnews.com/article/wisconsin-tiroteo-escuela-1899ce45daa7757f6bc9ad7140faa7e7)
-    * [Trump promete reanudar obras de muro fronterizo; sopesa indulto para el alcalde de NY, Eric Adams](https://apnews.com/article/eeuu-trump-rueda-de-prensa-maralago-alcalde-adams-nueva-york-indulto-gobierno-transicion-biden-51c3581752b5624f645a1be00b5f798d)
-    * [Francia acelera envío de ayuda a Mayotte tras paso del ciclón Chido; temen cientos de muertos](https://apnews.com/article/mayotte-chido-ciclon-francia-97ceaa5ce30b98d6f910ae9d84c6254a)
-    * [La fiscalía de Bolivia imputa a Evo Morales y requiere su detención por presunto abuso a una menor](https://apnews.com/article/bolivia-policia-regresa-chapare-feudo-cocalero-evo-morales-tras-protestas-94d96671dcdf493a4ef9c7010c870db2)
+    * [Congreso colombiano hunde por segunda vez la reforma política del gobierno de Petro](https://apnews.com/article/colombia-reforma-politica-congreso-oposicion-5e0b1d0469f6c85511fb697bb271e24b)
+    * [La Corte Suprema argentina confirma juicio contra Cristina Fernández por presunto lavado de dinero](https://apnews.com/article/argentina-corrupcion-cristina-fernandez-kirchner-juicio-presunto-lavado-fc7f1aa6e53064fe12235ea7d3ef3f32)
+    * [EEUU devuelve a México al exlíder del Cártel del Golfo, que enfrentará cargos en el país](https://apnews.com/article/mexico-osiel-cardenas-cartel-golfo-eeuu-5065791e574802c9f6479c32c791884f)
+    * [Juez de NY rechaza petición de Trump para desestimar declaración de culpabilidad](https://apnews.com/article/trump-nueva-york-juicio-corte-suprema-46f688e17e69f9cbd219831a070edfc6)
     
 * [Quizzes](https://apnews.com/quizzes)
     
