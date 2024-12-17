@@ -15,56 +15,56 @@
     
     Trending
     
-    * [Syria](https://www.euronews.com/tag/syria)
-    * [Israel](https://www.euronews.com/tag/israel)
-    * [Russia's invasion of Ukraine](https://www.euronews.com/tag/russia-ukraine-invasion)
-    * [Music](https://www.euronews.com/tag/music)
-    * [Cinema](https://www.euronews.com/tag/cinema)
-    * [Keir Starmer](https://www.euronews.com/tag/keir-starmer)
+    * [France](https://www.euronews.com/tag/france)
+    * [Russia](https://www.euronews.com/tag/russia)
+    * [Mayotte](https://www.euronews.com/tag/mayotte)
+    * [EU Policy](https://www.euronews.com/tag/eu-policy)
+    * [Donald Trump](https://www.euronews.com/tag/donald-trump)
+    * [Cyclone](https://www.euronews.com/tag/cyclone)
     
     * * *
     
     Latest stories
     
-    [![https://www.theguardian.com/music/2024/dec/16/slowthai-cleared-oxford-crown-court](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "https://www.theguardian.com/music/2024/dec/16/slowthai-cleared-oxford-crown-court")
+    [!['Kneecap' director Rich Peppiatt talks to Euronews Culture about his film](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "'Kneecap' director Rich Peppiatt talks to Euronews Culture about his film")
     
-    ![https://www.theguardian.com/music/2024/dec/16/slowthai-cleared-oxford-crown-court](https://static.euronews.com/articles/stories/08/87/61/34/368x207_cmsv2_0c366287-45a6-5780-9cd5-aa24d0c3c358-8876134.jpg "https://www.theguardian.com/music/2024/dec/16/slowthai-cleared-oxford-crown-court")](https://www.euronews.com/culture/2024/12/16/grammy-nominated-rapper-slowthai-found-not-guilty-of-raping-two-women-during-house-party)
-    
-    Now playing Next
-    
-    [Culture news](https://www.euronews.com/culture/culture-news)
-    
-    ### [Grammy-nominated rapper Slowthai cleared of raping two women](https://www.euronews.com/culture/2024/12/16/grammy-nominated-rapper-slowthai-found-not-guilty-of-raping-two-women-during-house-party)
-    
-    [![German Chancellor Olaf Scholz attends the cabinet meeting at the chancellery in Berlin, Germany, Wednesday, Dec. 11, 2024. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "German Chancellor Olaf Scholz attends the cabinet meeting at the chancellery in Berlin, Germany, Wednesday, Dec. 11, 2024. ")
-    
-    ![German Chancellor Olaf Scholz attends the cabinet meeting at the chancellery in Berlin, Germany, Wednesday, Dec. 11, 2024. ](https://static.euronews.com/articles/stories/08/91/39/32/368x207_cmsv2_eea2fdd9-dae6-5b2e-8423-985759dd056b-8913932.jpg "German Chancellor Olaf Scholz attends the cabinet meeting at the chancellery in Berlin, Germany, Wednesday, Dec. 11, 2024. ")](https://www.euronews.com/2024/12/16/scholz-loses-no-confidence-vote-against-him-triggering-early-elections)
+    !['Kneecap' director Rich Peppiatt talks to Euronews Culture about his film](https://static.euronews.com/articles/stories/08/91/41/56/368x207_cmsv2_f74ce69e-8868-5594-b59f-546309a9a2ac-8914156.jpg "'Kneecap' director Rich Peppiatt talks to Euronews Culture about his film")](https://www.euronews.com/culture/2024/12/17/kneecap-director-rich-peppiatt-the-hegemony-of-english-is-making-people-more-monolingual)
     
     Now playing Next
     
-    [World News](https://www.euronews.com/programs/world)
+    [Cinema](https://www.prod.euronews.com/culture/culture-series/cinema)
     
-    ### [Breaking news. Germany's Scholz loses no-confidence vote, triggering early election](https://www.euronews.com/2024/12/16/scholz-loses-no-confidence-vote-against-him-triggering-early-elections)
+    ### ['Kneecap' director on hip-hop, drugs and preserving Belfast culture](https://www.euronews.com/culture/2024/12/17/kneecap-director-rich-peppiatt-the-hegemony-of-english-is-making-people-more-monolingual)
     
-    [![People buy groceries at a Walmart Superstore in Secaucus, New Jersey, July 11, 2024. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "People buy groceries at a Walmart Superstore in Secaucus, New Jersey, July 11, 2024. ")
+    [![Damaged houses are seen in Mamoudzou, in the French Indian Ocean territory of Mayotte.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Damaged houses are seen in Mamoudzou, in the French Indian Ocean territory of Mayotte.")
     
-    ![People buy groceries at a Walmart Superstore in Secaucus, New Jersey, July 11, 2024. ](https://static.euronews.com/articles/stories/08/91/40/86/368x207_cmsv2_27a7c4d5-bd22-5072-9cce-166888f5504a-8914086.jpg "People buy groceries at a Walmart Superstore in Secaucus, New Jersey, July 11, 2024. ")](https://www.euronews.com/2024/12/16/european-central-bank-warns-of-how-a-shift-in-us-trade-policies-could-affect-the-eu)
-    
-    Now playing Next
-    
-    [World News](https://www.euronews.com/programs/world)
-    
-    ### [European Central Bank warns of effects of shift in US trade policies](https://www.euronews.com/2024/12/16/european-central-bank-warns-of-how-a-shift-in-us-trade-policies-could-affect-the-eu)
-    
-    [![Vivendi Chairman Vincent Bollore attends a hearing of a parliamentary inquiry commission at the National Assembly in Paris. 13 March 2024.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Vivendi Chairman Vincent Bollore attends a hearing of a parliamentary inquiry commission at the National Assembly in Paris. 13 March 2024.")
-    
-    ![Vivendi Chairman Vincent Bollore attends a hearing of a parliamentary inquiry commission at the National Assembly in Paris. 13 March 2024.](https://static.euronews.com/articles/stories/08/91/46/34/368x207_cmsv2_3e610f7b-5881-5c53-bd40-6e3b19c0928a-8914634.jpg "Vivendi Chairman Vincent Bollore attends a hearing of a parliamentary inquiry commission at the National Assembly in Paris. 13 March 2024.")](https://www.euronews.com/business/2024/12/16/canal-shares-see-drop-on-london-trading-debut-after-split-from-vivendi)
+    ![Damaged houses are seen in Mamoudzou, in the French Indian Ocean territory of Mayotte.](https://static.euronews.com/articles/stories/08/91/68/50/368x207_cmsv2_49409769-ed83-5224-baae-9d38ae392d5f-8916850.jpg "Damaged houses are seen in Mamoudzou, in the French Indian Ocean territory of Mayotte.")](https://www.euronews.com/green/2024/12/17/cyclone-chido-are-european-countries-throwing-their-overseas-territories-to-the-climate-wo)
     
     Now playing Next
     
-    [Business](https://www.euronews.com/business/business)
+    [Climate](https://www.prod.euronews.com/green/climate)
     
-    ### [Canal+ shares drop on London trading debut after split from Vivendi](https://www.euronews.com/business/2024/12/16/canal-shares-see-drop-on-london-trading-debut-after-split-from-vivendi)
+    ### [Is climate change to blame for deadly Cyclone Chido?](https://www.euronews.com/green/2024/12/17/cyclone-chido-are-european-countries-throwing-their-overseas-territories-to-the-climate-wo)
+    
+    [![Landslide near an international shipping terminal in Port Vila](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Landslide near an international shipping terminal in Port Vila")
+    
+    ![Landslide near an international shipping terminal in Port Vila](https://static.euronews.com/articles/stories/08/91/54/08/368x207_cmsv2_fa037d1e-d50a-5381-a0ba-52042837851f-8915408.jpg "Landslide near an international shipping terminal in Port Vila")](https://www.euronews.com/video/2024/12/17/watch-vanuatu-shaken-by-73-earthquake)
+    
+    Now playing Next
+    
+    [No Comment](https://www.euronews.com/nocomment)
+    
+    ### [Watch: Vanuatu shaken by 7.3 earthquake](https://www.euronews.com/video/2024/12/17/watch-vanuatu-shaken-by-73-earthquake)
+    
+    [![Tom Cruise gets a top US Navy honour for boosting the military with screen roles ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Tom Cruise gets a top US Navy honour for boosting the military with screen roles ")
+    
+    ![Tom Cruise gets a top US Navy honour for boosting the military with screen roles ](https://static.euronews.com/articles/stories/08/91/69/96/368x207_cmsv2_8caef360-2d1d-5927-bd90-4acc16a36b00-8916996.jpg "Tom Cruise gets a top US Navy honour for boosting the military with screen roles ")](https://www.euronews.com/culture/2024/12/17/tom-cruise-gets-top-us-navy-honour-for-boosting-the-military-with-screen-roles)
+    
+    Now playing Next
+    
+    [Culture news](https://www.prod.euronews.com/culture/culture-news)
+    
+    ### [Tom Cruise gets top US Navy honour in London](https://www.euronews.com/culture/2024/12/17/tom-cruise-gets-top-us-navy-honour-for-boosting-the-military-with-screen-roles)
     
 * [Europe](https://www.euronews.com/my-europe)
     
@@ -316,6 +316,9 @@ More
 
 Special coverage
 
+* [Climate](https://www.euronews.com/special/climate)
+* [Depth of Field](https://www.euronews.com/special/depth-of-field)
+* [Kazakhstan](https://www.euronews.com/special/kazakhstan)
 * [The New Uzbekistan](https://www.euronews.com/special/a-new-uzbekistan)
 * [Azerbaijan Diary](https://www.euronews.com/special/azerbaijan-diary)
 * [Discover Algeria](https://www.euronews.com/special/discover-algeria)
@@ -331,16 +334,16 @@ Partner content
 
 * [Better Connected](https://www.euronews.com/partnercontent/hitachi/better-connected/EN-index.html)
 * [Classic Piano Competition](https://www.euronews.com/partnercontent/cmdi/classic-piano-competition-2024/EN-index.html)
-* [Digital Garden City Nation](https://www.euronews.com/partnercontent/world/pmo-japan/)
+* [Powering Progress](https://www.euronews.com/partnercontent/iberdrola/renewables/EN-index.html)
 * [Experience Brazil](https://www.euronews.com/partnercontent/embratur/experience-brazil/EN-index.html)
 * [Galaxy Brain Investor](https://www.euronews.com/partnercontent/capital/galaxy-brain-investor/EN-index.html)
 * [Kerala Tourism](https://www.euronews.com/partnercontent/travel/kerala-tourism/)
 * [My Tokyo](https://www.euronews.com/partnercontent/tcvb/my-tokyo/EN-index.html)
-* [Powering Progress](https://www.euronews.com/partnercontent/iberdrola/renewables/EN-index.html)
+* [Digital Garden City Nation](https://www.euronews.com/partnercontent/world/pmo-japan/)
 * [Securing the future](https://www.euronews.com/partnercontent/intel/securing-the-future/EN-index.html)
 * [Sparkle](https://www.euronews.com/partnercontent/sparkle/your-world-connected/EN-index.html)
-* [Turkmenistan – Our story](https://www.euronews.com/partnercontent/turkmenistan/our-story/EN-index.html)
 * [Wine of Moldova](https://www.euronews.com/partnercontent/moldova/wine-of-moldova/EN-index.html)
+* [Turkmenistan – Our story](https://www.euronews.com/partnercontent/turkmenistan/our-story/EN-index.html)
 
 * * *
 
@@ -361,62 +364,62 @@ Close menu sidebar
 
 Trending
 
-* [Syria](https://www.euronews.com/tag/syria)
-* [Israel](https://www.euronews.com/tag/israel)
-* [Russia's invasion of Ukraine](https://www.euronews.com/tag/russia-ukraine-invasion)
-* [Music](https://www.euronews.com/tag/music)
-* [Cinema](https://www.euronews.com/tag/cinema)
-* [Keir Starmer](https://www.euronews.com/tag/keir-starmer)
+* [France](https://www.euronews.com/tag/france)
+* [Russia](https://www.euronews.com/tag/russia)
+* [Mayotte](https://www.euronews.com/tag/mayotte)
+* [EU Policy](https://www.euronews.com/tag/eu-policy)
+* [Donald Trump](https://www.euronews.com/tag/donald-trump)
+* [Cyclone](https://www.euronews.com/tag/cyclone)
 
 * * *
 
 Latest stories
 
-[![https://www.theguardian.com/music/2024/dec/16/slowthai-cleared-oxford-crown-court](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "https://www.theguardian.com/music/2024/dec/16/slowthai-cleared-oxford-crown-court")
+[!['Kneecap' director Rich Peppiatt talks to Euronews Culture about his film](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "'Kneecap' director Rich Peppiatt talks to Euronews Culture about his film")
 
-![https://www.theguardian.com/music/2024/dec/16/slowthai-cleared-oxford-crown-court](https://static.euronews.com/articles/stories/08/87/61/34/368x207_cmsv2_0c366287-45a6-5780-9cd5-aa24d0c3c358-8876134.jpg "https://www.theguardian.com/music/2024/dec/16/slowthai-cleared-oxford-crown-court")](https://www.euronews.com/culture/2024/12/16/grammy-nominated-rapper-slowthai-found-not-guilty-of-raping-two-women-during-house-party)
+!['Kneecap' director Rich Peppiatt talks to Euronews Culture about his film](https://static.euronews.com/articles/stories/08/91/41/56/368x207_cmsv2_f74ce69e-8868-5594-b59f-546309a9a2ac-8914156.jpg "'Kneecap' director Rich Peppiatt talks to Euronews Culture about his film")](https://www.euronews.com/culture/2024/12/17/kneecap-director-rich-peppiatt-the-hegemony-of-english-is-making-people-more-monolingual)
 
 Now playing Next
 
-[Culture news](https://www.euronews.com/culture/culture-news)
+[Cinema](https://www.prod.euronews.com/culture/culture-series/cinema)
 
-### [Grammy-nominated rapper Slowthai cleared of raping two women](https://www.euronews.com/culture/2024/12/16/grammy-nominated-rapper-slowthai-found-not-guilty-of-raping-two-women-during-house-party)
+### ['Kneecap' director on hip-hop, drugs and preserving Belfast culture](https://www.euronews.com/culture/2024/12/17/kneecap-director-rich-peppiatt-the-hegemony-of-english-is-making-people-more-monolingual)
 
 * * *
 
-[![German Chancellor Olaf Scholz attends the cabinet meeting at the chancellery in Berlin, Germany, Wednesday, Dec. 11, 2024. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "German Chancellor Olaf Scholz attends the cabinet meeting at the chancellery in Berlin, Germany, Wednesday, Dec. 11, 2024. ")
+[![Damaged houses are seen in Mamoudzou, in the French Indian Ocean territory of Mayotte.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Damaged houses are seen in Mamoudzou, in the French Indian Ocean territory of Mayotte.")
 
-![German Chancellor Olaf Scholz attends the cabinet meeting at the chancellery in Berlin, Germany, Wednesday, Dec. 11, 2024. ](https://static.euronews.com/articles/stories/08/91/39/32/368x207_cmsv2_eea2fdd9-dae6-5b2e-8423-985759dd056b-8913932.jpg "German Chancellor Olaf Scholz attends the cabinet meeting at the chancellery in Berlin, Germany, Wednesday, Dec. 11, 2024. ")](https://www.euronews.com/2024/12/16/scholz-loses-no-confidence-vote-against-him-triggering-early-elections)
+![Damaged houses are seen in Mamoudzou, in the French Indian Ocean territory of Mayotte.](https://static.euronews.com/articles/stories/08/91/68/50/368x207_cmsv2_49409769-ed83-5224-baae-9d38ae392d5f-8916850.jpg "Damaged houses are seen in Mamoudzou, in the French Indian Ocean territory of Mayotte.")](https://www.euronews.com/green/2024/12/17/cyclone-chido-are-european-countries-throwing-their-overseas-territories-to-the-climate-wo)
 
 Now playing Next
 
-[World News](https://www.euronews.com/programs/world)
+[Climate](https://www.prod.euronews.com/green/climate)
 
-### [Breaking news. Germany's Scholz loses no-confidence vote, triggering early election](https://www.euronews.com/2024/12/16/scholz-loses-no-confidence-vote-against-him-triggering-early-elections)
+### [Is climate change to blame for deadly Cyclone Chido?](https://www.euronews.com/green/2024/12/17/cyclone-chido-are-european-countries-throwing-their-overseas-territories-to-the-climate-wo)
 
 * * *
 
-[![People buy groceries at a Walmart Superstore in Secaucus, New Jersey, July 11, 2024. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "People buy groceries at a Walmart Superstore in Secaucus, New Jersey, July 11, 2024. ")
+[![Landslide near an international shipping terminal in Port Vila](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Landslide near an international shipping terminal in Port Vila")
 
-![People buy groceries at a Walmart Superstore in Secaucus, New Jersey, July 11, 2024. ](https://static.euronews.com/articles/stories/08/91/40/86/368x207_cmsv2_27a7c4d5-bd22-5072-9cce-166888f5504a-8914086.jpg "People buy groceries at a Walmart Superstore in Secaucus, New Jersey, July 11, 2024. ")](https://www.euronews.com/2024/12/16/european-central-bank-warns-of-how-a-shift-in-us-trade-policies-could-affect-the-eu)
+![Landslide near an international shipping terminal in Port Vila](https://static.euronews.com/articles/stories/08/91/54/08/368x207_cmsv2_fa037d1e-d50a-5381-a0ba-52042837851f-8915408.jpg "Landslide near an international shipping terminal in Port Vila")](https://www.euronews.com/video/2024/12/17/watch-vanuatu-shaken-by-73-earthquake)
 
 Now playing Next
 
-[World News](https://www.euronews.com/programs/world)
+[No Comment](https://www.euronews.com/nocomment)
 
-### [European Central Bank warns of effects of shift in US trade policies](https://www.euronews.com/2024/12/16/european-central-bank-warns-of-how-a-shift-in-us-trade-policies-could-affect-the-eu)
+### [Watch: Vanuatu shaken by 7.3 earthquake](https://www.euronews.com/video/2024/12/17/watch-vanuatu-shaken-by-73-earthquake)
 
 * * *
 
-[![Vivendi Chairman Vincent Bollore attends a hearing of a parliamentary inquiry commission at the National Assembly in Paris. 13 March 2024.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Vivendi Chairman Vincent Bollore attends a hearing of a parliamentary inquiry commission at the National Assembly in Paris. 13 March 2024.")
+[![Tom Cruise gets a top US Navy honour for boosting the military with screen roles ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Tom Cruise gets a top US Navy honour for boosting the military with screen roles ")
 
-![Vivendi Chairman Vincent Bollore attends a hearing of a parliamentary inquiry commission at the National Assembly in Paris. 13 March 2024.](https://static.euronews.com/articles/stories/08/91/46/34/368x207_cmsv2_3e610f7b-5881-5c53-bd40-6e3b19c0928a-8914634.jpg "Vivendi Chairman Vincent Bollore attends a hearing of a parliamentary inquiry commission at the National Assembly in Paris. 13 March 2024.")](https://www.euronews.com/business/2024/12/16/canal-shares-see-drop-on-london-trading-debut-after-split-from-vivendi)
+![Tom Cruise gets a top US Navy honour for boosting the military with screen roles ](https://static.euronews.com/articles/stories/08/91/69/96/368x207_cmsv2_8caef360-2d1d-5927-bd90-4acc16a36b00-8916996.jpg "Tom Cruise gets a top US Navy honour for boosting the military with screen roles ")](https://www.euronews.com/culture/2024/12/17/tom-cruise-gets-top-us-navy-honour-for-boosting-the-military-with-screen-roles)
 
 Now playing Next
 
-[Business](https://www.euronews.com/business/business)
+[Culture news](https://www.prod.euronews.com/culture/culture-news)
 
-### [Canal+ shares drop on London trading debut after split from Vivendi](https://www.euronews.com/business/2024/12/16/canal-shares-see-drop-on-london-trading-debut-after-split-from-vivendi)
+### [Tom Cruise gets top US Navy honour in London](https://www.euronews.com/culture/2024/12/17/tom-cruise-gets-top-us-navy-honour-for-boosting-the-military-with-screen-roles)
 
 [Europe](https://www.euronews.com/my-europe)
 
@@ -670,6 +673,9 @@ More
 
 Special coverage
 
+* [Climate](https://www.euronews.com/special/climate)
+* [Depth of Field](https://www.euronews.com/special/depth-of-field)
+* [Kazakhstan](https://www.euronews.com/special/kazakhstan)
 * [The New Uzbekistan](https://www.euronews.com/special/a-new-uzbekistan)
 * [Azerbaijan Diary](https://www.euronews.com/special/azerbaijan-diary)
 * [Discover Algeria](https://www.euronews.com/special/discover-algeria)
@@ -685,16 +691,16 @@ Partner content
 
 * [Better Connected](https://www.euronews.com/partnercontent/hitachi/better-connected/EN-index.html)
 * [Classic Piano Competition](https://www.euronews.com/partnercontent/cmdi/classic-piano-competition-2024/EN-index.html)
-* [Digital Garden City Nation](https://www.euronews.com/partnercontent/world/pmo-japan/)
+* [Powering Progress](https://www.euronews.com/partnercontent/iberdrola/renewables/EN-index.html)
 * [Experience Brazil](https://www.euronews.com/partnercontent/embratur/experience-brazil/EN-index.html)
 * [Galaxy Brain Investor](https://www.euronews.com/partnercontent/capital/galaxy-brain-investor/EN-index.html)
 * [Kerala Tourism](https://www.euronews.com/partnercontent/travel/kerala-tourism/)
 * [My Tokyo](https://www.euronews.com/partnercontent/tcvb/my-tokyo/EN-index.html)
-* [Powering Progress](https://www.euronews.com/partnercontent/iberdrola/renewables/EN-index.html)
+* [Digital Garden City Nation](https://www.euronews.com/partnercontent/world/pmo-japan/)
 * [Securing the future](https://www.euronews.com/partnercontent/intel/securing-the-future/EN-index.html)
 * [Sparkle](https://www.euronews.com/partnercontent/sparkle/your-world-connected/EN-index.html)
-* [Turkmenistan – Our story](https://www.euronews.com/partnercontent/turkmenistan/our-story/EN-index.html)
 * [Wine of Moldova](https://www.euronews.com/partnercontent/moldova/wine-of-moldova/EN-index.html)
+* [Turkmenistan – Our story](https://www.euronews.com/partnercontent/turkmenistan/our-story/EN-index.html)
 
 * * *
 
