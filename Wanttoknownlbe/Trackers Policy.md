@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/het-antwoord-op-de-crisis-is-gronden/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/hoofdartikelen/wat-gebeurt-er-nou-eigenlijk-het-virusverhaal/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
@@ -88,9 +88,9 @@ Inschrijven
 
 #### Quote van de week
 
-> Één van de belangrijkste functies van georganiseerde religie, is het afschermen van de mens van een directe verbinding met god.
+> Het kost een mens 2 jaar om te leren praten en 60 om te leren zwijgen.
 > 
-> Carl Gustav Jung (1865-1971), psychiater
+> Ernest Hemmingway (1899 – 1961), journalist/auteur
 
 [![Energetische atlasprofilax](https://www.wanttoknow.nl/wp-content/uploads/Atlas-banner2.jpg)](https://lucardie.eu/de-energetische-atlascorrectieeen-nieuwe-balans/)
 
@@ -131,6 +131,22 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 * [Last 8](#first)
 * [9 - 16](#second)
 * [17 - 24](#third)
+
+![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
+
+##### **arnold2** reacts on:
+
+##### Het gouden Trump-tijdperk begint NU!
+
+[PS Met hij was ook degene die het Oekraïne verdrag tekende..…](https://www.wanttoknow.nl/politiek/het-gouden-trump-tijdperk-begint-nu/comment-page-1/#comment-626385)
+
+![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
+
+##### **arnold2** reacts on:
+
+##### Het gouden Trump-tijdperk begint NU!
+
+[Hoi ikzie,vandaag kijk ik weer naar ongehoord nieuws en kenn…](https://www.wanttoknow.nl/politiek/het-gouden-trump-tijdperk-begint-nu/comment-page-1/#comment-626384)
 
 ![ikzie](https://secure.gravatar.com/avatar/99005f7fd1b9bebeaf2ae5766f00b3c6?s=50&d=identicon&r=g)
 
@@ -371,22 +387,6 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 ##### Fleur Agema moet/wil KLEUR BEKENNEN…!!
 
 [Ah.......en mocht er iemand hier willen roepen dat ik uit mi…](https://www.wanttoknow.nl/overige/fleur-agema-moet-wil-kleur-bekennen/comment-page-1/#comment-626352)
-
-![inhetmeer](https://secure.gravatar.com/avatar/e59606caac6119e46905799cf0c15cc3?s=50&d=identicon&r=g)
-
-##### **inhetmeer** reacts on:
-
-##### Fleur Agema moet/wil KLEUR BEKENNEN…!!
-
-[werk van chemtrails.......en maar roepen over milieuvervuili…](https://www.wanttoknow.nl/overige/fleur-agema-moet-wil-kleur-bekennen/comment-page-1/#comment-626351)
-
-![inhetmeer](https://secure.gravatar.com/avatar/e59606caac6119e46905799cf0c15cc3?s=50&d=identicon&r=g)
-
-##### **inhetmeer** reacts on:
-
-##### Fleur Agema moet/wil KLEUR BEKENNEN…!!
-
-[In de oppositie was Agema nogal eens stevig te horen........…](https://www.wanttoknow.nl/overige/fleur-agema-moet-wil-kleur-bekennen/comment-page-1/#comment-626350)
 
 [![VaccinVrij banner](https://www.wanttoknow.nl/wp-content/uploads/stichting-vaccin-vrij-banner.jpg)](https://stichtingvaccinvrij.nl/)
 
