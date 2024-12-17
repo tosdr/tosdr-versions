@@ -29,17 +29,17 @@ Version All 1.21.4 1.21.3 1.21.2 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 
 
 Active Servers
 
-[![TrekCraft](plugins/MineCraft/icons/25x25xTrekCraft_1691578684.png.pagespeed.ic.kw9HXByTco.jpg)
+[![creativefun](plugins/MineCraft/icons/25x25xcreativefun_1602168002.png.pagespeed.ic.xhW37hCj2R.jpg)
 
-TrekCraft: Towny](https://minecraft-server.net/details/TrekCraft/ "TrekCraft: Towny")[![HeartSMP](plugins/MineCraft/icons/25x25xHeartSMP_1733143122.png.pagespeed.ic._3YAt9VHdc.png)
+CreativeFun](https://minecraft-server.net/details/creativefun/ "CreativeFun")[![Lifelink](plugins/MineCraft/icons/25x25xLifelink_1731729199.png.pagespeed.ic.OSXJLM33D2.jpg)
 
-HeartSMP SEASON 2](https://minecraft-server.net/details/HeartSMP/ "HeartSMP SEASON 2")[![WoodySurvival](plugins/MineCraft/icons/25x25xWoodySurvival_1733849606.png.pagespeed.ic.fPtUr4j4Mi.png)
+Lifelink Network](https://minecraft-server.net/details/Lifelink/ "Lifelink Network")[![TotalVanilla](plugins/MineCraft/icons/25x25xTotalVanilla_1734020162.png.pagespeed.ic.TdWQjrJnTo.jpg)
 
-Woody Survival](https://minecraft-server.net/details/WoodySurvival/ "Woody Survival")[![OblivionPrison](plugins/MineCraft/icons/25x25xOblivionPrison_1716869247.png.pagespeed.ic.FbvFd6IVCa.jpg)
+Total Vanilla](https://minecraft-server.net/details/TotalVanilla/ "Total Vanilla")[![EcoSMP](plugins/MineCraft/icons/25x25xEcoSMP_1714532090.png.pagespeed.ic._cNYKCUl0B.png)
 
-Oblivion Prison FREE RANK|NEED STAFF| FREE OP CRATES](https://minecraft-server.net/details/OblivionPrison/ "Oblivion Prison FREE RANK|NEED STAFF| FREE OP CRATES")[![StormyLagoon](plugins/MineCraft/icons/25x25xStormyLagoon_1734154442.png.pagespeed.ic.BpAXGCTt4U.png)
+EcoSMP](https://minecraft-server.net/details/EcoSMP/ "EcoSMP")[![minetown-5791](plugins/MineCraft/icons/25x25xminetown-5791_1733509674.png.pagespeed.ic.XP_3OjI3ug.png)
 
-Stormy Lagoon - Crossplay 1.21.1](https://minecraft-server.net/details/StormyLagoon/ "Stormy Lagoon - Crossplay 1.21.1")
+Minetown - 1.8 - 1.21.3](https://minecraft-server.net/details/minetown-5791/ "Minetown - 1.8 - 1.21.3")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Refund
@@ -116,4 +116,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06847 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06373 - Created by [Debaucus](https://debauc.us/)
