@@ -21,9 +21,6 @@ The **https://** ensures that you are connecting to the official website and tha
 * [English](https://www.ftc.gov/)
 * [español](https://www.ftc.gov/es/ftc-en-espa%C3%B1ol)
 
-Secondary Menu
---------------
-
 * [Report Fraud](https://reportfraud.ftc.gov/)
 * [Get Consumer Alerts](https://public.govdelivery.com/accounts/USFTCCONSUMER/subscriber/new?topic_id=USFTCCONSUMER_8)
 * [Search the Legal Library](https://www.ftc.gov/legal-library)
@@ -224,9 +221,9 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [New FTC Data Show Skyrocketing Consumer Reports About Game-Like Online Job Scams](https://www.ftc.gov/news-events/news/press-releases/2024/12/new-ftc-data-show-skyrocketing-consumer-reports-about-game-online-job-scams)
+    ### [FTC, Illinois Attorney General to Announce Major Law Enforcement Action in Chicago Tuesday](https://www.ftc.gov/news-events/news/press-releases/2024/12/ftc-illinois-attorney-general-announce-major-law-enforcement-action-chicago-tuesday)
     
-    December 12, 2024
+    December 16, 2024
     
     [View News and Events](https://www.ftc.gov/news-events)
     
@@ -328,9 +325,6 @@ Main Menu Mega
 
 * [English](https://www.ftc.gov/)
 * [español](https://www.ftc.gov/es/ftc-en-espa%C3%B1ol)
-
-Secondary Menu
---------------
 
 * [Report Fraud](https://reportfraud.ftc.gov/)
 * [Get Consumer Alerts](https://public.govdelivery.com/accounts/USFTCCONSUMER/subscriber/new?topic_id=USFTCCONSUMER_8)
