@@ -39,23 +39,23 @@ Search results
 
 * [Customer service](https://www.rangextd.com/pages/about-us)
 
- ![](//savvysmartdeals.com/cdn/shop/files/Christmas_Red_mobile.png?crop=center&height=530&v=1734343619&width=700)![](//savvysmartdeals.com/cdn/shop/files/Christmas_Red.png?crop=center&height=554&v=1734343619&width=700)
+ ![](//savvysmartdeals.com/cdn/shop/files/Christmas_green_mobile.png?crop=center&height=530&v=1734343099&width=700)![](//savvysmartdeals.com/cdn/shop/files/Christmas_green.png?crop=center&height=554&v=1734343096&width=700)
 
 [](https://www.rangextd.com/collections/all)
 
-* ![Collection image for: Under $100 Wonders](//savvysmartdeals.com/cdn/shop/collections/20_Off.png?crop=center&height=300&v=1734343841&width=240)
+* ![Collection image for: Under $100 Wonders](//savvysmartdeals.com/cdn/shop/collections/20_Off.png?crop=center&height=300&v=1734405051&width=240)
     
     [Under $100 Wonders](https://www.rangextd.com/collections/under-100) 
     
-* ![Collection image for: Curated For You](//savvysmartdeals.com/cdn/shop/collections/40_off.png?crop=center&height=300&v=1734343723&width=240)
+* ![Collection image for: Curated For You](//savvysmartdeals.com/cdn/shop/collections/40_off.png?crop=center&height=300&v=1734405022&width=240)
     
     [Curated For You](https://www.rangextd.com/collections/for-you) 
     
-* ![Collection image for: Perfect Picks Under $40](//savvysmartdeals.com/cdn/shop/collections/50_Off.png?crop=center&height=300&v=1734343712&width=240)
+* ![Collection image for: Perfect Picks Under $40](//savvysmartdeals.com/cdn/shop/collections/50_Off.png?crop=center&height=300&v=1734405041&width=240)
     
     [Perfect Picks Under $40](https://www.rangextd.com/collections/under-40) 
     
-* ![Collection image for: Gifting Made Easy](//savvysmartdeals.com/cdn/shop/collections/62_Off.png?crop=center&height=300&v=1734343831&width=240)
+* ![Collection image for: Gifting Made Easy](//savvysmartdeals.com/cdn/shop/collections/62_Off.png?crop=center&height=300&v=1734405033&width=240)
     
     [Gifting Made Easy](https://www.rangextd.com/collections/gifting) 
     
@@ -271,6 +271,161 @@ Don't Miss Out on Must-Have Devices & Unique Items!
     
     [](https://www.rangextd.com/products/korescale)
     
+
+Let customers speak for us
+--------------------------
+
+from 75 reviews
+
+Simple to use and can be compact.
+
+Almost better than the seat attachment because you can adjust the direction easily.
+
+Spencer D.
+
+[Blaux Bidet - Portable Clean, Convenient, Customizable](https://www.rangextd.com/products/blaux-bidet-gen-2#judgeme_product_reviews)
+
+10/21/2024
+
+I had never really thought about it.
+
+once you consider it, toilet paper is gross. I wouldn’t clean anything else like that, just wiping the mess around.
+
+Adam P.
+
+[Blaux Bidet - Portable Clean, Convenient, Customizable](https://www.rangextd.com/products/blaux-bidet-gen-2#judgeme_product_reviews)
+
+10/21/2024
+
+Love this little thing!
+
+I travel a lot for work and this is a must. I used to pack wipes and this has completely replaced the waste. Plus, no harsh chemicals.
+
+Janel H.
+
+[Blaux Bidet - Portable Clean, Convenient, Customizable](https://www.rangextd.com/products/blaux-bidet-gen-2#judgeme_product_reviews)
+
+10/21/2024
+
+Impressive Video Quality!
+
+The 4K resolution is amazing! My videos look so crisp and clear, even in low light.
+
+Emma L.
+
+[Snapshot Action Cam - Adventure Ready, Capture the Moment](https://www.rangextd.com/products/snapshot-camera#judgeme_product_reviews)
+
+10/20/2024
+
+Perfect
+
+All the guys (and a niece) loved them
+
+Dewbygirl
+
+[Starscope Monocular Master - Enhanced Viewing, Clear and Crisp](https://www.rangextd.com/products/starscope-ver-3#judgeme_product_reviews)
+
+10/19/2024
+
+Relieve leg pain
+
+Help with blood circulation in the foot to avoid swelling
+
+Jennifer S.
+
+[2 Packs of MiSole Acupuncture Insoles - Natural Relief](https://www.rangextd.com/products/mindinsole#judgeme_product_reviews)
+
+10/19/2024
+
+Amazing Value for the Price
+
+I was amazed by how durable and high-quality this camera is, especially for the price. It’s now my go-to security camera.
+
+Hugh P.
+
+[STARSCOPE Sentinel Camera Bulb - Vigilance Redefined](https://www.rangextd.com/products/starscope-sentinel#judgeme_product_reviews)
+
+10/19/2024
+
+My kids can’t get enough
+
+My kids are obsessed! They’ve been playing with it non-stop since it arrived. It’s durable, safe, and keeps them entertained for hours. Best toy purchase in a while.
+
+Amanda T.
+
+[Hajimari Flying Nova Ball - Fun, Skill-Building, Portable Flight](https://www.rangextd.com/products/hajimari-by-tesimai-g2#judgeme_product_reviews)
+
+10/19/2024
+
+Transformed my weight loss journey
+
+I’ve already lost 6 pounds. As you learn how your body responds to various activities and meals, losing weight becomes easier. Korescale tells me exactly what’s going on in my body!
+
+Julia C.
+
+[KoreScale Scale - Smarter Weighing](https://www.rangextd.com/products/korescale#judgeme_product_reviews)
+
+10/18/2024
+
+Safe and Reliable
+
+I love that it has safety features like the tip-over switch. Gives me peace of mind while using it.
+
+Lisa P.
+
+[Blaux Heater - Portable Warmth, Efficient Heating 450W](https://www.rangextd.com/products/blaux-heater-450w#judgeme_product_reviews)
+
+10/14/2024
+
+Very happy with my purchase
+
+Love the ease in setting up the watch! Has clear concise directions anyone can follow. Tested health functions and all readings were spot on. Very happy with my purchase. Thumbs up👍🏻
+
+Gail S.
+
+[Kore 2.0 Elite Smart Watch - Health Tracker,](https://www.rangextd.com/products/kore-2-0#judgeme_product_reviews)
+
+10/09/2024
+
+Saves Hundreds Each Year
+
+I’ve used Laundry Masher for over two years. It’s still going strong and has saved me hundreds on detergent. Totally worth it!
+
+Spencer D.
+
+[Laundry Masher Pineapple Scent Magic & Effortless Laundry](https://www.rangextd.com/products/laundry-masher-pineapple#judgeme_product_reviews)
+
+10/09/2024
+
+My own backyard light show!
+
+This little gadget turns my backyard into a glowing spectacle at night! The lights are so vivid, and it’s just pure fun to watch it spin and loop in the dark.
+
+James M.
+
+[Hajimari Flying Nova Ball - Fun, Skill-Building, Portable Flight](https://www.rangextd.com/products/hajimari-by-tesimai-g2#judgeme_product_reviews)
+
+10/09/2024
+
+Warm & Cozy
+
+I use it in my bedroom, and it keeps me warm all night without driving up the electricity bill. My winter heating costs are $200 less compared to last year!
+
+John D.
+
+[Blaux Heater - Portable Warmth, Efficient Heating 450W](https://www.rangextd.com/products/blaux-heater-450w#judgeme_product_reviews)
+
+10/09/2024
+
+The best scale on the planet!
+
+KoreScale Gen2 is amazing! It tracks your body fat, water weight, muscle mass, and protein to make sure that you lose the right stuff when it comes to shedding weight.
+
+James N.
+
+[KoreScale Scale - Smarter Weighing](https://www.rangextd.com/products/korescale#judgeme_product_reviews)
+
+10/01/2024
 
 What You Should Know
 ====================
