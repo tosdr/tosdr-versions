@@ -597,14 +597,6 @@ Sign up for our emails and get exclusive benefits
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-A great job! Thank you! 🙏
-
-Wendy johnson Calgary 14/12/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Jon and Kyla were very friendly and did a great job. Would ask for them again. Thank you.
 
 Pamela Smith Calgary 14/12/2024
@@ -613,9 +605,25 @@ Pamela Smith Calgary 14/12/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+A great job! Thank you! 🙏
+
+Wendy johnson Calgary 14/12/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Awesome service. Polite and efficient
 
 Nathan Bauder Calgary 13/12/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Awesome service and friendly staff. It’s definitely a good option.
+
+Linda Parra Calgary 11/12/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -640,14 +648,6 @@ Brandy Gates Calgary 11/12/2024
 Nick and Zach were great today. Quick and friendly service does not go unnoticed thanks for the service guys.
 
 William D Calgary 11/12/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Awesome service and friendly staff. It’s definitely a good option.
-
-Linda Parra Calgary 11/12/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -693,6 +693,14 @@ Sean J Foss Calgary 08/12/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+The movers were very friendly and efficient!
+
+Maddy Calgary 07/12/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Great friendly service that was on time :)
 
 Shonda Day Calgary 07/12/2024
@@ -712,14 +720,6 @@ Taylor Shoup Calgary 07/12/2024
 Best service ever.
 
 Jonathan D Calgary 07/12/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-The movers were very friendly and efficient!
-
-Maddy Calgary 07/12/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -973,17 +973,17 @@ Mike Shores Cincinnati 14/12/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Professional, courtesy and quick. I’d definitely use again. Thank you Keone and Jared!
+Geo and Patrick are the bomb, quick, polite and on time!
 
-Claire Ho Wisconsin 13/12/2024
+Kathy Burke Naples 13/12/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Geo and Patrick are the bomb, quick, polite and on time!
+Professional, courtesy and quick. I’d definitely use again. Thank you Keone and Jared!
 
-Kathy Burke Naples 13/12/2024
+Claire Ho Wisconsin 13/12/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
