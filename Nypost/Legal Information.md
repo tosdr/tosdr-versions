@@ -86,7 +86,7 @@ Search
 
 #### Breaking News
 
-[Shooter at Abundant Life Christian School in Wisconsin ID'd as 15-year-old](https://nypost.com/2024/12/16/us-news/shooter-at-abundant-life-christian-school-in-idd-as-natalie-samantha-rupnow/)
+[Bomb kills head of Russia’s nuclear defense forces and his assistant in Moscow](https://nypost.com/2024/12/17/world-news/a-bomb-kills-the-head-of-russias-nuclear-defense-forces-and-his-assistant-in-moscow/)
 
 Privacy Notice Highlights
 =========================
