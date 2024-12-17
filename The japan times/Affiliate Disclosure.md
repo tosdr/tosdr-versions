@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[December 17, 2024](https://www.japantimes.co.jp/archive/2024/12/17/ "archive page")
+[December 18, 2024](https://www.japantimes.co.jp/archive/2024/12/18/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -135,21 +135,21 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Lekh Juneja, chairman and CEO of Kameda Seika, at the company's headquarters in the city of Niigata in August](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/15/440239.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Lekh Juneja, chairman and CEO of Kameda Seika, at the company's headquarters in the city of Niigata in August")](https://www.japantimes.co.jp/business/2024/12/15/companies/india-born-kameda-ceo/ "Indian-born CEO of Japanese company says nation needs immigration to thrive")
 
-[Schoolgirl stabbed to death in Kitakyushu](https://www.japantimes.co.jp/news/2024/12/15/japan/crime-legal/fukuoka-mcdonalds-stabbing/ "Schoolgirl stabbed to death in Kitakyushu")
+[Taiwan’s bullet train a testament to shinkansen’s export potential](https://www.japantimes.co.jp/business/2024/12/17/taiwan-hsr-shinkansen/ "Taiwan’s bullet train a testament to shinkansen’s export potential")
 
-  [![A McDonald's in Kitakyushu where a junior high school student was stabbed to death on Saturday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/15/440205.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A McDonald's in Kitakyushu where a junior high school student was stabbed to death on Saturday")](https://www.japantimes.co.jp/news/2024/12/15/japan/crime-legal/fukuoka-mcdonalds-stabbing/ "Schoolgirl stabbed to death in Kitakyushu")
+  [![A Taiwan High Speed Rail bullet train arrives at Nangang Station in the city of Taipei.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/16/440420.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Taiwan High Speed Rail bullet train arrives at Nangang Station in the city of Taipei.")](https://www.japantimes.co.jp/business/2024/12/17/taiwan-hsr-shinkansen/ "Taiwan’s bullet train a testament to shinkansen’s export potential")
 
 [Fatal knife attack in Kitakyushu McDonald’s took less than 30 seconds](https://www.japantimes.co.jp/news/2024/12/16/japan/crime-legal/japan-student-stabbing/ "Fatal knife attack in Kitakyushu McDonald’s took less than 30 seconds")
 
   [![Flowers and offerings are placed outside a McDonald's restaurant in Kitakyushu, Fukuoka Prefecture, where two junior high school students were stabbed by a man on Saturday, one fatally.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/16/440394.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Flowers and offerings are placed outside a McDonald's restaurant in Kitakyushu, Fukuoka Prefecture, where two junior high school students were stabbed by a man on Saturday, one fatally.")](https://www.japantimes.co.jp/news/2024/12/16/japan/crime-legal/japan-student-stabbing/ "Fatal knife attack in Kitakyushu McDonald’s took less than 30 seconds")
 
-[Taiwan’s bullet train a testament to shinkansen’s export potential](https://www.japantimes.co.jp/business/2024/12/16/taiwan-hsr-shinkansen/ "Taiwan’s bullet train a testament to shinkansen’s export potential")
+[Schoolgirl stabbed to death in Kitakyushu](https://www.japantimes.co.jp/news/2024/12/15/japan/crime-legal/fukuoka-mcdonalds-stabbing/ "Schoolgirl stabbed to death in Kitakyushu")
 
-  [![A Taiwan High Speed Rail bullet train arrives at Nangang Station in the city of Taipei.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/16/440420.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Taiwan High Speed Rail bullet train arrives at Nangang Station in the city of Taipei.")](https://www.japantimes.co.jp/business/2024/12/16/taiwan-hsr-shinkansen/ "Taiwan’s bullet train a testament to shinkansen’s export potential")
+  [![A McDonald's in Kitakyushu where a junior high school student was stabbed to death on Saturday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/15/440205.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A McDonald's in Kitakyushu where a junior high school student was stabbed to death on Saturday")](https://www.japantimes.co.jp/news/2024/12/15/japan/crime-legal/fukuoka-mcdonalds-stabbing/ "Schoolgirl stabbed to death in Kitakyushu")
 
-[Akie Abe, widow of slain prime minister, meets with Trump](https://www.japantimes.co.jp/news/2024/12/16/japan/politics/akie-abe-donald-trump/ "Akie Abe, widow of slain prime minister, meets with Trump")
+[MUFG Bank apologizes for theft of ¥1 billion in valuables from deposit boxes](https://www.japantimes.co.jp/news/2024/12/16/japan/crime-legal/mufg-hanzawa-safe/ "MUFG Bank apologizes for theft of ¥1 billion in valuables from deposit boxes")
 
-  [![U.S. President-elect Donald Trump (left) and his wife, Melania (right), pose for a photo with Akie Abe, the widow of assassinated former Prime Minister Shinzo Abe, at his Mar-a-Lago resort in Palm Beach, Florida, on Sunday in this image posted on Melania Trump's X social media account.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/16/440452.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "U.S. President-elect Donald Trump (left) and his wife, Melania (right), pose for a photo with Akie Abe, the widow of assassinated former Prime Minister Shinzo Abe, at his Mar-a-Lago resort in Palm Beach, Florida, on Sunday in this image posted on Melania Trump's X social media account.")](https://www.japantimes.co.jp/news/2024/12/16/japan/politics/akie-abe-donald-trump/ "Akie Abe, widow of slain prime minister, meets with Trump")
+  [![MUFG Bank CEO Junichi Hanzawa (left) and other senior officials bow in apology at a news conference in Tokyo's Chiyoda Ward on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/16/440537.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "MUFG Bank CEO Junichi Hanzawa (left) and other senior officials bow in apology at a news conference in Tokyo's Chiyoda Ward on Monday.")](https://www.japantimes.co.jp/news/2024/12/16/japan/crime-legal/mufg-hanzawa-safe/ "MUFG Bank apologizes for theft of ¥1 billion in valuables from deposit boxes")
 
 Editors' Picks
 --------------
@@ -162,6 +162,20 @@ By [Simon STURDEE](https://www.japantimes.co.jp/author/5475/simon-sturdee/ "Simo
 
   [![Lekh Juneja, chairman and CEO of Kameda Seika, at the company's headquarters in the city of Niigata in August](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/15/440239.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Lekh Juneja, chairman and CEO of Kameda Seika, at the company's headquarters in the city of Niigata in August")](https://www.japantimes.co.jp/business/2024/12/15/companies/india-born-kameda-ceo/ "Indian-born CEO of Japanese company says nation needs immigration to thrive")
 
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+
+[Taiwan’s bullet train a testament to shinkansen’s export potential](https://www.japantimes.co.jp/business/2024/12/17/taiwan-hsr-shinkansen/ "Taiwan’s bullet train a testament to shinkansen’s export potential")
+
+By [Kazuaki Nagata](https://www.japantimes.co.jp/author/142/kazuaki-nagata/ "Kazuaki Nagata")  
+
+  [![A Taiwan High Speed Rail bullet train arrives at Nangang Station in the city of Taipei.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/16/440420.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Taiwan High Speed Rail bullet train arrives at Nangang Station in the city of Taipei.")](https://www.japantimes.co.jp/business/2024/12/17/taiwan-hsr-shinkansen/ "Taiwan’s bullet train a testament to shinkansen’s export potential")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Fatal knife attack in Kitakyushu McDonald’s took less than 30 seconds](https://www.japantimes.co.jp/news/2024/12/16/japan/crime-legal/japan-student-stabbing/ "Fatal knife attack in Kitakyushu McDonald’s took less than 30 seconds")
+
+  [![Flowers and offerings are placed outside a McDonald's restaurant in Kitakyushu, Fukuoka Prefecture, where two junior high school students were stabbed by a man on Saturday, one fatally.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/16/440394.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Flowers and offerings are placed outside a McDonald's restaurant in Kitakyushu, Fukuoka Prefecture, where two junior high school students were stabbed by a man on Saturday, one fatally.")](https://www.japantimes.co.jp/news/2024/12/16/japan/crime-legal/japan-student-stabbing/ "Fatal knife attack in Kitakyushu McDonald’s took less than 30 seconds")
+
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
 [Schoolgirl stabbed to death in Kitakyushu](https://www.japantimes.co.jp/news/2024/12/15/japan/crime-legal/fukuoka-mcdonalds-stabbing/ "Schoolgirl stabbed to death in Kitakyushu")
@@ -170,25 +184,11 @@ By [Simon STURDEE](https://www.japantimes.co.jp/author/5475/simon-sturdee/ "Simo
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Fatal knife attack in Kitakyushu McDonald’s took less than 30 seconds](https://www.japantimes.co.jp/news/2024/12/16/japan/crime-legal/japan-student-stabbing/ "Fatal knife attack in Kitakyushu McDonald’s took less than 30 seconds")
+[MUFG Bank apologizes for theft of ¥1 billion in valuables from deposit boxes](https://www.japantimes.co.jp/news/2024/12/16/japan/crime-legal/mufg-hanzawa-safe/ "MUFG Bank apologizes for theft of ¥1 billion in valuables from deposit boxes")
 
-  [![Flowers and offerings are placed outside a McDonald's restaurant in Kitakyushu, Fukuoka Prefecture, where two junior high school students were stabbed by a man on Saturday, one fatally.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/16/440394.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Flowers and offerings are placed outside a McDonald's restaurant in Kitakyushu, Fukuoka Prefecture, where two junior high school students were stabbed by a man on Saturday, one fatally.")](https://www.japantimes.co.jp/news/2024/12/16/japan/crime-legal/japan-student-stabbing/ "Fatal knife attack in Kitakyushu McDonald’s took less than 30 seconds")
+By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
 
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
-
-[Taiwan’s bullet train a testament to shinkansen’s export potential](https://www.japantimes.co.jp/business/2024/12/16/taiwan-hsr-shinkansen/ "Taiwan’s bullet train a testament to shinkansen’s export potential")
-
-By [Kazuaki Nagata](https://www.japantimes.co.jp/author/142/kazuaki-nagata/ "Kazuaki Nagata")  
-
-  [![A Taiwan High Speed Rail bullet train arrives at Nangang Station in the city of Taipei.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/16/440420.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Taiwan High Speed Rail bullet train arrives at Nangang Station in the city of Taipei.")](https://www.japantimes.co.jp/business/2024/12/16/taiwan-hsr-shinkansen/ "Taiwan’s bullet train a testament to shinkansen’s export potential")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Akie Abe, widow of slain prime minister, meets with Trump](https://www.japantimes.co.jp/news/2024/12/16/japan/politics/akie-abe-donald-trump/ "Akie Abe, widow of slain prime minister, meets with Trump")
-
-By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson")  
-
-  [![U.S. President-elect Donald Trump (left) and his wife, Melania (right), pose for a photo with Akie Abe, the widow of assassinated former Prime Minister Shinzo Abe, at his Mar-a-Lago resort in Palm Beach, Florida, on Sunday in this image posted on Melania Trump's X social media account.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/16/440452.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "U.S. President-elect Donald Trump (left) and his wife, Melania (right), pose for a photo with Akie Abe, the widow of assassinated former Prime Minister Shinzo Abe, at his Mar-a-Lago resort in Palm Beach, Florida, on Sunday in this image posted on Melania Trump's X social media account.")](https://www.japantimes.co.jp/news/2024/12/16/japan/politics/akie-abe-donald-trump/ "Akie Abe, widow of slain prime minister, meets with Trump")
+  [![MUFG Bank CEO Junichi Hanzawa (left) and other senior officials bow in apology at a news conference in Tokyo's Chiyoda Ward on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/16/440537.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "MUFG Bank CEO Junichi Hanzawa (left) and other senior officials bow in apology at a news conference in Tokyo's Chiyoda Ward on Monday.")](https://www.japantimes.co.jp/news/2024/12/16/japan/crime-legal/mufg-hanzawa-safe/ "MUFG Bank apologizes for theft of ¥1 billion in valuables from deposit boxes")
 
 Podcast
 -------
@@ -209,9 +209,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -251,25 +251,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Whaling activist freed after Denmark rejects Japan extradition](https://www.japantimes.co.jp/news/2024/12/17/japan/whaling-activist-denmark-free/ "Whaling activist freed after Denmark rejects Japan extradition")
+
+4 hours ago
+
+[Japan enacts ¥13.9 trillion extra budget for fiscal 2024](https://www.japantimes.co.jp/news/2024/12/17/japan/japan-budget-ishiba-policy/ "Japan enacts ¥13.9 trillion extra budget for fiscal 2024")
+
+4 hours ago
+
+[Bill to abolish funds for political activities clears Lower House](https://www.japantimes.co.jp/news/2024/12/17/japan/politics/political-funds-legislation/ "Bill to abolish funds for political activities clears Lower House")
+
+6 hours ago
+
 [Major quake crushes buildings in Vanuatu capital, bodies seen](https://www.japantimes.co.jp/news/2024/12/17/asia-pacific/vanuatu-earthquake/ "Major quake crushes buildings in Vanuatu capital, bodies seen")
 
-8 mins ago
+6 hours ago
 
 [Taiwan’s bullet train a testament to shinkansen’s export potential](https://www.japantimes.co.jp/business/2024/12/17/taiwan-hsr-shinkansen/ "Taiwan’s bullet train a testament to shinkansen’s export potential")
 
-27 mins ago
-
-[Cambodian interns accuse farmer of sexual abuse and wage theft](https://www.japantimes.co.jp/news/2024/12/17/japan/crime-legal/cambodia-technical-interns-lawsuit/ "Cambodian interns accuse farmer of sexual abuse and wage theft")
-
-1 hour ago
-
-[Tajik migrants fear for income and security as Russia reels from terror attack](https://www.japantimes.co.jp/news/2024/12/17/world/politics/russia-tajik-economic-security-risks/ "Tajik migrants fear for income and security as Russia reels from terror attack")
-
-1 hour ago
-
-[Japan to let investigators go undercover to crack down on _yami baito_](https://www.japantimes.co.jp/news/2024/12/17/japan/crime-legal/yamibaito-first-ministerial-meeting/ "Japan to let investigators go undercover to crack down on yami baito")
-
-1 hour ago
+6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
