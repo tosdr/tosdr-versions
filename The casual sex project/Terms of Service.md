@@ -104,6 +104,16 @@ Dec 12 2024
 
 By **[Brian Riedl](https://admin.mi52siterestore.com/person/brian-riedl/)** Read time **33 mins** [Read More](https://admin.mi52siterestore.com/article/correcting-the-top-10-tax-myths/)
 
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/political-violence-luigi-mangione-trump-jan-6.jpg)[](https://admin.mi52siterestore.com/article/political-violence-happens-because-we-let-it/ "Read More")
+
+Commentary Public Safety, Cities Crime Control
+
+Dec 15 2024
+
+[Political Violence Happens Because We Let It](https://admin.mi52siterestore.com/article/political-violence-happens-because-we-let-it/)
+
+By **[Charles Fain Lehman](https://admin.mi52siterestore.com/person/charles-fain-lehman/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/political-violence-happens-because-we-let-it/)
+
     ![](https://media4.manhattan-institute.org/wp-content/uploads/6-ways-president-trump-can-fight-antisemitism-from-day-1.jpg)[](https://admin.mi52siterestore.com/article/6-ways-president-trump-can-fight-antisemitism-from-day-1/ "Read More")
 
 Commentary Governance, Education Higher Ed
@@ -133,16 +143,6 @@ Dec 10 2024
 [The Affirmative Action Fight Comes to High Schools](https://admin.mi52siterestore.com/article/the-affirmative-action-fight-comes-to-high-schools/)
 
 By **[Robert VerBruggen](https://admin.mi52siterestore.com/person/robert-verbruggen/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/the-affirmative-action-fight-comes-to-high-schools/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/new-york-voters-dont-fail-the-next-daniel-penny-and-jordan-neely-oust-bragg-and-the-soft-on-crime-radicals.jpg)[](https://admin.mi52siterestore.com/article/dear-ny-voters-dont-fail-the-next-daniel-penny-and-jordan-neely-oust-da-bragg-and-the-soft-on-crime-radicals/ "Read More")
-
-Commentary Governance, Public Safety New York, New York City
-
-Dec 09 2024
-
-[Dear NY Voters: Don’t Fail the Next Daniel Penny and Jordan Neely — Oust DA Bragg and the Soft-on-Crime Radicals](https://admin.mi52siterestore.com/article/dear-ny-voters-dont-fail-the-next-daniel-penny-and-jordan-neely-oust-da-bragg-and-the-soft-on-crime-radicals/)
-
-By **[Hannah E. Meyers](https://admin.mi52siterestore.com/person/hannah-e-meyers/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/dear-ny-voters-dont-fail-the-next-daniel-penny-and-jordan-neely-oust-da-bragg-and-the-soft-on-crime-radicals/)
 
 Our Policy Areas
 ----------------
