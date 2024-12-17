@@ -8,12 +8,6 @@ Shop Packages
 
 Take Our Quiz
 
-Services
-
-Take Our Quiz
-
-[Support](https://support.simplisafe.com/)
-
 Account
 
 [Security dashboard](https://webapp.simplisafe.com/)[Expand my system](https://simplisafe.com/alarm-sensors)
@@ -25,10 +19,6 @@ Shop Packages
 [Build My System](https://simplisafe.com/build-my-system)
 
 Take Our Quiz
-
-Services
-
-[Support](https://support.simplisafe.com/)
 
 Account
 
