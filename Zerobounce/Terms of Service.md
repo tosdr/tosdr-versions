@@ -85,7 +85,7 @@ Trigger navigation
     * [Anti-Greylisting](https://www.zerobounce.net/anti-greylisting/ "Anti-Greylisting")
     * [Mailchimp Omnivore](https://www.zerobounce.net/mailchimp-omnivore/ "Mailchimp Omnivore")
     * [Email List Decay Report 2024](https://www.zerobounce.net/email-list-decay/ "Email List Decay Report 2024")
-    * [Email Statistics Report for 2024](https://www.zerobounce.net/email-statistics-report/ "Email Statistics Report for 2024")
+    * [Email Statistics Report for 2025](https://www.zerobounce.net/email-statistics-report/ "Email Statistics Report for 2025")
     * [Testing Email Deliverability](https://www.zerobounce.net/test-email-address-deliverability-guide/ "Testing Email Deliverability")
     
 * [Company](https://www.zerobounce.net/why-us/ "Why Use ZeroBounce")
@@ -249,8 +249,8 @@ All rights reserved.
 
 ### CONTACT US
 
-* US: [1-888-500-9521](tel:+18885009521)
-* EU: [+44-330-808-4814](tel:+443308084814)
+* US: [1 888 500 9521](tel:+18885009521)
+* UK: [+44 330 808 4814](tel:+443308084814)
 * 24/7 Support Guaranteed
 * [support@zerobounce.net](mailto:support@zerobounce.net)
 * [Contact](https://www.zerobounce.net/contact-us "We’re here to help")
