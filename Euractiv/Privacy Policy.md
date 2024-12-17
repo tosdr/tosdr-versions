@@ -443,6 +443,14 @@ Most recent
 
 [17-12-2024
 
+Delay CO2 price on gas and fuel past 2027, Czechia-led alliance urges](https://www.euractiv.com/section/eet/news/delay-co2-price-on-gas-and-fuel-past-2027-czechia-led-alliance-urges/)[17-12-2024
+
+German parties agree: cut agri-food red tape](https://www.euractiv.com/section/agriculture-food/news/german-parties-agree-cut-agri-food-red-tape/)[17-12-2024
+
+Irish data privacy watchdog fines Meta €251 million for GDPR failure](https://www.euractiv.com/section/tech/news/irish-data-privacy-watchdog-fines-meta-e251-million-for-gdpr-failure/)[17-12-2024
+
+EU to reopen embassy in Damascus to liaise with Syria’s new leadership](https://www.euractiv.com/section/global-europe/news/eu-to-reopen-embassy-in-damascus-to-liaise-with-syrias-new-leadership/)[17-12-2024
+
 Portugal’s Teresa Anjinho elected EU ethics watchdog](https://www.euractiv.com/section/politics/news/portugals-teresa-anjinho-elected-eu-ethics-watchdog/)[17-12-2024
 
 EU plans to use frozen Russian asset profits to buy from Ukraine’s defence industry](https://www.euractiv.com/section/global-europe/news/eu-plans-to-use-frozen-russian-assets-to-buy-from-ukraines-defence-industry/)[17-12-2024
@@ -453,15 +461,7 @@ Russia continues to ship oil directly to the EU despite sanctions, investigation
 
 French PM Bayrou wants to do politics differently – if opposition lets him](https://www.euractiv.com/section/politics/news/french-pm-bayrou-wants-to-do-politics-differently-if-opposition-lets-him/)[17-12-2024
 
-Commission opens TikTok investigation over Romanian presidential elections disinformation](https://www.euractiv.com/section/tech/news/commission-opens-tiktok-investigation-over-romanian-presidential-elections-disinformation/) [17-12-2024
-
-Kyiv takes responsibility for killing of Russian general accused of chemical weapons crimes](https://www.euractiv.com/section/global-europe/news/kyiv-takes-responsibility-for-killing-of-russian-general-accused-of-chemical-weapons-crimes/)[17-12-2024
-
-Europe, Central Asia under pressure to modernise water security infrastructure, reports World Bank](https://www.euractiv.com/section/eet/news/europe-central-asia-under-pressure-to-modernise-water-security-infrastructure-reports-world-bank/)[17-12-2024
-
-Bomb kills chief of Russian nuclear protection forces in Moscow](https://www.euractiv.com/section/global-europe/news/bomb-kills-chief-of-russian-nuclear-protection-forces-in-moscow/)[17-12-2024
-
-Ukraine ready to work out new deal for gas transit to Europe](https://www.euractiv.com/section/eet/news/ukraine-ready-to-work-out-new-deal-for-gas-transit-to-europe/)
+Commission opens TikTok investigation over Romanian presidential elections disinformation](https://www.euractiv.com/section/tech/news/commission-opens-tiktok-investigation-over-romanian-presidential-elections-disinformation/) 
 
 ###### Advertisement
 
