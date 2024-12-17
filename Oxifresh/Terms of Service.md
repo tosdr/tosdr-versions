@@ -222,7 +222,7 @@ Zip Code  QUOTE & SCHEDULE
 
 Enter your zip/postal code above to find carpet cleaning services in your area, get a free quote or book online!
 
-Average 4.7 Stars Based on 306,940 Reviews
+Average 4.7 Stars Based on 306,950 Reviews
 
 * [Home](https://www.oxifresh.com/)
 * \>
@@ -442,19 +442,19 @@ What Customers Are Saying
 
 ### Average 4.7 stars (Out of 5)
 
-Based on 306,940 Carpet Cleaning Services Reviews
+Based on 306,950 Carpet Cleaning Services Reviews
 
-Great service, reasonable prices, clean products and family business! **AM.** - Maricopa, AZ - 12/15/2024
-
-(5.0 Out of 5 stars)
-
-**MG.** - Benbrook, TX - 12/15/2024
+**JV.** - Ballwin, MO - 12/15/2024
 
 (5.0 Out of 5 stars)
 
-Prompt, courteous , respectful. Good job! No complaints **RG.** - Marion, IN - 12/14/2024
+Carpet cleaning was thorough and professionally done **LW.** - Newport News, VA - 12/14/2024
 
-(5.0 Out of 5 stars)
+(4.5 Out of 5 stars)
+
+**AR.** - Olmsted Falls, Oh - 12/14/2024
+
+(4.0 Out of 5 stars)
 
 [MORE REVIEWS](https://www.oxifresh.com/testimonials)
 
