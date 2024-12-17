@@ -123,44 +123,44 @@ Advertisement
     Suicide
     
     Released in 2001, Suicide is a film directed by Eames Yates and explores the suicide of his own brother which occurred two years prior to this films release. Eames' brother Teddy was 40 when he shot h...](https://documentaryheaven.com/suicide/ "Suicide")
-* [![September Clues](/wp-content/thumbnails/1588-100x70.jpg?x53432)
+* [![Dispatches: The Killing Zone](/wp-content/thumbnails/481-100x70.png?x53432)
     
-    September Clues
+    Dispatches: The Killing Zone
     
-    This comprehensive analysis of the 9/11 broadcasts shows how the mainstream media actively participated in the 9/11 false-flag operation aimed at generating public support for illegal wars. This media...](https://documentaryheaven.com/september-clues/ "September Clues")
-* [![Pedigree Dogs Exposed](/wp-content/thumbnails/2539-100x70.jpg?x53432)
+    While the world's attention has been fixed on the war in Iraq, Dispatches reporter Sandra Jordan and producer Rodrigo Vasquez risk their lives to reveal the shocking level of daily violence and murder...](https://documentaryheaven.com/dispatches-the-killing-zone/ "Dispatches: The Killing Zone")
+* [![The Hour Of Our Time: The Legacy of William Cooper](/wp-content/thumbnails/1157-100x70.jpg?x53432)
     
-    Pedigree Dogs Exposed
+    The Hour Of Our Time: The Legacy of William Cooper
     
-    Pedigree dogs are suffering from genetic diseases following years of inbreeding, an investigation has found.A BBC documentary says they are suffering acute problems because looks are emphasised ov...](https://documentaryheaven.com/bbc-pedigree-dogs-exposed/ "Pedigree Dogs Exposed")
+    Surrounding us in our day-to-day lives are mysteries, that to spend our days pondering would paralyze us from leading productive lives. So we turn away from these thoughts in order to seek out as trou...](https://documentaryheaven.com/the-hour-of-our-time-the-legacy-of-william-cooper/ "The Hour Of Our Time: The Legacy of William Cooper")
 
 ###### Throwback Documentaries
 
-* [![Wolves in Chernobyl Dead Zone](/wp-content/thumbnails/6997-100x70.jpg?x53432)
+* [![Gitmo: The New Rules of War](/wp-content/thumbnails/2345-100x70.jpg?x53432)
     
-    Wolves in Chernobyl Dead Zone
+    Gitmo: The New Rules of War
     
-    What happens to nature after a nuclear accident? And how does wildlife deal with the world it inherits after human inhabitants have fled?In 1986 a nuclear meltdown at the infamous Chernobyl power](https://documentaryheaven.com/wolves-in-chernobyl-dead-zone/ "Wolves in Chernobyl Dead Zone")
-* [![Seeing Stars](/wp-content/thumbnails/6132-100x70.jpg?x53432)
+    It’s a Swedish documentary about the Guantanamo Bay Naval Base by Erik Gandini and Tarik Saleh. Features interviews with Janis Karpinski, Mehdi Ghezali and Geoffrey Miller (MG), among others. Gitmo p](https://documentaryheaven.com/gitmo-the-new-rules-of-war/ "Gitmo: The New Rules of War")
+* [![The Real Face of the European Union](/wp-content/thumbnails/4843-100x70.jpg?x53432)
     
-    Seeing Stars
+    The Real Face of the European Union
     
-    Around the world, a new generation of astronomers are hunting for the most mysterious objects in the universe. Young stars, black holes, even other forms of life.They have created a dazzling new set](https://documentaryheaven.com/seeing-stars/ "Seeing Stars")
-* [![Baja Smugglers](/wp-content/thumbnails/7768-100x70.jpg?x53432)
+    "The EU has been sold to Britain as our best hope for the future . . . But behind the scenes, has another, more unsettling agenda been unfolding? The European Economic Community (EEC) began for Britai](https://documentaryheaven.com/the-real-face-of-the-european-union/ "The Real Face of the European Union")
+* [![From Jail to Jihad?](/wp-content/thumbnails/8794-100x70.jpg?x53432)
     
-    Baja Smugglers
+    From Jail to Jihad?
     
-    Daredevil outlaws. The Mexican drug war. All night trips on small fishing boats called "pangas" that smuggle migrant workers & marijuana into the United States. This is Baja Smugglers.](https://documentaryheaven.com/baja-smugglers/ "Baja Smugglers")
-* [![Chronos](/wp-content/thumbnails/6367-100x70.jpg?x53432)
+    BBC's Panorama sets about investigating the growing trend of convicted criminals converting to Islam and the potential for these converts to become radical or fundamentalists. Within the last ten year](https://documentaryheaven.com/from-jail-to-jihad/ "From Jail to Jihad?")
+* [![Frontlines of Construction: Engineering for Terror](/wp-content/thumbnails/6423-100x70.png?x53432)
     
-    Chronos
+    Frontlines of Construction: Engineering for Terror
     
-    Chronos is an abstract film made in 1985 and directed by Ron Fricke, created with custom-built time-lapse cameras. Chronos has no actors or dialog. The soundtrack consists of a single continuous piece](https://documentaryheaven.com/chronos/ "Chronos")
-* [![Brand Irish](/wp-content/thumbnails/16491-100x70.png?x53432)
+    Design and engineering experts demonstrate the latest anti-terrorist technologies being used by military intelligence, from bulletproof laminates to iris scanners](https://documentaryheaven.com/frontlines-of-construction-engineering-for-terror/ "Frontlines of Construction: Engineering for Terror")
+* [![Grindr Killer](/wp-content/thumbnails/12875-100x70.jpg?x53432)
     
-    Brand Irish
+    Grindr Killer
     
-    If you feel as though you might understand the Irish then you may want to think again. For a small Island of just 4.9 million people, the impact this nation has around the world is incredible. Irelan](https://documentaryheaven.com/brand-irish/ "Brand Irish")
+    Stephen Port is a 42 year old convicted rapist and serial killer from the United Kingdom, he is responsible for murdering at least four men and for carrying out multiple rapes. For these offences he i](https://documentaryheaven.com/grindr-killer/ "Grindr Killer")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
