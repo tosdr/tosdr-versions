@@ -1,10 +1,10 @@
 [Skip to content](#content)
 
-**Enjoy unlimited access**
+**Subscribe today**
 
-Only $2.99 a month
+Every print subscription comes with full digital access
 
-[Subscribe now](https://www.sciencenews.org/subscribe1-digital-monthly?key=9MNAVBNB2&utm_source=banner&utm_medium=site&utm_campaign=full_digital_access)
+[Subscribe now](https://www.sciencenews.org/subscribe1?key=9MNAVBNA&utm_source=banner&utm_medium=site&utm_campaign=full_digital_access)
 
 Menu
 
@@ -94,7 +94,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Britain’s largest ancient massacre may have included cannibalism](https://www.sciencenews.org/article/britain-ancient-massacre-cannibalism)
             
-            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")21 hours ago
+            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")December 15, 2024
             
         * [Space](https://www.sciencenews.org/topic/space)
             
@@ -124,13 +124,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Here are 8 remarkable scientific firsts of 2024](https://www.sciencenews.org/article/remarkable-scientific-firsts-of-2024)
             
-            By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")3 hours ago
+            By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")9 hours ago
             
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
             
             ### [The message-sending part of neurons may be blobby, not smooth](https://www.sciencenews.org/article/axons-may-be-blobby-neuron)
             
-            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")7 hours ago
+            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")13 hours ago
             
         * [Anthropology](https://www.sciencenews.org/topic/anthropology)
             
@@ -177,7 +177,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Here are 8 remarkable scientific firsts of 2024](https://www.sciencenews.org/article/remarkable-scientific-firsts-of-2024)
             
-            By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")3 hours ago
+            By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")9 hours ago
             
         * [Physics](https://www.sciencenews.org/topic/physics)
             
@@ -203,7 +203,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Here are 8 remarkable scientific firsts of 2024](https://www.sciencenews.org/article/remarkable-scientific-firsts-of-2024)
             
-            By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")3 hours ago
+            By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")9 hours ago
             
         * [Space](https://www.sciencenews.org/topic/space)
             
