@@ -65,6 +65,9 @@ Huawei Central
     
 * [Wearables](https://www.huaweicentral.com/category/wearables/)
     
+    * [![Huawei global wearable sales](https://www.huaweicentral.com/wp-content/uploads/2024/12/wearable-1-400x240.jpg)
+        
+        Huawei global wearable sales hiked 44.3% in first three quarters this year](https://www.huaweicentral.com/huawei-global-wearable-sales-hike-44-3-in-first-three-quarters-this-year/)
     * [![Huawei Watch Fit 3 Christmas Edition](https://www.huaweicentral.com/wp-content/uploads/2024/12/Watch-Fit-3-1-400x240.jpg)
         
         Huawei Watch Fit 3 Christmas Edition launched with dual-tone straps](https://www.huaweicentral.com/huawei-watch-fit-3-christmas-edition-launched-with-dual-tone-straps/)
@@ -77,9 +80,6 @@ Huawei Central
     * [![Huawei Watch 5 design](https://www.huaweicentral.com/wp-content/uploads/2024/12/Watch4-400x240.jpg)
         
         Leak suggests Huawei Watch 5 series to bring lightweight design](https://www.huaweicentral.com/leak-suggests-huawei-watch-5-series-to-bring-lightweight-design/)
-    * [![Huawei AI Messages smartwatches](https://www.huaweicentral.com/wp-content/uploads/2024/12/AI-Messages-400x240.jpg)
-        
-        Huawei announces AI Messages support for these 15 smartwatches](https://www.huaweicentral.com/huawei-announces-ai-messages-support-for-these-15-smartwatches/)
     
 * [Contact Us](https://www.huaweicentral.com/contact/)
 
