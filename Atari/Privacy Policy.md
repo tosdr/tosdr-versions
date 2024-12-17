@@ -896,9 +896,7 @@ Unit price /  per](https://www.atari.com/products/rollercoaster-tycoon-25th-ann
 
 ![PONG Gaming Desk Pad](files/gaming-mouse-pad-white-36x18-front-67081955d7778copy.jpg)
 
-Add to cart
-
-20% OFF
+Sold out
 
 ##### PONG Gaming Desk Pad
 
