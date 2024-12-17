@@ -30,7 +30,7 @@ Terms of Service
 
 Last updated: January 6, 2023
 
-When you use any 37signals products or services, you are agreeing to these latest Terms of Service (“Terms”). Violation of these terms may, at our discretion, result is us terminating your account.
+When you use any 37signals products or services, you are agreeing to these latest Terms of Service (“Terms”). Violation of these terms may, at our discretion, result in us terminating your account.
 
 We may update these Terms of Service at any time. If we make significant changes, we will refresh the date at the top of this page and notify users who have signed up to our [policy updates mailing list](https://www.hey.com/policies/updates/).
 
