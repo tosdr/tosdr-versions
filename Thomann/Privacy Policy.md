@@ -4,7 +4,7 @@
 
 ![](https://thumbs.static-thomann.de/thumb/thumb130/pics/images/notificationBar/teaser/xmas/voucher/icon.png)
 
-Shop now
+Bring joy to a musician Thomann Gift Cards Thomann Gift Cards Shop now
 
 Shop now](https://www.thomann.de/intl/basket_coupon.html)
 
@@ -22,7 +22,7 @@ Shop now](https://www.thomann.de/intl/basket_coupon.html)
 
 search  
 
-* [3-Year Thomann Warranty](https://www.thomannmusic.com/helpdesk_warranty.html)
+* [Repair Service](https://www.thomannmusic.com/helpdesk_repair.html)
 * [Payment Security](https://www.thomannmusic.com/helpdesk_paymentsecurity.html)
 
 en · $
@@ -154,6 +154,8 @@ Customer Centre login
 Country and Language
 
 Energy Efficiency Class
+
+Specifications for the charging function and the compatible chargers
 
 * [Information about Thomann](#)
     * [Thomann, Hans Thomann](https://www.thomannmusic.com/compinfo.html)
@@ -769,3 +771,5 @@ Payment can be made safely and securely with PayPal, Amazon Pay, Credit Card or 
  [![Our app in the App Store.](https://thumbs.static-thomann.de/thumb//convert/pics/images/footer/download-app-store.svg)](https://apps.apple.com/us/app/id1035256782)[![Our app on Google Play.](https://thumbs.static-thomann.de/thumb//convert/pics/images/footer/download-google-play.svg)](https://play.google.com/store/apps/details?id=de.thomann)
 
 © 1996–2024 Thomann GmbH. Thomann loves you, because you rock!
+
+![](thoapi_noscript.html)
