@@ -122,7 +122,7 @@ Wood Pellet Grills
 
 Searwood®](https://www.weber.com/US/en/wood-pellet/searwood/ "Searwood®")
 
-[![](https://dw-images.weber.com/navigation/default/wood-pellet-grills/00_Pellets_US_Nav_207x165.png?auto=compress,format)
+[![](https://dw-images.weber.com/navigation/default/wood-pellet-grills/blendnav.png?auto=compress,format)
 
 Wood Pellet Accessories](https://www.weber.com/US/en/accessories/accessories-by-grill-type/wood-pellet-grill-accessories/ "Wood Pellet Accessories")
 
