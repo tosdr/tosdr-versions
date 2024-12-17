@@ -342,11 +342,11 @@ Check our last articles of blog
 
 [Other articles](https://www.foxintelligence.io/insights/blog)
 
-[![](https://www.foxintelligence.io/wp-content/uploads/2024/11/pexels-rdne-7363199-1024x683.jpg)](https://www.foxintelligence.io/amazon-prime-days-key-takeaways-for-black-friday/)
+[![](https://www.foxintelligence.io/wp-content/uploads/2024/12/pexels-polina-tankilevitch-4440788-1024x683.jpg)](https://www.foxintelligence.io/black-friday-2024-results-trends-and-insights/)
 
-[Amazon Prime Days: Key Takeaways for Black Friday](https://www.foxintelligence.io/amazon-prime-days-key-takeaways-for-black-friday/)
+[Black Friday 2024 Results: Trends and Insights](https://www.foxintelligence.io/black-friday-2024-results-trends-and-insights/)
 
-Amazon held its second Prime Days 2024 event, the “Prime Big Deal Days,” on October 8 and 9. Which brands …
+Black Friday is the ultimate barometer of consumer trends. This iconic event continues to attract e-shoppers seeking the best deals. …
 
 [Other articles](https://www.foxintelligence.io/insights/blog)
 
