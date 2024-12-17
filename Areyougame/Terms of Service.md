@@ -1,7 +1,5 @@
     
 
-    
-
         [Skip to content](#MainContent)
 
 **FREE STANDARD SHIPPING ON ORDERS $50+.**
