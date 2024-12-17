@@ -243,6 +243,27 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/12/BB21-326x245.jpg)](https://cwbchicago.com/2024/12/gunshot-victim-flags-down-passerby-for-help-in-neighborhood-previously-served-by-shotspotter.html "Gunshot victim flags down passerby for help in neighborhood previously served by ShotSpotter")
+
+Back of the Yards
+
+### [Gunshot victim flags down passerby for help in neighborhood previously served by ShotSpotter](https://cwbchicago.com/2024/12/gunshot-victim-flags-down-passerby-for-help-in-neighborhood-previously-served-by-shotspotter.html "Gunshot victim flags down passerby for help in neighborhood previously served by ShotSpotter")
+
+[December 14, 2024 9:17 AM](https://cwbchicago.com/2024/12)
+
+A woman suffering from a gunshot wound flagged down a passerby for help in Back of the Yards last night. Police had received no calls of shots fired in the area, which was monitored by ShotSpotter detectors until the mayor pulled the plug on the system in September.  
+[](https://cwbchicago.com/2024/12/gunshot-victim-flags-down-passerby-for-help-in-neighborhood-previously-served-by-shotspotter.html "Gunshot victim flags down passerby for help in neighborhood previously served by ShotSpotter")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/12/Lamount-Vaughn-326x245.jpg)](https://cwbchicago.com/2024/12/man-charged-with-participating-in-brazen-shootout-near-howard-cta-station.html "Man charged with participating in brazen shootout near Howard CTA station")
+
+Rogers Park
+
+### [Man charged with participating in brazen shootout near Howard CTA station](https://cwbchicago.com/2024/12/man-charged-with-participating-in-brazen-shootout-near-howard-cta-station.html "Man charged with participating in brazen shootout near Howard CTA station")
+
+[December 14, 2024 8:24 AM](https://cwbchicago.com/2024/12)
+
+Prosecutors have charged an Evanston man with participating in a shootout on a busy West Rogers Park street that has seen more than its share of gunfire and murders this year.[](https://cwbchicago.com/2024/12/man-charged-with-participating-in-brazen-shootout-near-howard-cta-station.html "Man charged with participating in brazen shootout near Howard CTA station")
+
 [![](https://cwbchicago.com/wp-content/uploads/2023/12/Chaqwon-Birden-Jahhuan-Green-Marquise-Ramyyeh-and-Kahdaffie-Green-326x245.jpg)](https://cwbchicago.com/2024/12/4-men-face-federal-charges-for-robbing-electrical-workers-of-high-end-camera.html "4 men face federal charges for robbing electrical workers of high-end camera")
 
 Roseland
@@ -252,26 +273,6 @@ Roseland
 [December 13, 2024 7:03 PM](https://cwbchicago.com/2024/12)
 
 Four men, including a frequent subject of CWBChicago’s reporting, were charged with federal robbery and firearms charges this week that accuse them of robbing electrical workers of expensive specialized equipment. We first told you about the robbery one year ago, just a few days after the workers were targeted in the 9700 block of South Martin Luther King Drive.[](https://cwbchicago.com/2024/12/4-men-face-federal-charges-for-robbing-electrical-workers-of-high-end-camera.html "4 men face federal charges for robbing electrical workers of high-end camera")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/12/1400-western-041A-326x245.jpg)](https://cwbchicago.com/2024/12/road-rage-gunman-shoots-11-year-old-boy-in-wicker-park.html "Road rage gunman shoots 11-year-old boy in Wicker Park")
-
-Wicker Park
-
-### [Road rage gunman shoots 11-year-old boy in Wicker Park](https://cwbchicago.com/2024/12/road-rage-gunman-shoots-11-year-old-boy-in-wicker-park.html "Road rage gunman shoots 11-year-old boy in Wicker Park")
-
-[December 13, 2024 11:21 AM](https://cwbchicago.com/2024/12)
-
-A man, angered by a traffic crash, opened fire on another car on a bustling Wicker Park street Friday morning, leaving an 11-year-old boy injured, Chicago police said. The brazen shooting occurred at 8:27 a.m. in the 1400 block of North Western Avenue.[](https://cwbchicago.com/2024/12/road-rage-gunman-shoots-11-year-old-boy-in-wicker-park.html "Road rage gunman shoots 11-year-old boy in Wicker Park")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/12/Tayvon-Andrews-and-David-Brantley-326x245.jpg)](https://cwbchicago.com/2024/12/goose-island-carjackers-busted-after-pursuit-by-cpd-helicopter-and-state-police-report-says.html "Goose Island carjackers busted after pursuit by CPD helicopter and state police, report says")
-
-Goose Island
-
-### [Goose Island carjackers busted after pursuit by CPD helicopter and state police, report says](https://cwbchicago.com/2024/12/goose-island-carjackers-busted-after-pursuit-by-cpd-helicopter-and-state-police-report-says.html "Goose Island carjackers busted after pursuit by CPD helicopter and state police, report says")
-
-[December 13, 2024 8:16 AM](https://cwbchicago.com/2024/12)
-
-Two men are sitting in the Cook County jail, accused of carjacking an Uber Eats driver near Goose Island. And they can thank one of Chicago’s most effective apprehension partnerships: a CPD helicopter and Illinois State Police ground units.[](https://cwbchicago.com/2024/12/goose-island-carjackers-busted-after-pursuit-by-cpd-helicopter-and-state-police-report-says.html "Goose Island carjackers busted after pursuit by CPD helicopter and state police, report says")
 
 #### Daily email newsletter
 
