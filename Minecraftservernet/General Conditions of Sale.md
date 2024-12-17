@@ -29,17 +29,17 @@ Version All 1.21.4 1.21.3 1.21.2 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 
 
 Active Servers
 
-[![creativefun](plugins/MineCraft/icons/25x25xcreativefun_1602168002.png.pagespeed.ic.xhW37hCj2R.jpg)
+[![BlockBay](plugins/MineCraft/icons/25x25xBlockBay_1732970431.png.pagespeed.ic.hriGlZXE0Y.png)
 
-CreativeFun](https://minecraft-server.net/details/creativefun/ "CreativeFun")[![Lifelink](plugins/MineCraft/icons/25x25xLifelink_1731729199.png.pagespeed.ic.OSXJLM33D2.jpg)
+BlockBay](https://minecraft-server.net/details/BlockBay/ "BlockBay")[![SkyblockAnarchy](plugins/MineCraft/icons/25x25xSkyblockAnarchy_1680402377.png.pagespeed.ic.VilkXiVJ71.jpg)
 
-Lifelink Network](https://minecraft-server.net/details/Lifelink/ "Lifelink Network")[![TotalVanilla](plugins/MineCraft/icons/25x25xTotalVanilla_1734020162.png.pagespeed.ic.TdWQjrJnTo.jpg)
+Skyblock Anarchy](https://minecraft-server.net/details/SkyblockAnarchy/ "Skyblock Anarchy")[![InsanityMC](plugins/MineCraft/icons/25x25xInsanityMC_1734367436.png.pagespeed.ic.mAoFvlsUSC.png)
 
-Total Vanilla](https://minecraft-server.net/details/TotalVanilla/ "Total Vanilla")[![EcoSMP](plugins/MineCraft/icons/25x25xEcoSMP_1714532090.png.pagespeed.ic._cNYKCUl0B.png)
+Insanity](https://minecraft-server.net/details/InsanityMC/ "Insanity")[![HardcoreAnarchy](plugins/MineCraft/icons/25x25xHardcoreAnarchy_1723313227.png.pagespeed.ic.BxBvHn1f9s.png)
 
-EcoSMP](https://minecraft-server.net/details/EcoSMP/ "EcoSMP")[![minetown-5791](plugins/MineCraft/icons/25x25xminetown-5791_1733509674.png.pagespeed.ic.XP_3OjI3ug.png)
+Hardcore Anarchy](https://minecraft-server.net/details/HardcoreAnarchy/ "Hardcore Anarchy")[![A2rath](plugins/MineCraft/icons/25x25xA2rath_1731694115.png.pagespeed.ic.GN-yKvGqoG.png)
 
-Minetown - 1.8 - 1.21.3](https://minecraft-server.net/details/minetown-5791/ "Minetown - 1.8 - 1.21.3")
+Fermium MC - SURVIVAL](https://minecraft-server.net/details/A2rath/ "Fermium MC - SURVIVAL")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Refund
@@ -116,4 +116,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06373 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06027 - Created by [Debaucus](https://debauc.us/)
