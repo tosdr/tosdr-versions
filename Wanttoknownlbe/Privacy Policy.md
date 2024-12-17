@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/gif-in-je-mond/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/stuur-licht-en-liefde/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
