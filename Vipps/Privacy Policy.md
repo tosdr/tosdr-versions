@@ -1,4 +1,4 @@
- [![](/static/vipps_frontend/974306/media/extra-images/vipps-logo.svg) Gå til forsiden](https://www.vipps.no/)
+ [![](/static/vipps_frontend/974529/media/extra-images/vipps-logo.svg) Gå til forsiden](https://www.vipps.no/)
 
 * [Hjelp](https://www.vipps.no/hjelp/)
 * [Logg inn for bedrift](https://www.vipps.no/logg-inn/)
@@ -648,7 +648,7 @@ Du finner også en del svar under hjelp: [Personvern og sikkerhet - spørsmål o
 
 ![Hjelp_2x.png](/media/images/Hjelp_2x.width-200.png)
 
-![](/static/vipps_frontend/974306/media/images/vipps-smile.svg)
+![](/static/vipps_frontend/974529/media/images/vipps-smile.svg)
 
 Laget i Norden, med kjærlighet for forenkling
 
