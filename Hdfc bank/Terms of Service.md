@@ -1959,7 +1959,7 @@ Print
 
 39\. (a) In-case if your Debit card is being upgraded/reissued/renewed, then the SmartPay on your old debit card will be carried forward to your new debit card. Please note that if there is any new e-bill already scheduled for payment debit, then debits for such scheduled e-bills will not get processed on your new debit card (since bill schedule has already taken place and then the new debit card is issued). All subsequent bills generated & scheduled post issuance of new debit card will go smoothly as per process. 
 
-When customer Debit card is being upgraded/reissued/renewed need to enable Ecom flag by logging into My cards for all online transactions to go through seamlessly.  
+When customer Debit card is being upgraded/reissued/renewed need to enable Ecom flag by logging into My cards for all online transactions to go through seamlessly.
 
 For example: - Bill Scheduled:  5th Jan 2024 (with due date as 15th Jan 2024) New debit card issued on: 8th Jan 2024 Here, in this the SmartPay debit will NOT take place on the new debit card. Hence, customer can make adhoc / one-time manual payment towards this bill and future bills which will be received and scheduled will get debited as per existing process on the new debit card. 
 
@@ -2037,7 +2037,7 @@ Note: The above-mentioned Promo Codes are configured in Prima for cashback pos
 
 Cashback for Debit Card (DC):  
 
-1. Cashback point proceeds shall be posted to customer’s Debit Card linked account within 75 days from the end of the month when debit was observed.  
+1. Cashback point proceeds shall be posted to customer’s Debit Card linked account within 90 days from the end of the offer period, on best effort basis.  
 2. Customers can redeem Cashback points by logging into Net Banking/Mobile Banking or calling Phone Banking and request for redemption of Cashback points. Every 1 Cashback point is equal to Re 1. 
 3. RP's accrued as part of cashback under SmartPay on Debit Cards have a validity of 90 days from the date of posting. No requests for extension will be allowed
 
@@ -4092,8 +4092,8 @@ e. to share and disclose the Information with the Bank’s service providers, co
 **G\] DIGITAL ACQUISITION VOUCHER TERMS & CONDITIONS**  
   
 
-1\. The digital acquisition voucher (“Digital Voucher”) shall be available only at the discretion of the Bank. Further, such Digital Voucher, shall be available only if: (i) the application for credit card to the Bank is initiated and completed end-to-end by the applicant/customer himself without any assistance of any of the Bank staff or Bank representative or selling or marketing agent of the Bank (whether in person or telephonically or through any other assistance), and thereafter the credit card is issued by the Bank; Accordingly this voucher would be issued towards go-green initiatives and (ii) at least one purchase transaction of minimum of Rs. 500/- (Rupees Five Hundred) (single and not in tranches) is carried out by the card holder on the /using the credit card, within 14 days of the date of the card issuance by the Bank; and (iii) the applicant/customer applies for the credit card from HDFC Bank directly from the HDFC Bank Website or through communication sent by HDFC Bank through Bank owned channels. For clarity, this Digital Voucher shall not available if the credit card has been applied through a DSA or a partner website or any non-HDFC Bank-owned channel/platform.  
-  
+1\. The digital acquisition voucher (“Digital Voucher”) shall be available only at the discretion of the Bank. Further, such Digital Voucher, shall be available only if: (i) the application for credit card to the Bank is initiated and completed end-to-end by the applicant/customer himself without any assistance of any of the Bank staff or Bank representative or selling or marketing agent of the Bank (whether in person or telephonically or through any other assistance), and thereafter the credit card is issued by the Bank; Accordingly this voucher would be issued towards go-green initiatives and (ii) at least one purchase transaction of minimum of Rs. 500/- (Rupees Five Hundred) (single and not in tranches) is carried out by the card holder on the /using the credit card, within 14 days of the date of the card issuance by the Bank; and (iii) the applicant/customer applies for the credit card from HDFC Bank directly from the HDFC Bank Website or through communication sent by HDFC Bank through Bank owned channels. For clarity, this Digital Voucher shall not available if the credit card has been applied through a DSA or a partner website or any non-HDFC Bank-owned channel/platform. (iv) The digital acquisition voucher shall be available for HDFC Bank PIXEL credit only if the customer had applied through the web journey and shall not be applicable if the customer had applied through PayZapp. (vi) All the other terms and conditions for the eligibility of availing the digital acquisition voucher will be applicable for HDFC Bank PIXEL credit cardholders as well.  
+​​​​​​​​​​​​​​
 
 2\. The Digital Voucher where made available by the Bank at its discretion as above, may be sent by the Bank to the customer/applicant who is issued the credit card by the Bank, in the form of a digital or alpha-digital code, within a period of 90 days, by way of SMS or email to the registered contacts of the customer/card holder. Along with such code, for the actual usage of the Digital Voucher, the Bank may at its discretion, prescribe further authentication factors or require other authentication information/information, from time to time. The Digital Voucher can be used only for the online purchases with/from such merchants where the Bank has tied up and permitted such use and for such products or services which the Bank permits. Such merchants and/or products/services, may be changed by the Bank from time to time in its sole discretion , without any notice to/or consent from the card holder, and whether the card holder has used the Digital Voucher partly or not by such time of change.  
   
@@ -5492,10 +5492,8 @@ Get a complimentary Times Prime annual membership with a host of offers worth Rs
   
 **Eligibility Criteria:**
 
-* The offer is valid for a selected set of customers only who receive the offer communication from HDFC bank via SMS or other official communication channels.  
-    
-* Customer is eligible only if there was no Salary credit in the account in first 2 months and after salary is credited in the 3rd month of account opening.  
-    
+* The offer is valid for a selected set of customers only who receive the offer communication from HDFC bank via SMS or other official communication channels.
+* Customer is eligible only if there was no Salary credit in the account in first 2 months and after salary is credited in the 3rd month of account opening.
 * Minimum Salary credited should be Rs 5,000 and above to be eligible for the offer.
 * The communication recipients' current organization should be on the list of eligible companies. The list of eligible companies is available on the update employer details page (Page path -> MobileBanking App>>More>>Salary Account Services>> Update Employer Details)
 * The eligible customers will receive the voucher by the end of 4 th month of account opening.
@@ -5505,7 +5503,8 @@ Get a complimentary Times Prime annual membership with a host of offers worth Rs
 **Redemption Process:**
 
 1. Times Prime membership code (‘E-code’) with steps to redeem will be sent to the customer’s registered email ID or registered mobile number as per program criteria.
-2. E- code shared with the customer will remain active for maximum 2 months from the date of receipt of E- code.
+2. E- code shared with the customer will remain active for maximum 1 month from the date of receipt of E- code.  
+    
 3. The 12-month membership starts from the day the customer activates his/her Times Prime membership.
 4. The E-code is applicable once per user and is not valid for existing Times Prime members.
 5. In case of any issues related to the redemption of the E-code, please contact [\[email protected\]](https://www.hdfcbank.com/cdn-cgi/l/email-protection).
