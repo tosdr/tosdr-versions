@@ -91,14 +91,14 @@ SERVICE LEVEL AGREEMENT
 -----------------------
 
   
-**SERVICE LEVEL AGREEMENT ADDENDUM COLOCATIE BIT-2 BIT B.V. – VERSIE 2021-07-12  
+**SERVICE LEVEL AGREEMENT ADDENDUM COLOCATIE BIT-2 BIT B.V. – VERSIE 2024-12-17  
   
 **Dit document is ook in [pdf formaat](https://www.bit.nl/uploads/policies/sla-addendum-colocatie-bit-2-nl.pdf "SLA Colocatie BIT-2") beschikbaar.**  
   
   
 1\. Definities  
 1.1. Dauwpunt**  
-Het dauwpunt is de temperatuur tot waarop de lucht moet worden afgekoeld om verzadigd te raken (bij gelijke hoeveelheid waterdamp en druk). Bij verdere afkoeling onder deze temperatuur treedt condensatie op. Voorheen werd dit gedefinieerd als  relatieve luchtvochtigheid bij een bepaalde temperatuur. 50% relatieve luchtvochtigheid bij 21° Celsius komt bijvoorbeeld overeen met een dauwpunt van 10,2° Celsius.  
+Het dauwpunt is de temperatuur tot waarop de lucht moet worden afgekoeld om verzadigd te raken (bij gelijke hoeveelheid waterdamp en druk). Bij verdere afkoeling onder deze temperatuur treedt condensatie op. Voorheen werd dit gedefinieerd als  relatieve luchtvochtigheid bij een bepaalde temperatuur.  
   
 **1.2. Dienst**  
 Colocatie in een daartoe aangewezen ruimte op locatie BIT-2 te Ede, inclusief stroom- en koelvoorzieningen.  
@@ -140,7 +140,7 @@ De koelinstallatie is redundant uitgevoerd (N+1). De luchtvochtigheid wordt op p
 |     |     |     |
 | --- | --- | --- |
 |     | Standaardwaarde | Toegestane afwijking |
-| Gegarandeerde temperatuur | 25° Celsius | +/- 2° Celsius (23-27) |
+| Gegarandeerde temperatuur | 27° Celsius | +/- 2° Celsius (25-29) |
 | Dauwpunt: | 10° Celsius | \-3 / +14° Celsius (7-24). Dauwpunt mag nooit hoger zijn dan de temperatuur. |
 
   
@@ -158,9 +158,9 @@ Incidenten worden door BIT ingedeeld in vier categorieën:
 |     |     |
 | --- | --- |
 | Prioriteit | Omschrijving |
-| 1   | De dienst is in zijn geheel niet beschikbaar.  <br>• Er is een onderbreking in de volledige stroomvoorziening.  <br>• De temperatuur wijkt meer dan 13° Celsius af van de toegestane temperatuur van 23-27° Celsius. |
-| 2   | De dienst is beschikbaar, maar gedegradeerd.  <br>• De temperatuur wijkt meer dan 8° Celsius af van de toegestane temperatuur van 23-27° Celsius. |
-| 3   | De dienst is beschikbaar, maar gedegradeerd.  <br>• Eén van de twee powerfeeds levert geen stroom.  <br>• De temperatuur wijkt meer dan 2° Celsius af van de toegestane temperatuur van 23-27° Celsius. |
+| 1   | De dienst is in zijn geheel niet beschikbaar.  <br>• Er is een onderbreking in de volledige stroomvoorziening.  <br>• De temperatuur wijkt meer dan 13° Celsius af van de toegestane temperatuur van 25-29° Celsius. |
+| 2   | De dienst is beschikbaar, maar gedegradeerd.  <br>• De temperatuur wijkt meer dan 8° Celsius af van de toegestane temperatuur van 25-29° Celsius. |
+| 3   | De dienst is beschikbaar, maar gedegradeerd.  <br>• Eén van de twee powerfeeds levert geen stroom.  <br>• De temperatuur wijkt meer dan 2° Celsius af van de toegestane temperatuur van 25-29° Celsius. |
 | 4   | Incidenten waarvan de klant niet of nauwelijks hinder ondervindt  <br>• Verminderde redundantie van de koelinfrastructuur. |
 
 **  
