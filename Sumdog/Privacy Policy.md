@@ -83,7 +83,8 @@ All capitalised terms are defined in Annex A.
 
 ### **Who we are**
 
-Sumdog Ltd is a company incorporated and registered in Scotland with company registration number SC167331.  Our registered office is 43 Queensferry Street Lane, Edinburgh, EH2 4PF, Scotland, United Kingdom. 
+Sumdog Ltd is a company incorporated and registered in Scotland with company registration number SC167331.  Our registered office is Sumdog Ltd  
+CodeBase, Argyle House, 3 Lady Lawson Street, Edinburgh, EH3 9DR, United Kingdom. 
 
 Depending on the circumstances, Sumdog Ltd may process Personal Information either as a Processor or as a Controller, as defined in the UK GDPR and the EU GDPR.
 
@@ -432,7 +433,7 @@ We may change this Privacy Policy from time to time and we will provide you with
 
 We have appointed a Data Protection Officer to oversee compliance with this Privacy Notice. If you have any questions about this Privacy Notice or how we handle your Personal Information, please contact the data protection officer at [privacy@sumdog.com](mailto:privacy@sumdog.com "mailto:privacy@sumdog.com").
 
-Alternatively, please write to Sumdog Ltd, 43 Queensferry Street Lane, Edinburgh, EH2 4PF, UK or call +44 (0)1312261511.
+Alternatively, please write to Sumdog Ltd, CodeBase, Argyle House, 3 Lady Lawson Street, Edinburgh, EH3 9DR, United Kingdom or call +44 (0)1312261511.
 
 ### **Data Protection Impact Assessments on Sumdog**
 
@@ -445,7 +446,7 @@ If the use of your Personal Information is subject to the UK GDPR, you have the 
 
 ### **How to contact us**
 
-If you have any query regarding this Privacy Notice or your Personal Information on Sumdog, please e-mail [privacy@sumdog.com](mailto:privacy@sumdog.com "mailto:privacy@sumdog.com"). Alternatively, please write to Sumdog Ltd, 43 Queensferry Street Lane, Edinburgh, EH2 4PF, UK or call +44 (0) 131 226 1511.
+If you have any query regarding this Privacy Notice or your Personal Information on Sumdog, please e-mail [privacy@sumdog.com](mailto:privacy@sumdog.com "mailto:privacy@sumdog.com"). Alternatively, please write to Sumdog Ltd, CodeBase, Argyle House, 3 Lady Lawson Street, Edinburgh, EH3 9DR, United Kingdom or call +44 (0) 131 226 1511.
 
 If the use of your Personal Information is subject to the EU GDPR, for example because you are resident in the EEA, and you have any query regarding this Privacy Notice or your Personal Information on Sumdog please contact the Sumdog EU GDPR Representative at eEducation Albert AB, Polhemsplatsen 5, 411 11 Gothenburg, Sweden.
 
