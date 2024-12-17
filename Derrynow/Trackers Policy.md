@@ -287,12 +287,14 @@ Derry Magistrates' Court
 [IN PICTURES: Derry XC attracts best talent to Thornhill College venue](https://www.derrynow.com/story-telling/pictures---videos/1681638/in-pictures-derry-xc-attracts-best-talent-to-thornhill-college-venue.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1680148/derry-death-notices-monday-december-16-2024.html)
+[![36-year-old man charged with series of offences including creeper style burglary](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "36-year-old man charged with series of offences including creeper style burglary")](https://www.derrynow.com/news/local-news/1682073/36-year-old-man-charged-with-series-of-offences-including-creeper-style-burglary.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
+PSNI
 
-[Derry Death Notices - Monday, December 16, 2024](https://www.derrynow.com/news/deaths/1680148/derry-death-notices-monday-december-16-2024.html)
-------------------------------------------------------------------------------------------------------------------------------------------------
+[Local News](https://www.derrynow.com/section/975/news)
+
+[36-year-old man charged with series of offences including creeper style burglary](https://www.derrynow.com/news/local-news/1682073/36-year-old-man-charged-with-series-of-offences-including-creeper-style-burglary.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Woman appears at Derry Magistrates' Court charged with assaulting her partner](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman appears at Derry Magistrates' Court charged with assaulting her partner")](https://www.derrynow.com/news/local-news/1681679/woman-appears-at-derry-magistrates-court-charged-with-assaulting-her-partner.html)
 
@@ -328,14 +330,12 @@ Daniel Lynch (inset) is brought to Letterkenny District Court by detectives. Pho
 [54-year-old Tyrone man pleads guilty to committing series of historical sex assaults](https://www.derrynow.com/news/local-news/1681783/54-year-old-tyrone-man-pleads-guilty-to-committing-series-of-historical-sex-assaults.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![36-year-old man charged with series of offences including creeper style burglary](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "36-year-old man charged with series of offences including creeper style burglary")](https://www.derrynow.com/news/local-news/1682073/36-year-old-man-charged-with-series-of-offences-including-creeper-style-burglary.html)
+[![IN PICTURES: Prospective pupils welcomed to Hollybush PS annual Open Day](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Prospective pupils welcomed to Hollybush PS annual Open Day")](https://www.derrynow.com/story-telling/pictures---videos/1678367/in-pictures-prospective-pupils-welcomed-to-hollybush-ps-annual-open-day.html)
 
-PSNI
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[Local News](https://www.derrynow.com/section/975/news)
-
-[36-year-old man charged with series of offences including creeper style burglary](https://www.derrynow.com/news/local-news/1682073/36-year-old-man-charged-with-series-of-offences-including-creeper-style-burglary.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[IN PICTURES: Prospective pupils welcomed to Hollybush PS annual Open Day](https://www.derrynow.com/story-telling/pictures---videos/1678367/in-pictures-prospective-pupils-welcomed-to-hollybush-ps-annual-open-day.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -513,6 +513,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1681643/derry-death-notices-tuesday-december-17-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Tuesday, December 17, 2024](https://www.derrynow.com/news/deaths/1681643/derry-death-notices-tuesday-december-17-2024.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![LIVING WELL WITH GRAHAM - How to build lean muscle and boost your metabolism!](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "LIVING WELL WITH GRAHAM - How to build lean muscle and boost your metabolism!")](https://www.derrynow.com/news/local-news/1682146/living-well-with-graham-how-to-build-lean-muscle-and-boost-your-metabolism.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -520,7 +527,7 @@ Advertise with Us
 [LIVING WELL WITH GRAHAM - How to build lean muscle and boost your metabolism!](https://www.derrynow.com/news/local-news/1682146/living-well-with-graham-how-to-build-lean-muscle-and-boost-your-metabolism.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Annette McGavigan was shot on September 6, 1971.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Annette McGavigan was shot on September 6, 1971.")](https://www.derrynow.com/news/local-news/1682149/teenager-s-inquest-verdict-of-significant-importance-in-cases-of-annette-mcgavigan-and-patrick-duffy.html)
+[![Annette McGavigan was shot on September 6, 1971.](https://www.derrynow.com/resizer/165/93/true/2023_10_03/Photo_of_Annette_McGavigan-1696332929823.jpg--.jpg?1696332929854 "Annette McGavigan was shot on September 6, 1971.")](https://www.derrynow.com/news/local-news/1682149/teenager-s-inquest-verdict-of-significant-importance-in-cases-of-annette-mcgavigan-and-patrick-duffy.html)
 
 Annette McGavigan was shot on September 6, 1971.
 
@@ -551,15 +558,6 @@ Andrew Fleming is welcomed as the new Chamber of Commerce President
 
 [Andrew Fleming named as Derry Chamber of Commerce President](https://www.derrynow.com/news/local-news/1681861/andrew-fleming-named-as-derry-chamber-of-commerce-president.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![36-year-old man charged with series of offences including creeper style burglary](https://www.derrynow.com/resizer/165/93/true/2024_02_26/75d09668-969e-11ed-a6c5-0210609a3fe2-1685351040715.jpg---1708952493894.jpg--.jpg?1708952493928 "36-year-old man charged with series of offences including creeper style burglary")](https://www.derrynow.com/news/local-news/1682073/36-year-old-man-charged-with-series-of-offences-including-creeper-style-burglary.html)
-
-PSNI
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[36-year-old man charged with series of offences including creeper style burglary](https://www.derrynow.com/news/local-news/1682073/36-year-old-man-charged-with-series-of-offences-including-creeper-style-burglary.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
