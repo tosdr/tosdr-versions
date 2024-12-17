@@ -185,14 +185,14 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 ###### LATEST VIDEO
 
 * [| Christa](https://video.nhpbs.org/video/christa-ygbur1?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Americans stockpile abortion pills ahead of 2nd Trump term** | PBS News Hour](https://video.nhpbs.org/video/stockpiling-1734295411?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Violent Femmes 40th Anniversary with the Milwaukee Symphony Orchestra** | Milwaukee PBS Specials](https://video.nhpbs.org/video/violent-femmes-40th-anniversary-with-the-milwaukee-symphony-orchestra-gvuwzn?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Pop Quiz with a Pint** | All Creatures Great and Small](https://video.nhpbs.org/video/pop-quiz-with-a-pint-kft6gs?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Brenda Lee: Rockin' Around (ASL Trailer)** | American Masters](https://video.nhpbs.org/video/brenda-lee-rockin-around-asl-trailer-atb7xw?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**December 16, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/december-16-2024-pbs-news-hour-full-episode-1734325201?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**2024 Hyundai Palisade Night Edition & 2024 GMC Hummer EV SUV** | MotorWeek](https://video.nhpbs.org/video/2024-hyundai-palisade-night-edition-2024-gmc-hummer-ev-suv-s0cni5?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Rising Star Wrestler overcomes tragedy in Wrangell INDIE ALASKA** | Indie Alaska](https://video.nhpbs.org/video/rising-star-wrestler-overcomes-tragedy-in-wrangell-indie-alaska-gsijwe?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Violent Femmes 40th Anniversary with the Milwaukee Symphony Orchestra** | Milwaukee PBS Specials](https://video.nhpbs.org/video/violent-femmes-40th-anniversary-with-the-milwaukee-symphony-orchestra-gvuwzn?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Appraisal: Abraham Lincoln Hinrichs Group, ca. 1930** | Antiques Roadshow](https://video.nhpbs.org/video/appraisal-abraham-lincoln-hinrichs-group-ca-1930-l6nkzh?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Season 6 Preview** | History with David Rubenstein](https://video.nhpbs.org/video/season-6-preview-9s6x6r?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Holiday Special 2024 Preview** | Call the Midwife](https://video.nhpbs.org/video/holiday-special-2024-preview-4kjiyu?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Winter Tourism and the Economics of Fun** | The State We're In](https://video.nhpbs.org/video/winter-tourism-and-the-economics-of-fun-ymcwum?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Are We Ready for the AI Revolution? Fmr. Google CEO Eric Schmidt Says No** | Amanpour and Company](https://video.nhpbs.org/video/are-we-ready-for-the-ai-revolution-fmr-google-ceo-eric-schmidt-says-no-vlwkyd?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
