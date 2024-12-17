@@ -168,9 +168,9 @@
 * [Public Health – B.S.](https://www.wgu.edu/online-nursing-health-degrees/public-health-bachelors-program.html)
 * [Healthcare Administration – B.S. (from the School of Business)](https://www.wgu.edu/online-business-degrees/healthcare-administration-bachelors-program.html)
 
-##### Post-Master's Certificates
+##### Certificates
 
-* [View all Nursing Post-Master's Certificates](https://www.wgu.edu/online-nursing-health-degrees/post-masters-nursing-certificate.html)
+* [Nursing Leadership](https://www.wgu.edu/online-nursing-health-degrees/certificates/nursing-leadership.html)
 * [Nursing Education—Post-Master's Certificate](https://www.wgu.edu/online-nursing-health-degrees/post-masters-nursing-certificate/education.html)
 * [Nursing Leadership and Management—Post-Master's Certificate](https://www.wgu.edu/online-nursing-health-degrees/post-masters-nursing-certificate/leadership-management.html)
 * [Family Nurse Practitioner—Post-Master's Certificate](https://www.wgu.edu/online-nursing-health-degrees/post-masters-nursing-certificate/family-nurse-practitioner.html)
@@ -193,10 +193,6 @@
 * [Master of Public Health](https://www.wgu.edu/online-nursing-health-degrees/public-health-masters-program.html)
 * [MBA Healthcare Management (from the School of Business)](https://www.wgu.edu/online-business-degrees/mba-masters-business-administration-healthcare-management-program.html)
 * [Education Technology and Instructional Design – M.Ed. (from the School of Education)](https://www.wgu.edu/online-teaching-degrees/education-technology-instructional-design-masters.html)
-
-##### Certificates
-
-* [Nursing Leadership](https://www.wgu.edu/online-nursing-health-degrees/certificates/nursing-leadership.html)
 
 ##### Certificates
 
@@ -521,9 +517,9 @@ Online Degrees
         * [Public Health – B.S.](https://www.wgu.edu/online-nursing-health-degrees/public-health-bachelors-program.html)
         * [Healthcare Administration – B.S. (from the School of Business)](https://www.wgu.edu/online-business-degrees/healthcare-administration-bachelors-program.html)
         
-    * Post-Master's Certificates
+    * Certificates
         
-        * [View all Nursing Post-Master's Certificates](https://www.wgu.edu/online-nursing-health-degrees/post-masters-nursing-certificate.html)
+        * [Nursing Leadership](https://www.wgu.edu/online-nursing-health-degrees/certificates/nursing-leadership.html)
         * [Nursing Education—Post-Master's Certificate](https://www.wgu.edu/online-nursing-health-degrees/post-masters-nursing-certificate/education.html)
         * [Nursing Leadership and Management—Post-Master's Certificate](https://www.wgu.edu/online-nursing-health-degrees/post-masters-nursing-certificate/leadership-management.html)
         * [Family Nurse Practitioner—Post-Master's Certificate](https://www.wgu.edu/online-nursing-health-degrees/post-masters-nursing-certificate/family-nurse-practitioner.html)
@@ -544,10 +540,6 @@ Online Degrees
         * [Master of Public Health](https://www.wgu.edu/online-nursing-health-degrees/public-health-masters-program.html)
         * [MBA Healthcare Management (from the School of Business)](https://www.wgu.edu/online-business-degrees/mba-masters-business-administration-healthcare-management-program.html)
         * [Education Technology and Instructional Design – M.Ed. (from the School of Education)](https://www.wgu.edu/online-teaching-degrees/education-technology-instructional-design-masters.html)
-        
-    * Certificates
-        
-        * [Nursing Leadership](https://www.wgu.edu/online-nursing-health-degrees/certificates/nursing-leadership.html)
         
     
     * [View all Health & Nursing Degrees](https://www.wgu.edu/online-nursing-health-degrees.html)
