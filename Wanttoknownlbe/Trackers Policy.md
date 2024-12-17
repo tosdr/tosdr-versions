@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/valse-vlag-operaties/oekraiens-neo-nazi-vakantiekamp-voor-jongeren/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/meelezen/het-antwoord-op-de-crisis-is-gronden/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
