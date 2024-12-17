@@ -15,6 +15,11 @@
     
     [See All](https://www.coolthings.com/gadgets/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/supernote-a5-x2-manta-e-ink-tablet-puts-note-taking-and-reparability-at-the-forefront/)
+    
+    [Supernote A5 X2 Manta E-Ink Tablet Puts Note-Taking and Reparability at the Forefront](https://www.coolthings.com/supernote-a5-x2-manta-e-ink-tablet-puts-note-taking-and-reparability-at-the-forefront/)
+    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-smart-thermostats-for-more-energy-efficient-heating-and-cooling/)
     
     [The Best Smart Thermostats for More Energy-Efficient Heating and Cooling](https://www.coolthings.com/the-best-smart-thermostats-for-more-energy-efficient-heating-and-cooling/)
@@ -24,11 +29,6 @@
     
     [Raspberry Pi 500 Keyboard Computer Gives You a Capable and Affordable Productivity Machine](https://www.coolthings.com/raspberry-pi-500-keyboard-computer-capable-affordable-desktop-pc-setup/)
     ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/anbernic-rg-34xx-retro-gaming-handheld-game-boy-advance-clone-emulator/)
-    
-    [Anbernic RG 34XX Retro Gaming Handheld Clones the Game Boy Advance’s Classic Looks](https://www.coolthings.com/anbernic-rg-34xx-retro-gaming-handheld-game-boy-advance-clone-emulator/)
-    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
 * [GIFTS](http://www.coolthings.com/gifts/)
     
@@ -73,6 +73,11 @@
     
     [See All](https://www.coolthings.com/style/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/mooncat-star-wars-lacquer-set-galactic-empire-themed-nail-polish-darth-vader/)
+    
+    [Mooncat Star Wars Lacquer Set Paints the Colors of the Galactic Empire on Your Nails](https://www.coolthings.com/mooncat-star-wars-lacquer-set-galactic-empire-themed-nail-polish-darth-vader/)
+    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/casio-ca53wb-calculator-watch-casio-mini-details-retro-vintage/)
     
     [Casio CA53WB Brings Back the 80s Calculator Watch with 70s-Style Detailing](https://www.coolthings.com/casio-ca53wb-calculator-watch-casio-mini-details-retro-vintage/)
@@ -82,11 +87,6 @@
     
     [The Best Gardening Shoes for Planting, Weeding and More](https://www.coolthings.com/the-best-gardening-shoes-for-planting-weeding-and-more/)
     ---------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/furby-x-cakeworthy-collection-apparel-accessories-furbyland/)
-    
-    [Furby x Cakeworthy Puts the Weird-Looking, Babbling Creature in a Line of Apparel and Accessories](https://www.coolthings.com/furby-x-cakeworthy-collection-apparel-accessories-furbyland/)
-    --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
 * [HOUSE](https://www.coolthings.com/house/)
     
