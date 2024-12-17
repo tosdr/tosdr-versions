@@ -92,30 +92,30 @@ Offers
 New & Coming soon
 -----------------
 
+* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234545/STH3_2025X3000_ONLINE_TEASER_ONE_SHEET_SHATTER.jpg)
+    
+    Sonic the Hedgehog 3 (2024)](https://www.fandango.com/sonic-the-hedgehog-3-2024-234545/movie-overview)
+* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234521/Wonderwall_Payoff_Digital_1Sheet_v7_sm.jpg)
+    
+    Mufasa: The Lion King (2024)](https://www.fandango.com/mufasa-the-lion-king-2024-234521/movie-overview)
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234523/Wicked_Final1Sheet.jpg)
     
     Wicked (2024)](https://www.fandango.com/wicked-2024-234523/movie-overview)
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/235102/GAR_Payoff_Clam_1s_v90_Mech5_FS.jpg)
     
     Moana 2 (2024)](https://www.fandango.com/moana-2-2024-235102/movie-overview)
+* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/237286/FND_poster_ACompleteUnknown_Presale.jpg)
+    
+    A Complete Unknown (2024)](https://www.fandango.com/a-complete-unknown-2024-237286/movie-overview)
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234527/FND_poster_Nosferatu_Succumb-Presale.jpg)
     
     Nosferatu (2024)](https://www.fandango.com/nosferatu-2024-234527/movie-overview)
-* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234545/STH3_2025X3000_ONLINE_TEASER_ONE_SHEET_SHATTER.jpg)
-    
-    Sonic the Hedgehog 3 (2024)](https://www.fandango.com/sonic-the-hedgehog-3-2024-234545/movie-overview)
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234518/LOTR_WOTR.jpg)
     
     The Lord of the Rings: The War of the Rohirrim (2024)](https://www.fandango.com/the-lord-of-the-rings-the-war-of-the-rohirrim-2024-234518/movie-overview)
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234519/G2_DOM_Online_Payoff_1-Sheet_06_FIN12.jpg)
     
     Gladiator II (2024)](https://www.fandango.com/gladiator-ii-2024-234519/movie-overview)
-* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234521/Wonderwall_Payoff_Digital_1Sheet_v7_sm.jpg)
-    
-    Mufasa: The Lion King (2024)](https://www.fandango.com/mufasa-the-lion-king-2024-234521/movie-overview)
-* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/235322/red_one.jpg)
-    
-    Red One (2024)](https://www.fandango.com/red-one-2024-235322/movie-overview)
 
 ### Experience + Explore
 
