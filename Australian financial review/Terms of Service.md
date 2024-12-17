@@ -321,29 +321,31 @@ Advertise
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.138%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/202bc1acb52a3e744b257aa522a1ac32c3d9fa02)](https://www.afr.com/technology/this-25-000-tv-breaks-the-extreme-barrier-20241212-p5kxwa)
+[![ ](https://static.ffx.io/images/$zoom_0.1511%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/03f2cad2a56965049d242e64011a08599573653a)](https://www.afr.com/life-and-luxury/health-and-wellness/a-workaholic-s-guide-to-successfully-unwinding-on-holiday-20241211-p5kxhi)
 
-### [This $25,000 TV breaks the extreme barrier](https://www.afr.com/technology/this-25-000-tv-breaks-the-extreme-barrier-20241212-p5kxwa)
+### [A workaholic’s guide to successfully unwinding on holiday](https://www.afr.com/life-and-luxury/health-and-wellness/a-workaholic-s-guide-to-successfully-unwinding-on-holiday-20241211-p5kxhi)
 
-* John Davidson
+* 56 mins ago
+* Luke Benedictus
 
-* ### [Inside Melbourne’s latest luxury hotel](https://www.afr.com/life-and-luxury/design/inside-melbourne-s-latest-luxury-hotel-20241212-p5kxw6)
+* ### [Hottest new places to dine around the country right now](https://www.afr.com/life-and-luxury/food-and-wine/hottest-new-places-to-dine-around-the-country-right-now-20241210-p5kx7q)
     
-* ### [Max Allen’s 5 best chardonnays for summer drinking](https://www.afr.com/life-and-luxury/food-and-wine/max-allen-s-pick-of-the-chardonnays-for-summer-drinking-20241211-p5kxn1)
+* ### [Forget cruises, the only way to see Antarctica is to go ‘deep field’](https://www.afr.com/life-and-luxury/travel/forget-cruises-the-only-way-to-see-antarctica-is-to-go-deep-field-20241118-p5krnx)
     
 
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![Naomi Simson started RedBalloon in 2001 and has become one of the country’s most recognisable founders.](https://static.ffx.io/images/$zoom_0.5777%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_1036%2C$y_727/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/ff46c79d6033ace414d4ec013898d23ea833406e)](https://www.afr.com/wealth/people/a-man-is-not-a-plan-how-naomi-simson-created-an-experiences-empire-20241119-p5krvm)
+[![Hejaz Financial Services co-founder Hakan Ozyon.](https://static.ffx.io/images/$zoom_0.2886%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_380%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/4e001394c90ddd419ca5ed224b6bb6831cdf3b0b)](https://www.afr.com/wealth/investing/meet-the-3b-aussie-wealth-manager-you-ve-never-heard-of-20241210-p5kx90)
 
-### [‘A man is not a plan’: How Naomi Simson created an experiences empire](https://www.afr.com/wealth/people/a-man-is-not-a-plan-how-naomi-simson-created-an-experiences-empire-20241119-p5krvm)
+### [Meet the $3b Aussie wealth manager you’ve never heard of](https://www.afr.com/wealth/investing/meet-the-3b-aussie-wealth-manager-you-ve-never-heard-of-20241210-p5kx90)
 
+* 56 mins ago
 * Yolanda Redrup
 
-* ### [I sent Andrew Forrest 50 hard questions. He invited me to have a talk](https://www.afr.com/companies/mining/i-sent-andrew-forrest-50-hard-questions-he-invited-me-to-have-a-talk-20241211-p5kxns)
+* ### [‘A man is not a plan’: How Naomi Simson created an experiences empire](https://www.afr.com/wealth/people/a-man-is-not-a-plan-how-naomi-simson-created-an-experiences-empire-20241119-p5krvm)
     
-* ### [Fortescue executive chairman Andrew Forrest in his own words](https://www.afr.com/companies/mining/fortescue-executive-chairman-andrew-forrest-in-his-own-words-20241210-p5kx5n)
+* ### [I sent Andrew Forrest 50 hard questions. He invited me to have a talk](https://www.afr.com/companies/mining/i-sent-andrew-forrest-50-hard-questions-he-invited-me-to-have-a-talk-20241211-p5kxns)
     
 
 [The Australian Financial Review](https://www.afr.com/)
