@@ -185,11 +185,10 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![the US Air Force](https://cdn.returningveterans.org/images/honor/flag_generic_wall_of_honor.jpg)  
+![Mary Cronkhite-Johns](https://cdn.returningveterans.org/images/honor/Mary_CJ2.png)  
 
-**In Honor of the US Air Force**  
-United States Air Force  
-Submitted by Wallace Tjader](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Honor of Mary Cronkhite-Johns**  
+Submitted by Mary Nielsen](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -232,5 +231,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 12/16/24 - 1:30:04  
+Printed 12/16/24 - 7:31:35  
 © 2024 Returning Veterans Project
