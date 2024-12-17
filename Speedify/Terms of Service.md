@@ -128,9 +128,9 @@ Speedify is the only app that combines all of your Internet connections to keep 
 
 #### Popular Posts
 
-* [iPad Keeps Disconnecting from Wi-Fi? Here's the Easy Fix!](https://speedify.com/blog/fix-internet-disconnecting/ipad-keeps-disconnecting-from-wifi-fix/)
 * [\[SOLVED\] Mobile Hotspot Connected but No Internet](https://speedify.com/blog/fix-slow-internet/mobile-hotspot-connected-but-no-internet-fix/)
-* [WhatsApp Hangs and Is Not Working - Here's How to Fix It](https://speedify.com/blog/fix-internet-disconnecting/fix-whatsapp-hangs-and-is-not-working/)
+* [iPad Keeps Disconnecting from Wi-Fi? Here's the Easy Fix!](https://speedify.com/blog/fix-internet-disconnecting/ipad-keeps-disconnecting-from-wifi-fix/)
+* [\[TUTORIAL\] Snapchat Unblocked at School - How to Guide](https://speedify.com/blog/how-to/snapchat-unblocked-at-school-tutorial/)
 
 Upcoming Events
 ---------------
