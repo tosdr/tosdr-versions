@@ -31,6 +31,250 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+¿A qué hora y dónde ver los premios The Best de la FIFA?
+========================================================
+
+Los premios The Best de la FIFA se llevarán a cabo durante este martes 17 de diciembre del 2024 y se podrán ver en Ecuador.
+---------------------------------------------------------------------------------------------------------------------------
+
+![El trofeo The Best que entrega la FIFA a lo mejor del fútbol.](https://www.elcomercio.com/wp-content/uploads/2023/02/best-scaled.jpg)
+
+Los ganadores de los premios **‘The Best’** de la FIFA, a los mejores jugadores y jugadoras, entrenadores y entrenadoras, goles y aficionados de 2024, se conocerán este martes en un acto virtual que tendrá lugar en Doha (Catar).
+
+La cita, que se restransmitirá en directo por **FIFA.com**, tendrá lugar en una cena de gala, en la Aspire Academy, en la víspera de la final de la Copa Intercontinental que, el miércoles, disputarán el Real Madrid y el mexicano Pachuca.
+
+### Más noticias:
+
+* [Lamine Yamal gana el Golden Boy y Lionel Messi lo felicita](https://www.elcomercio.com/deportes/lionel-messi-lamine-yamal-golden-boy.html "Lamine Yamal gana el Golden Boy y Lionel Messi lo felicita")
+* [Messi y Cristiano, nominados al mejor del mundo en 2024](https://www.elcomercio.com/deportes/futbol/the-best-messi-cristiano-nominados.html "Messi y Cristiano, nominados al mejor del mundo en 2024")
+* [Rodri ganó el Balón de Oro a Vinícius solo por 41 puntos](https://www.elcomercio.com/deportes/futbol/puntos-rodri-vinicius-balon-oro.html "Rodri ganó el Balón de Oro a Vinícius solo por 41 puntos")
+
+En la misma, con motivo del 20º aniversario de la academia, estarán distintos mandatarios, incluido el presidente de la FIFA, **Gianni Infantino**, miembros del Consejo de la FIFA, FIFA Legends y otros representantes locales y regionales, además de otras personalidades del mundo del fútbol.
+
+El evento se llevará a cabo a las **12:00** de Ecuador[.](https://es.wikipedia.org/wiki/Premio_The_Best_FIFA "https://es.wikipedia.org/wiki/Premio_The_Best_FIFA")
+
+Nominadas al Premio ‘The Best’ a la Jugadora de la FIFA
+-------------------------------------------------------
+
+Aitana Bonmatí (España/Barcelona)  
+Barbra Banda (Zambia y Shanghái Shengli/Orlando Pride)  
+Caroline Graham Hansen (Noruega/Barcelona)  
+Keira Walsh (Inglaterra/Barcelona)  
+Khadija Shaw (Jamaica/Manchester City)  
+Lauren Hemp (Inglaterra/Manchester City)  
+Lindsey Horan (Estados Unidos/Olympique de Lyon)  
+Lucy Bronze (Inglaterra/Barcelona/Chelsea)  
+Mallory Swanson (Estados Unidos/Chicago Red Stars)  
+Mariona Caldentey (España/Barcelona/Arsenal)  
+Naomi Girma (Estados Unidos/San Diego Wave)  
+Ona Batlle (España/Barcelona)  
+Salma Paralluelo (España/Barcelona)  
+Sophia Smith (Estados Unidos/Portland Thorns)  
+Tabitha Chawinga (Malaui/París Saint-Germain/Olympique de Lyon  
+Trinity Rodman (Estados Unidos/Washington Spirit)
+
+Nominados al Premio ‘The Best’ al Jugador de la FIFA
+----------------------------------------------------
+
+Dani Carvajal (España/Real Madrid)  
+Erling Haaland (Noruega/Manchester City)  
+Federico Valverde (Uruguay/Real Madrid)  
+Florian Wirtz (Alemania/Bayer Leverkusen)  
+Jude Bellingham (Inglaterra/Real Madrid)  
+Kylian Mbappé (Francia/París Saint-Germain/Real Madrid)  
+Lamine Yamal (España/Barcelona)  
+Lionel Messi (Argentina/Inter de Miami)  
+Rodri (España/Manchester City)  
+Toni Kroos (Alemania/Real Madrid, retirado)  
+Vinícius Jr. (Brasil/Real Madrid)
+
+Nominado/as al Premio ‘The Best’ al Entrenador de la FIFA de Fútbol Femenino
+----------------------------------------------------------------------------
+
+Arthur Elias (BRA/selec. Brasil)  
+Elena Sadiku (SWE/Celtic)  
+Emma Hayes (ENG/Chelsea/selec. Estados Unidos)  
+Futoshi Ikeda (JPN/selec. Japón)  
+Gareth Taylor (ENG/Manchester City)  
+Jonatan Giráldez (ESP/Barcelona/Washington Spirit)  
+Sandrine Soubeyrand (FRA/París FC)  
+Sonia Bompastor (FRA/Olympique de Lyon/Chelsea
+
+Nominados al Premio ‘The Best’ al Entrenador de la FIFA de Fútbol Masculino
+---------------------------------------------------------------------------
+
+Carlo Ancelotti (ITA/Real Madrid)  
+Lionel Scaloni (ARG/selc. Argentina)  
+Luis de la Fuente (ESP/selc. España)  
+Pep Guardiola (ESP/Manchester City)  
+Xabi Alonso (ESP/Bayer Leverkusen)
+
+Nominadas al Premio ‘The Best’ a la Guardameta de la FIFA
+---------------------------------------------------------
+
+Alyssa Naeher (Estados Unidos/Chicago Red Stars)  
+Ann-Katrin Berger (Alemania/Chelsea/NJ/NY Gotham)  
+Ayaka Yamashita (Japón/INAC Kobe Leonessa/Manchester City)  
+Cata Coll (España/Barcelona)  
+Mary Earps (Inglaterra/Manchester United/París Saint-Germain)
+
+Nominados al Premio ‘The Best’ al Guardameta de la FIFA
+-------------------------------------------------------
+
+Andriy Lunin (Ucrania/Real Madrid)  
+David Raya (España/Arsenal)  
+Ederson (Brasil/Manchester City)  
+Emiliano Martínez (Argentina/Aston Villa)  
+Gianluigi Donnarumma (Italia/París Saint-Germain)  
+Mike Maignan (Francia/AC Milan)  
+Unai Simón (España/Athletic Club)
+
+Nominadas al Premio Marta de la FIFA
+------------------------------------
+
+Delphine Cascarino (FRA/Olympique de Lyon–Benfica)  
+Marina Hegering (GER/Essen–Wolfsburg)  
+Sakina Karchaoui (FRA/Francia–Suecia)  
+Paulina Krumbiegel (GER/Duisburg–Hoffenheim)  
+Marta (BRA/Brasil–Jamaica)  
+Nina Matejić (SRB/selección sub-19 femenina de Serbia–selección sub-17 femenina de Inglaterra)  
+Beth Mead (ENG/Arsenal–West Ham United)  
+Giuseppina Moraca (ITA/Lazio–Bologna)  
+Asisat Oshoala (NGA/Barcelona–Benfica)  
+Mayra Pelayo (MEX/México–Estados Unidos)  
+Trinity Rodman (USA/Estados Unidos–Japón)
+
+Nominados al Premio Puskás la FIFA
+----------------------------------
+
+Hassan Al Haydos (QAT/Catar–RP China)  
+Terry Antonis (AUS/Melbourne City–Western Sydney Wanderers)  
+Yassine Benzia (ALG/Argelia–Sudáfrica)  
+Walter Bou (ARG/Lanús–Tigre)  
+Michaell Chirinos (HON/Costa Rica–Honduras)  
+Federico Dimarco (ITA/Inter de Milán–Frosinone)  
+Alejandro Garnacho (ARG/Everton–Manchester United)  
+Mohammed Kudus (GHA/West Ham United–Freiburg)  
+Denis Omedi (UGA/KCCA–Kitara)  
+Paul Onuachu (NGA/Trabzonspor–Konyaspor)  
+Jaden Philogene (ENG/Rotherham United–Hull City)
+
+Nominados al Premio a la Afición de la FIFA
+-------------------------------------------
+
+José Armando (MEX)  
+Craig Ferguson (SCO)  
+Guilherme Gandra Moura (BRA). EFE  
+lm
+
+Cortes de luz no programados se aplicaron en Quito
+==================================================
+
+El Gobierno informó que los cortes de luz se mantendrán hasta el 20 de diciembre. Sin embargo, los cortes de luz sorpresivos preocupan
+--------------------------------------------------------------------------------------------------------------------------------------
+
+![Cortes de luz no programados se aplicaron el lunes 16 de diciembre.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-17T075157.101.jpg)
+
+Usuarios en redes sociales reportaron **cortes de luz que no estaban programados** para sus sectores. La **Empresa Eléctrica Quito** no se ha pronunciado al respecto.
+
+### Más noticias
+
+* [Cortes de luz en Quito este martes 17 de diciembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-en-quito-este-martes-17-de-diciembre.html "Cortes de luz en Quito este martes 17 de diciembre")
+* [Así funciona el Pico y placa en Quito este martes 17 de diciembre](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-martes-17-de-diciembre.html "Así funciona el Pico y placa en Quito este martes 17 de diciembre")
+* [Opciones de estacionamiento en Quito en época navideña](https://www.elcomercio.com/actualidad/quito/estacionamiento-compras-navidena-quito-publico.html "Opciones de estacionamiento en Quito en época navideña")
+
+Cortes de luz a deshoras
+------------------------
+
+Durante la tarde y noche del **lunes 16 de diciembre de 2024**, algunos sectores de Quito se quedaron sin luz repentinamente.
+
+Esto ocasionó la **molestia de los moradores** debido a que su planificación diaria está basada en los cronogramas publicados con la programación de la suspensión eléctrica.
+
+Esto sucede luego de que el **Ministerio de Energía y Minas** comunicó a la ciudadanía la reducción de los apagones a escala nacional. En la actualidad, se aplican en Ecuador **cortes de luz de dos horas.**
+
+En la cuenta de X de l**a Empresa Eléctrica Quito**, los usuarios reportaron el corte de energía. Barrios como la Julio Matovelle, Cristianía, El Bosque, Gualo, Barrionuevo, Villa Flora, Eugenio Espejo, Cumbayá, Chimbacalle fueron afectados.
+
+El Ministerio de Energía informó que **los apagones se mantendrán hasta el 20 de diciembre;** sin embargo, ante los cortes de luz sorpresivos, la duda persiste.
+
+Apagones se mantendrán hasta el 20 de diciembre
+-----------------------------------------------
+
+Según el Gobierno, hay varios factores qu**e permiten acabar con los cortes de luz** este viernes 20 de diciembre.
+
+Los **feriados de Navidad y Año Nuevo** los ecuatorianos tendrán servicio de energía eléctrica ininterrumpido, según las proyecciones del Gobierno.
+
+Entre estas están: optimización de la capacidad instalada, inversión en activación o reactivación de proyectos energéticos.
+
+Además, de**l incremento de las lluvias** que ha permitido subir los niveles de los canales y los embalses que abastecen las hidroeléctricas.
+
+Este lunes, también se puso en funcionamiento la Unidad 3 de la **Central Alluriquín**, que pertenece al complejo Toachi-Pilatón.  
+
+Así funciona el Pico y placa en Quito este martes 17 de diciembre
+=================================================================
+
+Infórmate sobre las restricciones y documentos necesarios para circular en Quito este martes. Revisa la fecha de caducidad de tus documentos.
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-16T151418.232.jpg)
+
+La medida d**el Pico y placa** sigue vigente en Quito para restringir la **movilidad de ciertos vehículos** un día de la semana, **según el último dígito** del registro metálico.
+
+### Más noticias
+
+* [Cortes de luz reducidos en Quito este lunes 16 de diciembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-reducidos-lunes-16-de-diciembre.html "Cortes de luz reducidos en Quito este lunes 16 de diciembre")
+* [Últimos días para matriculación y revisión técnica vehicular en Quito](https://www.elcomercio.com/actualidad/quito/ultimos-dias-para-matriculacion-y-revision-tecnica-vehicular-en-quito.html "Últimos días para matriculación y revisión técnica vehicular en Quito")
+* [Bomberos de Quito intensifican campaña contra la pirotecnia](https://www.elcomercio.com/actualidad/quito/bomberos-campana-pirotecnia.html "Bomberos de Quito intensifican campaña contra la pirotecnia")
+
+El esquema de aplicación del Pico y Placa
+-----------------------------------------
+
+En la mañana la medida se aplica en un **horario de 06:00 a 09:30** y en la tarde, de 16:00 a 20:00.
+
+Según el **último dígito de la placa**, el cronograma es el siguiente:
+
+* **Lunes:** placas terminadas en 1 y 2.
+* **Martes**: placas terminadas en 3 y 4.
+* **Miércoles**: placas terminadas en 5 y 6.
+* **Jueves**: placas terminadas en 7 y 8.
+* **Viernes:** placas terminadas en 9 y 0.
+
+Este martes, **todos los vehículos pueden circular** debido a que en feriados no se aplica la medida.
+
+Documentos necesarios para circular
+-----------------------------------
+
+Para circular, es **esencial tener la licencia** y la matrícula vigentes.
+
+Si tu licencia está caducada, debe**s seguir estos pasos** para renovarla:
+
+* Generar una orden de pago en la página de la Agencia Nacional de Tránsito (ANT).
+* Cancelar el valor correspondiente, ya sea en línea o en puntos físicos de pago.
+* Obtener un turno para la emisión de la licencia en la agencia de tu preferencia.
+* Acercarte a la agencia 15 minutos antes de la hora asignada, presentar el turno impreso con la hora y día agendado.
+* Realizar la evaluación teórica.
+* Esperar la entrega de la nueva licencia.
+
+Si tu licencia está **próxima a caducarse y** tu turno es aún lejano, puedes mostrar impreso el turno cuando los agentes de tránsito te detengan.
+
+Colaboración ciudadana en el Pico y placa
+-----------------------------------------
+
+El **Municipio de Quito** insta a los conductores a cumplir con las restricciones del Pico y placa para mejorar el flujo vehicular en las horas pico.
+
+Planificar los recorridos y verificar que todos **los documentos estén en regla** es fundamental para evitar sanciones y garantizar una movilidad más eficiente.
+
+En conclusión, este martes, **los vehículos con placas terminadas en 3** **y 4** no pueden circular dentro de Quito. Asegúrate de tener tu licencia y matrícula vigentes para evitar [inconvenientes](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
+
+> 🚨[#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
+>   
+> 💁 Recuerda, hoy la medida “Pico y Placa” se mantiene con normalidad.  
+>   
+> Respeta las normas de tránsito y evita sanciones.  
+>   
+> 🚘 Con cultura vial [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/zPj1sgdKTa](https://t.co/zPj1sgdKTa)
+> 
+> — AMTQuito (@AMT\_Quito) [October 15, 2024](https://twitter.com/AMT_Quito/status/1846123824149868564?ref_src=twsrc%5Etfw)
+
 ¿Un chocolate será un regalo suntuoso en el mundo?
 ==================================================
 
@@ -776,149 +1020,3 @@ El jugador concedió una entrevista a Tuttosport y dejó claro que su ambición 
 “Es un honor recibir este premio Golden Boy. El primer paso de una gran carrera que espero tener. Aunque soy muy consciente de que los premios individuales son fruto del trabajo colectivo, así que quiero seguir haciéndolo bien en el Barça y con España para **poder acumular más trofeos**. De equipo e individuales. En cualquier caso, **ganar el Golden Boy es un gran punto de partida** para un futbolista joven. Todos los chicos del mundo aspiran a ganarlo”, dijo en la entrevista.
 
 Además, apuntó al **Balón de Oro**: “Si gano con el Barça, sobre todo la Liga de Campeones, tendré más posibilidades de aspirar al trofeo individual que corona la carrera de un jugador: el **Balón de Oro**. Ningún jugador gana premios individuales si no puede ganar nada colectivamente con su equipo. Así que ganando colectivamente estaré más cerca de los premios individuales, porque una cosa es consecuencia de la otra”, agregó.
-
-Un documental explorará el meticuloso crimen de Luigi Mangione
-==============================================================
-
-El 4 de diciembre de 2024 fue asesinado Brian Thompson, director ejecutivo de United Health Care (UHC).
--------------------------------------------------------------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/caso-mangione-El-Comercio.jpg)
-
-Las productoras Anonymous Content y Jigsaw Productions, liderada por el reconocido cineasta Alex Gibney, anunciaron un documental sobre **Luigi Mangione**.
-
-Este joven de 26 años es el presunto asesino del director ejecutivo de United Healthcare, Brian Thompson.
-
-### Más noticias
-
-* **[Los motivos del presunto crimen que habría cometido Luigi Mangione](https://www.elcomercio.com/actualidad/mundo/detencion-luigi-mangione-presunto-asesino-brian-thompson.html "https://www.elcomercio.com/actualidad/mundo/detencion-luigi-mangione-presunto-asesino-brian-thompson.html")**
-
-_El anuncio fue recogido por The Hollywood Reporter el lunes 16 de diciembre de 2024._
-
-Una historia que va más allá del crimen
----------------------------------------
-
-Según las productoras, el documental no solo relatará la ejecución meticulosa del crimen. También abordará el manifiesto de Mangione, su paso por la prestigiosa Ivy League y las razones que lo llevaron a la violencia.
-
-La lesión crónica que sufría en la espalda y su frustración con el sistema de salud en EE.UU. también jugarán un rol importante.
-
-El documental promete abrir un debate sobre el alto costo de los servicios médicos y la denegación de tratamientos por parte de aseguradoras.
-
-Mangione, capturado la semana pasada en un **McDonald’s en Pensilvania**, ha sido visto como una figura polarizante. En redes sociales, muchos lo ven como un «justiciero» que atacó los abusos del sistema de salud estadounidense.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DDabwu8uAg-/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DDabwu8uAg-/?utm_source=ig_embed&utm_campaign=loading)
-
-Quién es Alex Gibney
---------------------
-
-Alex Gibney, conocido por su estilo crítico y profundo, es uno de los documentalistas más importantes del cine contemporáneo. Ganó un premio Oscar en 2008 con ‘Taxi to the Dark Side’, que abordó las políticas de tortura de EE.UU.
-
-Su trabajo reciente incluye ‘The Bibi Files’, sobre la corrupción del primer ministro israelí Benjamin Netanyahu, y ‘Knife: Meditations After an Attempted Murder’, basado en las memorias del novelista Salman Rushdie. Actualmente, también está trabajando en un documental sobre Elon Musk titulado ‘Musk’.
-
-El **caso de Mangione** ha generado una ola de opiniones divididas. Mientras algunos lo ven como un criminal, otros lo consideran un símbolo de la frustración colectiva contra el sistema sanitario.
-
-El impacto de su manifiesto y la metódica ejecución del crimen han convertido el caso en un fenómeno mediático.
-
-Formato y lanzamiento del documental
-------------------------------------
-
-Aún no se ha confirmado si el documental tendrá un formato de largometraje o episodios. Sin embargo, dado el peso del tema y la participación de Gibney, se espera una producción que analizará a fondo las causas y consecuencias de este crimen.
-
-Fuentes como The Hollywood Reporter y medios estadounidenses destacan el interés público en esta historia. El documental promete revelar detalles desconocidos sobre la **vida de Mangione** y su visión del sistema que lo llevó a actuar.
-
-Kendry Páez y Álex Arce finalizan como los más caros de Liga Pro
-================================================================
-
-Kendry Páez se posicionó como el futbolista de mayor valor de la Liga Pro y lo siguieron Álex Arce, de Liga, y otros tres jugadores de IDV.
--------------------------------------------------------------------------------------------------------------------------------------------
-
-![Kendry Páez, volante de Independiente del Valle, en la final de la Liga Pro ante la Liga de Quito de Álex Arce.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-16T171803.838.jpg)
-
-Con la final entre **Liga de Quito e Independiente del Valle**, la Liga Pro cerró su temporada 2024 y dirimió como campeones a los albos. Al término del ciclo, dos figuras de ambos clubes finalizaron como los futbolistas más costosos del torneo: **Kendry Páez y Álex Arce**.
-
-A pesar de que no consiguió hacerse con el título del campeonato nacional, **Páez** se posicionó como el futbolista de mayor valor dentro del certamen a sus 17 años. A su vez, en la campaña supero sus números del torneo previo de 2023.
-
-### Más noticias:
-
-* [¿Por qué es tendencia Kendry Páez en redes sociales?](https://www.elcomercio.com/deportes/futbol/kendry-paez-redes-sociales-tendencia.html "¿Por qué es tendencia Kendry Páez en redes sociales?")
-* [Alex Arce, el delantero de Liga de Quito que rompió varios récords](https://www.elcomercio.com/deportes/futbol/alex-arce-delantero-de-liga-de-quito-que-rompio-varios-records.html "Alex Arce, el delantero de Liga de Quito que rompió varios récords")
-* [Aficionados recuerdan a Esteban Paz tras título de Liga de Quito](https://www.elcomercio.com/deportes/esteba-paz-liga-quito-campeon-2024.html "Aficionados recuerdan a Esteban Paz tras título de Liga de Quito")
-
-**Arce**, figura de Liga de Quito que rompió récords en la temporada, consiguió el título liguero, mas quedó como escolta de **Páez**. El delantero paraguayo se coronó como el máximo goleador de su equipo y de la Liga Pro.
-
-Ambos futbolistas fueron valorados en la cima del ranking que realiza el sitio especializado Transfermarkt y que actualizó una vez que finalizase el torneo ecuatoriano. En lo que respecta a los cinco jugadores más valiosos, otros tres futbolistas de **Independiente del Valle** completan el listado.
-
-Kendry Páez, el futbolista más caro de la Liga Pro
---------------------------------------------------
-
-**Kendry Páez** se ubicó en la cima de los futbolistas mejor valorados de la Liga Pro con una tasa de alrededor de **12 millones y medio de dólares**. Aquella cifra la ha mantenido desde junio del 2024, donde esta ascendió en aproximadamente dos millones.
-
-Durante el 2024, Páez estuvo presente con Independiente del Valle en la Liga Pro, la Copa Ecuador, la **Copa Libertadores y la Copa Sudamericana.** A su vez, anotó ocho goles y brindó cinco asistencias en 41 partidos.
-
-El volante también fue convocado para eliminatorias con la **Selección de Ecuador** y estuvo en la **Copa América**. Al cumplir los 18 años se podrá marchar al Chelsea de Inglaterra, equipo que ya lo fichó y lo mantiene a préstamo en Independiente.
-
-Álex Arce, el mejor ‘nueve’ de Ecuador y el segundo más caro
-------------------------------------------------------------
-
-![Álex Arce, delantero de Liga de Quito y goleador de la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/12/arce_treinta_1-1024x683.jpg)
-
-Álex Arce, delantero de Liga de Quito y goleador de la Liga Pro. Foto: API
-
-Después de su extraordinaria temporada con Liga de Quito, el valor de **Álex Arce** se elevó y lo posicionó tras Páez. El precio de los derechos económicos del futbolista está alrededor de los **cinco millones** de dólares.
-
-El futbolista aumentó considerablemente su costo, pues, a finales del 2023 fue tasado en alrededor de dos millones de dólares y **Liga de Quito** pagó 2,8. El incremento de tres millones llegó gracias a goles y a extraordinarios números[.](https://en.wikipedia.org/wiki/L.D.U._Quito "https://en.wikipedia.org/wiki/L.D.U._Quito")
-
-Con los albos, el futbolista paraguayo marcó **35 goles** y brindó cuatro asistencias en **46 partidos** con el equipo. A su vez, en la Liga Pro consiguió 28 tantos en 31 compromisos.
-
-Keny Arroyo, Yaimar Medina y Justin Lerma complentan los cinco más valiosos
----------------------------------------------------------------------------
-
-![Keny Arroyo, jugador de Independiente del Valle en la final de la Copa Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/idv_finales_1-1024x683.jpg)
-
-Keny Arroyo, jugador de Independiente del Valle en la final de la Copa Ecuador. Foto: API
-
-Detrás de **Páez y Álex Arce** se ubican tres canteranos de Independiente del Valle que se consolidaron y sumaron minutos con el primer equipo en esta temporada. **Keny Arroyo, Yaimar Medina y Justin Lerma** -quien ya fue traspasado al Borussia Dortmund- completan el podio.
-
-Del trío, Arroyo y Aimar también fueron llamados a la **Selección de Ecuador** por el DT Sebastián Beccacece. En el caso de Lerma, este disputó el Sudamericano Sub-15 con la categoría juvenil.
-
-El valor de los derechos de Arroyo se estima en **cuatro millones de dólares**, mientras que el de Medina está en los tres y medio y el de Lerma en los tres.
-
-Liga de Quito ya tiene a su primer refuerzo para el 2025
-========================================================
-
-La dirigencia de Liga de Quito asegura la llegada de un nuevo jugador para reforzar su plantilla en busca del tricampeonato de la Liga Pro.
--------------------------------------------------------------------------------------------------------------------------------------------
-
-![Yeltzin Erique jugó en Orense en el 2024 y regresará a Liga de Quito para el 2025.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-16T181131.774.jpg)
-
-**Liga de Quito** se consagró campeón del fútbol ecuatoriano el pasado sábado 14 de diciembre, alcanzando su decimotercera estrella nacional tras conquistar la Liga Pro. Sin embargo, la dirigencia alba ya piensa en fortalecer su equipo para la próxima temporada.
-
-El presidente del club, **Isaac Álvarez**, anunció el primer refuerzo del campeón actual: un joven con gran proyección en el fútbol ecuatoriano.
-
-### Más noticias:
-
-* [Agente de Álex Arce no descarta su continuidad en Liga de Quito](https://www.elcomercio.com/deportes/futbol/alex-arce-transferencia-liga-brasil.html "Agente de Álex Arce no descarta su continuidad en Liga de Quito")
-* [Aficionados recuerdan a Esteban Paz tras título de Liga de Quito](https://www.elcomercio.com/deportes/esteba-paz-liga-quito-campeon-2024.html "Aficionados recuerdan a Esteban Paz tras título de Liga de Quito")
-* [Alex Arce, el delantero de Liga de Quito que rompió varios récords](https://www.elcomercio.com/deportes/futbol/alex-arce-delantero-de-liga-de-quito-que-rompio-varios-records.html "Alex Arce, el delantero de Liga de Quito que rompió varios récords")
-
-Liga de Quito confirma su primer refuerzo para el 2025
-------------------------------------------------------
-
-Para la temporada 2025, Liga de Quito contará con el regreso de uno de sus jugadores cedidos en 2024. No se trata de Alexander Alvarado, quien seguirá prestado a Universidad Católica por un año más, sino de **Yeltzin Erique**, una de las promesas del club.
-
-Erique, de 21 años, vuelve tras una temporada en **Orense**, equipo que no hizo efectiva la opción de compra del joven lateral izquierdo. El regreso del jugador fue confirmado por el presidente del club, Isaac Álvarez, en una entrevista con Área Deportiva.
-
-“**Con alegría puedo decirles que vuelve a Liga Deportiva Universitaria**, y le daremos su medalla de campeón”, expresó Álvarez.
-
-Yeltzin Erique, una apuesta a futuro
-------------------------------------
-
-Yeltzin Erique se unió a Liga de Quito en 2021, cuando tenía 18 años, y debutó como profesional en 2023 durante la Liga Pro. En 2024, fue **cedido a Orense** para ganar experiencia y minutos en primera división.
-
-En el equipo de El Oro, **Erique disputó 23 partidos, 21 de ellos como titular**, destacando tanto en la Liga Pro como en la Copa Ecuador. Con el “Vendaval Verde”, se consolidó como el lateral izquierdo titular, demostrando su calidad y madurez en el campo.
-
-Su regreso a Liga de Quito representa una oportunidad clave para competir por el puesto con **Leonel Quiñónez**, un jugador con más experiencia. Dada la gran cantidad de partidos que el equipo disputará en 2025, **Erique será una alternativa valiosa para Pablo ‘Vitamina’ Sánchez**, quien podrá darle descanso al lateral titular en ciertos compromisos.
-
-El regreso de Yeltzin Erique no solo refuerza la plantilla de Liga, sino que también confirma el compromiso del club con el desarrollo de sus jóvenes talentos.
