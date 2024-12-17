@@ -608,6 +608,8 @@ Your cart is empty
     
     [Holiday Sale](https://www.lorex.com/pages/promotions)
     
+    [Deal of the Day](https://www.lorex.com/pages/promotions#deal-of-the-day)
+    
     [Lorex Clearance Outlet](https://www.lorex.com/pages/outlet)
     
     [Not-for-Profit Program](https://www.lorex.com/pages/nonprofit)
