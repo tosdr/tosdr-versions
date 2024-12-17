@@ -88,10 +88,6 @@ Skip links
     
     The Candidate Recruitment Committee (CRC) supports Republicans in local-level races, including County Judge and more.](https://texasgop.org/crc/)
     
-    [### Protect the Vote
-    
-    Sign up to help us protect the vote in 2024](https://protectthevote.com/)
-    
     ###### Contact Us for Latest Updates
     
     Text “Texas” to 43457 to join, or by entering your phone number and selecting to opt in, you consent to join a recurring SMS/MMS text messaging program that will provide alerts, donation requests, updates, and other important information.
@@ -373,10 +369,8 @@ Without a doubt, Texas is the strongest Republican state in the nation.
 #### Elections
 
 * [Election Information](https://texasgop.org/election-information/)
-* [Join Our Team](https://texasgop.org/join-our-team/)
 
 * [Election Information](https://texasgop.org/election-information/)
-* [Join Our Team](https://texasgop.org/join-our-team/)
 
 #### Press & News
 
