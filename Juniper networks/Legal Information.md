@@ -232,8 +232,8 @@ Juniper's Ai-Native routing solution delivers robust 400GbE and 800GbE capabili
     
 * * [Government (federal, state and local)](https://www.juniper.net/us/en/solutions/government.html)
     * [Education](https://www.juniper.net/us/en/solutions/education.html)
-    * [Healthcare](https://www.juniper.net/us/en/solutions/healthcare.html)
-    * [Retail](https://www.juniper.net/us/en/solutions/retail.html)
+    * [Healthcare](https://www.juniper.net/content/juniper/us/en/solutions/healthcare)
+    * [Retail](https://www.juniper.net/content/juniper/us/en/solutions/retail)
     * [Energy and utilities](https://www.juniper.net/us/en/solutions/energy-utilities.html)
     * [Media and entertainment](https://www.juniper.net/us/en/solutions/media-and-entertainment.html)
 
@@ -915,8 +915,8 @@ Juniper's Ai-Native routing solution delivers robust 400GbE and 800GbE capabili
     
 * * [Government (federal, state and local)](https://www.juniper.net/us/en/solutions/government.html)
     * [Education](https://www.juniper.net/us/en/solutions/education.html)
-    * [Healthcare](https://www.juniper.net/us/en/solutions/healthcare.html)
-    * [Retail](https://www.juniper.net/us/en/solutions/retail.html)
+    * [Healthcare](https://www.juniper.net/content/juniper/us/en/solutions/healthcare)
+    * [Retail](https://www.juniper.net/content/juniper/us/en/solutions/retail)
     * [Energy and utilities](https://www.juniper.net/us/en/solutions/energy-utilities.html)
     * [Media and entertainment](https://www.juniper.net/us/en/solutions/media-and-entertainment.html)
 
@@ -1694,7 +1694,7 @@ Click here for the [November 2023 Privacy Notice](https://www.juniper.net/us/en/
 
 * Popular resources
     
-* * [Events](https://www.juniper.net/content/juniper/us/en/events)
+* * [Events](https://www.juniper.net/us/en/events.html)
     * [Blogs](https://blogs.juniper.net/)
     * [Community](https://community.juniper.net/home)
     * [Image library](https://www.juniper.net/us/en/company/images.html)
