@@ -56,8 +56,6 @@
 * +44 (0) 20 3637 4232
 * info@veema.co.uk
 
-[](#)
-
 * [Home](https://veema.co.uk/ "Home")
 * Terms of Use
 
