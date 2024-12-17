@@ -4,7 +4,7 @@ Jacobin
 =======](https://jacobin.com/)
 
 * [Subscribe](https://jacobin.com/subscribe)
-* [Magazine](https://jacobin.com/issue/trumpism)
+* [Magazine](https://jacobin.com/issue/bye-bye-bidenism)
 * [Donate](https://jacobin.com/donate)
 * [Catalyst](http://catalyst-journal.com/)
 
@@ -22,7 +22,7 @@ Jacobin
 * [Donate](https://jacobin.com/donate)
 * [Store](https://jacobin.com/store)
 
-* [Magazine](https://jacobin.com/issue/trumpism)
+* [Magazine](https://jacobin.com/issue/bye-bye-bidenism)
 * [Blog](https://jacobin.com/blog)
 * [Catalyst](http://catalyst-journal.com/)
 
