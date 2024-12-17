@@ -2,8 +2,6 @@
 
 [![](https://data443.com/wp-content/uploads/2021/06/data443.svg)](https://data443.com/)
 
-Menu
-
 * [Company](#)
     * [Why Data443?](https://data443.com/why-data443/)
     * [Leadership](https://data443.com/leadership/)
@@ -265,11 +263,7 @@ Menu
     * [Investor Presentation](https://www.sec.gov/Archives/edgar/data/1068689/000149315224005498/ex99-1.htm)
     
 
-Search
-
 Search 
-
-Close this search box.
 
 [Free Trial](https://data443.com/try-buy/%20)
 
