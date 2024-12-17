@@ -126,11 +126,9 @@ Navigation
     
     * [Shop All](https://shop.mattel.com/collections/plush-toys)
     
-    Featured
-    
-    * [New Arrivals](https://shop.mattel.com/collections/new-arrivals)
-    * [Best Sellers](https://shop.mattel.com/collections/best-sellers)
-    * [Wooden Toys](https://shop.mattel.com/collections/fisher-price-wooden-toys)
+    * 
+    * 
+    * 
     
      ![Shop By Age](
     
@@ -142,16 +140,16 @@ Navigation
     * [3-4 Years](https://shop.mattel.com/collections/age-3-4-years)
     * [5+ Years](https://shop.mattel.com/collections/age-5-years)
     
-     ![Shop By Price](
+     ![Featured](
     
-      https://images.mattel.net/image/upload/w_360,c_scale/shop-contentstack/blt2147ac301597dc3f/61a8f4c7c99e0f1175b6a559/Shop-by-Price-US_32.svg
-    ) Shop By Price
+      https://images.mattel.net/image/upload/w_360,c_scale/shop-contentstack/bltbb705c537698a2a0/67618b606801012a3356e09b/Nav_Featured-Icon_2x.png
+    ) Featured
     
-    * [Gifts Under $25](https://shop.mattel.com/collections/gifts-under-25)
-    * [Gifts Under $50](https://shop.mattel.com/collections/gifts-under-50)
-    * [Gifts Under $100](https://shop.mattel.com/collections/gifts-under-100)
-    * [Gifts Under $200](https://shop.mattel.com/collections/gifts-under-200)
-    * [Gifts $200+](https://shop.mattel.com/collections/price-200)
+    * [New Arrivals](https://shop.mattel.com/collections/new-arrivals)
+    * [Best Sellers](https://shop.mattel.com/collections/best-sellers)
+    * [Wooden Toys](https://shop.mattel.com/collections/fisher-price-wooden-toys)
+    * 
+    * 
     
 * Brands
     
