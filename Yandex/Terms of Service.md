@@ -186,6 +186,18 @@ General
 
 Yandex Terms of Service
 
+English
+
+Polski
+
+English
+
+Lietuvių
+
+Eesti keel
+
+Latviešu valoda
+
 Yandex Terms of Service
 =======================
 
@@ -319,9 +331,33 @@ _Previous version of the document: [https://yandex.com/legal/termsofservice/1809
 
 Yandex ID Privacy Policy](https://yandex.com/legal/id_privacy_policy/en)
 
+English
+
+Polski
+
+English
+
+Lietuvių
+
+Eesti keel
+
+Latviešu valoda
+
 [Next
 
 Yandex ID Privacy Policy](https://yandex.com/legal/id_privacy_policy/en)
+
+English
+
+Polski
+
+English
+
+Lietuvių
+
+Eesti keel
+
+Latviešu valoda
 
 [Yandex.Support homepage](https://yandex.com/legal)
 
