@@ -2,7 +2,7 @@
 
 * The Data
     
-    [Overview](https://commoncrawl.org/overview)[Web Graphs](https://commoncrawl.org/web-graphs)[Latest Crawl](https://commoncrawl.org/latest-crawl)[Statistics](https://commoncrawl.github.io/cc-crawl-statistics/)[Errata](https://commoncrawl.org/errata)
+    [Overview](https://commoncrawl.org/overview)[Web Graphs](https://commoncrawl.org/web-graphs)[Latest Crawl](https://commoncrawl.org/latest-crawl)[Crawl Stats](https://commoncrawl.github.io/cc-crawl-statistics/)[Graph Stats](https://commoncrawl.github.io/cc-webgraph-statistics/)[Errata](https://commoncrawl.org/errata)
     
 * Resources
     
@@ -263,7 +263,9 @@ The Data
 
 ### [Latest Crawl](https://commoncrawl.org/latest-crawl)
 
-### [Statistics](https://commoncrawl.github.io/cc-crawl-statistics/)
+### [Crawl Stats](https://commoncrawl.github.io/cc-crawl-statistics/)
+
+### [Graph Stats](https://commoncrawl.github.io/cc-webgraph-statistics/)
 
 ### [Errata](https://commoncrawl.org/errata)
 
