@@ -1,11 +1,3 @@
-Notification
-
-Be sure to read about the new [email verification requirements](https://www.noodletools.com/blog/email-login-requirement/) (for users who do not log in via SSO).
-
-[Close](#)
-
-Notification
-
 Menu
 
 [NoodleTools](https://www.noodletools.com/)
