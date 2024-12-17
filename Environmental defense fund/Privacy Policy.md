@@ -58,7 +58,7 @@ Back
 
 For more than 50 years, we have been building innovative solutions to the biggest environmental challenges — from soil to space.
 
-* [2023 impact report](https://impact2023.edf.org/)
+* [2024 impact report](https://impact2024.edf.org/)
 
 * [50+ years of wins for the planet](https://www.edf.org/impact)
 
