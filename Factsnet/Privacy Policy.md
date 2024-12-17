@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![40 Facts About Rumeysa Gelgi ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/celebrity/40-facts-about-rumeysa-gelgi/)
+[![50 Facts About Scheelite ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22114%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/earth-sciences/50-facts-about-scheelite/)
 
-Celebrity
+Earth Sciences
 
-16 Dec 2024
+17 Dec 2024
 
-[40 Facts About Rumeysa Gelgi](https://facts.net/celebrity/40-facts-about-rumeysa-gelgi/)
+[50 Facts About Scheelite](https://facts.net/earth-and-life-science/earth-sciences/50-facts-about-scheelite/)
 
-[![25 Facts About Lipidosis With Triglyceride Storage Disease ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2277%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/25-facts-about-lipidosis-with-triglyceride-storage-disease/)
+[![50 Facts About Parc ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/biology-earth-and-life-science/50-facts-about-parc/)
 
-Health Science
+Biology
 
-16 Dec 2024
+17 Dec 2024
 
-[25 Facts About Lipidosis With Triglyceride Storage Disease](https://facts.net/fitness-and-wellbeing/health-science/25-facts-about-lipidosis-with-triglyceride-storage-disease/)
+[50 Facts About Parc](https://facts.net/earth-and-life-science/biology-earth-and-life-science/50-facts-about-parc/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
