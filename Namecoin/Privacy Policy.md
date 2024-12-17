@@ -7,21 +7,21 @@ The first secure, decentralized, human-meaningful naming system.
 
 [Skip to content](#start_here)
 
- Search [Advanced search](https://forum.namecoin.org/search.php?sid=9ff0815f8c2849367aa68ea5c72e5726 "Advanced search") 
+ Search [Advanced search](https://forum.namecoin.org/search.php?sid=4b7c4b70ad34ecaeee2de8d8243daea4 "Advanced search") 
 
 * [Quick links](#)
     
-    * [Unanswered topics](https://forum.namecoin.org/search.php?search_id=unanswered&sid=9ff0815f8c2849367aa68ea5c72e5726)
-    * [Active topics](https://forum.namecoin.org/search.php?search_id=active_topics&sid=9ff0815f8c2849367aa68ea5c72e5726)
+    * [Unanswered topics](https://forum.namecoin.org/search.php?search_id=unanswered&sid=4b7c4b70ad34ecaeee2de8d8243daea4)
+    * [Active topics](https://forum.namecoin.org/search.php?search_id=active_topics&sid=4b7c4b70ad34ecaeee2de8d8243daea4)
     
-    * [Search](https://forum.namecoin.org/search.php?sid=9ff0815f8c2849367aa68ea5c72e5726)
+    * [Search](https://forum.namecoin.org/search.php?sid=4b7c4b70ad34ecaeee2de8d8243daea4)
     
-* [FAQ](https://forum.namecoin.org/app.php/help/faq?sid=9ff0815f8c2849367aa68ea5c72e5726 "Frequently Asked Questions")
-* [Login](https://forum.namecoin.org/ucp.php?mode=login&redirect=ucp.php%3Fmode%3Dprivacy&sid=9ff0815f8c2849367aa68ea5c72e5726 "Login")
-* [Register](https://forum.namecoin.org/ucp.php?mode=register&sid=9ff0815f8c2849367aa68ea5c72e5726)
+* [FAQ](https://forum.namecoin.org/app.php/help/faq?sid=4b7c4b70ad34ecaeee2de8d8243daea4 "Frequently Asked Questions")
+* [Login](https://forum.namecoin.org/ucp.php?mode=login&redirect=ucp.php%3Fmode%3Dprivacy&sid=4b7c4b70ad34ecaeee2de8d8243daea4 "Login")
+* [Register](https://forum.namecoin.org/ucp.php?mode=register&sid=4b7c4b70ad34ecaeee2de8d8243daea4)
 
-* [Namecoin](https://www.namecoin.org/) [Board index](https://forum.namecoin.org/index.php?sid=9ff0815f8c2849367aa68ea5c72e5726)
-* [Search](https://forum.namecoin.org/search.php?sid=9ff0815f8c2849367aa68ea5c72e5726 "View the advanced search options")
+* [Namecoin](https://www.namecoin.org/) [Board index](https://forum.namecoin.org/index.php?sid=4b7c4b70ad34ecaeee2de8d8243daea4)
+* [Search](https://forum.namecoin.org/search.php?sid=4b7c4b70ad34ecaeee2de8d8243daea4 "View the advanced search options")
 
 Namecoin Forum - Privacy policy
 -------------------------------
@@ -36,14 +36,14 @@ Your account will at a bare minimum contain a uniquely identifiable name (herein
   
 Your password is ciphered (a one-way hash) so that it is secure. However, it is recommended that you do not reuse the same password across a number of different websites. Your password is the means of accessing your account at “Namecoin Forum”, so please guard it carefully and under no circumstance will anyone affiliated with “Namecoin Forum”, phpBB or another 3rd party, legitimately ask you for your password. Should you forget your password for your account, you can use the “I forgot my password” feature provided by the phpBB software. This process will ask you to submit your user name and your email, then the phpBB software will generate a new password to reclaim your account.  
 
-* [Namecoin](https://www.namecoin.org/) [Board index](https://forum.namecoin.org/index.php?sid=9ff0815f8c2849367aa68ea5c72e5726)
+* [Namecoin](https://www.namecoin.org/) [Board index](https://forum.namecoin.org/index.php?sid=4b7c4b70ad34ecaeee2de8d8243daea4)
 * All times are UTC
-* [Delete cookies](https://forum.namecoin.org/ucp.php?mode=delete_cookies&sid=9ff0815f8c2849367aa68ea5c72e5726)
-* [Contact us](https://forum.namecoin.org/memberlist.php?mode=contactadmin&sid=9ff0815f8c2849367aa68ea5c72e5726)
+* [Delete cookies](https://forum.namecoin.org/ucp.php?mode=delete_cookies&sid=4b7c4b70ad34ecaeee2de8d8243daea4)
+* [Contact us](https://forum.namecoin.org/memberlist.php?mode=contactadmin&sid=4b7c4b70ad34ecaeee2de8d8243daea4)
 
 Powered by [phpBB](https://www.phpbb.com/)® Forum Software © phpBB Limited
 
-[Privacy](https://forum.namecoin.org/ucp.php?mode=privacy&sid=9ff0815f8c2849367aa68ea5c72e5726 "Privacy") | [Terms](https://forum.namecoin.org/ucp.php?mode=terms&sid=9ff0815f8c2849367aa68ea5c72e5726 "Terms")
+[Privacy](https://forum.namecoin.org/ucp.php?mode=privacy&sid=4b7c4b70ad34ecaeee2de8d8243daea4 "Privacy") | [Terms](https://forum.namecoin.org/ucp.php?mode=terms&sid=4b7c4b70ad34ecaeee2de8d8243daea4 "Terms")
 
 [](#)
 
