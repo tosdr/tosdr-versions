@@ -1,19 +1,11 @@
 [](https://www.media.net/)
 
-* [Home](https://www.media.net/)
-* [Marketplace](https://www.media.net/marketplace)
-* [contextual ads](https://www.media.net/contextualads)
-* [programmatic](https://www.media.net/programmatic)
-* [buyers](https://www.media.net/buyers)
-* [about](https://www.media.net/aboutus)
-* [sign in](https://pubconsole.media.net/login) [Contact Us](https://www.media.net/contact)
-* [sign in](https://pubconsole.media.net/login)
-* [Contact Us](https://www.media.net/contact)
-
-![back to top](https://s31073.pcdn.co/wp-content/themes/media.net/images/back-to-top.png)
+[Publishers](https://www.media.net/publishers)[Advertisers](https://www.media.net/advertiser)[Contextual SearchSignals](https://www.media.net/contextualads)[Deals Desk](https://www.media.net/deals-desk)[Outcomes First](https://www.media.net/outcomes) [Deals Desk](https://www.media.net/deals-desk)
 
 Terms Of Service
-----------------
+================
+
+![background](https://s31073.pcdn.co/wp-content/themes/media.net/images/wbf-heading-background.svg)
 
 In this Publisher Agreement ("Agreement"), "you" and "your" refer to individuals or entities (the "Publisher(s)") that have applied to participate in the Media.net Contextual Advertising Program (the "Program"), and "we", "us" and "our" refer collectively to Media.net Advertising FZ-LLC and/or its subsidiaries Media.net Ltd. or Media.net Advertising Ltd. Participation in the Program indicates that you fully understand and accept the terms and conditions specified in this Agreement. If you do not agree to any of the terms and conditions of this Agreement, you may not participate in the Program.
 
@@ -172,24 +164,46 @@ With the exception of gross negligence or willful misconduct by a party, in no e
 
 14.7. The parties to this Agreement are independent contractors. Neither Party is an agent, representative or partner of the other Party. Neither Party shall have any right, power or authority to enter into any agreement for or on behalf of, or incur any obligation or liability of, or to otherwise bind, the other Party. This Agreement shall not be interpreted or construed to create an association, joint venture or partnership between the Parties or to impose any partnership obligation or liability upon either Party.
 
-* [](https://www.media.net/)
-* [About](https://www.media.net/aboutus)
-* [Marketplace](https://www.media.net/marketplace)
-* [programmatic](https://www.media.net/programmatic)
-* [contextual ads](https://www.media.net/contextualads)
-* [buyers](https://www.media.net/buyers)
-* [Careers](https://careers.media.net/)
-* [Resources](https://www.media.net/resources)
-* [Contact Us](https://www.media.net/contact)
+### Let’s talk about what Media.net can do for you!
 
-* [OPT OUT](https://www.media.net/optout)
-* [Do Not Sell or Share My Personal Information](#)
-* [terms of service](https://www.media.net/legal/tos)
+ 
 
-* Policies:
-* [inventory policy](https://www.media.net/legal/inventorypolicies)
-* [ad quality policy](https://www.media.net/ad-quality-policy)
-* [privacy policy](https://www.media.net/privacy-policy)
-* [preferences](https://www.media.net/preferences)
+Submit
 
-copyright © 2024 media.net all rights reserved
+Thank you! Your submission has been received!
+
+Oops! Something went wrong while submitting the form.
+
+Company
+
+[About Us](https://www.media.net/aboutus)[Press Room](https://www.media.net/resources)
+
+Solutions
+
+[For Publishers](https://www.media.net/publishers)[For Advertisers](https://www.media.net/advertiser)[Outcomes First](https://www.media.net/outcomes)[Contextual SearchSignals](https://www.media.net/contextualads)[Deals Desk](https://www.media.net/deals-desk)
+
+Legal & Compliance
+
+[Terms of Service](https://www.media.net/legal/tos)[Inventory Policy](https://www.media.net/legal/inventorypolicies)[Ad Quality Policy](https://www.media.net/ad-quality-policy)[Privacy Policy](https://www.media.net/privacy-policy)
+
+Your Choices
+
+[Opt Out](https://www.media.net/optout)[Preferences](https://www.media.net/preferences)[Do Not Sell or Share My Personal Information](#)
+
+![](https://s31073.pcdn.co/wp-content/themes/media.net/images/webf/iab_logo_c.png)
+
+![](https://s31073.pcdn.co/wp-content/themes/media.net/images/webf/iab_tech_lab_c.png)
+
+![](https://s31073.pcdn.co/wp-content/themes/media.net/images/webf/daa_logo.png)
+
+![](https://s31073.pcdn.co/wp-content/themes/media.net/images/webf/group-201321319195.png)
+
+![](https://s31073.pcdn.co/wp-content/themes/media.net/images/webf/local_media_consortium_logo.png)
+
+![](https://s31073.pcdn.co/wp-content/themes/media.net/images/webf/tag_logo.png)
+
+[© 2024 Media.net](https://www.media.net/)
+
+[](https://www.instagram.com/medianetads)[](https://x.com/medianetads)[](https://www.linkedin.com/company/media.net)
+
+[Contact Us](https://www.media.net/contact)
