@@ -205,24 +205,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [WW2: Normandy](https://www.somethingawful.com/game-reviews/ww2-normandy/1/)
+* [Tales from the Mental Hospital](https://www.somethingawful.com/comedy-goldmine/tales-from-mental/1/)
 * [Celebrity Speakers Cut from the 2016 Republican National Convention](https://www.somethingawful.com/news/rnc-celebrity-guests/)
-* [Ehrgeiz (PSX)](https://www.somethingawful.com/game-reviews/ehrgeiz-psx/1/)
-* [Vampirewebsite.net (Thanks, Bernie Madoff-Pigolotti!)](https://www.somethingawful.com/awful-links/real-vampirewebsite/)
-* [Frontal Assault](https://www.somethingawful.com/game-reviews/frontal-assault/1/)
+* [Dredd; The Words; \[REC\]³ Génesis; Robot & Frank; Branded; The Oogieloves in the Big Balloon Adventure](https://www.somethingawful.com/current-movie-reviews/dredd-words-oogieloves/1/)
+* [Dragon Ball: The Magic Begins](https://www.somethingawful.com/movie-reviews/dragon-ball-magic/1/)
+* [Minion Memes for Your Social Media Feeds](https://www.somethingawful.com/news/minion-memes/)
 
 ### Popular Threads
 
 * ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [Permabanhands](http://forums.somethingawful.com/showthread.php?threadid=4077683 "Permabanhands")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/guns.png) [Four dead in Madison, Wi school shooting. Because America](http://forums.somethingawful.com/showthread.php?threadid=4077623 "Four dead in Madison, Wi school shooting. Because America")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [Are you afraid of dying?](http://forums.somethingawful.com/showthread.php?threadid=4077689 "Are you afraid of dying?")
 
 ### Random Articles
 
-* [What if Disney Princesses Were Punisher Skull Decals?](https://www.somethingawful.com/news/princess-punisher-skull/)
-* [Official Slash Fansite](https://www.somethingawful.com/awful-links/awful-link-2495/)
-* [Your Guide to Tomorrow's Olympics Coverage](https://www.somethingawful.com/guides/olympics-schedule-2012/)
-* [Tex Bernhardt's Vampire Hunter Webpage](https://www.somethingawful.com/awful-links/awful-link-684/)
-* [Toys That Kill!](https://www.somethingawful.com/awful-things-sale/toys-kill-drewtoothpaste/)
+* [Outdated GPS Devices: Where Are They Now?](https://www.somethingawful.com/news/gps-where-now/)
+* [Perhaps Some Animes Are in Order?](https://www.somethingawful.com/news/anime-convention/1/)
+* [Nils & Beauregard's USA Tour: Trapped Beneath New York](https://www.somethingawful.com/news/nils-beauregard-nyc/1/)
+* [The Laundromat Ecosystem](https://www.somethingawful.com/news/the-laundromat-ecosystem/)
+* [ScatterShots: Chronomaster and King's Quest: Mask of Eternity](https://www.somethingawful.com/video-game-article/scatter-shots-chronomaster/)
 
 [Random!](https://www.somethingawful.com/random/)
 
