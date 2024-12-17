@@ -210,45 +210,45 @@ Welcome to our Newest Members!
 
 Testimonials
 
-> Infosys is actively taking open source, and open source based products, to all our enterprise customers, and so we are extremely excited to become part of OIN, and we encourage others to join OIN as well to support this very important initiative.  
+> As a licensee, we’ll have access to OIN resources in case we’re threatened by operating entities with patents.  
 
-Navin BudhirajaSVP, Head of Architecture & TechnologyInfosys
+Harvey AndersonVP & General CounselMozilla
 
-> As a global solutions provider that grows with customers and society through the highest level of trust, SMFG is committed to creating businesses that transcend the boundaries of finance and resolving issues. In order to further promote this effort and quickly deliver high added-value services to our customers and society, SMFG believes that the utilization of open source software will be essential. Also, in promoting OSS utilization, SMFG believes that measures to protect intellectual property … [Read more](https://openinventionnetwork.com/testimonial/smfg/ "Complete testimonial by Sumitomo Mitsui Financial Group")
+> OIN has created a safe space of innovation in a world which has become increasingly dependent on Linux and open source software technologies. Participation in the OIN community has enabled Microsoft to further enhance our partnerships with developers around the world.  
 
-Sumitomo Mitsui Financial Group
+Jennifer YokoyamaVP & Chief IP CounselMicrosoft
 
-> Philips is proud to be a founder of the Open Invention Network. Over the years, OSS has been an important building block for many of our businesses and is increasingly important for the medical and health tech industries. OSS enables faster development of monitoring, imaging, diagnostic, and informatic platforms, while driving down costs. With more than 4,000 community members, OIN is ensuring that OSS innovation continues its rapid pace, in a safe environment enabled by licensing.  
+> For us, joining OIN is a statement. Linux has given MTU added value that can’t be expressed in euros. We have powerful software available for designing, configuring, and producing engines and for fleet management. One especially valuable aspect is the freedom to continuously further develop and refine perfectly tailored tools and methods to design and configure our high-tech products ourselves.  
 
-Jako EleveldHead of IP LicensingRoyal Philips
+Nadia ZerelliHead of Engineering Systems, MTU Aero Engines
+
+> The OpenChain Project is part of a broad global community engaging with all aspects of intellectual property around open source.  
+
+Shane CoughlanProgram ManagerOpenChain Project
 
 > Hyundai Kia Motors are both committed to offering the highest-quality, intelligent vehicle platforms that leverage Linux and open source technologies. By joining the Open Invention Network, we will use the opportunity to further develop its infotainment platform. Moreover, we will help to ensure the ongoing development of open solutions that stimulate growth in the automotive industry.  
 
 Eon Youl ShinDirector of Intellectual Property Development GroupHyundai Motor Company
 
-> UnionPay focuses on Fintech innovation and is committed to building an open platform that provides integrated payment services with global influence. Under the frame of legal and regulatory compliance, we are pleased to provide service and conduct active cooperation. We look forward to working with OIN and community members to protect our global business and the open source projects that encourage innovation.  
+> We continuously look for ways to integrate the best technologies in our appliances, which helps to shape living for the better. It also helps us achieve our goal of continuous improvement in appliance sustainability. We are pleased to join the Open Invention Network and support its role in protecting open source software.
 
-UnionPayIntellectual Property ManagerUnionPay
+ElectroluxFabio Albanese, Head of Engineering, Connected Electronics Platform
 
-> Flex is proud to join OIN and help further the goals of the open source community. In our position spanning many industries, we are sensitive to the negative impact that the aggressive assertion of patents can have on innovation, and how excessive lawsuits can significantly dampen opportunities for collaboration, especially within the open source community. We are pleased to be an active participant in the effort to protect Linux and related open source technologies from the risk of patent litig… [Read more](https://openinventionnetwork.com/testimonial/flex/ "Complete testimonial by John Ritsick")
+> The OIN membership supports Kontron on many levels. With our focus on building out our IoT framework, it makes perfect sense to be a part of an open source community that protects the rights of all members within the community, especially to reduce our patent risk around Linux related technology.  
 
-John RitsickVP of Legal and Chief Intellectual Property OfficerFlex
+Jens WiegandCTO / EVP Software & ElectronicsKontron
 
-> At the time of OIN’s founding, open source was nascent, and most software was built in silos. During the past 15 years, we have been pleased to watch the OIN community grow from 6 members to more than 3,300. The OIN community’s powerful cross license has enabled businesses to safely develop and sell innovative new systems and platforms that have revolutionized the way the world conducts business.  
+> Linux is an integral part of the advanced system-on-chip (SoC) development process and is used as the development platform, as well as a target operating system for many systems that our customers design. Preserving the openness of Linux is critical to the continued advancement of next-generation SoCs in both embedded applications and consumer devices.  
 
-Peter TotoSenior VP, IP CounselSony Corporation of America
+Jim ReadyChief Technology Advisor Software & Embedded SystemsCadence Design Systems
 
-> We see incredible value in the Free and Open Source Software (FOSS) communities. Our work in collecting, preserving and making source code available to developers, academics and government entities, will enable developers to continue to innovate. We are very pleased for OIN’s sponsorship and its support in maintaining the technical and scientific knowledge that may be lost without preservation and may be further useful to developers from an intellectual property perspective.  
+> Over its 21 years existence, OVHcloud has developed a strong vision on how innovation is critical to empower cloud users with a relentless effort on open source and open standards. Joining OIN is a strong asset to keep on developing our open innovation roadmap and taking it to the community.  
 
-Roberto Di CosmoFounder & CEOSoftware Heritage
+Miroslaw KlabaCo-founder & VP of EngineeringOVHcloud
 
-> For more than two decades, we have been a steadfast supporter of open source and the numerous benefits it provides. We have and continue to support the OIN and the Linux Foundation. IBM and Red Hat believe this is a key initiative to significantly deter non-practicing entities from asserting patents against the open source community.  
+> _We continuously look for ways to integrate the best technologies in our payment solutions, which helps to deliver capabilities and services that our merchant and bank customers value and trust. We provide our customers safer and faster digital transaction services, and open source is a significant innovation driver in these offerings. We are pleased to join the Open Invention Network and support its role in protecting Open Source software._
 
-Todd MooreCTO, Developer EcosystemsIBM
-
-> For the past several years we have increased our involvement in, and contributions to, the open source community. We are pleased to stand with OIN, the Linux Foundation and IBM in protecting Linux and other important OSS technologies against patent aggression.  
-
-Erich AndersonCorporate VP & Chief IP CounselMicrosoft
+Christophe DuquenneGroup Chief Technology & Operations Officer, Worldline
 
 [![Open Invention Network](https://openinventionnetwork.com/wp-content/uploads/2024/01/oin-website-logo.png)](https://openinventionnetwork.com/)
 
