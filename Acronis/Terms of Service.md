@@ -135,7 +135,7 @@ Menu Close
     
     Complete cyber resilience for small business, including backup and DR, anti-malware and remote endpoint monitoring.
     
-    * [Try it free](https://www.acronis.com/en-us/products/cyber-protect/trial/)
+    * [Buy now](https://www.acronis.com/en-us/products/cyber-protect/purchasing/)
     
     [Acronis Cyber Protect for Enterprise](https://www.acronis.com/en-us/products/cyber-protect-enterprise/)
     
@@ -160,7 +160,7 @@ Menu Close
     
     Formerly Acronis Home Office, it's the only personal cyber protection solution that delivers easy-to-use, integrated backup and anti-malware in one.
     
-    * [See plans](https://www.acronis.com/en-us/products/true-image/purchasing/)
+    * [Buy now](https://www.acronis.com/en-us/products/true-image/purchasing/)
     
     * [Acronis VSS Doctor](https://www.acronis.com/en-us/products/vss-doctor/)
     * [Acronis #CyberFit Score](https://www.acronis.com/en-us/products/cyberfit-score-tool/)
