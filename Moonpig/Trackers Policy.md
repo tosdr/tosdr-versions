@@ -164,11 +164,11 @@ Menu
     
     ### Format
     
+    * [Photo Cards](https://www.moonpig.com/uk/personalised-cards/photo-upload/)
     * [Special Features](https://www.moonpig.com/uk/moonpig-features/)
     * [Add Stickers](https://www.moonpig.com/uk/personalised-cards/stickers-emojis/)
     * [Add a Voice Note](https://www.moonpig.com/uk/personalised-cards/video-cards/)
     * [Add a Video](https://www.moonpig.com/uk/personalised-cards/video-cards/)
-    * [Photo Cards](https://www.moonpig.com/uk/personalised-cards/photo-upload/)
     * [Group Cards](https://www.moonpig.com/uk/group-cards/)
     * [Large Cards](https://www.moonpig.com/uk/personalised-cards/large/all/)
     * [Giant Cards](https://www.moonpig.com/uk/personalised-cards/giant/all/)
@@ -393,7 +393,7 @@ Menu
     * [Anniversary](https://www.moonpig.com/uk/gifts/experience-gifts/experience-vouchers/anniversary/)
     * [Wedding](https://www.moonpig.com/uk/gifts/experience-gifts/experience-vouchers/wedding/)
     * [Congratulations](https://www.moonpig.com/uk/gifts/experience-gifts/experience-vouchers/congratulations/)
-    * [All Experiences](https://www.moonpig.com/uk/gifts/experience-gifts/experience-vouchers/)
+    * [All Experiences](https://www.moonpig.com/uk/gifts/experience-gifts/all/)
     
     ### Shop by Type
     
