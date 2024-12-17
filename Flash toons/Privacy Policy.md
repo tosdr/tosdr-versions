@@ -80,7 +80,7 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 **Contact Us**
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us through our [contact page](http://flash-toons.com/%D8%A7%D8%AA%D8%B5%D9%84_%D8%A8%D9%86%D8%A7/).
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us through our [contact page](https://flash-toons.com/%d8%a7%d8%aa%d8%b5%d9%84-%d8%a8%d9%86%d8%a7/).
 
 ### شارك هذا الموضوع:
 
@@ -93,6 +93,6 @@ If you have any questions or suggestions about our Privacy Policy, do not hesita
 * [اضغط للمشاركة على Pinterest (فتح في نافذة جديدة)](https://flash-toons.com/privacy-policy/?share=pinterest "اضغط للمشاركة على Pinterest")
 * [انقر للمشاركة على WhatsApp (فتح في نافذة جديدة)](https://flash-toons.com/privacy-policy/?share=jetpack-whatsapp "انقر للمشاركة على WhatsApp")
 
-**جميع الحقوق محفوظة لفلاش توونز © 2024 - [Privacy Policy](https://flash-toons.com/privacy-policy/ "Privacy Policy")**
+**جميع الحقوق محفوظة لفلاش توونز © 2024 - [Privacy Policy](https://flash-toons.com/privacy-policy/ "Privacy Policy") - [Terms of Use](https://flash-toons.com/terms-of-use/ "Terms of Use")**
 
 [](# "الذهاب إلى الأعلى")
