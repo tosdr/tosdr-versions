@@ -441,27 +441,27 @@ If you have any questions about this Privacy Policy, please contact us:
 Most recent
 -----------
 
-[16-12-2024
+[17-12-2024
 
-Bulgaria’s transplant patients struggle to find stable drug supply](https://www.euractiv.com/section/health-consumers/news/bulgarias-transplant-patients-struggle-to-find-stable-immunosuppressant-supply/)[16-12-2024
+Bomb kills chief of Russian nuclear protection forces in Moscow](https://www.euractiv.com/section/global-europe/news/bomb-kills-chief-of-russian-nuclear-protection-forces-in-moscow/)[17-12-2024
 
-Female empowerment in the workplace, it’s more than equality, it’s leadership](https://www.euractiv.com/section/economy-jobs/news/female-empowerment-in-the-workplace-its-more-than-equality-its-leadership/)[16-12-2024
+Ukraine ready to work out new deal for gas transit to Europe](https://www.euractiv.com/section/eet/news/ukraine-ready-to-work-out-new-deal-for-gas-transit-to-europe/)[17-12-2024
 
-Industry calls on Jørgensen to publish Electrification Action Plan within first 100 days](https://www.euractiv.com/section/eet/news/electrification-action-plan-is-an-energy-efficiency-first-plan-says-electrification-alliance-chair/)[16-12-2024
+Slovakia accuses EU Parliament of ‘interference’ in Georgia’s elections](https://www.euractiv.com/section/politics/news/the-capitals-slovakia-accuses-eu-parliament-of-interference-in-georgias-elections/)[17-12-2024
 
-Estonia levelling the playing field, including more girls and women in football](https://www.euractiv.com/section/health-consumers/news/estonia-levelling-the-playing-field-including-more-girls-and-women-in-football/)[16-12-2024
+Bucharest mayor announces presidential candidacy](https://www.euractiv.com/section/politics/news/bucharest-mayor-announces-presidential-candidacy/)[17-12-2024
 
-EU budget is ‘clearly not the place to look’ to finance twin transition, say economists](https://www.euractiv.com/section/economy-jobs/news/eu-budget-is-clearly-not-the-place-to-look-to-finance-twin-transition-say-economists/)[16-12-2024
+EU moves towards suspending visa-free travel for Georgian diplomats](https://www.euractiv.com/section/global-europe/news/eu-moves-towards-suspending-visa-free-travel-for-georgian-diplomats/)[17-12-2024
 
-Europe, Central Asia under pressure to modernise water security infrastructure, reports World Bank](https://www.euractiv.com/section/eet/news/europe-central-asia-under-pressure-to-modernise-water-security-infrastructure-reports-world-bank/)[16-12-2024
+Borissov starts government talks with EPP partners, pro-Russian and populist parties](https://www.euractiv.com/section/politics/news/borissov-starts-government-talks-with-epp-partners-pro-russian-and-populist-parties/)[17-12-2024
 
-New Swedish cancer plan aims to prevent and reduce deaths](https://www.euractiv.com/section/health-consumers/news/new-swedish-cancer-plan-aims-to-prevent-and-reduce-deaths/)[16-12-2024
+Czechia wants to delay ETS 2 until at least 2028](https://www.euractiv.com/section/politics/news/czechia-wants-to-delay-ets-2-until-at-least-2028/)[17-12-2024
 
-Media sector facing tough choices navigating AI revolution](https://www.euractiv.com/section/media/news/media-sector-facing-tough-choices-navigating-ai-revolution/)[16-12-2024
+Portugal in trouble with Brussels over residents’ free museum entry](https://www.euractiv.com/section/politics/news/portugal-in-trouble-with-brussels-over-residents-free-museum-entry/)[17-12-2024
 
-Commission warns five member states over EU’s online moderation law compliance](https://www.euractiv.com/section/tech/news/commission-warns-five-member-states-over-eus-online-moderation-law-compliance/)[16-12-2024
+Berlusconi group in rumoured takeover of Polish top broadcaster](https://www.euractiv.com/section/politics/news/berlusconi-group-in-rumoured-takeover-of-polish-top-broadcaster/)[17-12-2024
 
-German Chancellor Scholz loses confidence vote](https://www.euractiv.com/section/politics/news/german-chancellor-scholz-loses-confidence-vote/)
+Scholz vs Merz: Election manifestos reveal competing visions for Germany’s revamp](https://www.euractiv.com/section/economy-jobs/news/scholz-vs-merz-election-manifestos-reveal-competing-visions-for-germanys-revamp/)
 
 ###### Advertisement
 
