@@ -57,7 +57,17 @@ Your cart is empty
 Refund policy
 =============
 
-We understand that you may need to return a product. Should you feel the need to do so, you have 30 days from the date of purchase to initiate the process. Please contact us at [support@coromega.com](mailto:%20support@coromega.com) and one of our Customer Care Representatives would be happy to assist you.
+At Coromega we stand behind our products. If you need to return any product purchased from **Coromega.com**, for any reason, you have 14 days from the date of purchase to initiate the process.
+
+Please send return requests to [support@coromega.com](mailto:%20support@coromega.com) and one of our Customer Care Representatives will confirm your request. You will be required to send the unused portion of the product back to us – once it is received we will refund 100% of the cost of your purchase, less any discounts you received.
+
+All returned product must be sent to:
+
+Returns - COROMEGA
+
+739 Trabert Ave., Suite D
+
+Atlanta, Georgia 30318
 
 Invalid Password
 
