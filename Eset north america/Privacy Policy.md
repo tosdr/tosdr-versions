@@ -654,7 +654,7 @@ San Diego, California
 San Diego, California  
 [More contacts](https://www.eset.com/us/about/contact/)
 
-[United States (EN)](https://www.eset.com/us/holiday-2024/)
+[United States (EN)](https://www.eset.com/us/business/services/managed-detection-and-response/)
 
 * * *
 
