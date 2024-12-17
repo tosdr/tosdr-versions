@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/d0ce27a1-2100-4ec3-b9e2-e7ae795abef3/20240628T201247/d0ce27a1-2100-4ec3-b9e2-e7ae795abef3_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d0ce27a1-2100-4ec3-b9e2-e7ae795abef3/20240628T201247/d0ce27a1-2100-4ec3-b9e2-e7ae795abef3_360x203.jpg)](https://www.king5.com/article/news/local/senate-investigation-amazon-warehouse-worker-injuries/281-e845aa31-8da2-4ee4-94b3-e6f350ac1cf5)
+    *  [![](https://media.king5.com/assets/KING/images/d2404183-9c33-4bbc-8d88-209b8435572a/20241217T012247/d2404183-9c33-4bbc-8d88-209b8435572a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d2404183-9c33-4bbc-8d88-209b8435572a/20241217T012247/d2404183-9c33-4bbc-8d88-209b8435572a_360x203.jpg)](https://www.king5.com/article/news/local/metro-parks-tacoma-will-be-installing-permanent-security-cameras-at-point-defiance-park/281-882f22d3-675e-448b-beb9-ee2b592be67d)
         
-        #### [Senate investigation reveals 'deeply troubling' pattern of injuries at Amazon warehouses](https://www.king5.com/article/news/local/senate-investigation-amazon-warehouse-worker-injuries/281-e845aa31-8da2-4ee4-94b3-e6f350ac1cf5)
+        #### [Point Defiance Park getting permanent security cameras after assaults](https://www.king5.com/article/news/local/metro-parks-tacoma-will-be-installing-permanent-security-cameras-at-point-defiance-park/281-882f22d3-675e-448b-beb9-ee2b592be67d)
         
-    *  [![](https://media.king5.com/assets/KING/images/ff696224-563e-4e26-b354-953aa54d4015/ff696224-563e-4e26-b354-953aa54d4015_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ff696224-563e-4e26-b354-953aa54d4015/ff696224-563e-4e26-b354-953aa54d4015_360x203.jpg)](https://www.king5.com/article/news/politics/state-politics/new-crime-justice-laws-jan-1/281-6836a038-f1fc-493e-a83d-9f90bf50857a)
+    *  [![](https://media.king5.com/assets/KING/images/5ba75b4e-4e79-4872-81bb-bb8f5f9deb2f/20241217T015733/5ba75b4e-4e79-4872-81bb-bb8f5f9deb2f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/5ba75b4e-4e79-4872-81bb-bb8f5f9deb2f/20241217T015733/5ba75b4e-4e79-4872-81bb-bb8f5f9deb2f_360x203.jpg)](https://www.king5.com/article/tech/science/environment/washington-based-company-carbon-dioxide-capture-cement/281-687c8778-8828-48af-aede-b0ea786246c5)
         
-        #### [These new Washington crime and justice laws go into effect Jan. 1](https://www.king5.com/article/news/politics/state-politics/new-crime-justice-laws-jan-1/281-6836a038-f1fc-493e-a83d-9f90bf50857a)
+        #### [The unique way a Washington-based company is capturing and storing CO2](https://www.king5.com/article/tech/science/environment/washington-based-company-carbon-dioxide-capture-cement/281-687c8778-8828-48af-aede-b0ea786246c5)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/CCT/images/a6a79638-65d3-46fc-a550-d1d6da26d69b/a6a79638-65d3-46fc-a550-d1d6da26d69b_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/a6a79638-65d3-46fc-a550-d1d6da26d69b/a6a79638-65d3-46fc-a550-d1d6da26d69b_360x203.jpg)](https://www.king5.com/article/news/nation-world/winter-solstice-shortest-day-of-the-year-2024/507-18e8fd4e-8808-496d-bda3-cfcc289778a2)
-        
-        #### [Winter solstice 2024: What it means and why it's the shortest day of the year](https://www.king5.com/article/news/nation-world/winter-solstice-shortest-day-of-the-year-2024/507-18e8fd4e-8808-496d-bda3-cfcc289778a2)
-        
-    *  [![](https://media.king5.com/assets/KING/images/fd0f7a8e-1c4d-411d-b785-37a1940a736d/20241216T125947/fd0f7a8e-1c4d-411d-b785-37a1940a736d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fd0f7a8e-1c4d-411d-b785-37a1940a736d/20241216T125947/fd0f7a8e-1c4d-411d-b785-37a1940a736d_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/0035dc62-e6cb-4d11-9e00-729524f8f45f/20241217T012926/0035dc62-e6cb-4d11-9e00-729524f8f45f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/0035dc62-e6cb-4d11-9e00-729524f8f45f/20241217T012926/0035dc62-e6cb-4d11-9e00-729524f8f45f_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
+    *  [![](https://media.king5.com/assets/KING/images/eabc8405-06ba-422e-a512-20fd4e6b4e3c/20240921T005425/eabc8405-06ba-422e-a512-20fd4e6b4e3c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/eabc8405-06ba-422e-a512-20fd4e6b4e3c/20240921T005425/eabc8405-06ba-422e-a512-20fd4e6b4e3c_360x203.jpg)](https://www.king5.com/article/weather/official-state-winter-solstice-december/281-5dc7d36f-b934-4a2d-b063-08393e9942e0)
+        
+        #### [This is when winter officially starts](https://www.king5.com/article/weather/official-state-winter-solstice-december/281-5dc7d36f-b934-4a2d-b063-08393e9942e0)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -82,13 +82,13 @@ Navigation
     
     Latest Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/c0310c6b-5a6e-400d-ab6a-4cebb6068434/20241216T140834/c0310c6b-5a6e-400d-ab6a-4cebb6068434_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c0310c6b-5a6e-400d-ab6a-4cebb6068434/20241216T140834/c0310c6b-5a6e-400d-ab6a-4cebb6068434_360x203.jpg)](https://www.king5.com/article/sports/nfl/seahawks/nfl-playoff-picture-seahawks-after-week-15/281-544d4f94-69a7-4ac3-a255-acf8f5d17c40)
+        
+        #### [NFL Playoff Picture: Where Seahawks stand after Week 15 loss to Packers](https://www.king5.com/article/sports/nfl/seahawks/nfl-playoff-picture-seahawks-after-week-15/281-544d4f94-69a7-4ac3-a255-acf8f5d17c40)
+        
     *  [![](https://media.king5.com/assets/KING/images/e50b0e0a-39b4-4744-9204-ec41698d3150/20241216T032903/e50b0e0a-39b4-4744-9204-ec41698d3150_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e50b0e0a-39b4-4744-9204-ec41698d3150/20241216T032903/e50b0e0a-39b4-4744-9204-ec41698d3150_360x203.jpg)](https://www.king5.com/article/sports/nfl/seahawks/three-takeaways-seahawks-23-13-loss-green-bay-packers-sunday-night-football/281-4218c0ca-835c-4b93-a0ea-b2b54b638f3c)
         
         #### [Three takeaways from the Seahawks' 30-13 loss to the Packers on Sunday Night Football](https://www.king5.com/article/sports/nfl/seahawks/three-takeaways-seahawks-23-13-loss-green-bay-packers-sunday-night-football/281-4218c0ca-835c-4b93-a0ea-b2b54b638f3c)
-        
-    *  [![](https://media.king5.com/assets/KING/images/c85738ba-9ecf-4d56-9029-3f97eddd2e60/20241216T034403/c85738ba-9ecf-4d56-9029-3f97eddd2e60_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c85738ba-9ecf-4d56-9029-3f97eddd2e60/20241216T034403/c85738ba-9ecf-4d56-9029-3f97eddd2e60_360x203.jpg)](https://www.king5.com/article/sports/nfl/seahawks/seahawks-qb-geno-smith-exits-with-knee-injury-in-3rd-quarter-against-green-bay/281-2419e00a-ab6a-4df6-9955-e2a297b5a80a)
-        
-        #### [Seahawks QB Geno Smith exits with knee injury against Green Bay and will undergo testing](https://www.king5.com/article/sports/nfl/seahawks/seahawks-qb-geno-smith-exits-with-knee-injury-in-3rd-quarter-against-green-bay/281-2419e00a-ab6a-4df6-9955-e2a297b5a80a)
         
     
 * [VERIFY](https://www.king5.com/verify)
@@ -105,9 +105,9 @@ Navigation
 
 Seattle, WA »
 
-49°
+45°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
