@@ -1,7 +1,7 @@
 Terms and Conditions of Service
 ===============================
 
-LAST UPDATED: 10/15/2024
+LAST UPDATED: 12/17/2024
 
 This page describes the Terms and Conditions of Service that govern your use of this website and certain products, site-related services (including the content and code related thereto) offered by Dice Inc. (“Dice” or “Company” or “We” or “Us” or “Our”). We provide this website and all site related services including the content and code related there to (collectively “Site”) subject to your compliance with these Terms and Conditions of Service (the “Agreement”). 
 
@@ -147,7 +147,7 @@ This Site may contain links to other web sites operated by third parties, other 
 25. "Frame" or "mirror" any part of the Site. 
     
 
-26. Link to any page of or material on the Site other than the URL located at [http://www.dice.com/](http://www.dice.com/). 
+26. Link to any page of or material on the Site other than the URL located at [https://www.dice.com/](https://www.dice.com/). 
     
 
 27. Use any robot, spider, site search/retrieval application, or other manual or automatic device or process to retrieve, index, "data mine," or in any way reproduce or circumvent the navigational structure or presentation of the Site or its contents. 
