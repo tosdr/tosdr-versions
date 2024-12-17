@@ -15,56 +15,56 @@
     
     Trending
     
-    * [Syria](https://www.euronews.com/tag/syria)
-    * [Israel](https://www.euronews.com/tag/israel)
+    * [Russia](https://www.euronews.com/tag/russia)
+    * [France](https://www.euronews.com/tag/france)
     * [Russia's invasion of Ukraine](https://www.euronews.com/tag/russia-ukraine-invasion)
-    * [Music](https://www.euronews.com/tag/music)
-    * [Cinema](https://www.euronews.com/tag/cinema)
-    * [Keir Starmer](https://www.euronews.com/tag/keir-starmer)
+    * [European Union](https://www.euronews.com/tag/european-union)
+    * [Mayotte](https://www.euronews.com/tag/mayotte)
+    * [Cyclone](https://www.euronews.com/tag/cyclone)
     
     * * *
     
     Latest stories
     
-    [![https://www.theguardian.com/music/2024/dec/16/slowthai-cleared-oxford-crown-court](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "https://www.theguardian.com/music/2024/dec/16/slowthai-cleared-oxford-crown-court")
+    [![European Commission President Ursula von der Leyen, at the European Parliament in Strasbourg, France, Wednesday, Nov. 27, 2024. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "European Commission President Ursula von der Leyen, at the European Parliament in Strasbourg, France, Wednesday, Nov. 27, 2024. ")
     
-    ![https://www.theguardian.com/music/2024/dec/16/slowthai-cleared-oxford-crown-court](https://static.euronews.com/articles/stories/08/87/61/34/368x207_cmsv2_0c366287-45a6-5780-9cd5-aa24d0c3c358-8876134.jpg "https://www.theguardian.com/music/2024/dec/16/slowthai-cleared-oxford-crown-court")](https://www.euronews.com/culture/2024/12/16/grammy-nominated-rapper-slowthai-found-not-guilty-of-raping-two-women-during-house-party)
+    ![European Commission President Ursula von der Leyen, at the European Parliament in Strasbourg, France, Wednesday, Nov. 27, 2024. ](https://static.euronews.com/articles/stories/08/91/09/70/368x207_cmsv2_234c01cd-5f27-5b3e-954f-0b80cf01da12-8910970.jpg "European Commission President Ursula von der Leyen, at the European Parliament in Strasbourg, France, Wednesday, Nov. 27, 2024. ")](https://www.euronews.com/my-europe/2024/12/17/tiktok-disinformation-falsely-accuses-von-der-leyen-of-cancelling-romanias-presidential-ru)
+    
+    Now playing Next
+    
+    [EuroVerify](https://www.euronews.com/my-europe/my-europe-series/euro-verify)
+    
+    ### [Disinformation falsely claims von der Leyen cancelled Romania election](https://www.euronews.com/my-europe/2024/12/17/tiktok-disinformation-falsely-accuses-von-der-leyen-of-cancelling-romanias-presidential-ru)
+    
+    [![Brazil court orders Adele song to be removed from streaming over plagiarism claim ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Brazil court orders Adele song to be removed from streaming over plagiarism claim ")
+    
+    ![Brazil court orders Adele song to be removed from streaming over plagiarism claim ](https://static.euronews.com/articles/stories/08/91/59/92/368x207_cmsv2_e9826584-4d90-53b8-afa8-27d124a337b1-8915992.jpg "Brazil court orders Adele song to be removed from streaming over plagiarism claim ")](https://www.euronews.com/culture/2024/12/17/brazil-court-orders-adele-song-to-be-removed-from-streaming-over-plagiarism-claim)
     
     Now playing Next
     
     [Culture news](https://www.euronews.com/culture/culture-news)
     
-    ### [Grammy-nominated rapper Slowthai cleared of raping two women](https://www.euronews.com/culture/2024/12/16/grammy-nominated-rapper-slowthai-found-not-guilty-of-raping-two-women-during-house-party)
+    ### [Brazil court orders Adele song to be removed from global streaming](https://www.euronews.com/culture/2024/12/17/brazil-court-orders-adele-song-to-be-removed-from-streaming-over-plagiarism-claim)
     
-    [![German Chancellor Olaf Scholz attends the cabinet meeting at the chancellery in Berlin, Germany, Wednesday, Dec. 11, 2024. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "German Chancellor Olaf Scholz attends the cabinet meeting at the chancellery in Berlin, Germany, Wednesday, Dec. 11, 2024. ")
+    [![Servicemen of the 24th Mechanised Brigade fire a 2s1 self-propelled 122mm howitzer towards Russian positions near Chasiv Yar town, in Donetsk region, Ukraine, 13/11/24.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Servicemen of the 24th Mechanised Brigade fire a 2s1 self-propelled 122mm howitzer towards Russian positions near Chasiv Yar town, in Donetsk region, Ukraine, 13/11/24.")
     
-    ![German Chancellor Olaf Scholz attends the cabinet meeting at the chancellery in Berlin, Germany, Wednesday, Dec. 11, 2024. ](https://static.euronews.com/articles/stories/08/91/39/32/368x207_cmsv2_eea2fdd9-dae6-5b2e-8423-985759dd056b-8913932.jpg "German Chancellor Olaf Scholz attends the cabinet meeting at the chancellery in Berlin, Germany, Wednesday, Dec. 11, 2024. ")](https://www.euronews.com/2024/12/16/scholz-loses-no-confidence-vote-against-him-triggering-early-elections)
-    
-    Now playing Next
-    
-    [World News](https://www.euronews.com/programs/world)
-    
-    ### [Breaking news. Germany's Scholz loses no-confidence vote, triggering early election](https://www.euronews.com/2024/12/16/scholz-loses-no-confidence-vote-against-him-triggering-early-elections)
-    
-    [![People buy groceries at a Walmart Superstore in Secaucus, New Jersey, July 11, 2024. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "People buy groceries at a Walmart Superstore in Secaucus, New Jersey, July 11, 2024. ")
-    
-    ![People buy groceries at a Walmart Superstore in Secaucus, New Jersey, July 11, 2024. ](https://static.euronews.com/articles/stories/08/91/40/86/368x207_cmsv2_27a7c4d5-bd22-5072-9cce-166888f5504a-8914086.jpg "People buy groceries at a Walmart Superstore in Secaucus, New Jersey, July 11, 2024. ")](https://www.euronews.com/2024/12/16/european-central-bank-warns-of-how-a-shift-in-us-trade-policies-could-affect-the-eu)
+    ![Servicemen of the 24th Mechanised Brigade fire a 2s1 self-propelled 122mm howitzer towards Russian positions near Chasiv Yar town, in Donetsk region, Ukraine, 13/11/24.](https://static.euronews.com/articles/stories/08/91/50/48/368x207_cmsv2_8d0744eb-637e-5ea9-8ffd-ccbc24961d1c-8915048.jpg "Servicemen of the 24th Mechanised Brigade fire a 2s1 self-propelled 122mm howitzer towards Russian positions near Chasiv Yar town, in Donetsk region, Ukraine, 13/11/24.")](https://www.euronews.com/my-europe/2024/12/17/they-can-just-take-you-ukrainian-soldier-faces-redeployment-to-frontlines-as-russians-adva)
     
     Now playing Next
     
-    [World News](https://www.euronews.com/programs/world)
+    [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
     
-    ### [European Central Bank warns of effects of shift in US trade policies](https://www.euronews.com/2024/12/16/european-central-bank-warns-of-how-a-shift-in-us-trade-policies-could-affect-the-eu)
+    ### [Ukrainian soldier faces redeployment to frontlines as Russians advance](https://www.euronews.com/my-europe/2024/12/17/they-can-just-take-you-ukrainian-soldier-faces-redeployment-to-frontlines-as-russians-adva)
     
-    [![Vivendi Chairman Vincent Bollore attends a hearing of a parliamentary inquiry commission at the National Assembly in Paris. 13 March 2024.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Vivendi Chairman Vincent Bollore attends a hearing of a parliamentary inquiry commission at the National Assembly in Paris. 13 March 2024.")
+    [![Denys Khrystov, Ukrainian volunteer ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Denys Khrystov, Ukrainian volunteer ")
     
-    ![Vivendi Chairman Vincent Bollore attends a hearing of a parliamentary inquiry commission at the National Assembly in Paris. 13 March 2024.](https://static.euronews.com/articles/stories/08/91/46/34/368x207_cmsv2_3e610f7b-5881-5c53-bd40-6e3b19c0928a-8914634.jpg "Vivendi Chairman Vincent Bollore attends a hearing of a parliamentary inquiry commission at the National Assembly in Paris. 13 March 2024.")](https://www.euronews.com/business/2024/12/16/canal-shares-see-drop-on-london-trading-debut-after-split-from-vivendi)
+    ![Denys Khrystov, Ukrainian volunteer ](https://static.euronews.com/articles/stories/08/91/48/98/368x207_cmsv2_b7353ab4-f510-5c2a-9cfd-d44260f7ae10-8914898.jpg "Denys Khrystov, Ukrainian volunteer ")](https://www.euronews.com/my-europe/2024/12/17/last-chance-the-story-of-harrowing-evacuations-of-ukrainian-civilians)
     
     Now playing Next
     
-    [Business](https://www.euronews.com/business/business)
+    [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
     
-    ### [Canal+ shares drop on London trading debut after split from Vivendi](https://www.euronews.com/business/2024/12/16/canal-shares-see-drop-on-london-trading-debut-after-split-from-vivendi)
+    ### [Last chance: The story of harrowing evacuations of Ukraine's civilians](https://www.euronews.com/my-europe/2024/12/17/last-chance-the-story-of-harrowing-evacuations-of-ukrainian-civilians)
     
 * [Europe](https://www.euronews.com/my-europe)
     
@@ -316,6 +316,8 @@ More
 
 Special coverage
 
+* [Climate](https://www.euronews.com/special/climate)
+* [Depth of Field](https://www.euronews.com/special/depth-of-field)
 * [The New Uzbekistan](https://www.euronews.com/special/a-new-uzbekistan)
 * [Azerbaijan Diary](https://www.euronews.com/special/azerbaijan-diary)
 * [Discover Algeria](https://www.euronews.com/special/discover-algeria)
@@ -361,62 +363,62 @@ Close menu sidebar
 
 Trending
 
-* [Syria](https://www.euronews.com/tag/syria)
-* [Israel](https://www.euronews.com/tag/israel)
+* [Russia](https://www.euronews.com/tag/russia)
+* [France](https://www.euronews.com/tag/france)
 * [Russia's invasion of Ukraine](https://www.euronews.com/tag/russia-ukraine-invasion)
-* [Music](https://www.euronews.com/tag/music)
-* [Cinema](https://www.euronews.com/tag/cinema)
-* [Keir Starmer](https://www.euronews.com/tag/keir-starmer)
+* [European Union](https://www.euronews.com/tag/european-union)
+* [Mayotte](https://www.euronews.com/tag/mayotte)
+* [Cyclone](https://www.euronews.com/tag/cyclone)
 
 * * *
 
 Latest stories
 
-[![https://www.theguardian.com/music/2024/dec/16/slowthai-cleared-oxford-crown-court](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "https://www.theguardian.com/music/2024/dec/16/slowthai-cleared-oxford-crown-court")
+[![European Commission President Ursula von der Leyen, at the European Parliament in Strasbourg, France, Wednesday, Nov. 27, 2024. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "European Commission President Ursula von der Leyen, at the European Parliament in Strasbourg, France, Wednesday, Nov. 27, 2024. ")
 
-![https://www.theguardian.com/music/2024/dec/16/slowthai-cleared-oxford-crown-court](https://static.euronews.com/articles/stories/08/87/61/34/368x207_cmsv2_0c366287-45a6-5780-9cd5-aa24d0c3c358-8876134.jpg "https://www.theguardian.com/music/2024/dec/16/slowthai-cleared-oxford-crown-court")](https://www.euronews.com/culture/2024/12/16/grammy-nominated-rapper-slowthai-found-not-guilty-of-raping-two-women-during-house-party)
+![European Commission President Ursula von der Leyen, at the European Parliament in Strasbourg, France, Wednesday, Nov. 27, 2024. ](https://static.euronews.com/articles/stories/08/91/09/70/368x207_cmsv2_234c01cd-5f27-5b3e-954f-0b80cf01da12-8910970.jpg "European Commission President Ursula von der Leyen, at the European Parliament in Strasbourg, France, Wednesday, Nov. 27, 2024. ")](https://www.euronews.com/my-europe/2024/12/17/tiktok-disinformation-falsely-accuses-von-der-leyen-of-cancelling-romanias-presidential-ru)
+
+Now playing Next
+
+[EuroVerify](https://www.euronews.com/my-europe/my-europe-series/euro-verify)
+
+### [Disinformation falsely claims von der Leyen cancelled Romania election](https://www.euronews.com/my-europe/2024/12/17/tiktok-disinformation-falsely-accuses-von-der-leyen-of-cancelling-romanias-presidential-ru)
+
+* * *
+
+[![Brazil court orders Adele song to be removed from streaming over plagiarism claim ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Brazil court orders Adele song to be removed from streaming over plagiarism claim ")
+
+![Brazil court orders Adele song to be removed from streaming over plagiarism claim ](https://static.euronews.com/articles/stories/08/91/59/92/368x207_cmsv2_e9826584-4d90-53b8-afa8-27d124a337b1-8915992.jpg "Brazil court orders Adele song to be removed from streaming over plagiarism claim ")](https://www.euronews.com/culture/2024/12/17/brazil-court-orders-adele-song-to-be-removed-from-streaming-over-plagiarism-claim)
 
 Now playing Next
 
 [Culture news](https://www.euronews.com/culture/culture-news)
 
-### [Grammy-nominated rapper Slowthai cleared of raping two women](https://www.euronews.com/culture/2024/12/16/grammy-nominated-rapper-slowthai-found-not-guilty-of-raping-two-women-during-house-party)
+### [Brazil court orders Adele song to be removed from global streaming](https://www.euronews.com/culture/2024/12/17/brazil-court-orders-adele-song-to-be-removed-from-streaming-over-plagiarism-claim)
 
 * * *
 
-[![German Chancellor Olaf Scholz attends the cabinet meeting at the chancellery in Berlin, Germany, Wednesday, Dec. 11, 2024. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "German Chancellor Olaf Scholz attends the cabinet meeting at the chancellery in Berlin, Germany, Wednesday, Dec. 11, 2024. ")
+[![Servicemen of the 24th Mechanised Brigade fire a 2s1 self-propelled 122mm howitzer towards Russian positions near Chasiv Yar town, in Donetsk region, Ukraine, 13/11/24.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Servicemen of the 24th Mechanised Brigade fire a 2s1 self-propelled 122mm howitzer towards Russian positions near Chasiv Yar town, in Donetsk region, Ukraine, 13/11/24.")
 
-![German Chancellor Olaf Scholz attends the cabinet meeting at the chancellery in Berlin, Germany, Wednesday, Dec. 11, 2024. ](https://static.euronews.com/articles/stories/08/91/39/32/368x207_cmsv2_eea2fdd9-dae6-5b2e-8423-985759dd056b-8913932.jpg "German Chancellor Olaf Scholz attends the cabinet meeting at the chancellery in Berlin, Germany, Wednesday, Dec. 11, 2024. ")](https://www.euronews.com/2024/12/16/scholz-loses-no-confidence-vote-against-him-triggering-early-elections)
+![Servicemen of the 24th Mechanised Brigade fire a 2s1 self-propelled 122mm howitzer towards Russian positions near Chasiv Yar town, in Donetsk region, Ukraine, 13/11/24.](https://static.euronews.com/articles/stories/08/91/50/48/368x207_cmsv2_8d0744eb-637e-5ea9-8ffd-ccbc24961d1c-8915048.jpg "Servicemen of the 24th Mechanised Brigade fire a 2s1 self-propelled 122mm howitzer towards Russian positions near Chasiv Yar town, in Donetsk region, Ukraine, 13/11/24.")](https://www.euronews.com/my-europe/2024/12/17/they-can-just-take-you-ukrainian-soldier-faces-redeployment-to-frontlines-as-russians-adva)
 
 Now playing Next
 
-[World News](https://www.euronews.com/programs/world)
+[Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
 
-### [Breaking news. Germany's Scholz loses no-confidence vote, triggering early election](https://www.euronews.com/2024/12/16/scholz-loses-no-confidence-vote-against-him-triggering-early-elections)
+### [Ukrainian soldier faces redeployment to frontlines as Russians advance](https://www.euronews.com/my-europe/2024/12/17/they-can-just-take-you-ukrainian-soldier-faces-redeployment-to-frontlines-as-russians-adva)
 
 * * *
 
-[![People buy groceries at a Walmart Superstore in Secaucus, New Jersey, July 11, 2024. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "People buy groceries at a Walmart Superstore in Secaucus, New Jersey, July 11, 2024. ")
+[![Denys Khrystov, Ukrainian volunteer ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Denys Khrystov, Ukrainian volunteer ")
 
-![People buy groceries at a Walmart Superstore in Secaucus, New Jersey, July 11, 2024. ](https://static.euronews.com/articles/stories/08/91/40/86/368x207_cmsv2_27a7c4d5-bd22-5072-9cce-166888f5504a-8914086.jpg "People buy groceries at a Walmart Superstore in Secaucus, New Jersey, July 11, 2024. ")](https://www.euronews.com/2024/12/16/european-central-bank-warns-of-how-a-shift-in-us-trade-policies-could-affect-the-eu)
-
-Now playing Next
-
-[World News](https://www.euronews.com/programs/world)
-
-### [European Central Bank warns of effects of shift in US trade policies](https://www.euronews.com/2024/12/16/european-central-bank-warns-of-how-a-shift-in-us-trade-policies-could-affect-the-eu)
-
-* * *
-
-[![Vivendi Chairman Vincent Bollore attends a hearing of a parliamentary inquiry commission at the National Assembly in Paris. 13 March 2024.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Vivendi Chairman Vincent Bollore attends a hearing of a parliamentary inquiry commission at the National Assembly in Paris. 13 March 2024.")
-
-![Vivendi Chairman Vincent Bollore attends a hearing of a parliamentary inquiry commission at the National Assembly in Paris. 13 March 2024.](https://static.euronews.com/articles/stories/08/91/46/34/368x207_cmsv2_3e610f7b-5881-5c53-bd40-6e3b19c0928a-8914634.jpg "Vivendi Chairman Vincent Bollore attends a hearing of a parliamentary inquiry commission at the National Assembly in Paris. 13 March 2024.")](https://www.euronews.com/business/2024/12/16/canal-shares-see-drop-on-london-trading-debut-after-split-from-vivendi)
+![Denys Khrystov, Ukrainian volunteer ](https://static.euronews.com/articles/stories/08/91/48/98/368x207_cmsv2_b7353ab4-f510-5c2a-9cfd-d44260f7ae10-8914898.jpg "Denys Khrystov, Ukrainian volunteer ")](https://www.euronews.com/my-europe/2024/12/17/last-chance-the-story-of-harrowing-evacuations-of-ukrainian-civilians)
 
 Now playing Next
 
-[Business](https://www.euronews.com/business/business)
+[Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
 
-### [Canal+ shares drop on London trading debut after split from Vivendi](https://www.euronews.com/business/2024/12/16/canal-shares-see-drop-on-london-trading-debut-after-split-from-vivendi)
+### [Last chance: The story of harrowing evacuations of Ukraine's civilians](https://www.euronews.com/my-europe/2024/12/17/last-chance-the-story-of-harrowing-evacuations-of-ukrainian-civilians)
 
 [Europe](https://www.euronews.com/my-europe)
 
@@ -670,6 +672,8 @@ More
 
 Special coverage
 
+* [Climate](https://www.euronews.com/special/climate)
+* [Depth of Field](https://www.euronews.com/special/depth-of-field)
 * [The New Uzbekistan](https://www.euronews.com/special/a-new-uzbekistan)
 * [Azerbaijan Diary](https://www.euronews.com/special/azerbaijan-diary)
 * [Discover Algeria](https://www.euronews.com/special/discover-algeria)
