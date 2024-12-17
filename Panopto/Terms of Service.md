@@ -33,11 +33,11 @@ English Français Deutsch 日本語 한국어 Italiano Español
     
     ![](https://www.panopto.com/wp-content/uploads/2024/11/elai-rounded-edges-1-1.png)
     
-    Experience Elai: Cutting Edge Generative AI Video
+    Get your 14-Day Generative AI Video Trial
     
-    Panopto has acquired Elai, bringing world-class Generative AI Video Features to the world of Video Training & Learning.
+    Try Panopto’s new Generative AI Video capabilities for free for 2 weeks. Request it now!
     
-    [Read More](https://www.panopto.com/create-impactful-training-videos-with-elai/)
+    [Read More](https://www.panopto.com/elai-trial/)
     
     * Elai Generative AI Video
         * [Elai for Business](https://www.panopto.com/create-impactful-training-videos-with-elai/)
