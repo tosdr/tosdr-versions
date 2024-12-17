@@ -356,7 +356,7 @@ Suchen
     * [Bücher + Spezialhefte](https://www.test.de/shop/altersvorsorge-rente/)
     * [test Hefte](https://www.test.de/shop/test-hefte/)
     * [Finanztest Hefte](https://www.test.de/shop/finanztest-hefte/)
-    * [Jahrbücher + Archiv-CDs](https://www.test.de/shop/jahrbuecher-archivcds/)
+    * [Jahrbücher](https://www.test.de/shop/jahrbuecher/)
 
 * [Kontakt](https://www.test.de/kontakt/)
 * [Über uns](https://www.test.de/unternehmen/)
@@ -384,7 +384,7 @@ weiter
 
 Suchen
 
-![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v123930893.svg)
+![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;vf35476a93acb81fb.svg)
 
 1. [Startweiter](https://www.test.de/)
 2. Hilfe
@@ -604,15 +604,15 @@ Für 14,90 € monatlich oder 70,80 € im Jahr erhalten Sie Zugriff auf alle 
 
 **Abonnement.** Wenn Sie ein Abonnement von test oder Finanztest besitzen, ist die test.de-Flatrate güns­tiger: Sie zahlen nur 7,45 € im Monat oder 35,40 € im Jahr. Besitzen Sie ein Abonnement beider Zeit­schriften, bekommen die test.de-Flatrate sogar kostenlos. (Sonderpreise gelten nicht für Probe- oder Mini-Abos). Mehr Hilfe zu [Mein Konto/Abos](https://www.test.de/Hilfe-5836822-5225600/#id5225613).
 
-**Lauf­zeit.** Wenn Sie nicht kündigen, verlängert sich die Monats­flatrate nach einem Monat auto­matisch um einen weiteren Monat bei monatlicher Abrechnung. Die Jahres­flatrate verlängert sich nach Ablauf des ersten Jahres auf unbe­stimmte Zeit. Die Abrechnung erfolgt jähr­lich. Nach dem ersten Jahr können Sie die Flatrate jeder­zeit mit einer Frist von einem Monat kündigen. Dazu besuchen Sie [Mein Konto/Übersicht/test.de-Flatrate](https://www.test.de/meintest/). Nicht verbrauchte Beträge werden bei Kündigung zurück­erstattet.
+**Lauf­zeit.** Wenn Sie nicht kündigen, verlängert sich die Monats­flatrate nach einem Monat auto­matisch um einen weiteren Monat bei monatlicher Abrechnung. Die Jahres­flatrate verlängert sich nach Ablauf des ersten Jahres auf unbe­stimmte Zeit. Die Abrechnung erfolgt jähr­lich. Nach dem ersten Jahr können Sie die Flatrate jeder­zeit mit einer Frist von einem Monat kündigen. Dazu besuchen Sie [Mein Konto/Abos/test.de-Flatrate](https://www.test.de/meintest/aboflatrate/). Nicht verbrauchte Beträge werden bei Kündigung zurück­erstattet.
 
 **Anmelden.** Um die test.de-Flatrate nutzen zu können, müssen Sie sich bei Ihrem Konto anmelden. [Mehr Hilfe zu Registrieren und Einloggen](https://www.test.de/Hilfe-5836822-5225600/#id5225601).
 
 **Bezahlen.** Als Zahlungs­mittel können Sie PayPal, Kreditkarte oder Bank­einzug nutzen. Mehr Infos zu den Zahlungs­mitteln siehe Bezahl­möglich­keiten.
 
-**Ausgeschlossen.** Bücher und Spezial-Hefte im Shop sind nicht Bestand­teil des Flatrate-Angebots. Sie müssen separat gezahlt werden.
+**Ausgeschlossen.** Bücher und Spezial-Hefte im [Shop](https://www.test.de/shop/) sind nicht Bestand­teil des Flatrate-Angebots. Sie müssen separat gezahlt werden.
 
-test.de-Flatrate erwerben
+[test.de-Flatrate erwerben](https://www.test.de/abo/digital/)
 
 Informationen zur außerge­richt­lichen Online-Streitbeilegung (EU)
 ------------------------------------------------------------------
@@ -664,12 +664,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fest­geld: Deutsche Handels­bank abge­wickelt](https://www.test.de/Festgeld-Deutsche-Handelsbank-abgewickelt-6088692-0/ "Festgeld - Deutsche Handelsbank abgewickelt")
-* [Rück­ruf: Brandgefahr bei Philips-Staubsaugern](https://www.test.de/Rueckruf-Brandgefahr-bei-Philips-Staubsaugern-6160624-0/ "Rückruf - Brandgefahr bei Philips-Staubsaugern")
-* [Trock­nerbälle von Wenko und Xavax im Schnell­test: Weder Zeit noch Strom gespart](https://www.test.de/Schnelltest-Trocknerbaelle-von-Wenko-und-Xavax-Weder-Zeit-noch-Strom-gespart-5953351-0/ "Trocknerbälle von Wenko und Xavax im Schnelltest - Weder Zeit noch Strom gespart")
-* [Ratgeber Reifen: Was Sie bei Reifen beachten sollten](https://www.test.de/Ratgeber-Reifen-Was-Sie-bei-Reifen-beachten-sollten-6045123-0/ "Ratgeber Reifen - Was Sie bei Reifen beachten sollten")
-* [Daten­schutz im Test: Was Laut­sprecher-Apps ausplaudern](https://www.test.de/Datenschutz-im-Test-Was-Lautsprecher-Apps-ausplaudern-6126264-0/ "Datenschutz im Test - Was Lautsprecher-Apps ausplaudern")
-* [Ratgeber Reifen: Was Sie bei Reifen beachten sollten](https://www.test.de/Ratgeber-Reifen-Was-Sie-bei-Reifen-beachten-sollten-6045123-0/ "Ratgeber Reifen - Was Sie bei Reifen beachten sollten")
+* [Fake-E-Mails: Betrüger geben sich als Finanz­aufsicht aus](https://www.test.de/Fake-E-Mails-Betrueger-geben-sich-als-Finanzaufsicht-aus-6168134-0/ "Fake-E-Mails - Betrüger geben sich als Finanzaufsicht aus")
+* [L&G Gerd Kommer Multifactor Equity ETF: Breite Streuung und etwas Weihrauch](https://www.test.de/LG-Gerd-Kommer-Multifactor-Equity-ETF-Breite-Streuung-und-etwas-Weihrauch-6029520-0/ "L&G Gerd Kommer Multifactor Equity ETF - Breite Streuung und etwas Weihrauch")
+* [Heiz­decken im Test: Mit denen werden wir warm](https://www.test.de/Heizdecken-im-Test-6157422-0/ "Heizdecken im Test - Mit denen werden wir warm")
+* [Stürze im Alter: Sorge vor Stürzen in Griff bekommen](https://www.test.de/Stuerze-im-Alter-Sorge-vor-Stuerzen-in-Griff-bekommen-6104640-0/ "Stürze im Alter - Sorge vor Stürzen in Griff bekommen")
+* [Krypto-Währungen: In vier Schritten Krypto-Broker einrichten](https://www.test.de/Krypto-Waehrungen-Krypto-Broker-einrichten-in-vier-Schritten-6159811-0/ "Krypto-Währungen - In vier Schritten Krypto-Broker einrichten")
+* [Digi­taler Euro: Gefälschte E-Mail mit KfW-Angebot](https://www.test.de/Digitaler-Euro-Gefaelschte-E-Mail-mit-KfW-Angebot-6119446-0/ "Digitaler Euro - Gefälschte E-Mail mit KfW-Angebot")
 
 Weitere Informationen
 
@@ -1131,7 +1131,7 @@ Suchen
     * [Bücher + Spezialhefte](https://www.test.de/shop/altersvorsorge-rente/)
     * [test Hefte](https://www.test.de/shop/test-hefte/)
     * [Finanztest Hefte](https://www.test.de/shop/finanztest-hefte/)
-    * [Jahrbücher + Archiv-CDs](https://www.test.de/shop/jahrbuecher-archivcds/)
+    * [Jahrbücher](https://www.test.de/shop/jahrbuecher/)
 
 * [Kontakt](https://www.test.de/kontakt/)
 * [Über uns](https://www.test.de/unternehmen/)
@@ -1485,7 +1485,7 @@ Suchen
     * [Bücher + Spezialhefte](https://www.test.de/shop/altersvorsorge-rente/)
     * [test Hefte](https://www.test.de/shop/test-hefte/)
     * [Finanztest Hefte](https://www.test.de/shop/finanztest-hefte/)
-    * [Jahrbücher + Archiv-CDs](https://www.test.de/shop/jahrbuecher-archivcds/)
+    * [Jahrbücher](https://www.test.de/shop/jahrbuecher/)
 
 * [Kontakt](https://www.test.de/kontakt/)
 * [Über uns](https://www.test.de/unternehmen/)
@@ -1822,7 +1822,7 @@ Suchen
     * [Bücher + Spezialhefte](https://www.test.de/shop/altersvorsorge-rente/)
     * [test Hefte](https://www.test.de/shop/test-hefte/)
     * [Finanztest Hefte](https://www.test.de/shop/finanztest-hefte/)
-    * [Jahrbücher + Archiv-CDs](https://www.test.de/shop/jahrbuecher-archivcds/)
+    * [Jahrbücher](https://www.test.de/shop/jahrbuecher/)
 
 [Tests & Themen](https://www.test.de/thema/)
 
@@ -2393,15 +2393,15 @@ Für 14,90 € monatlich oder 70,80 € im Jahr erhalten Sie Zugriff auf alle 
 
 **Abonnement.** Wenn Sie ein Abonnement von test oder Finanztest besitzen, ist die test.de-Flatrate güns­tiger: Sie zahlen nur 7,45 € im Monat oder 35,40 € im Jahr. Besitzen Sie ein Abonnement beider Zeit­schriften, bekommen die test.de-Flatrate sogar kostenlos. (Sonderpreise gelten nicht für Probe- oder Mini-Abos). Mehr Hilfe zu [Mein Konto/Abos](https://www.test.de/Hilfe-5836822-5225600/#id5225613).
 
-**Lauf­zeit.** Wenn Sie nicht kündigen, verlängert sich die Monats­flatrate nach einem Monat auto­matisch um einen weiteren Monat bei monatlicher Abrechnung. Die Jahres­flatrate verlängert sich nach Ablauf des ersten Jahres auf unbe­stimmte Zeit. Die Abrechnung erfolgt jähr­lich. Nach dem ersten Jahr können Sie die Flatrate jeder­zeit mit einer Frist von einem Monat kündigen. Dazu besuchen Sie [Mein Konto/Übersicht/test.de-Flatrate](https://www.test.de/meintest/). Nicht verbrauchte Beträge werden bei Kündigung zurück­erstattet.
+**Lauf­zeit.** Wenn Sie nicht kündigen, verlängert sich die Monats­flatrate nach einem Monat auto­matisch um einen weiteren Monat bei monatlicher Abrechnung. Die Jahres­flatrate verlängert sich nach Ablauf des ersten Jahres auf unbe­stimmte Zeit. Die Abrechnung erfolgt jähr­lich. Nach dem ersten Jahr können Sie die Flatrate jeder­zeit mit einer Frist von einem Monat kündigen. Dazu besuchen Sie [Mein Konto/Abos/test.de-Flatrate](https://www.test.de/meintest/aboflatrate/). Nicht verbrauchte Beträge werden bei Kündigung zurück­erstattet.
 
 **Anmelden.** Um die test.de-Flatrate nutzen zu können, müssen Sie sich bei Ihrem Konto anmelden. [Mehr Hilfe zu Registrieren und Einloggen](https://www.test.de/Hilfe-5836822-5225600/#id5225601).
 
 **Bezahlen.** Als Zahlungs­mittel können Sie PayPal, Kreditkarte oder Bank­einzug nutzen. Mehr Infos zu den Zahlungs­mitteln siehe Bezahl­möglich­keiten.
 
-**Ausgeschlossen.** Bücher und Spezial-Hefte im Shop sind nicht Bestand­teil des Flatrate-Angebots. Sie müssen separat gezahlt werden.
+**Ausgeschlossen.** Bücher und Spezial-Hefte im [Shop](https://www.test.de/shop/) sind nicht Bestand­teil des Flatrate-Angebots. Sie müssen separat gezahlt werden.
 
-test.de-Flatrate erwerben
+[test.de-Flatrate erwerben](https://www.test.de/abo/digital/)
 
 Informationen zur außerge­richt­lichen Online-Streitbeilegung (EU)
 ------------------------------------------------------------------
@@ -2632,15 +2632,15 @@ Für 14,90 € monatlich oder 70,80 € im Jahr erhalten Sie Zugriff auf alle 
 
 **Abonnement.** Wenn Sie ein Abonnement von test oder Finanztest besitzen, ist die test.de-Flatrate güns­tiger: Sie zahlen nur 7,45 € im Monat oder 35,40 € im Jahr. Besitzen Sie ein Abonnement beider Zeit­schriften, bekommen die test.de-Flatrate sogar kostenlos. (Sonderpreise gelten nicht für Probe- oder Mini-Abos). Mehr Hilfe zu [Mein Konto/Abos](https://www.test.de/Hilfe-5836822-5225600/#id5225613).
 
-**Lauf­zeit.** Wenn Sie nicht kündigen, verlängert sich die Monats­flatrate nach einem Monat auto­matisch um einen weiteren Monat bei monatlicher Abrechnung. Die Jahres­flatrate verlängert sich nach Ablauf des ersten Jahres auf unbe­stimmte Zeit. Die Abrechnung erfolgt jähr­lich. Nach dem ersten Jahr können Sie die Flatrate jeder­zeit mit einer Frist von einem Monat kündigen. Dazu besuchen Sie [Mein Konto/Übersicht/test.de-Flatrate](https://www.test.de/meintest/). Nicht verbrauchte Beträge werden bei Kündigung zurück­erstattet.
+**Lauf­zeit.** Wenn Sie nicht kündigen, verlängert sich die Monats­flatrate nach einem Monat auto­matisch um einen weiteren Monat bei monatlicher Abrechnung. Die Jahres­flatrate verlängert sich nach Ablauf des ersten Jahres auf unbe­stimmte Zeit. Die Abrechnung erfolgt jähr­lich. Nach dem ersten Jahr können Sie die Flatrate jeder­zeit mit einer Frist von einem Monat kündigen. Dazu besuchen Sie [Mein Konto/Abos/test.de-Flatrate](https://www.test.de/meintest/aboflatrate/). Nicht verbrauchte Beträge werden bei Kündigung zurück­erstattet.
 
 **Anmelden.** Um die test.de-Flatrate nutzen zu können, müssen Sie sich bei Ihrem Konto anmelden. [Mehr Hilfe zu Registrieren und Einloggen](https://www.test.de/Hilfe-5836822-5225600/#id5225601).
 
 **Bezahlen.** Als Zahlungs­mittel können Sie PayPal, Kreditkarte oder Bank­einzug nutzen. Mehr Infos zu den Zahlungs­mitteln siehe Bezahl­möglich­keiten.
 
-**Ausgeschlossen.** Bücher und Spezial-Hefte im Shop sind nicht Bestand­teil des Flatrate-Angebots. Sie müssen separat gezahlt werden.
+**Ausgeschlossen.** Bücher und Spezial-Hefte im [Shop](https://www.test.de/shop/) sind nicht Bestand­teil des Flatrate-Angebots. Sie müssen separat gezahlt werden.
 
-test.de-Flatrate erwerben
+[test.de-Flatrate erwerben](https://www.test.de/abo/digital/)
 
 Informationen zur außerge­richt­lichen Online-Streitbeilegung (EU)
 ------------------------------------------------------------------
@@ -2986,29 +2986,29 @@ Für 14,90 € monatlich oder 70,80 € im Jahr erhalten Sie Zugriff auf alle 
 
 **Abonnement.** Wenn Sie ein Abonnement von test oder Finanztest besitzen, ist die test.de-Flatrate güns­tiger: Sie zahlen nur 7,45 € im Monat oder 35,40 € im Jahr. Besitzen Sie ein Abonnement beider Zeit­schriften, bekommen die test.de-Flatrate sogar kostenlos. (Sonderpreise gelten nicht für Probe- oder Mini-Abos). Mehr Hilfe zu [Mein Konto/Abos](https://www.test.de/Hilfe-5836822-5225600/#id5225613).
 
-**Lauf­zeit.** Wenn Sie nicht kündigen, verlängert sich die Monats­flatrate nach einem Monat auto­matisch um einen weiteren Monat bei monatlicher Abrechnung. Die Jahres­flatrate verlängert sich nach Ablauf des ersten Jahres auf unbe­stimmte Zeit. Die Abrechnung erfolgt jähr­lich. Nach dem ersten Jahr können Sie die Flatrate jeder­zeit mit einer Frist von einem Monat kündigen. Dazu besuchen Sie [Mein Konto/Übersicht/test.de-Flatrate](https://www.test.de/meintest/). Nicht verbrauchte Beträge werden bei Kündigung zurück­erstattet.
+**Lauf­zeit.** Wenn Sie nicht kündigen, verlängert sich die Monats­flatrate nach einem Monat auto­matisch um einen weiteren Monat bei monatlicher Abrechnung. Die Jahres­flatrate verlängert sich nach Ablauf des ersten Jahres auf unbe­stimmte Zeit. Die Abrechnung erfolgt jähr­lich. Nach dem ersten Jahr können Sie die Flatrate jeder­zeit mit einer Frist von einem Monat kündigen. Dazu besuchen Sie [Mein Konto/Abos/test.de-Flatrate](https://www.test.de/meintest/aboflatrate/). Nicht verbrauchte Beträge werden bei Kündigung zurück­erstattet.
 
 **Anmelden.** Um die test.de-Flatrate nutzen zu können, müssen Sie sich bei Ihrem Konto anmelden. [Mehr Hilfe zu Registrieren und Einloggen](https://www.test.de/Hilfe-5836822-5225600/#id5225601).
 
 **Bezahlen.** Als Zahlungs­mittel können Sie PayPal, Kreditkarte oder Bank­einzug nutzen. Mehr Infos zu den Zahlungs­mitteln siehe Bezahl­möglich­keiten.
 
-**Ausgeschlossen.** Bücher und Spezial-Hefte im Shop sind nicht Bestand­teil des Flatrate-Angebots. Sie müssen separat gezahlt werden.
+**Ausgeschlossen.** Bücher und Spezial-Hefte im [Shop](https://www.test.de/shop/) sind nicht Bestand­teil des Flatrate-Angebots. Sie müssen separat gezahlt werden.
 
-test.de-Flatrate erwerben
+[test.de-Flatrate erwerben](https://www.test.de/abo/digital/)
 
 Für 14,90 € monatlich oder 70,80 € im Jahr erhalten Sie Zugriff auf alle auf test.de verfügbaren Reports und Test­ergeb­nisse der Stiftung Warentest. Das sind Tests aus zahlreichen Produkt­welten – von Versicherungen über Geld­anlage­angebote bis zu Haus­halts­geräten.
 
 **Abonnement.** Wenn Sie ein Abonnement von test oder Finanztest besitzen, ist die test.de-Flatrate güns­tiger: Sie zahlen nur 7,45 € im Monat oder 35,40 € im Jahr. Besitzen Sie ein Abonnement beider Zeit­schriften, bekommen die test.de-Flatrate sogar kostenlos. (Sonderpreise gelten nicht für Probe- oder Mini-Abos). Mehr Hilfe zu [Mein Konto/Abos](https://www.test.de/Hilfe-5836822-5225600/#id5225613).
 
-**Lauf­zeit.** Wenn Sie nicht kündigen, verlängert sich die Monats­flatrate nach einem Monat auto­matisch um einen weiteren Monat bei monatlicher Abrechnung. Die Jahres­flatrate verlängert sich nach Ablauf des ersten Jahres auf unbe­stimmte Zeit. Die Abrechnung erfolgt jähr­lich. Nach dem ersten Jahr können Sie die Flatrate jeder­zeit mit einer Frist von einem Monat kündigen. Dazu besuchen Sie [Mein Konto/Übersicht/test.de-Flatrate](https://www.test.de/meintest/). Nicht verbrauchte Beträge werden bei Kündigung zurück­erstattet.
+**Lauf­zeit.** Wenn Sie nicht kündigen, verlängert sich die Monats­flatrate nach einem Monat auto­matisch um einen weiteren Monat bei monatlicher Abrechnung. Die Jahres­flatrate verlängert sich nach Ablauf des ersten Jahres auf unbe­stimmte Zeit. Die Abrechnung erfolgt jähr­lich. Nach dem ersten Jahr können Sie die Flatrate jeder­zeit mit einer Frist von einem Monat kündigen. Dazu besuchen Sie [Mein Konto/Abos/test.de-Flatrate](https://www.test.de/meintest/aboflatrate/). Nicht verbrauchte Beträge werden bei Kündigung zurück­erstattet.
 
 **Anmelden.** Um die test.de-Flatrate nutzen zu können, müssen Sie sich bei Ihrem Konto anmelden. [Mehr Hilfe zu Registrieren und Einloggen](https://www.test.de/Hilfe-5836822-5225600/#id5225601).
 
 **Bezahlen.** Als Zahlungs­mittel können Sie PayPal, Kreditkarte oder Bank­einzug nutzen. Mehr Infos zu den Zahlungs­mitteln siehe Bezahl­möglich­keiten.
 
-**Ausgeschlossen.** Bücher und Spezial-Hefte im Shop sind nicht Bestand­teil des Flatrate-Angebots. Sie müssen separat gezahlt werden.
+**Ausgeschlossen.** Bücher und Spezial-Hefte im [Shop](https://www.test.de/shop/) sind nicht Bestand­teil des Flatrate-Angebots. Sie müssen separat gezahlt werden.
 
-test.de-Flatrate erwerben
+[test.de-Flatrate erwerben](https://www.test.de/abo/digital/)
 
 Informationen zur außerge­richt­lichen Online-Streitbeilegung (EU)
 ------------------------------------------------------------------
@@ -3082,12 +3082,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fest­geld: Deutsche Handels­bank abge­wickelt](https://www.test.de/Festgeld-Deutsche-Handelsbank-abgewickelt-6088692-0/ "Festgeld - Deutsche Handelsbank abgewickelt")
-* [Rück­ruf: Brandgefahr bei Philips-Staubsaugern](https://www.test.de/Rueckruf-Brandgefahr-bei-Philips-Staubsaugern-6160624-0/ "Rückruf - Brandgefahr bei Philips-Staubsaugern")
-* [Trock­nerbälle von Wenko und Xavax im Schnell­test: Weder Zeit noch Strom gespart](https://www.test.de/Schnelltest-Trocknerbaelle-von-Wenko-und-Xavax-Weder-Zeit-noch-Strom-gespart-5953351-0/ "Trocknerbälle von Wenko und Xavax im Schnelltest - Weder Zeit noch Strom gespart")
-* [Ratgeber Reifen: Was Sie bei Reifen beachten sollten](https://www.test.de/Ratgeber-Reifen-Was-Sie-bei-Reifen-beachten-sollten-6045123-0/ "Ratgeber Reifen - Was Sie bei Reifen beachten sollten")
-* [Daten­schutz im Test: Was Laut­sprecher-Apps ausplaudern](https://www.test.de/Datenschutz-im-Test-Was-Lautsprecher-Apps-ausplaudern-6126264-0/ "Datenschutz im Test - Was Lautsprecher-Apps ausplaudern")
-* [Ratgeber Reifen: Was Sie bei Reifen beachten sollten](https://www.test.de/Ratgeber-Reifen-Was-Sie-bei-Reifen-beachten-sollten-6045123-0/ "Ratgeber Reifen - Was Sie bei Reifen beachten sollten")
+* [Fake-E-Mails: Betrüger geben sich als Finanz­aufsicht aus](https://www.test.de/Fake-E-Mails-Betrueger-geben-sich-als-Finanzaufsicht-aus-6168134-0/ "Fake-E-Mails - Betrüger geben sich als Finanzaufsicht aus")
+* [L&G Gerd Kommer Multifactor Equity ETF: Breite Streuung und etwas Weihrauch](https://www.test.de/LG-Gerd-Kommer-Multifactor-Equity-ETF-Breite-Streuung-und-etwas-Weihrauch-6029520-0/ "L&G Gerd Kommer Multifactor Equity ETF - Breite Streuung und etwas Weihrauch")
+* [Heiz­decken im Test: Mit denen werden wir warm](https://www.test.de/Heizdecken-im-Test-6157422-0/ "Heizdecken im Test - Mit denen werden wir warm")
+* [Stürze im Alter: Sorge vor Stürzen in Griff bekommen](https://www.test.de/Stuerze-im-Alter-Sorge-vor-Stuerzen-in-Griff-bekommen-6104640-0/ "Stürze im Alter - Sorge vor Stürzen in Griff bekommen")
+* [Krypto-Währungen: In vier Schritten Krypto-Broker einrichten](https://www.test.de/Krypto-Waehrungen-Krypto-Broker-einrichten-in-vier-Schritten-6159811-0/ "Krypto-Währungen - In vier Schritten Krypto-Broker einrichten")
+* [Digi­taler Euro: Gefälschte E-Mail mit KfW-Angebot](https://www.test.de/Digitaler-Euro-Gefaelschte-E-Mail-mit-KfW-Angebot-6119446-0/ "Digitaler Euro - Gefälschte E-Mail mit KfW-Angebot")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -3138,12 +3138,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fest­geld: Deutsche Handels­bank abge­wickelt](https://www.test.de/Festgeld-Deutsche-Handelsbank-abgewickelt-6088692-0/ "Festgeld - Deutsche Handelsbank abgewickelt")
-* [Rück­ruf: Brandgefahr bei Philips-Staubsaugern](https://www.test.de/Rueckruf-Brandgefahr-bei-Philips-Staubsaugern-6160624-0/ "Rückruf - Brandgefahr bei Philips-Staubsaugern")
-* [Trock­nerbälle von Wenko und Xavax im Schnell­test: Weder Zeit noch Strom gespart](https://www.test.de/Schnelltest-Trocknerbaelle-von-Wenko-und-Xavax-Weder-Zeit-noch-Strom-gespart-5953351-0/ "Trocknerbälle von Wenko und Xavax im Schnelltest - Weder Zeit noch Strom gespart")
-* [Ratgeber Reifen: Was Sie bei Reifen beachten sollten](https://www.test.de/Ratgeber-Reifen-Was-Sie-bei-Reifen-beachten-sollten-6045123-0/ "Ratgeber Reifen - Was Sie bei Reifen beachten sollten")
-* [Daten­schutz im Test: Was Laut­sprecher-Apps ausplaudern](https://www.test.de/Datenschutz-im-Test-Was-Lautsprecher-Apps-ausplaudern-6126264-0/ "Datenschutz im Test - Was Lautsprecher-Apps ausplaudern")
-* [Ratgeber Reifen: Was Sie bei Reifen beachten sollten](https://www.test.de/Ratgeber-Reifen-Was-Sie-bei-Reifen-beachten-sollten-6045123-0/ "Ratgeber Reifen - Was Sie bei Reifen beachten sollten")
+* [Fake-E-Mails: Betrüger geben sich als Finanz­aufsicht aus](https://www.test.de/Fake-E-Mails-Betrueger-geben-sich-als-Finanzaufsicht-aus-6168134-0/ "Fake-E-Mails - Betrüger geben sich als Finanzaufsicht aus")
+* [L&G Gerd Kommer Multifactor Equity ETF: Breite Streuung und etwas Weihrauch](https://www.test.de/LG-Gerd-Kommer-Multifactor-Equity-ETF-Breite-Streuung-und-etwas-Weihrauch-6029520-0/ "L&G Gerd Kommer Multifactor Equity ETF - Breite Streuung und etwas Weihrauch")
+* [Heiz­decken im Test: Mit denen werden wir warm](https://www.test.de/Heizdecken-im-Test-6157422-0/ "Heizdecken im Test - Mit denen werden wir warm")
+* [Stürze im Alter: Sorge vor Stürzen in Griff bekommen](https://www.test.de/Stuerze-im-Alter-Sorge-vor-Stuerzen-in-Griff-bekommen-6104640-0/ "Stürze im Alter - Sorge vor Stürzen in Griff bekommen")
+* [Krypto-Währungen: In vier Schritten Krypto-Broker einrichten](https://www.test.de/Krypto-Waehrungen-Krypto-Broker-einrichten-in-vier-Schritten-6159811-0/ "Krypto-Währungen - In vier Schritten Krypto-Broker einrichten")
+* [Digi­taler Euro: Gefälschte E-Mail mit KfW-Angebot](https://www.test.de/Digitaler-Euro-Gefaelschte-E-Mail-mit-KfW-Angebot-6119446-0/ "Digitaler Euro - Gefälschte E-Mail mit KfW-Angebot")
 
 Neueste Tests
 
@@ -3156,12 +3156,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fest­geld: Deutsche Handels­bank abge­wickelt](https://www.test.de/Festgeld-Deutsche-Handelsbank-abgewickelt-6088692-0/ "Festgeld - Deutsche Handelsbank abgewickelt")
-* [Rück­ruf: Brandgefahr bei Philips-Staubsaugern](https://www.test.de/Rueckruf-Brandgefahr-bei-Philips-Staubsaugern-6160624-0/ "Rückruf - Brandgefahr bei Philips-Staubsaugern")
-* [Trock­nerbälle von Wenko und Xavax im Schnell­test: Weder Zeit noch Strom gespart](https://www.test.de/Schnelltest-Trocknerbaelle-von-Wenko-und-Xavax-Weder-Zeit-noch-Strom-gespart-5953351-0/ "Trocknerbälle von Wenko und Xavax im Schnelltest - Weder Zeit noch Strom gespart")
-* [Ratgeber Reifen: Was Sie bei Reifen beachten sollten](https://www.test.de/Ratgeber-Reifen-Was-Sie-bei-Reifen-beachten-sollten-6045123-0/ "Ratgeber Reifen - Was Sie bei Reifen beachten sollten")
-* [Daten­schutz im Test: Was Laut­sprecher-Apps ausplaudern](https://www.test.de/Datenschutz-im-Test-Was-Lautsprecher-Apps-ausplaudern-6126264-0/ "Datenschutz im Test - Was Lautsprecher-Apps ausplaudern")
-* [Ratgeber Reifen: Was Sie bei Reifen beachten sollten](https://www.test.de/Ratgeber-Reifen-Was-Sie-bei-Reifen-beachten-sollten-6045123-0/ "Ratgeber Reifen - Was Sie bei Reifen beachten sollten")
+* [Fake-E-Mails: Betrüger geben sich als Finanz­aufsicht aus](https://www.test.de/Fake-E-Mails-Betrueger-geben-sich-als-Finanzaufsicht-aus-6168134-0/ "Fake-E-Mails - Betrüger geben sich als Finanzaufsicht aus")
+* [L&G Gerd Kommer Multifactor Equity ETF: Breite Streuung und etwas Weihrauch](https://www.test.de/LG-Gerd-Kommer-Multifactor-Equity-ETF-Breite-Streuung-und-etwas-Weihrauch-6029520-0/ "L&G Gerd Kommer Multifactor Equity ETF - Breite Streuung und etwas Weihrauch")
+* [Heiz­decken im Test: Mit denen werden wir warm](https://www.test.de/Heizdecken-im-Test-6157422-0/ "Heizdecken im Test - Mit denen werden wir warm")
+* [Stürze im Alter: Sorge vor Stürzen in Griff bekommen](https://www.test.de/Stuerze-im-Alter-Sorge-vor-Stuerzen-in-Griff-bekommen-6104640-0/ "Stürze im Alter - Sorge vor Stürzen in Griff bekommen")
+* [Krypto-Währungen: In vier Schritten Krypto-Broker einrichten](https://www.test.de/Krypto-Waehrungen-Krypto-Broker-einrichten-in-vier-Schritten-6159811-0/ "Krypto-Währungen - In vier Schritten Krypto-Broker einrichten")
+* [Digi­taler Euro: Gefälschte E-Mail mit KfW-Angebot](https://www.test.de/Digitaler-Euro-Gefaelschte-E-Mail-mit-KfW-Angebot-6119446-0/ "Digitaler Euro - Gefälschte E-Mail mit KfW-Angebot")
 
 Stiftung Warentest
 
