@@ -380,9 +380,9 @@ See how you rank!](https://www.coolmathgames.com/profile/leaderboard)
 
 [![2024 CMG Awards](/sites/default/files/2023-12/cmg_awards_2023_winners_bg.png)
 
-2024 Coolmath Games Awards
+The votes are in!
 
-Vote for your favorite games!](https://www.coolmathgames.com/the-2024-coolmath-games-awards)
+See the 2024 winners!](https://www.coolmathgames.com/winners-of-the-2024-coolmath-games-awards)
 
 3. [Coolmath games privacy policy](https://www.coolmathgames.com/privacyp)
     
