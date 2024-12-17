@@ -20,6 +20,30 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Left to right: Max Fiddimore, Brian Skipper and Valerie all heaped praise on the Poundland on Lordship Lane](https://southwarknews.co.uk/wp-content/uploads/2024/12/Left-to-right-Max-Fiddimore-Brian-Skipper-and-Valerie-all-heaped-praise-on-the-Poundland-on-Lordship-Lane-360x180.png)](https://southwarknews.co.uk/area/dulwich/fig-biscuits-and-budget-bubbly-how-britains-poshest-poundland-shop-proved-a-surprising-success/)
+    
+    ### [Fig biscuits and budget bubbly: How Britain’s poshest Poundland shop proved a surprising success](https://southwarknews.co.uk/area/dulwich/fig-biscuits-and-budget-bubbly-how-britains-poshest-poundland-shop-proved-a-surprising-success/)
+    
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/12/TeoDellaTorre_DSCF8319-copy-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/food-and-drink-review-hausu-in-peckham/)
+    
+    ### [Food and drink review: Hausu in Peckham](https://southwarknews.co.uk/area/peckham/food-and-drink-review-hausu-in-peckham/)
+    
+    [![Flowers and plants left in honour of Akif Mustaq, owner of East Dulwich Dry Cleaners](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-17-12-2024-at-11.06-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/dulwich-in-shock-after-owner-of-lovely-family-business-dies-in-tragic-dog-attack/)
+    
+    ### [Dulwich in shock after owner of ‘lovely family business’ dies in tragic dog attack](https://southwarknews.co.uk/area/dulwich/dulwich-in-shock-after-owner-of-lovely-family-business-dies-in-tragic-dog-attack/)
+    
+    [![Rotherhithe Tunnel. Image Google](https://southwarknews.co.uk/wp-content/uploads/2024/12/Rotherhithe-Tunnel-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/plans-to-close-rotherhithe-tunnel-for-nine-month-delayed-to-2026/)
+    
+    ### [Plans to close Rotherhithe Tunnel for nine months delayed to 2026](https://southwarknews.co.uk/area/rotherhithe/plans-to-close-rotherhithe-tunnel-for-nine-month-delayed-to-2026/)
+    
+    [![Miatta Fahnbulleh](https://southwarknews.co.uk/wp-content/uploads/2024/01/Miatta-Fahnbulleh-e1704998877172-360x180.jpeg)](https://southwarknews.co.uk/news/community/our-warm-home-plans-will-help-people-save-money-says-peckham-mp/)
+    
+    ### [‘Our Warm Home Plans will help people save money’ says Peckham MP](https://southwarknews.co.uk/news/community/our-warm-home-plans-will-help-people-save-money-says-peckham-mp/)
+    
+    [![Bermondsey and Old Southwark MP Neil Coyle (left) and Iqbal Mohamed, MP for Dewsbury (right)](https://southwarknews.co.uk/wp-content/uploads/2024/12/Bermondsey-and-Old-Southwark-MP-Neil-Coyle-left-and-Iqbal-Mohamed-MP-for-Dewsbury-right-360x180.png)](https://southwarknews.co.uk/area/bermondsey/labour-mp-slams-independent-mp-who-argued-against-banning-first-cousin-marriage/)
+    
+    ### [Labour MP slams independent MP who argued against banning first-cousin marriage](https://southwarknews.co.uk/area/bermondsey/labour-mp-slams-independent-mp-who-argued-against-banning-first-cousin-marriage/)
+    
     [![L: Umana Yana owner, Debbie Monfries. R: Debbie with rapper Central Cee when he visited her shop.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-16-12-2024-at-14.50-360x180.jpg)](https://southwarknews.co.uk/area/herne-hill/herne-hill-restaurant-owner-to-host-free-soup-kitchen-funded-by-rapper-central-cee/)
     
     ### [Herne Hill restaurant owner to host free soup kitchen funded by rapper Central Cee](https://southwarknews.co.uk/area/herne-hill/herne-hill-restaurant-owner-to-host-free-soup-kitchen-funded-by-rapper-central-cee/)
@@ -31,30 +55,6 @@
     [![Police would like to speak to the two men pictured in connection with their investigation. Image: BTP](https://southwarknews.co.uk/wp-content/uploads/2024/12/NCA-360x180.jpg)](https://southwarknews.co.uk/area/south-london/police-release-cctv-images-after-alleged-attempted-knife-point-robbery-at-new-cross-station/)
     
     ### [Police release CCTV images after alleged attempted knife-point robbery at New Cross station](https://southwarknews.co.uk/area/south-london/police-release-cctv-images-after-alleged-attempted-knife-point-robbery-at-new-cross-station/)
-    
-    [![Sadiq Khan at Mayor's Question Time. Credit - London Assembly webcast](https://southwarknews.co.uk/wp-content/uploads/2024/05/Sadiq-Khan-at-Mayors-Question-Time.-Credit-London-Assembly-webcast-360x180.jpg)](https://southwarknews.co.uk/area/london/is-london-hitting-the-targets-on-the-way-to-becoming-a-net-zero-city-by-2030/)
-    
-    ### [Is London hitting the targets on the way to becoming a net zero city by 2030?](https://southwarknews.co.uk/area/london/is-london-hitting-the-targets-on-the-way-to-becoming-a-net-zero-city-by-2030/)
-    
-    [![(photo: London Fire Brigade)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-29-10-2024-at-10.03-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-fire-four-rescued-as-firefighters-urge-smoking-safety/)
-    
-    ### [Bermondsey fire: Four rescued as firefighters urge smoking safety](https://southwarknews.co.uk/area/bermondsey/bermondsey-fire-four-rescued-as-firefighters-urge-smoking-safety/)
-    
-    [![King's College Hospital. Credit: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/09/Kings-College-Hospital.-Credit-Robert-Firth-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/kings-college-hospital-charity-launches-christmas-appeal-for-trauma-survivors/)
-    
-    ### [King’s College Hospital Charity launches Christmas appeal for trauma survivors](https://southwarknews.co.uk/area/camberwell/kings-college-hospital-charity-launches-christmas-appeal-for-trauma-survivors/) 
-    
-    [![Andy and Diane and the steps separating Diane from the outside world](https://southwarknews.co.uk/wp-content/uploads/2024/12/Andy-and-Diane-and-the-steps-separating-Diane-from-the-outside-world-360x180.png)](https://southwarknews.co.uk/area/borough/disabled-woman-has-not-left-borough-flat-in-two-years-as-fourteen-steps-separate-her-from-freedom/)
-    
-    ### [Disabled woman has not left Borough flat in two years as fourteen steps separate her from freedom](https://southwarknews.co.uk/area/borough/disabled-woman-has-not-left-borough-flat-in-two-years-as-fourteen-steps-separate-her-from-freedom/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/12/sydenham-motorbike-360x180.jpg)](https://southwarknews.co.uk/news/community/elderly-petrolhead-gets-surprise-motorbike-show-at-hospice-in-early-christmas-gift/)
-    
-    ### [Elderly petrolhead gets surprise motorbike show at hospice in early Christmas gift](https://southwarknews.co.uk/news/community/elderly-petrolhead-gets-surprise-motorbike-show-at-hospice-in-early-christmas-gift/)
-    
-    [![Image credit:  King's College Hospital](https://southwarknews.co.uk/wp-content/uploads/2024/12/Screenshot-2024-12-13-at-11.35.35-360x180.png)](https://southwarknews.co.uk/area/camberwell/child-patients-exploring-magical-world-of-fairies-and-goblins-thanks-to-interactive-artwork-at-south-london-hospital/)
-    
-    ### [Child patients exploring ‘magical world’ of fairies and goblins thanks to interactive artwork at South London hospital](https://southwarknews.co.uk/area/camberwell/child-patients-exploring-magical-world-of-fairies-and-goblins-thanks-to-interactive-artwork-at-south-london-hospital/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +105,30 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Left to right: Max Fiddimore, Brian Skipper and Valerie all heaped praise on the Poundland on Lordship Lane](https://southwarknews.co.uk/wp-content/uploads/2024/12/Left-to-right-Max-Fiddimore-Brian-Skipper-and-Valerie-all-heaped-praise-on-the-Poundland-on-Lordship-Lane-360x180.png)](https://southwarknews.co.uk/area/dulwich/fig-biscuits-and-budget-bubbly-how-britains-poshest-poundland-shop-proved-a-surprising-success/)
+    
+    ### [Fig biscuits and budget bubbly: How Britain’s poshest Poundland shop proved a surprising success](https://southwarknews.co.uk/area/dulwich/fig-biscuits-and-budget-bubbly-how-britains-poshest-poundland-shop-proved-a-surprising-success/)
+    
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/12/TeoDellaTorre_DSCF8319-copy-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/food-and-drink-review-hausu-in-peckham/)
+    
+    ### [Food and drink review: Hausu in Peckham](https://southwarknews.co.uk/area/peckham/food-and-drink-review-hausu-in-peckham/)
+    
+    [![Flowers and plants left in honour of Akif Mustaq, owner of East Dulwich Dry Cleaners](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-17-12-2024-at-11.06-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/dulwich-in-shock-after-owner-of-lovely-family-business-dies-in-tragic-dog-attack/)
+    
+    ### [Dulwich in shock after owner of ‘lovely family business’ dies in tragic dog attack](https://southwarknews.co.uk/area/dulwich/dulwich-in-shock-after-owner-of-lovely-family-business-dies-in-tragic-dog-attack/)
+    
+    [![Rotherhithe Tunnel. Image Google](https://southwarknews.co.uk/wp-content/uploads/2024/12/Rotherhithe-Tunnel-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/plans-to-close-rotherhithe-tunnel-for-nine-month-delayed-to-2026/)
+    
+    ### [Plans to close Rotherhithe Tunnel for nine months delayed to 2026](https://southwarknews.co.uk/area/rotherhithe/plans-to-close-rotherhithe-tunnel-for-nine-month-delayed-to-2026/)
+    
+    [![Miatta Fahnbulleh](https://southwarknews.co.uk/wp-content/uploads/2024/01/Miatta-Fahnbulleh-e1704998877172-360x180.jpeg)](https://southwarknews.co.uk/news/community/our-warm-home-plans-will-help-people-save-money-says-peckham-mp/)
+    
+    ### [‘Our Warm Home Plans will help people save money’ says Peckham MP](https://southwarknews.co.uk/news/community/our-warm-home-plans-will-help-people-save-money-says-peckham-mp/)
+    
+    [![Bermondsey and Old Southwark MP Neil Coyle (left) and Iqbal Mohamed, MP for Dewsbury (right)](https://southwarknews.co.uk/wp-content/uploads/2024/12/Bermondsey-and-Old-Southwark-MP-Neil-Coyle-left-and-Iqbal-Mohamed-MP-for-Dewsbury-right-360x180.png)](https://southwarknews.co.uk/area/bermondsey/labour-mp-slams-independent-mp-who-argued-against-banning-first-cousin-marriage/)
+    
+    ### [Labour MP slams independent MP who argued against banning first-cousin marriage](https://southwarknews.co.uk/area/bermondsey/labour-mp-slams-independent-mp-who-argued-against-banning-first-cousin-marriage/)
+    
     [![L: Umana Yana owner, Debbie Monfries. R: Debbie with rapper Central Cee when he visited her shop.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-16-12-2024-at-14.50-360x180.jpg)](https://southwarknews.co.uk/area/herne-hill/herne-hill-restaurant-owner-to-host-free-soup-kitchen-funded-by-rapper-central-cee/)
     
     ### [Herne Hill restaurant owner to host free soup kitchen funded by rapper Central Cee](https://southwarknews.co.uk/area/herne-hill/herne-hill-restaurant-owner-to-host-free-soup-kitchen-funded-by-rapper-central-cee/)
@@ -116,30 +140,6 @@ View All Result
     [![Police would like to speak to the two men pictured in connection with their investigation. Image: BTP](https://southwarknews.co.uk/wp-content/uploads/2024/12/NCA-360x180.jpg)](https://southwarknews.co.uk/area/south-london/police-release-cctv-images-after-alleged-attempted-knife-point-robbery-at-new-cross-station/)
     
     ### [Police release CCTV images after alleged attempted knife-point robbery at New Cross station](https://southwarknews.co.uk/area/south-london/police-release-cctv-images-after-alleged-attempted-knife-point-robbery-at-new-cross-station/)
-    
-    [![Sadiq Khan at Mayor's Question Time. Credit - London Assembly webcast](https://southwarknews.co.uk/wp-content/uploads/2024/05/Sadiq-Khan-at-Mayors-Question-Time.-Credit-London-Assembly-webcast-360x180.jpg)](https://southwarknews.co.uk/area/london/is-london-hitting-the-targets-on-the-way-to-becoming-a-net-zero-city-by-2030/)
-    
-    ### [Is London hitting the targets on the way to becoming a net zero city by 2030?](https://southwarknews.co.uk/area/london/is-london-hitting-the-targets-on-the-way-to-becoming-a-net-zero-city-by-2030/)
-    
-    [![(photo: London Fire Brigade)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-29-10-2024-at-10.03-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-fire-four-rescued-as-firefighters-urge-smoking-safety/)
-    
-    ### [Bermondsey fire: Four rescued as firefighters urge smoking safety](https://southwarknews.co.uk/area/bermondsey/bermondsey-fire-four-rescued-as-firefighters-urge-smoking-safety/)
-    
-    [![King's College Hospital. Credit: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/09/Kings-College-Hospital.-Credit-Robert-Firth-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/kings-college-hospital-charity-launches-christmas-appeal-for-trauma-survivors/)
-    
-    ### [King’s College Hospital Charity launches Christmas appeal for trauma survivors](https://southwarknews.co.uk/area/camberwell/kings-college-hospital-charity-launches-christmas-appeal-for-trauma-survivors/) 
-    
-    [![Andy and Diane and the steps separating Diane from the outside world](https://southwarknews.co.uk/wp-content/uploads/2024/12/Andy-and-Diane-and-the-steps-separating-Diane-from-the-outside-world-360x180.png)](https://southwarknews.co.uk/area/borough/disabled-woman-has-not-left-borough-flat-in-two-years-as-fourteen-steps-separate-her-from-freedom/)
-    
-    ### [Disabled woman has not left Borough flat in two years as fourteen steps separate her from freedom](https://southwarknews.co.uk/area/borough/disabled-woman-has-not-left-borough-flat-in-two-years-as-fourteen-steps-separate-her-from-freedom/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/12/sydenham-motorbike-360x180.jpg)](https://southwarknews.co.uk/news/community/elderly-petrolhead-gets-surprise-motorbike-show-at-hospice-in-early-christmas-gift/)
-    
-    ### [Elderly petrolhead gets surprise motorbike show at hospice in early Christmas gift](https://southwarknews.co.uk/news/community/elderly-petrolhead-gets-surprise-motorbike-show-at-hospice-in-early-christmas-gift/)
-    
-    [![Image credit:  King's College Hospital](https://southwarknews.co.uk/wp-content/uploads/2024/12/Screenshot-2024-12-13-at-11.35.35-360x180.png)](https://southwarknews.co.uk/area/camberwell/child-patients-exploring-magical-world-of-fairies-and-goblins-thanks-to-interactive-artwork-at-south-london-hospital/)
-    
-    ### [Child patients exploring ‘magical world’ of fairies and goblins thanks to interactive artwork at South London hospital](https://southwarknews.co.uk/area/camberwell/child-patients-exploring-magical-world-of-fairies-and-goblins-thanks-to-interactive-artwork-at-south-london-hospital/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -383,6 +383,24 @@ Website
 
 ### Featured Articles
 
+[![Left to right: Max Fiddimore, Brian Skipper and Valerie all heaped praise on the Poundland on Lordship Lane](https://southwarknews.co.uk/wp-content/uploads/2024/12/Left-to-right-Max-Fiddimore-Brian-Skipper-and-Valerie-all-heaped-praise-on-the-Poundland-on-Lordship-Lane-120x86.png)](https://southwarknews.co.uk/area/dulwich/fig-biscuits-and-budget-bubbly-how-britains-poshest-poundland-shop-proved-a-surprising-success/)
+
+### [Fig biscuits and budget bubbly: How Britain’s poshest Poundland shop proved a surprising success](https://southwarknews.co.uk/area/dulwich/fig-biscuits-and-budget-bubbly-how-britains-poshest-poundland-shop-proved-a-surprising-success/)
+
+[17th December 2024](https://southwarknews.co.uk/area/dulwich/fig-biscuits-and-budget-bubbly-how-britains-poshest-poundland-shop-proved-a-surprising-success/)
+
+[![Flowers and plants left in honour of Akif Mustaq, owner of East Dulwich Dry Cleaners](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-17-12-2024-at-11.06-120x86.jpg)](https://southwarknews.co.uk/area/dulwich/dulwich-in-shock-after-owner-of-lovely-family-business-dies-in-tragic-dog-attack/)
+
+### [Dulwich in shock after owner of ‘lovely family business’ dies in tragic dog attack](https://southwarknews.co.uk/area/dulwich/dulwich-in-shock-after-owner-of-lovely-family-business-dies-in-tragic-dog-attack/)
+
+[17th December 2024](https://southwarknews.co.uk/area/dulwich/dulwich-in-shock-after-owner-of-lovely-family-business-dies-in-tragic-dog-attack/)
+
+[![Rotherhithe Tunnel. Image Google](https://southwarknews.co.uk/wp-content/uploads/2024/12/Rotherhithe-Tunnel-120x86.jpg)](https://southwarknews.co.uk/area/rotherhithe/plans-to-close-rotherhithe-tunnel-for-nine-month-delayed-to-2026/)
+
+### [Plans to close Rotherhithe Tunnel for nine months delayed to 2026](https://southwarknews.co.uk/area/rotherhithe/plans-to-close-rotherhithe-tunnel-for-nine-month-delayed-to-2026/)
+
+[17th December 2024](https://southwarknews.co.uk/area/rotherhithe/plans-to-close-rotherhithe-tunnel-for-nine-month-delayed-to-2026/)
+
 [![L: Umana Yana owner, Debbie Monfries. R: Debbie with rapper Central Cee when he visited her shop.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-16-12-2024-at-14.50-120x86.jpg)](https://southwarknews.co.uk/area/herne-hill/herne-hill-restaurant-owner-to-host-free-soup-kitchen-funded-by-rapper-central-cee/)
 
 ### [Herne Hill restaurant owner to host free soup kitchen funded by rapper Central Cee](https://southwarknews.co.uk/area/herne-hill/herne-hill-restaurant-owner-to-host-free-soup-kitchen-funded-by-rapper-central-cee/)
@@ -400,24 +418,6 @@ Website
 ### [Bermondsey fire: Four rescued as firefighters urge smoking safety](https://southwarknews.co.uk/area/bermondsey/bermondsey-fire-four-rescued-as-firefighters-urge-smoking-safety/)
 
 [16th December 2024](https://southwarknews.co.uk/area/bermondsey/bermondsey-fire-four-rescued-as-firefighters-urge-smoking-safety/)
-
-[![Andy and Diane and the steps separating Diane from the outside world](https://southwarknews.co.uk/wp-content/uploads/2024/12/Andy-and-Diane-and-the-steps-separating-Diane-from-the-outside-world-120x86.png)](https://southwarknews.co.uk/area/borough/disabled-woman-has-not-left-borough-flat-in-two-years-as-fourteen-steps-separate-her-from-freedom/)
-
-### [Disabled woman has not left Borough flat in two years as fourteen steps separate her from freedom](https://southwarknews.co.uk/area/borough/disabled-woman-has-not-left-borough-flat-in-two-years-as-fourteen-steps-separate-her-from-freedom/)
-
-[15th December 2024](https://southwarknews.co.uk/area/borough/disabled-woman-has-not-left-borough-flat-in-two-years-as-fourteen-steps-separate-her-from-freedom/)
-
-[![](https://southwarknews.co.uk/wp-content/uploads/2024/12/sydenham-motorbike-120x86.jpg)](https://southwarknews.co.uk/news/community/elderly-petrolhead-gets-surprise-motorbike-show-at-hospice-in-early-christmas-gift/)
-
-### [Elderly petrolhead gets surprise motorbike show at hospice in early Christmas gift](https://southwarknews.co.uk/news/community/elderly-petrolhead-gets-surprise-motorbike-show-at-hospice-in-early-christmas-gift/)
-
-[15th December 2024](https://southwarknews.co.uk/news/community/elderly-petrolhead-gets-surprise-motorbike-show-at-hospice-in-early-christmas-gift/)
-
-[![Ayaan Al Waeys was just 35 when she tragically died in November 2022.](https://southwarknews.co.uk/wp-content/uploads/2024/12/PHOTO-2024-12-03-14-40-10-e1734104730383-120x86.jpg)](https://southwarknews.co.uk/area/camberwell/st-thomas-hospital-is-being-accused-of-negligence-and-discrimination-after-death-of-mum-and-baby/)
-
-### [St Thomas’ Hospital is being accused of ‘negligence and discrimination’ after death of mum and baby](https://southwarknews.co.uk/area/camberwell/st-thomas-hospital-is-being-accused-of-negligence-and-discrimination-after-death-of-mum-and-baby/)
-
-[14th December 2024](https://southwarknews.co.uk/area/camberwell/st-thomas-hospital-is-being-accused-of-negligence-and-discrimination-after-death-of-mum-and-baby/)
 
 ### USEFUL PAGES
 
