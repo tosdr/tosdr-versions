@@ -33,6 +33,9 @@
 
 [![Veema Education](https://veema.co.uk/wp-content/themes/veema/assets/images/logo2.png)](https://veema.co.uk/ "Veema Education")
 
+* [CPD MEMBERSHIP](https://veema.co.uk/cpd-membership/)
+* [LEADERSHIP HUB](https://veema.co.uk/leadership-hub/)
+* [MY ACCOUNT](https://veema.co.uk/cpd-membership/my-account/)
 * [TEACHER CPD](#)
     * [CPD Programmes](https://veema.co.uk/cpd-programmes/)
     * [Blended Programmes – Train The Trainer Routes](https://veema.co.uk/blended-programmes-train-the-trainer-routes/)
@@ -45,9 +48,6 @@
     * [Accredited Courses](https://veema.co.uk/cpd-programmes/)
     * [Bespoke Programmes](mailto:cpd@veema.co.uk?subject=CPD%20Enquiry)
     * [7 – 9 Week Courses](https://veema.co.uk/7-9-week-courses/)
-* [CPD MEMBERSHIP](https://veema.co.uk/cpd-membership/)
-* [LEADERSHIP HUB](https://veema.co.uk/leadership-hub/)
-* [MY ACCOUNT](https://veema.co.uk/cpd-membership/my-account/)
 * [KEYNOTE SPEAKERS](https://veema.co.uk/keynote-speakers/)
 * [NEWS & MEDIA](https://veema.co.uk/news-media/)
 * [FORTHCOMING EVENTS](https://veema.co.uk/news-media/forthcoming-events/)
@@ -57,10 +57,6 @@
 * info@veema.co.uk
 
 [](#)
-
-* 
-* [](https://www.facebook.com/veemaedu "Facebook")
-* 
 
 * [Home](https://veema.co.uk/ "Home")
 * Terms of Use
@@ -326,7 +322,7 @@ N8 7RF
 
 #### X Feeds
 
-No tweets found. Check API credentials.
+Unable to fetch tweets at this time. Please try again later.
 
 © 2024 Veema. All Rights Reserved.
 
