@@ -1,12 +1,12 @@
 [To the page content](#main)
 
-  [![teaser background image](https://images.static-thomann.de/pics/images/notificationBar/teaser/xmas/gifts-for-musicians/background.jpg "teaser background image")
+  [![](https://images.static-thomann.de/pics/images/notificationBar/teaser/xmas/voucher/background.jpg "teaser background image")
 
-![teaser icon](https://thumbs.static-thomann.de/thumb/thumb130/pics/images/notificationBar/teaser/xmas/gifts-for-musicians/icon.png)
+![](https://thumbs.static-thomann.de/thumb/thumb130/pics/images/notificationBar/teaser/xmas/voucher/icon.png)
 
-Jingle Bell Rock Our Gift Ideas Our Gift Ideas Shop now
+Shop now
 
-Shop now](https://www.thomann.de/intl/social_gifts-for-musicians.html)
+Shop now](https://www.thomann.de/intl/basket_coupon.html)
 
 * [Service](https://www.thomannmusic.com/helpdesk_service.html)
 * [Contact us](https://www.thomann.de/intl/compinfo_contact.html)
@@ -23,7 +23,7 @@ Shop now](https://www.thomann.de/intl/social_gifts-for-musicians.html)
 search  
 
 * [3-Year Thomann Warranty](https://www.thomannmusic.com/helpdesk_warranty.html)
-* [30-Days Money-Back](https://www.thomannmusic.com/helpdesk_moneyback.html)
+* [Satisfaction Guarantee](https://www.thomannmusic.com/helpdesk_satisfaction.html)
 
 en · $
 
