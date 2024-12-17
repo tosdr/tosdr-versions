@@ -12,9 +12,9 @@ Search for:
 * [Home](https://www.stemcrew.org/)
 * [Resources](https://www.stemcrew.org/resources/)
     
-    * [PHYSICS RESOURCES](https://www.stemcrew.org/physics-resources/)
+    * [Physics Teaching Resources](https://www.stemcrew.org/physics-resources/)
     * [MATH RESOURCES](https://www.stemcrew.org/math-resources/)
-    * [BIOLOGY RESOURCES](https://www.stemcrew.org/biology-2/)
+    * [BIOLOGY RESOURCES](https://www.stemcrew.org/biology-teaching-resources/)
     
 * [Inspired By Sport](https://www.stemcrew.org/about-stem-crew/)
     
@@ -35,9 +35,9 @@ Search for:
 
 * [Home](https://www.stemcrew.org/)
 * [Resources](https://www.stemcrew.org/resources/)
-    * [PHYSICS RESOURCES](https://www.stemcrew.org/physics-resources/)
+    * [Physics Teaching Resources](https://www.stemcrew.org/physics-resources/)
     * [MATH RESOURCES](https://www.stemcrew.org/math-resources/)
-    * [BIOLOGY RESOURCES](https://www.stemcrew.org/biology-2/)
+    * [BIOLOGY RESOURCES](https://www.stemcrew.org/biology-teaching-resources/)
 * [Inspired By Sport](https://www.stemcrew.org/about-stem-crew/)
     * [America’s Cup](https://www.stemcrew.org/ineosbritannia/)
     * [INEOS Go Humans Academy](https://www.stemcrew.org/gohumansacademy/)
