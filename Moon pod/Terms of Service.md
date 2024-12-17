@@ -2,8 +2,7 @@
 
 [Skip to content](#main-content)
 
-HOLIDAY SALE | SAVE 25-45% + FREE DELIVERY  
-ORDER BY DEC 16 FOR CHRISTMAS DELIVERY
+HOLIDAY SALE | SAVE 25-45% + FREE DELIVERY
 
  [![Moon Pod](//www.moonpod.co/cdn/shop/files/Moonpod_logo_transparent_2_ccf0cdbc-718b-411a-b019-baa70d680154.png?v=1614316087&width=260)](https://www.moonpod.co/)
 
