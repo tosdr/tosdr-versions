@@ -205,7 +205,7 @@ your User Content could not be deemed by a reasonable person to be objectionable
 
 13.1
 
-**Term.** These Terms are effective upon your Acceptance and terminate in accordance with Section 12.2 (Termination).
+**Term.** These Terms are effective upon your Acceptance and terminate in accordance with Section 13.2 (Termination).
 
 13.2
 
@@ -213,7 +213,7 @@ your User Content could not be deemed by a reasonable person to be objectionable
 
 13.3
 
-**Effect of Termination.** Upon termination of these Terms: (a) your license rights will terminate and you must immediately cease all use of the Service; (b) you will no longer be authorized to access your account or the Service; (c) you must pay PlayHT any unpaid amount that was due prior to termination; and (d) all payment obligations accrued prior to termination and Sections 5.3 (Feedback), 6 (Ownership; Proprietary Rights), 12.3 (Effect of Termination), 13 (Indemnity), 14 (Disclaimers; No Warranties by PlayHT), 15 (Limitation of Liability), 16 (Dispute Resolution and Arbitration), and 17 (Miscellaneous) will survive. You are solely responsible for retaining copies of any User Content you Submit to the Service since upon termination of your account, you may lose access rights to any User Content you Submitted to the Service. If your account has been terminated for a breach of these Terms, then you are prohibited from creating a new account on the Service using a different name, email address or other forms of account verification.
+**Effect of Termination.** Upon termination of these Terms: (a) your license rights will terminate and you must immediately cease all use of the Service; (b) you will no longer be authorized to access your account or the Service; (c) you must pay PlayHT any unpaid amount that was due prior to termination; and (d) all payment obligations accrued prior to termination and Sections 5.3 (Feedback), 6 (Ownership; Proprietary Rights), 13.3 (Effect of Termination), 13 (Indemnity), 14 (Disclaimers; No Warranties by PlayHT), 15 (Limitation of Liability), 16 (Dispute Resolution and Arbitration), and 17 (Miscellaneous) will survive. You are solely responsible for retaining copies of any User Content you Submit to the Service since upon termination of your account, you may lose access rights to any User Content you Submitted to the Service. If your account has been terminated for a breach of these Terms, then you are prohibited from creating a new account on the Service using a different name, email address or other forms of account verification.
 
 13.4
 
