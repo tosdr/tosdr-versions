@@ -329,7 +329,7 @@ Advertise
 
 * ### [Inside Melbourne’s latest luxury hotel](https://www.afr.com/life-and-luxury/design/inside-melbourne-s-latest-luxury-hotel-20241212-p5kxw6)
     
-* ### [Max Allen’s pick of the chardonnays for summer drinking](https://www.afr.com/life-and-luxury/food-and-wine/max-allen-s-pick-of-the-chardonnays-for-summer-drinking-20241211-p5kxn1)
+* ### [Max Allen’s 5 best chardonnays for summer drinking](https://www.afr.com/life-and-luxury/food-and-wine/max-allen-s-pick-of-the-chardonnays-for-summer-drinking-20241211-p5kxn1)
     
 
 [Rich List](https://www.afr.com/rich-list)
