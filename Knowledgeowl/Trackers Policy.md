@@ -1125,7 +1125,7 @@ Table of Contents Table of Contents Toggle navigation
         
     * [How to start your knowledge base](https://knowledgeowl.wistia.com/medias/518xz9kl9u)
         
-    * [5 minute demo video](https://knowledgeowl.wistia.com/medias/41zqh58yrx)
+    * [2 minute demo video](https://knowledgeowl.wistia.com/medias/33pnh08hso)
         
 * [Spread the word](https://www.knowledgeowl.com/help/spread-the-word-about-knowledgeowl)
     
