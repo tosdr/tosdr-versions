@@ -24,7 +24,7 @@
 
 [](javascript:ShowNextAnnouncement(false,'next'))
 
-[](https://drawabox.com/rec/zapata/shading)
+[](https://drawabox.com/rec/proko/drawingbasics)
 
 USE CODE 12DAYS
 
@@ -32,17 +32,11 @@ FOR 15% OFF
 
 SALE ENDS December 25th
 
-[](https://amzn.to/2Bz3JgN)
+[](https://amzn.to/3KZMtFM)
 
-[](https://drawabox.com/rec/proko/figuredrawing)
+[](https://amzn.to/4cdoFKu)
 
-USE CODE 12DAYS
-
-FOR 15% OFF
-
-SALE ENDS December 25th
-
-[](https://amzn.to/2SjhDei)
+[](https://amzn.to/3KUTasJ)
 
 ![Drawabox](https://d15v304a6xpq4b.cloudfront.net/assets/images/drawabox-logo.png "Drawabox")
 
