@@ -107,67 +107,65 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![florazina](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1420537-1730447693.jpg)](https://lyricstranslate.com/en/translator/florazina "florazina")
+[![Turbonorm](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1620552-1725868199.jpg)](https://lyricstranslate.com/en/translator/turbonorm "Turbonorm")
+
+New song
+
+[Kassav' - Aiyé](https://lyricstranslate.com/en/kassav-aiye-lyrics)
+
+French (Antillean Creole)
+
+[![Doni31](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/doni31 "Doni31")
+
+New translation
+
+[SZA - Ghost in the Machine](https://lyricstranslate.com/en/sza-ghost-machine-hebrew)
+
+English → Hebrew
+
+[![JakeNorthernlynx](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1554999-1712408999.jpg)](https://lyricstranslate.com/en/translator/jakenorthernlynx "JakeNorthernlynx")
+
+New translation
+
+[Kaija Koo - Rakkaus On Voimaa](https://lyricstranslate.com/en/kaija-koo-rakkaus-voimaa-english)
+
+Finnish → English
+
+[![PaxThrax](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/paxthrax "PaxThrax")
+
+New translation
+
+[Andrea (Bulgaria) - Лоша (Losha)](https://lyricstranslate.com/en/andrea-bulgaria-losha-english)
+
+Bulgarian → English
+
+[![Pufflez](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1624906-1730197410.jpg)](https://lyricstranslate.com/en/translator/pufflez "Pufflez")
+
+New translation
+
+[Gummibär - Choco Choco Choco](https://lyricstranslate.com/en/gummibar-choco-choco-choco-arabic)
+
+English → Arabic
+
+[![fatix](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1590177-1721597011.png)](https://lyricstranslate.com/en/translator/fatix "fatix")
 
 New comment
 
-The song is already available here: https://...  [more](https://lyricstranslate.com/en/comment/1181437#comment-1181437)
+graag gedaan taeyang👍  [more](https://lyricstranslate.com/en/comment/1181791#comment-1181791)
 
-[![Guaglione](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/guaglione "Guaglione")
+[![fatix](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1590177-1721597011.png)](https://lyricstranslate.com/en/translator/fatix "fatix")
 
-New translation
+New comment
 
-[Bali (OST) - 00. Bali (Générique) \[French\]](https://lyricstranslate.com/en/bali-ost-00-bali-generique-fre-german)
+almost done, i have to do a final proofreading ...  [more](https://lyricstranslate.com/en/comment/1181790#comment-1181790)
 
-French → German
-
-[![Manuela Colombo](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1337319-1494181809.jpg)](https://lyricstranslate.com/en/translator/manuela-colombo "Manuela Colombo")
+[![wuhuahua089](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1176962-1730035239.png)](https://lyricstranslate.com/en/translator/wuhuahua089 "wuhuahua089")
 
 New translation
 
-[Rose Ausländer - Daheim](https://lyricstranslate.com/en/rose-auslander-daheim-italian)
+[Tai Oratai - มื้อใด๋สิคิดฮอด (mue dai si khit hot)](https://lyricstranslate.com/en/tai-oratai-mue-dai-si-khit-hot-chinese)
 
-German → Italian
-
-[![Panda love](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1458061-1655828855.jpg)](https://lyricstranslate.com/en/translator/panda-love "Panda love")
-
-New transcription request
-
-[Mufasa: The Lion King (ost) - 拜拜 \[Bye Bye\]](https://lyricstranslate.com/en/mufasa-lion-king-ost-%E6%8B%9C%E6%8B%9C-bye-bye)
-
-Chinese
-
-[![Thomas222](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1310118-1706205100.jpg)](https://lyricstranslate.com/en/translator/thomas222 "Thomas222")
-
-New translation
-
-[Dikla - אליפות (Alifut)](https://lyricstranslate.com/en/dikla-alifut-english)
-
-Hebrew → English
-
-[![xuen97](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/xuen97 "xuen97")
-
-New song
-
-[Energy (Taiwanese band) - 我們](https://lyricstranslate.com/en/energy-taiwanese-band-wo-men-lyrics)
-
-Chinese
-
-[![mericbei](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1612891-1711213708.jpg)](https://lyricstranslate.com/en/translator/mericbei "mericbei")
-
-New song
-
-[Jace June - Her Island](https://lyricstranslate.com/en/jace-june-her-island-lyrics)
-
-English
-
-[![regenkind](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/regenkind "regenkind")
-
-New translation
-
-[Rozalén - Loba](https://lyricstranslate.com/en/rozalen-loba-english-0)
-
-Spanish → English
+Lao (other varieties) → Chinese
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
