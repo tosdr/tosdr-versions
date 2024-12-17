@@ -38,8 +38,8 @@ New server since today
 
 ### Statistics
 
-New users in 24h: 47  
-User online: 12 ([mehr](https://www.9kw.eu/stat_en.html))
+New users in 24h: 53  
+User online: 16 ([mehr](https://www.9kw.eu/stat_en.html))
 
   
   
