@@ -664,12 +664,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Kreuz­fahrten mit Aida, Costa und MSC: Reedereien setzen auf Diesel statt Gas](https://www.test.de/Kreuzfahrten-mit-Aida-Costa-und-MSC-Reedereien-setzen-auf-Diesel-statt-Gas-5967313-0/ "Kreuzfahrten mit Aida, Costa und MSC - Reedereien setzen auf Diesel statt Gas")
-* [Neue Betrugs­masche: Angeblich Geld vom Anwalt](https://www.test.de/Neue-Betrugsmasche-Angeblich-Geld-vom-Anwalt-6045004-0/ "Neue Betrugsmasche - Angeblich Geld vom Anwalt")
-* [Zahn­arzt: Zahn­arzt­rechnung – auf diese Punkte sollten Sie achten](https://www.test.de/Gewusst-wie-Zahnarztrechnung-pruefen-5972716-0/ "Zahnarzt - Zahnarztrechnung – auf diese Punkte sollten Sie achten")
-* [Fahr­tauglich­keit im Alter: Was Senioren am Steuer für die Sicherheit tun können](https://www.test.de/Fahrtauglichkeit-im-Alter-Was-Senioren-tun-koennen-6111611-0/ "Fahrtauglichkeit im Alter - Was Senioren am Steuer für die Sicherheit tun können")
-* [Milch­aufschäumer im Test: Gute und schlechte Schaum­schläger](https://www.test.de/Milchaufschaeumer-im-Test-Gute-und-schlechte-Schaumschlaeger-6166383-0/ "Milchaufschäumer im Test - Gute und schlechte Schaumschläger")
-* [Brillen­versicherung: Policen von Fielmann und Co – braucht man die?](https://www.test.de/Brillenversicherung-6030065-0/ "Brillenversicherung - Policen von Fielmann und Co – braucht man die?")
+* [Fest­geld: Deutsche Handels­bank abge­wickelt](https://www.test.de/Festgeld-Deutsche-Handelsbank-abgewickelt-6088692-0/ "Festgeld - Deutsche Handelsbank abgewickelt")
+* [Rück­ruf: Brandgefahr bei Philips-Staubsaugern](https://www.test.de/Rueckruf-Brandgefahr-bei-Philips-Staubsaugern-6160624-0/ "Rückruf - Brandgefahr bei Philips-Staubsaugern")
+* [Trock­nerbälle von Wenko und Xavax im Schnell­test: Weder Zeit noch Strom gespart](https://www.test.de/Schnelltest-Trocknerbaelle-von-Wenko-und-Xavax-Weder-Zeit-noch-Strom-gespart-5953351-0/ "Trocknerbälle von Wenko und Xavax im Schnelltest - Weder Zeit noch Strom gespart")
+* [Ratgeber Reifen: Was Sie bei Reifen beachten sollten](https://www.test.de/Ratgeber-Reifen-Was-Sie-bei-Reifen-beachten-sollten-6045123-0/ "Ratgeber Reifen - Was Sie bei Reifen beachten sollten")
+* [Daten­schutz im Test: Was Laut­sprecher-Apps ausplaudern](https://www.test.de/Datenschutz-im-Test-Was-Lautsprecher-Apps-ausplaudern-6126264-0/ "Datenschutz im Test - Was Lautsprecher-Apps ausplaudern")
+* [Ratgeber Reifen: Was Sie bei Reifen beachten sollten](https://www.test.de/Ratgeber-Reifen-Was-Sie-bei-Reifen-beachten-sollten-6045123-0/ "Ratgeber Reifen - Was Sie bei Reifen beachten sollten")
 
 Weitere Informationen
 
@@ -3082,12 +3082,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Kreuz­fahrten mit Aida, Costa und MSC: Reedereien setzen auf Diesel statt Gas](https://www.test.de/Kreuzfahrten-mit-Aida-Costa-und-MSC-Reedereien-setzen-auf-Diesel-statt-Gas-5967313-0/ "Kreuzfahrten mit Aida, Costa und MSC - Reedereien setzen auf Diesel statt Gas")
-* [Neue Betrugs­masche: Angeblich Geld vom Anwalt](https://www.test.de/Neue-Betrugsmasche-Angeblich-Geld-vom-Anwalt-6045004-0/ "Neue Betrugsmasche - Angeblich Geld vom Anwalt")
-* [Zahn­arzt: Zahn­arzt­rechnung – auf diese Punkte sollten Sie achten](https://www.test.de/Gewusst-wie-Zahnarztrechnung-pruefen-5972716-0/ "Zahnarzt - Zahnarztrechnung – auf diese Punkte sollten Sie achten")
-* [Fahr­tauglich­keit im Alter: Was Senioren am Steuer für die Sicherheit tun können](https://www.test.de/Fahrtauglichkeit-im-Alter-Was-Senioren-tun-koennen-6111611-0/ "Fahrtauglichkeit im Alter - Was Senioren am Steuer für die Sicherheit tun können")
-* [Milch­aufschäumer im Test: Gute und schlechte Schaum­schläger](https://www.test.de/Milchaufschaeumer-im-Test-Gute-und-schlechte-Schaumschlaeger-6166383-0/ "Milchaufschäumer im Test - Gute und schlechte Schaumschläger")
-* [Brillen­versicherung: Policen von Fielmann und Co – braucht man die?](https://www.test.de/Brillenversicherung-6030065-0/ "Brillenversicherung - Policen von Fielmann und Co – braucht man die?")
+* [Fest­geld: Deutsche Handels­bank abge­wickelt](https://www.test.de/Festgeld-Deutsche-Handelsbank-abgewickelt-6088692-0/ "Festgeld - Deutsche Handelsbank abgewickelt")
+* [Rück­ruf: Brandgefahr bei Philips-Staubsaugern](https://www.test.de/Rueckruf-Brandgefahr-bei-Philips-Staubsaugern-6160624-0/ "Rückruf - Brandgefahr bei Philips-Staubsaugern")
+* [Trock­nerbälle von Wenko und Xavax im Schnell­test: Weder Zeit noch Strom gespart](https://www.test.de/Schnelltest-Trocknerbaelle-von-Wenko-und-Xavax-Weder-Zeit-noch-Strom-gespart-5953351-0/ "Trocknerbälle von Wenko und Xavax im Schnelltest - Weder Zeit noch Strom gespart")
+* [Ratgeber Reifen: Was Sie bei Reifen beachten sollten](https://www.test.de/Ratgeber-Reifen-Was-Sie-bei-Reifen-beachten-sollten-6045123-0/ "Ratgeber Reifen - Was Sie bei Reifen beachten sollten")
+* [Daten­schutz im Test: Was Laut­sprecher-Apps ausplaudern](https://www.test.de/Datenschutz-im-Test-Was-Lautsprecher-Apps-ausplaudern-6126264-0/ "Datenschutz im Test - Was Lautsprecher-Apps ausplaudern")
+* [Ratgeber Reifen: Was Sie bei Reifen beachten sollten](https://www.test.de/Ratgeber-Reifen-Was-Sie-bei-Reifen-beachten-sollten-6045123-0/ "Ratgeber Reifen - Was Sie bei Reifen beachten sollten")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -3138,12 +3138,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Kreuz­fahrten mit Aida, Costa und MSC: Reedereien setzen auf Diesel statt Gas](https://www.test.de/Kreuzfahrten-mit-Aida-Costa-und-MSC-Reedereien-setzen-auf-Diesel-statt-Gas-5967313-0/ "Kreuzfahrten mit Aida, Costa und MSC - Reedereien setzen auf Diesel statt Gas")
-* [Neue Betrugs­masche: Angeblich Geld vom Anwalt](https://www.test.de/Neue-Betrugsmasche-Angeblich-Geld-vom-Anwalt-6045004-0/ "Neue Betrugsmasche - Angeblich Geld vom Anwalt")
-* [Zahn­arzt: Zahn­arzt­rechnung – auf diese Punkte sollten Sie achten](https://www.test.de/Gewusst-wie-Zahnarztrechnung-pruefen-5972716-0/ "Zahnarzt - Zahnarztrechnung – auf diese Punkte sollten Sie achten")
-* [Fahr­tauglich­keit im Alter: Was Senioren am Steuer für die Sicherheit tun können](https://www.test.de/Fahrtauglichkeit-im-Alter-Was-Senioren-tun-koennen-6111611-0/ "Fahrtauglichkeit im Alter - Was Senioren am Steuer für die Sicherheit tun können")
-* [Milch­aufschäumer im Test: Gute und schlechte Schaum­schläger](https://www.test.de/Milchaufschaeumer-im-Test-Gute-und-schlechte-Schaumschlaeger-6166383-0/ "Milchaufschäumer im Test - Gute und schlechte Schaumschläger")
-* [Brillen­versicherung: Policen von Fielmann und Co – braucht man die?](https://www.test.de/Brillenversicherung-6030065-0/ "Brillenversicherung - Policen von Fielmann und Co – braucht man die?")
+* [Fest­geld: Deutsche Handels­bank abge­wickelt](https://www.test.de/Festgeld-Deutsche-Handelsbank-abgewickelt-6088692-0/ "Festgeld - Deutsche Handelsbank abgewickelt")
+* [Rück­ruf: Brandgefahr bei Philips-Staubsaugern](https://www.test.de/Rueckruf-Brandgefahr-bei-Philips-Staubsaugern-6160624-0/ "Rückruf - Brandgefahr bei Philips-Staubsaugern")
+* [Trock­nerbälle von Wenko und Xavax im Schnell­test: Weder Zeit noch Strom gespart](https://www.test.de/Schnelltest-Trocknerbaelle-von-Wenko-und-Xavax-Weder-Zeit-noch-Strom-gespart-5953351-0/ "Trocknerbälle von Wenko und Xavax im Schnelltest - Weder Zeit noch Strom gespart")
+* [Ratgeber Reifen: Was Sie bei Reifen beachten sollten](https://www.test.de/Ratgeber-Reifen-Was-Sie-bei-Reifen-beachten-sollten-6045123-0/ "Ratgeber Reifen - Was Sie bei Reifen beachten sollten")
+* [Daten­schutz im Test: Was Laut­sprecher-Apps ausplaudern](https://www.test.de/Datenschutz-im-Test-Was-Lautsprecher-Apps-ausplaudern-6126264-0/ "Datenschutz im Test - Was Lautsprecher-Apps ausplaudern")
+* [Ratgeber Reifen: Was Sie bei Reifen beachten sollten](https://www.test.de/Ratgeber-Reifen-Was-Sie-bei-Reifen-beachten-sollten-6045123-0/ "Ratgeber Reifen - Was Sie bei Reifen beachten sollten")
 
 Neueste Tests
 
@@ -3156,12 +3156,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Kreuz­fahrten mit Aida, Costa und MSC: Reedereien setzen auf Diesel statt Gas](https://www.test.de/Kreuzfahrten-mit-Aida-Costa-und-MSC-Reedereien-setzen-auf-Diesel-statt-Gas-5967313-0/ "Kreuzfahrten mit Aida, Costa und MSC - Reedereien setzen auf Diesel statt Gas")
-* [Neue Betrugs­masche: Angeblich Geld vom Anwalt](https://www.test.de/Neue-Betrugsmasche-Angeblich-Geld-vom-Anwalt-6045004-0/ "Neue Betrugsmasche - Angeblich Geld vom Anwalt")
-* [Zahn­arzt: Zahn­arzt­rechnung – auf diese Punkte sollten Sie achten](https://www.test.de/Gewusst-wie-Zahnarztrechnung-pruefen-5972716-0/ "Zahnarzt - Zahnarztrechnung – auf diese Punkte sollten Sie achten")
-* [Fahr­tauglich­keit im Alter: Was Senioren am Steuer für die Sicherheit tun können](https://www.test.de/Fahrtauglichkeit-im-Alter-Was-Senioren-tun-koennen-6111611-0/ "Fahrtauglichkeit im Alter - Was Senioren am Steuer für die Sicherheit tun können")
-* [Milch­aufschäumer im Test: Gute und schlechte Schaum­schläger](https://www.test.de/Milchaufschaeumer-im-Test-Gute-und-schlechte-Schaumschlaeger-6166383-0/ "Milchaufschäumer im Test - Gute und schlechte Schaumschläger")
-* [Brillen­versicherung: Policen von Fielmann und Co – braucht man die?](https://www.test.de/Brillenversicherung-6030065-0/ "Brillenversicherung - Policen von Fielmann und Co – braucht man die?")
+* [Fest­geld: Deutsche Handels­bank abge­wickelt](https://www.test.de/Festgeld-Deutsche-Handelsbank-abgewickelt-6088692-0/ "Festgeld - Deutsche Handelsbank abgewickelt")
+* [Rück­ruf: Brandgefahr bei Philips-Staubsaugern](https://www.test.de/Rueckruf-Brandgefahr-bei-Philips-Staubsaugern-6160624-0/ "Rückruf - Brandgefahr bei Philips-Staubsaugern")
+* [Trock­nerbälle von Wenko und Xavax im Schnell­test: Weder Zeit noch Strom gespart](https://www.test.de/Schnelltest-Trocknerbaelle-von-Wenko-und-Xavax-Weder-Zeit-noch-Strom-gespart-5953351-0/ "Trocknerbälle von Wenko und Xavax im Schnelltest - Weder Zeit noch Strom gespart")
+* [Ratgeber Reifen: Was Sie bei Reifen beachten sollten](https://www.test.de/Ratgeber-Reifen-Was-Sie-bei-Reifen-beachten-sollten-6045123-0/ "Ratgeber Reifen - Was Sie bei Reifen beachten sollten")
+* [Daten­schutz im Test: Was Laut­sprecher-Apps ausplaudern](https://www.test.de/Datenschutz-im-Test-Was-Lautsprecher-Apps-ausplaudern-6126264-0/ "Datenschutz im Test - Was Lautsprecher-Apps ausplaudern")
+* [Ratgeber Reifen: Was Sie bei Reifen beachten sollten](https://www.test.de/Ratgeber-Reifen-Was-Sie-bei-Reifen-beachten-sollten-6045123-0/ "Ratgeber Reifen - Was Sie bei Reifen beachten sollten")
 
 Stiftung Warentest
 
