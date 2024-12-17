@@ -30,13 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WNEP/images/eda68603-f861-4a2f-99c8-fae2130d8990/eda68603-f861-4a2f-99c8-fae2130d8990_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/eda68603-f861-4a2f-99c8-fae2130d8990/eda68603-f861-4a2f-99c8-fae2130d8990_360x203.jpg)](https://www.wqad.com/article/news/local/burlington-assault-parent-basketball-referee/526-9e8e8c35-28d6-4c48-b75f-8b28ec1af191)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/d903ddac-aaa4-482d-b09f-d9961a916434/d903ddac-aaa4-482d-b09f-d9961a916434_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d903ddac-aaa4-482d-b09f-d9961a916434/d903ddac-aaa4-482d-b09f-d9961a916434_360x203.jpg)](https://www.wqad.com/article/news/local/good-news/mr-thanksgiving-bob-vogelbaugh-moline-illinois-key-to-the-city/526-569f7e7f-87fd-4380-b8f6-c27017a0e1e4)
         
-        #### [Police: Referee assaulted by parent at Burlington basketball game](https://www.wqad.com/article/news/local/burlington-assault-parent-basketball-referee/526-9e8e8c35-28d6-4c48-b75f-8b28ec1af191)
+        #### [Mr. Thanksgiving will be presented with Key to the City during Tuesday's Moline City Council meeting](https://www.wqad.com/article/news/local/good-news/mr-thanksgiving-bob-vogelbaugh-moline-illinois-key-to-the-city/526-569f7e7f-87fd-4380-b8f6-c27017a0e1e4) [![](https://media.tegna-media.com/assets/WQAD/images/d903ddac-aaa4-482d-b09f-d9961a916434/d903ddac-aaa4-482d-b09f-d9961a916434_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d903ddac-aaa4-482d-b09f-d9961a916434/d903ddac-aaa4-482d-b09f-d9961a916434_360x203.jpg)](https://www.wqad.com/article/news/local/good-news/mr-thanksgiving-bob-vogelbaugh-moline-illinois-key-to-the-city/526-569f7e7f-87fd-4380-b8f6-c27017a0e1e4)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/f66c1c15-a816-465f-b7d7-2593febd5729/20241216T231031/f66c1c15-a816-465f-b7d7-2593febd5729_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f66c1c15-a816-465f-b7d7-2593febd5729/20241216T231031/f66c1c15-a816-465f-b7d7-2593febd5729_360x203.jpg)](https://www.wqad.com/article/entertainment/places/hauberg-estate-apartment-airbnb-rent-andrew-reitz/526-b05a835f-c205-46c3-afa8-5f4c92679fb5)
+        #### [Mr. Thanksgiving will receive Key to the City during Tuesday city council meeting in Moline](https://www.wqad.com/article/news/local/good-news/mr-thanksgiving-bob-vogelbaugh-moline-illinois-key-to-the-city/526-569f7e7f-87fd-4380-b8f6-c27017a0e1e4)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/d10b8a2e-5b2f-4206-a4fc-ced4d1f6d93e/20241216T193858/d10b8a2e-5b2f-4206-a4fc-ced4d1f6d93e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d10b8a2e-5b2f-4206-a4fc-ced4d1f6d93e/20241216T193858/d10b8a2e-5b2f-4206-a4fc-ced4d1f6d93e_360x203.jpg)](https://www.wqad.com/article/news/local/chris-cournoyer-iowa-governor-kim-reynolds-lt/526-847141a9-8e29-446b-af61-92a918746f3a)
         
-        #### [Apartment on the Hauberg Estate now available to rent through Airbnb](https://www.wqad.com/article/entertainment/places/hauberg-estate-apartment-airbnb-rent-andrew-reitz/526-b05a835f-c205-46c3-afa8-5f4c92679fb5)
+        #### [Iowa Gov. Kim Reynolds appoints state Sen. Chris Cournoyer of LeClaire new lieutenant governor](https://www.wqad.com/article/news/local/chris-cournoyer-iowa-governor-kim-reynolds-lt/526-847141a9-8e29-446b-af61-92a918746f3a)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -97,7 +98,7 @@ Navigation
 
 Davenport, IA »
 
-36°
+31°
 
 ![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
