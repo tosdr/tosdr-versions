@@ -1,6 +1,6 @@
 [Boy Scouts of America](https://www.scouting.org/ "Boy Scouts of America")
 
-[![](https://www.scouting.org/wp-content/uploads/2024/01/LogoBSA.svg)](https://www.scouting.org/)
+[![](https://www.scouting.org/wp-content/uploads/2022/03/scouting-america-logo-desktop@2x.png)](https://www.scouting.org/)
 
 * [Be a scout](https://beascout.scouting.org/?utm_source=scouting&utm_medium=join_header&utm_campaign=ongoing)
 * [Scoutshop](https://www.scoutshop.org/)
@@ -102,7 +102,7 @@
     * [Family Adventure Camp](https://www.scouting.org/national-high-adventure-bases/family-adventure-camp/)
 * [Partners](https://www.scouting.org/partnerwithus/)
 
-[![](https://www.scouting.org/wp-content/uploads/2024/01/BSA_logo.svg)](https://www.scouting.org/)
+[![](https://www.scouting.org/wp-content/uploads/2022/03/scouting-america-logo-mobile@2x.png)](https://www.scouting.org/)
 
 [My.scouting](https://my.scouting.org/)
 
@@ -329,9 +329,9 @@ Boy Scouts of America Attn: Legal Department/DMCA Complaint 1325 West Walnut Hil
 
 ![youtube](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2040%2040%22%3E%3C/svg%3E)](https://www.youtube.com/c/BoyScoutsofAmericavideos)
 
-![BSA Logo](https://www.scouting.org/wp-content/uploads/2021/08/BSALogo.png)
+![](https://www.scouting.org/wp-content/uploads/2021/08/scouting-america-logo-stacked-footer@2x.png)
 
-![BSA Logo](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2098%20112%22%3E%3C/svg%3E)
+![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20196%20152%22%3E%3C/svg%3E)
 
 © 2024 Boy Scouts of America - All Rights Reserved  
 Registered 501(c)(3). EIN: 22-1576300
