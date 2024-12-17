@@ -1,12 +1,12 @@
 [Skip to content](#main-content)
 
-[Buy 1 Get 1 Free Keychain Weapons I Click Here!](https://www.thehomesecuritysuperstore.com/collections/bogo-free-keychain-weapons?utm_source=website&utm_medium=banner&utm_campaign=Buy+1+Get+1+Free+Keychain+Weapons)
+[20% Off All Self-Defense Batons | Code: BATON20](https://www.thehomesecuritysuperstore.com/collections/batons?utm_source=website&utm_medium=banner&utm_campaign=20%25+Off+All+Self-Defense+Batons)
 
-TODAY'S OFFER: :: | Buy 1 Get 1 Free Keychain Weapons I Click Here!
+TODAY'S OFFER: :: | 20% Off All Self-Defense Batons | Code: BATON20
 
 TODAY'S OFFER: : :
 
- Buy 1 Get 1 Free Keychain Weapons I Click Here!
+ 20% Off All Self-Defense Batons Code: BATON20
 
 [![The Home Security Superstore](//www.thehomesecuritysuperstore.com/cdn/shop/files/thss-main-logo-jpg.jpg?v=1729157895&width=300)](https://www.thehomesecuritysuperstore.com/)
 
