@@ -688,15 +688,34 @@ Auf www.wuppertal.de verwenden wir ausschließlich technisch notwendige Cookies 
 
 Menü
 
-Seite teilenZum Seitenanfang springen
+Sprache auswählenSeite teilenZum Seitenanfang springen
 
 Navigation
 ----------
 
+Sprache auswählen schließen
+
+* [Deutsch (German)](https://www.wuppertal.de/index.php)
+* [English](https://www.wuppertal.de/index.php)
+* [Türkçe (Turkish)](https://www.wuppertal.de/index.php)
+* [Italiano (Italian)](https://www.wuppertal.de/index.php)
+* [Français (French)](https://www.wuppertal.de/index.php)
+* [български език (Bulgarian)](https://www.wuppertal.de/index.php)
+* [Polski (Polish)](https://www.wuppertal.de/index.php)
+* [Ελληνικά (Greek)](https://www.wuppertal.de/index.php)
+* [Română (Romanian)](https://www.wuppertal.de/index.php)
+* [Русский (Russian)](https://www.wuppertal.de/index.php)
+* [Español (Spanish)](https://www.wuppertal.de/index.php)
+* [Українська (Ukrainian)](https://www.wuppertal.de/index.php)
+* [Português (Portuguese)](https://www.wuppertal.de/index.php)
+* [中文 (Chinese)](https://www.wuppertal.de/index.php)
+* [Nederlands (Dutch)](https://www.wuppertal.de/index.php)
+* [اللغة العربية (Arabic)](https://www.wuppertal.de/index.php)
+
 Seite teilen schließen
 
-* [auf Facebook teilen (Öffnet in einem neuen Tab)](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.wuppertal.de%2Fservice%2Fdatenschutz_dsgvo.php&t=1734431539)
-* [auf Twitter teilen (Öffnet in einem neuen Tab)](https://twitter.com/share?url=https%3A%2F%2Fwww.wuppertal.de%2Fservice%2Fdatenschutz_dsgvo.php&t=1734431539)
+* [auf Facebook teilen (Öffnet in einem neuen Tab)](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.wuppertal.de%2Fservice%2Fdatenschutz_dsgvo.php&t=1734453478)
+* [auf Twitter teilen (Öffnet in einem neuen Tab)](https://twitter.com/share?url=https%3A%2F%2Fwww.wuppertal.de%2Fservice%2Fdatenschutz_dsgvo.php&t=1734453478)
 * [per E-Mail teilen](mailto:?subject=wuppertal.de%20-%20Seitenempfehlung&body=Hallo%2C%0A%0Aich%20m%C3%B6chte%20die%20folgende%20Seite%20empfehlen%3A%0Ahttps%3A%2F%2Fwww.wuppertal.de%2Fservice%2Fdatenschutz_dsgvo.php%0A%0ABeste%20Gr%C3%BC%C3%9Fe)
 
 Suche
