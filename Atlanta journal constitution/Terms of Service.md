@@ -1,5 +1,7 @@
 error: no ad slot id exists: undefined
 
+[Breaking: Georgia GOP electors formally vote for Trump, in contrast to 2020 drama](https://www.ajc.com/politics/georgia-gop-electors-formally-vote-for-trump-in-contrast-to-2020-drama/HFQK7BHGPVBR5C2ZILPEMVRBEM/)
+
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1891)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1891)](https://www.ajc.com/)
 
 Log In
@@ -16,7 +18,6 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
-* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-read-a-book/AH3X37ZRUZDSFMNIH266VC2KSE/)
 * [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
 * [Best Diners in Georgia](https://www.ajc.com/food-and-dining/best-diners-in-georgia/)
 * [Holiday Guide](https://www.ajc.com/things-to-do/atlanta-winter-guide/)
