@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/hoofdartikelen/lichaamsvreemd-dna-in-vaccins-oorzaak-grote-ziektes/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/9-11/met-een-911-stripverhaal-de-waarheid-onder-ogen/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
