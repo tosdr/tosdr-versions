@@ -88,13 +88,13 @@ Most Read
     
     1. [Buying a TV in 2025? Expect lower prices, more ads, and an OS war.](https://arstechnica.com/gadgets/2024/12/buying-a-tv-in-2025-expect-lower-prices-more-ads-and-an-os-war/)
     
-2. 2. [The US military is now talking openly about going on the attack in space](https://arstechnica.com/space/2024/12/the-us-military-is-now-talking-openly-about-going-on-the-attack-in-space/)
+2. 2. [Trump to block the government and military from buying EVs](https://arstechnica.com/cars/2024/12/on-trumps-chopping-block-evs-charger-funding-californias-emissions/)
     
-3. 3. [Bird flu jumps from birds to human in Louisiana; patient hospitalized](https://arstechnica.com/science/2024/12/person-hospitalized-in-louisiana-with-bird-flu-health-officials-report/)
+3. 3. [Why do we get headaches from drinking red wine?](https://arstechnica.com/health/2024/12/researchers-hone-in-on-headache-causing-compounds-in-red-wine/)
     
-4. 4. [Researchers hone in on headache-causing compounds in red wine](https://arstechnica.com/health/2024/12/researchers-hone-in-on-headache-causing-compounds-in-red-wine/)
+4. 4. [Huge math error corrected in black plastic study; authors say it doesn’t matter](https://arstechnica.com/health/2024/12/huge-math-error-corrected-in-black-plastic-study-authors-say-it-doesnt-matter/)
     
-5. 5. [Yearlong supply-chain attack targeting security pros steals 390K credentials](https://arstechnica.com/security/2024/12/yearlong-supply-chain-attack-targeting-security-pros-steals-390k-credentials/)
+5. 5. [T-Mobile users can try Starlink-enabled phone service for free during beta](https://arstechnica.com/tech-policy/2024/12/t-mobile-opens-beta-registration-for-starlink-enabled-cell-phone-service/)
     
 
 Customize
