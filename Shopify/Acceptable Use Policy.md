@@ -168,9 +168,9 @@
     * [Changelog.
         
         Your source for recent updates](https://changelog.shopify.com/)
-    * [Summer ’24 Edition.
+    * [Winter ’25 Edition.
         
-        The latest 100+ product updates](https://www.shopify.com/editions/summer2024)
+        The latest 150+ product updates](https://www.shopify.com/editions/winter2025)
     * [All Editions.
         
         Archive of past Shopify Editions](https://www.shopify.com/editions/all)
