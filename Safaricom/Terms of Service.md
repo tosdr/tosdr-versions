@@ -229,6 +229,34 @@ out of 5 based on
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
+> Dec 14, 2024
+
+> I just booked another incredible…
+
+> I just booked another incredible experience with safari.com, and one more time pascal that is not only the best agent he is a friend that make dreams happen. Can’t wait to go back . Will be my 3 time in Africa.
+
+Tricia moyses
+
+,
+
+US
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Dec 13, 2024
+
+> Great service
+
+> Great service - just what I needed.
+
+Pi
+
+,
+
+GB
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
 > Dec 13, 2024
 
 > Leigh-Ann Croeser from Safari.com was fantastic
@@ -324,34 +352,6 @@ SUE And Bryson STEIN
 ,
 
 AU
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Dec 9, 2024
-
-> Quick & efficient
-
-> Very fast response, polite - impressive
-
-Eduardo Rocha
-
-,
-
-BR
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Dec 7, 2024
-
-> Went through Newmarket travel and Hays…
-
-> Went through Newmarket travel and Hays travel ..information about flight changes hard to get..but on arrival the holiday was taken over Safari.com..amazing ..experience everything was fine tuned and the staff ..guides drivers fabulous and friendly ..lots of knowledge..lots of fun and the surprises they did was so lovely ...loved every minute ..Paris our guide was amazing..10/10 and Eric driver ..the waiters and waitress every and everyone in the hotels .smiling and friendly..Best holiday of my life
-
-Gillian Dodsworth
-
-,
-
-GB
 
 VIP service
 
