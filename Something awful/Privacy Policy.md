@@ -205,28 +205,27 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [The Steampunk Forum](https://www.somethingawful.com/weekend-web/steampunk-forum/1/)
-* [Who Wants To Be A Suphero? and Teens-4-Christ](https://www.somethingawful.com/weekend-web/superheroes-chrstian-teens/1/)
-* [Literotica](https://www.somethingawful.com/weekend-web/literotica-forums/1/)
-* [Dungeons & Dragons: Dungeon Module S1 "Tomb of Horrors"](https://www.somethingawful.com/dungeons-and-dragons/wtf-tomb-horrors/1/)
-* [Job Hunt 2003!](https://www.somethingawful.com/news/job-hunt-2003/)
+* [Beast Forum](https://www.somethingawful.com/weekend-web/beastforum/1/)
+* [Pooping and Peeing in Public Places and Somalinet](https://www.somethingawful.com/weekend-web/pooping-peeing-public/1/)
+* [Make Horror Wholesome](https://www.somethingawful.com/photoshop-phriday/horror-wholesome/)
+* [Billy Drago: An Appreciation in Five Parts](https://www.somethingawful.com/news/billy-drago-appreciation/)
+* [Philosophy Sunday: Dudes. Are they bad enough?](https://www.somethingawful.com/news/philosophy-sunday-dudes/)
 
 ### Popular Threads
 
+* ![](https://fi.somethingawful.com/images/shitpost.gif) [itt we have road rage (NO SLURS)](http://forums.somethingawful.com/showthread.php?threadid=4077612 "itt we have road rage (NO SLURS)")
 * ![](https://fi.somethingawful.com/forums/posticons/fyad-zounds.gif) [How does Santa keep getting away with this?](http://forums.somethingawful.com/showthread.php?threadid=4077610 "How does Santa keep getting away with this?")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/movies.png) [Impromptu Movie Night: come watch Jurassic Park (1994)](http://forums.somethingawful.com/showthread.php?threadid=4077604 "Impromptu Movie Night: come watch Jurassic Park (1994)")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/video.png) [Music videos that go hard for no fucking reason](http://forums.somethingawful.com/showthread.php?threadid=4077609 "Music videos that go hard for no fucking reason")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/guns.png) [Four dead in Madison, Wi school shooting. Because America](http://forums.somethingawful.com/showthread.php?threadid=4077623 "Four dead in Madison, Wi school shooting. Because America")
-* ![](https://fi.somethingawful.com/images/shitpost.gif) [itt we have road rage (NO SLURS)](http://forums.somethingawful.com/showthread.php?threadid=4077612 "itt we have road rage (NO SLURS)")
-* ![](https://fi.somethingawful.com/forums/posticons/LF-article.gif) [What's 'In' and 'Out' for 2025?](http://forums.somethingawful.com/showthread.php?threadid=4077585 "What's 'In' and 'Out' for 2025?")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/movies.png) [Impromptu Movie Night: come watch Jurassic Park (1994)](http://forums.somethingawful.com/showthread.php?threadid=4077604 "Impromptu Movie Night: come watch Jurassic Park (1994)")
 
 ### Random Articles
 
-* [New Year's Eve; The Sitter; The Descendants](https://www.somethingawful.com/current-movie-reviews/new-years-sitter/1/)
-* [Michael Richards' Apology](https://www.somethingawful.com/feature-articles/michael-richards-apology/)
-* [Welcome to the DynaMars Corporation's Ares Station Update Service](https://www.somethingawful.com/news/welcome-dynamars-corporations-2/)
-* [Treasures That Shouldn't Be Featured In Uncharted 4](https://www.somethingawful.com/video-game-article/uncharted-treasure-fortune/)
-* [Jupiter Station](https://www.somethingawful.com/awful-links/awful-link-4303/)
+* [ARCHURE (Thanks, Joki!)](https://www.somethingawful.com/awful-links/archure-midi/)
+* [Released Reactions](https://www.somethingawful.com/awful-links/awful-link-2813/)
+* [Roger Owen For Congress](https://www.somethingawful.com/awful-links/awful-link-3611/)
+* [I Hate You Page 132](https://www.somethingawful.com/cliff-yablonski/i-hate-you-132/)
+* [Woman Ain't the Nigger of the World](https://www.somethingawful.com/daily-dirt/obama-tina-fey/)
 
 [Random!](https://www.somethingawful.com/random/)
 
