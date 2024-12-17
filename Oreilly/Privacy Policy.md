@@ -18,6 +18,7 @@
         * [Live events](https://www.oreilly.com/online-learning/live-events.html)
         * [Answers](https://www.oreilly.com/online-learning/feature-answers.html)
         * [Insights reporting](https://www.oreilly.com/online-learning/insights-dashboard.html)
+    * [Plans](https://www.oreilly.com/online-learning/pricing.html)
     * [Blog](https://www.oreilly.com/radar/)
     * [Content sponsorship](https://www.oreilly.com/content-marketing-solutions.html)
     * Close
