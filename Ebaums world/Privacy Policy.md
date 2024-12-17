@@ -259,13 +259,13 @@ Advertisement
 
 * ### eBaum's Picks
     
-    [![22 Fails and Facepalms From the Past Few Weeks](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/22-fails-flounders-and-facepalms-that-cracked-us-up/87507571/) [22 Fails, Flounders, and Facepalms That Cracked Us Up](https://trending.ebaumsworld.com/pictures/22-fails-flounders-and-facepalms-that-cracked-us-up/87507571/)
+    [![Kid trolls NBA dance cam](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/genius-boy-trolling-the-dance-cam-is-a-wholesome-inspiration/86098784/) [Genius Kid Baits NBA Dance Cam into Showing a Pro-Hong Kong Message](https://www.ebaumsworld.com/videos/genius-boy-trolling-the-dance-cam-is-a-wholesome-inspiration/86098784/)
     
-    [![24 People Share the Worst Case of Living in Denial They've Ever Seen](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/25-people-share-the-worst-case-of-living-in-denial-theyve-ever-seen/87496387/) [24 Embarrassing Cases of People Living in Denial](https://trending.ebaumsworld.com/pictures/25-people-share-the-worst-case-of-living-in-denial-theyve-ever-seen/87496387/)
-    
-    [![22 Bits of Twitter Cringe That Should Get Off the App](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/24-bits-of-twitter-cringe-that-should-get-off-the-app/87505567/) [22 Bits of Twitter Cringe That Should Get Off the App](https://trending.ebaumsworld.com/pictures/24-bits-of-twitter-cringe-that-should-get-off-the-app/87505567/)
+    [![Guy playing a guitar](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/heavy-metal-without-distortion-is-basically-surf-music-from-hell/85155941/) [Heavy Metal Without Distortion Is Basically Surf Rock From Hell](https://www.ebaumsworld.com/videos/heavy-metal-without-distortion-is-basically-surf-music-from-hell/85155941/)
     
     [![19 Funny Work Memes to Laugh At Before You Clock Out](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/20-funny-work-memes-to-laugh-at-before-you-clock-out/87503041/) [19 Funny Work Memes to Laugh At Before You Clock Out](https://trending.ebaumsworld.com/pictures/20-funny-work-memes-to-laugh-at-before-you-clock-out/87503041/)
+    
+    [![34 of the Funniest Tweets of the Week According to Us](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/20-of-the-funniest-tweets-of-the-week-according-to-us/87496948/) [34 of the Funniest Tweets of the Week According to Us](https://trending.ebaumsworld.com/pictures/20-of-the-funniest-tweets-of-the-week-according-to-us/87496948/)
     
 
 * Advertisement
