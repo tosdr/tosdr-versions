@@ -1,4 +1,4 @@
-Oris Sale  -   [**Shop Now**](https://www.bobswatches.com/oris)
+10% Off All Oris Watches  -   [**Shop Now**](https://www.bobswatches.com/oris)
 
 100% Certified Authentic
 
