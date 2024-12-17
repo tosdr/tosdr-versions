@@ -1,5 +1,3 @@
-![](https://s.lalal.ai/img/sale-graphic/sale-snowflake.svg)Christmas Sale![](https://s.lalal.ai/img/sale-graphic/sale-snowflake.svg) 700 Minutes for Just $40 ![](https://s.lalal.ai/img/sale-graphic/sale-snowflake.svg) Till 2024/12/31 ![](https://s.lalal.ai/img/sale-graphic/sale-snowflake.svg)
-
 [](https://www.lalal.ai/)
 
 ProductsNew
