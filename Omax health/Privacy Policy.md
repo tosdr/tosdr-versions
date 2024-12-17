@@ -1,4 +1,6 @@
-![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)      Privacy Policy – Omax Health - Omax Health                            
+![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)               Privacy Policy – Omax Health - Omax Health               
+
+     
 
               
 
@@ -303,13 +305,13 @@ Go to product page
 
 ### Let customers speak for us
 
-[3425 reviews](https://omaxhealth.com/pages/reviews)
+[3426 reviews](https://omaxhealth.com/pages/reviews)
 
 [Write a review](#)
 
 91%
 
-(3102)
+(3103)
 
 5%
 
@@ -327,7 +329,18 @@ Go to product page
 
 (54)
 
-2220
+2221
+
+J
+
+[3 Pack CryoFreeze® Hemp CBD Roll-On | Extra Strength](https://omaxhealth.com/products/3-pack-cryofreeze-hemp-cbd-roll-on-extra-strength#judgeme_product_reviews)
+
+Jane D.
+
+**Best product on market for Migraines**
+
+I try not to take unnecessary medications or products but have suffered from migraines all my life. I was thrilled to find a product that would instantly start relieving my migraines and start reducing the pain faster than any pill I would normally take . Works for all kinds of pain and injuries , joint pain , etc.  
+Love this product, I buy in multples to always have on hand.
 
 C
 
@@ -350,15 +363,5 @@ Renee M.
 I started using this for tight muscles and migraines. Now I’m using for sudden onset arthritis in my lower sacrum and hip. It is the only thing that helps! Love this product!
 
 [](https://judgeme.imgix.net/omax-health/1734142336__img_2548__original.png?auto=format)
-
-l
-
-[3 Pack CryoFreeze® Hemp CBD Roll-On | Extra Strength](https://omaxhealth.com/products/3-pack-cryofreeze-hemp-cbd-roll-on-extra-strength#judgeme_product_reviews)
-
-lisa d.
-
-**Orthopedic patient**
-
-I love this product it takes the pain away. I have it with me at all times.I have tried many things this is the best product that actually works.
 
 Load More
