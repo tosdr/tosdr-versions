@@ -200,6 +200,11 @@ This document was last updated on January 1, 2014
 
 #### Defense News
 
+* [New B-52 engines pass key design review, prepare for altitude tests](https://www.defensenews.com/air/2024/12/16/new-b-52-engines-pass-key-design-review-prepare-for-altitude-tests/)  
+    12/16/24 02:00pm  
+    
+    Rolls-Royce said the new engines planned for the B-52 Stratofortress will go into more intensive altitude testing in early 2025, now that it has passed its critical design review. (Staff Sgt. Lauren Cobin/U.S. Air Force)
+    
 * [Kurdish forces in Syria accidentally shot down US Reaper drone](https://www.defensenews.com/global/mideast-africa/2024/12/13/kurdish-forces-in-syria-accidentally-shot-down-us-reaper-drone/)  
     12/13/24 04:54pm  
     
@@ -214,11 +219,6 @@ This document was last updated on January 1, 2014
     12/13/24 08:27am  
     
     A T-6A Texan II rests under a hangar at Vance Air Force Base, Okla., Nov. 3, 2022. (Second Lt. Jonathan Soferr/Air Force)
-    
-* [Defense bill for 2025 would delay F-35 deliveries](https://www.defensenews.com/air/2024/12/10/defense-bill-would-cut-f-35-purchases-in-2025-delay-deliveries/)  
-    12/10/24 03:45pm  
-    
-    Congress is set to cut the number of Lockheed Martin-made F-35s the military wants to buy in 2025 from 68 to 58 under this year’s defense authorization bill. (Airman Belinda Guachun-Chichay/U.S. Air Force)
     
 
 Recent parts by keyword  
