@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/kfc-plofkip-zorgt-voor-kfp-nominatie/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/gif-in-je-mond/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
