@@ -66,7 +66,7 @@ Resources
 **Privacy Policy**
 ==================
 
-Last Updated: December 16, 2024
+Last Updated: December 17, 2024
 
 **Changes in the Last Update**
 
@@ -465,7 +465,7 @@ If you have any questions or concerns regarding our privacy policies, please sen
 
 > Substack Inc.
 > 
-> 731 Sansome Street
+> 731 Sansome Street, 5th Floor
 > 
 > San Francisco CA 94111
 > 
