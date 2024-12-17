@@ -1,4 +1,4 @@
-                   
+                 
 
 [Skip to main content](#main-content)
 
@@ -242,7 +242,7 @@ $89.00$67.00](https://blackwolfnation.com/products/sonic-scrubber-body-wash-face
 
 WUSH™ 2.0 Pro Ear Cleaner
 
-1481
+1482
 
 $59.00](https://blackwolfnation.com/products/wush)
 
