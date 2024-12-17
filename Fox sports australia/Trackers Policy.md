@@ -18,7 +18,7 @@ FOX SCORES
     
 * [Men's Test
     
-    Day 4 Session 3
+    Day 4
     
     |     |     |
     | --- | --- |
@@ -38,44 +38,50 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250803)
 * [Women's Test
     
-    Day 2
+    Day 3 Session 3
     
     |     |     |
     | --- | --- |
-    | RSA | 281 |
-    | ENG | 9 /395d & 1 /31 |
+    | RSA | 281 & 7 /44 |
+    | ENG | 9 /395d & 236 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WTEST2024-250101)
 * [Men's ODI
     
-    17/12 23:00 AEST
-    
     |     |     |
     | --- | --- |
-    | RSA | –   |
-    | PAK | –   |
+    | RSA | 4 /148 |
+    | PAK |     |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODI2024-251101)
 * [Women's T20I
     
-    18/12 0:30 AEST
-    
     |     |     |
     | --- | --- |
-    | IND | –   |
-    | WI  | –   |
+    | IND | 1 /33 |
+    | WI  |     |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20I2024-250402)
 * [Big Bash League
     
-    17/12 19:15 AEST
+    SYDT won by 2 wkts
     
     |     |     |
     | --- | --- |
-    | SYDT | –   |
-    | ADE | –   |
+    | SYDT | 8 /183 |
+    | ADE | 8 /182 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/BBL2024-250103)
+* [WNCL
+    
+    18/12 10:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | VIC | –   |
+    | SA  | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WNCL2024-250116)
 * NFL
     
 * [NFL
@@ -160,18 +166,15 @@ FOX SCORES
     | UTA | 107 |
     
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25011228/box-score)
-* Football
+* NBA Cup
     
-* [Premier League
-    
-    Full Time
+    18/12 12:30 AEST
     
     |     |     |
     | --- | --- |
-    | BOU | 1   |
-    | WHU | 1   |
+    | OKC | –   |
+    | MIL | –   |
     
-    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-251610)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
