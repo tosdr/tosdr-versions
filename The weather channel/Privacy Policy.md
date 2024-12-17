@@ -52,7 +52,7 @@ Radar & Maps
 News & Media
 ------------
 
-[Top Weather Stories](https://weather.com/science/nature/video/bear-tucks-itself-in-for-hibernation-at-yellowstone-wyoming)[Hurricane Central](https://weather.com/storms/hurricane-central)[Science & Environment](https://weather.com/science/environment)[Space & Skywatching](https://weather.com/science/space)[Safety & Prep](https://weather.com/safety/index)[Videos](https://weather.com/science/nature/video/bear-tucks-itself-in-for-hibernation-at-yellowstone-wyoming)[Bios](https://weather.com/bios)
+[Top Weather Stories](https://weather.com/news/climate/video/miami-buildings-sinking)[Hurricane Central](https://weather.com/storms/hurricane-central)[Science & Environment](https://weather.com/science/environment)[Space & Skywatching](https://weather.com/science/space)[Safety & Prep](https://weather.com/safety/index)[Videos](https://weather.com/news/climate/video/miami-buildings-sinking)[Bios](https://weather.com/bios)
 
 Products
 --------
@@ -72,7 +72,7 @@ Account
 Lifestyle
 ---------
 
-[Grilling Season](https://weather.com/home-garden/grilling)[Home & Garden](https://weather.com/home-garden)[Travel & Outdoors](https://weather.com/travel)[Pets & Animals](https://weather.com/pets)[GamesExternal Link](https://puzzmoinc.sjv.io/c/5131646/1928172/21275)
+[Atmosphere Reviews](https://weather.com/atmosphere)[Grilling Season](https://weather.com/home-garden/grilling)[Home & Garden](https://weather.com/home-garden)[Travel & Outdoors](https://weather.com/travel)[Pets & Animals](https://weather.com/pets)[GamesExternal Link](https://puzzmoinc.sjv.io/c/5131646/1928172/21275)
 
 Privacy
 -------
