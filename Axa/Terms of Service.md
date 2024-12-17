@@ -189,6 +189,7 @@ Menu Close
         * [Legal expenses cover](https://www.axa.co.uk/business-insurance/legal-expenses-insurance/)
         * [Product liability insurance](https://www.axa.co.uk/business-insurance/public-liability/product-liability-insurance/)
         * [Tool insurance](https://www.axa.co.uk/business-insurance/tool-insurance/)
+        * [Workshop insurance](https://www.axa.co.uk/business-insurance/workshop-insurance/)
     * [Employers' liability insurance](https://www.axa.co.uk/business-insurance/employers-liability/)[](javascript:void(0))
         * [What is employers' liability insurance?](https://www.axa.co.uk/business-insurance/employers-liability/what-is-employers-liability-insurance/)
         * [What’s covered?](https://www.axa.co.uk/business-insurance/employers-liability/whats-covered/)
