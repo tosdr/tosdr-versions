@@ -468,7 +468,6 @@ OUR ADDRESS
 * [Mens](https://www.6pm.com/mens)
 * [Kids](https://www.6pm.com/kids)
 * [Brands](https://www.6pm.com/c/brands)
-* [e-Gift Cards](https://www.6pm.com/egiftcard)
 
 ### My Account
 
