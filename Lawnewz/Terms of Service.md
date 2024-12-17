@@ -279,25 +279,25 @@ Sponsor may conduct a background check to confirm any potential winner’s eligi
 Top of Today
 ------------
 
-1. [![Jeremy Rodgers (U.S. Attorney's Office).](https://am24.mediaite.com/lc/cnt/uploads/2024/12/j6-3-432x243.jpg)](https://lawandcrime.com/high-profile/trump-appointed-judge-convicts-man-for-repeatedly-hitting-officer-on-head-with-flagpole-during-jan-6-riots/)
+1. [![Benjamin Cotton and Christina Cotton](https://am24.mediaite.com/lc/cnt/uploads/2024/12/Benjamin-Cotton-and-Christina-Cotton-432x243.jpg)](https://lawandcrime.com/crime/locked-up-for-their-safety-parents-who-insisted-they-caged-their-4-young-children-at-night-for-their-kids-safetyand-well-being-receive-fate/)
     
-    ### [Trump-appointed judge convicts man for repeatedly hitting officer on head with flagpole during Jan. 6 riots](https://lawandcrime.com/high-profile/trump-appointed-judge-convicts-man-for-repeatedly-hitting-officer-on-head-with-flagpole-during-jan-6-riots/)
+    ### ['Locked up for their safety': Parents who insisted they caged their 4 young children at night for their kids' well-being receive fate](https://lawandcrime.com/crime/locked-up-for-their-safety-parents-who-insisted-they-caged-their-4-young-children-at-night-for-their-kids-safetyand-well-being-receive-fate/)
     
-2. [![Left: Robert Paul Rundo, of Huntington Beach, California, holds down and punches a counter-protester at a political rally at Bolsa Chica State Beach in Huntington Beach, Calif. March 25, 2017. (Mindy Schauer/The Orange County Register via AP)](https://am21.mediaite.com/lc/cnt/uploads/2024/12/antifa-432x243.jpg)](https://lawandcrime.com/crime/white-supremacist-leader-who-claimed-he-was-fighting-antifa-gets-time-served/)
+2. [![Teresa Gonzales fell into a manhole cover in Dallas, Texas](https://am21.mediaite.com/lc/cnt/uploads/2024/12/gonzalez-lawsuit-dallas-432x243.jpg)](https://lawandcrime.com/lawsuit/clawing-on-for-her-life-woman-dies-after-falling-in-manhole-as-workers-blame-each-other-for-leaving-cover-off-lawsuit-says/)
     
-    ### [White supremacist leader who claimed he was fighting Antifa gets time served](https://lawandcrime.com/crime/white-supremacist-leader-who-claimed-he-was-fighting-antifa-gets-time-served/)
+    ### ['Clawing on for her life': Woman dies after falling in manhole as workers blame each other for leaving cover off, lawsuit says](https://lawandcrime.com/lawsuit/clawing-on-for-her-life-woman-dies-after-falling-in-manhole-as-workers-blame-each-other-for-leaving-cover-off-lawsuit-says/)
     
-3. [![Donald Trump, George Stephanopoulos](https://am23.mediaite.com/lc/cnt/uploads/2024/05/Trump-Stephanopoulos-432x243.jpg)](https://lawandcrime.com/high-profile/judge-in-defamation-case-against-abc-news-orders-trump-and-george-stephanopoulos-to-sit-for-up-to-4-hour-in-person-depositions-hands-president-elect-discovery-win/)
+3. [![Donald Trump, Juan Merchan](https://am22.mediaite.com/lc/cnt/uploads/2024/04/Donald-Trump-Juan-Merchan-432x243.jpg)](https://lawandcrime.com/high-profile/supreme-court-rejects-clarence-thomas-referred-bid-to-lift-donald-trumps-gag-order-in-new-york-hush-money-case/)
     
-    ### [Judge in defamation case against ABC News orders Trump and George Stephanopoulos to sit for up to 4-hour, in-person depositions, hands President-elect discovery win](https://lawandcrime.com/high-profile/judge-in-defamation-case-against-abc-news-orders-trump-and-george-stephanopoulos-to-sit-for-up-to-4-hour-in-person-depositions-hands-president-elect-discovery-win/)
+    ### [Supreme Court rejects Clarence Thomas-referred bid to lift Donald Trump's gag order in New York hush money case](https://lawandcrime.com/high-profile/supreme-court-rejects-clarence-thomas-referred-bid-to-lift-donald-trumps-gag-order-in-new-york-hush-money-case/)
     
-4. [![Tekquan Alexander mugshot](https://am23.mediaite.com/lc/cnt/uploads/2024/11/tekquan-alexander-mugshot-432x243.jpg)](https://lawandcrime.com/crime/dad-who-tortured-his-4-year-old-daughter-into-a-vegetative-state-told-girls-mother-that-she-fainted-during-a-time-out-learns-his-fate/)
+4. [![Paul Byron Ferguson (Stranger Stores).](https://am22.mediaite.com/lc/cnt/uploads/2024/12/Paul-Byron-Ferguson-432x243.jpg)](https://lawandcrime.com/video/thought-it-was-just-acting-elder-brother-enforcer-describes-force-feeding-abused-teen-reaper-hot-sauce-leaving-him-to-die-in-small-closet/)
     
-    ### [Dad who tortured his 4-year-old daughter into a ‘vegetative state,’ told girl’s mother that she fainted during a ‘time-out’ learns his fate](https://lawandcrime.com/crime/dad-who-tortured-his-4-year-old-daughter-into-a-vegetative-state-told-girls-mother-that-she-fainted-during-a-time-out-learns-his-fate/)
+    ### ['Thought it was just acting': Elder brother 'enforcer' describes force-feeding abused teen 'reaper' hot sauce, leaving him to die in small closet](https://lawandcrime.com/video/thought-it-was-just-acting-elder-brother-enforcer-describes-force-feeding-abused-teen-reaper-hot-sauce-leaving-him-to-die-in-small-closet/)
     
-5. [![Zak Young appears in a CNN chyron about Afghanistan.](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Zachary-Young-432x243.jpg)](https://lawandcrime.com/high-profile/some-kind-of-subsidiary-slush-fund-navy-veteran-suing-cnn-for-defamation-says-network-made-shocking-financial-admissions-amid-ongoing-discovery-dispute/)
+5. [![Free speech advocates gather outside of the Supreme Court in Washington, D.C. on March 18, 2024 for the 'rally to reclaim free speech' hosted by Children's Health Defense (Photo by Bryan Olin Dozier/NurPhoto via AP).](https://am21.mediaite.com/lc/cnt/uploads/2024/12/tiktok-pic-432x243.jpg)](https://lawandcrime.com/high-profile/no-legitimate-interest-in-interfering-tiktok-wants-supreme-court-to-block-law-banning-use-in-us/)
     
-    ### ['Some kind of subsidiary slush fund': Navy veteran suing CNN for defamation says network made shocking financial admissions amid ongoing discovery dispute](https://lawandcrime.com/high-profile/some-kind-of-subsidiary-slush-fund-navy-veteran-suing-cnn-for-defamation-says-network-made-shocking-financial-admissions-amid-ongoing-discovery-dispute/)
+    ### ['No legitimate interest in interfering': TikTok wants Supreme Court to block law banning use in US](https://lawandcrime.com/high-profile/no-legitimate-interest-in-interfering-tiktok-wants-supreme-court-to-block-law-banning-use-in-us/)
     
 
 [](http://eepurl.com/c89Jdb)
