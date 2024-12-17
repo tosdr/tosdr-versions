@@ -412,36 +412,36 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. marketing
+1. javascript
     
-2. hacking
+2. French
     
-3. data science
+3. cyber security
     
 
 Popular subjects
 
-1. [Cybersecurity
+1. [Web Development
     
-    17,323 courses](https://www.classcentral.com/subject/cybersecurity)
-2. [Digital Marketing
+    14,308 courses](https://www.classcentral.com/subject/web-development)
+2. [Data Analysis
+    
+    9,290 courses](https://www.classcentral.com/subject/data-analysis)
+3. [Digital Marketing
     
     6,581 courses](https://www.classcentral.com/subject/digital-marketing)
-3. [Ethical Hacking
-    
-    2,315 courses](https://www.classcentral.com/subject/ethical-hacking)
 
 Popular courses
 
-1. [Astrobiology and the Search for Extraterrestrial Life
+1. [Medical Neuroscience
     
-    University of Edinburgh](https://www.classcentral.com/course/astrobio-415)
-2. [The Musculoskeletal System: The Science of Staying Active into Old Age
+    Duke University](https://www.classcentral.com/course/medicalneuro-384)
+2. [Best Practices for Biomedical Research Data Management (HE)
     
-    Newcastle University](https://www.classcentral.com/course/musculoskeletal-6738)
-3. [Responsive Web Design
+    Harvard Medical School](https://www.classcentral.com/course/canvas-network-best-practices-for-biomedical-research-data-management-he-10172)
+3. [Organic Chemistry 1
     
-    freeCodeCamp](https://www.classcentral.com/course/freecodecamp-responsive-web-design-34059)
+    Jawaharlal Nehru University, New Delhi](https://www.classcentral.com/course/swayam-organic-chemistry-1-14221)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
