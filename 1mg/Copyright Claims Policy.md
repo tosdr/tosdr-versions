@@ -952,35 +952,6 @@ QUICK BUY! Get 15% off on medicines\*
     * [All Medicines](https://www.1mg.com/drugs-all-medicines)
     * [Medicines by Therapeutic Class](https://www.1mg.com/drugs-therapeutic-classes)
     
-* [Winter Care Essentials](https://www.1mg.com/categories/winter-care-essentials-3362)
-    
-    * [Skin & Hair Care](https://www.1mg.com/categories/winter-care-essentials/skin-hair-care-3367)
-    * [Face Moisturisers](https://www.1mg.com/categories/winter-care-essentials/skin-hair-care/face-moisturisers-646)
-    * [Shampoo](https://www.1mg.com/categories/winter-care-essentials/skin-hair-care/shampoo-205)
-    * [Hair Oils](https://www.1mg.com/categories/winter-care-essentials/skin-hair-care/hair-oils-566)
-    * [Lip Balm](https://www.1mg.com/categories/winter-care-essentials/skin-hair-care/lip-balm-740)
-    * [Baby Care](https://www.1mg.com/categories/winter-care-essentials/skin-hair-care/baby-care-3369)
-    * [Chyawanprash](https://www.1mg.com/categories/winter-care-essentials/chyawanprash-248)
-    * [Sexual Wellness](https://www.1mg.com/categories/winter-care-essentials/sexual-wellness-22)
-    * [Condoms](https://www.1mg.com/categories/winter-care-essentials/sexual-wellness/condoms-153)
-    * [Lubricants & Massage Gels](https://www.1mg.com/categories/winter-care-essentials/sexual-wellness/lubricants-massage-gels-242)
-    * [Sexual Wellness Devices](https://www.1mg.com/categories/winter-care-essentials/sexual-wellness/sexual-wellness-devices-289)
-    * [Performance Enhancers](https://www.1mg.com/categories/winter-care-essentials/sexual-wellness/performance-enhancers-243)
-    * [Pregnancy & Ovulation Kit](https://www.1mg.com/categories/winter-care-essentials/sexual-wellness/pregnancy-ovulation-kit-1552)
-    * [Oral Contraceptives](https://www.1mg.com/categories/winter-care-essentials/sexual-wellness/oral-contraceptives-3087)
-    
-    * [Cough, Cold & Fever](https://www.1mg.com/categories/winter-care-essentials/cough-cold-fever-672)
-    * [Herbal Tea & Honey](https://www.1mg.com/categories/winter-care-essentials/herbal-tea-honey-3366)
-    * [Pain Relief](https://www.1mg.com/categories/winter-care-essentials/pain-relief-32)
-    * [Gel & Sprays](https://www.1mg.com/categories/winter-care-essentials/pain-relief/gel-sprays-635)
-    * [Supports & Braces](https://www.1mg.com/categories/winter-care-essentials/pain-relief/supports-braces-3370)
-    * [Hot Water Bottles](https://www.1mg.com/categories/winter-care-essentials/pain-relief/hot-water-bottles-597)
-    * [Electric heating pads](https://www.1mg.com/categories/winter-care-essentials/pain-relief/electric-heating-pads-1402)
-    * [Oils For Pain Relief](https://www.1mg.com/categories/winter-care-essentials/pain-relief/oils-for-pain-relief-636)
-    * [Heating Aids & Belts](https://www.1mg.com/categories/winter-care-essentials/pain-relief/heating-aids-belts-637)
-    * [Pain Balm & Ointment](https://www.1mg.com/categories/winter-care-essentials/pain-relief/pain-balm-ointment-638)
-    * [Pain Relief Tablets](https://www.1mg.com/categories/winter-care-essentials/pain-relief/pain-relief-tablets-3131)
-    
 * [Vitamins & Nutrition](https://www.1mg.com/categories/vitamins-nutrition-5)
     
     * [Multivitamins](https://www.1mg.com/categories/fitness-supplements/multivitamins-162)
@@ -1022,6 +993,15 @@ QUICK BUY! Get 15% off on medicines\*
     * [Specialized Nutrition](https://www.1mg.com/categories/nutritional-drinks/specialized-nutrition-3110)
     * [Green Coffee](https://www.1mg.com/categories/nutritional-drinks/green-coffee-3111)
     
+* [Sexual Wellness](https://www.1mg.com/categories/sexual-wellness-22)
+    
+    * [Condoms](https://www.1mg.com/categories/sexual-wellness/condoms-153)
+    * [Lubricants & Massage Gels](https://www.1mg.com/categories/sexual-wellness/lubricants-massage-gels-242)
+    * [Sexual Wellness Devices](https://www.1mg.com/categories/sexual-wellness/sexual-wellness-devices-289)
+    * [Performance Enhancers](https://www.1mg.com/categories/sexual-wellness/performance-enhancers-243)
+    * [Pregnancy & Ovulation Kit](https://www.1mg.com/categories/sexual-wellness/pregnancy-ovulation-kit-1552)
+    * [Oral Contraceptives](https://www.1mg.com/categories/sexual-wellness/oral-contraceptives-3087)
+    
 * [Anti-Pollution](https://www.1mg.com/categories/anti-pollution-237)
     
     * [Respiratory & Surgical Mask](https://www.1mg.com/categories/anti-pollution/respiratory-surgical-mask-158)
@@ -1061,9 +1041,21 @@ QUICK BUY! Get 15% off on medicines\*
     * [Sports](https://www.1mg.com/categories/fitness-supplements/sports-2128)
     * [Plant Protein](https://www.1mg.com/categories/fitness-supplements/plant-protein-1012)
     
+* [Pain Relief](https://www.1mg.com/categories/pain-relief-32)
+    
+    * [Gel & Sprays](https://www.1mg.com/categories/pain-relief/gel-sprays-635)
+    * [Supports & Braces](https://www.1mg.com/categories/pain-relief/supports-braces-3370)
+    * [Hot Water Bottles](https://www.1mg.com/categories/pain-relief/hot-water-bottles-597)
+    * [Electric heating pads](https://www.1mg.com/categories/pain-relief/electric-heating-pads-1402)
+    * [Oils For Pain Relief](https://www.1mg.com/categories/pain-relief/oils-for-pain-relief-636)
+    * [Heating Aids & Belts](https://www.1mg.com/categories/pain-relief/heating-aids-belts-637)
+    * [Pain Balm & Ointment](https://www.1mg.com/categories/pain-relief/pain-balm-ointment-638)
+    * [Pain Relief Tablets](https://www.1mg.com/categories/pain-relief/pain-relief-tablets-3131)
+    
 * [Personal Care](https://www.1mg.com/categories/personal-care-3062)
     
     * [Skin Care](https://www.1mg.com/categories/personal-care/skin-care-19)
+    * [Face Moisturisers](https://www.1mg.com/categories/personal-care/skin-care/face-moisturisers-646)
     * [Cleansers & Facewash](https://www.1mg.com/categories/personal-care/skin-care/cleansers-facewash-512)
     * [Sunscreen](https://www.1mg.com/categories/personal-care/skin-care/sunscreen-210)
     * [Cleanser](https://www.1mg.com/categories/personal-care/skin-care/cleanser-117)
@@ -1074,6 +1066,7 @@ QUICK BUY! Get 15% off on medicines\*
     * [Facewash](https://www.1mg.com/categories/personal-care/skin-care/facewash-208)
     * [Talcum Powder](https://www.1mg.com/categories/personal-care/skin-care/talcum-powder-123)
     * [Body Lotions](https://www.1mg.com/categories/personal-care/skin-care/body-lotions-738)
+    * [Lip Balm](https://www.1mg.com/categories/personal-care/skin-care/lip-balm-740)
     * [Sanitizers & Handwash](https://www.1mg.com/categories/personal-care/skin-care/sanitizers-handwash-305)
     * [Body scrub & Bath salt](https://www.1mg.com/categories/personal-care/skin-care/body-scrub-bath-salt-1290)
     * [Soaps & Body Wash](https://www.1mg.com/categories/personal-care/skin-care/soaps-body-wash-2652)
@@ -1086,21 +1079,6 @@ QUICK BUY! Get 15% off on medicines\*
     * [Oral Care Supplements](https://www.1mg.com/categories/personal-care/oral-care/oral-care-supplements-490)
     * [Dental Floss & Tongue Cleaners](https://www.1mg.com/categories/personal-care/oral-care/dental-floss-tongue-cleaners-499)
     * [Tooth Powder](https://www.1mg.com/categories/personal-care/oral-care/tooth-powder-644)
-    
-* [Healthy Snacks](https://www.1mg.com/categories/healthy-snacks-623)
-    
-    * [Granola & Protein Bars](https://www.1mg.com/categories/healthy-snacks/granola-protein-bars-3107)
-    * [Peanut Butter](https://www.1mg.com/categories/healthy-snacks/peanut-butter-450)
-    * [Honey](https://www.1mg.com/categories/healthy-snacks/honey-2359)
-    * [Dry Fruits & Berries](https://www.1mg.com/categories/healthy-snacks/dry-fruits-berries-3109)
-    * [Cookies](https://www.1mg.com/categories/healthy-snacks/cookies-387)
-    
-    * [Oats](https://www.1mg.com/categories/healthy-snacks/oats-3090)
-    * [Muesli & Cereals](https://www.1mg.com/categories/healthy-snacks/muesli-cereals-3108)
-    * [Edible Seeds & Nuts](https://www.1mg.com/categories/healthy-snacks/edible-seeds-nuts-3106)
-    * [Superfoods](https://www.1mg.com/categories/healthy-snacks/superfoods-260)
-    * [Quinoa](https://www.1mg.com/categories/healthy-snacks/quinoa-3078)
-    * [Other Snacks](https://www.1mg.com/categories/healthy-snacks/other-snacks-3112)
     
 
 last updated June 2021
