@@ -157,8 +157,8 @@ Search all IEEE websites
     [Select an option](#)
     
     * [Select an option](#)
+    * [Search for 2026 conferences](https://conferences.ieee.org/conferences_events/conferences/search?q=*&subsequent_q=&date=all&from=2026-01-01&to=2026-12-31&region=all&country=all&pos=0&sortorder=desc&sponsor=&sponsor_type=all&state=all&field_of_interest=all&sortfield=relevance&searchmode=basic&virtualConfReadOnly=N&eventformat=)
     * [Search for 2025 conferences](https://conferences.ieee.org/conferences_events/conferences/search?q=*&subsequent_q=&date=all&from=2025-01-01&to=2025-12-31&region=all&country=all&pos=0&sortorder=desc&sponsor=&sponsor_type=all&state=all&field_of_interest=all&sortfield=relevance&searchmode=basic&virtualConfReadOnly=N&eventformat=)
-    * [Search for 2024 conferences](https://conferences.ieee.org/conferences_events/conferences/search?q=*&subsequent_q=&date=all&from=2024-01-01&to=2024-12-31&region=all&country=all&pos=0&sortorder=desc&sponsor=&sponsor_type=all&state=all&field_of_interest=all&sortfield=relevance&searchmode=basic&virtualConfReadOnly=N&eventformat=)
     * [Find conference organizer resources](https://www.ieee.org/conferences/organizers/organizers-index.html?utm_source=mm_wdw&utm_campaign=org_resources&utm_medium=conf&utm_term=organizer%20resources)
     * [Register a conference](https://www.ieee.org/conferences/application-form.html?utm_source=mm_wdw&utm_campaign=register_conf&utm_medium=conf&utm_term=register%20a%20conference)
     * [Publish conference papers](https://www.ieee.org/conferences/organizers/publishing-conference-papers.html?utm_source=mm_wdw&utm_campaign=conf_pap&utm_medium=conf&utm_term=publish%20conference%20papers)
