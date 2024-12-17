@@ -1,5 +1,3 @@
-Free Shipping Over $45.00
-
 Easy returns within 30 days
 
 24/7 Online customer service
@@ -16,6 +14,7 @@ Easy returns within 30 days
 * [Shoes](https://eur.patpat.com/baby-toddler-kids-shoes-c.html)
 * [Accessories](https://eur.patpat.com/accessories-c.html)
 * [Seen on TikTok](https://eur.patpat.com/tiktok-trends-c.html)
+* [Clearance](https://eur.patpat.com/clearance-c.html)
 * [About](https://eur.patpat.com/about)
 
 Search[](https://eur.patpat.com/account/login)
