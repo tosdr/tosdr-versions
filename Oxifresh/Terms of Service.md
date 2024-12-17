@@ -216,7 +216,7 @@ Call Now for a FREE Quote! [1-877-OXI-FRESH](tel:18776943737) **OR**
     * [Consideration Request](https://www.oxifresh.com/carpet-cleaning-companies/carpet-cleaning-franchise/considerationrequest/)
 * [Franchisee Login](https://www.oxifresh.com/login/index.html)
 
-![The World's Greenest Carpet Cleaner](https://www.oxifresh.com/wp-content/themes/oxifresh_alt/images/img-zipbox-2.png)
+![Fast 1 Hour Dry Time Carpet Cleaner](https://www.oxifresh.com/wp-content/themes/oxifresh_alt/images/img-zipbox-1.png)
 
 Zip Code  QUOTE & SCHEDULE
 
@@ -444,15 +444,15 @@ What Customers Are Saying
 
 Based on 306,950 Carpet Cleaning Services Reviews
 
-I love my clean carpets. Excellent process used by OxiFresh simple and very thorough. I highly recommend **JK.** - Royersford, PA - 12/15/2024
+Technician is very knowledgeable, friendly, and thorough. **DF.** - Wichita, KS - 12/16/2024
 
 (5.0 Out of 5 stars)
 
-A great job was done **LS.** - Farmville, VA - 12/15/2024
+I had some very noticeable pet stains. They disappeared with the cleaning process. The young man was very personable and professional. **BB.** - Wichita, KS - 12/14/2024
 
-(4.5 Out of 5 stars)
+(5.0 Out of 5 stars)
 
-Connor let me know when he was on his way, showed up at the appointment time and got right to work. He was very professional the entire time and explained the process thoroughly. The result of his work resulted in my carpets looking almost brand new. Also, I liked that with this process the carpet was dried in roughly an hour (minus some spots that were really bad beforehand!) world sufficient recommend Oxi Fresh and Connor to anyone requiring their services! **JT.** - Land O' Lakes, FL - 12/15/2024
+The entire process was interesting. The end result was great! Highly recommend.... **DW.** - Henderson, NV - 12/14/2024
 
 (5.0 Out of 5 stars)
 
@@ -516,6 +516,8 @@ We're standing by to help CALL
 
 [VIEW MORE ARTICLES](https://www.oxifresh.com/news)
 
+[12/17/24 **Pet-Friendly Carpet Cleaning: Removing Pet Stains Made Easy** Your Guide to Eliminating Tough Carpet Stains We love dogs and cats—they’re just the best. That said, their accidents are… Your Guide to Eliminating Tough Carpet Stains We love dogs and cats—they’re just the best. That said, their accidents are…](https://www.oxifresh.com/carpet-cleaning-blog/pet-friendly-carpet-cleaning-removing-pet-stains-made-easy/)
+
 [12/11/24 **Professional Upholstery Cleaning: How Does it Work?** Learn the Step-by-Step Process Behind Oxi Fresh’s Expert Upholstery Cleaning Services We all have a favorite piece of furniture that… Learn the Step-by-Step Process Behind Oxi Fresh’s Expert Upholstery Cleaning Services We all have a favorite piece of furniture that…](https://www.oxifresh.com/carpet-cleaning-blog/professional-upholstery-cleaning-how-does-it-work/)
 
 [01/11/24 **Oxi Fresh Carpet Cleaning’s 2023 Year in Review** A Look Back at Oxi Fresh’s 2023 Accomplishments As we look back on 2023 and look ahead to the rest… A Look Back at Oxi Fresh’s 2023 Accomplishments As we look back on 2023 and look ahead to the rest…](https://www.oxifresh.com/carpet-cleaning-blog/oxi-fresh-carpet-cleanings-2023-year-in-review/)
@@ -525,8 +527,6 @@ We're standing by to help CALL
 [08/16/23 **Oxi Fresh Carpet Cleaning Knowledge Featured on MarthaStewart.com** Oxi Fresh Expert Shares Red Wine Carpet Cleaning Tips with MarthaStewart.com! It’s the evening many dream of: candles flickering, soft,… Oxi Fresh Expert Shares Red Wine Carpet Cleaning Tips with MarthaStewart.com! It’s the evening many dream of: candles flickering, soft,…](https://www.oxifresh.com/carpet-cleaning-blog/oxi-fresh-carpet-cleaning-knowledge-featured-on-marthastewart-com/)
 
 [06/29/23 **The Three Main Benefits of Oxi Fresh Carpet Cleaning** Three Special Advantages to Oxi Fresh’s Unique Approach Oxi Fresh Carpet Cleaning is proud to be one of the best… Three Special Advantages to Oxi Fresh’s Unique Approach Oxi Fresh Carpet Cleaning is proud to be one of the best…](https://www.oxifresh.com/carpet-cleaning-blog/the-three-main-benefits-of-oxi-fresh-carpet-cleaning/)
-
-[06/08/23 **Searching for a Boston Franchising Opportunity? Become an…** Oxi Fresh Presents an Exciting Opportunity to Aspiring Boston-Based Entrepreneurs At Oxi Fresh Carpet Cleaning, we’re thrilled to announce our… Oxi Fresh Presents an Exciting Opportunity to Aspiring Boston-Based Entrepreneurs At Oxi Fresh Carpet Cleaning, we’re thrilled to announce our…](https://www.oxifresh.com/carpet-cleaning-blog/searching-for-a-boston-franchising-opportunity-become-an-oxi-fresh-franchisee/)
 
 [VIEW MORE BLOGS](https://www.oxifresh.com/carpet-cleaning-blog)
 
