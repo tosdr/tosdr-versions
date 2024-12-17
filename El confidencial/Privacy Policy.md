@@ -428,6 +428,5 @@ Servicios
 * [Lotería del Niño 2025](https://www.elconfidencial.com/loteria-nino/ "Lotería del Niño 2025")
 * [Comprobar Lotería del Niño 2025](https://www.elconfidencial.com/loteria-nino/comprobar/ "Comprobar Lotería del Niño 2025")
 * [Buscador Lotería del Niño 2025](https://www.elconfidencial.com/loteria-nino/buscador/ "Buscador Lotería del Niño 2025")
-* [Anuncio Lotería Navidad](https://www.elconfidencial.com/loteria-de-navidad/2024-11-14/anuncio-loteria-navidad-2024-directo_4003420/ "Anuncio Lotería Navidad")
 
 © TITANIA COMPAÑÍA EDITORIAL, S.L. 2024. España. Todos los derechos reservados[Condiciones](https://www.elconfidencial.com/politicas-de-privacidad/condiciones/)[Política de Privacidad](https://www.elconfidencial.com/politicas-de-privacidad/privacidad/)[Política de Cookies](https://www.elconfidencial.com/politicas-de-privacidad/cookies/)[Configuración de cookies](javascript:Didomi.preferences.show();)Auditado por GFK[Canal Interno de Información](https://elconfidencial.bizneohr.com/whistleblowing-channel/)[Datos de mercado proporcionados por TradingView](https://es.tradingview.com/)
