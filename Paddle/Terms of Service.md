@@ -1,8 +1,8 @@
 Webinar
 
-Maximize customer retention and LTV after Black Friday
+5 AI Founders, 6 minutes each, $20k cash prize
 
-[Join us live](https://www.paddle.com/events/webinars/how-to-maximize-customer-retention-and-ltv-after-your-black-friday-campaign?utm_medium=website&utm_source=website-banner&utm_campaign=webinars_fy2024_q4_core_post_black_friday_webinar_dec10&utm_content=homepage-banner)
+[Join us live](https://www.paddle.com/events/webinars/paddle-ai-launchpad-demo-day-jan-2025?utm_medium=website&utm_source=website-banner&utm_campaign=webinars_fy2025_q1_core_ai_launchpad_demo_day_jan29&utm_content=homepage-banner)
 
 [![Paddle logo](/_next/static/media/logo-primary.1520b460.svg)](https://www.paddle.com/)
 
