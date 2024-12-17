@@ -119,7 +119,7 @@ Live Chat](https://www.6pm.com/tng/chat.zml)
     * [Tommy Hilfiger](https://www.6pm.com/filters/clothing/CKvXAVoEpwfxJOICAgEL.zso?s=isNew/desc/goLiveDate/desc/recentSalesStyle/desc/)
     * [U.S. POLO ASSN.](https://www.6pm.com/u-s-polo-assn/UgLAF-ICAQo.zso?s=isNew/desc/goLiveDate/desc/recentSalesStyle/desc/)
     
-    [![Shop Dresses](data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=)](https://www.6pm.com/filters/women-dresses/CKvXARDE1wE6BJsNyRXAAQHiAgQBAhgH.zso?s=recentSalesStyle/desc/ "Clothing-dropdown")
+    [![Shop Women's Sneakers](data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=)](https://www.6pm.com/women-sneakers-athletic-shoes/CK_XARC81wHAAQHiAgMBGAI.zso?s=isNew/desc/goLiveDate/desc/recentSalesStyle/desc/ "Clothing-dropdown")
     
 * [Bags](https://www.6pm.com/c/bags)
     
@@ -428,7 +428,6 @@ If you choose to visit 6pm.com, your visit and any dispute over privacy is subje
 * [Mens](https://www.6pm.com/mens)
 * [Kids](https://www.6pm.com/kids)
 * [Brands](https://www.6pm.com/c/brands)
-* [e-Gift Cards](https://www.6pm.com/egiftcard)
 
 ### My Account
 
