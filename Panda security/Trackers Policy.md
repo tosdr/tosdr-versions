@@ -43,15 +43,15 @@ Forgot your customer ID? [Click here](https://webservices.pandasecurity.com/Pass
 
 Renew now
 
-![Panda Security](/rfilescms/Teaser/CAMPAIGNS/xmas_acq_60.webp)
+![Panda Security](/rfilescms/Teaser/CAMPAIGNS/xmas_acq_50.webp)
 
 ### Merry Christmas!
 
-\-60% on all Panda Dome products
+\-50% on all Panda Dome products
 
-\-60%
+\-50%
 
-[Buy](https://www.pandasecurity.com/security-promotion/?campaign=dome2305&coupon=60OFFMULTIP&track=190478)
+[Buy](https://www.pandasecurity.com/security-promotion/?campaign=dome2305&coupon=50OFFMULTIP&track=190478)
 
 * Protection
 * [Panda Dome product range](https://www.pandasecurity.com/en/homeusers/)
