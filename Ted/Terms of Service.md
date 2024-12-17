@@ -90,6 +90,7 @@ Type to search
     * [TED Science Standards](https://www.ted.com/about/our-organization/our-policies-terms/ted-science-standards)
     * [TED Content Guidelines](https://www.ted.com/about/our-organization/our-policies-terms/ted-content-guidelines)
     * [TED’s Safeguarding Policy](https://www.ted.com/about/our-organization/our-policies-terms/ted-safeguarding-policy)
+    * [Code of Conduct](https://conferences.ted.com/code-of-conduct)
 * [Contact us](https://help.ted.com/hc/en-us)
     * [Press and media information](https://www.ted.com/about/our-organization/contact-us/press-and-media-information)
 
