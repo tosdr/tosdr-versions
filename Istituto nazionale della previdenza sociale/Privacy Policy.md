@@ -755,17 +755,15 @@ it
                 * [Legge di Bilancio 2021 i lavoratori](https://www.inps.it/it/it/inps-comunica/dossier/cassa-integrazione-guadagni-per-emergenza-covid-19/cassa-integrazione-guadagni-per-emergenza-covid-19--lavoratori/legge-di-bilancio-2021-i-lavoratori.html)
                 
             
-        * [INPS per tutti](#)
+        * [INPS in rete per l’inclusione](#)
             
-            INPS per tutti
+            INPS in rete per l’inclusione
             
-            * [Esplora INPS per tutti](https://www.inps.it/it/it/inps-comunica/dossier/inps-per-tutti.html)
-            * [INPS per tutti: la strada per l’integrazione](https://www.inps.it/it/it/inps-comunica/dossier/inps-per-tutti/inps-per-tutti--la-strada-per-l-integrazione.html)
-            * [Accordi Quadro](https://www.inps.it/it/it/inps-comunica/dossier/inps-per-tutti/accordi-quadro.html)
-            * [Accordi locali e linee di azione](https://www.inps.it/it/it/inps-comunica/dossier/inps-per-tutti/accordi-locali-e-linee-di-azione.html)
-            * [Monitoraggio](https://www.inps.it/it/it/inps-comunica/dossier/inps-per-tutti/monitoraggio.html)
-            * [Questionario](https://www.inps.it/it/it/inps-comunica/dossier/inps-per-tutti/questionario.html)
-            * [Documenti formativi](https://www.inps.it/it/it/inps-comunica/dossier/inps-per-tutti/documenti-formativi.html)
+            * [Esplora INPS in rete per l’inclusione](https://www.inps.it/it/it/inps-comunica/dossier/inps-in-rete-per-l-inclusione.html)
+            * [INPS in rete per l’inclusione: la strada per l’integrazione](https://www.inps.it/it/it/inps-comunica/dossier/inps-in-rete-per-l-inclusione/inps-in-rete-per-l-inclusione--la-strada-per-l-integrazione.html)
+            * [Accordi quadro](https://www.inps.it/it/it/inps-comunica/dossier/inps-in-rete-per-l-inclusione/accordi-quadro.html)
+            * [Accordi locali e linee di azione](https://www.inps.it/it/it/inps-comunica/dossier/inps-in-rete-per-l-inclusione/accordi-locali-e-linee-di-azione.html)
+            * [Documenti formativi](https://www.inps.it/it/it/inps-comunica/dossier/inps-in-rete-per-l-inclusione/documenti-formativi.html)
             
         * [INPGI passa a INPS](#)
             
@@ -2015,6 +2013,7 @@ P.IVA 02121151001
 
 * [Facebook: Apre una nuova finestra](https://www.facebook.com/INPS.PerLaFamiglia/ "Facebook")
 * [Twitter: Apre una nuova finestra](http://www.twitter.com/Inps_it "Twitter")
+* [Whatsapp: Apre una nuova finestra](https://whatsapp.com/channel/0029VaPPgwX3rZZXc88ZQM34 "Whatsapp")
 * [Youtube: Apre una nuova finestra](https://www.youtube.com/user/INPSComunica "YouTube")
 * [Instagram: Apre una nuova finestra](https://www.instagram.com/inps_social/ "Instagram")
 * [Linkedin: Apre una nuova finestra](https://www.linkedin.com/company/inps-official/ "Linkedin")
