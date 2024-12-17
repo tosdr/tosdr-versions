@@ -422,9 +422,9 @@ Email: [hr.dept@esd112.org](mailto:hr.dept@esd112.org)
 * [League of Education Voters](http://educationvoters.org/)
 * [Register to Vote](https://www.sos.wa.gov/elections/register.aspx)
 
-#### SERVING CHILDREN, SCHOOLS AND THEIR COMMUNITIES FOR 50 YEARS
+#### SERVING CHILDREN, SCHOOLS AND THEIR COMMUNITIES FOR OVER 50 YEARS
 
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)ESD 112 equalizes educational opportunities for learning communities through innovative partnerships, responsive leadership, and exceptional programs.
+![](https://www.esd112.org/wp-content/uploads/favicon-114x114.png)ESD 112 equalizes educational opportunities for learning communities through innovative partnerships, responsive leadership, and exceptional programs.
 
 #### Contact ESD 112
 
