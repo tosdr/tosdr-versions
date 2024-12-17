@@ -143,27 +143,27 @@ Sherman, TX 75090
 Upcoming Events
 ---------------
 
-Dec 12
-
-4:00 pm - 5:30 pm [Event Series](https://tcog.com/series/audit-and-finance-committee/ "Event Series")
-
-### [Audit and Finance Committee](https://tcog.com/event/audit-and-finance-committee-2/2024-12-12/ "Audit and Finance Committee")
-
-Sherman
-
-Dec 12
-
-5:30 pm - 6:00 pm [Event Series](https://tcog.com/series/executive-officers-committee/ "Event Series")
-
-### [Executive Officers Committee](https://tcog.com/event/executive-officers-committee-2-2/2024-12-12/ "Executive Officers Committee")
-
-Sherman
-
 Dec 19
 
 5:30 pm - 7:00 pm [Event Series](https://tcog.com/series/governing-board-meeting-2/ "Event Series")
 
 ### [Governing Board Meeting](https://tcog.com/event/governing-board-meeting-14/ "Governing Board Meeting")
+
+Sherman
+
+Jan 9
+
+4:00 pm - 5:30 pm [Event Series](https://tcog.com/series/audit-and-finance-committee/ "Event Series")
+
+### [Audit and Finance Committee](https://tcog.com/event/audit-and-finance-committee-2/2025-01-09/ "Audit and Finance Committee")
+
+Sherman
+
+Jan 9
+
+5:30 pm - 6:00 pm [Event Series](https://tcog.com/series/executive-officers-committee/ "Event Series")
+
+### [Executive Officers Committee](https://tcog.com/event/executive-officers-committee-2-2/2025-01-09/ "Executive Officers Committee")
 
 Sherman
 
