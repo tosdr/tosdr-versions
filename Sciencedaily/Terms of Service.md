@@ -229,16 +229,16 @@ this hour
 
 * * *
 
+* [New Neurons That Suppress Food Intake](https://www.sciencedaily.com/releases/2024/12/241205143009.htm)
+* [Exoplanet Trappist-1 B: Atmosphere?](https://www.sciencedaily.com/releases/2024/12/241216130034.htm)
+* [Naughty or Nice? Many Parents Rely On Threats](https://www.sciencedaily.com/releases/2024/12/241216130304.htm)
+* [Violence of the Early Bronze Age](https://www.sciencedaily.com/releases/2024/12/241216000434.htm)
 * [Anglerfish's Fishing Rod: Unique Motor Control](https://www.sciencedaily.com/releases/2024/12/241212120224.htm)
 * [Critical Fertilizer Ingredient from Thin Air](https://www.sciencedaily.com/releases/2024/12/241213140619.htm)
 * [Heart of Jovian Moon's Volcanic Rage](https://www.sciencedaily.com/releases/2024/12/241213125505.htm)
 * [Planets Form Through Domino Effect](https://www.sciencedaily.com/releases/2024/12/241213125457.htm)
 * [Intense Gamma-Ray Outburst: Virgo Constellation](https://www.sciencedaily.com/releases/2024/12/241213140634.htm)
 * [Light Shed On the Origin of the Genetic Code](https://www.sciencedaily.com/releases/2024/12/241212190257.htm)
-* [Vastly Improved Carbon Capture Ability](https://www.sciencedaily.com/releases/2024/12/241212150325.htm)
-* [Real-Time Insight On How New Species Form](https://www.sciencedaily.com/releases/2024/12/241212145810.htm)
-* [Air Pollution in India: Millions of Deaths](https://www.sciencedaily.com/releases/2024/12/241211190055.htm)
-* [Overfishing Has Halved Shark and Ray Populations](https://www.sciencedaily.com/releases/2024/12/241212190115.htm)
 
 Trending Topics
 ---------------
@@ -251,25 +251,25 @@ this week
 
 [Prostate Cancer](https://www.sciencedaily.com/news/health_medicine/prostate_cancer/)
 
-[Child Development](https://www.sciencedaily.com/news/mind_brain/child_development/)
+[Lung Cancer](https://www.sciencedaily.com/news/health_medicine/lung_cancer/)
 
-[Hypertension](https://www.sciencedaily.com/news/health_medicine/hypertension/)
+[Medical Devices](https://www.sciencedaily.com/news/health_medicine/medical_devices/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
+
+[Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
 
 [Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
 
 [Optics](https://www.sciencedaily.com/news/matter_energy/nature_of_light/)
 
-[Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
-
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
-
-[Pollution](https://www.sciencedaily.com/news/earth_climate/pollution/)
 
 [Sustainability](https://www.sciencedaily.com/news/earth_climate/sustainability/)
 
-[Air Pollution](https://www.sciencedaily.com/news/earth_climate/air_pollution/)
+[Fish](https://www.sciencedaily.com/news/plants_animals/fish/)
+
+[Marine Biology](https://www.sciencedaily.com/news/plants_animals/marine_biology/)
 
   
 
