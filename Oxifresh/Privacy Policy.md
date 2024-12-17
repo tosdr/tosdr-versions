@@ -216,7 +216,7 @@ Call Now for a FREE Quote! [1-877-OXI-FRESH](tel:18776943737) **OR**
     * [Consideration Request](https://www.oxifresh.com/carpet-cleaning-companies/carpet-cleaning-franchise/considerationrequest/)
 * [Franchisee Login](https://www.oxifresh.com/login/index.html)
 
-![Fast 1 Hour Dry Time Carpet Cleaner](https://www.oxifresh.com/wp-content/themes/oxifresh_alt/images/img-zipbox-1.png)
+![The World's Greenest Carpet Cleaner](https://www.oxifresh.com/wp-content/themes/oxifresh_alt/images/img-zipbox-2.png)
 
 Zip Code  QUOTE & SCHEDULE
 
@@ -386,15 +386,15 @@ What Customers Are Saying
 
 Based on 306,950 Carpet Cleaning Services Reviews
 
-Sara was on time, friendly and worked quickly. Some areas of the carpet do not look as good as I had hoped. I will vacuum them as it was suggested. And perhaps it will look better. **MD.** - Avery, TX - 12/16/2024
-
-(4.5 Out of 5 stars)
-
-Cleveland was awesome!! Very knowledgeable and great personality! Thank you for a great job! We are very happy with the results!! **KH.** - Longwood, FL - 12/15/2024
+I love my clean carpets. Excellent process used by OxiFresh simple and very thorough. I highly recommend **JK.** - Royersford, PA - 12/15/2024
 
 (5.0 Out of 5 stars)
 
-Chou cleaned some of our carpeting this week. He always does a great job for us. The Oxi Fresh system works very well Stains are gone traffic areas are cleaned very well and the carpet is not soaking wet. Carpet is nice and soft. Kathy **KC.** - Grand Rapids, MI - 12/14/2024
+Thorough, professional! Cleaning process doesn’t take long and carpets turn out great! Have used service 3 times and have been very satisfied. **KK.** - Ballston Spa, NY - 12/14/2024
+
+(5.0 Out of 5 stars)
+
+Technician was knowledgeable. Cleaning was exceptional. **CW.** - holden beach , NC - 12/14/2024
 
 (5.0 Out of 5 stars)
 
