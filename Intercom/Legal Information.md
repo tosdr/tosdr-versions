@@ -642,7 +642,6 @@ Sitemap
     * [Convert](https://www.intercom.com/customer-acquisition?on_pageview_event=conversational_marketing_footer)
 * Company Size
     
-    * [Mid-Market / Enterprise](https://www.intercom.com/enterprise?on_pageview_event=enterprise_footer)
     * [Small Business](https://www.intercom.com/small-business?on_pageview_event=small_business_footer)
     * [Early Stage](https://www.intercom.com/early-stage?on_pageview_event=early_stage_footer)
 * Industries
@@ -661,7 +660,6 @@ Sitemap
     * [Inbox](https://www.intercom.com/help-desk/inbox?on_pageview_event=inbox_footer)
     * [Help Center Articles](https://www.intercom.com/articles?on_pageview_event=articles_footer)
     * [Apps + Integrations](https://www.intercom.com/apps-integrations?on_pageview_event=apps_integrations_footer)
-    * [Customer data](https://www.intercom.com/customer-data-platform?on_pageview_event=customer_data_platform_footer)
     * [Live Chat](https://www.intercom.com/live-chat?on_pageview_event=live_chat_footer)
     * [Mobile Apps](https://www.intercom.com/mobile?on_pageview_event=mobile_footer)
     * [Mobile Carousels](https://www.intercom.com/mobile-carousels?on_pageview_event=mobile_carousels_footer)
