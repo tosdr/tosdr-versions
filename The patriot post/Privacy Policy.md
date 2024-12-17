@@ -120,20 +120,20 @@ Last Updated: November 15, 2011.
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34669)
+     [](https://patriotpost.us/cartoons/34675)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
-*      [Mark Alexander The Hysterical Drone Hysterics](https://patriotpost.us/alexander/112849-the-hysterical-drone-hysterics-2024-12-16)
-*      [Gary Bauer Biden Sabotages America](https://patriotpost.us/opinion/112848-biden-sabotages-america-2024-12-16)
-*      [Christine Flowers Fortunate and Happy to Give Address at Naturalization Ceremony](https://patriotpost.us/opinion/112846-fortunate-and-happy-to-give-address-at-naturalization-ceremony-2024-12-16)
-*      [Jeff Jacoby Go Home, Massachusetts Lawmakers](https://patriotpost.us/opinion/112847-go-home-massachusetts-lawmakers-2024-12-16)
-*      [Rich Lowry The Musk Factor](https://patriotpost.us/opinion/112845-the-musk-factor-2024-12-16)
-*      [The Washington Stand Taylor Lorenz, Luigi Mangione, and Post-Christian America’s Bloodlust](https://patriotpost.us/opinion/112844-taylor-lorenz-luigi-mangione-and-post-christian-americas-bloodlust-2024-12-16)
-*      [The Babylon Bee Ray Epps Announces Resignation From FBI](https://patriotpost.us/opinion/112843-ray-epps-announces-resignation-from-fbi-2024-12-16)
-*      [Guest Commentary Congress: Investigate Chinese-Owned Companies for Skirting Trump Trade Rules](https://patriotpost.us/opinion/112821-congress-investigate-chinese-owned-companies-for-skirting-trump-trade-rules-2024-12-16)
+*      [Stephen Moore To Bring Joy to America, End the Weaponization of the IRS](https://patriotpost.us/opinion/112904-to-bring-joy-to-america-end-the-weaponization-of-the-irs-2024-12-17)
+*      [Salena Zito ‘Feast of the Seven Fishes’ Tradition Still Popular for American Italian Households](https://patriotpost.us/opinion/112903-feast-of-the-seven-fishes-tradition-still-popular-for-american-italian-households-2024-12-17)
+*      [Victor Joecks Vaccine Questions Shouldn’t Be Verboten](https://patriotpost.us/opinion/112902-vaccine-questions-shouldnt-be-verboten-2024-12-17)
+*      [Cal Thomas The Worst Transition Ever](https://patriotpost.us/opinion/112901-the-worst-transition-ever-2024-12-17)
+*      [Gary Bauer Drone Drama Continues](https://patriotpost.us/opinion/112900-drone-drama-continues-2024-12-17)
+*      [Daniel McCarthy Fighting Communism After the Cold War](https://patriotpost.us/opinion/112899-fighting-communism-after-the-cold-war-2024-12-17)
+*      [The Washington Stand Blue State Pill Sharks Ship Abortions Across Red State Lines, Triggering Lawsuit](https://patriotpost.us/opinion/112898-blue-state-pill-sharks-ship-abortions-across-red-state-lines-triggering-lawsuit-2024-12-17)
+*      [The Babylon Bee Joe Biden Pardons Wife Jill for Impersonating a Doctor](https://patriotpost.us/opinion/112897-joe-biden-pardons-wife-jill-for-impersonating-a-doctor-2024-12-17)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -147,11 +147,15 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J82YASE4QNMY5QGPJZ5PECFM.jpeg)](https://patriotpostshop.com/collections/founders-wisdom-coffee)
+[Wear Your Patriotism on Your Sleeve
+
+ 
+
+Shop Now](https://patriotpostshop.com/)
 
 ### The Foundation
 
-“If there is a form of government, then, whose principle and foundation is virtue, will not every sober man acknowledge it better calculated to promote the general happiness than any other form?” —John Adams (1776)
+“It should be your care, therefore, and mine, to elevate the minds of our children and exalt their courage; to accelerate and animate their industry and activity; to excite in them an habitual contempt of meanness, abhorrence of injustice and inhumanity, and an ambition to excel in every capacity, faculty, and virtue. If we suffer their minds to grovel and creep in infancy, they will grovel all their lives.” —John Adams (1756)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
