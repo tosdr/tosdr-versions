@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-The service worked fine, great concept. Just less personal time to use it as I intended. (TV viewing).
+I’ve always been very happy with the service.
 
-Jim D
+Craig
