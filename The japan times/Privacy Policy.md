@@ -567,23 +567,17 @@ Latest News
 
 [Whaling activist freed after Denmark rejects Japan extradition](https://www.japantimes.co.jp/news/2024/12/17/japan/whaling-activist-denmark-free/ "Whaling activist freed after Denmark rejects Japan extradition")
 
-4 hours ago
+10 hours ago
 
 [Japan enacts ¥13.9 trillion extra budget for fiscal 2024](https://www.japantimes.co.jp/news/2024/12/17/japan/japan-budget-ishiba-policy/ "Japan enacts ¥13.9 trillion extra budget for fiscal 2024")
 
-4 hours ago
+10 hours ago
 
 [Bill to abolish funds for political activities clears Lower House](https://www.japantimes.co.jp/news/2024/12/17/japan/politics/political-funds-legislation/ "Bill to abolish funds for political activities clears Lower House")
 
-6 hours ago
-
 [Major quake crushes buildings in Vanuatu capital, bodies seen](https://www.japantimes.co.jp/news/2024/12/17/asia-pacific/vanuatu-earthquake/ "Major quake crushes buildings in Vanuatu capital, bodies seen")
 
-6 hours ago
-
 [Taiwan’s bullet train a testament to shinkansen’s export potential](https://www.japantimes.co.jp/business/2024/12/17/taiwan-hsr-shinkansen/ "Taiwan’s bullet train a testament to shinkansen’s export potential")
-
-6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
