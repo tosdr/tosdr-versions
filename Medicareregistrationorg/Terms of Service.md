@@ -2,10 +2,6 @@ Medicare-Registration.org is an independent health insurance broker and is not a
 
  [![Medicare-Registration.org](//cdn.medicare-registration.org/img/v2/logo-refresh.svg)](https://www.medicare-registration.org/)Powered by QuoteLab. No Government or CMS Affiliation.
 
-Speak with a Licensed Insurance Agent: [1 (844) 938-0228 TTY users 711](tel:(844) 938-0228)
-
-**Hours:** 8am - 8pm, 7 days a week
-
 You May Be Eligible for Low or $0 Premium Medicare Advantage Plans
 ==================================================================
 
@@ -20,13 +16,6 @@ Still looking for rates? Medicare-Registration.org, a licensed health insurance 
 [Get Started](https://www.medicare-registration.org/quotes.html)
 
 Want to see other companies’ rates? Check out these insurers that serve your area:
-
-Speak to a Licensed Agent:
-
-[(844) 938-0228](tel:(844) 938-0228)  
-TTY users 711  
-**Hours:** 8am - 8pm,  
-7 days a week
 
 QuoteLab, LLC
 
