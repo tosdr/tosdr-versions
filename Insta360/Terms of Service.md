@@ -46,11 +46,15 @@ Comparison
 
 Professional VR Cameras
 
-[Insta360 Pro 2](https://www.insta360.com/product/insta360-pro2/)[Insta360 TITAN](https://www.insta360.com/product/insta360-titan/)[Insta360 Pro](https://www.insta360.com/product/insta360-pro/)[Accessories](https://www.insta360.com/shop/pro2)
+[Insta360 Pro 2](https://www.insta360.com/product/insta360-pro2/)[Insta360 TITAN](https://www.insta360.com/product/insta360-titan/)[Insta360 Pro](https://www.insta360.com/product/insta360-pro/)
 
 Conferencing
 
 [Insta360 Connect](https://www.insta360.com/product/insta360-connect/)
+
+Accessories
+
+[Accessories](https://www.insta360.com/shop/pro2)
 
 Industries
 
@@ -411,34 +415,12 @@ No
 * [Insta360 GO 3S & Insta360 GO 3](https://www.insta360.com/product/insta360-go3s)
 * [Insta360 ONE RS](https://www.insta360.com/product/insta360-oners)
 * [Insta360 Flow Pro & Insta360 Flow](https://www.insta360.com/product/insta360-flow-pro)
+
+### Conferencing
+
 * [Insta360 Link 2 & Insta360 Link 2C](https://www.insta360.com/product/insta360-link2)
-
-### Support
-
-* [Product Support](https://www.insta360.com/support/product-support)
-* [Repair Service](https://www.insta360.com/support/workorder)
-* [After-Sales Policy](https://www.insta360.com/support/aftersales?name=repair)
-* [Insta360 Care Service](https://www.insta360.com/support/care_warranty)
-* [Downloads](https://www.insta360.com/download)
-
-### About us
-
-* [About Insta360](https://www.insta360.com/about)
-* [Press](https://www.insta360.com/press)
-* [Insta360 Blog](https://www.insta360.com/blog)
-* [Awards](https://www.insta360.com/awards/about)
-* [Insta360 Think Bold Fund](https://www.insta360.com/ThinkBoldFund)
-* [Join Us](https://www.insta360.com/jobs)
-* [Community Forum](https://forums.insta360.com/)
-
-### Partners
-
-* [Contact Us](https://www.insta360.com/contact)
-* [Become an Affiliate](https://store.insta360.com/reseller/intro)
-* [Become a Rising Talent](https://www.insta360.com/rising-talents)
-* [Become a Reseller](https://www.insta360.com/reseller_application)
-* [SDK Application](https://www.insta360.com/sdk/home)
-* [Enterprise](https://www.insta360.com/enterprise)
+* [Insta360 Link](https://www.insta360.com/product/insta360-link)
+* [Insta360 Connect](https://www.insta360.com/product/insta360-connect/)
 
 ### Professional
 
@@ -450,6 +432,33 @@ No
 
 * [Online Stores](https://www.insta360.com/support/buy)
 * [Retail Stores](https://www.insta360.com/support/buy-map)
+
+### Support
+
+* [Product Support](https://www.insta360.com/support/product-support)
+* [Repair Service](https://www.insta360.com/support/workorder)
+* [After-Sales Policy](https://www.insta360.com/support/aftersales?name=repair)
+* [Insta360 Care Service](https://www.insta360.com/support/care_warranty)
+* [Downloads](https://www.insta360.com/download)
+
+### Partners
+
+* [Contact Us](https://www.insta360.com/contact)
+* [Become an Affiliate](https://store.insta360.com/reseller/intro)
+* [Become a Rising Talent](https://www.insta360.com/rising-talents)
+* [Become a Reseller](https://www.insta360.com/reseller_application)
+* [SDK Application](https://www.insta360.com/sdk/home)
+* [Enterprise](https://www.insta360.com/enterprise)
+
+### About us
+
+* [About Insta360](https://www.insta360.com/about)
+* [Press](https://www.insta360.com/press)
+* [Insta360 Blog](https://www.insta360.com/blog)
+* [Awards](https://www.insta360.com/awards/about)
+* [Insta360 Think Bold Fund](https://www.insta360.com/ThinkBoldFund)
+* [Join Us](https://www.insta360.com/jobs)
+* [Community Forum](https://forums.insta360.com/)
 
 ### Subscribe
 
