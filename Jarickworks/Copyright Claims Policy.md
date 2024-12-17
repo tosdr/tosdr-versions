@@ -85,7 +85,7 @@ Designing where you want to go today
 
 [Donate](#donate)
 
-[![freeblr limited government minarchism versus anarchism](/freeblr/limited-government/minarchism-versus-anarchism/card.svg)](https://jarick.works/freeblr/limited-government/minarchism-versus-anarchism)[![freeblr ethics liberty as a lack of unchosen positive obligations](/freeblr/ethics/liberty-as-a-lack-of-unchosen-positive-obligations/card.svg)](https://jarick.works/freeblr/ethics/liberty-as-a-lack-of-unchosen-positive-obligations)[![freeblr human nature you dont own other people](/freeblr/human-nature/you-dont-own-other-people/card.svg)](https://jarick.works/freeblr/human-nature/you-dont-own-other-people)[![freeblr money what determines the value of money](/freeblr/money/what-determines-the-value-of-money/card.svg)](https://jarick.works/freeblr/money/what-determines-the-value-of-money)
+[![freeblr justice intellectual property without legislation](/freeblr/justice/intellectual-property-without-legislation/card.svg)](https://jarick.works/freeblr/justice/intellectual-property-without-legislation)[![freeblr education education in colonial america](/freeblr/education/education-in-colonial-america/card.svg)](https://jarick.works/freeblr/education/education-in-colonial-america)[![freeblr health coverage but not care](/freeblr/health/coverage-but-not-care/card.svg)](https://jarick.works/freeblr/health/coverage-but-not-care)[![freeblr government the state human parasite](/freeblr/government/the-state-human-parasite/card.svg)](https://jarick.works/freeblr/government/the-state-human-parasite)
 
 [Follow](#follow)
 
