@@ -240,16 +240,18 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-![Free for Open Source Projects](/content/images/content/strip/IDN.png)
+### Get connected with us!
 
   
+Keep updated with related news and offers.
+
   
 
-### DNS for IDNs is fully supported
-
-If you are looking for a DNS provider for an International Domain Name, you are welcome here.  
   
-[Get Started](https://www.dynu.com/ControlPanel/AddDDNS)
+
+[Follow @DynuSystems](https://twitter.com/DynuSystems)
+
+  
 
 ### News
 
