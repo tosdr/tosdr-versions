@@ -75,7 +75,7 @@ Follow Us!
 
 [9,100](https://www.facebook.com/myabandonware "Like our page on Facebook") [Like](https://www.facebook.com/myabandonware "Like our page on Facebook")
 
-[9,950](https://x.com/myabandonware "Follow us on X") [Follow](https://x.com/myabandonware "Follow us on X")
+[10,200](https://x.com/myabandonware "Follow us on X") [Follow](https://x.com/myabandonware "Follow us on X")
 
 [300](https://bsky.app/profile/myabandonware.bsky.social "Follow us on BlueSky") [Follow](https://bsky.app/profile/myabandonware.bsky.social "Follow us on BlueSky")
 
