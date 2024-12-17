@@ -13,8 +13,6 @@
 * [Blog](https://www.24metrics.com/blog/)
 * [Contact](https://www.24metrics.com/contact/)
 
-Menu
-
 * Solutions
     * [Click Screening](https://www.24metrics.com/adsecurity/)
     * [Conversion Screening](https://www.24metrics.com/adsecurity/)
