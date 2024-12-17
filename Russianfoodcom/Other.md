@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_4.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_3.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,7 +148,12 @@
 
 Сейчас читают
 
-* [Салат из колбасы](https://www.russianfood.com/recipes/recipe.php?rid=17425)
+* [Куриные рулетики с картошкой, огурцами и луком](https://www.russianfood.com/recipes/recipe.php?rid=174939)
+* [Блины из шпината с фетой](https://www.russianfood.com/recipes/recipe.php?rid=173606)
+* [Профитроли с творожно-йогуртовым кремом](https://www.russianfood.com/recipes/recipe.php?rid=172827)
+* [Свинина с картофелем, запечённые в тыкве](https://www.russianfood.com/recipes/recipe.php?rid=175120)
+* [Картофельный киш с ветчиной и сыром в сливочной заливке](https://www.russianfood.com/recipes/recipe.php?rid=175094)
+* [Красная (черная) фасоль с рисом](https://www.russianfood.com/recipes/recipe.php?rid=20860)
 
 |     |
 | --- |
@@ -170,6 +175,104 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Картофельный киш с ветчиной и сыром в сливочной заливке](https://www.russianfood.com/recipes/recipe.php?rid=175094) |     |
+
+[![Фото к рецепту: Картофельный киш с ветчиной и сыром в сливочной заливке](//img1.russianfood.com/dycontent/images_upl/760/sm_759976.jpg "Фото к рецепту: Картофельный киш с ветчиной и сыром в сливочной заливке")](https://www.russianfood.com/recipes/recipe.php?rid=175094)
+
+Обычно киш готовится из песочного теста. В этом рецепте в качестве основы используется отварной картофель и твёрдый сыр. Внутри такого "пирога" - ветчина и сулугуни в яично-сливочной заливке с крем-сыром. Сырная корочка сверху добавит "тесту" аппетитности и многократно умножит желание съесть этот пирог.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=175094)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Воскресное блюдоедство](https://www.russianfood.com/blogs/?id=421071) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175094#comments) | 18.12.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Свинина с картофелем, запечённые в тыкве](https://www.russianfood.com/recipes/recipe.php?rid=175120) |     |
+
+[![Фото к рецепту: Свинина с картофелем, запечённые в тыкве](//img1.russianfood.com/dycontent/images_upl/761/sm_760933.jpg "Фото к рецепту: Свинина с картофелем, запечённые в тыкве")](https://www.russianfood.com/recipes/recipe.php?rid=175120)
+
+В данном случае блюдо получается не только вкусным и эффектным, но и удобным в приготовлении. Тыква служит своеобразным горшочком, в котором запекается мясо с картошкой.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=175120)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Воскресное блюдоедство](https://www.russianfood.com/blogs/?id=421071) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175120#comments) | 17.12.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Капуста, тушенная с беконом, грибами и клюквой](https://www.russianfood.com/recipes/recipe.php?rid=175135) |     |
+
+[![Фото к рецепту: Капуста, тушенная с беконом, грибами и клюквой](//img1.russianfood.com/dycontent/images_upl/761/sm_760274.jpg "Фото к рецепту: Капуста, тушенная с беконом, грибами и клюквой")](https://www.russianfood.com/recipes/recipe.php?rid=175135)
+
+Капуста, тушенная с беконом, грибами и клюквой, — сочное и яркое блюдо. Капуста прекрасно сочетается с копчёными нотками бекона, ароматом грибов и лёгкой кислинкой клюквы. Простой алгоритм действий приведёт к аппетитному результату.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=175135)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Воскресное блюдоедство](https://www.russianfood.com/blogs/?id=421071) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175135#comments) | 17.12.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Рыба, запечённая в сметанном соусе с овощами](https://www.russianfood.com/recipes/recipe.php?rid=175142) |     |
+
+[![Фото к рецепту: Рыба, запечённая в сметанном соусе с овощами](//img1.russianfood.com/dycontent/images_upl/761/sm_760409.jpg "Фото к рецепту: Рыба, запечённая в сметанном соусе с овощами")](https://www.russianfood.com/recipes/recipe.php?rid=175142)
+
+Если вы хотели полюбить рыбу, вот вам интересный способ это сделать. Коллекция пряностей, кукурузная панировка и обилие масла при обжарке создают аппетитную корочку на каждом кусочке. Запекание под нежным сметанным соусом с овощами доведёт блюдо до идеала. Довольно просто и крайне вкусно!
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=175142)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Воскресное блюдоедство](https://www.russianfood.com/blogs/?id=421071) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175142#comments) | 17.12.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Пельмени с рыбой и салом](https://www.russianfood.com/recipes/recipe.php?rid=175145) |     |
+
+[![Фото к рецепту: Пельмени с рыбой и салом](//img1.russianfood.com/dycontent/images_upl/761/sm_760453.jpg "Фото к рецепту: Пельмени с рыбой и салом")](https://www.russianfood.com/recipes/recipe.php?rid=175145)
+
+Эти пельмени – кулинарная загадка! На вкус милые мешочки с фаршем очень напоминают курицу. Нежное филе речной рыбы становится ещё деликатнее и сочнее, если добавить немного сала. Минимальный набор пряностей позволит наслаждаться натуральным вкусом блюда.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=175145)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Воскресное блюдоедство](https://www.russianfood.com/blogs/?id=421071) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175145#comments) | 17.12.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Куриные сердечки, тушенные с гречкой (в казанке)](https://www.russianfood.com/recipes/recipe.php?rid=175136) |     |
+
+[![Фото к рецепту: Куриные сердечки, тушенные с гречкой (в казанке)](//img1.russianfood.com/dycontent/images_upl/761/sm_760323.jpg "Фото к рецепту: Куриные сердечки, тушенные с гречкой (в казанке)")](https://www.russianfood.com/recipes/recipe.php?rid=175136)
+
+Бюджетное блюдо с минимумом продуктов может быть очень вкусным. Рассыпчатая крупа, питательные кусочки птицы рады видеть на домашнем столу. Куриные сердечки, тушенные с гречкой (в казанке), сможет приготовить даже начинающий кулинар.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=175136)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Воскресное блюдоедство](https://www.russianfood.com/blogs/?id=421071) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175136#comments) | 17.12.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты › [Новогодние рецепты на новогодний стол 2025 - год Змеи](https://www.russianfood.com/themes/?theme_id=30)<br><br>[Салат оливье на Новый год Змеи](https://www.russianfood.com/recipes/recipe.php?rid=175012) |     |
+
+[![Фото к рецепту: Салат оливье на Новый год Змеи](//img1.russianfood.com/dycontent/images_upl/758/sm_757042.jpg "Фото к рецепту: Салат оливье на Новый год Змеи")](https://www.russianfood.com/recipes/recipe.php?rid=175012)
+
+Новогодний салат оливье, оформленный в виде Змеи – символа 2025 года, – создаст замечательное праздничное настроение. Оливье готовится с варёной колбасой и с добавлением зелёного лука. Украшается салат преимущественно маринованными огурцами.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=175012)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [КомуДобавки](https://www.russianfood.com/blogs/?id=310652) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175012#comments) | 17.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -225,7 +328,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175123#comments) | 17.12.24 |     |
+|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175123#comments) | 17.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -247,7 +350,7 @@
 
 [![Фото к рецепту: Песочно-дрожжевое тесто](//img1.russianfood.com/dycontent/images_upl/762/sm_761124.jpg "Фото к рецепту: Песочно-дрожжевое тесто")](https://www.russianfood.com/recipes/recipe.php?rid=175171)
 
-Подробное приготовление сдобного песочно-дрожжевого теста. Тесто великолепное – нежное, воздушное, готовится очень просто! Выпечка из него долго не черствеет, в течение нескольких дней остаётся свежей и вкусной. Очень рекомендую вам сделать это тесто хотя бы один раз, и я уверена, что рецепт приживется во многих семьях.
+Сдобное песочно-дрожжевое тесто великолепное – нежное, воздушное, готовится очень просто! Выпечка из него долго не черствеет, в течение нескольких дней остаётся свежей и вкусной. Очень рекомендую вам сделать это тесто хотя бы один раз, и я уверена, что рецепт приживется в вашей семье.
 
 [Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=175171)  
 
@@ -267,7 +370,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175075#comments) | 16.12.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175075#comments) | 16.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -281,105 +384,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175102#comments) | 16.12.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Запечённая цветная капуста с чесноком и соевым соусом](https://www.russianfood.com/recipes/recipe.php?rid=174549) |     |
-
-[![Фото к рецепту: Запечённая цветная капуста с чесноком и соевым соусом](//img1.russianfood.com/dycontent/images_upl/760/sm_759747.jpg "Фото к рецепту: Запечённая цветная капуста с чесноком и соевым соусом")](https://www.russianfood.com/recipes/recipe.php?rid=174549)
-
-Запечённая целая цветная капуста и выглядит эффектно, и готовится просто. А неповторимый вкус и цвет придаст капусте соус на основе паприки, чеснока и соевого соуса.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174549)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174549#comments) | 16.12.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Бефстроганов классический](https://www.russianfood.com/recipes/recipe.php?rid=175103) |     |
-
-[![Фото к рецепту: Бефстроганов классический](//img1.russianfood.com/dycontent/images_upl/760/sm_759244.jpg "Фото к рецепту: Бефстроганов классический")](https://www.russianfood.com/recipes/recipe.php?rid=175103)
-
-Классика, которая не стареет. Кусочки говядины обжариваются, тушатся с луком, а затем - в сметанном соусе. Подаётся бефстроганов традиционно с картофелем.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=175103)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175103#comments) | 16.12.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Хе из куриных желудков по-корейски](https://www.russianfood.com/recipes/recipe.php?rid=174943) |     |
-
-[![Фото к рецепту: Хе из куриных желудков по-корейски](//img1.russianfood.com/dycontent/images_upl/756/sm_755550.jpg "Фото к рецепту: Хе из куриных желудков по-корейски")](https://www.russianfood.com/recipes/recipe.php?rid=174943)
-
-Корейская овощная закуска с куриными желудками. Хе из куриных желудков по-корейски — это яркое и пикантное блюдо, в котором куриные желудки становятся основой для гармоничного сочетания острых, солёных и кисловатых вкусов. С добавлением чеснока, уксуса, соевого соуса, сахара и специй, такое хе получается очень насыщенным и ароматным.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174943)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174943#comments) | 16.12.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты › [Курица - любовь моя](https://www.russianfood.com/themes/?theme_id=9)<br><br>[Рубленые куриные котлеты (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=174314) |     |
-
-[![Фото к рецепту: Рубленые куриные котлеты (в духовке)](//img1.russianfood.com/dycontent/images_upl/759/sm_758101.jpg "Фото к рецепту: Рубленые куриные котлеты (в духовке)")](https://www.russianfood.com/recipes/recipe.php?rid=174314)
-
-Нежные котлеты из рубленого куриного филе, дополненные для сочности луком и сметаной. Манная крупа и яйцо скрепляют все ингредиенты. Котлеты получаются не такими румяными, как на сковороде, но более полезными – ведь готовятся они в духовке.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174314)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174314#comments) | 16.12.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Песочный пирог со сливами и сметанной заливкой](https://www.russianfood.com/recipes/recipe.php?rid=174028) |     |
-
-[![Фото к рецепту: Песочный пирог со сливами и сметанной заливкой](//img1.russianfood.com/dycontent/images_upl/743/sm_742568.jpg "Фото к рецепту: Песочный пирог со сливами и сметанной заливкой")](https://www.russianfood.com/recipes/recipe.php?rid=174028)
-
-Невероятный аромат лета в каждом кусочке! Хрустящее песочное тесто идеально сочетается с сочной сливовой начинкой и нежной сметанной заливкой, создавая гармонию вкуса и текстуры. Приготовление пирога не вызовет сложностей, зато такое угощение можно подать даже к праздничному столу.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174028)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [ДЕСЕРТация](https://www.russianfood.com/blogs/?id=421376) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174028#comments) | 16.12.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Шоколадное печенье с фисташками](https://www.russianfood.com/recipes/recipe.php?rid=174171) |     |
-
-[![Фото к рецепту: Шоколадное печенье с фисташками](//img1.russianfood.com/dycontent/images_upl/745/sm_744312.jpg "Фото к рецепту: Шоколадное печенье с фисташками")](https://www.russianfood.com/recipes/recipe.php?rid=174171)
-
-В этом печенье идеально сочетается насыщенный вкус шоколада и хрустящие фисташки. Тесто замешивается на основе яиц и растопленного чёрного шоколада со сливочным маслом. Для дополнительного аромата добавляется коньяк. Орехи не вмешиваются в тесто, а распределяются по поверхности печенья перед выпечкой.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174171)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [ДЕСЕРТация](https://www.russianfood.com/blogs/?id=421376) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174171#comments) | 16.12.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Кукурузное печенье с грушей и овсяными хлопьями](https://www.russianfood.com/recipes/recipe.php?rid=174462) |     |
-
-[![Фото к рецепту: Кукурузное печенье с грушей и овсяными хлопьями](//img1.russianfood.com/dycontent/images_upl/757/sm_756528.jpg "Фото к рецепту: Кукурузное печенье с грушей и овсяными хлопьями")](https://www.russianfood.com/recipes/recipe.php?rid=174462)
-
-Печенье с грушей и овсяными хлопьями обладает насыщенным ароматом и интересной текстурой. Для теста используется два вида муки: пшеничная и кукурузная. Сочетание сочных груш, питательных овсяных хлопьев и ароматной корицы создаёт великолепное вкусовое сочетание, которое придаст уюта любому домашнему чаепитию.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174462)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [ДЕСЕРТация](https://www.russianfood.com/blogs/?id=421376) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174462#comments) | 16.12.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_5 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175102#comments) | 16.12.24 |     |
 
 |     |
 | --- |
@@ -452,10 +457,10 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/757/alt1_756528.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174462) | [![](//img1.russianfood.com/dycontent/images_upl/757/alt1_756493.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174438) | [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760735.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174937) | [![](//img1.russianfood.com/dycontent/images_upl/755/alt1_754714.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174058) | [![](//img1.russianfood.com/dycontent/images_upl/760/alt1_759244.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175103) | [![](//img1.russianfood.com/dycontent/images_upl/743/alt1_742568.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174028) | [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744312.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174171) |
-| [Кукурузное печенье с грушей и овсяными хлопьями](https://www.russianfood.com/recipes/recipe.php?rid=174462) | [Слоёный салат с куриной печенью, рисом и жареным луком](https://www.russianfood.com/recipes/recipe.php?rid=174438) | [Творожная запеканка с айвой](https://www.russianfood.com/recipes/recipe.php?rid=174937) | [Овощной салат с грибами, кукурузой, оливками и моцареллой](https://www.russianfood.com/recipes/recipe.php?rid=174058) | [Бефстроганов классический](https://www.russianfood.com/recipes/recipe.php?rid=175103) | [Песочный пирог со сливами и сметанной заливкой](https://www.russianfood.com/recipes/recipe.php?rid=174028) | [Шоколадное печенье с фисташками](https://www.russianfood.com/recipes/recipe.php?rid=174171) |
-| [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760696.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174932) | [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760758.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175155) | [![](//img1.russianfood.com/dycontent/images_upl/756/alt1_755550.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174943) | [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760403.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174580) | [![](//img1.russianfood.com/dycontent/images_upl/753/alt1_752882.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174192) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758101.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174314) | [![](//img1.russianfood.com/dycontent/images_upl/760/alt1_759747.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174549) |
-| [Слойки с клюквой и бананом](https://www.russianfood.com/recipes/recipe.php?rid=174932) | [Салат с ананасом, курицей, сыром и чесноком](https://www.russianfood.com/recipes/recipe.php?rid=175155) | [Хе из куриных желудков по-корейски](https://www.russianfood.com/recipes/recipe.php?rid=174943) | [Салат с ветчиной, грейпфрутом и апельсином](https://www.russianfood.com/recipes/recipe.php?rid=174580) | [Салат с ветчиной, сельдереем, кукурузой, сыром и перцем](https://www.russianfood.com/recipes/recipe.php?rid=174192) | [Рубленые куриные котлеты (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=174314) | [Запечённая цветная капуста с чесноком и соевым соусом](https://www.russianfood.com/recipes/recipe.php?rid=174549) |
+| [![](//img1.russianfood.com/dycontent/images_upl/760/alt1_759594.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175123) | [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744312.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174171) | [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760323.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175136) | [![](//img1.russianfood.com/dycontent/images_upl/760/alt1_759247.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175075) | [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760696.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174932) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758101.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174314) | [![](//img1.russianfood.com/dycontent/images_upl/760/alt1_759747.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174549) |
+| [Гречка по-купечески, с фаршем](https://www.russianfood.com/recipes/recipe.php?rid=175123) | [Шоколадное печенье с фисташками](https://www.russianfood.com/recipes/recipe.php?rid=174171) | [Куриные сердечки, тушенные с гречкой (в казанке)](https://www.russianfood.com/recipes/recipe.php?rid=175136) | [Шарлотка с яблоками, на сковороде](https://www.russianfood.com/recipes/recipe.php?rid=175075) | [Слойки с клюквой и бананом](https://www.russianfood.com/recipes/recipe.php?rid=174932) | [Рубленые куриные котлеты (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=174314) | [Запечённая цветная капуста с чесноком и соевым соусом](https://www.russianfood.com/recipes/recipe.php?rid=174549) |
+| [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760274.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175135) | [![](//img1.russianfood.com/dycontent/images_upl/760/alt1_759976.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175094) | [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760453.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175145) | [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760933.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175120) | [![](//img1.russianfood.com/dycontent/images_upl/760/alt1_759698.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175102) | [![](//img1.russianfood.com/dycontent/images_upl/757/alt1_756528.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174462) | [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760409.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175142) |
+| [Капуста, тушенная с беконом, грибами и клюквой](https://www.russianfood.com/recipes/recipe.php?rid=175135) | [Картофельный киш с ветчиной и сыром в сливочной заливке](https://www.russianfood.com/recipes/recipe.php?rid=175094) | [Пельмени с рыбой и салом](https://www.russianfood.com/recipes/recipe.php?rid=175145) | [Свинина с картофелем, запечённые в тыкве](https://www.russianfood.com/recipes/recipe.php?rid=175120) | [Рулетики из пекинской капусты с грибами и овощами](https://www.russianfood.com/recipes/recipe.php?rid=175102) | [Кукурузное печенье с грушей и овсяными хлопьями](https://www.russianfood.com/recipes/recipe.php?rid=174462) | [Рыба, запечённая в сметанном соусе с овощами](https://www.russianfood.com/recipes/recipe.php?rid=175142) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -472,4 +477,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(132)
+(106)
