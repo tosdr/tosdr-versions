@@ -107,7 +107,7 @@
 来这里看看
 -----
 
-[![魔多AI - 领先的AI创作者社区 - 厚德云](https://www.appinn.com/wp-content/uploads/2024/11/upyun521731923335.avif)](https://club.houdeyun.cn/article/864691128455495698/?from=appinn.com)
+[![魔多AI - 领先的AI创作者社区 - 厚德云](https://do-cdn.appinn.com/static3/images/2024/12/541734420623.avif)](https://www.upyun.com/cdnActivity)
 
 2023年度 TOP 榜单
 -------------
