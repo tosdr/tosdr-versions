@@ -85,7 +85,7 @@ Designing where you want to go today
 
 [Donate](#donate)
 
-[![freeblr justice intellectual property without legislation](/freeblr/justice/intellectual-property-without-legislation/card.svg)](https://jarick.works/freeblr/justice/intellectual-property-without-legislation)[![freeblr education education in colonial america](/freeblr/education/education-in-colonial-america/card.svg)](https://jarick.works/freeblr/education/education-in-colonial-america)[![freeblr health coverage but not care](/freeblr/health/coverage-but-not-care/card.svg)](https://jarick.works/freeblr/health/coverage-but-not-care)[![freeblr government the state human parasite](/freeblr/government/the-state-human-parasite/card.svg)](https://jarick.works/freeblr/government/the-state-human-parasite)
+[![freeblr limited government minarchism versus anarchism](/freeblr/limited-government/minarchism-versus-anarchism/card.svg)](https://jarick.works/freeblr/limited-government/minarchism-versus-anarchism)[![freeblr taxation tax is theft](/freeblr/taxation/tax-is-theft/card.svg)](https://jarick.works/freeblr/taxation/tax-is-theft)[![freeblr market i pencil](/freeblr/market/i-pencil/card.svg)](https://jarick.works/freeblr/market/i-pencil)[![freeblr justice pursuing justice in a free society](/freeblr/justice/pursuing-justice-in-a-free-society/card.svg)](https://jarick.works/freeblr/justice/pursuing-justice-in-a-free-society)
 
 [Follow](#follow)
 
