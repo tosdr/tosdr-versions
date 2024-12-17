@@ -24,7 +24,7 @@ About us
 
 For clients
 
-[Courses and certifications](https://www.fundapps.co/courses-and-certifications)[Here to solve your needs](https://www.fundapps.co/here-to-solve-your-needs)[FundApps Community & GCD](https://www.fundapps.co/community)[Support](https://support.fundapps.co/hc/en-us)
+[Courses and certifications](https://www.fundapps.co/courses-and-certifications)[Here to solve your needs](https://www.fundapps.co/here-to-solve-your-needs)[FundApps Community & GCD](https://www.fundapps.co/community)[Support](https://support.fundapps.co/)
 
 Resources
 
