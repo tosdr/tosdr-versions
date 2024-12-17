@@ -1894,7 +1894,7 @@
             * [ ]  [Developer Advocacy](https://handbook.gitlab.com/handbook/marketing/developer-relations/developer-advocacy/)
                 * [ ]  [Community Newsletter](https://handbook.gitlab.com/handbook/marketing/developer-relations/developer-advocacy/community-newsletter/)
                 * [ ]  [Consultancy workflows for Developer Advocates](https://handbook.gitlab.com/handbook/marketing/developer-relations/developer-advocacy/consultancy/)
-                * [ ]  [Content workflows for Developer Advocates](https://handbook.gitlab.com/handbook/marketing/developer-relations/developer-advocacy/content/)
+                * [ ]  [Content library and workflows for Developer Advocates](https://handbook.gitlab.com/handbook/marketing/developer-relations/developer-advocacy/content/)
                 * [ ]  [Developer Advocacy CFPs](https://handbook.gitlab.com/handbook/marketing/developer-relations/developer-advocacy/cfps/)
                 * [ ]  [Developer Advocacy Community Response Process](https://handbook.gitlab.com/handbook/marketing/developer-relations/developer-advocacy/community-response/)
                 * [ ]  [Developer Advocacy on Social Media](https://handbook.gitlab.com/handbook/marketing/developer-relations/developer-advocacy/social-media/)
