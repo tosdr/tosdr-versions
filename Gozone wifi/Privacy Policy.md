@@ -2,7 +2,7 @@
 
 [![](https://www.gozonewifi.com/wp-content/uploads/gozone_logo-250.png)](https://www.gozonewifi.com/)
 
-Search  Search
+Search 
 
 [Get Started Free](https://www.gozonewifi.com/plans/)
 
@@ -46,8 +46,6 @@ Search  Search
     * [Marketing4WiFi](https://dashboard.gozonewifi.com/login.php)
     * [Analytics4WiFi](https://dashboard.analytics4wifi.com/en/login)
     * [Ads4WiFi](https://dashboard.ads4wifi.com/login)
-
-Menu
 
 * [Platforms](https://www.gozonewifi.com/smart-wifi-solutions/)
     * [Marketing4WiFi](https://www.gozonewifi.com/marketing4wifi/)
