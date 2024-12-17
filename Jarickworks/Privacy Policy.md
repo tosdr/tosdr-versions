@@ -156,7 +156,7 @@ Designing where you want to go today
 
 [Donate](#donate)
 
-[![freeblr economics kill private capital kill civilisation](/freeblr/economics/kill-private-capital-kill-civilisation/card.svg)](https://jarick.works/freeblr/economics/kill-private-capital-kill-civilisation)[![freeblr human nature freedom liberty peace happiness and prosperity](/freeblr/human-nature/freedom-liberty-peace-happiness-and-prosperity/card.svg)](https://jarick.works/freeblr/human-nature/freedom-liberty-peace-happiness-and-prosperity)[![freeblr faq what justifications are there for anarcho capitalism](/freeblr/faq/what-justifications-are-there-for-anarcho-capitalism/card.svg)](https://jarick.works/freeblr/faq/what-justifications-are-there-for-anarcho-capitalism)[![freeblr government the state a review](/freeblr/government/the-state-a-review/card.svg)](https://jarick.works/freeblr/government/the-state-a-review)
+[![freeblr market markets and freedom](/freeblr/market/markets-and-freedom/card.svg)](https://jarick.works/freeblr/market/markets-and-freedom)[![beagle productivity](/beagle/productivity/card.svg)](https://jarick.works/beagle/productivity)[![freeblr government what are the myths of statism](/freeblr/government/what-are-the-myths-of-statism/card.svg)](https://jarick.works/freeblr/government/what-are-the-myths-of-statism)[![freeblr money what determines the value of money](/freeblr/money/what-determines-the-value-of-money/card.svg)](https://jarick.works/freeblr/money/what-determines-the-value-of-money)
 
 [Follow](#follow)
 
