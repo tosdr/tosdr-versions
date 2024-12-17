@@ -131,6 +131,18 @@ Last Updated on October 18, 2018 by Media Bias Fact Check
 
 #### Recently Added Sources or Pages
 
+* [Berliner Morgenpost – Bias and Credibility](https://mediabiasfactcheck.com/berliner-morgenpost-bias-and-credibility/)
+    
+    December 17, 2024
+    
+* [Current Oncology Journal – Bias and Credibility](https://mediabiasfactcheck.com/current-oncology-journal-bias/)
+    
+    December 17, 2024
+    
+* [Kyiv Insider – Bias and Credibility](https://mediabiasfactcheck.com/kyiv-insider-bias-and-credibility/)
+    
+    December 17, 2024
+    
 * [Context – Bias and Credibility](https://mediabiasfactcheck.com/context-bias-and-credibility/)
     
     December 17, 2024
@@ -151,21 +163,21 @@ Last Updated on October 18, 2018 by Media Bias Fact Check
     
     December 16, 2024
     
-* [Glasgow Live – Bias and Credibility](https://mediabiasfactcheck.com/glasgow-live-bias-and-credibility/)
-    
-    December 16, 2024
-    
-* [Candace Owens Bias Rating](https://mediabiasfactcheck.com/candace-owens-bias-rating/)
-    
-    December 16, 2024
-    
-* [JoeHoft.com – Bias and Credibility](https://mediabiasfactcheck.com/joehoft-com-bias-and-credibility/)
-    
-    December 15, 2024
-    
 
 #### Recently Updated Pages
 
+* [Berliner Morgenpost – Bias and Credibility](https://mediabiasfactcheck.com/berliner-morgenpost-bias-and-credibility/ "View Berliner Morgenpost – Bias and Credibility") - December 17, 2024
+    
+* [Pro-Science](https://mediabiasfactcheck.com/pro-science/ "View Pro-Science") - December 17, 2024
+    
+* [Current Oncology Journal – Bias and Credibility](https://mediabiasfactcheck.com/current-oncology-journal-bias/ "View Current Oncology Journal – Bias and Credibility") - December 17, 2024
+    
+* [Questionable Sources](https://mediabiasfactcheck.com/fake-news/ "View Questionable Sources") - December 17, 2024
+    
+* [Kyiv Insider – Bias and Credibility](https://mediabiasfactcheck.com/kyiv-insider-bias-and-credibility/ "View Kyiv Insider – Bias and Credibility") - December 17, 2024
+    
+* [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - December 17, 2024
+    
 * [Context – Bias and Credibility](https://mediabiasfactcheck.com/context-bias-and-credibility/ "View Context – Bias and Credibility") - December 17, 2024
     
 * [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - December 17, 2024
@@ -174,31 +186,19 @@ Last Updated on October 18, 2018 by Media Bias Fact Check
     
 * [C19proxalutamide.com – Bias and Credibility](https://mediabiasfactcheck.com/c19proxalutamide-com-bias/ "View C19proxalutamide.com – Bias and Credibility") - December 16, 2024
     
-* [C19ivermectin.com – Bias and Credibility](https://mediabiasfactcheck.com/c19ivermectin-com-bias/ "View C19ivermectin.com – Bias and Credibility") - December 16, 2024
-    
-* [C19hcq.com – Bias and Credibility](https://mediabiasfactcheck.com/c19hcq-com-bias/ "View C19hcq.com – Bias and Credibility") - December 16, 2024
-    
-* [C19fluvoxamine.com – Bias and Credibility](https://mediabiasfactcheck.com/c19fluvoxamine-com-bias/ "View C19fluvoxamine.com – Bias and Credibility") - December 16, 2024
-    
-* [C19favipiravir.com – Bias and Credibility](https://mediabiasfactcheck.com/c19favipiravir-com-bias/ "View C19favipiravir.com – Bias and Credibility") - December 16, 2024
-    
-* [c19bromhexine.com – Bias and Credibility](https://mediabiasfactcheck.com/c19bromhexine-com-bias/ "View c19bromhexine.com – Bias and Credibility") - December 16, 2024
-    
-* [Buzzfeed News – Bias and Credibility](https://mediabiasfactcheck.com/buzzfeed-news/ "View Buzzfeed News – Bias and Credibility") - December 16, 2024
-    
 
 #### Today’s Top Page Views
 
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
-* [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
 * [Least Biased](https://mediabiasfactcheck.com/center/)
+* [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
 * [NewsNation - Bias and Credibility](https://mediabiasfactcheck.com/newsnation/)
-* [Associated Press (AP News) - Bias and Credibility](https://mediabiasfactcheck.com/associated-press/)
 * [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
+* [Associated Press (AP News) - Bias and Credibility](https://mediabiasfactcheck.com/associated-press/)
 * [BBC - Bias and Credibility](https://mediabiasfactcheck.com/bbc/)
-* [MBFC's Daily Vetted Fact Checks for 12/16/2024](https://mediabiasfactcheck.com/2024/12/16/mbfcs-daily-vetted-fact-checks-for-12-16-2024/)
+* [Search](https://mediabiasfactcheck.com/search/)
 
 #### Subscribe via Email
 
