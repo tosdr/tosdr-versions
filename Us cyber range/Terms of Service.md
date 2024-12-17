@@ -17,8 +17,6 @@
 * [Login](https://login.uscyberrange.org/)
 * [Sign Up](https://www.uscyberrange.org/contact/)
 
-Menu
-
 * [Services](#)
     * [Range Platform](https://www.uscyberrange.org/range-platform/)
     * [Courseware](https://www.uscyberrange.org/courseware)
@@ -91,7 +89,7 @@ Subscribe to our newsletter!
 
 Enter Email
 
-Email
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
