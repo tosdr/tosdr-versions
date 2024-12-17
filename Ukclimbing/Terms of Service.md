@@ -290,7 +290,7 @@ is a figurative trademark registered in the UK with registration number: UK00003
 
 You are not permitted to use them without our approval, unless they are part of material you are using as permitted under [How you may use material on our site](#permitted_use).
 
-[![Advert](https://ukc2.com/ads/b/10030.gif?t=1558479600)](https://advertising.ukclimbing.com/click.php?id=10030&uri=55)
+[![Advert](https://ukc2.com/ads/b/11984.gif?t=1714551151)](https://advertising.ukclimbing.com/click.php?id=11984&uri=55)
 
 [Advertising on UKC](https://advertising.ukclimbing.com/)
 
