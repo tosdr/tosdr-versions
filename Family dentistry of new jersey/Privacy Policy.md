@@ -21,7 +21,6 @@ Menu
         * [Dr. Neal Hammer](https://familydentistryofnewjersey.com/about-us/meet-the-team/dr-neal-hammer)
     * [Patient Reviews](https://familydentistryofnewjersey.com/patient-reviews)
     * [Hours & Locations](https://familydentistryofnewjersey.com/about-us/hours-locations)
-    * [COVID-19 Update & Protocols](https://familydentistryofnewjersey.com/blog/covid-19-update-dental-office-protocols)
 * [Dental Services](https://familydentistryofnewjersey.com/services)
     
     * [Emergency Dental](https://familydentistryofnewjersey.com/services/emergency-dentist)
