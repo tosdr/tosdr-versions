@@ -1614,7 +1614,7 @@
         * [ ]  [Skip Level Meetings - Overview](https://handbook.gitlab.com/handbook/leadership/skip-levels/)
         * [ ]  [Underperformance](https://handbook.gitlab.com/handbook/leadership/underperformance/)
         * [ ]  [Workforce Planning](https://handbook.gitlab.com/handbook/leadership/workforce-planning/)
-    * [ ]  [Legal & Corporate Affairs ("LACA")](https://handbook.gitlab.com/handbook/legal/)
+    * [ ]  [Legal & Corporate Affairs](https://handbook.gitlab.com/handbook/legal/)
         * [ ]  [Agile Planning Terms](https://handbook.gitlab.com/handbook/legal/agile-planning-terms/)
         * [ ]  [Agile Planning Terms V1](https://handbook.gitlab.com/handbook/legal/agile-planning-terms-v1/)
         * [ ]  [AI Functionality Terms](https://handbook.gitlab.com/handbook/legal/ai-functionality-terms/)
@@ -2530,6 +2530,7 @@
                     * [ ]  [Gainsight: Go-To-Market Technical Documentation](https://handbook.gitlab.com/handbook/sales/field-operations/customer-success-operations/gainsight/gainsight-gtm/)
                 * [ ]  [Rattle Configuration and Maintenance](https://handbook.gitlab.com/handbook/sales/field-operations/customer-success-operations/troops-administration/)
                 * [ ]  [Renewals Operations Team](https://handbook.gitlab.com/handbook/sales/field-operations/customer-success-operations/renewal-ops/)
+            * [ ]  [Customer Success Strategy & Analytics](https://handbook.gitlab.com/handbook/sales/field-operations/customer-success-strategy-analytics/)
             * [ ]  [Data Intelligence](https://handbook.gitlab.com/handbook/sales/field-operations/data-intelligence/)
                 * [ ]  [Data Governance](https://handbook.gitlab.com/handbook/sales/field-operations/data-intelligence/data-governance/)
             * [ ]  [Ecosystem Operations](https://handbook.gitlab.com/handbook/sales/field-operations/channel-operations/)
@@ -3561,7 +3562,7 @@
     * [10\. Miscellaneous](#10-miscellaneous)
 
 1. [The Handbook](https://handbook.gitlab.com/handbook/)
-2. [Legal & Corporate Affairs ("LACA")](https://handbook.gitlab.com/handbook/legal/)
+2. [Legal & Corporate Affairs](https://handbook.gitlab.com/handbook/legal/)
 3. [Policies](https://handbook.gitlab.com/handbook/legal/policies/)
 4. GitLab Website Terms of Use
 
