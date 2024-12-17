@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/hoofdartikelen/hoe-monsanto-en-het-amerikaanse-leger-samenwerken/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/meelezen/mijn-trouwjurk-in-1000-stukken/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
