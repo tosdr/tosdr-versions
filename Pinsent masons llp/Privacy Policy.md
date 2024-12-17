@@ -285,7 +285,7 @@ When we say 'we', 'our', 'us' or 'Pinsent Masons' in this policy, we are referri
 
 Pinsent Masons provides legal and other professional services globally via a number of entities.  These include Pinsent Masons LLP, its subsidiaries and any affiliates which practise under the name Pinsent Masons, or which Pinsent Masons LLP or its partners operate as separate businesses, e.g. Out-Law, Vario and MPillay.  
 
-For country specific information about our business, including a list of our offices and the jurisdictions in which we operate, please click [here](https://www.pinsentmasons.com/legal-notices). 
+For country specific information about our business, including a list of our offices and the jurisdictions in which we operate, please click [here](https://www.pinsentmasons.com/en-gb/legal-notices). 
 
 Our global reach means that we are subject to the differing data protection regimes of the jurisdictions in which we operate.  We strive to achieve uniformity of data protection practices across the Pinsent Masons group, whilst also complying with all data protection laws.  This policy reflects the EU GDPR standard of protection of personal information and references the relevant Articles of the EU GDPR where appropriate.  In those jurisdictions where data protection regimes differ significantly to the EU GDPR, elements of this policy may not apply, for example individuals' rights in relation to their personal information, and this policy does not establish rights or obligations which are additional to those prescribed in the applicable local data protection law.
 
@@ -303,7 +303,7 @@ We want to offer you a means of contacting the right people in our organisation 
 
 You may contact our Privacy specialists with any questions about this policy, or our Privacy practices more generally at [\[email protected\]](https://www.pinsentmasons.com/cdn-cgi/l/email-protection). You have rights in respect of the personal information of yours in our care.  More information about these rights is set out in section 8 of this policy.  You may exercise your rights by emailing our Privacy specialists at [\[email protected\]](https://www.pinsentmasons.com/cdn-cgi/l/email-protection). Whilst our team of Privacy specialists operate through our centralised business operations in the UK, for which Pinsent Masons LLP is the data controller, the team works closely with information law and data protection specialists working from PM offices across our global network.  As such, our dedicated email addresses have global reach, and your communications are directed to the appropriate data controller within the Pinsent Masons group, as appropriate. 
 
-You are of course welcome to contact any of our offices directly (relevant contact information is found [here](https://www.pinsentmasons.com/office-finder)). In addition, we have a dedicated email address for Privacy matters relating to our operations in South Africa: [\[email protected\]](https://www.pinsentmasons.com/cdn-cgi/l/email-protection).  (Please also see section 13.1 of this policy for more information about how we comply with applicable data protection law in South Africa.) 
+You are of course welcome to contact any of our offices directly (relevant contact information is found [here](https://www.pinsentmasons.com/en-gb/office-finder)). In addition, we have a dedicated email address for Privacy matters relating to our operations in South Africa: [\[email protected\]](https://www.pinsentmasons.com/cdn-cgi/l/email-protection).  (Please also see section 13.1 of this policy for more information about how we comply with applicable data protection law in South Africa.) 
 
 3.  Transfers of personal information across our business and to our suppliers
 ------------------------------------------------------------------------------
@@ -988,20 +988,20 @@ Other notices and information
     
     ### Sectors we work in
     
-    * [Energy](https://www.pinsentmasons.com/en-gb/sectors/energy)
-    * [Financial Services](https://www.pinsentmasons.com/en-gb/sectors/financial-services)
-    * [Infrastructure](https://www.pinsentmasons.com/en-gb/sectors/infrastructure)
-    * [Technology, Science & Industry](https://www.pinsentmasons.com/en-gb/sectors/technology-science-industry)
-    * [Real Estate](https://www.pinsentmasons.com/en-gb/sectors/real-estate)
+    * [Energy](https://www.pinsentmasons.com/sectors/energy)
+    * [Financial Services](https://www.pinsentmasons.com/sectors/financial-services)
+    * [Infrastructure](https://www.pinsentmasons.com/sectors/infrastructure)
+    * [Technology, Science & Industry](https://www.pinsentmasons.com/sectors/technology-science-industry)
+    * [Real Estate](https://www.pinsentmasons.com/sectors/real-estate)
     
     ### What we do
     
-    * [Your assets](https://www.pinsentmasons.com/en-gb/what-we-do/your-assets)
-    * [Your company](https://www.pinsentmasons.com/en-gb/what-we-do/your-company)
-    * [Your finance](https://www.pinsentmasons.com/en-gb/what-we-do/your-finance)
-    * [Your legal team and resource](https://www.pinsentmasons.com/en-gb/what-we-do/your-legal-team-and-resource)
-    * [Your people](https://www.pinsentmasons.com/en-gb/what-we-do/your-people)
-    * [Your risks and regulatory environment](https://www.pinsentmasons.com/en-gb/what-we-do/your-risks-and-regulatory-environment)
+    * [Your assets](https://www.pinsentmasons.com/what-we-do/your-assets)
+    * [Your company](https://www.pinsentmasons.com/what-we-do/your-company)
+    * [Your finance](https://www.pinsentmasons.com/what-we-do/your-finance)
+    * [Your legal team and resource](https://www.pinsentmasons.com/what-we-do/your-legal-team-and-resource)
+    * [Your people](https://www.pinsentmasons.com/what-we-do/your-people)
+    * [Your risks and regulatory environment](https://www.pinsentmasons.com/what-we-do/your-risks-and-regulatory-environment)
     
 
 [](https://www.pinsentmasons.com/ "Pinsent Masons")
