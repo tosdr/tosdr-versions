@@ -107,7 +107,7 @@ Pokud máte na tomto webu účet nebo jste zde přidali komentáře, můžete po
 Zásady cookies (EU)
 -------------------
 
-_Tyto Zásady cookies byly naposledy aktualizovány 18. 11. 2024 a vztahují se na občany a osoby s trvalým pobytem v Evropském hospodářském prostoru._  
+_Tyto Zásady cookies byly naposledy aktualizovány 1. 4. 2023 a vztahují se na občany a osoby s trvalým pobytem v Evropském hospodářském prostoru._  
 
 1\. Úvod
 --------
@@ -705,14 +705,6 @@ dracula\_last\_review\_popup
 
 ##### Funkce
 
-##### Název
-
-wp-autosave-block-editor-post-3
-
-##### Expirace
-
-##### Funkce
-
 7\. Souhlas
 -----------
 
@@ -749,12 +741,14 @@ Pro uplatnění těchto práv nás prosím kontaktujte. Kontaktní údaje najdet
 V případě dotazů nebo komentářů ohledně našich zásad týkajících se souborů cookies a tohoto prohlášení nás prosím kontaktujte pomocí následujících kontaktních údajů:
 
 SEO specialista a copywriter Daniel Beránek  
-Vachova 36/1  
+Křenová 313/79  
 602 00 Brno  
 Česká republika  
 Web: [https://danielberanek.cz](https://danielberanek.cz/)  
-E-mail: dan@danielberanek.cz  
+E-mail: danielberanek@gmail.com  
 Phone number: 724501041
+
+Tyto Zásady cookies byly synchronizovány s [cookiedatabase.org](https://cookiedatabase.org/) dne 18. 1. 2022
 
 [SEO?](https://danielberanek.cz/seo/)
 
