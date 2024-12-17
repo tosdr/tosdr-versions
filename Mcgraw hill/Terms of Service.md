@@ -412,7 +412,7 @@ Click here to view [Return Policy](https://www.mheducation.com/return-policy.ht
 
 Top
 
-Company Info
+### Company Info
 
 * [About Us](https://www.mheducation.com/about.html)
 * [Contact & Locations](https://www.mheducation.com/locations.html)
@@ -422,7 +422,7 @@ Company Info
 * [Social Responsibility](https://www.mheducation.com/about/social-responsibility-sustainability.html)
 * [Investor Relations](http://investors.mheducation.com/ "Investor Relations, opens in a new window")
 
-Get Help
+### Get Help
 
 * [Place an Order](https://mh.my.site.com/CSOM/s/place-an-order "Place an Order, opens in a new window")
 * [Get Support](https://www.mheducation.com/support.html)
@@ -430,7 +430,7 @@ Get Help
 * [Contact Sales Rep](https://www.mheducation.com/locations.html)
 * [Check System Status](http://status.mheducation.com/ "Check System Status, opens in a new window")
 
-Additional Resources
+### Additional Resources
 
 * [Permissions](https://www.mheducation.com/permissions.html)
 * [Suppliers](https://www.mheducation.com/suppliers.html)
@@ -440,7 +440,7 @@ Additional Resources
 * [Purchase Order](https://www.mheducation.com/purchase-order.html)
 * [Our AI Approach](https://www.mheducation.com/our-ai-approach.html)
 
-Follow McGraw Hill
+### Follow McGraw Hill
 
     [![Visit McGraw Hill Facebook page](https://www.mheducation.com/content/dam/mhe/footer/socialshare/facebook-white.svg)](https://www.facebook.com/McGrawHillEducation)
 
