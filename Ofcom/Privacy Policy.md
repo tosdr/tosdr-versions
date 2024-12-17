@@ -133,6 +133,12 @@
 
 #### Latest news
 
+[![HERO Public service media (1336 × 560px)](/siteassets/resources/images/-news-centre/thumbnail-images/tv-and-on-demand/hero-public-service-media-1336--560px.png?width=1920&height=1085&quality=80)
+
+### Ofcom’s review of Public Service Media 2019-23
+
+17 December 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/public-service-broadcasting/review-of-public-service-media-2019-23/)
+
 [![OS News Centre HERO (1336 × 560px) (1)](/siteassets/resources/images/-news-centre/body-images/2024/time-for-tech-firms-to-act-uk-online-safety-regulation-comes-into-force/os-news-centre-hero-1336--560px-1.jpg?width=1920&height=1085&quality=80)
 
 ### Time for tech firms to act: UK online safety regulation comes into force
@@ -150,12 +156,6 @@
 ### Ofcom fines Royal Mail £10.5m for poor delivery performance
 
 13 December 2024](https://www.ofcom.org.uk/post/royal-mail/ofcom-fines-royal-mail-10.5m-for-poor-delivery-performance)
-
-[![Ultrafast broadband HERO (1336 × 560px)](/siteassets/resources/images/-news-centre/body-images/2024/ultrafast-broadband-and-landline-bundles-see-biggest-price-drop-in-2024/ultrafast-broadband-hero-1336--560px.png?width=1920&height=1085&quality=80)
-
-### Ultrafast broadband and landline bundles see biggest price drop in 2024
-
-12 December 2024](https://www.ofcom.org.uk/phones-and-broadband/bills-and-charges/ultrafast-broadband-and-landline-bundles-see-biggest-price-drop-in-2024/)
 
  [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/corporate-policies/general-privacy-statement/)
 
