@@ -2638,6 +2638,50 @@ Stiftsbergstraße 1
 
 [info@lidl-shop.de](mailto:info@lidl-shop.de)
 
+6\. Kulanzanalyse
+-----------------
+
+Zwecke der Datenverarbeitung/ Rechtsgrundlagen:
+
+Zur Prävention und zur Aufdeckung von Manipulationen überprüfen wir Daten aus der Bearbeitung von Kulanzen (Gutschriften und Gutscheine) auf Unstimmigkeiten. Dies umfasst auch Kundendaten, welche bei der Gutschrift- oder Gutscheinerstellung verarbeitet werden, insbesondere Stammdaten aus dem Kunden-/ Gastkonto (Name, E-Mail-Adresse, Kundenummer, etc.) und Transaktions-/ Bestelldaten (Bestellnummer, Artikel, Verkaufspreis, etc.).
+
+  
+
+Bei einer ersten Analyse werden Kulanzen nach vordefinierten Szenarien automatisch geprüft. Es handelt sich hierbei um Szenarien, die aufgrund des gleichzeitigen Eintritts mehrerer Kriterien und der Überschreitung von Schwellenwerten in Kombination mit einer Häufung auf eine mögliche Manipulation hinweisen. Bei Vorliegen eines Manipulationsverdachts werden die Daten manuell auf Manipulationen überprüft.
+
+  
+
+Rechtsgrundlage hierfür ist Artikel 6 Abs. 1 f) DSGVO. Wir haben ein berechtigtes Interesse an der Durchführung von Maßnahmen zur Prävention und Aufdeckung von Manipulationen (Straftaten).
+
+  
+
+Empfänger/ Kategorien von Empfängern:
+
+Bei der Kulanzanalyse werden Ihre Daten in unserem Auftrag auch von Auftragsverarbeitern aus dem Bereich Kundenservice verarbeitet. Diese sind jeweils sorgfältig ausgesucht und zudem vertraglich gemäß Artikel 28 DSGVO verpflichtet.
+
+  
+
+Speicherdauer/ Kriterien für Festlegung der Speicherdauer:
+
+Die Ergebnisse der Analyse werden sofort gelöscht, es sei denn, es ergeben sich konkrete Verdachtsmomente. Bestätigen sich diese Verdachtsmomente auf der zweiten Ebene der Auswertung, werden die Prüfberichte für 12 Jahre aufbewahrt, ansonsten sofort gelöscht.
+
+7\. Übermittlung an Empfänger in Drittländern
+---------------------------------------------
+
+Unter Umständen kann es erforderlich sein, dass wir Ihre personenbezogenen Daten an Empfänger in einem Drittland oder mehreren Drittländern außerhalb der Europäischen Union (EU)/ des Europäischen Wirtschaftsraumes (EWR) übermitteln.
+
+  
+
+Einigen Drittländern hat die EU-Kommission durch einen Angemessenheitsbeschluss ein der DSGVO vergleichbares Datenschutzniveau bescheinigt. Eine Übersicht der Drittländer mit Angemessenheitsbeschluss finden Sie hier. Bei Dienstleistern mit Hauptsitz in den USA gilt dies nur, wenn diese nach dem EU-US Data Privacy Framework zertifiziert sind.
+
+  
+
+Wenn kein Angemessenheitsbeschluss vorliegt, sichern wir die Übermittlung durch andere Maßnahmen ab. Dies können z.B. bindende Unternehmensvorschriften, Standard-Vertragsklauseln der Europäischen Kommission, Zertifikate oder anerkannte Verhaltenskodizes sein.
+
+  
+
+Sofern im Folgenden nicht anders dargestellt, erfolgt der Drittlandtransfer entweder auf Basis eines Angemessenheitsbeschlusses oder einer der oben aufgezählten Maßnahmen. Sie können sich bei Fragen dazu an unsere Datenschutzbeauftragten wenden.
+
 Betroffenenrechte
 -----------------
 
