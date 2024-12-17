@@ -43,59 +43,47 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Close up of feet getting a pedicure](https://www.women.com/img/gallery/every-type-of-pedicure-explained/intro-1733419200.jpg)](https://www.women.com/1730467/every-type-pedicure-explained/)
+*  [![](https://www.women.com/img/gallery/outdated-beauty-trends-to-leave-in-2024/intro-1733768782.jpg)](https://www.women.com/1733088/outdated-beauty-trends-leave-in-2024/)
     
     [Beauty](https://www.women.com/category/beauty/)
     
-    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
+    [Beauty](https://www.women.com/category/beauty/) By Bernadette Roe
     
-    [Every Type Of Pedicure, Explained](https://www.women.com/1730467/every-type-pedicure-explained/)
-    =================================================================================================
+    [Outdated Beauty Trends To Leave In 2024](https://www.women.com/1733088/outdated-beauty-trends-leave-in-2024/)
+    ==============================================================================================================
     
-    As beneficial as pedicures can be for the mind and body, rolling into a salon and trying to figure out which pedicure to get can sometimes be overwhelming.
+    As new trends take hold in the new year, some of the most popular 2024 beauty looks are being left behind, including matte makeup and hydro hair.
     
-    By Amanda Chatel [Read More](https://www.women.com/1730467/every-type-pedicure-explained/)
+    By Bernadette Roe [Read More](https://www.women.com/1733088/outdated-beauty-trends-leave-in-2024/)
     
-* *  [![](https://www.women.com/img/gallery/the-best-dating-advice-we-learned-from-sabrina-carpenter-songs/intro-1733761713.jpg)](https://www.women.com/1732909/best-dating-advice-sabrina-carpenter-songs/)
-        
-        [Relationships](https://www.women.com/category/relationships/)
-        
-        [Relationships](https://www.women.com/category/relationships/) By Madison Emily Whisenand
-        
-        ### [The Best Dating Advice We Learned From Sabrina Carpenter Songs](https://www.women.com/1732909/best-dating-advice-sabrina-carpenter-songs/)
-        
-        Aside from cheeky lyrics and catchy melodies, one of the things that makes Sabrina Carpenter's music so compelling is its diaristic element.
-        
-        By Madison Emily Whisenand [Read More](https://www.women.com/1732909/best-dating-advice-sabrina-carpenter-songs/)
-        
-    *  [![](https://www.women.com/img/gallery/outdated-beauty-trends-to-leave-in-2024/intro-1733768782.jpg)](https://www.women.com/1733088/outdated-beauty-trends-leave-in-2024/)
+* *  [![Close up of feet getting a pedicure](https://www.women.com/img/gallery/every-type-of-pedicure-explained/intro-1733419200.jpg)](https://www.women.com/1730467/every-type-pedicure-explained/)
         
         [Beauty](https://www.women.com/category/beauty/)
         
-        [Beauty](https://www.women.com/category/beauty/) By Bernadette Roe
+        [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
         
-        ### [Outdated Beauty Trends To Leave In 2024](https://www.women.com/1733088/outdated-beauty-trends-leave-in-2024/)
+        ### [Every Type Of Pedicure, Explained](https://www.women.com/1730467/every-type-pedicure-explained/)
         
-        As new trends take hold in the new year, some of the most popular 2024 beauty looks are being left behind, including matte makeup and hydro hair.
+        As beneficial as pedicures can be for the mind and body, rolling into a salon and trying to figure out which pedicure to get can sometimes be overwhelming.
         
-        By Bernadette Roe [Read More](https://www.women.com/1733088/outdated-beauty-trends-leave-in-2024/)
+        By Amanda Chatel [Read More](https://www.women.com/1730467/every-type-pedicure-explained/)
+        
+    *  [![Dakota Fanning posing at Cannes](https://www.women.com/img/gallery/dakota-fannings-stunning-style-transformation-through-the-years/intro-1733427041.jpg)](https://www.women.com/1730627/dakota-fanning-stunning-style-transformation/)
+        
+        [Fashion](https://www.women.com/category/fashion/)
+        
+        [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
+        
+        ### [Dakota Fanning's Stunning Style Transformation Through The Years](https://www.women.com/1730627/dakota-fanning-stunning-style-transformation/)
+        
+        Dakota Fanning has grown up under the public eye, with an impressive career, and an even more impressive style transformation along the way.
+        
+        By Amanda Chatel [Read More](https://www.women.com/1730627/dakota-fanning-stunning-style-transformation/)
         
 
 More Stories
 ------------
 
-*  [![Dakota Fanning posing at Cannes](https://www.women.com/img/gallery/dakota-fannings-stunning-style-transformation-through-the-years/intro-1733427041.jpg)](https://www.women.com/1730627/dakota-fanning-stunning-style-transformation/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
-    
-    ### [Dakota Fanning's Stunning Style Transformation Through The Years](https://www.women.com/1730627/dakota-fanning-stunning-style-transformation/)
-    
-    Dakota Fanning has grown up under the public eye, with an impressive career, and an even more impressive style transformation along the way.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1730627/dakota-fanning-stunning-style-transformation/)
-    
 *  [![Gigi Hadid making a heart with her hands above her head](https://www.women.com/img/gallery/8-celebs-who-have-rocked-the-chic-flippy-bob/intro-1733769783.jpg)](https://www.women.com/1734199/celebs-rocked-chic-flippy-bob/)
     
     [Beauty](https://www.women.com/category/beauty/)
@@ -119,6 +107,18 @@ More Stories
     Whether it was Zendaya making yet another fashion statement or Cynthia Erivo stunning at a "Wicked" premiere, 2024 was full of great red carpet looks.
     
     By Emily Hutchinson [Read More](https://www.women.com/1730450/best-premiere-looks-2024-red-carpet/)
+    
+*  [![Sabrina Carpenter smiling and looking to the side](https://www.women.com/img/gallery/the-best-dating-advice-we-learned-from-sabrina-carpenter-songs/intro-1733761713.jpg)](https://www.women.com/1732909/best-dating-advice-sabrina-carpenter-songs/)
+    
+    [Relationships](https://www.women.com/category/relationships/)
+    
+    [Relationships](https://www.women.com/category/relationships/) By Madison Emily Whisenand
+    
+    ### [The Best Dating Advice We Learned From Sabrina Carpenter Songs](https://www.women.com/1732909/best-dating-advice-sabrina-carpenter-songs/)
+    
+    Aside from cheeky lyrics and catchy melodies, one of the things that makes Sabrina Carpenter's music so compelling is its diaristic element.
+    
+    By Madison Emily Whisenand [Read More](https://www.women.com/1732909/best-dating-advice-sabrina-carpenter-songs/)
     
 *  [![Taylor Swift onstage with an acoustic guitar](https://www.women.com/img/gallery/taylor-swifts-most-iconic-eras-tour-outfits-ranked/intro-1734033449.jpg)](https://www.women.com/1736902/taylor-swift-iconic-eras-tour-outfits-ranked/)
     
