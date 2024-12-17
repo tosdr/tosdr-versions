@@ -1,7 +1,5 @@
 error: no ad slot id exists: undefined
 
-[Breaking: 5 dead, others injured in a shooting at a private Christian school in Wisconsin](https://www.ajc.com/news/nation-world/5-dead-other-injured-in-a-shooting-at-a-wisconsin-school/VOWFI7MBTFBDVM5GRUUZHPWKBE/)
-
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1891)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1891)](https://www.ajc.com/)
 
 Log In
