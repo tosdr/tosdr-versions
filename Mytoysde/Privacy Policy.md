@@ -18,7 +18,7 @@ reduziert![](https://i.otto.de/i/otto/mpp360_231940_345734?w=200&h=200&upscale=t
 
 [Θ Mein Konto](https://www.mirapodo.de/myaccount/dashboard)
 
-  [♥ Merkzettel](https://www.mirapodo.de/wishlist-view/)
+   [♥ Merkzettel](https://www.mirapodo.de/wishlist-view/)
 
     
 
@@ -267,7 +267,7 @@ gesponsert
 
                   
 
-   
+    
 
 Θ Mein Konto
 
