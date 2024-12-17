@@ -735,6 +735,8 @@ Your session expired. Please login again to continue to purchase.
     
     * [Communication](https://enphase.com/installers/communication)
     * [System builder](https://enphase.com/installers/systems)
+    * [Microinverters](https://enphase.com/installers/microinverters)
+    * [EV chargers](https://enphase.com/installers/ev-chargers)
     * [Accessories](https://enphase.com/installers/accessories)
     * [Documentation](https://enphase.com/installers/resources/documentation)
     * [Training](https://enphase.com/installers/training-and-certifications)
