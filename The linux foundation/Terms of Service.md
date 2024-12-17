@@ -1,4 +1,4 @@
-KubeCon + CloudNativeCon Europe · Apr 1-4 · London [REGISTER TODAY](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
+🎁 Give Yourself the Gift of Learning this Year! [SAVE 35% NOW](https://hubs.la/Q02_92gk0)
 
 English Japan China Europe
 
