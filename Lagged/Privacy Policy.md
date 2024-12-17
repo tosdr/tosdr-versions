@@ -241,15 +241,15 @@ Games you might like
 
 [Magic Piano Tiles](https://lagged.com/en/g/magic-piano-tiles) ![Magic Piano Tiles Game](https://imgs2.dab3games.com/magic-piano-tiles-ft17.png)
 
+[Lemon Opera](https://lagged.com/en/g/lemon-opera) ![Lemon Opera Game](https://imgs2.dab3games.com/lemon-opera-ft.png)
+
 [Choir](https://lagged.com/en/g/choir) ![Choir Game](https://imgs2.dab3games.com/choir-big.png)
 
-[Lemon Opera](https://lagged.com/en/g/lemon-opera) ![Lemon Opera Game](https://imgs2.dab3games.com/lemon-opera-ft.png)
+[Stair Race 3D](https://lagged.com/en/g/stair-race-3d) ![Stair Race 3D Game](https://imgs2.dab3games.com/stair-race-3d-game-ft.png)
 
 [Toilet Race](https://lagged.com/en/g/toilet-race) ![Toilet Race Game](https://imgs2.dab3games.com/toilet-race-game-big.png)
 
 [Ice Cream Stack Run](https://lagged.com/en/g/ice-cream-stack-run) ![Ice Cream Stack Run Game](https://imgs2.dab3games.com/ice-cream-stack-run29.png) top rated
-
-[Stair Race 3D](https://lagged.com/en/g/stair-race-3d) ![Stair Race 3D Game](https://imgs2.dab3games.com/stair-race-3d-game-ft.png)
 
 [Hide the Evidence](https://lagged.com/en/g/hide-the-evidence) ![Hide the Evidence Game](https://imgs2.dab3games.com/hide-the-evideance-big.png)
 
