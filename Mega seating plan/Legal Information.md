@@ -22,7 +22,7 @@ Privacy Notice
 
 ##### Introduction
 
-Mega Seating Plan is an educational technology app that allows teachers and schools to rapidly generate classroom seating charts. If you would like to see what Mega Seating Plan looks like without importing any data, you can try the live demo [here](https://www.seatingplan.com/platinum/demo/).
+Mega Seating Plan is an educational technology app that allows teachers and schools to rapidly generate classroom seating charts. If you would like to see what Mega Seating Plan looks like without importing any data, you can [try the live demo here](https://www.seatingplan.com/platinum/demo/).
 
 ##### Analytics
 
