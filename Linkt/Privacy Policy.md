@@ -116,7 +116,7 @@ Legal
 
 [Legal](https://www.linkt.com.au/legal/brisbane.html)
 
-* [Policies and agreements See 15 articles](#childnavitem-0)
+* [Policies and agreements See 16 articles](#childnavitem-0)
     
     * [Transurban Statement of Notifiable Matters](https://www.linkt.com.au/legal/policies/transurban-statement-of-notifiable-matters/brisbane.html)
     * [Linkt Europcar Offer Privacy Collection Statement](https://www.linkt.com.au/legal/policies/europcar-offer-privacy-statement/brisbane.html)
@@ -156,7 +156,7 @@ Legal
     * [Win. Choose. Fly! Terms and Conditions](https://www.linkt.com.au/legal/promotions/win-choose-fly-terms/brisbane.html)
     * [Drive Away Terms & Conditions](https://www.linkt.com.au/legal/promotions/driveaway-terms/brisbane.html)
     
-* [Rewards See 9 articles](#childnavitem-4)
+* [Rewards See 10 articles](#childnavitem-4)
     
     * [Booking.com Offer Terms and Conditions](https://www.linkt.com.au/legal/rewards/bookingcom/brisbane.html)
     * [Europcar Discount Terms and Conditions](https://www.linkt.com.au/legal/rewards/europcar/brisbane.html)
