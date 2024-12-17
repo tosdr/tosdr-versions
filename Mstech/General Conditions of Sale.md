@@ -370,7 +370,7 @@ Get the exclusive Discount
 
  I agree to the privacy policy and terms. ([Link](https://mstechglobal.com/privacy-policy/))
 
-                                                                                         
+                                                                                      
 
 Insert/edit link
 ================
