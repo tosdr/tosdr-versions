@@ -5,7 +5,7 @@
 **Privacy Statement  
 **
 
-Last Updated on October 1, 2024
+Last Updated on December 16, 2024
 
 **PRIVACY STATEMENT**
 
@@ -188,6 +188,10 @@ We use non-personal information to administer our online and mobile resources, m
 
 We use voluntarily provided personal information for our legitimate interests, including to respond to your inquiries and provide you with the services you have requested, amongst other uses as further described below. We do not sell or rent your personal information to third party data vendors or marketing companies. As you might expect, we disclose your information when required by law. We may use your personal information when we have your consent to do so, where required or permitted under applicable law.
 
+_Affiliates._
+
+In addition to those third parties set forth above, we may share your information, including personal information, within our family of companies. Those companies will use such information in generally the same manner as we do under this privacy statement which includes sending you information about their products, services, or initiatives that may be of interest to you.
+
 _Legally Compelled Disclosures._
 
 We may disclose your information, including personal information, to government authorities, and to other third parties when compelled to do so by such government authorities, or at our discretion or otherwise as required or permitted by law, including but not limited to responding to court orders and subpoenas. 
@@ -242,11 +246,11 @@ Nonetheless, as part of our Security Program, we have specific incident response
 
 **U.S. STATE PRIVACY LAWS**
 
-This section applies to visitors, users, and others who reside in the state of California, Virginia, Colorado, Connecticut, Utah, Texas, Oregon, and Montana, USA. When we collect personal information from residents of these states, where applicable we become subject to, and those residents have rights under, the U.S. state level data privacy laws, such as the California Consumer Privacy Act (“CCPA”), as amended (collectively, "State Data Privacy Laws"). This section of our statement is used to allow us to fulfill our obligations under State Data Privacy Laws and explain your CCPA rights. For purposes of this section, “Personal Information” has the meaning given in these State Data Privacy Laws.
+This section applies to visitors, users, and others who reside in the state of California, Virginia, Colorado, Connecticut, Utah, Texas, Oregon, and Montana, USA (collectively the “Designated States”). When we collect personal information from residents of the Designated States, where applicable we become subject to, and those residents have rights under, the U.S. state level data privacy laws, such as the California Consumer Privacy Act (“CCPA”), as amended (collectively, "State Data Privacy Laws"). This section of our statement is used to allow us to fulfill our obligations under State Data Privacy Laws and explain your CCPA rights. For purposes of this section, “Personal Information” has the meaning given in these State Data Privacy Laws.
 
   
 
-**What did we collect from Residents of California, Virginia, Colorado, Connecticut, Utah, Texas, Oregon, and Montana?**
+**What did we collect from Residents of the Designated States?**
 
 The chart below summarizes how we collect, use and share various categories of your Personal Information, indicating the sources from which we collect Personal Information, the business purposes for which Personal Information is collected and/or shared, and the categories of third parties with whom Personal Information is shared, describing our practices during the 12 months preceding the effective date of this Privacy Statement. We will not collect additional categories of Personal Information or use the Personal Information we collected for materially different, unrelated, or incompatible purposes without providing you notice and obtaining your consent where required by law.
 
@@ -262,15 +266,19 @@ CUSTOM JAVASCRIPT / HTML
 
 We may share your Personal Information with the following categories of third parties for a business purpose:
 
-1\. Service providers and subcontractors including internet service providers, cloud service providers, data analytics providers, email marketing providers, and operating systems/platforms
+1\. Affiliate companies
 
   
 
-2\. Third parties for marketing and analytics services including advertising networks, data analytics providers, social networks, market research providers
+2\. Service providers and subcontractors including internet service providers, cloud service providers, data analytics providers, email marketing providers, and operating systems/platforms
 
   
 
-3\. Professional advisors (such as accountants, auditors)
+3\. Third parties for marketing and analytics services including advertising networks, data analytics providers, social networks, market research providers
+
+  
+
+4\. Professional advisors (such as accountants, auditors)
 
   
 
@@ -286,7 +294,7 @@ See the section entitled “Data Retention” above for a description of the cri
 
   
 
-**Rights of California, Virginia, Colorado, Connecticut, Utah, Texas, Oregon, and Montana Residents**
+**Rights of the Designated States**
 
 You may have the following rights under the State Data Privacy Laws, where applicable:
 
