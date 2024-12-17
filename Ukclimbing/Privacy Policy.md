@@ -5,7 +5,7 @@
 UKC
 ===](https://www.ukclimbing.com/ "Go to homepage")Toggle navigation[](https://www.ukclimbing.com/user/)
 
-[![Advert](https://img.ukclimbing.com/ads/i/12148.jpg?fm=jpg&time=1730194075&w=728&s=2e6e8aadee89ea6e045018a52aef5530)](https://advertising.ukclimbing.com/click.php?id=12148&uri=4)
+[![Advert](https://img.ukclimbing.com/ads/i/12145.jpg?fm=jpg&time=1730132517&w=728&s=d1786860e66451cfbbcf721936dedb43)](https://advertising.ukclimbing.com/click.php?id=12145&uri=4)
 
 Menu Toggle navigation Toggle navigation Toggle navigation Toggle navigation
 
@@ -145,7 +145,7 @@ If you choose to enter one of our competitions then we need to know an address i
 
 Competitions also give you the option to opt-in to mailing lists of third party companies running the competitions. If you opt-in then your email address held by UKClimbing will be supplied to the third party company for use in their mailing list. The Fair Processing Practice of the data passed on to the third party company is the responsibility of the third party company collecting the data. UKClimbing Limited does not retain this data.
 
-[![Advert](https://img.ukclimbing.com/ads/b/10923.jpg?fm=jpg&time=1622714816&w=300&s=21cc6b47d9293a89ee05fd2c45eec9f2)](https://advertising.ukclimbing.com/click.php?id=10923&uri=55)
+[![Advert](https://img.ukclimbing.com/ads/b/12200.jpg?fm=jpg&time=1733746695&w=300&s=4bdd8fcb298ee8d0d5daa60c50cec98a)](https://advertising.ukclimbing.com/click.php?id=12200&uri=55)
 
 [Advertising on UKC](https://advertising.ukclimbing.com/)
 
