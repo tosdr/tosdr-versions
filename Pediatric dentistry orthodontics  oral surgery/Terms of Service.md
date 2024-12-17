@@ -70,8 +70,6 @@
     * [Referrals](https://www.dpdsmiles.com/doctor-referrals/)
     * [Request For School Form](https://www.dpdsmiles.com/st-charles-request-for-school-form/)
 
-Menu
-
 * [Home](https://www.dpdsmiles.com/)
 * [About Us](https://www.dpdsmiles.com/about-us/)
     * [Meet Our Providers](https://www.dpdsmiles.com/our-doctors/)
