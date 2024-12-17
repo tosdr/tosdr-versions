@@ -20,16 +20,16 @@ Tuesday, December 17 2024
 
 Latest
 
-* [Analyze text using natural language with Claude for Google Sheets – Computerworld](https://digitpatrox.com/analyze-text-using-natural-language-with-claude-for-google-sheets-computerworld/)
-* [Why You Still Need a Filing Cabinet (Even in the Digital Age)](https://digitpatrox.com/why-you-still-need-a-filing-cabinet-even-in-the-digital-age/)
-* [Most Reliable Used Pickup Trucks](https://digitpatrox.com/most-reliable-used-pickup-trucks/)
-* [How to Turn Ubuntu Into the Perfect Programming Platform](https://digitpatrox.com/how-to-turn-ubuntu-into-the-perfect-programming-platform/)
-* [How to rewrite text with Notepad using AI in Windows 11](https://digitpatrox.com/how-to-rewrite-text-with-notepad-using-ai-in-windows-11/)
-* [Infosys co-founder repeats calls for a 70-hour work week](https://digitpatrox.com/infosys-co-founder-repeats-calls-for-a-70-hour-work-week/)
-* [Europe Selects Sites for Seven AI Factories](https://digitpatrox.com/europe-selects-sites-for-seven-ai-factories/)
-* [Massive Echo Dot deals in Amazon’s holiday sale — 5 deals I recommend buying from $17](https://digitpatrox.com/massive-echo-dot-deals-in-amazons-holiday-sale-5-deals-i-recommend-buying-from-17/)
-* [Kali Linux 2024.4 released with 14 new tools, deprecates some features](https://digitpatrox.com/kali-linux-2024-4-released-with-14-new-tools-deprecates-some-features/)
-* [Europe’s Starlink competitor is go](https://digitpatrox.com/europes-starlink-competitor-is-go/)
+* [Ransomware gang says it hacked MA community clinic, stole medical records](https://digitpatrox.com/ransomware-gang-says-it-hacked-ma-community-clinic-stole-medical-records/)
+* [‘SaaS dependency’ is becoming a major issue for tech leaders](https://digitpatrox.com/saas-dependency-is-becoming-a-major-issue-for-tech-leaders/)
+* [Blood in the iPhones? Apple faces criminal charges – Computerworld](https://digitpatrox.com/blood-in-the-iphones-apple-faces-criminal-charges-computerworld/)
+* [How to Identify a Fake Screenshot](https://digitpatrox.com/how-to-identify-a-fake-screenshot/)
+* [Is Shein safe? Examining Shein’s privacy and security risks](https://digitpatrox.com/is-shein-safe-examining-sheins-privacy-and-security-risks/)
+* [The Best Toilet Paper for You—and Your Plumbing](https://digitpatrox.com/the-best-toilet-paper-for-you-and-your-plumbing/)
+* [The Best PlayStation Games and Accessories to Gift These Holidays](https://digitpatrox.com/the-best-playstation-games-and-accessories-to-gift-these-holidays/)
+* [Government says breach to AWS-hosted MoD AI recruitment tool would have “concerning consequences”](https://digitpatrox.com/government-says-breach-to-aws-hosted-mod-ai-recruitment-tool-would-have-concerning-consequences/)
+* [Astrill VPN Review: Features, Performance, and Insights](https://digitpatrox.com/astrill-vpn-review-features-performance-and-insights/)
+* [Huge Crocs holiday sale is live — 11 last-minute deals you can shop now from $12](https://digitpatrox.com/huge-crocs-holiday-sale-is-live-11-last-minute-deals-you-can-shop-now-from-12/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3623648-0-96933200-1734433337-man-looking-at-spreadsheet-on-laptop-by-kampus-production-via-pexels.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/analyze-text-using-natural-language-with-claude-for-google-sheets-computerworld/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/12/Ransomware-gang-says-it-hacked-MA-community-clinic-stole-medical-records.jpg)](https://digitpatrox.com/ransomware-gang-says-it-hacked-ma-community-clinic-stole-medical-records/)
     
-    [Analyze text using natural language with Claude for Google Sheets – Computerworld](https://digitpatrox.com/analyze-text-using-natural-language-with-claude-for-google-sheets-computerworld/)
+    [Ransomware gang says it hacked MA community clinic, stole medical records](https://digitpatrox.com/ransomware-gang-says-it-hacked-ma-community-clinic-stole-medical-records/)
     
-    13 minutes ago
+    25 minutes ago
     
-* [![](https://lifehacker.com/imagery/articles/01JEVEBFPGKR47HKJX0VBXDPZ7/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/why-you-still-need-a-filing-cabinet-even-in-the-digital-age/)
+* [![](https://cdn.mos.cms.futurecdn.net/CC249pBxH82zX3YQ6i6kB7-1200-80.jpg)](https://digitpatrox.com/saas-dependency-is-becoming-a-major-issue-for-tech-leaders/)
     
-    [Why You Still Need a Filing Cabinet (Even in the Digital Age)](https://digitpatrox.com/why-you-still-need-a-filing-cabinet-even-in-the-digital-age/)
+    [‘SaaS dependency’ is becoming a major issue for tech leaders](https://digitpatrox.com/saas-dependency-is-becoming-a-major-issue-for-tech-leaders/)
     
-    41 minutes ago
+    53 minutes ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1733260578/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-InlineHero-Most-Reliable-Used-Pickup-Trucks-1224)](https://digitpatrox.com/most-reliable-used-pickup-trucks/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3626463-0-51500100-1734457067-original.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/blood-in-the-iphones-apple-faces-criminal-charges-computerworld/)
     
-    [Most Reliable Used Pickup Trucks](https://digitpatrox.com/most-reliable-used-pickup-trucks/)
+    [Blood in the iPhones? Apple faces criminal charges – Computerworld](https://digitpatrox.com/blood-in-the-iphones-apple-faces-criminal-charges-computerworld/)
     
-    51 minutes ago
+    1 hour ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/terminal.jpg)](https://digitpatrox.com/how-to-turn-ubuntu-into-the-perfect-programming-platform/)
+* [![](https://lifehacker.com/imagery/articles/01JFAB18XB5VWPJ4QZ4D885PR8/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/how-to-identify-a-fake-screenshot/)
     
-    [How to Turn Ubuntu Into the Perfect Programming Platform](https://digitpatrox.com/how-to-turn-ubuntu-into-the-perfect-programming-platform/)
+    [How to Identify a Fake Screenshot](https://digitpatrox.com/how-to-identify-a-fake-screenshot/)
     
-    52 minutes ago
+    2 hours ago
     
-* [![](https://www.digitalcitizen.life/wp-content/uploads/2018/10/win11_notepad.png)](https://digitpatrox.com/how-to-rewrite-text-with-notepad-using-ai-in-windows-11/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/12/Is-Shein-safe_.jpg)](https://digitpatrox.com/is-shein-safe-examining-sheins-privacy-and-security-risks/)
     
-    [How to rewrite text with Notepad using AI in Windows 11](https://digitpatrox.com/how-to-rewrite-text-with-notepad-using-ai-in-windows-11/)
+    [Is Shein safe? Examining Shein’s privacy and security risks](https://digitpatrox.com/is-shein-safe-examining-sheins-privacy-and-security-risks/)
     
-    55 minutes ago
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [13 minutes ago
+* [25 minutes ago
     
-    ### Analyze text using natural language with Claude for Google Sheets – Computerworld](https://digitpatrox.com/analyze-text-using-natural-language-with-claude-for-google-sheets-computerworld/)
-* [41 minutes ago
+    ### Ransomware gang says it hacked MA community clinic, stole medical records](https://digitpatrox.com/ransomware-gang-says-it-hacked-ma-community-clinic-stole-medical-records/)
+* [53 minutes ago
     
-    ### Why You Still Need a Filing Cabinet (Even in the Digital Age)](https://digitpatrox.com/why-you-still-need-a-filing-cabinet-even-in-the-digital-age/)
-* [51 minutes ago
+    ### ‘SaaS dependency’ is becoming a major issue for tech leaders](https://digitpatrox.com/saas-dependency-is-becoming-a-major-issue-for-tech-leaders/)
+* [1 hour ago
     
-    ### Most Reliable Used Pickup Trucks](https://digitpatrox.com/most-reliable-used-pickup-trucks/)
+    ### Blood in the iPhones? Apple faces criminal charges – Computerworld](https://digitpatrox.com/blood-in-the-iphones-apple-faces-criminal-charges-computerworld/)
 
 Most Popular Topics
 
-* [3 weeks ago
+* [4 weeks ago
     
-    ### Hurry! These Shark Black Friday deals include free mops, purifiers, more](https://digitpatrox.com/hurry-these-shark-black-friday-deals-include-free-mops-purifiers-more/)
-* [October 14, 2024
+    ### Smart Appliances Could Expose Your WiFi to Hacking Risks](https://digitpatrox.com/smart-appliances-could-expose-your-wifi-to-hacking-risks/)
+* [August 20, 2024
     
-    ### UK govt appoints Microsoft CEO to chair industrial strategy council as it looks to attract tech investment](https://digitpatrox.com/uk-govt-appoints-microsoft-ceo-to-chair-industrial-strategy-council-as-it-looks-to-attract-tech-investment/)
-* [21 hours ago
+    ### Data center vacancy rates are nosediving in Europe – here’s why that could be a problem](https://digitpatrox.com/data-center-vacancy-rates-are-nosediving-in-europe-heres-why-that-could-be-a-problem/)
+* [September 13, 2024
     
-    ### How to correctly install graphics drivers when upgrading to a new GPU on Windows 11](https://digitpatrox.com/how-to-correctly-install-graphics-drivers-when-upgrading-to-a-new-gpu-on-windows-11/)
+    ### My Favorite Amazon Deal of the Day: Hisense 65-Inch Class U8](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-hisense-65-inch-class-u8/)
 
 Last Modified Topics
 
 * [2 hours ago
     
-    ### Europe Selects Sites for Seven AI Factories](https://digitpatrox.com/europe-selects-sites-for-seven-ai-factories/)
-* [2 hours ago
-    
-    ### Massive Echo Dot deals in Amazon’s holiday sale — 5 deals I recommend buying from $17](https://digitpatrox.com/massive-echo-dot-deals-in-amazons-holiday-sale-5-deals-i-recommend-buying-from-17/)
+    ### The Best PlayStation Games and Accessories to Gift These Holidays](https://digitpatrox.com/the-best-playstation-games-and-accessories-to-gift-these-holidays/)
 * [3 hours ago
     
-    ### Kali Linux 2024.4 released with 14 new tools, deprecates some features](https://digitpatrox.com/kali-linux-2024-4-released-with-14-new-tools-deprecates-some-features/)
+    ### Government says breach to AWS-hosted MoD AI recruitment tool would have “concerning consequences”](https://digitpatrox.com/government-says-breach-to-aws-hosted-mod-ai-recruitment-tool-would-have-concerning-consequences/)
+* [3 hours ago
+    
+    ### Astrill VPN Review: Features, Performance, and Insights](https://digitpatrox.com/astrill-vpn-review-features-performance-and-insights/)
 
 Most Viewed Topics
 
-* [August 11, 2024
-    
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
-* [August 13, 2024
-    
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [August 12, 2024
     
     ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
+* [August 13, 2024
+    
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
+* [August 13, 2024
+    
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
