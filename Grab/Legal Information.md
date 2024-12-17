@@ -827,6 +827,7 @@ Singapore
 * [Help Centre](https://help.grab.com/passenger/en-sg/)
 * [Food Menu](https://food.grab.com/sg/en/?utm_source=grab.com&utm_medium=referral&utm_campaign=footer-link&pid=Grab.com&c=footer-link)
 * [Developer Portal](https://developer.grab.com/)
+* [Tech Blog](https://engineering.grab.com/)
 
 * [Terms and Policies](https://www.grab.com/sg/terms-policies/)
 * •
