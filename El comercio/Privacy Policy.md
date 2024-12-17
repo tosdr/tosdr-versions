@@ -31,6 +31,575 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+¿Un chocolate será un regalo suntuoso en el mundo?
+==================================================
+
+La tonelada métrica de cacao subió —otra vez— en las bolsas de valores de Londres y Nueva York. El viernes 13 de diciembre de 2024 se cotizó en los 11 300 dólares. Es un crecimiento importante, ya que en el segundo semestre de 2024 se estabilizó y varió entre los 7 000 y 8 000 \[…\]
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Imagen creada en Ideogram con el prompt: barra de chocolate en empaque especial dorado sobre monedas de oro.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-14-1.jpg)
+
+La tonelada métrica de cacao subió —otra vez— en las **bolsas de valores de Londres y Nueva York**. El viernes 13 de diciembre de 2024 se cotizó en los 11 300 dólares.
+
+Es un crecimiento importante, ya que en el segundo semestre de 2024 se estabilizó y varió entre los 7 000 y 8 000 dólares por tonelada métrica de cacao. En abril rondaba los 12 000.
+
+> La cotización se debe a la oferta y la demanda. La Organización Internacional del Cacao (ICCO) prevé que la producción mundial de cacao disminuya un 11 % en la temporada 2023/2024. Eso representaría un déficit récord de 374 000 toneladas.
+
+Sería el tercer año consecutivo en que la demanda supere a la oferta, algo que no se veía desde 1969.
+
+Los **chocolates, bebidas y otros productos**, que tienen al cacao como materia prima, pueden convertirse en un regalo lujoso de mantenerse la tendencia.
+
+Los chocolates ya fueron más costosos en **San Valentín de 2024**. Esta es una época de gran demanda en el mundo por las festividades de **Navidad, Año Nuevo y Reyes**. 
+
+Los costos de producción son directamente afectados y quienes sepan negociar mejor en los denominados mercados a futuro.
+
+Los expertos internacionales coinciden en que podría existir una crisis debido al crecimiento de los precios y del déficit para cubrir la demanda.
+
+El **cacao** —en el mundo— se enfrenta a factores climáticos que inciden en su rendimiento. El planeta soporta las **altas temperaturas**, los cambios en las **épocas lluviosas** y suelos erosionados.
+
+En Ecuador, aunque el precio del cacao ha sido un factor clave en el aumento de las exportaciones, el volumen también ha mostrado un crecimiento.
+
+Durante seis de los 10 meses de 2024, el volumen de **exportaciones de cacao** aumentó en comparación con el mismo período del 2023. Los productores nacionales indicaron que reciben un castigo en los precios. Esos valores son fijados por los mercados internacionales.
+
+La vida se da paso mientras la justicia no llega
+================================================
+
+El incendio del Auqui mostró devastación, pero la recuperación avanza sin respuestas de las autoridades.
+--------------------------------------------------------------------------------------------------------
+
+![Saudia Levoyer, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Saudia-Levoyer-2.jpg)
+
+Todos quienes vivimos en **Quito** seguramente recordamos la tarde del 24 de septiembre. Por si no se acuerda, fue el día en que la **capital** se llenó de **humo y ceniza**, muchos pudieron verla pintarse de un color naranja intenso y otros sentir un calor intenso mientras trataban de salir de dos de las rutas que conectan Cumbayá con Quito. El incendio de la zona del Auqui –y otros cuantos más que se provocaron casi simultáneamente- avanzó rápidamente y los **bomberos** lucharon por controlarlo, ante los millones que seguían la noticia.
+
+La siguiente **imagen** parecía una escena sacada de una película: cerros de diferentes tonos de negro –con algo de ocre y amarillo por la fuerte sequía-, con árboles, maleza y arbustos convertidos en carbón. Los que se mantuvieron en pie parecían dibujados y suspendidos en el aire. No les quedaba **señal de vida**. Cruzar especialmente la avenida De Los Conquistadores, que atraviesa Guápulo y se usa también para conectar Quito y Cumbayá, conmovía. Ahí se podía apreciar la magnitud del peligro: a pocos pasos de varias casas quedaron los vestigios de lo que fue la **línea de fuego**.
+
+Tres meses más tarde hay una **buena noticia**, que es visible y muestra como la vida se da paso. Con la llegada de la lluvia el color comenzó a cambiar. En alguno de los troncos que parecían suspendidos en el aire se han comenzado a ver retoños verdes. Los **arbustos** están también cambiando de color, al igual que la maleza, que otra vez crece. Desde la avenida Simón Bolívar se nota la variedad de **colores del suelo**, pero ya no dominan los negros. Parecería un otoño que lucha entre la **muerte de sus hojas** y el **resurgimiento de nuevas.** Poco a poco desaparece del suelo las señales del voraz incendio.
+
+De lo que no hay noticias es de las **investigaciones** a las que estaban obligadas las autoridades: Municipio de Quito y Fiscalía. Se trató de un delito. Hasta donde se informó fueron **flagelos provocados** y, la verdad, es que en los dos últimos años estos son cada vez más graves. También se dijo que se buscaría a los **responsables**, que se trabajaría en esa dirección, pero por lo que se sabe, no pasa ni pasará nada.
+
+Parte de la **gestión de las autoridades** –sean políticas o de justicia- es obligar a que quienes atentan contra una ciudad, que pusieron en riesgo grave a miles, que colapsaron a la capital, sigan como si nada hubiese pasado. Sin embargo, aquello no existe y luego debemos escuchar sus discursos de un supuesto interés por proteger a la **población** y al **ambiente** y de que cumplen con sus **responsabilidades**.
+
+Tampoco hay **información** sobre algún cambio en el **sistema de monitoreo de zonas** como la del Auqui. Quito tiene **pocos bosques** y eso debiera cuidarse, pero tampoco se sabe nada. ¿Ya tienen los planes preventivos? ¿Cuándo arrancaron? ¿Cómo se va a mejorar la **protección de estas zonas** que son parte de los pulmones de la ciudad? ¿Alguien puede dar alguna respuesta?
+
+Xavier León Borja o “el retorno de lo nuevo”
+============================================
+
+El dibujo como huella explora la esencia del dibujo como memoria y resistencia en un mundo marcado por el caos social y ambiental.
+----------------------------------------------------------------------------------------------------------------------------------
+
+![Marco Antonio Rodríguez, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Marco-Antonio-Rodriguez-1.jpg)
+
+Vuelven él y su arte. Esta vez para explorar la esencia del dibujo en nuestro tiempo, en el cual la mayoría de **artistas visuales** lo excluyen por novelería oscilante entre la inopia y el esnobismo (moda). Más de doscientos dibujos remetidos en los últimos preceptos del **conceptualismo**. Lo hace asociado con Jorge Zaldumbide en lo atinente al episodio resuelto con el **realismo virtual** y la lúcida curaduría de Meysis Carmenati. _El dibujo como huella_ titula a su exposición Xavier León Borja (Quito, 1979).
+
+¿Qué es la huella? La define Walter Benjamin: “La **huella** es la aparición de una cercanía, por lejos que pueda estar lo que dejó atrás”. Este **horizonte** brumoso y fascinante es el que persigue este **artista**. Y la huella tiene surtidas facetas: las que deja el **peregrinaje** de los seres humanos a través de la historia; aquellas que revelan ciudades y comarcas; las que labran nuestros propios pasos: **fárrago** de **rostros** y rastros; los que dejan los pueblos en su erranza a través del tiempo…
+
+El dibujo: negación del vacío
+-----------------------------
+
+“Nacimos de la noche. En ella vivimos. Moriremos en ella. Pero la luz será mañana para los más, para aquellos que hoy lloran la noche, para quienes se niega el día, para quienes es regalo la muerte, para quienes está prohibida la vida. Para todos la luz. Para todos todo” (Declaración de la selva Lacandona).
+
+Cuatro momentos presenta la muestra: el primero, que la preludia, diseñado para las gradas de ingreso mediante un discurso inserto en nuestro **escenario humano, social y político**; el segundo, una instalación en papel, grafito y realismo virtual, que conmina a la reflexión en un ámbito silencioso; el tercero, un mural colectivo dirigido por León Borja, consumado en xilografía y que alude a la memoria y las revueltas sociales, y el cuarto, _Nacimos de la noche_, propuesta interactiva, luz y tiniebla, que habla del caos que impera en la humanidad, los desastres ambientales y una convocación a la esperanza.
+
+Obra de sitio específico, la de León Borja. Apropiación del espacio público. El artista omite el pasaje físico para llegar a la sala. Cuando se camina y asciende, se ingresa a la **racionalidad** del dibujo y a la forma misma de su aparición recurrente, performática, ubicua. En su proclama urde y cruza diversos ciclos de la vida y episodios históricos, como el de las **modernidades contradictorias**, el **capitalismo tecnológico** y el colonialismo. Relato polisémico que ata los tiempos: ayer, hoy y mañana. Tiempos: nacemos para morir, pero entre los dos actos ocurre la vida, sus heridas y sus goces. Y lo que se adentra en la vida, la historia, la cultura y lo que significa habitar, una historia a la que estamos condenados, pero de la que somos sus forjadores.
+
+“¿Todo dibujo es una sucesión de puntos o es más que eso? ¿Es el acto, el pensamiento?” Son interrogantes que proyecta la obra de León Borja. Y sigue en la cacería de su sustancia: “¿Puede el dibujo decirnos algo hoy? ¿Debe hacerlo? ¿Cuáles son sus alcances?”, se pregunta, anclado a la realidad que vivimos: un mundo desahuciado por las **guerras de los poderosos** contra los sin tierra, los sin patria, los saqueados “por siempre jamás”; por la presencia de fascismos de derechas e izquierdas; del poder como expresión de opresión y muerte; por el amasijo de miedos que funda la depredación ecológica; por la codicia de los mil millonarios que invierten en otros planetas porque sus vidas son despojos de una **humanidad** que perdió su nombre…
+
+_Memorama_ es otro capítulo de León Borja: todo arte es un juego, parece decirnos. **Entretenimiento** para la memoria. Otro de los espacios poblados de dibujos se titula _El dibujo que acompaña_. Instalación sobre la **permanencia del dibujo en el tiempo**. Legado y rastreo, armonía y algarabía, agitación y sosiego de este arte. Permanencia. Inmutabilidad.
+
+El arte de León Borja ha recorrido mundos. España, México, Cuba, Japón… albergan su obra visual. Muestras que han grabado su nombre en la historia reciente de nuestras artes visuales: _Animal_, 2010, recreación de la naturaleza. Develamiento del ser. _La toma de la casa grande_, 2011, travesía por sus laberintos interiores. La eviterna contienda entre civilización y barbarie. _Movimientos circulares,_ 2013, sondeo a fondo de la infancia. Crecer, “abrir los ojos” es el _fatum_ que nos atosiga y vence… hasta levantarnos y seguir en ese círculo ineluctable.
+
+Oficio y destrezas, el artista no deja de aprender, sus caminos se ensanchan y acrecientan. Testimonio y profecía. Tal el sentido grave y jubiloso de su propuesta.
+
+“no poseyendo más/ entre cielo y tierra que/ mi memoria, que este tiempo;/ decido hacer mi testamento./ Es este:/ les dejo/ el tiempo, todo el tiempo” (Eliseo Diego).
+
+Reseña de inventos e inventores
+===============================
+
+La historia de la ciencia difiere según las épocas, los enfoques y tendencias. En las siguientes líneas un breve registro de los principales avances.
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Los inventos forman parte de la producción intelectual.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-12.jpg)
+
+**La creación de la Lógica por parte de Aristóteles es un hito universal de todos los tiempos y en todas las culturas.** En el mismo rango se encuentran **el método socrático y el dialéctico propuesto por Heráclito.**
+
+En el **mundo oriental**, los **chinos** **hicieron importantes avances en la ciencia, la tecnología, la matemática, la astronomía y la escritura basada en símbolos.** Las primeras observaciones de cometas, eclipses solares y supernovas provienen de China. También hay aportes en la medicina: **la acupuntura y la medicina herbal.** El **ábaco, el “reloj de sombra” y las primeras máquinas voladoras tienen origen chino.** Los inventos de China antigua son **la brújula, la pólvora, el papel y la impresión.**
+
+**Los árabes fueron algebristas, médicos, geógrafos, matemáticos, físicos y astrónomos.** **Alhacén** fue pionero de la física experimental; **Al-Biruni** realizó estudios de cronología, astrolabios, sistemas decimales y el radio de la esfera terrestre.
+
+Pero si alguien revolucionó la astronomía antes de **Galileo Galilei fue Nicolás Copérnico**, quien escribió sobre la teoría helio centrista, que rebasó la teoría eclesiástica, de estilo tolemaico, que concebía a la Tierra como el centro del universo, que representó una **ruptura básica de la** **ideología religiosa medieval.**
+
+**Galileo Galilei,** por su parte, fue considerado **el padre de la ciencia, por sus trabajos experimentales sobre el método científico, junto a Francis Bacon y Johannes Kepler.** Galilei construyó el **primer telescopio**, que permitió comparar, de manera objetiva, el nivel de calor y de frío. Descubrió la **Vía Láctea**, los **anillos de Saturno**, los **satélites de Júpiter y las manchas solares**. Fue un duro golpe para los aristotélicos, que sostenían que **“los cielos son perfectos”.**
+
+La **ciencia moderna** se nutrió de creadores e inventores, en especial en la **Matemática, las Ciencias de la Naturaleza y las nacientes Ciencias Sociales.**
+
+**Lista incompleta de inventores**
+----------------------------------
+
+Los inventos forman parte de la producción intelectual. Según los especialistas como **Edward De Bono** corresponden al denominado **pensamiento lateral o diferente, no oficial o divergente.**
+
+La mayoría de los inventos –sobre todo en la antigüedad- era producto de **esfuerzos individuales**. En la actualidad los inventos son el resultado de **trabajo en equipo**, con fuertes aplicaciones tecnológicas.
+
+**No se ha logrado identificar un sistema para clasificar los inventos y los inventores.** A continuación, una lista incompleta de inventores, según esta fuente: **https://www.lifeder.com/inventores-famosos/**
+
+**Arquímedes (287-212 ac).** Matemático, físico, ingeniero, astrónomo e inventor griego. El valor PI y el famoso tornillo que permitía elevar el agua en minas y pozos se le atribuyen a Arquímedes.
+
+**Cai Lun (50-121).** Chino. Inventor del papel, mediante fibras vegetales compactadas suspendidas en agua y luego secadas.
+
+**Galileo Galilei (1564-1642).** Científico italiano, creador del telescopio, que revolucionó la ciencia de la época. Otro de sus inventos fue la brújula.
+
+**Isaac Newton (1642-1726).** Este científico inglés inventó el telescopio reflexivo, que amplió la capacidad de los telescopios y redujo la distorsión óptica.
+
+**Blaise Pascal (1623-1662).** De nacionalidad francesa, Pascal inventó la teoría de la probabilidad estadística o el principio de transmisión de presión en los fluidos. Se le atribuye la creación de la calculadora mecánica.
+
+**Thomas Sabery (1650-1715).** Inglés. Patentó una de las primeras máquinas de vapor, que se usó para bombear agua en las minas. Este invento es precursor de la máquina de vapor moderna.
+
+**Benjamín Franklin (1705-1790).** Científico americano que descubrió la electricidad e inventó la estufa, el pararrayos y los lentes bifocales.
+
+**Alessandro Volta (1745-1827).** Es físico italiano, que inventó la batería electroquímica, con la utilización de zinc, cobre y un electrolito.
+
+**Nikola Tesla (1856-1943).** Físico serbio. Es el inventor de la luz fluorescente, el motor por inducción, la electricidad de tres fases y la corriente alterna.
+
+**Michael Faraday (1791-1867).** De origen inglés, contribuyó a la electricidad en un sistema de utilización cotidiano. Descubrió el benceno y el mechero Bunsen.
+
+**Sir Richard Arkwrigth (1732-1792).** Se le considera padre de la revolución industrial. Creó el telar industrial, que hizo posible la creación masiva de textiles.
+
+**Louis Braille (1809-1852).** Tras quedarse ciego en su infancia, desarrolló un sistema de lectura para ciegos y también para lectura de partituras musicales.
+
+**Samuel Morse (1791-1872).** Este inventor americano desarrolló el electromagnetismo cablegráfico. El código Morse es famoso como sistema de comunicación utilizado en el telégrafo.
+
+**James Clerk Maxwell (1831-1879).** Inventor escocés, que creó un proceso para producir fotografías a color.
+
+**Karl Benz (1844-1929).** Alemán. Inventó el automóvil de propulsión por combustible de petróleo.
+
+**Thomas Alva Edison (1847-1931).** Es uno de los inventores más importantes del siglo XX. El bombillo –junto con Tesla-, el fonógrafo y la cámara de imágenes móviles son algunos de sus inventos.
+
+**Alexander Graham Bell (1847-1922).** Este científico inglés inventó el teléfono. Sus aportaciones abarcaron las telecomunicaciones, la aeronáutica y la hidrodinámica.
+
+**Rudolf Diesel (1858-1913).** Alemán de origen, inventó la máquina que lleva su nombre. Es un motor de combustión interna.
+
+**Edward Michelin (1859-1940).** Inventor francés de la llanta neumática, en base al prototipo de John Dunlop.
+
+**Marie Curie (1867-1934).**  Esta científica polaca descubrió el radio, que hizo posible el desarrollo de la radiación y los rayos X.
+
+**Hermanos Wright /1871-1948).** Inventores estadounidenses que diseñaron, construyeron y volaron el primer avión, en 1903.
+
+**Alexander Fleming (1881-1955).** Científico escocés, que descubrió por accidente el antibiótico, denominado penicilina, en 1928.
+
+**Johannes Gutenberg (1398-1468).** Alemán. Inventó la imprenta de caracteres móviles. Fue el fundamento para el desarrollo del libro, la prensa escrita y la industria editorial.
+
+**Alfred Nobel (1833-1896).** De origen sueco. Se le considera el inventor de la dinamita.
+
+**Enrico Fermi (1901-1954).** Hizo importantes descubrimientos de la radioactividad inducida. Este científico italiano es el creador de la industria nuclear moderna.
+
+**Robert Oppenheimer (1904-1967).** Estadounidense. Fue creador de la bomba atómica. Más tarde se convirtió en activista en contra de su misma invención.
+
+**Erno Rubik (1944). Inventor húngaro.** Creó el famoso cubo Kubik, el juguete más popular de la historia.
+
+**Tim Berners-Lee (1955).** De origen británico, inventó la web (WWW), World Wide Web, que permite acceder a Internet. Desarrolló el protocolo HTTP y contribuyó a la creación de la principal red de redes del mundo.
+
+**Steve Jobs (1955-2011).** Empresario e inventor estadounidense, que contribuyó a la revolución de la computación personal, con dispositivos para la computadora Mac, ¡Pod y ¡Phone.
+
+Cartas a Quito / 17 de diciembre de 2024
+========================================
+
+Estas son las cartas a Quito de este martes 17 de diciembre de 2024
+-------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Los plagios y la coherencia
+---------------------------
+
+Desde hace algunos años, el ataque implacable en contra de la Fiscal General del Estado, Doña Diana Salazar, han girado, de manera permanente e insistente, en el supuesto plagio de su tesis de grado en la Universidad Central.
+
+Hasta donde conozco, el principal sustento de la acusación, es el hecho de que no constan las citas a las fuentes de donde se obtuvo la información.
+
+De hecho, todos quienes obtenemos un título universitario recurrimos a obtener información de muchas fuentes, para poder conformar un todo que lleve a las conclusiones a las que queremos llegar en nuestras tesis de grado. Cierto que es una obligación moral citar las fuentes de manera precisa, no solamente como muestra de que respetamos autorías ajenas, si no, para el caso de que algún lector de nuestro trabajo desee ampliar información sobre determinado tema mencionado en nuestro trabajo. El no citarlas es lo que se está usando como confirmación de plagio.
+
+El hecho condenatorio debe extenderse a todo profesional que comete estas omisiones en su trabajo, que es el que le permite obtener el título universitario.
+
+La parte incoherente se presenta cuando, un grupo se empeña en condenar el trabajo de una persona por estas omisiones, mientras mantiene silencio cuando alguien afín a ese grupo hizo exactamente lo mismo para graduarse de ingeniero. No olvidemos que quien fue vicepresidente en uno de los períodos en que ese grupo político manejó el país, se confirmó que gran parte de su tesis fue copiada del sitio web “el rincón del vago” y que tampoco se mencionó en ese trabajo la fuente de la que obtuvo la información. ¿No es coherente que critiquen a las dos personas por la misma omisión?
+
+José M. Jalil Haas
+
+Donald Trump invita a Javier Milei a su ceremonia de investidura presidencial
+=============================================================================
+
+El presidente electo de EE. UU., Donald Trump, invitó al mandatario de Argentina, Javier Milei, a su posesión presidencial, en enero de 2025.
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+![Elon Musk, Javier Milei y Donald Trump, durante el foro de conservadores, en noviembre de 2024](https://www.elcomercio.com/wp-content/uploads/2024/12/donald-trump-javier-milei.jpg)
+
+El presidente electo de los Estados Unidos, **Donald Trump**, invitó al mandatario argentino, **Javier Milei**, a la ceremonia de **investidura presidencial**. Así lo informó este lunes 16 de diciembre de 2024 las autoridades del Gobierno del país suramericano.
+
+### Más noticias internacionales
+
+* [Tiroteo en escuela de Wisconsin, Estados Unidos, deja muertos y heridos](https://www.elcomercio.com/actualidad/mundo/tiroteo-escuela-estados-unidos-wisconsin-asesinados.html "Tiroteo en escuela de Wisconsin, Estados Unidos, deja muertos y heridos")
+* [Estados Unidos e Israel analizan la posibilidad de liberar rehenes de Gaza](https://www.elcomercio.com/actualidad/mundo/estados-unidos-israel-liberacion-rehenes-gaza.html "Estados Unidos e Israel analizan la posibilidad de liberar rehenes de Gaza")
+* [Javier Milei no tomará vacaciones e implementa restricciones para funcionarios](https://www.elcomercio.com/actualidad/mundo/javier-milei-tomara-vacaciones-pero-implementa-restricciones-funcionarios.html "Javier Milei no tomará vacaciones e implementa restricciones para funcionarios")
+
+“El presidente electo de los Estados Unidos, Donald Trump, invitó al presidente argentino a su acto de toma de mando el próximo **20 de enero**“, señaló el portavoz de la Presidencia, **Manuel Adorni**.
+
+El funcionario destacó que “es la **primera vez en la historia** que un presidente electo estadounidense invita a su par argentino a su acto de asunción”, en el que, según Adorni, estarán presentes la primera ministra de Italia, **Giorgia Meloni**, y el presidente de El Salvador, **Nayib Bukele**.
+
+Último encuentro de Donald Trump y Javier Milei
+-----------------------------------------------
+
+Trump y Milei se vieron por última vez en noviembre, durante un **foro de conservadores** que se llevó a cabo en Mar-a-Lago, el club privado del líder republicano en **Palm Beach**, en Florida, Estados Unidos.
+
+Durante una gala en ese evento, Trump, quien ya gobernó los Estados Unidos entre 2017 y 2021, felicitó a Milei, presidente desde finales de 2023, por el **trabajo** que ha hecho para “hacer la Argentina grande de nuevo”.
+
+“Creo que tus números están funcionando. Has hecho un **trabajo fantástico** en un período de tiempo muy corto”, le manifestó Trump en esa ocasión[.](https://es.wikipedia.org/wiki/Donald_Trump "https://es.wikipedia.org/wiki/Donald_Trump")
+
+Previamente, Milei había resaltado al republicano por su “**contundente victoria** y por la remontada política más grande de la historia, enfrentando a todo el establishment e, incluso, poniendo en riesgo su propia vida”, en referencia a los **dos atentados** que Trump sufrió durante la campaña.
+
+Elon Musk y el Departamento de Eficiencia Gubernamental
+-------------------------------------------------------
+
+Durante esa gala en Florida, Milei además se reunió con el multimillonario **Elon Musk**, a quien también felicitó por su nombramiento para el nuevo **Departamento de Eficiencia Gubernamental** (DOGE, en inglés) de Estados Unidos.
+
+Según resaltó este lunes Adorni, el DOGE que creará Trump es un “ente de desregulación hecho a semejanza” del **Ministerio de Desregulación y Transformación** del Estado creado por Milei y que preside Federico Sturzenegger.
+
+El presidente electo de Estados Unidos, Donald Trump, regresará a la **Casa Blanca** el 20 de enero con varias ofertas de cambios radicales, prometiendo aranceles sin precedentes, la mayor deportación en la historia del país y una política aislacionista.
+
+Déficit fiscal 2024: ¿Cómo afecta sus finanzas y qué medidas se necesitan?
+==========================================================================
+
+El déficit fiscal de Ecuador alcanzará cerca de 4 000 millones de dólares en 2024, impulsado por altos gastos en diciembre.
+---------------------------------------------------------------------------------------------------------------------------
+
+![El déficit fiscal afecta la economía del país con falta de inversión pública y empleo.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-47.jpg)
+
+Los últimos días del 2024 se incrementará el **déficit fiscal** para llegar a cerca de 4 000 millones de dólares. Esto debido a que las dos últimas semanas del año se incrementan los gastos por el pago del décimo tercer sueldo al sector público y otros pagos[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+
+### Más noticias
+
+* [Ley de alivio financiero en Ecuador: puntos clave y fecha de acceso a los más de 20 beneficios](https://www.elcomercio.com/actualidad/negocios/ley-de-alivio-financiero-en-ecuador-puntos-clave-y-fecha-de-acceso-a-los-mas-de-20-beneficios.html "Ley de alivio financiero en Ecuador: puntos clave y fecha de acceso a los más de 20 beneficios")
+* [Daniel Noboa cumple su primer año de gobierno](https://www.elcomercio.com/actualidad/politica/daniel-noboa-cumple-presidencia-ecuador.html "Daniel Noboa cumple su primer año de gobierno")
+* [¿Cómo acceder al seguro de desempleo con la ley de alivio financiero?](https://www.elcomercio.com/actualidad/negocios/como-acceder-seguro-desempleo-con-ley-alivio-financiero.html "¿Cómo acceder al seguro de desempleo con la ley de alivio financiero?")
+
+¿Qué es el déficit fiscal y cómo le afecta a los ecuatorianos?
+--------------------------------------------------------------
+
+El **déficit fiscal** es un indicador que demuestra que los **gastos** del Estado superan los **ingresos recaudados** en un año. Así, los **ingresos totales del** Ecuador no logran cubrir los gastos obligatorios de país, que en su **mayoría son corrientes**: pago de sueldos, pago de servicios e intereses de deuda.
+
+Entre enero y noviembre de 2024, los ingresos del Ecuador llegaron a **20 497 millones de dólares**, entre **impuestos y petróleo**. Mientras que los gastos sumaron **22 658 millones de dólares.** Esto se tradujo en un **déficit fiscal de 2 161 millones de dólares**, pero la cifra que podría superar los 3 500 millones de dólares al cierre del año, según datos del **Ministerio de Finanzas**, recogidos por el Observatorio de la Política Fiscal.
+
+Esto pese a que hubo **ingresos adicionales significativos**. Según datos de Finanzas, Ecuador recibió más de 2 000 millones de dólares extras gracias al aumento del impuesto al valor agregado (IVA), **autorretenciones y remisión.**
+
+El déficit fiscal deja poco margen para la **inversión pública** y los atrasos con proveedores se incrementan. Esto se traduce en **desempleo y menos dinero** para la economía ecuatoriana.
+
+Financiamiento basado en deuda y acumulación de atrasos
+-------------------------------------------------------
+
+El déficit fiscal y otras necesidades de financiamiento se han cubierto principalmente con deuda interna y externa, explicó **Jaime Carrera**, director ejecutivo del Observatorio de la Política Fiscal.
+
+El Instituto Ecuatoriano de Seguridad Social (IESS) se posicionó como el principal comprador de bonos estatales, mientras que organismos multilaterales como el **Banco Mundial y el FMI** han desembolsado préstamos significativos. A septiembre de 2024, la deuda interna aumentó en 1 955 millones de dólares y la deuda externa 1 796 millones de dólares. Además, se espera un nuevo desembolso de 500 millones de dólares del FMI en las próximas semanas.
+
+Adicionalmente, los atrasos en pagos superaron los 2 100 millones de dólares hasta noviembre. Para **Fausto Ortiz**, exministro de Finanzas, los atrasos económicos siguen siendo un desafío para el Gobierno. Aunque se heredó una economía con más de **5 500 millones de dólares** en atrasos, la administración actual no ha logrado reducir significativamente esta cifra. Si bien se ha priorizado el pago de las deudas más antiguas, el saldo total se mantiene.
+
+Proyecciones para 2025
+----------------------
+
+El análisis de Carrera anticipa un 2025 aún más complicado. Los pagos de intereses y amortizaciones de deuda, tanto interna como externa, alcanzarán los 8 877 millones dólares, equivalentes al 3,7% del PIB. Los intereses de los llamados “bonos basura” experimentarán un incremento sustancial debido al alza en las tasas. Por ejemplo, la tasa del bono 2040 subirá del 2,5% al 5,5%.
+
+Los compromisos con organismos multilaterales también aumentarán. El pago de intereses al FMI en 2025 será de 599 millones de dólares, mientras que el total de intereses de la **deuda externa** ascenderá a 2 545 millones dólares. Este peso financiero es insostenible, especialmente en un contexto de bajo crecimiento económico.
+
+El Fondo Monetario Internacional (FMI) prevé que la economía de Ecuador crecerá 0,3% en 2024, ligeramente por encima de su proyección inicial, que era de 0,1%.
+
+La persistencia en financiar el déficits mediante endeudamiento, sin ajustar el gasto corriente ni fomentar la inversión privada, limita el crecimiento económico, impide la creación de empleo y perpetúa la pobreza. Sin reformas estructurales profundas, el panorama fiscal de Ecuador continuará deteriorándose, comprometiendo su desarrollo a largo plazo, finalizó Carrera.
+
+Juez dictó medidas cautelares en el caso Triple A
+=================================================
+
+Cinco personas naturales y cinco personas jurídicas con medidas cautelares en el caso Triple A.
+-----------------------------------------------------------------------------------------------
+
+![Se desarrolló la audiencia de formulación de cargos del caso Triple A.](https://www.elcomercio.com/wp-content/uploads/2024/12/caso-triple-a.jpg)
+
+Un juez dictó **medidas cautelares** en el **caso Triple A**, este lunes 16 de diciembre de 2024.
+
+En este caso, **Fiscalía** investiga el presunto cometimiento del **delito de almacenamiento, comercialización o distribución ilegal de hidrocarburos.**
+
+### Más noticias:
+
+* [Caso Triple A, audiencia de formulación de cargos se suspendió por segunda ocasión](https://www.elcomercio.com/actualidad/seguridad/caso-triple-a-audiencia-formulacion-cargos-suspendio-segunda-ocasion.html "Caso Triple A, audiencia de formulación de cargos se suspendió por segunda ocasión")
+* [Nueva pugna entre Gobierno y Alcaldía de Guayaquil ¿Cuál es el motivo?](https://www.elcomercio.com/actualidad/politica/nueva-pugna-entre-gobierno-y-alcaldia-de-guayaquil-cual-es-el-motivo.html "Nueva pugna entre Gobierno y Alcaldía de Guayaquil ¿Cuál es el motivo?")
+
+Las medidas cautelares en el caso Triple A
+------------------------------------------
+
+Este lunes, se reinstaló la **audiencia de formulación de cargos** en el caso Triple A contra cinco personas naturales y cinco jurídicas.
+
+Se les investiga por almacenamiento, transporte, envasado, comercialización o distribución ilegal de productos derivados de **hidrocarburos**.
+
+Las **personas naturales** son: Fernando V., José C., Lady C., Jessenia V. y Carolina T..
+
+Las **personas jurídicas**: Fuelcorp S. A., Copedesa S. A., Corpalubri S. A., Ternape Petroleum S. A. y Indudiesel S. A.
+
+El Juez Especializado en **Delitos Relacionados con Corrupción y Crimen Organizado** que conoció la causa dispuso medidas cautelares.
+
+Para las personas naturales, resolvió la **prohibición de salida del país** y presentaciones periódicas dos días a la semana (lunes y viernes).
+
+Con relación a las personas, el juez ordenó **prohibición de enajenar** bienes y acciones.
+
+El **Fiscal** del caso informó que, luego de la investigación, se hallaron suficientes elementos de convicción para formular cargos contra los hoy procesados.
+
+Sin embargo, también informó que no se puede dar inicio al proceso penal de otros presuntos involucrados porque están de **candidatos** a una dignidad de elección popular en las elecciones 2025.
+
+El caso Triple A empezó con una denuncia presentada el 12 de julio del año en curso, por parte de la **Agencia de Regulación y Control de Energía y Recursos Naturales No Renovables**.
+
+La Agencia detectó una irregular distribución y comercialización de combustibles, que provocaría un perjuicio al **Estado ecuatoriano**.
+
+“De la denuncia se extrae que existirían **diferencias considerables** entre el volumen de combustible despachado y el facturado por varias estaciones y empresas”, señaló la Fiscalía.
+
+Se estableció la existencia de la relación de las empresas procesadas con otras distribuidoras de combustible, entre las que se **comercializaron** grandes cantidades de combustible, sobre todo diésel.
+
+“En dichas transacciones, se hallaron **presuntas irregularidades**“, agregó.
+
+### Las investigaciones
+
+La Fiscalía presume que el **diésel** subsidiado habría sido desviado a otros segmentos, pues varias de las estaciones que adquirieron el combustible se encuentran en **zonas fronterizas y mineras**.
+
+En uno de los casos señalados, una estación de venta de combustible adquirió más de 7 millones de galones, cuando la misma tiene una **capacidad de almacenamiento** para cerca de 10 000 galones.
+
+La Fiscalía expuso informes del **Servicio de Rentas Internas (SRI)** y de la **Unidad de Análisis Financiero y Económico (UAFE)** para sustentar sus argumentos.
+
+El delito que se investiga es sancionado con una pena privativa de libertad de hasta cinco años, según el **Código Orgánico Integral Penal (Coip)**.
+
+La Supercopa Ecuador tendrá el clásico de El Nacional y Liga de Quito
+=====================================================================
+
+Liga de Quito, campeón de la Liga Pro, jugará ante El Nacional, campeón de la Copa Ecuador, la final de la Supercopa Ecuador.
+-----------------------------------------------------------------------------------------------------------------------------
+
+![David Cabezas (izq.) de El Nacional, mejor arquero de la Copa Ecuador, saluda con Álex Arce (der.) de Liga de Quito, máximo goleador de la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/12/20241002130692-fbl-copa-ecuador-liga-nacional-scaled.jpg)
+
+Con el culmen de los torneos de 2024 en el país, una nueva final ya quedó determinada para el 2025. Una vez que **Liga de Quito** se coronó como campeón de la Liga Pro, el duelo de definición de la Supercopa Ecuador quedó fijada y los albos se enfrentarán a **El Nacional**, que ganó la **Copa Ecuador**.
+
+El conjunto azucena fue el encargado de cerrar el año futbolístico en Ecuador ante Independiente del Valle, al que derrotó en la final de la **Liga Pro** por un marcador global de 3-1. En la ida, la ‘U’ se impuso por 3-0 y en la vuelta cayó por la mínima diferencia.
+
+### Más noticias:
+
+* [El Nacional lanza camiseta y escudo para Copa Libertadores 2025](https://www.elcomercio.com/deportes/el-nacional-nuevo-escudo-camiseta-copa-libertadores.html "El Nacional lanza camiseta y escudo para Copa Libertadores 2025")
+* [Liga de Quito ya tiene a su primer refuerzo para el 2025](https://www.elcomercio.com/deportes/futbol/liga-de-quito-ya-tiene-a-su-primer-refuerzo-para-el-2025.html "Liga de Quito ya tiene a su primer refuerzo para el 2025")
+* [Liga de Quito, a un paso de igualar a El Nacional en campeonatos ecuatorianos](https://www.elcomercio.com/deportes/liga-quito-titulos-el-nacional-barcelona-cantidad.html "Liga de Quito, a un paso de igualar a El Nacional en campeonatos ecuatorianos")
+
+El título del torneo liguero le dio el pase hacia el primer torneo que se disputará en 2025, pues este enfrenta al ganador del campeonato regular con el de la **Copa Ecuador**. En este último certamen, **El Nacional** también se impuso a **Independiente del Valle**, pero lo hizo en una final única y con un marcador de 1-0.
+
+La fecha para el cotejo entre universitarios y criollos aún no ha sido oficializada por la **Federación Ecuatoriana de Fútbol (FEF)**. Pese a ello, este torneo es el que inaugura la temporada de certámenes en el país y en su última edición se jugó en el mes de febrero.
+
+¿Cómo les fue a El Nacional y Liga de Quito en 2024?
+----------------------------------------------------
+
+Los dos campeones ecuatorianos tuvieron una temporada que, si bien coincidió en la obtención de títulos, **a nivel de rendimiento marcó diferencias**. Asimismo, uno de los clubes tuvo supremacía sobre el otro en cuanto a enfrentamientos.
+
+**Liga de Quito** se coronó campeón tras ganar la segunda etapa y en la tabla acumulada finalizó en segundo puesto, separada de Independiente del Valle, únicamente, por gol diferencia. En el caso de El Nacional, este terminó séptimo en el escalafón global, sin embargo, en la **Copa Ecuador** consiguió pasar de rondas desde los dieciseisavos de final hasta hacerse con el título[.](https://es.wikipedia.org/wiki/Supercopa_de_Ecuador "https://es.wikipedia.org/wiki/Supercopa_de_Ecuador")
+
+Los dos clubes se cruzaron en **tres oportunidades** en el año. En la Liga Pro, los universitarios vencieron en una oportunidad y empataron en otra; dentro de la Copa Ecuador, los clubes se midieron en cuartos de final y el ‘Rojo’ venció en penales tras igualar en el tiempo reglamentario.
+
+¿Cómo fueron las anteriores ediciones de la Supercopa Ecuador?
+--------------------------------------------------------------
+
+Para la nueva final de la **Supercopa Ecuador**, Liga de Quito llega como el máximo campeón del torneo. El cuadro azucena ha levantado la presea en dos oportunidades, mientras que El Nacional buscará aquel trofeo de manera inédita.
+
+La primera vez que se jugó el certamen fue en el 2020, donde los albos se coronaron campeones tras vencer al Delfín. Al año siguiente, estos lo volvieron a hacer con un triunfo sobre **Barcelona SC.**
+
+En 2022 no se disputó el torneo y en 2024 tampoco. La última vez que se jugó fue en 2023 y dirimió como campeón a **Independiente del Valle** tras vencer a Aucas.
+
+Ecuador envió un mensaje a Corea del Sur tras varios días de crisis política
+============================================================================
+
+La Cancillería de Ecuador envió un mensaje a Corea del Sur, tras los días de crisis política que enfrentó con la destitución de su Presidente.
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+![El Parlamento de Corea del Sur destituyó a su Presidente el sábado 14 de diciembre](https://www.elcomercio.com/wp-content/uploads/2024/12/corea-del-sur-cancilleria-ecuador.jpg)
+
+El Gobierno de **Ecuador** envió un mensaje a **Corea del Sur**, este lunes 16 de diciembre de 2024, tras la **crisis política** que enfrentó el país en días pasados, y que culminó con la destitución del presidente **Yoon Suk-yeol**.
+
+### Más noticias internacionales
+
+* [El Presidente de Corea del Sur fue destituido](https://www.elcomercio.com/actualidad/mundo/presidente-corea-sur-destituido-parlamento.html "El Presidente de Corea del Sur fue destituido")
+* [Sucoreanos celebran con K-pop la destitución de Yoon Suk-yeol](https://www.elcomercio.com/actualidad/sucoreanos-k-pop-destitucion-yoon-suk-yeol.html "Sucoreanos celebran con K-pop la destitución de Yoon Suk-yeol")
+* [El exministro de Corea del Sur fue arrestado por orden de la fiscalía](https://www.elcomercio.com/actualidad/mundo/exministro-corea-sur-arrestado-orden-fiscalia.html "El exministro de Corea del Sur fue arrestado por orden de la fiscalía")
+
+Cancillería de Ecuador, sobre situación en Corea del Sur
+--------------------------------------------------------
+
+La Cancillería, en su comunicado oficial, “apreció la **recuperación del orden** en Corea del Sur”.
+
+“Ecuador se congratula de la firme defensa de la **democracia** y la ausencia de incidentes violentos durante este proceso, lo que refleja la **madurez cívica** del pueblo coreano y su compromiso inquebrantable con los valores democráticos”, manifestó el Ministerio de Relaciones Exteriores y Movilidad Humana.
+
+Además, reafirmó el “**apoyo y compromiso**” de Ecuador “para seguir fortaleciendo los lazos de amistad y cooperación” bilateral con el gobierno de **Han Duck-Soo**, el primer ministro surcoreano que asumió la presidencia interina del país tras la salida de Yoon[.](https://es.wikipedia.org/wiki/Corea_del_Sur "https://es.wikipedia.org/wiki/Corea_del_Sur")
+
+Ecuador “valora profundamente la **relación bilateral** con la República de Corea y continuará trabajando para promover una **agenda conjunta** que fomente el desarrollo, la prosperidad y el entendimiento mutuo entre ambos pueblos”, añadió la Cancillería.
+
+> Comunicado oficial | Ecuador saluda la recuperación del orden constitucional en la República de Corea [pic.twitter.com/AcD5juLVF8](https://t.co/AcD5juLVF8)
+> 
+> — Cancillería del Ecuador 🇪🇨 (@CancilleriaEc) [December 16, 2024](https://twitter.com/CancilleriaEc/status/1868777185911488759?ref_src=twsrc%5Etfw)
+
+Destitución del Presidente de Corea del Sur
+-------------------------------------------
+
+El **Parlamento** de **Corea** del **Sur** destituyó este sábado 14 de diciembre al presidente Yoon Suk-yeol, tras declarar la **ley marcial** el pasado 3 de septiembre
+
+Los 300 diputados de la **Asamblea** **Nacional** participaron en el proceso, que concluyó con **204 votos** a favor de la moción presentada por la oposición, 85 en contra, tres abstenciones y ocho papeletas nulas.
+
+Para aprobar la destitución, se requería una mayoría de dos tercios, es decir, al menos **200 votos**. La decisión contó con el respaldo de **diputados** pertenecientes a su propio partido.
+
+Tribunal decidirá el futuro de Yoon Suk-yeol
+--------------------------------------------
+
+Concluido el conteo, **Yoon** quedó **inhabilitado** de forma inmediata, y el primer ministro **Han** **Duck**–**soo** asumió interinamente la jefatura de Estado y Gobierno.
+
+El **Tribunal** **Constitucional** deberá decidir en un plazo máximo de 180 días si el presidente violó la Constitución al declarar la ley marcial.
+
+Si se confirma la infracción, **Yoon** se convertiría en el segundo mandatario destituido en democracia en **Corea** del **Sur**.
+
+En 2017, la expresidenta **Park Geun-hye**, también conservadora, fue apartada del cargo y encarcelada por corrupción.
+
+A Yoon, al que se le ha prohibido salir del país, así como a otros miembros de su Gabinete, como el exministro de Defensa, Kim Yong-hyun, que permanece en prisión preventiva, se les investiga por presuntos delitos de **amotinamiento**, abuso de poder o insurrección.
+
+Este último cargo es el más grave de todos ellos e incluso puede suponer el arresto de Yoon. A los líderes de levantamientos se los sanciona con **cadena perpetua**. _**Con información de EFE**_.
+
+Moisés Caicedo reveló quién es su ídolo del Chelsea
+===================================================
+
+Moisés Caicedo contó que uno de sus ídolos es un antiguo referente del Chelsea y afianzó su lazo con el club.
+-------------------------------------------------------------------------------------------------------------
+
+![Moisés Caicedo durante un partido con el Chelsea en la Premier League.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-16T202241.158.jpg)
+
+**Moisés Caicedo** vive una temporada extraordinaria en el Chelsea de Inglaterra y es uno de los referentes de la escuadra. El futbolista ecuatoriano dio a conocer quién es su ídolo y nombró a una de las más recientes figuras del equipo, quien también ocupó su posición.
+
+El volante tricolor vive su segunda campaña con la casaca de los ‘blues’ y ha sido un pilar en el equipo que dirige **Enzo Maresca**. En su último partido en la Premier League, que terminó en una victoria favorable ante el Brentford, este fue elegido como el mejor de su equipo.
+
+### Más noticias:
+
+* [Moisés Caicedo recibe un nuevo reconocimiento en el Chelsea](https://www.elcomercio.com/deportes/futbol/moises-caicedo-recibe-nuevo-reconocimiento-chelsea-premier.html "Moisés Caicedo recibe un nuevo reconocimiento en el Chelsea")
+* [Moisés Caicedo brilló, Chelsea ganó y es escolta del Liverpool](https://www.elcomercio.com/deportes/futbol/moises-caicedo-premier-league-escolta.html "Moisés Caicedo brilló, Chelsea ganó y es escolta del Liverpool")
+* [Moisés Caicedo estuvo cerca de ganar un prestigioso premio en Inglaterra](https://www.elcomercio.com/deportes/futbol/moises-caicedo-estuvo-cerca-de-ganar-prestigioso-premio-en-inglaterra.html "Moisés Caicedo estuvo cerca de ganar un prestigioso premio en Inglaterra")
+
+Al conjunto británico, **Caicedo** arribó para la temporada 2023-2024 desde el Brighton por una cifra récord. La escuadra de Londres pagó una cifra de **146 millones de dólares** y el fichaje del ecuatoriano se convirtió en el más caro en la historia de la liga inglesa.
+
+Cuando llegó al **Chelsea**, Caicedo mencionó que hacía realidad un sueño, pues desde sus inicios el cuadro británico había sido una de sus referencias y hacia donde apuntaba. Ahora, la vinculación con el plantel de la capital inglesa se hizo aún más fuerte debido a su revelación.
+
+N’Golo Kanté, el ídolo de Moisés Caicedo en el Chelsea
+------------------------------------------------------
+
+En una reciente entrevista con la cadena BBC, **Moisés Caicedo** contó parte de sus expectativas en el Chelsea. Allí, fue donde contó que uno de sus objetivos es emular a **N’Golo Kanté**, exfigura de los ‘blues’, y que este es uno de sus referentes[.](https://en.wikipedia.org/wiki/Chelsea_F.C. "https://en.wikipedia.org/wiki/Chelsea_F.C.")
+
+“**N’golo Kanté es mi ídolo. Intento a ayudar al equipo como él. Es un jugador muy grande y yo intento dar lo mejor (…) Estamos disfrutando este momento, lo estamos haciendo fantástico. El cielo es el límite**“, expresó el jugador oriundo de Santo Domingo.
+
+Moisés Caicedo, tal como Kanté, juega como volante defensivo, aunque se ha mostrado polivalente y ha rendido en otras posiciones. Junto al Chelsea, el tricolor ocupa la segunda posición de la Premier League, a su vez, lidera la primera ronda de la **UEFA Conference League** y aún tiene pendiente su participación en la FA Cup.
+
+La figura de N’Golo Kanté en el Chelsea
+---------------------------------------
+
+El francés **N’golo Kanté** aún se mantiene en actividad a los 33 años, sin embargo, lo hace en el Al-Ittihad de Arabia Saudita. El jugador se desempeñó en el Chelsea entre 2022 y 2023 y obtuvo una Premier League, una FA Cup, una UEFA Europa League, una Champions League, una Supercopa de Europa y un Mundial de Clubes.
+
+Dentro de su carrera, Kanté también cuenta con un **Mundial** y un subcampeonato con la Selección de Francia. Asimismo, con Leicester City ganó la Premier League en el 2016.
+
+Ciclovía en la Av. De la Prensa causa reclamos de usuarios y conductores
+========================================================================
+
+Una ciclovía se construye en la av. De la Prensa, en el norte de Quito. Algunos usuarios mostraron su preocupación por su ubicación.
+------------------------------------------------------------------------------------------------------------------------------------
+
+![Ciclovía delimitada de forma temporal con pintura en la av. De la Prensa, en el norte de Quito](https://www.elcomercio.com/wp-content/uploads/2024/12/av-de-la-prensa-ciclovia.jpg)
+
+El Municipio de **Quito**, a través de la Empresa de Movilidad y Obras Públicas (**Epmmop**) comenzó con los trabajos de **señalización** horizontal y vertical de la **av. De la Prensa**, en el norte de Quito. En esta calle, también, se implementa una **nueva ciclovía**.
+
+Nueva ciclovía en la av. De la Prensa
+-------------------------------------
+
+Según detalló la entidad, la ciclovía cubrirá un recorrido de **4,5 kilómetros**. Los trabajos se realizan a través de **tres tramos** de intervención:
+
+* **Av. Amazonas:** Desde los parqueaderos del Parque Bicentenario, hasta la av. De la Prensa.
+* **Av. de La Prensa:** Desde la av. Amazonas hasta la av. Diego Vásquez de Cepeda.
+* **Av. Diego Vásquez de Cepeda:** Desde la av. Amazonas hasta la estación del Corredor Norte La Ofelia.
+
+La intervención comenzó el **jueves 12 de diciembre**; se tiene previsto que la obra finalice en **30 días**, el 12 de enero de 2025.
+
+El proyecto de **363 000** **dólares** incluye la instalación de bolardos, bordillos plásticos, obras civiles y elementos semafóricos.
+
+Esta nueva ciclovía se sumará a los **130,29 kilómetros** de infraestructura ya existente en la capital.
+
+> 🚴‍♀️[#Ciclovía](https://twitter.com/hashtag/Ciclov%C3%ADa?src=hash&ref_src=twsrc%5Etfw) | Iniciamos los trabajos de señalización vial y la implementación de una nueva ciclovía en la av. de La Prensa, con un alcance total de 4.5 kilómetros.  
+>   
+> Conoce todos los detalles 👉 [https://t.co/n2WTHP6tAm](https://t.co/n2WTHP6tAm)[#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw)[#QuitoQuedaPapelito](https://twitter.com/hashtag/QuitoQuedaPapelito?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/4uT3yRIcT8](https://t.co/4uT3yRIcT8)
+> 
+> — Obras Quito (@ObrasQuito) [December 12, 2024](https://twitter.com/ObrasQuito/status/1867280480493535373?ref_src=twsrc%5Etfw)
+
+Nueva ciclovía causa reclamos de usuarios y conductores
+-------------------------------------------------------
+
+La Epmmop afirmó que el objetivo de esta nueva ciclovía es fomentar formas de transporte sostenibles y mejorar la infraestructura destinada a **ciclistas**. Sin embargo, usuarios en **redes sociales** mostraron su preocupación con parte de la obra.
+
+En los cinco primeros días de la intervención, los operarios **delimitaron el área** destinada a la ciclovía con pintura en la calzada. Ante ello, ciclistas mostraron su malestar al considerar que este espacio, en ciertos puntos, “**los pone en riesgo**“.
+
+Por ejemplo, en X, usuarios dijeron considerar a la obra como “peligrosa” por ubicarse en medio del tránsito vehicular y del carril exclusivo del **Corredor Central Norte**, entre la calle Jorge Piedra y Base Aérea[.](https://www.epmmop.gob.ec/ "https://www.epmmop.gob.ec/")
+
+Algunos conductores también mostraron su **inconformidad** con la ubicación de la ciclovía; creen que la movilidad en la avenida **se complicará** debido a los carros que se parquean al lado derecho, a lo largo de la calle.
+
+“El momento que pasa un bus s**olo queda un carril** por el cual transitar (…) deben controlar de mejor forma el espacio”, mencionó un usuario en la red social.
+
+Señalización vial en la av. De la Prensa
+----------------------------------------
+
+Además de la implementación de la ciclovía, la Epmmop realiza la colocación de **señalización vial** en toda la av. De la Prensa.
+
+Estos trabajos durarán unos **45 días** y “no afectarán la implementación de la ciclovía”, a decir por la entidad.
+
+Procuraduría explicó el monto que pidió como reparación integral en el caso Metástasis
+======================================================================================
+
+El monto de reparación integral del caso Metástasis se dará a conocer por escrito.
+----------------------------------------------------------------------------------
+
+![Procuraduría explicó el monto de reparación integral que pidió en el caso Metástasis.](https://www.elcomercio.com/wp-content/uploads/2024/10/metastasis-1.jpg)
+
+La **Procuraduría** explicó el **monto** que pidió como **reparación integral** en el **caso Metástasis**, este lunes 16 de diciembre de 2024.
+
+La institución sacó el cálculo del monto total de la suma de **dos valores**.
+
+### Más noticias:
+
+* [Caso Metástasis, estas son las razones de los jueces para sentenciar a 20 vinculados](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-estas-son-las-razones-de-los-jueces-para-sentenciar-a-20-vinculados.html "Caso Metástasis, estas son las razones de los jueces para sentenciar a 20 vinculados")
+* [Caso Metástasis, Tribunal sentencia a Wilman Terán y 19 procesados a entre 3 y 10 años](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-jueza-confirma-delincuencia-organizada-se-espera-sentencia.html "Caso Metástasis, Tribunal sentencia a Wilman Terán y 19 procesados a entre 3 y 10 años")
+
+El monto de la reparación integral pedido por Procuraduría en el caso Metástasis
+--------------------------------------------------------------------------------
+
+El pasado 25 de noviembre, tras casi ocho horas de audiencia, un tribunal de la **Corte Nacional de Justicia** (CNJ) emitió sentencia en el caso Metástasis.
+
+Un total de **20 personas**, incluido el exjuez de la CNJ, **Wilman T.**, recibieron sentencia de forma oral, de primera instancia.
+
+Las sentencias contra la red que favoreció a **Leandro Norero (+)** fueron desde los 10 años hasta los tres años de cárcel, sin contar con los procedimientos abreviados.
+
+El Tribunal señaló que dará a conocer por **escrito** lo que deberán pagar los imputados.
+
+Además, hay **ocho procesados** que aún no son sometidos a juicio porque están **prófugos**, entre estos están el exasambleísta del correísmo, **Ronny A.** y el empresario Xavier J..
+
+Más de 20 días después, la Procuraduría emitió un comunicado para aclarar sobre el momento que solicitó como reparación integral en el **caso Metástasis.**
+
+La Procuraduría explica el monto solicitado con base en **dos parámetros**:
+
+* La **Constitución y el Código Orgánico Integral Penal (Coip)**, último que establece una multa de 12 a 20 salarios básicos unificados para los delitos sancionados con pena privativa de la libertad entre 5 y 7 años.
+* El valor del **informe pericial financiero** que comparó la declaración de los impuestos pagados por los procesados en el **Servicio de Rentas Internas (SRI)** y los montos disponibles en sus cuentas bancarias.
+
+Así, el **monto total de reparación económica** solicitado por la Procuraduría fue de **2 916 973,44 dólares**.
+
+Considerando los **2 512 173,44**, resultado del peritaje financiero, que es la suma de cada uno de los montos individuales de los sentenciados.
+
+Y, los **404 800 dólares**, que es el duplo del máximo del valor establecido en Coip.
+
+La Procuraduría agregó que, el **informe pericial financiero** incluye a ocho de los 21 procesados.
+
+Estos son: **Xavier Alexander N.A.**, Ronald Xavier G.C., Eddin Alexander I.C., Armando Heriberto R.T..
+
+Además, Víctor Hugo A.B., César Manuel A., Sofía Nathaly G.M., **Katherine Pilar G.A.**.
+
 Ecuador fue la selección más joven de Sudamérica en 2024
 ========================================================
 
@@ -353,696 +922,3 @@ En el equipo de El Oro, **Erique disputó 23 partidos, 21 de ellos como titular*
 Su regreso a Liga de Quito representa una oportunidad clave para competir por el puesto con **Leonel Quiñónez**, un jugador con más experiencia. Dada la gran cantidad de partidos que el equipo disputará en 2025, **Erique será una alternativa valiosa para Pablo ‘Vitamina’ Sánchez**, quien podrá darle descanso al lateral titular en ciertos compromisos.
 
 El regreso de Yeltzin Erique no solo refuerza la plantilla de Liga, sino que también confirma el compromiso del club con el desarrollo de sus jóvenes talentos.
-
-Streamer sufre asalto durante transmisión en vivo y todo queda grabado
-======================================================================
-
-Un robo impactante quedó registrado mientras la streamer transmitía en vivo.
-----------------------------------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/streamer-asalto-El-Comercio.jpg)
-
-La **streamer Mica Ybañez** sufrió un violento robo mientras realizaba una transmisión en vivo. En menos de cuatro segundos, dos motochorros rompieron la ventanilla de su auto y se llevaron su celular.
-
-Todo quedó grabado en la transmisión. El incidente ocurrió mientras Ybañez, junto a su compañero Nico Acosta, conversaba con sus seguidores el martes 10 de diciembre de 2024.
-
-### Más noticias:
-
-* **[Eugenio Derbez anuncia posible retiro en 2025](https://www.elcomercio.com/afull/eugenio-derbez-anuncio-retiro-actuacion.html "https://www.elcomercio.com/afull/eugenio-derbez-anuncio-retiro-actuacion.html")** 
-* **[‘Marimar’ de Thalía es la mejor canción de telenovela](https://www.elcomercio.com/afull/marimar-thalia-billboard.html "https://www.elcomercio.com/afull/marimar-thalia-billboard.html")**
-
-La secuencia muestra cómo dos individuos con cascos se acercaron en moto. Uno de ellos rompió la ventanilla izquierda del vehículo con un golpe seco y se llevó el teléfono que estaba sobre el tablero.
-
-El estruendo de los vidrios sorprendió a los ocupantes del auto, quienes resultaron ilesos. Aunque el ladrón logró escapar, el dispositivo fue recuperado horas después, según confirmaron los propios involucrados.
-
-“El celular seguía grabando”: Las imágenes del escape
------------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/streamer-asalto-El-Comercio-1-1024x683.jpg)
-
-El robo, que quedó registrado desde dos ángulos, mostró al delincuente corriendo con el celular en la mano antes de subir a la moto de su cómplice.
-
-Los seguidores conectados a la transmisión en vivo pudieron observar la escena hasta que el ladrón, al percatarse de la cámara encendida, tapó el lente.
-
-Este tipo de robos, conocidos como “motochorros”, se ha vuelto cada vez más común en ciudades latinoamericanas.
-
-Tras el incidente, Nico Acosta, compañero de la **streamer** y manager del boxeador Maravilla Martínez, compartió en redes imágenes del auto dañado.
-
-En las fotografías se puede ver el vidrio estallado esparcido por el asiento del acompañante y el suelo del vehículo.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/streamer-asalto-El-Comercio-2-1024x683.jpg)
-
-> Amigo esto acaba de pasar en el stream de milica.  
->   
-> Brunenger un poroto al lado de esto. [pic.twitter.com/GtinBfPOlc](https://t.co/GtinBfPOlc)
-> 
-> — Tomás 🇦🇹 ⭐⭐⭐ (@TZdelRojo) [December 10, 2024](https://twitter.com/TZdelRojo/status/1866615237027471820?ref_src=twsrc%5Etfw)
-
-Casos similares: Streamers bajo ataque en transmisiones
--------------------------------------------------------
-
-El robo a Mica Ybañez no es un hecho aislado. En mayo, fue el turno de Francisco Cabanne, conocido como Topo Ramone, fue asaltado mientras circulaba en moto por la autopista Panamericana, en Tigre. El robo quedó registrado gracias a una cámara que llevaba en su casco.
-
-Otro caso ocurrió con el **streamer Bruno Kruszyn**, conocido como Brunenger, en 2023. Mientras realizaba una transmisión desde su auto en el barrio de Balvanera, dos motochorros rompieron la ventana del acompañante y se llevaron su celular. La transmisión se cortó de inmediato, y el streamer denunció el hecho a las autoridades.
-
-Cortes de luz en Quito este martes 17 de diciembre
-==================================================
-
-Los cortes de luz en Quito son de hasta dos horas para el sector residencial este martes 17 de diciembre.
----------------------------------------------------------------------------------------------------------
-
-![La EEQ definió el cronograma de cortes de luz este martes 17 de diciembre.](https://www.elcomercio.com/wp-content/uploads/2024/12/cortes-luz-Quito-martes-17-diciembre.jpg)
-
-Los **cortes de luz** en **Quito** este **martes 17 de diciembre** de 2024 serán de dos horas para el sector residencial.
-
-La **Empresa Eléctrica Quito (EEQ)** definió la programación para mañana.
-
-### Más noticias:
-
-* [Gobierno ratifica el fin de los cortes de luz luego de más de 80 días de racionamientos](https://www.elcomercio.com/actualidad/ecuador/gobierno-ratifica-fin-cortes-luz-ecuador.html "Gobierno ratifica el fin de los cortes de luz luego de más de 80 días de racionamientos")
-* [Una unidad de la Central Alluriquín se conecta a la red eléctrica nacional](https://www.elcomercio.com/actualidad/negocios/una-unidad-de-la-central-alluriquin-se-conecta-a-la-red-electrica-nacional.html "Una unidad de la Central Alluriquín se conecta a la red eléctrica nacional")
-
-Horarios de cortes de luz en Quito este martes 17 de diciembre
---------------------------------------------------------------
-
-Ecuador está a pocos días de finalizar con los cortes de energía programados, según el **Gobierno de Daniel Noboa.**
-
-El país atraviesa por una de las peores **sequías** de los últimos años y la dependencia de las **lluvias** para la generación energética hizo que se tome estas medidas.
-
-Según el Gobierno, hay varios factores que permiten acabar con los cortes de luz este **viernes 20 de diciembre.**
-
-Entre estas están: optimización de la **capacidad instalada**, inversión en activación o reactivación de proyectos energéticos.
-
-Además, del incremento de las lluvias que ha permitido subir los niveles de los canales y los embalses que abastecen las **hidroeléctricas**.
-
-Este lunes, también se puso en funcionamiento la Unidad 3 de la Central **Alluriquín**, que pertenece al complejo **Toachi-Pilatón**.
-
-Así, dentro del último período de cortes de luz que duró más de dos meses, en esta semana, es la primera vez que los apagones duran **dos horas** consecutivas.
-
-En **Quito**, los **horarios** se mantienen desde este lunes 16 hasta el jueves 19 de diciembre.
-
-Los feriados de **Navidad** y **Año Nuevo** los ecuatorianos tendrán servicio de energía eléctrica ininterrumpido, según las proyecciones del Gobierno.
-
-A continuación, los horarios de **cortes luz en Quito este martes 17 de diciembre** de 2024:
-
-Agente de Álex Arce no descarta su continuidad en Liga de Quito
-===============================================================
-
-Álex Arce jugó con la Selección de Paraguay la Copa América Estados Unidos y las eliminatorias 2026.
-----------------------------------------------------------------------------------------------------
-
-![Álex Arce celebra uno de los 35 goles en la temporada 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/arce_representante_1.jpg)
-
-**Miguel Gareppe**, representante de Álex Arce, por estas horas es uno de los hombres más buscados del fútbol de Ecuador y de Sudamérica en general. Su representado es uno de los goleadores de moda.
-
-La temporada 2024 de **Álex Arce con Liga de Quito se cerró con 35 goles en 46 partidos**. Marcó en Liga Pro, Copa Ecuador, Copa Libertadores, Sudamericana y Recopa Sudamericana, es decir, en todos los torneos que intervino.
-
-### Más noticias:
-
-* [Liga de Quito recibió mimos de sus rivales de la Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-quito-felicitaciones-equipo-liga-pro.html "Liga de Quito recibió mimos de sus rivales de la Liga Pro")
-* [‘Vitamina’ Sánchez y Alex Arce, figuras del título de Liga de Quito](https://www.elcomercio.com/deportes/futbol/vitamina-sanchez-alex-arce-liga.html "‘Vitamina’ Sánchez y Alex Arce, figuras del título de Liga de Quito")
-* [Liga de Quito queda a tres títulos de Barcelona Sporting Club](https://www.elcomercio.com/deportes/futbol/liga-quito-titulos-nacionales-ecuador.html "Liga de Quito queda a tres títulos de Barcelona Sporting Club")
-
-¿Cómo se define el futuro de Arce?
-----------------------------------
-
-El 2025 para Arce será clave para la continuidad de su carrera. A su **29 años de edad debe decidir con sabiduría el siguiente paso**, ya sea en Liga o siendo transferido a otro club.
-
-Lo primero cierto es que el contrato del **delantero paraguayo con LDU es hasta diciembre de 2026**, es decir, aún tiene por delante dos años más para seguir en el fútbol ecuatoriano, pero aquí entra en juego la parte económica.
-
-En un segundo ítem parecería imposible que un equipo de Ecuador, por más que se trate de Liga, **pueda competirle en lo monetario a cualquier equipo brasileño**, pero para que la transacción se concrete todas las partes involucradas deben estar satisfechas y de acuerdo.
-
-Isaac Álvarez, presidente de Liga de Quito, mencionó este lunes 16 de diciembre de 2024, **que el futuro de Arce aún no está definido y tampoco** descarta que siga la siguiente temporada para disputar la Copa Libertadores, uno de los objetivos de los albos.
-
-“Álex dejará Liga solo si hay algo que nos convenga a nosotros y al jugador, por ahora, no hay nada cerrado”, dijo en entrevista con Área Deportiva.
-
-Una tercera certeza es que ha tenido sondeos de distintos puntos de Sudamérica, **especialmente de Brasil**, la liga más poderosa de esta parte del mundo, tanto en el nivel futbolístico, como en el económico, pero una oferta como tal, no.
-
-Como cuarto elemento aparece **Gustavo Alfaro, exDT de Ecuador y actualmente en Paraguay**, que lo tiene como uno de los habituales de la escuadra paraguaya para las eliminatorias al Mundial 2026.
-
-El deseo que tiene Arce de seguir siendo tomado en cuenta y de **jugar una Copa del Mundo** hacen que su prioridad sea seguir en el fútbol sudamericano, por lo que una eventual propuesta de Europa o de otro punto del mundo no parecería tan atractiva, por el momento.
-
-El gran presente que vivió en Liga desde que empezó el año lo hizo debutar en el equipo nacional de su país, con el que jugó la Copa América de Estados Unidos, gracias a la confianza de Daniel Garnero.
-
-![Instagram del futbolista.](https://www.elcomercio.com/wp-content/uploads/2024/12/arce_representante_2-1024x683.jpg)
-
-Instagram del futbolista.
-
-Gareppe no destaca ninguna opción
----------------------------------
-
-Desde este lunes Gareppe y Arce se encuentran en Paraguay para iniciar el periodo de vacaciones.
-
-A su arribo, el empresario habló con Cardinal Deportivo y **mencionó que una propuesta en firme por el jugador no ha llegado**, pero que sí ha tenido “sondeos” para saber cuál es la situación contractual del deportista.
-
-“(…) se ventila por ahí que hay ofertas, pero yo solo tuve sondeos”, indicó, al tiempo de dejar claro que toda negociación y decisión que se tome será con el conocimiento de Liga, equipo que “compró” los derechos económicos del delantero.
-
-Agregó que la idea es mantenerlo en el “continente” para que esté cerca de Paraguay y de su Selección.
-
-“(…) **si tuviera que seguir en Liga, con mucho gusto** (…) Ahora empezaremos a filtrar y definir para tomar la mejor decisión (…) Veremos si tienen el interés de recibir y escuchar ofertas”, finalizó.
-
-Confesionario – segunda temporada en proceso
---------------------------------------------
-
-Este es el país con más fiestas populares y reinados de América Latina
-======================================================================
-
-Las fietas populares y reinados en Colombia son parte de un fenómeno cultural que resalta la diversidad, creatividad y alegría que caracterizan al país.
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Bailarines actúan por las calles durante la celebración del Festival Son de Negros en Santa Lucía (Colombia).](https://www.elcomercio.com/wp-content/uploads/2024/11/festival-colombia-efe.jpg)
-
-[América Latina](https://www.elcomercio.com/actualidad/mundo/cumbres-realizaron-daran-america-latina-2024.html "https://www.elcomercio.com/actualidad/mundo/cumbres-realizaron-daran-america-latina-2024.html") es conocida por celebrar **múltiples fiestas** populares incluso, cada fin de semana. Es así que los países destacan su **diversidad cultural.**
-
-### Más noticias
-
-* [Este es el país más grande del mundo](https://www.elcomercio.com/actualidad/mundo/este-pais-mas-grande-mundo.html "Este es el país más grande del mundo")
-* [La nieve llega a Europa Central y genera caos en carreteras](https://www.elcomercio.com/actualidad/mundo/nieve-llega-europa-central-genera-caos-carreteras.html "La nieve llega a Europa Central y genera caos en carreteras")
-* [Estos son los cinco países más poblados del mundo](https://www.elcomercio.com/actualidad/mundo/son-cinco-paises-poblados-mundo.html "Estos son los cinco países más poblados del mundo")
-
-Con más de **10 fiestas populares** y reinados en un solo fin de semana es Colombia el país que **destaca su diversidad** cultural y tradiciones únicas, de acuerdo con El Tiempo de Colombia.
-
-Colombia es un país que celebra su cultura
-------------------------------------------
-
-Las fietas populares y reinados en Colombia son parte de un fenómeno cultural que resalta la diversidad, creatividad y alegría que caracterizan al país.
-
-A lo largo del año, las celebraciones no cesan. Desde **carnavales y ferias** hasta reinados locales, nacionales e internacionales, prácticamente todos los municipios colombianos encuentran un motivo para festejar. Sin embargo, el fin de semana del puente festivo de **San Pedro** marca un récord con su intensidad y variedad de eventos, afirma diario El Tiempo de Colombia.
-
-San Pedro y otras fiestas impredibles
--------------------------------------
-
-La festividad de San Pedro, que se celebra con gran entusiasmo en **Girardot, Espinal y Melgar,** es una de las principales protagonistas de este fin de semana. Esta fiesta incluye d**esfiles, música folclórica, bailes** y actos culturales que resaltan la tradición popular.
-
-Simultáneamente, en otras regiones del país se llevan a cabo festivales igualmente importantes. **El Festival del Joropo** en Villavicencio enaltece la música y **danza llanera**, mientras que el Festival del Bambuco en Neiva reúne lo mejor del folclor del Huila. El **Reinado del Café en Calarcá,** el Festival del Porro en San Pelayo y el **Festival de la Feijoa** en Tibasosa también forman parte de esta celebración nacional, señala El Tiempo de Colombia.
-
-Cada uno de estos eventos no solo resalta la riqueza cultural colombiana, sino que también dinamiza la economía local a través del **turismo, la gastronomía y el comercio.** Municipios enteros se convierten en escenarios de tradición y alegría, atrayendo visitantes nacionales e internacionales.
-
-Colombia es, sin lugar a dudas, el país de las reinas, las **festividades y los carnavales**. Su capacidad para celebrar y mantener vivas sus tradiciones lo posiciona como un destino cultural único en el mundo.
-
-El festival Son de Negro
-------------------------
-
-Son de negro es una danza que reivindica tradiciones afro en el norte de Colombia. Tiene su origen en la época de la Colonia en **Cartagena de Indias**, ciudad en donde desemboca el **Canal del Dique**, y que se extendió a lo largo de todas las poblaciones ubicadas a la orilla del cuerpo de agua artificial construido con mano de obra esclavizada e inaugurado en 1650, de acuerdo con Efe.
-
-El investigador cultural y promotor del festival Son de Negro Alex Jordan manifiesta a EFE que “las morisquetas que hacen los bailarines son una burla de los negros esclavizados hacia los españoles”.
-
-El experto anota que en un principio “los grupos eran solamente hombres, pero con los años incorporaron a mujeres que participan en los coros”.
-
-Huelga de hambre de migrantes pide a Joe Biden que los proteja
-==============================================================
-
-La huelga es organizada por la National TPS Alliance, dentro de la semana de acción contra las deportaciones.
--------------------------------------------------------------------------------------------------------------
-
-![Miembros de la organización Alianza Nacional TPS (National TPS Alliance, en inglés) posan este lunes, al inicio de una huelga de hambre en la sede de la Junta General de la Iglesia y la Sociedad.](https://www.elcomercio.com/wp-content/uploads/2024/12/huelga-hambre-estados-unidos.jpg)
-
-Una **decena de personas migrantes** beneficiarias del **Estatus de Protección Temporal (**TPS) en Estados Unidos iniciaron este lunes, 16 de diciembre de 2024, una **huelga de hambre** en Washington. Su objetivo es pedir al presidente, [Joe Biden](https://es.wikipedia.org/wiki/Joe_Biden "https://es.wikipedia.org/wiki/Joe_Biden"), que **las proteja antes de la llegada** el próximo enero del republicano Donald Trump, quien prometió **deportaciones masivas**.
-
-### Más noticias
-
-* [Trump confirma que usará al Ejército para deportar a migrantes indocumentados](https://www.elcomercio.com/actualidad/mundo/trump-confirma-que-usara-a-fuerzas-armadas-para-deportar-a-migrantes-indocumentados.html "Trump confirma que usará al Ejército para deportar a migrantes indocumentados")
-* [Defensa de Trump pide desestimar su caso en Nueva York tras indulto al hijo de Biden](https://www.elcomercio.com/actualidad/mundo/defensa-de-trump-pide-desestimar-su-caso-en-nueva-york-tras-indulto-al-hijo-de-biden.html "Defensa de Trump pide desestimar su caso en Nueva York tras indulto al hijo de Biden")
-* [Donald Trump agradece a Joe Biden una transición pacífica](https://www.elcomercio.com/actualidad/mundo/trump-destaca-politica-dura-agradece-biden-transicion-pacifica.html "Donald Trump agradece a Joe Biden una transición pacífica")
-
-Miembros de la organización **Alianza Nacional TPS** (National TPS Alliance, en inglés) dieron comienzo a esta acción con la que quieren que Biden les conceda una **extensión de su TPS** que les permitiría residir en el país legalmente durante **18 meses** más y complicaría que **Trump les pudiese deportar**.
-
-El TPS, un permiso que se otorga a **personas provenientes** de países en crisis y con el que millones de migrantes pudieron **permanecer en el país durante años,** se encuentra amenazado por la llegada a la Casa Blanca de Trump, porque aunque no especificó **cómo va aplicar su plan**, prometió **mano dura** en materia migratoria.
-
-Testimonios de migrantes
-------------------------
-
-Donis Hernández, originario de El Salvador, es una de las personas que **se unió a la huelga** para exigir esta renovación. Su permiso caduca el 9 de marzo y teme que **si no consigue renovarlo** durante el mandato de Biden tampoco pueda hacerlo después.
-
-“El miedo más grande que tenemos es que **va a haber familias separada**s. Llevo más de 20 años aquí y en mi familia hay personas que se **podrían quedar** y **otras que no**“, explicó.
-
-Como él, **Neida Mejía**, nacida en Honduras y beneficiaria del TPS **desde hace más de dos décadas**, tiene permiso hasta el próximo julio y teme que si la deportan no pueda ver más a sus nietos.
-
-“Tengo miedo de que nos separen, **ellos han nacido aquí** y tienen permiso para quedarse”, aseguró muy emocionada.
-
-Esta huelga, organizada por la **National TPS Alliance** está dentro de la semana de acción contra las deportaciones que convocó el Movimiento por una **Reforma Migratoria Justa** (FIRM, por sus siglas en inglés) coincidiendo con el día internacional del migrante, que se celebra el miércoles 18.
-
-“Conocemos las **amenazas que se avecinan** con la Administración de Trump”, dijo en una llamada con periodistas Jose Palma, coordinador de la Alianza. “La **huelga de hambre es para meter presión** y exigir a Biden a que tome medidas antes de Navidad”.
-
-Los huelguistas recuerdan que **gracias a la lucha** y a acciones como estas ya consiguieron permanecer en el país durante el primer mandato de Trump (2017-2021).
-
-“Su **anterior llegada al poder fue un desastre** para nosotros porque el TPS fue cancelado. Tuvimos que lucharlo en las cortes y al final conseguimos **quedarnos gracias a ganar extensión a extensión**“, contó Soledad Miranda, una salvadoreña que lleva más de 30 años en el país.
-
-Además de pedir una nueva extensión, la mujer reprocha a Biden que “prometiese que iba a trabajar durante sus primeros 100 días sobre la inmigración” y que casi al final de su mandato su situación, como la de tantos otros, siga sin regularizarse.
-
-“Pagamos impuestos aquí, creo que es justo que después de todos estos años tengamos ya una residencia, pero ahora no tenemos **ni residencia ni extensión**“, lamentó.
-
-Pese a que la huelga inició con 11 personas, esperan que puedan llegar a ser hasta 25 llegados de todas partes del país.
-
-Los migrantes en huelga permanecen en una iglesia metodista cercana al **Tribunal Supremo** del país, tienen provisiones de **agua e isotónico** y se someterán regularmente a pruebas de tensión para comprobar que se encuentran bien.
-
-Evita que Alexa diga groserías si tienes niños con esta guía
-============================================================
-
-Protege a tus hijos ajustando Alexa para evitar groserías.
-----------------------------------------------------------
-
-![Imagen referencial de un asistente virtual.](https://www.elcomercio.com/wp-content/uploads/2024/12/alexa-El-Comercio.jpg)
-
-Tener un asistente virtual como **Alexa** en casa puede facilitar muchas tareas, pero también es fundamental configurar el dispositivo adecuadamente si hay **niños** en el hogar.
-
-Gracias a herramientas como el **Filtro de Contenido Explícito** y el **Modo Hogar Infantil**, es posible asegurar una experiencia adecuada y libre de lenguaje inapropiado.
-
-**Activa el Filtro de Contenido Explícito**
--------------------------------------------
-
-El primer paso para garantizar que Alexa no diga groserías es activar el Filtro de Contenido Explícito. Este ajuste bloquea música, respuestas y otros contenidos que puedan incluir lenguaje ofensivo.
-
-Para activarlo, abre la aplicación de Alexa en tu dispositivo móvil y sigue estos pasos:
-
-1. Accede al menú de ‘Configuración’.
-2. Selecciona ‘Preferencias del dispositivo’.
-3. Activa la opción ‘Filtro de contenido explícito’.
-
-Según Amazon (fuente directa desde su centro de soporte), este filtro es efectivo para evitar que Alexa reproduzca música o respuestas con lenguaje inapropiado.
-
-**Habilita el Modo Hogar Infantil**
------------------------------------
-
-El Modo Hogar Infantil es una herramienta útil para hogares con niños, ya que aplica controles más estrictos al dispositivo. Esta función también permite personalizar respuestas y evitar contenido no apto.
-
-1. En la aplicación de Alexa, ve a la sección de ‘Dispositivos’.
-2. Selecciona el dispositivo Alexa que deseas configurar.
-3. Activa el Modo Hogar Infantil.
-
-Este ajuste también limita el acceso a ciertas skills que no cumplen con las normas de contenido para niños, según TechRadar, que analizan cómo optimizar dispositivos inteligentes en hogares familiares.
-
-**Revisa y gestiona las skills activas**
-----------------------------------------
-
-Las skills en Alexa son funciones adicionales que amplían sus capacidades. Sin embargo, algunas de estas pueden incluir lenguaje inapropiado. Para revisarlas:
-
-1. Abre el menú ‘Skills y Juegos’ en la aplicación de Alexa.
-2. Identifica y desactiva aquellas que no sean adecuadas.
-
-Como explica la página oficial de Alexa, habilidades como ‘Akinator’ o juegos de preguntas pueden ser personalizables, pero es importante supervisarlas si hay niños presentes.
-
-**Ajusta las respuestas de Alexa**
-----------------------------------
-
-Alexa también puede emitir respuestas humorísticas o sarcásticas que podrían ser inapropiadas para niños. Desactívalo desde ‘Respuestas de Alexa’ en la configuración.
-
-1. Ve a ‘Configuración’ en la aplicación de Alexa.
-2. Busca la opción ‘Respuestas de Alexa’ y desactívala.
-
-Este ajuste ayuda a evitar interacciones no deseadas, como señala el portal CNET en su guía sobre configuraciones de asistentes inteligentes.
-
-**Supervisa el historial de comandos**
---------------------------------------
-
-El historial de voz de Alexa guarda todas las interacciones. Revisar y eliminar aquellas que resulten inapropiadas es un buen paso adicional.
-
-1. Entra al menú de configuración en la aplicación.
-2. Ve a la sección ‘Historial de Voz’.
-3. Borra cualquier interacción que consideres inconveniente.
-
-Comisión admitió impugnación contra candidata a jueza de la Corte Constitucional
-================================================================================
-
-La Comisión Calificadora admite impugnación contra Angélica Porras; deberá responder en 5 días para defender su candidatura.
-----------------------------------------------------------------------------------------------------------------------------
-
-![Edificio de la Corte Constitucional del Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-16T173606.754.jpg)
-
-La **Comisión Calificadora**, encargada de la **renovación parcial de la Corte Constitucional del Ecuador 2024**, admitió a trámite una de las impugnaciones presentadas contra la candidata **Angélica Ximena Porras Velasco**.
-
-### Más noticias
-
-* [Corte Constitucional se pronunció sobre propuesta de Daniel Noboa respecto a presos](https://www.elcomercio.com/actualidad/seguridad/corte-constitucional-pronuncio-propuesta-daniel-noboa-presos.html "Corte Constitucional se pronunció sobre propuesta de Daniel Noboa respecto a presos")
-* [Verónica Abad y su revés en la Corte Constitucional, ¿qué recursos le quedan?](https://www.elcomercio.com/actualidad/politica/veronica-abad-reves-corte-consitucional-que-recursos-quedan.html "Verónica Abad y su revés en la Corte Constitucional, ¿qué recursos le quedan?")
-
-La impugnación fue interpuesta por **Mónica Jaramillo Jaramillo**, del **Observatorio de Control Ciudadano**, quien cuestionó la **probidad** de la postulante.
-
-Candidata a la Corte Constitucional deberá responder en un plazo máximo, según la Comisión Calificadora
--------------------------------------------------------------------------------------------------------
-
-En la resolución emitida el 14 de diciembre, la Comisión notificó formalmente a Angélica Porras sobre la impugnación y estableció un plazo de **cinco días** para que presente su respuesta.
-
-El trámite debe realizarse en la Secretaría Técnica de la Función de Transparencia y Control Social, en horario de **8h30 a 16h30**, según lo establecido en el artículo 19 del Reglamento para la renovación parcial de la Corte Constitucional.
-
-Asimismo, la notificación fue **extendida a Jaramillo a través del correo electrónico proporcionado** en la solicitud, conforme al procedimiento formal.
-
-> 📍URGENTE  
-> La impugnación presentada contra la candidata a jueza de la Corte Constitucional, doctora Angélica Porras, ha sido admitida por la Comisión Calificadora. En consecuencia, se dispone el traslado de la misma para que la impugnada pueda ejercer su derecho a la defensa.… [pic.twitter.com/F5SPTOqYdm](https://t.co/F5SPTOqYdm)
-> 
-> — Mónica Jaramillo (@MoniJaramilloEc) [December 16, 2024](https://twitter.com/MoniJaramilloEc/status/1868743940977103107?ref_src=twsrc%5Etfw)
-
-La impugnación de Mónica Jaramillo no es la única presentada contra Angélica Porras. La fiscal general, Diana Salazar, así como un grupo de **asambleístas y candidatos**, también ingresaron solicitudes en contra de la postulante.
-
-Santiago Becdach, candidato a parlamentario andino por el movimiento Construye, informó que el CNE admitió a trámite la impugnación presentada por su grupo.
-
-Renovación de jueces en la Corte Constitucional
------------------------------------------------
-
-El proceso de renovación parcial de la Corte Constitucional incluye la selección de jueces que deben cumplir con altos estándares de probidad y méritos. Angélica Porras, propuesta por la Asamblea Nacional, ha sido una de las candidatas más cuestionadas en este proceso.
-
-La Comisión Calificadora resolvió que la publicación de la resolución se realice en la página web de la **Función de Transparencia y Control Social** para garantizar la transparencia del procedimiento.
-
-Con la llegada de las lluvias, Quito mira hacia quebradas y sumideros
-=====================================================================
-
-El Municipio de Quito invirtió casi 5 millones de dólares en quebradas y sumideros para prevenir de inundaciones en la capital.
--------------------------------------------------------------------------------------------------------------------------------
-
-![El Municipio de Quito lleva adelante trabajos de prevención en quebradas ante la llegada del invierno.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-5-1.jpg)
-
-El **invierno** con sus **lluvias** ha llegado. Y por su geografía particular, **Quito** mira hacia las **quebradas** y los **sumideros**. Para evitar cualquier contratiempo -tragedia, incluso-, el Municipio ha llevado adelante un plan con una inversión de 4,7 millones de dólares en limpieza, obras preventivas y reposición de rejillas.
-
-### Más noticias
-
-* [Revisión y matriculación vehicular en 2025 será diferente en Quito](https://www.elcomercio.com/actualidad/quito/revision-vehicular-matriculacion-diferente-quito.html "Revisión y matriculación vehicular en 2025 será diferente en Quito")
-* [Concejo de Quito debate reforma a la Patente. ¿Cuánto deberá pagar?](https://www.elcomercio.com/actualidad/quito/reduccion-patente-debate-concejo-quito.html "Concejo de Quito debate reforma a la Patente. ¿Cuánto deberá pagar?")
-* [Últimos días para matriculación y revisión técnica vehicular en Quito](https://www.elcomercio.com/actualidad/quito/ultimos-dias-para-matriculacion-y-revision-tecnica-vehicular-en-quito.html "Últimos días para matriculación y revisión técnica vehicular en Quito")
-
-Limpieza de los sumideros
--------------------------
-
-La **Empresa Pública Metropolitana de Agua Potable y Saneamiento (Epmaps)** asignó **1,4 millones de dólares** para la limpieza y mantenimiento de más de **200 000 sumideros** distribuidos por toda la ciudad. Este trabajo, que se realiza de forma **preventiva**, busca garantizar el correcto flujo de agua pluvial y evitar **taponamientos** que puedan causar **inundaciones** en calles y avenidas principales.
-
-Según las autoridades municipales, estas labores incluyen el retiro de desechos como hojas, plásticos y tierra, que tienden a acumularse con las lluvias intensas. Además, el Cabildo hace **un llamado** a la **ciudadanía** para que no arroje basura en la vía pública, ya que esto contribuye directamente al **colapso de los sistemas de drenaje.**
-
-Intervención del Municipio en quebradas
----------------------------------------
-
-Paralelamente, el Municipio de Quito invierte **3,3 millones de dólares** en el **mantenimiento** y **limpieza** de más de **200 quebradas** que atraviesan la urbe. Estas acciones buscan mitigar el riesgo de deslizamientos de tierra y desbordamientos, problemas recurrentes en zonas de alta vulnerabilidad.
-
-Los trabajos incluyen la **remoción de sedimentos**, desechos sólidos y vegetación que obstruyen el flujo natural del agua. Además, se han realizado **inspecciones técnicas** para identificar posibles puntos críticos y reforzar taludes.
-
-Según **Verónica Sánchez**, gerente de la Epmaps, se realizan intervenciones clave en varias quebradas de la ciudad. Entre ellas, está la de **El Tejado, ubicada en La Comuna.**
-
-“Ya terminaron los trabajos en la ampliación del cuenco en la zona baja y otros que se desarrollan en la parte alta con una estructura metálica para hacer captación de escombros y material para prevenir futuros deslaves”, indicó Sánchez.
-
-Esta obra busca mejorar la **capacidad de retención** y el **manejo seguro del agua y los sedimentos** en esta quebrada estratégica.
-
-En cambio, en las **quebradas Caicedo y Osorio,** en el norte de la ciudad, se reforzaron estructuras y se realizó una limpieza profunda para garantizar el flujo de agua.
-
-En total, se han intervenido las **142 estructuras existentes en las 101 quebradas de la ciudad.** Estas labores incluyen el desalojo de **68 000 m³ de material acumulado**, como sedimentos y desechos sólidos, un volumen significativo que permite mitigar riesgos de colapsos y deslizamientos[.](https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito "https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito")
-
-El mal recuerdo de las lluvias de invierno
-------------------------------------------
-
-Históricamente, Quito ha enfrentado **tragedias asociadas a los deslaves** provocados por las lluvias. Uno de los casos más recientes ocurrió en enero de 2022, cuando un aluvión en el sector de **La Gasca** dejó **28 fallecidos,** 48 heridos y cientos de viviendas afectadas.
-
-El **deslave** de La Gasca fue causado por la **acumulación de sedimentos** y una lluvia excepcionalmente intensa. Los **sistemas de drenaje se saturaron** y generaron una corriente de lodo y escombros que arrasó con todo lo que encontró a su paso.
-
-Otro evento significativo ocurrió en el **2017**, en el barrio de **El Pinar Alto**, donde varias viviendas fueron destruidas debido a la **saturación de un talud.** Este hecho subrayó la importancia de monitorear de manera constante las zonas de riesgo y garantizar la implementación de obras de mitigación.
-
-Fiscalía de Bolivia solicita captura de Evo Morales por trata de personas
-=========================================================================
-
-Cuando se emitió la orden de captura para Morales, sus seguidores realizaron fuertes bloqueos de carreteras por 24 días.
-------------------------------------------------------------------------------------------------------------------------
-
-![Evo Morales en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/12/evo-morales-efe.jpg)
-
-Una f**iscal boliviana** informó este lunes, 16 de diciembre de 2024, que se presentó una **“imputación formal**” en contra del expresidente [Evo Morales](https://es.wikipedia.org/wiki/Evo_Morales "https://es.wikipedia.org/wiki/Evo_Morales") (2006-2019) por el “**delito de trata de personas agravado**” y se solicitó la alerta migratoria.
-
-### Más noticias
-
-* [Evo Morales acusa a Donald Trump de financiar un ‘golpe de Estado’ en Bolivia](https://www.elcomercio.com/actualidad/mundo/evo-morales-acusa-donald-trump-financiar-golpe-estado-bolivia.html "Evo Morales acusa a Donald Trump de financiar un ‘golpe de Estado’ en Bolivia ")
-* [Evo Morales deja de ser el líder del MAS después de casi tres décadas tras fallo judicial](https://www.elcomercio.com/actualidad/mundo/evo-morales-deja-ser-lider-mas-despues-casi-tres-decadas-tras-fallo-judicial.html "Evo Morales deja de ser el líder del MAS después de casi tres décadas tras fallo judicial")
-* [Tribunal Constitucional de Bolivia ratifica que Evo Morales no puede ser candidato](https://www.elcomercio.com/actualidad/tribunal-constitucional-de-bolivia-ratifica-que-evo-morales-no-puede-ser-candidato.html "Tribunal Constitucional de Bolivia ratifica que Evo Morales no puede ser candidato")
-
-La fiscal departamental de **Tarija Sandra Gutiérrez** señaló que hoy se presentó “una imputación formal contra el señor **Evo Morales Aima** y la señora **Idelsa Pozo Saavedra** (madre de la presunta víctima) por el delito de trata de personas agravado”. Están a la espera de “que el juez cautelar **señale la fecha y hora** para que se lleve a cabo la audiencia de medidas cautelares”.
-
-Según la denuncia, Morales cometió **delitos de trata de personas** y estupro con una menor de edad con la que supuestamente **tuvo un hijo**, además, en el proceso se indica que los padres de la supuesta víctima se “lucraron” con ella al **entregarla al expresidente a cambio de “favores”**.
-
-La víctima presuntamente pertenecía a un **grupo juvenil** creado por el exmandatario durante su Presidencia, llamado ‘**Generación Evo**’.
-
-La fiscal afirmó también que se solicitó la **alerta migratoria para Morales**, así como para Pozo.
-
-Una orden de aprehensión en contra de Morales ya fue emitida el **16 de octubre** y no pudo ejecutarse por varias razones, como consta en **“muchos informes”** que recibió de la Policía en los cuales se reporta que no ha sido posible dar con su paradero.
-
-“Uno de los informes señala que **policías de inteligencia** procedieron a buscar a Morales en (la población) de Villa 14 de Septiembre, en el Chapare, porque señaló el lugar (su) domicilio real, pero durante la diligencia se constató que no estaba ahí”, explicó la fiscal.
-
-Además, los policías informaron que **trataron de buscar en otros domicilios,** y luego de “labores de vigilancia”, Morales “no se encontraba habitando esos lugares”.
-
-Cuando se emitió la orden de captura para Morales, sus seguidores realizaron **fuertes bloqueos de carreteras** por 24 días especialmente en el **centro del país** para defenderlo, una de las razones por las que la Policía no pudo ingresar al Chapare, bastión político y sindical del exmandatario, mencionó la fiscal.
-
-Proteger agentes de seguridad
------------------------------
-
-Y otras de las razones por las que no se ejecutó la **orden de aprehensión** fue por proteger a los agentes de seguridad, debido a que durante el **bloqueo de carreteras a**lgunos de ellos fueron brutalmente golpeados y heridos.
-
-“Pese a las gestiones realizadas en el **marco del cumplimiento de la orden de aprehensión**, la ejecución contra Evo Morales enfrenta riesgos técnicos y operativos significativos”, concluye un informe de la Policía, leído por la fiscal.
-
-“Acá no hay nada político, estamos resguardando los **derechos de una persona que fue ultrajada,** con el visto bueno de sus padres. Vamos a exponer todas estas situaciones (ante el juez)”, precisó la fiscal.
-
-Gutiérrez denunció el 3 de octubre el entonces fiscal general de Bolivia, **Juan Lanchipa**, la apartó de su cargo y **frenó una orden de captura contra Morales** que ella había emitido.
-
-Días después Gutiérrez fue restituida en la Fiscalía y Lanchipa renunció como fiscal general.
-
-Evo Morales continúa en Chapare
--------------------------------
-
-Desde octubre, **Morales no ha salido del Chapare**, y afirmó que se encuentra protegido en todo momento por al **menos “500 personas”.**
-
-Por otro lado, en Argentina se abrió un caso contra Morales por la **“presunta comisión de delitos de trata de personas y abuso sexual”**, durante su estadía en ese país en 2019 cuando fue acogido con el estatus de **refugiado** por el entonces presidente, **Alberto Fernández** (2019-2023).
-
-Imágenes del adiós a Amparo Guillén en un emotivo velorio en el Palacio de Cristal
-==================================================================================
-
-La actriz Amparo Guillén falleció a los 71 años.
-------------------------------------------------
-
-![Velorio de la actriz ecuatoriana Amparo Guillén en el Palacio de Cristal.](https://www.elcomercio.com/wp-content/uploads/2024/12/amparo-guillen-El-Comercio-8.jpg)
-
-El mundo del espectáculo ecuatoriano está de luto tras la partida de la icónica **actriz Amparo Guillén**, quien falleció el pasado 12 de diciembre en Colombia a causa de un infarto.
-
-Reconocida como la “eterna Lupita” de la serie ‘Mis Adorables Entenados’, Guillén fue despedida este lunes 16 de diciembre de 2024 en una emotiva ceremonia realizada en el **Palacio de Cristal**, ubicado en el Malecón 2000, donde familiares, amigos y admiradores se reunieron para rendirle homenaje.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/amparo-guillen-El-Comercio-2-1024x683.jpg)
-
-Familiares y amigos le dan el último adiós a Amparo Guillén.
-
-Amparo Guillén fue una figura clave en la televisión y el teatro nacional, dejando una marca indeleble en el público ecuatoriano con su papel en la famosa serie de los años 80.
-
-### Más noticias
-
-* **[Un hombre acudió al hospital por vómitos y fue diagnosticado con cáncer un año después: su familia recibirá 100 000 euros](https://www.elcomercio.com/tendencias/salud/hombre-hospital-diagnosticado-cancer.html "https://www.elcomercio.com/tendencias/salud/hombre-hospital-diagnosticado-cancer.html")**
-* **[La receta que encontró la ciencia para reducir la ira](https://www.elcomercio.com/tendencias/la-receta-que-encontro-la-ciencia-para-reducir-la-ira.html "https://www.elcomercio.com/tendencias/la-receta-que-encontro-la-ciencia-para-reducir-la-ira.html")**
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/amparo-guillen-El-Comercio-1-1024x683.jpg)
-
-El actor Héctor Garzón que interpretó a Rosendo en ‘Mis adorables entenados’ estuvo presente.
-
-Su carrera la llevó también a participar en producciones como ‘3 Familias’ y ‘Aída’. Además de su talento actoral, Guillén fue reconocida por su carácter resiliente, enfrentando diversas luchas personales, incluyendo problemas de salud y adicción.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/amparo-guillen-El-Comercio-7-1024x683.jpg)
-
-Familiares y amigos le dan el último adiós a Amparo Guillén.
-
-La ceremonia contó con la presencia de figuras del medio artístico como Sandra Pareja y Héctor Garzón, además de un grupo de fieles seguidores que no quisieron perderse la oportunidad de despedir a la emblemática artista.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/amparo-guillen-El-Comercio-6-1024x683.jpg)
-
-Familiares y amigos le dan el último adiós a Amparo Guillén.
-
-También fue notable el contexto familiar, ya que apenas dos días después del deceso de la actriz, su hijo falleció en Cali, Colombia, debido a un traumatismo craneal.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/amparo-guillen-El-Comercio-5-1024x683.jpg)
-
-Familiares y amigos le dan el último adiós a Amparo Guillén.
-
-La familia de la actriz atraviesa un momento delicado; su hija, radicada en Estados Unidos, se encuentra a cargo de los trámites funerarios de ambos.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/amparo-guillen-El-Comercio-4-1024x683.jpg)
-
-La actriz Sandra Pareja es una de las colegas de Guillén que asistió al velorio.
-
-Con más de cuatro décadas de carrera y un legado marcado por su talento y lucha constante, Amparo Guillén permanecerá en el corazón de los ecuatorianos como un símbolo de fortaleza, dedicación y amor por las artes.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/amparo-guillen-El-Comercio-3-1024x683.jpg)
-
-Familiares y amigos le dan el último adiós a Amparo Guillén.
-
-WhatsApp lanza nueva función para llamadas telefónicas, ¿de qué se trata? 
-==========================================================================
-
-WhatsApp introduce función que permite llamar sin guardar contactos.
---------------------------------------------------------------------
-
-![WhatsApp lanza una nueva función para realizar llamadas. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/12/WhatsApp-marcador.jpg)
-
-**[WhatsApp](https://www.whatsapp.com/channel/0029VaRu8WFJ3jutKNlE4e3a "https://www.whatsapp.com/channel/0029VaRu8WFJ3jutKNlE4e3a")**, la popular **aplicación de mensajería instantánea**, ha introducido una nueva función que permite a los usuarios **realizar llamadas telefónicas** directamente desde la aplicación, sin necesidad de **guardar números** en su lista de contactos.  
-
-### Más noticias
-
-* [WhatsApp presenta nuevos iconos para mejorar la comunicación](https://www.elcomercio.com/tecnologia/whatsapp-iconos-actualizacion-redes-sociales.html "https://www.elcomercio.com/tecnologia/whatsapp-iconos-actualizacion-redes-sociales.html") 
-* [Conoce el nombre con el que te tienen guardado en WhatsApp](https://www.elcomercio.com/tecnologia/whatsapp-nombre-tutorial-telefonia.html "https://www.elcomercio.com/tecnologia/whatsapp-nombre-tutorial-telefonia.html") 
-
-Esta innovación busca **desligar WhatsApp de nuestra lista de contactos**, lo que facilita la comunicación con personas que no están en nuestra agenda. La función se encuentra actualmente en **fase beta** y se espera que esté disponible para un público más amplio en los próximos días. 
-
-**¿Qué es el nuevo marcador de WhatsApp?** 
--------------------------------------------
-
-El nuevo **marcador de teléfono de WhatsApp** permite a los usuarios ingresar un número y **realizar llamadas** sin tener que **abrir la aplicación** de teléfono del dispositivo. Esta funcionalidad se asemeja al **marcador tradicional** que se encuentra en los teléfonos móviles, pero está integrada dentro de WhatsApp. Según **WABetaInfo**, esta herramienta ofrece una **mayor flexibilidad y conveniencia**, especialmente para interacciones breves o comunicaciones temporales, a decir de [20Minutos](https://www.20minutos.es/tecnologia/aplicaciones/whatsapp-nuevo-marcador-realizar-llamadas-telefono-5524553/ "https://www.20minutos.es/tecnologia/aplicaciones/whatsapp-nuevo-marcador-realizar-llamadas-telefono-5524553/").  
-
-**Cómo funciona el nuevo marcador** 
-------------------------------------
-
-![Foto: wabetainfo.com.](https://www.elcomercio.com/wp-content/uploads/2024/12/WhatsApp-Marcador-1-1024x683.jpg)
-
-Foto: wabetainfo.com.
-
-Para realizar una llamada a través del **nuevo marcador**, los usuarios deben seguir estos pasos: 
-
-* Abrir WhatsApp en su dispositivo. 
-
-* Tocar la pestaña “Llamadas”, que aparece como un botón flotante adicional. 
-
-* Ingresar el número de teléfono deseado. 
-
-Si el número está asociado a una **cuenta de WhatsApp**, se podrá **iniciar la llamada** al pulsar el botón correspondiente. 
-
-Esta funcionalidad no solo simplifica el proceso de hacer llamadas, sino que también permite a los usuarios **guardar el número ingresado** como un nuevo contacto o agregarlo a una tarjeta existente en su **libreta de direcciones**, siguiendo con 20Minutos. 
-
-**Diferencias con las llamadas tradicionales** 
------------------------------------------------
-
-El nuevo sistema de **llamadas de WhatsApp** presenta varias ventajas sobre las **llamadas telefónicas convencionales**: 
-
-* **Conveniencia:** No es necesario salir de la aplicación para realizar una llamada. 
-
-* **Privacidad:** Las llamadas realizadas a través de WhatsApp pueden ofrecer un nivel adicional de privacidad en comparación con las llamadas tradicionales 
-
-* **Accesibilidad:** Los usuarios pueden llamar a cualquier número asociado con WhatsApp sin necesidad de guardarlo previamente en su dispositivo. 
-
-Esta función es especialmente útil en situaciones donde se necesita **comunicarse rápidamente** sin pasar por el proceso de **agregar un contacto**. 
-
-**Disponibilidad y futuro del marcador** 
------------------------------------------
-
-La función del **nuevo marcador** ya está activa para algunos **usuarios beta** y se espera que se implemente gradualmente para más personas. **Meta**, la empresa matriz de WhatsApp, continúa con sus innovaciones para **mejorar la experiencia del usuario** y ampliar las capacidades de la aplicación. 
-
-Con esta actualización, WhatsApp parece dar pasos hacia convertirse en una **‘superapp’**, al integrar funciones que tradicionalmente pertenecían a otras aplicaciones. Esta estrategia podría cambiar radicalmente cómo los usuarios interactúan no solo con sus contactos, sino también con nuevas personas, según se cita en el [blog de la aplicación](https://blog.whatsapp.com/talk-to-meta-ai-on-whatsapp?lang=es_LA "https://blog.whatsapp.com/talk-to-meta-ai-on-whatsapp?lang=es_LA").  
-
-### Te recomendamos:
-
-Opciones de estacionamiento en Quito en época navideña
-======================================================
-
-Quito dispone de un total de 13 875 plazas de estacionamiento distribuidas en toda la ciudad.
----------------------------------------------------------------------------------------------
-
-![Los estacionamientos públicos se encuentran ubicados en diversos puntos de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/12/Estacionamientos-Quito-Navidad.jpg)
-
-Durante la época **navideña**, caracterizada por un aumento en las compras y los paseos, el sistema de estacionamientos de **Quito**, gestionado por la Empresa Pública Metropolitana de Movilidad y Obras Públicas (**Epmmop**), ofrece diferentes opciones para dejar los vehículos[.](https://es.wikipedia.org/wiki/Navidad "https://es.wikipedia.org/wiki/Navidad")
-
-Más noticias
-------------
-
-* [Movilidad en Quito, cómo los pregones y compras navideñas afectarán el tráfico](https://www.elcomercio.com/actualidad/quito/movilidad-pregones-compras-navidad-quito.html "Movilidad en Quito, cómo los pregones y compras navideñas afectarán el tráfico")
-* [Navidad en Ecuador, tradiciones, eventos y gastronomía que impulsan el turismo local](https://www.elcomercio.com/actualidad/ecuador/navidad-ecuador-lugares-turismo-gastronomia.html "Navidad en Ecuador, tradiciones, eventos y gastronomía que impulsan el turismo local")
-* [Vacaciones escolares por Navidad y Año Nuevo se extendieron, ¿cómo se recuperarán?](https://www.elcomercio.com/actualidad/ecuador/vacaciones-escolares-navidad-nuevo-extendieron-recuperaran.html "Vacaciones escolares por Navidad y Año Nuevo se extendieron, ¿cómo se recuperarán?")
-
-A continuación, se detallan las **características** y **ubicaciones** de los estacionamientos disponibles:
-
-Estacionamientos en el Centro Histórico de Quito
-------------------------------------------------
-
-* **Cadisan**
-    * **Ubicación**: Mejía y Guayaquil.
-    * **Horario**: 24 horas.
-    * **Tarifa**: 0,75 centavos de dólar por hora o fracción (día); 0,90 centavos de dólar por hora o fracción (noche).
-* **La Ronda**
-    * **Ubicación**: Viaducto 24 de Mayo.
-    * **Horario**: Miércoles a sábado: 24 horas; domingo a martes: 06:00-22:00.
-    * **Tarifa**: 0,75 centavos de dólar por hora o fracción (día); 0,90 centavos de dólar por hora o fracción (noche).
-* **El Tejar**
-    * **Ubicación**: Hermano Miguel y José López.
-    * **Horario**: 06:00-21:30.
-    * **Tarifa**: 0,75 centavos de dólar por hora o fracción (día); 0,90 centavos de dólar por hora o fracción (noche).
-* **Montúr 1 y Montúr 2**
-    * **Ubicaciones**: Montúr 1 (Bustamante y Olmedo); Montúr 2 (Av. Pichincha y Olmedo)
-    * **Horario**: 06:00-22:00.
-    * **Tarifa**: 0,75 centavos de dólar por hora o fracción (día); 0,90 centavos de dólar por hora o fracción (noche).
-* **San Blas**
-    * **Ubicación**: Caldas y Guayaquil.
-    * **Horario**: 24 horas.
-    * **Tarifa**: 0,75 centavos de dólar por hora o fracción (día); 0,90 centavos de dólar por hora o fracción (noche).
-* **Yaku**
-    * **Ubicación**: Calle El Placer.
-    * **Horario**: 09:00-17:00.
-    * **Tarifa**: 0,75 centavos de dólar por hora o fracción (día); 0,90 centavos de dólar por hora o fracción (noche).
-
-Estacionamientos de La Red
---------------------------
-
-* **Carollo**
-    * **Ubicación**: Av. Matilde Álvarez y Mariscal Sucre.
-    * **Horario**: 06:00-18:00 (lunes a domingo).
-    * **Tarifa**: 0,50 centavos de dólar por hora o fracción.
-* **Bicentenario**
-    * **Ubicaciones**: Bicentenario A (Av. Amazonas y La Prensa), Bicentenario B (Av. Amazonas y Río Curaray), Bicentenario C (Viaducto 24 de Mayo).
-    * **Horario**: 06:00-22:00 (lunes a domingo).
-    * **Tarifa**: 0,50 centavos de dólar por hora o fracción.
-* **La Carolina**
-    * **Ubicaciones**: Carolina 1 (Av. Amazonas y La Prensa); Carolina 2 (Av. Amazonas y Atahualpa); Carolina 3 (Calle Japón y Amazonas); Carolina 4 (Av. de los Shyris y Portugal); Carolina 5 (Av. de los Shyris y Holanda); Carolina 6 (Av. de los Shyris y Pasaje Rumipamba); Carolina 7 (Av. de los Shyris y Bélgica); Carolina 8 (Eloy Alfaro y Juan Severino).
-    * **Horario**: 06:00-22:00 (lunes a domingo).
-    * **Tarifa**: 0,50 centavos de dólar por hora o fracción.
-* **Terminal Terrestre Quitumbe**
-    * **Ubicación**: Av. Cóndor Ñan y Mariscal Sucre.
-    * **Horario**: 24 horas.
-    * **Tarifa**: 0,52 centavos de dólar por hora o fracción.
-
-Zona Azul
----------
-
-El Servicio de Estacionamiento Rotativo Tarifado (SERT) cuenta con 9.992 plazas, distribuidas entre 9.564 para autos y 428 para motocicletas.
-
-* **Horario diurno**: Lunes a viernes, 08:00-17:59.
-    * **Tarifa**: 0,40 centavos de dólar por hora o fracción (autos); 0,20 centavos de dólar (motocicletas).
-* **Horario nocturno**: Lunes a viernes, 18:00-02:00 (sectores: La Mariscal, La Carolina, La Tola – Mercado Central).
-    * **Tarifa**: 0,80 centavos de dólar por hora o fracción (autos); 0,40 centavos de dólar (motocicletas).
-* **Fines de semana y feriados**: 08:00-02:00 (excepto El Tejar – San Roque: 08:00-18:00)
-    * **Tarifa**: 0,80 centavos de dólar por hora o fracción (autos); 0,40 centavos de dólar (motocicletas).
-
-* * *
-
-Aficionados recuerdan a Esteban Paz tras título de Liga de Quito
-================================================================
-
-Las redes sociales tuvieron como tendencia Esteban Paz, exdirigente de Liga de Quito, tras el campeonato de la 'U'.
--------------------------------------------------------------------------------------------------------------------
-
-![Esteban Paz fue dirigente y multicampeón con Liga de Quito hasta salir del club en 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/esteban-paz-scaled.jpg)
-
-La tarde de este lunes 16 de diciembre del 2024, el nombre de Esteban Paz surgió como tendencia en las redes sociales. El exdirigente de **Liga de Quito** fue recordado en función del último campeonato de la Liga Pro de la escuadra azucena.
-
-El conjunto albo jugó su último partido del año en la final de vuelta de la Liga Pro ante **Independiente del Valle**. Allí este se impuso gracias a un marcador global de 3-1, pues venció por tres tantos en la ida y cayó por uno en la vuelta.
-
-### Más noticias:
-
-* [‘Vitamina’ Sánchez y Alex Arce, figuras del título de Liga de Quito](https://www.elcomercio.com/deportes/futbol/vitamina-sanchez-alex-arce-liga.html "‘Vitamina’ Sánchez y Alex Arce, figuras del título de Liga de Quito")
-* [Liga de Quito lidera a los ecuatorianos en el ranking Conmebol](https://www.elcomercio.com/deportes/futbol/ranking-conmebol-clubes-copa-libertadores.html "Liga de Quito lidera a los ecuatorianos en el ranking Conmebol")
-* [Alex Arce, el delantero de Liga de Quito que rompió varios récords](https://www.elcomercio.com/deportes/futbol/alex-arce-delantero-de-liga-de-quito-que-rompio-varios-records.html "Alex Arce, el delantero de Liga de Quito que rompió varios récords")
-
-La nueva estrella de Liga de Quito se convirtió en la primera que obtuvo con **Esteban Paz** fuera del ámbito dirigencial. El histórico directivo de los azucenas y exlíder de la Comisión de Fútbol dejó el club tras finalizar el 2024, cuando el actual presidente Isaac Álvarez decidió unificar las distintas áreas.
-
-A raíz del título, los comentarios de los hinchas de la ‘U’ con relación a Paz fueron ambivalentes y por más de un motivo. Estos se refirieron, en su mayoría, al silencio que guardó tras el campeonato, mientras que otros se centraron en su legado, así como también ponderaron la figura de **Isaac Álvarez**.
-
-Los comentarios en redes hacia Esteban Paz
-------------------------------------------
-
-Entre los comentarios en X, tanto de aficionados como de cuentas favorables a **Liga de Quito**, se destacaba uno en especial y era el primero al que referenciaba la red social. Este resaltó el silencio de **Esteban Paz** por el campeonato[.](https://en.wikipedia.org/wiki/L.D.U._Quito "https://en.wikipedia.org/wiki/L.D.U._Quito")
-
-“**Han pasado ya 36 horas del campeonato de Liga y Esteban Paz no ha felicitado a nadie**“, decía un fragmento del tuit. A su este acumulaba más de 150 reacciones y contaba con 11 respuestas.
-
-Hinchas como Joaquín López, a su vez, destacaron la gestión de **Isaac Álvarez** tras la salida de Paz. Aquello en virtud de los obstáculos con los que tuvo que lidiar en su ausencia y cómo los resolvió.
-
-El debate también se generó en función de quiénes destacaron el papel de Esteban Paz. El usuario Diego Melo puso en alto la figura del exdirigente en medio de su ausencia y el éxito del ahora máximo dirigente. “**Yo, siempre, gratitud eterna a la Familia Paz**“, expresó en parte de su pronunciamiento.
-
-El antiguo directivo de **Liga de Quito** no ha reaccionado públicamente ni desde su cuenta en redes sociales.
-
-Liga de Quito y su decimotercer campeonato ecuatoriano
-------------------------------------------------------
-
-**Liga de Quito** ganó el título número 13 en su historia durante campeonatos ecuatorianos. El equipo, a su vez, se coronó bicampeón por tercera vez en certámenes de tal índole.
-
-Los albos llegaron hacia la final tras ganar la segunda etapa del certamen. Aquello se dio con el arribo del DT **Pablo ‘Vitamina’ Sánchez**, quien llegó para la última ronda después de que la primera la encaró el español Josep Alcácer.
