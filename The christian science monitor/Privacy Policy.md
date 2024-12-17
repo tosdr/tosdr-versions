@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Safety
+
+### Tracing fentanyl’s path into the US starts at this port. It doesn’t end there.](https://www.csmonitor.com/USA/2024/1217/fentanyl-trump-us-mexico-china "Tracing fentanyl’s path into the US starts at this port. It doesn’t end there.")
+
+[Peace
+
+### Christmas light for Gaza](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1217/Christmas-light-for-Gaza "Christmas light for Gaza")
+
 [Resilience
 
 ### Why Zimbabweans keep watching their money go up in smoke](https://www.csmonitor.com/World/Africa/2024/1217/zimbabwe-ZiG-financial-crisis-mbare-musika-fire "Why Zimbabweans keep watching their money go up in smoke")
-
-[Resilience
-
-### As a post-Assad Syria reopens, Syrians ask: Can we go home?](https://www.csmonitor.com/World/Middle-East/2024/1216/syria-refugees-return-home-rebuild "As a post-Assad Syria reopens, Syrians ask: Can we go home?")
-
-[Creativity
-
-### Innovation by failure in Germany](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1216/Innovation-by-failure-in-Germany "Innovation by failure in Germany")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
-[### Why Zimbabweans keep watching their money go up in smoke](https://www.csmonitor.com/World/Africa/2024/1217/zimbabwe-ZiG-financial-crisis-mbare-musika-fire "Why Zimbabweans keep watching their money go up in smoke")
+[### Tracing fentanyl’s path into the US starts at this port. It doesn’t end there.](https://www.csmonitor.com/USA/2024/1217/fentanyl-trump-us-mexico-china "Tracing fentanyl’s path into the US starts at this port. It doesn’t end there.")
 
-[### As a post-Assad Syria reopens, Syrians ask: Can we go home?](https://www.csmonitor.com/World/Middle-East/2024/1216/syria-refugees-return-home-rebuild "As a post-Assad Syria reopens, Syrians ask: Can we go home?")
+[### Teenage girl student identified in Wisconsin Christian school shooting](https://www.csmonitor.com/USA/2024/1217/wisconsin-school-shooting-abundant-life "Teenage girl student identified in Wisconsin Christian school shooting")
 
-[### What South Korea’s impeachment battle means for US security alliance](https://www.csmonitor.com/World/Asia-Pacific/2024/1216/South-Korea-impeachment-foreign-policy-US-alliance "What South Korea’s impeachment battle means for US security alliance")
+[### A Russian general was killed by a bomb in Moscow. Ukraine claims responsibility.](https://www.csmonitor.com/World/Europe/2024/1217/russia-ukraine-war-kirillov-chemical-weapons "A Russian general was killed by a bomb in Moscow. Ukraine claims responsibility.")
 
 * * *
 
