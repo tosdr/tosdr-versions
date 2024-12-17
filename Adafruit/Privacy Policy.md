@@ -410,9 +410,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Don't worry about what anybody else is going to do… The best way to predict the future is to invent it. Really smart people with reasonable funding can do just about anything that doesn't violate too many of Newton's Laws!”
+“ If A equals success, then the formula is A equals X plus Y plus Z. X is work. Y is play. Z is keep your mouth shut”
 
-[Alan Kay](https://computerhistory.org/profile/alan-kay/)
+[Albert Einstein](http://en.wikipedia.org/wiki/Albert_Einstein)
 
 [](https://www.adafruit.com/about)
 
