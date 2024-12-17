@@ -1,4 +1,10 @@
-**The LWTech campus and Early Learning Center will be closed Tuesday, 12/17 due to a power outage. Employees, please coordinate with your supervisor.** close alert
+**
+
+College on remote operations, LWTech campus closed through January 1 due to power repairs. Employees, please coordinate with your supervisor.
+
+
+
+**close alert
 
 [Skip to Main Content](#mainContent)[Skip to Footer](#mainFooter)
 
