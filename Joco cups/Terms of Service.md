@@ -242,6 +242,8 @@ Join us and share the message of reuse
 * [Instagram](https://instagram.com/jococups)
 * [Facebook](https://facebook.com/jococups)
 
+[Surf Check + Coffee = YES PLEASE #surf #protectour ![Surf Check + Coffee = YES PLEASE #surf #protectouroceans #plasticfree](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DDqPonFS9Lv/) 
+
 [Good friends and coffee, anything is possible #aft ![Good friends and coffee, anything is possible #afternooncoffee #latte #lux](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DDbGrpESMec/) 
 
 [The Perfect Adventure Companions #ourfuture #kids ![The Perfect Adventure Companions #ourfuture #kids #dog #surf #family #plasticfree](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DCXyjUkSvdh/) 
@@ -251,8 +253,6 @@ Join us and share the message of reuse
 [Providing Solutions since 2008 #plasticfree #activ ![Providing Solutions since 2008 #plasticfree #activeflask #desertsage](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBfQLn_y0Ve/) 
 
 [Never leave home without us #dog #flask #insulated ![Never leave home without us #dog #flask #insulated #adventure](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBKkQARSABc/) 
-
-[Adding a little flair to your daily brew is our be ![Adding a little flair to your daily brew is our beautiful Artist Series - Jen Lobo 🦉 Back in stock #art #series #owl #gift](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DA9-_q7yRJi/) 
 
 Keep informed on new releases and subscriber exclusives
 
