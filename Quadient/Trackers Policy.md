@@ -133,17 +133,17 @@ Other Resources [Tax information](https://mail.quadient.com/en/resources/tax-inf
 
 Resources
 
+[![IDC MarketScape Worldwide Accounts Receivable Automation Applications for Small and Midmarket 2024 Vendor Assessment](https://backend.quadient.com/files/default/2024-12/idc_marketscape_-_accounts_receivable_automation_small_and_midmarket_2024_720_x_480.png "IDC MarketScape Worldwide Accounts Receivable Automation Applications for Small and Midmarket 2024 Vendor Assessment")
+
+IDC MarkeScape: Worldwide Accounts Receivable Automation Applications for Small and Midmarket 2024 Vendor Assessment
+
+Complimentary excerpt provided by Quadient](https://www.quadient.com/en/resources/IDC-marketscape-accounts-receivable-automation-applications)
+
 [![Thumbnail of the 2024 IDC MarketScape for Automated Document Generation and Customer Communication Management report](https://backend.quadient.com/files/default/2024-12/2024-idc-marketscape-adg-ccm-thumb-720x480_0.png "2024 IDC MarketScape for Worldwide Automated Document Generation and CCM")
 
 IDC MarketScape: Worldwide Automated Document Generation and CCM 2024 Vendor Assessment
 
 Quadient Named a Worldwide Automated Document Generation and CCM Leader](https://www.quadient.com/en/resources/idc-marketscape-worldwide-ccm-assessment)
-
-[![Four Aspire 2024 Market Leader Badges against blue background with multi-colored light beams](https://backend.quadient.com/files/default/2024-11/aspire-q3-2024-720x480-thumb.jpg "2024 Q3 Aspire CCM-CXM Leaderboard")
-
-Quadient Advances Leader Position on the Aspire CCM-CXM Leaderboard 2024 Q3
-
-Sponsors Complimentary Premium Leaderboard Access](https://www.quadient.com/en/resources/aspire-leaderboard-ccm-cxm)
 
 Communications
 
