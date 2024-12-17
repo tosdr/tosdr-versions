@@ -26,6 +26,7 @@ Menu
         * [Annual Report](https://unitedwaygmwc.org/UnitedWay/Financial-Information/AnnualReport_2023_Published2024.pdf)
     *  [Funding Opportunities](https://unitedwaygmwc.org/Funding-Opportunities)
         * [Join Teen Mental Wellness: Empowering Minds](https://unitedwaygmwc.org/Funding-Opportunities/Teen-Mental-Wellness-Empowering-Minds)
+        * [Lead Safe Home Kit Grant](https://unitedwaygmwc.org/Funding-Opportunities/Lead-Safe-Home-Kits)
         * [Urgent Need Grant](https://unitedwaygmwc.org/Funding-Opportunities/Urgent-Needs-Grant)
     * [Contact Us](https://unitedwaygmwc.org/Contact-Us)
     * [Careers](https://unitedwaygmwc.org/Careers)
