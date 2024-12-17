@@ -99,7 +99,7 @@ Related Sites
 * [LinkedIn](https://www.linkedin.com/company/the-future-of-privacy-forum "LinkedIn")
 * [Instagram](https://www.instagram.com/futureofprivacy/ "Instagram")
 
-![FPF](https://fpf.org/wp-content/themes/fpf/img/logo-footer-15th-anniversary.png)
+ ![FPF](https://fpf.org/wp-content/themes/fpf/img/logo-footer.svg)
 
 * [Privacy Policy](https://fpf.org/privacy-policy/)
 * Cookie Preferences
