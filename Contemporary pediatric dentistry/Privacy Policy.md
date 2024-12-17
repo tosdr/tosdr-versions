@@ -10,8 +10,6 @@
     * [Youtube](http://youtube.com/@contempediadent)
     * [LinkedIn](http://linkedin.com/company/contempediadent)
 
-Menu
-
 * [ICCPD](https://contemppediatrdent.org/iccpd/)
 * [CPD Talks](https://contemppediatrdent.org/talks/)
 * [CPD Blog](https://contemppediatrdent.org/blog/)
@@ -49,8 +47,6 @@ Menu
 * [User Center](https://contemppediatrdent.org/user-center/)
 * [Contact Us](https://contemppediatrdent.org/contact-us/)
 
-Menu
-
 * [Home](https://contemppediatrdent.org/)
 * Journal
     * [Journal Description](https://contemppediatrdent.org/journal-description/)
@@ -76,7 +72,7 @@ Menu
 * [User Center](https://contemppediatrdent.org/user-center/)
 * [Contact Us](https://contemppediatrdent.org/contact-us/)
 
-Search  Search
+Search 
 
 Privacy Policy
 --------------
