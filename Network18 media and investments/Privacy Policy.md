@@ -128,11 +128,11 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
+    * [Ind vs Aus Live](https://www.news18.com/cricket/india-vs-australia-3rd-test-match-today-day-4-india-national-cricket-team-vs-australia-national-cricket-team-latest-scorecard-gabba-brisbane-weather-updates-liveblog-9158305.html)
     * [MobiKwik IPO](https://www.news18.com/business/ipo/mobikwik-ipo-allotment-finalised-gmp-at-59-14-a-step-by-step-guide-to-check-allotment-status-online-9157515.html)
-    * [Vishal Mega Mart IPO](https://www.news18.com/business/ipo/vishal-mega-mart-ipo-allotment-finalised-today-know-latest-gmp-how-to-check-allotment-status-online-9157576.html)
     * [Champions Trophy Schedule](https://www.news18.com/cricket/icc-champions-trophy-2025-schedule-announcement-live-updates-match-date-time-venue-india-vs-pakistan-liveblog-9157982.html)
-    * [Brisbane Weather](https://www.news18.com/cricket/gabba-brisbane-weather-forecast-india-vs-australia-bgt-3rd-test-match-9157814.html)
-    * [Sai Pallavi](https://www.news18.com/web-stories/celebrities/7-sai-pallavi-inspired-saree-blouses-for-marriage-season-2675702/)
+    * [Railways Waiting List](https://www.news18.com/auto/till-what-number-can-waiting-list-tickets-be-confirmed-railways-reveals-the-magic-formula-ws-b-9157749.html)
+    * [Zeenat Aman](https://www.news18.com/movies/zeenat-aman-adjusted-for-heroes-on-dostana-set-amitabh-bachchan-would-leave-shatrugan-sinha-would-enter-9158435.html)
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
@@ -169,11 +169,11 @@ Follow us on
 
 In Trends:
 
+* [Ind vs Aus Live](https://www.news18.com/cricket/india-vs-australia-3rd-test-match-today-day-4-india-national-cricket-team-vs-australia-national-cricket-team-latest-scorecard-gabba-brisbane-weather-updates-liveblog-9158305.html)
 * [MobiKwik IPO](https://www.news18.com/business/ipo/mobikwik-ipo-allotment-finalised-gmp-at-59-14-a-step-by-step-guide-to-check-allotment-status-online-9157515.html)
-* [Vishal Mega Mart IPO](https://www.news18.com/business/ipo/vishal-mega-mart-ipo-allotment-finalised-today-know-latest-gmp-how-to-check-allotment-status-online-9157576.html)
 * [Champions Trophy Schedule](https://www.news18.com/cricket/icc-champions-trophy-2025-schedule-announcement-live-updates-match-date-time-venue-india-vs-pakistan-liveblog-9157982.html)
-* [Brisbane Weather](https://www.news18.com/cricket/gabba-brisbane-weather-forecast-india-vs-australia-bgt-3rd-test-match-9157814.html)
-* [Sai Pallavi](https://www.news18.com/web-stories/celebrities/7-sai-pallavi-inspired-saree-blouses-for-marriage-season-2675702/)
+* [Railways Waiting List](https://www.news18.com/auto/till-what-number-can-waiting-list-tickets-be-confirmed-railways-reveals-the-magic-formula-ws-b-9157749.html)
+* [Zeenat Aman](https://www.news18.com/movies/zeenat-aman-adjusted-for-heroes-on-dostana-set-amitabh-bachchan-would-leave-shatrugan-sinha-would-enter-9158435.html)
 * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 
 * Follow Us
