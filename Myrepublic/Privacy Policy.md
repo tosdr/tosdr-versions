@@ -24,22 +24,18 @@ ALERT: Stay vigilant and exercise caution against online scams. Never share conf
 
 SG
 
-![](data:image/svg+xml;nitro-empty-id=MTg4NzoxMjU=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTIgOCIgd2lkdGg9IjEyIiBoZWlnaHQ9IjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
+![](https://myrepublic.net/sg/wp-content/uploads/ac_assets/myRepublic-dropdown-country/img/down_arrow.svg)
 
 [](#)
 
-Search
-
 Search 
 
-Close this search box.
-
-[![](data:image/svg+xml;nitro-empty-id=MTkzOToyMTE=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTI5IDg1IiB3aWR0aD0iNTI5IiBoZWlnaHQ9Ijg1IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://myrepublic.net/sg)
+[![](https://myrepublic.net/sg/wp-content/uploads/2023/02/MyRepublic-Diapositive-Logo-Horizontal-™.svg)](https://myrepublic.net/sg)
 
 * [Mobile](https://myrepublic.net/sg/mobile/)
     
-    Mobile
-    ------
+    Mobile​
+    -------
     
     You’ve got enough things to worry about — your mobile plan shouldn’t be one of them. With MyRepublic, you’ll never have to worry about extra data charges, hidden fees or bill shock from data roaming. 
     
@@ -66,7 +62,7 @@ Close this search box.
     
     * Promotions
     
-    [![](data:image/svg+xml;nitro-empty-id=MjE3NDozNDc=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDYxNCIgd2lkdGg9IjgwMCIgaGVpZ2h0PSI2MTQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://myrepublic.net/sg/mobile-promotions)
+    [![](https://myrepublic.net/sg/wp-content/uploads/2022/01/Carousel-Banner-Mobile.png)](https://myrepublic.net/sg/mobile-promotions)
     
     ### [Unlimited Mobile Data from $10.90/mth](https://myrepublic.net/sg/mobile-promotions)
     
@@ -96,7 +92,7 @@ Close this search box.
     
     * Get More for Less!
     
-    [![](data:image/svg+xml;nitro-empty-id=MjM3NzozNDQ=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTY2NyAxMjgwIiB3aWR0aD0iMTY2NyIgaGVpZ2h0PSIxMjgwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://myrepublic.net/sg/4g/)
+    [![](https://myrepublic.net/sg/wp-content/uploads/2024/12/Christmas-Campaign-4G-11.90-Web-Banner-211124_Offer.png)](https://myrepublic.net/sg/4g/)
     
     ### [Now with FREE 1GB Data Roaming](https://myrepublic.net/sg/4g/)
     
@@ -135,7 +131,7 @@ Close this search box.
     
     * Promotions
     
-    [![](data:image/svg+xml;nitro-empty-id=MjY0NDozNDk=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNDQ2IDM0MiIgd2lkdGg9IjQ0NiIgaGVpZ2h0PSIzNDIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://myrepublic.net/sg/broadband-promotions)
+    [![](https://myrepublic.net/sg/wp-content/uploads/2022/02/Carousel-Banner-Broadband-1.png)](https://myrepublic.net/sg/broadband-promotions)
     
     ### [Ultra-Fast Broadband from $37.99/mth](https://myrepublic.net/sg/broadband-promotions)
     
@@ -172,13 +168,13 @@ Close this search box.
     
     * Promotions
     
-    [![](data:image/svg+xml;nitro-empty-id=Mjg0MzozMDQ=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNDQ2IDM0MiIgd2lkdGg9IjQ0NiIgaGVpZ2h0PSIzNDIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](#)
+    [![](https://myrepublic.net/sg/wp-content/uploads/2022/02/Carousel-Banner-Broadband-1.png)](#)
     
     ### [Stream, Surf and Game with Ultra-Fast and Low Latency Broadband](#)
     
     [Read More](https://myrepublic.net/sg/broadband-promotions)
     
-    [![](data:image/svg+xml;nitro-empty-id=Mjg3MzoyODc=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNDQ2IDM0MiIgd2lkdGg9IjQ0NiIgaGVpZ2h0PSIzNDIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](#)
+    [![](https://myrepublic.net/sg/wp-content/uploads/2020/12/HWM_BG_TOP.png)](#)
     
     ### [Get Unlimited Mobile Data from $12.90/mth on SG's #1 MVNO Network](#)
     
@@ -186,7 +182,7 @@ Close this search box.
     
     * Hot Broadband Deals
     
-    [![](data:image/svg+xml;nitro-empty-id=MjkxNTozNDc=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNjAwIDYwMCIgd2lkdGg9IjYwMCIgaGVpZ2h0PSI2MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://myrepublic.net/sg/hyperspeed-10gbps-amazon-eero-max-7/)
+    [![](https://myrepublic.net/sg/wp-content/uploads/2024/08/eero_max.png)](https://myrepublic.net/sg/hyperspeed-10gbps-amazon-eero-max-7/)
     
     ### [eero Max 7 + HyperSpeed 10Gbps](https://myrepublic.net/sg/hyperspeed-10gbps-amazon-eero-max-7/)
     
@@ -194,7 +190,7 @@ Close this search box.
     
     * Hot Mobile Deals
     
-    [![](data:image/svg+xml;nitro-empty-id=Mjk0NTozNDA=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTY2NyAxMjgwIiB3aWR0aD0iMTY2NyIgaGVpZ2h0PSIxMjgwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://myrepublic.net/sg/4g/)
+    [![](https://myrepublic.net/sg/wp-content/uploads/2020/12/4G-188GB-Web-Carousel-040924_Img.png)](https://myrepublic.net/sg/4g/)
     
     ### [Limited Time Offer!](https://myrepublic.net/sg/4g/)
     
@@ -202,7 +198,7 @@ Close this search box.
     
     * Latest Product Offers
     
-    [![](data:image/svg+xml;nitro-empty-id=Mjk3NTo1MDI=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDgwMCIgd2lkdGg9IjgwMCIgaGVpZ2h0PSI4MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://sgshop.myrepublic.net/products/tp-link-10gbps-lan-card-pci-e-adapter-network-card-tx401/?utm_source=myrepublic&utm_medium=referral&utm_term=10g-adapter)
+    [![](https://myrepublic.net/sg/wp-content/uploads/2023/09/TP-Link-10Gbps-LAN-Card-PCI-E-Adapter-Network-Card-TX401.jpg)](https://sgshop.myrepublic.net/products/tp-link-10gbps-lan-card-pci-e-adapter-network-card-tx401/?utm_source=myrepublic&utm_medium=referral&utm_term=10g-adapter)
     
     ### [TP-Link 10Gbps LAN Card...](https://sgshop.myrepublic.net/products/tp-link-10gbps-lan-card-pci-e-adapter-network-card-tx401/?utm_source=myrepublic&utm_medium=referral&utm_term=10g-adapter)
     
@@ -210,14 +206,16 @@ Close this search box.
     
     * New Stores / Upcoming Roadshows
     
-    [![](data:image/svg+xml;nitro-empty-id=MzAwNTo0MDY=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzEwIDI2MCIgd2lkdGg9IjMxMCIgaGVpZ2h0PSIyNjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://myrepublic.net/sg/wp-content/uploads/2024/10/JEM-PasirRis-Website-Pop-out-221024.png)
+    [![](https://myrepublic.net/sg/wp-content/uploads/2022/02/Shop-Broadband-Plans-1.png)](https://myrepublic.net/sg/wp-content/uploads/2024/10/JEM-PasirRis-Website-Pop-out-221024.png)
     
     ### [Now Open at JEM!](https://myrepublic.net/sg/wp-content/uploads/2024/10/JEM-PasirRis-Website-Pop-out-221024.png)
     
     [Read More](https://myrepublic.net/sg/wp-content/uploads/2024/10/JEM-PasirRis-Website-Pop-out-221024.png)
     
 * [Lifestyle](https://myrepublic.net/sg/lifestyle/)
+    
 * [Blog](https://myrepublic.net/sg/blog/)
+    
 * [Support](https://intercom.help/myrepublicsg/en/)
     
     Support
@@ -242,13 +240,13 @@ Close this search box.
     * [Cessation of 3G Services](https://intercom.help/myrepublicsg/en/articles/8956047-cessation-of-3g-services)
     * [Contact Us](https://myrepublic.net/sg/contact-us/)
     
-    [![](data:image/svg+xml;nitro-empty-id=MzIxMTozMzI=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgOTI3IDkxOCIgd2lkdGg9IjkyNyIgaGVpZ2h0PSI5MTgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://myrepublic.net/sg/network-status/)
+    [![](https://myrepublic.net/sg/wp-content/uploads/2022/08/Robot-Saying-hi.png)](https://myrepublic.net/sg/network-status/)
     
     ### [Check Network Status](https://myrepublic.net/sg/network-status/)
     
     [Read More](https://myrepublic.net/sg/network-status/)
     
-    [![](data:image/svg+xml;nitro-empty-id=MzIzMjozNjk=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTAwIDUwMCIgd2lkdGg9IjUwMCIgaGVpZ2h0PSI1MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://myrepublic.net/sg/scam-advisory/)
+    [![](https://myrepublic.net/sg/wp-content/uploads/2021/07/Mobile-Website-Simple-Steps-Images-070721-alien-phone.png)](https://myrepublic.net/sg/scam-advisory/)
     
     ### [Scam Advisory](https://myrepublic.net/sg/scam-advisory/)
     
@@ -261,7 +259,7 @@ Close this search box.
     
     * [Routers & Accessories](https://sgshop.myrepublic.net/collections/routers-and-accessories)
     
-    [![](data:image/svg+xml;nitro-empty-id=MzMwMDo3ODU=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDgwMCIgd2lkdGg9IjgwMCIgaGVpZ2h0PSI4MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://sgshop.myrepublic.net/products/tp-link-10gbps-lan-card-pci-e-adapter-network-card-tx401/?utm_source=myrepublic&utm_medium=referral&utm_term=10g-adapter)
+    [![](https://myrepublic.net/sg/wp-content/uploads/2023/09/TP-Link-10Gbps-LAN-Card-PCI-E-Adapter-Network-Card-TX401.jpg)](https://sgshop.myrepublic.net/products/tp-link-10gbps-lan-card-pci-e-adapter-network-card-tx401/?utm_source=myrepublic&utm_medium=referral&utm_term=10g-adapter)
     
     ### [TP-Link 10Gbps LAN Card...](https://sgshop.myrepublic.net/products/tp-link-10gbps-lan-card-pci-e-adapter-network-card-tx401/?utm_source=myrepublic&utm_medium=referral&utm_term=10g-adapter)
     
@@ -271,7 +269,7 @@ Close this search box.
     
     * [Wearables](https://sgshop.myrepublic.net/collections/wearables/?utm_source=myrepublic&utm_medium=referral&utm_term=wearables)
     
-    [![](data:image/svg+xml;nitro-empty-id=MzM0MzozOTc=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzAwIDI5OCIgd2lkdGg9IjMwMCIgaGVpZ2h0PSIyOTgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://sgshop.myrepublic.net/products/ticwatch-pro-3-ultra)
+    [![](https://myrepublic.net/sg/wp-content/uploads/2023/09/Ticwatchpro2.jpg)](https://sgshop.myrepublic.net/products/ticwatch-pro-3-ultra)
     
     ### [TicWatch Pro 3 Ultra GPS](https://sgshop.myrepublic.net/products/ticwatch-pro-3-ultra/?utm_source=myrepublic&utm_medium=referral&utm_term=ticwatch)
     
@@ -281,7 +279,7 @@ Close this search box.
     
     * [Gaming](https://sgshop.myrepublic.net/collections/gaming)
     
-    [![](data:image/svg+xml;nitro-empty-id=MzM4Njo2NTU=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNjAwIDYwMCIgd2lkdGg9IjYwMCIgaGVpZ2h0PSI2MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://sgshop.myrepublic.net/products/razer-ornata-v3)
+    [![](https://myrepublic.net/sg/wp-content/uploads/2023/09/MyRepublic_RazerOrnataV3_SKU-1.png)](https://sgshop.myrepublic.net/products/razer-ornata-v3)
     
     ### [Razer Ornata V3](https://sgshop.myrepublic.net/products/razer-ornata-v3)
     
@@ -291,7 +289,7 @@ Close this search box.
     
     * [Audio](https://sgshop.myrepublic.net/collections/audio/?utm_source=myrepublic&utm_medium=referral&utm_term=audio)
     
-    [![](data:image/svg+xml;nitro-empty-id=MzQyOTo3NjM=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzAwIDMwMCIgd2lkdGg9IjMwMCIgaGVpZ2h0PSIzMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://sgshop.myrepublic.net/products/mackie-m-caster-studio-live-streaming-mixer/?utm_source=myrepublic&utm_medium=referral&utm_term=invictor)
+    [![](https://myrepublic.net/sg/wp-content/uploads/2023/09/Products-IINVICTOR-Soturi-Gaming-Headset-_-Mackie-M-Caster-Studio-Live-Streaming-Mixer-_Bundle__B_59dcd411-23b3-42db-a574-ad6e779e14c9.jpg)](https://sgshop.myrepublic.net/products/mackie-m-caster-studio-live-streaming-mixer/?utm_source=myrepublic&utm_medium=referral&utm_term=invictor)
     
     ### [IINVICTOR Gaming Headset...](https://sgshop.myrepublic.net/products/mackie-m-caster-studio-live-streaming-mixer/?utm_source=myrepublic&utm_medium=referral&utm_term=invictor)
     
@@ -321,7 +319,7 @@ Sign Up
 * [4G Mobile](https://order.mobile.myrepublic.net/order/?catalogId=87#plans)
 * [5G Mobile](https://order.mobile.myrepublic.net/order/?catalogId=1101#plans)
 
-[![](data:image/svg+xml;nitro-empty-id=MzYxMDoyMTE=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTI5IDg1IiB3aWR0aD0iNTI5IiBoZWlnaHQ9Ijg1IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://myrepublic.net/sg)
+[![](https://myrepublic.net/sg/wp-content/uploads/2023/02/MyRepublic-Diapositive-Logo-Horizontal-™.svg)](https://myrepublic.net/sg)
 
 Legal
 =====
@@ -420,7 +418,7 @@ If you have any query or feedback regarding this Privacy Policy, you may contact
 
 Last updated: 9th July 2020
 
-![](data:image/svg+xml;nitro-empty-id=MzkyMTo4MjQ=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjA0OCAzMzAiIHdpZHRoPSIyMDQ4IiBoZWlnaHQ9IjMzMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
+![](https://myrepublic.net/sg/wp-content/uploads/2022/02/MyRepublic-Diapositive-Logo-Horizontal-™.png)
 
 * [](https://www.instagram.com/myrepublicsg/)
 * [](https://www.linkedin.com/company/myrepublic/)
