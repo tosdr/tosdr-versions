@@ -2,6 +2,8 @@
 
  
 
+[TODAY ONLY: SAVE 20% OFF DIGITAL GIFT CARDS. DISCOUNT APPLIED IN CART](https://www.deathwishcoffee.com/products/gift-card)
+
      
 
 * Coffee
