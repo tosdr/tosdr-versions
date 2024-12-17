@@ -54,7 +54,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-16 Dec 2024
+17 Dec 2024
 
 * [Home
     
@@ -264,6 +264,13 @@ Most Popular
 [PICTURES: Ireland's sporting heroes and partners step out in style to the RTÉ Sport Awards](https://www.derrynow.com/news/national-news/1681764/pictures-ireland-s-sporting-heroes-and-partners-step-out-in-style-to-the-rte-sport-awards.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![IN PICTURES: Derry Factory Girls and Factory Workers Reunion Dance](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry Factory Girls and Factory Workers Reunion Dance")](https://www.derrynow.com/story-telling/pictures---videos/1681641/in-pictures-derry-factory-girls-and-factory-workers-reunion-dance.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Derry Factory Girls and Factory Workers Reunion Dance](https://www.derrynow.com/story-telling/pictures---videos/1681641/in-pictures-derry-factory-girls-and-factory-workers-reunion-dance.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry man charged with assaulting his partner](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with assaulting his partner")](https://www.derrynow.com/news/local-news/1681635/derry-man-charged-with-assaulting-his-partner.html)
 
 Derry Magistrates' Court
@@ -273,12 +280,12 @@ Derry Magistrates' Court
 [Derry man charged with assaulting his partner](https://www.derrynow.com/news/local-news/1681635/derry-man-charged-with-assaulting-his-partner.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![IN PICTURES: Derry Factory Girls and Factory Workers Reunion Dance](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry Factory Girls and Factory Workers Reunion Dance")](https://www.derrynow.com/story-telling/pictures---videos/1681641/in-pictures-derry-factory-girls-and-factory-workers-reunion-dance.html)
+[![IN PICTURES: Derry XC attracts best talent to Thornhill College venue](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry XC attracts best talent to Thornhill College venue")](https://www.derrynow.com/story-telling/pictures---videos/1681638/in-pictures-derry-xc-attracts-best-talent-to-thornhill-college-venue.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[IN PICTURES: Derry Factory Girls and Factory Workers Reunion Dance](https://www.derrynow.com/story-telling/pictures---videos/1681641/in-pictures-derry-factory-girls-and-factory-workers-reunion-dance.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[IN PICTURES: Derry XC attracts best talent to Thornhill College venue](https://www.derrynow.com/story-telling/pictures---videos/1681638/in-pictures-derry-xc-attracts-best-talent-to-thornhill-college-venue.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1680148/derry-death-notices-monday-december-16-2024.html)
 
@@ -287,11 +294,13 @@ Derry Magistrates' Court
 [Derry Death Notices - Monday, December 16, 2024](https://www.derrynow.com/news/deaths/1680148/derry-death-notices-monday-december-16-2024.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![IN PICTURES: Derry XC attracts best talent to Thornhill College venue](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry XC attracts best talent to Thornhill College venue")](https://www.derrynow.com/story-telling/pictures---videos/1681638/in-pictures-derry-xc-attracts-best-talent-to-thornhill-college-venue.html)
+[![Woman appears at Derry Magistrates' Court charged with assaulting her partner](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman appears at Derry Magistrates' Court charged with assaulting her partner")](https://www.derrynow.com/news/local-news/1681679/woman-appears-at-derry-magistrates-court-charged-with-assaulting-her-partner.html)
 
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+Derry Magistrates' Court
 
-[IN PICTURES: Derry XC attracts best talent to Thornhill College venue](https://www.derrynow.com/story-telling/pictures---videos/1681638/in-pictures-derry-xc-attracts-best-talent-to-thornhill-college-venue.html)
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Woman appears at Derry Magistrates' Court charged with assaulting her partner](https://www.derrynow.com/news/local-news/1681679/woman-appears-at-derry-magistrates-court-charged-with-assaulting-her-partner.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![County Derry woman charged with breaching bail condition remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry woman charged with breaching bail condition remanded")](https://www.derrynow.com/news/local-news/1681706/county-derry-woman-charged-with-breaching-bail-condition-remanded.html)
@@ -302,15 +311,6 @@ Derry Magistrates' Court
 
 [County Derry woman charged with breaching bail condition remanded](https://www.derrynow.com/news/local-news/1681706/county-derry-woman-charged-with-breaching-bail-condition-remanded.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Woman appears at Derry Magistrates' Court charged with assaulting her partner](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman appears at Derry Magistrates' Court charged with assaulting her partner")](https://www.derrynow.com/news/local-news/1681679/woman-appears-at-derry-magistrates-court-charged-with-assaulting-her-partner.html)
-
-Derry Magistrates' Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Woman appears at Derry Magistrates' Court charged with assaulting her partner](https://www.derrynow.com/news/local-news/1681679/woman-appears-at-derry-magistrates-court-charged-with-assaulting-her-partner.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![St Johnston man charged with having six petrol bombs at home](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "St Johnston man charged with having six petrol bombs at home")](https://www.derrynow.com/news/local-news/1681789/st-johnston-man-charged-with-having-six-petrol-bombs-at-home.html)
 
@@ -513,6 +513,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![LIVING WELL WITH GRAHAM - How to build lean muscle and boost your metabolism!](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "LIVING WELL WITH GRAHAM - How to build lean muscle and boost your metabolism!")](https://www.derrynow.com/news/local-news/1682146/living-well-with-graham-how-to-build-lean-muscle-and-boost-your-metabolism.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[LIVING WELL WITH GRAHAM - How to build lean muscle and boost your metabolism!](https://www.derrynow.com/news/local-news/1682146/living-well-with-graham-how-to-build-lean-muscle-and-boost-your-metabolism.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Annette McGavigan was shot on September 6, 1971.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Annette McGavigan was shot on September 6, 1971.")](https://www.derrynow.com/news/local-news/1682149/teenager-s-inquest-verdict-of-significant-importance-in-cases-of-annette-mcgavigan-and-patrick-duffy.html)
 
 Annette McGavigan was shot on September 6, 1971.
@@ -522,7 +529,7 @@ Annette McGavigan was shot on September 6, 1971.
 [Teenager's inquest verdict of 'significant importance' in cases of Annette McGavigan and Patrick Duffy](https://www.derrynow.com/news/local-news/1682149/teenager-s-inquest-verdict-of-significant-importance-in-cases-of-annette-mcgavigan-and-patrick-duffy.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Teaching unions vote for industrial action over pay](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Teaching unions vote for industrial action over pay")](https://www.derrynow.com/news/local-news/1682127/teaching-unions-vote-for-industrial-action-over-pay.html)
+[![Teaching unions vote for industrial action over pay](https://www.derrynow.com/resizer/165/93/true/pa/2024_12_16/1734370501805_0.jpg--.jpg?1734370502043 "Teaching unions vote for industrial action over pay")](https://www.derrynow.com/news/local-news/1682127/teaching-unions-vote-for-industrial-action-over-pay.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
@@ -553,15 +560,6 @@ PSNI
 
 [36-year-old man charged with series of offences including creeper style burglary](https://www.derrynow.com/news/local-news/1682073/36-year-old-man-charged-with-series-of-offences-including-creeper-style-burglary.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Call for action as Letterkenny is now Ireland’s largest town without any rail plans](https://www.derrynow.com/resizer/165/93/true/2024_12_16/1487778391237.jpg--wuri_hope_to_get_plans_for_donegal_railway_back_on_track-1734335967709.jpg--.jpg?1734335967746 "Call for action as Letterkenny is now Ireland’s largest town without any rail plans")](https://www.derrynow.com/news/local-news/1681794/call-for-action-as-letterkenny-is-now-irelands-largest-town-without-any-rail-plans.html)
-
-Into The West state that restoring the 35km rail link between Letterkenny and Derry would deliver huge benefits
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Call for action as Letterkenny is now Ireland’s largest town without any rail plans](https://www.derrynow.com/news/local-news/1681794/call-for-action-as-letterkenny-is-now-irelands-largest-town-without-any-rail-plans.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
