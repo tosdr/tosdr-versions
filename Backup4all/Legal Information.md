@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to create a differential backup](https://www.backup4all.com/how-to-create-a-differential-backup-kb.html)  
+* [How to create a shortcut](https://www.backup4all.com/how-to-create-a-shortcut-kb.html)  
     
-* [How to backup your data to ThinkOn](https://www.backup4all.com/how-to-backup-your-data-to-thinkon-kb.html)  
+* [How to backup your data to Wasabi](https://www.backup4all.com/how-to-backup-your-data-to-wasabi-kb.html)  
     
-* [How to back up data files from Dropbox using ...](https://www.backup4all.com/how-to-back-up-data-files-from-dropbox-using-backup4all-kb.html)  
+* [How to back up data files from Hitachi using ...](https://www.backup4all.com/how-to-back-up-data-files-from-hitachi-using-backup4all-kb.html)  
     
-* [How to restore a backup from Google Cloud Sto ...](https://www.backup4all.com/how-to-restore-a-backup-from-google-cloud-storage-kb.html)  
+* [How to schedule a backup job or backup tag wi ...](https://www.backup4all.com/how-to-schedule-a-backup-job-or-backup-tag-without-using-backup4ll-kb.html)  
     
-* [How to restore your backup from HiDrive](https://www.backup4all.com/how-to-restore-your-backup-from-hidrive-kb.html)  
+* [Backup Outlook emails and settings](https://www.backup4all.com/backup-outlook-emails-and-settings-kb.html)  
     
 
 Choose language:
