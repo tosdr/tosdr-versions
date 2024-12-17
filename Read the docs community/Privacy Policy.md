@@ -5,13 +5,10 @@
 Getting started
 
 * [Read the Docs tutorial](https://docs.readthedocs.io/en/stable/tutorial/index.html)
-* [Supported tools](https://docs.readthedocs.io/en/stable/intro/doctools.html)
-* [Material for MkDocs](https://docs.readthedocs.io/en/stable/intro/mkdocs.html)
-* [Sphinx](https://docs.readthedocs.io/en/stable/intro/sphinx.html)
-* [Docusarus](https://docs.readthedocs.io/en/stable/intro/docusaurus.html)
-* [Markdoc](https://docs.readthedocs.io/en/stable/intro/markdoc.html)
 * [Adding a documentation project](https://docs.readthedocs.io/en/stable/intro/add-project.html)
+* [Popular documentation tools](https://docs.readthedocs.io/en/stable/intro/doctools.html)
 * [Example projects](https://docs.readthedocs.io/en/stable/examples.html)
+* [Account authentication methods](https://docs.readthedocs.io/en/stable/intro/accounts.html)
 
 Project setup and configuration
 
@@ -48,7 +45,7 @@ Hosting documentation
 Reading documentation
 
 * [Offline formats (PDF, ePub, HTML)](https://docs.readthedocs.io/en/stable/downloadable-documentation.html)
-* [DocDiff](https://docs.readthedocs.io/en/stable/doc-diff.html)
+* [Visual diff](https://docs.readthedocs.io/en/stable/visual-diff.html)
 * [Link previews](https://docs.readthedocs.io/en/stable/link-previews.html)
 * [How to embed content from your documentation](https://docs.readthedocs.io/en/stable/guides/embedding-content.html)
 * [Server side search](https://docs.readthedocs.io/en/stable/server-side-search/index.html)
@@ -384,13 +381,10 @@ Built with [Sphinx](https://www.sphinx-doc.org/) using a [theme](https://github.
 Getting started
 
 * [Read the Docs tutorial](https://docs.readthedocs.io/en/stable/tutorial/index.html)
-* [Supported tools](https://docs.readthedocs.io/en/stable/intro/doctools.html)
-* [Material for MkDocs](https://docs.readthedocs.io/en/stable/intro/mkdocs.html)
-* [Sphinx](https://docs.readthedocs.io/en/stable/intro/sphinx.html)
-* [Docusarus](https://docs.readthedocs.io/en/stable/intro/docusaurus.html)
-* [Markdoc](https://docs.readthedocs.io/en/stable/intro/markdoc.html)
 * [Adding a documentation project](https://docs.readthedocs.io/en/stable/intro/add-project.html)
+* [Popular documentation tools](https://docs.readthedocs.io/en/stable/intro/doctools.html)
 * [Example projects](https://docs.readthedocs.io/en/stable/examples.html)
+* [Account authentication methods](https://docs.readthedocs.io/en/stable/intro/accounts.html)
 
 Project setup and configuration
 
@@ -427,7 +421,7 @@ Hosting documentation
 Reading documentation
 
 * [Offline formats (PDF, ePub, HTML)](https://docs.readthedocs.io/en/stable/downloadable-documentation.html)
-* [DocDiff](https://docs.readthedocs.io/en/stable/doc-diff.html)
+* [Visual diff](https://docs.readthedocs.io/en/stable/visual-diff.html)
 * [Link previews](https://docs.readthedocs.io/en/stable/link-previews.html)
 * [How to embed content from your documentation](https://docs.readthedocs.io/en/stable/guides/embedding-content.html)
 * [Server side search](https://docs.readthedocs.io/en/stable/server-side-search/index.html)
@@ -513,13 +507,10 @@ Reference
 Getting started
 
 * [Read the Docs tutorial](https://docs.readthedocs.io/en/stable/tutorial/index.html)
-* [Supported tools](https://docs.readthedocs.io/en/stable/intro/doctools.html)
-* [Material for MkDocs](https://docs.readthedocs.io/en/stable/intro/mkdocs.html)
-* [Sphinx](https://docs.readthedocs.io/en/stable/intro/sphinx.html)
-* [Docusarus](https://docs.readthedocs.io/en/stable/intro/docusaurus.html)
-* [Markdoc](https://docs.readthedocs.io/en/stable/intro/markdoc.html)
 * [Adding a documentation project](https://docs.readthedocs.io/en/stable/intro/add-project.html)
+* [Popular documentation tools](https://docs.readthedocs.io/en/stable/intro/doctools.html)
 * [Example projects](https://docs.readthedocs.io/en/stable/examples.html)
+* [Account authentication methods](https://docs.readthedocs.io/en/stable/intro/accounts.html)
 
 Project setup and configuration
 
@@ -556,7 +547,7 @@ Hosting documentation
 Reading documentation
 
 * [Offline formats (PDF, ePub, HTML)](https://docs.readthedocs.io/en/stable/downloadable-documentation.html)
-* [DocDiff](https://docs.readthedocs.io/en/stable/doc-diff.html)
+* [Visual diff](https://docs.readthedocs.io/en/stable/visual-diff.html)
 * [Link previews](https://docs.readthedocs.io/en/stable/link-previews.html)
 * [How to embed content from your documentation](https://docs.readthedocs.io/en/stable/guides/embedding-content.html)
 * [Server side search](https://docs.readthedocs.io/en/stable/server-side-search/index.html)
