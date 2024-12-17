@@ -20,16 +20,16 @@ Tuesday, December 17 2024
 
 Latest
 
-* [Why the UK’s “outdated” cybersecurity legislation needs an urgent refresh](https://digitpatrox.com/why-the-uks-outdated-cybersecurity-legislation-needs-an-urgent-refresh/)
-* [All 6 Types of IVR Routing and When to Use Each One](https://digitpatrox.com/all-6-types-of-ivr-routing-and-when-to-use-each-one/)
-* [Xreal One vs Viture Pro: Which AR glasses should you buy?](https://digitpatrox.com/xreal-one-vs-viture-pro-which-ar-glasses-should-you-buy/)
-* [Texas Tech University System data breach impacts 1.4 million patients](https://digitpatrox.com/texas-tech-university-system-data-breach-impacts-1-4-million-patients/)
-* [Waymo is sending autonomous vehicles to Japan for first international tests](https://digitpatrox.com/waymo-is-sending-autonomous-vehicles-to-japan-for-first-international-tests/)
-* [The White Lotus Season 3 Release Date Confirmed With New Trailer](https://digitpatrox.com/the-white-lotus-season-3-release-date-confirmed-with-new-trailer/)
-* [Orbus Software acquires business architecture specialist Capsifi](https://digitpatrox.com/orbus-software-acquires-business-architecture-specialist-capsifi/)
-* [You Can Now Ask Questions During Google’s AI Podcasts](https://digitpatrox.com/you-can-now-ask-questions-during-googles-ai-podcasts/)
-* [Tires That Last the Longest](https://digitpatrox.com/tires-that-last-the-longest/)
-* [ChatGPT’s Search Engine Is Rolling Out to More People](https://digitpatrox.com/chatgpts-search-engine-is-rolling-out-to-more-people/)
+* [Analyze text using natural language with Claude for Google Sheets – Computerworld](https://digitpatrox.com/analyze-text-using-natural-language-with-claude-for-google-sheets-computerworld/)
+* [Why You Still Need a Filing Cabinet (Even in the Digital Age)](https://digitpatrox.com/why-you-still-need-a-filing-cabinet-even-in-the-digital-age/)
+* [Most Reliable Used Pickup Trucks](https://digitpatrox.com/most-reliable-used-pickup-trucks/)
+* [How to Turn Ubuntu Into the Perfect Programming Platform](https://digitpatrox.com/how-to-turn-ubuntu-into-the-perfect-programming-platform/)
+* [How to rewrite text with Notepad using AI in Windows 11](https://digitpatrox.com/how-to-rewrite-text-with-notepad-using-ai-in-windows-11/)
+* [Infosys co-founder repeats calls for a 70-hour work week](https://digitpatrox.com/infosys-co-founder-repeats-calls-for-a-70-hour-work-week/)
+* [Europe Selects Sites for Seven AI Factories](https://digitpatrox.com/europe-selects-sites-for-seven-ai-factories/)
+* [Massive Echo Dot deals in Amazon’s holiday sale — 5 deals I recommend buying from $17](https://digitpatrox.com/massive-echo-dot-deals-in-amazons-holiday-sale-5-deals-i-recommend-buying-from-17/)
+* [Kali Linux 2024.4 released with 14 new tools, deprecates some features](https://digitpatrox.com/kali-linux-2024-4-released-with-14-new-tools-deprecates-some-features/)
+* [Europe’s Starlink competitor is go](https://digitpatrox.com/europes-starlink-competitor-is-go/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/SUTx8RvwMdHBGttPGtQti-1200-80.jpg)](https://digitpatrox.com/why-the-uks-outdated-cybersecurity-legislation-needs-an-urgent-refresh/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3623648-0-96933200-1734433337-man-looking-at-spreadsheet-on-laptop-by-kampus-production-via-pexels.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/analyze-text-using-natural-language-with-claude-for-google-sheets-computerworld/)
     
-    [Why the UK’s “outdated” cybersecurity legislation needs an urgent refresh](https://digitpatrox.com/why-the-uks-outdated-cybersecurity-legislation-needs-an-urgent-refresh/)
+    [Analyze text using natural language with Claude for Google Sheets – Computerworld](https://digitpatrox.com/analyze-text-using-natural-language-with-claude-for-google-sheets-computerworld/)
     
-    31 minutes ago
+    13 minutes ago
     
-* [![](https://assets.techrepublic.com/uploads/2024/12/ivr-routing-featured-image-12122024-min.jpg)](https://digitpatrox.com/all-6-types-of-ivr-routing-and-when-to-use-each-one/)
+* [![](https://lifehacker.com/imagery/articles/01JEVEBFPGKR47HKJX0VBXDPZ7/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/why-you-still-need-a-filing-cabinet-even-in-the-digital-age/)
     
-    [All 6 Types of IVR Routing and When to Use Each One](https://digitpatrox.com/all-6-types-of-ivr-routing-and-when-to-use-each-one/)
+    [Why You Still Need a Filing Cabinet (Even in the Digital Age)](https://digitpatrox.com/why-you-still-need-a-filing-cabinet-even-in-the-digital-age/)
     
-    35 minutes ago
+    41 minutes ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/A5MFzgpAahYhDcBt2D5izY-1200-80.jpg)](https://digitpatrox.com/xreal-one-vs-viture-pro-which-ar-glasses-should-you-buy/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1733260578/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-InlineHero-Most-Reliable-Used-Pickup-Trucks-1224)](https://digitpatrox.com/most-reliable-used-pickup-trucks/)
     
-    [Xreal One vs Viture Pro: Which AR glasses should you buy?](https://digitpatrox.com/xreal-one-vs-viture-pro-which-ar-glasses-should-you-buy/)
+    [Most Reliable Used Pickup Trucks](https://digitpatrox.com/most-reliable-used-pickup-trucks/)
     
-    40 minutes ago
+    51 minutes ago
     
-* [![](https://www.bleepstatic.com/content/hl-images/2024/08/27/ransomware-2.jpg)](https://digitpatrox.com/texas-tech-university-system-data-breach-impacts-1-4-million-patients/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/terminal.jpg)](https://digitpatrox.com/how-to-turn-ubuntu-into-the-perfect-programming-platform/)
     
-    [Texas Tech University System data breach impacts 1.4 million patients](https://digitpatrox.com/texas-tech-university-system-data-breach-impacts-1-4-million-patients/)
+    [How to Turn Ubuntu Into the Perfect Programming Platform](https://digitpatrox.com/how-to-turn-ubuntu-into-the-perfect-programming-platform/)
     
-    2 hours ago
+    52 minutes ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/24tEuWe0TfGgyJt-c3cMRQ06fIc=/0x0:4928x3280/1200x628/filters:focal(2464x1640:2465x1641)/cdn.vox-cdn.com/uploads/chorus_asset/file/25792993/2155632147.jpg)](https://digitpatrox.com/waymo-is-sending-autonomous-vehicles-to-japan-for-first-international-tests/)
+* [![](https://www.digitalcitizen.life/wp-content/uploads/2018/10/win11_notepad.png)](https://digitpatrox.com/how-to-rewrite-text-with-notepad-using-ai-in-windows-11/)
     
-    [Waymo is sending autonomous vehicles to Japan for first international tests](https://digitpatrox.com/waymo-is-sending-autonomous-vehicles-to-japan-for-first-international-tests/)
+    [How to rewrite text with Notepad using AI in Windows 11](https://digitpatrox.com/how-to-rewrite-text-with-notepad-using-ai-in-windows-11/)
     
-    2 hours ago
+    55 minutes ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [31 minutes ago
+* [13 minutes ago
     
-    ### Why the UK’s “outdated” cybersecurity legislation needs an urgent refresh](https://digitpatrox.com/why-the-uks-outdated-cybersecurity-legislation-needs-an-urgent-refresh/)
-* [35 minutes ago
+    ### Analyze text using natural language with Claude for Google Sheets – Computerworld](https://digitpatrox.com/analyze-text-using-natural-language-with-claude-for-google-sheets-computerworld/)
+* [41 minutes ago
     
-    ### All 6 Types of IVR Routing and When to Use Each One](https://digitpatrox.com/all-6-types-of-ivr-routing-and-when-to-use-each-one/)
-* [40 minutes ago
+    ### Why You Still Need a Filing Cabinet (Even in the Digital Age)](https://digitpatrox.com/why-you-still-need-a-filing-cabinet-even-in-the-digital-age/)
+* [51 minutes ago
     
-    ### Xreal One vs Viture Pro: Which AR glasses should you buy?](https://digitpatrox.com/xreal-one-vs-viture-pro-which-ar-glasses-should-you-buy/)
+    ### Most Reliable Used Pickup Trucks](https://digitpatrox.com/most-reliable-used-pickup-trucks/)
 
 Most Popular Topics
 
-* [October 15, 2024
+* [3 weeks ago
     
-    ### What is Extreme Programming (XP)?](https://digitpatrox.com/what-is-extreme-programming-xp/)
-* [October 11, 2024
+    ### Hurry! These Shark Black Friday deals include free mops, purifiers, more](https://digitpatrox.com/hurry-these-shark-black-friday-deals-include-free-mops-purifiers-more/)
+* [October 14, 2024
     
-    ### The Steam Deck is Finally Coming to Australia](https://digitpatrox.com/the-steam-deck-is-finally-coming-to-australia/)
-* [October 25, 2024
+    ### UK govt appoints Microsoft CEO to chair industrial strategy council as it looks to attract tech investment](https://digitpatrox.com/uk-govt-appoints-microsoft-ceo-to-chair-industrial-strategy-council-as-it-looks-to-attract-tech-investment/)
+* [21 hours ago
     
-    ### Change Healthcare Cyberattack Affects Over 100 Million People](https://digitpatrox.com/change-healthcare-cyberattack-affects-over-100-million-people/)
+    ### How to correctly install graphics drivers when upgrading to a new GPU on Windows 11](https://digitpatrox.com/how-to-correctly-install-graphics-drivers-when-upgrading-to-a-new-gpu-on-windows-11/)
 
 Last Modified Topics
 
-* [4 hours ago
+* [2 hours ago
     
-    ### Orbus Software acquires business architecture specialist Capsifi](https://digitpatrox.com/orbus-software-acquires-business-architecture-specialist-capsifi/)
-* [5 hours ago
+    ### Europe Selects Sites for Seven AI Factories](https://digitpatrox.com/europe-selects-sites-for-seven-ai-factories/)
+* [2 hours ago
     
-    ### You Can Now Ask Questions During Google’s AI Podcasts](https://digitpatrox.com/you-can-now-ask-questions-during-googles-ai-podcasts/)
-* [5 hours ago
+    ### Massive Echo Dot deals in Amazon’s holiday sale — 5 deals I recommend buying from $17](https://digitpatrox.com/massive-echo-dot-deals-in-amazons-holiday-sale-5-deals-i-recommend-buying-from-17/)
+* [3 hours ago
     
-    ### Tires That Last the Longest](https://digitpatrox.com/tires-that-last-the-longest/)
+    ### Kali Linux 2024.4 released with 14 new tools, deprecates some features](https://digitpatrox.com/kali-linux-2024-4-released-with-14-new-tools-deprecates-some-features/)
 
 Most Viewed Topics
 
 * [August 11, 2024
     
     ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
+* [August 13, 2024
+    
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [August 12, 2024
     
     ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
-* [August 13, 2024
-    
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
