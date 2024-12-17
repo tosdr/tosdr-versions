@@ -232,3 +232,4 @@ Learn More:
 * [UK Modern Slavery Statement](https://www.drift.com/legal/uk-modern-slavery-statement)
 * [Security](https://www.drift.com/security-compliance/)
 * [Manage Email Preferences](https://www.drift.com/email-preference-center/)
+* [Manage Cookie Preferences](https://www.drift.com/cookie-preferences)
