@@ -28,7 +28,7 @@ Sign in with Google](https://xhamster.com/login-google?source=base)
 
 [Videos](https://xhamster.com/)
 
-[Live Sex](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&p1=cold&exp=%7B%223005%22%3A%7B%22g%22%3A%22b%22%2C%22v%22%3A1%7D%7D&xhStatsUid=6760ad7a0bdb22.13186282a57&xhSessionToken=dab6f4aa0877195e73e3b7920d4e9b917ebb429d&xhSessionStartedAt=1734389114)
+[Live Sex](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&p1=cold&exp=%7B%223005%22%3A%7B%22g%22%3A%22b%22%2C%22v%22%3A1%7D%7D&xhStatsUid=6760ffe723c615.30471380d60&xhSessionToken=814392d450c896ff87d332d638a306af1d8f09ae&xhSessionStartedAt=1734410215)
 
 [Categories](https://xhamster.com/categories)
 
@@ -63,7 +63,7 @@ Sale](https://faphouse.com/?utm_source=xhamster&utm_medium=button&utm_campaign=g
 Privacy Policy
 ==============
 
-Effective Date: December 16, 2024
+Effective Date: December 17, 2024
 
 Last Modified: January 04, 2024
 
