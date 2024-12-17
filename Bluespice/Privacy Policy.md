@@ -603,7 +603,7 @@ downloads
 
 [![Webpräsenz der Allianz für Cyber-Sicherheit](https://bluespice.com/wp-content/uploads/2022/03/BlueSpice_Cyber-Security.webp)](https://www.allianz-fuer-cybersicherheit.de/Webs/ACS/DE/Home/home_node.html)
 
-[](https://www.facebook.com/BlueSpice.MediaWiki "Facebook")[](https://fosstodon.org/@bluespice "Mastodon")[](https://twitter.com/BlueSpiceTweets "Twitter")[](https://www.linkedin.com/showcase/bluespice "LinkedIn")[](https://www.youtube.com/user/BlueSpiceVideo "YouTube")
+[](https://www.facebook.com/BlueSpice.MediaWiki "Facebook")[](https://fosstodon.org/@bluespice "Mastodon")[](https://www.linkedin.com/showcase/bluespice "LinkedIn")[](https://www.youtube.com/user/BlueSpiceVideo "YouTube")[](https://twitter.com/BlueSpiceTweets "Twitter")
 
 #### [Get started](#d8a784889409dd227)
 
