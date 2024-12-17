@@ -1,3 +1,5 @@
+[Advertiser Disclosure](#)
+
 **THIS NOTICE IS SUBJECT TO MODIFICATION OR TERMINATION AT ANY TIME, WHETHER FOR CHANGES IN THE LAW OR AT THE CONVENIENCE OF BUZZERY, LLC AND ITS AFFILIATES ("FINANCEBUZZ.COM") WITHOUT ADVANCE NOTICE. YOU MUST CHECK BACK FREQUENTLY TO ENSURE THAT YOU SEE A CORRECT, CURRENT VERSION OF THE NOTICE.**
 
 It is our policy to respond to notices of alleged infringement that comply with the Digital Millennium Copyright Act and other applicable intellectual property laws. Responses may include removing or disabling access to material claimed to be the subject of infringing activity and/or terminating subscribers. If we remove or disable access in response to such a notice, we will make a good-faith attempt to contact the owner or administrator of the affected site or content so that they may make a counter notification pursuant to sections 512(g)(2) and (3) of that Act. It is our policy to document all notices of alleged infringement on which we act.
