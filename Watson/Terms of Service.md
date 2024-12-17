@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![dégagé](https://www.watson.ch/fr/_watsui/static/img/weather/w-90.svg)\-1°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![bien ensoleillé](https://www.watson.ch/fr/_watsui/static/img/weather/w-90.svg)0°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,26 +54,26 @@
 
 Thèmes du moment
 
-* [Politique](https://www.watson.ch/fr/politique/)
-* [Football](https://www.watson.ch/fr/football/)
+* [Russie](https://www.watson.ch/fr/russie/)
+* [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
 * [Justice](https://www.watson.ch/fr/justice/)
+* [Climat](https://www.watson.ch/fr/climat/)
+* [Syrie](https://www.watson.ch/fr/syrie/)
+* [Intelligence artificielle](https://www.watson.ch/fr/intelligence-artificielle/)
+* [Football](https://www.watson.ch/fr/football/)
+* [Brésil](https://www.watson.ch/fr/bresil/)
 * [CFF](https://www.watson.ch/fr/cff/)
 * [France](https://www.watson.ch/fr/france/)
-* [Syrie](https://www.watson.ch/fr/syrie/)
-* [Russie](https://www.watson.ch/fr/russie/)
 * [Argent](https://www.watson.ch/fr/argent/)
-* [Assurance maladie](https://www.watson.ch/fr/assurance-maladie/)
+* [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
+* [Donald Trump](https://www.watson.ch/fr/donald-trump/)
 * [Musique](https://www.watson.ch/fr/musique/)
-* [Conseil des Etats](https://www.watson.ch/fr/conseil-des-etats/)
 * [Vidéo](https://www.watson.ch/fr/video/)
 * [Santé](https://www.watson.ch/fr/sante/)
-* [Banques](https://www.watson.ch/fr/banques/)
-* [Allemagne](https://www.watson.ch/fr/allemagne/)
 * [guerre](https://www.watson.ch/fr/guerre/)
 * [Bachar al-Assad](https://www.watson.ch/fr/bachar-al-assad/)
 * [train](https://www.watson.ch/fr/train/)
 * [Transports](https://www.watson.ch/fr/transports/)
-* [Ski nordique](https://www.watson.ch/fr/ski-nordique/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
 * [Obtenir l'application](https://www.watson.ch/fr/u/app)
