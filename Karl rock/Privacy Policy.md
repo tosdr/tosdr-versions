@@ -414,13 +414,13 @@ Top
     
     [What Do Lawyers in India Charge? My Personal Experience Revealed](https://blog.karlrock.com/what-do-lawyers-in-india-charge/ "What Do Lawyers in India Charge? My Personal Experience Revealed")
     
+* [![The Real Locations of Shantaram](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2022/10/Shantaram-TV-show-is-filmed-in-thailand-not-india.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/the-real-locations-of-shantaram/ "The Real Locations of Shantaram")
+    
+    [The Real Locations of Shantaram](https://blog.karlrock.com/the-real-locations-of-shantaram/ "The Real Locations of Shantaram")
+    
 * [![How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2019/11/Kartarpur-Darbar-Sahib-Main-Prayer-Hall.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-travel-to-kartarpur-sahib-via-kartarpur-corridor/ "How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)")
     
     [How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)](https://blog.karlrock.com/how-to-travel-to-kartarpur-sahib-via-kartarpur-corridor/ "How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)")
-    
-* [![Authentic Pakistani Chai Recipe from a Chai Master](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/04/BALOCHI-CHAIWALA-Teaches-Me-How-to-Make-REAL-CHAI-Recipe.00_03_20_22.Still001-01_copy_1536x864.jpeg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/authentic-pakistani-chai-recipe-from-a-chai-master/ "Authentic Pakistani Chai Recipe from a Chai Master")
-    
-    [Authentic Pakistani Chai Recipe from a Chai Master](https://blog.karlrock.com/authentic-pakistani-chai-recipe-from-a-chai-master/ "Authentic Pakistani Chai Recipe from a Chai Master")
     
 
 © 2024 [Karl Rock's Blog](https://blog.karlrock.com/)
