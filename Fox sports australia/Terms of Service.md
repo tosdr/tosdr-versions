@@ -26,42 +26,36 @@ FOX SCORES
     | IND | 9 /252 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250503)
-* [Men's Test
-    
-    NZL won by 423 runs
-    
-    |     |     |
-    | --- | --- |
-    | NZL | 347 & 453 |
-    | ENG | 143 & 234 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250803)
 * [Women's Test
     
-    Day 3 Session 3
+    ENG won by 286 runs
     
     |     |     |
     | --- | --- |
-    | RSA | 281 & 7 /44 |
+    | RSA | 281 & 64 |
     | ENG | 9 /395d & 236 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WTEST2024-250101)
-* [Men's ODI
-    
-    |     |     |
-    | --- | --- |
-    | RSA | 4 /148 |
-    | PAK |     |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODI2024-251101)
 * [Women's T20I
     
+    WI won by 9 wkts
+    
     |     |     |
     | --- | --- |
-    | IND | 1 /33 |
-    | WI  |     |
+    | IND | 9 /159 |
+    | WI  | 1 /160 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20I2024-250402)
+* [Men's ODI
+    
+    PAK won by 3 wkts
+    
+    |     |     |
+    | --- | --- |
+    | RSA | 9 /239 |
+    | PAK | 7 /242 |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODI2024-251101)
 * [Big Bash League
     
     SYDT won by 2 wkts
@@ -82,70 +76,8 @@ FOX SCORES
     | SA  | –   |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WNCL2024-250116)
-* NFL
-    
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | MIN | 30  |
-    | CHI | 12  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251531)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | LV  | 9   |
-    | ATL | 15  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251532)
 * Basketball
     
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | CHA | 108 |
-    | PHI | 121 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25011224/box-score)
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | DET | 125 |
-    | MIA | 124 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25011223/box-score)
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | BKN | 101 |
-    | CLE | 130 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25011225/box-score)
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | TOR | 121 |
-    | CHI | 122 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25011226/box-score)
 * [NBA
     
     Full Time
@@ -175,6 +107,16 @@ FOX SCORES
     | OKC | –   |
     | MIL | –   |
     
+* [WNBL
+    
+    18/12 20:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | TWN | –   |
+    | SYD | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/wnbl/match-centre/WNBL2024-25080001)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
