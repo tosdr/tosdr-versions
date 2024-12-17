@@ -412,7 +412,6 @@ Overview
 
 * [About Us](https://greenlightdepot.com/pages/about-us)
 * [Find Rebates](https://greenlightdepot.com/pages/find-rebates)
-* [Sitemap](https://greenlightdepot.com/sitemap.xml)
 * [Blogs](https://greenlightdepot.com/blogs/news)
 
 Company Policies
@@ -440,8 +439,7 @@ Login
 
 [Create an Account](https://greenlightdepot.com/account/register)
 
-© 2024 Green Light Depot  
-[Powered by Shopify](https://www.shopify.com/?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore)
+© 2024 Green Light Depot
 
 Follow Us
 
@@ -453,7 +451,6 @@ We Accept
 
 American Express Apple Pay Diners Club Discover Google Pay Mastercard PayPal Shop Pay Visa
 
-© 2024 Green Light Depot  
-[Powered by Shopify](https://www.shopify.com/?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore)
+© 2024 Green Light Depot
 
 * Opens in a new window.
