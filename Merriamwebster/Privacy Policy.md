@@ -388,9 +388,9 @@ If you have questions about Merriam-Webster or its products, visit our [Contact 
 
 #### [Word of the Day](https://www.merriam-webster.com/word-of-the-day)
 
-#### [allusion](https://www.merriam-webster.com/word-of-the-day)
+#### [lexical](https://www.merriam-webster.com/word-of-the-day)
 
-[![Listen to the pronunciation of allusion](/dist-cross-dungarees/2024-12-16--18-34-34-8jhvw/images/svg/audio.svg)](javascript:void(0) "Listen to the pronunciation of allusion")
+[![Listen to the pronunciation of lexical](/dist-cross-dungarees/2024-12-16--18-34-34-8jhvw/images/svg/audio.svg)](javascript:void(0) "Listen to the pronunciation of lexical")
 
 [See Definitions and Examples](https://www.merriam-webster.com/word-of-the-day) »
 
