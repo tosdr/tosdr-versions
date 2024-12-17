@@ -145,7 +145,7 @@ Target double opt-in users with our high converting Email Clicks ad format.
 * [Careers](https://careers.exoclick.com/)
 * [IWF Membership](https://www.exoclick.com/iwf-membership/)
 * [Associations](https://www.exoclick.com/associations/)
-* [ExoClick Ethical Channel](https://www.exoclick.com/exoclick-ethical-channel/)
+* [Ethical Channel](https://www.exoclick.com/exoclick-ethical-channel/)
 
 #### [Help](http://docs.exoclick.com/)
 
@@ -153,10 +153,7 @@ Target double opt-in users with our high converting Email Clicks ad format.
 * [API](https://www.exoclick.com/api/)
 * [Documentation](http://docs.exoclick.com/)
 * [Trust and Safety](https://www.exoclick.com/trust-and-safety/)
-* [Compliance](https://www.exoclick.com/compliance/)
-* [Guidelines](https://www.exoclick.com/guidelines/)
 * [Contact Us](https://www.exoclick.com/contact/)
-* [Copyright Report Form](https://www.exoclick.com/copyrightform/)
 
 © 2024 ExoClick
 
