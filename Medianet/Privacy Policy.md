@@ -57,7 +57,7 @@ Oops! Something went wrong while submitting the form.
 
 Company
 
-[About Us](https://www.media.net/aboutus)[Press Room](https://www.media.net/resources)
+[About Us](https://www.media.net/aboutus)[Press Room](https://www.media.net/resources/)
 
 Solutions
 
@@ -65,11 +65,11 @@ Solutions
 
 Legal & Compliance
 
-[Terms of Service](https://www.media.net/legal/tos)[Inventory Policy](https://www.media.net/legal/inventorypolicies)[Ad Quality Policy](https://www.media.net/ad-quality-policy)[Privacy Policy](https://www.media.net/privacy-policy)
+[Terms of Service](https://www.media.net/legal/tos/)[Inventory Policy](https://www.media.net/legal/inventorypolicies/)[Ad Quality Policy](https://www.media.net/ad-quality-policy/)[Privacy Policy](https://www.media.net/privacy-policy/)
 
 Your Choices
 
-[Opt Out](https://www.media.net/optout)[Preferences](https://www.media.net/preferences)[Do Not Sell or Share My Personal Information](#)
+[Opt Out](https://www.media.net/optout/)[Preferences](https://www.media.net/preferences/)[Do Not Sell or Share My Personal Information](#)
 
 ![](https://s31073.pcdn.co/wp-content/themes/media.net/images/webf/iab_logo_c.png)
 
