@@ -32,12 +32,11 @@ Navigation
     
     *  [![](https://media.tegna-media.com/assets/WNEP/images/eda68603-f861-4a2f-99c8-fae2130d8990/eda68603-f861-4a2f-99c8-fae2130d8990_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/eda68603-f861-4a2f-99c8-fae2130d8990/eda68603-f861-4a2f-99c8-fae2130d8990_360x203.jpg)](https://www.wqad.com/article/news/local/burlington-assault-parent-basketball-referee/526-9e8e8c35-28d6-4c48-b75f-8b28ec1af191)
         
-        #### [Police: Charges expected after parent assaults referee at Burlington middle school basketball game](https://www.wqad.com/article/news/local/burlington-assault-parent-basketball-referee/526-9e8e8c35-28d6-4c48-b75f-8b28ec1af191) [![](https://media.tegna-media.com/assets/WNEP/images/eda68603-f861-4a2f-99c8-fae2130d8990/eda68603-f861-4a2f-99c8-fae2130d8990_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/eda68603-f861-4a2f-99c8-fae2130d8990/eda68603-f861-4a2f-99c8-fae2130d8990_360x203.jpg)](https://www.wqad.com/article/news/local/burlington-assault-parent-basketball-referee/526-9e8e8c35-28d6-4c48-b75f-8b28ec1af191)
+        #### [Police: Referee assaulted by parent at Burlington basketball game](https://www.wqad.com/article/news/local/burlington-assault-parent-basketball-referee/526-9e8e8c35-28d6-4c48-b75f-8b28ec1af191)
         
-        #### [Police: Referee assaulted by parent at Burlington middle school basketball game](https://www.wqad.com/article/news/local/burlington-assault-parent-basketball-referee/526-9e8e8c35-28d6-4c48-b75f-8b28ec1af191)
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/6c6ea849-579d-4645-be5b-7ec670c929b7/20241216T223321/6c6ea849-579d-4645-be5b-7ec670c929b7_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/6c6ea849-579d-4645-be5b-7ec670c929b7/20241216T223321/6c6ea849-579d-4645-be5b-7ec670c929b7_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-community-schools-board-member-resigning-iowa-house/526-3e4c4c64-9ddf-4418-8f24-197005959481)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/f66c1c15-a816-465f-b7d7-2593febd5729/20241216T231031/f66c1c15-a816-465f-b7d7-2593febd5729_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f66c1c15-a816-465f-b7d7-2593febd5729/20241216T231031/f66c1c15-a816-465f-b7d7-2593febd5729_360x203.jpg)](https://www.wqad.com/article/entertainment/places/hauberg-estate-apartment-airbnb-rent-andrew-reitz/526-b05a835f-c205-46c3-afa8-5f4c92679fb5)
         
-        #### [Davenport school board member stepping down to serve in Iowa House](https://www.wqad.com/article/news/local/davenport-community-schools-board-member-resigning-iowa-house/526-3e4c4c64-9ddf-4418-8f24-197005959481)
+        #### [Apartment on the Hauberg Estate now available to rent through Airbnb](https://www.wqad.com/article/entertainment/places/hauberg-estate-apartment-airbnb-rent-andrew-reitz/526-b05a835f-c205-46c3-afa8-5f4c92679fb5)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -57,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/950a06d5-4c60-4e65-8aa9-63231a299142/20241216T131601/950a06d5-4c60-4e65-8aa9-63231a299142_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/950a06d5-4c60-4e65-8aa9-63231a299142/20241216T131601/950a06d5-4c60-4e65-8aa9-63231a299142_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/a81718f2-063e-4567-b360-bccc9ee4ad75/20241216T231024/a81718f2-063e-4567-b360-bccc9ee4ad75_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a81718f2-063e-4567-b360-bccc9ee4ad75/20241216T231024/a81718f2-063e-4567-b360-bccc9ee4ad75_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
         #### [A little more warmth before highs back in the 30s](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
@@ -79,9 +78,9 @@ Navigation
         
         #### [Vote for this week's Midwest Technical Institute Score Standout | Week 16](https://www.wqad.com/article/sports/the-score/vote-for-this-weeks-midwest-technical-institute-score-standout-week-16/526-c20f8b6c-29e5-4dca-af0f-3cb05f45350a)
         
-    *  [![](https://media.tegna-media.com/assets/WOI/images/ccb45ed0-c056-4f75-9676-cabc93b9874f/20241215T223701/ccb45ed0-c056-4f75-9676-cabc93b9874f_16x9.jpg) ![](https://media.tegna-media.com/assets/WOI/images/ccb45ed0-c056-4f75-9676-cabc93b9874f/20241215T223701/ccb45ed0-c056-4f75-9676-cabc93b9874f_360x203.jpg)](https://www.wqad.com/article/sports/ncaa/iowa-hawkeyes/iowa-new-orleans-big-ten-mens-absketball-game-recap-score/524-03ad9647-dbfb-4952-9282-3b3b093aebc7)
+    *  [![](https://media.tegna-media.com/assets/CCT/images/c5452e0d-c5b1-4fc8-b904-9381017b7490/20241216T030902/c5452e0d-c5b1-4fc8-b904-9381017b7490_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/c5452e0d-c5b1-4fc8-b904-9381017b7490/20241216T030902/c5452e0d-c5b1-4fc8-b904-9381017b7490_360x203.jpg)](https://www.wqad.com/article/news/nation-world/pop-tart-bowl-working-toaster-trophy/507-93ab0d53-742b-4705-a704-8c38f2d877f4)
         
-        #### [Owen Freeman's career-best 22 points lead Iowa in 104-57 win over New Orleans](https://www.wqad.com/article/sports/ncaa/iowa-hawkeyes/iowa-new-orleans-big-ten-mens-absketball-game-recap-score/524-03ad9647-dbfb-4952-9282-3b3b093aebc7)
+        #### [Pop-Tart Bowl unveils trophy with a built in toaster](https://www.wqad.com/article/news/nation-world/pop-tart-bowl-working-toaster-trophy/507-93ab0d53-742b-4705-a704-8c38f2d877f4)
         
     
 * [VERIFY](https://www.wqad.com/verify)
@@ -98,7 +97,7 @@ Navigation
 
 Davenport, IA »
 
-38°
+36°
 
 ![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
