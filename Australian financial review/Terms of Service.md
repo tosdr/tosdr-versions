@@ -311,7 +311,6 @@ Advertise
 
 ### [Why Gurner gave up alcohol – and what he learnt](https://www.afr.com/work-and-careers/leaders/why-gurner-gave-up-alcohol-and-what-he-learnt-20241216-p5kyqy)
 
-* 56 mins ago
 * Sally Patten
 
 * ### [Drumstick Awards: The five biggest corporate stuff-ups of 2024](https://www.afr.com/work-and-careers/leaders/drumstick-awards-the-five-biggest-corporate-stuff-ups-of-2024-20241209-p5kx0s)
@@ -326,7 +325,6 @@ Advertise
 
 ### [This $25,000 TV breaks the extreme barrier](https://www.afr.com/technology/this-25-000-tv-breaks-the-extreme-barrier-20241212-p5kxwa)
 
-* 56 mins ago
 * John Davidson
 
 * ### [Inside Melbourne’s latest luxury hotel](https://www.afr.com/life-and-luxury/design/inside-melbourne-s-latest-luxury-hotel-20241212-p5kxw6)
