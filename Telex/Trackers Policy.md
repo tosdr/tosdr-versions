@@ -4,7 +4,7 @@ Lázár, Olimpia
 
 ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNgYAAAAAMAASsJTYQAAAAASUVORK5CYII= "erősen felhős")
 
-9°11°
+6°11°
 
 Menü
 
