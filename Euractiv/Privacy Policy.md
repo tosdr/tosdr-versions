@@ -443,25 +443,25 @@ Most recent
 
 [16-12-2024
 
+Bulgaria’s transplant patients struggle to find stable drug supply](https://www.euractiv.com/section/health-consumers/news/bulgarias-transplant-patients-struggle-to-find-stable-immunosuppressant-supply/)[16-12-2024
+
+Female empowerment in the workplace, it’s more than equality, it’s leadership](https://www.euractiv.com/section/economy-jobs/news/female-empowerment-in-the-workplace-its-more-than-equality-its-leadership/)[16-12-2024
+
+Industry calls on Jørgensen to publish Electrification Action Plan within first 100 days](https://www.euractiv.com/section/eet/news/electrification-action-plan-is-an-energy-efficiency-first-plan-says-electrification-alliance-chair/)[16-12-2024
+
+Estonia levelling the playing field, including more girls and women in football](https://www.euractiv.com/section/health-consumers/news/estonia-levelling-the-playing-field-including-more-girls-and-women-in-football/)[16-12-2024
+
+EU budget is ‘clearly not the place to look’ to finance twin transition, say economists](https://www.euractiv.com/section/economy-jobs/news/eu-budget-is-clearly-not-the-place-to-look-to-finance-twin-transition-say-economists/)[16-12-2024
+
+Europe, Central Asia under pressure to modernise water security infrastructure, reports World Bank](https://www.euractiv.com/section/eet/news/europe-central-asia-under-pressure-to-modernise-water-security-infrastructure-reports-world-bank/)[16-12-2024
+
 New Swedish cancer plan aims to prevent and reduce deaths](https://www.euractiv.com/section/health-consumers/news/new-swedish-cancer-plan-aims-to-prevent-and-reduce-deaths/)[16-12-2024
 
 Media sector facing tough choices navigating AI revolution](https://www.euractiv.com/section/media/news/media-sector-facing-tough-choices-navigating-ai-revolution/)[16-12-2024
 
 Commission warns five member states over EU’s online moderation law compliance](https://www.euractiv.com/section/tech/news/commission-warns-five-member-states-over-eus-online-moderation-law-compliance/)[16-12-2024
 
-German Chancellor Scholz loses confidence vote](https://www.euractiv.com/section/politics/news/german-chancellor-scholz-loses-confidence-vote/)[16-12-2024
-
-Member states suggest using CAP funds to tackle wine oversupply crisis](https://www.euractiv.com/section/agriculture-food/news/member-states-suggest-using-cap-funds-to-tackle-wine-oversupply-crisis/)[16-12-2024
-
-Pharmaceutical leaders convene in Paris to unveil vaccine strategies](https://www.euractiv.com/section/health-consumers/news/pharmaceutical-leaders-convene-in-paris-to-unveil-vaccine-strategies/)[16-12-2024
-
-Lagarde: US protectionism could inflict ‘new dents’ on European economy](https://www.euractiv.com/section/economy-jobs/news/lagarde-us-protectionism-could-inflict-new-dents-on-european-economy/)[16-12-2024
-
-Sweden ramps up criticism of Berlin in energy price feud](https://www.euractiv.com/section/politics/news/sweden-ramps-up-criticism-of-berlin-in-energy-price-feud/)[16-12-2024
-
-EU communication satellite network to see light of day with new €10.6 bn deal](https://www.euractiv.com/section/global-europe/news/eu-communication-satellite-network-to-see-light-of-day-with-new-e10-6-bn-deal/)[16-12-2024
-
-Serbia used Israeli firm’s tech to enable spy campaign, Amnesty says](https://www.euractiv.com/section/digital/news/serbia-used-israeli-firms-tech-to-enable-spy-campaign-amnesty-says/)
+German Chancellor Scholz loses confidence vote](https://www.euractiv.com/section/politics/news/german-chancellor-scholz-loses-confidence-vote/)
 
 ###### Advertisement
 
