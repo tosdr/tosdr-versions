@@ -295,13 +295,9 @@ Privacy Policy
 
 [Home](https://www.peoplestrust.com/en/) > [Legal](https://www.peoplestrust.com/en/legal/) > [Privacy & Security](https://www.peoplestrust.com/en/legal/privacy-security/) > Privacy Policy
 
-**Notice:** Please be advised that due to ongoing labour disruptions at Canada Post, there may be delays in mail delivery. As a result, this may impact our ability to process and deliver certain services.  
-If you are affected and need to discuss alternative methods to serve you better, please [click here to contact us](https://www.peoplestrust.com/en/about-us/contact/).  
-Please note that call wait times may be longer than usual. We appreciate your patience and understanding.
+**Notice:** To view our holiday hours and important year-end reminders, please click [here](https://www.peoplestrust.com/en/holiday-hours/).
 
-**Attention:** Notez qu’en raison d’une interruption de travail à Postes Canada, il pourrait y avoir des retards dans la livraison du courrier. Par conséquent, cela peut avoir une incidence sur notre capacité à traiter certaines transactions et à fournir certains services.  
-[Veuillez cliquer ici pour communiquer avec nous](https://www.peoplestrust.com/fr/a-propos-de-nous/contactez-nous/) si cette situation vous affecte ou si vous voulez discuter d’autres façons de mieux vous servir.  
-Prenez note que les temps d’attentes pourraient être plus longs que d’habitude. Nous vous remercions de votre patience et de votre compréhension.
+**Attention:** Pour consulter nos horaires des Fêtes et les dates importantes à retenir en fin d’année, veillez cliquer [ici](https://www.peoplestrust.com/fr/horaire-des-fetes/).
 
 ### **PRIVACY POLICY**
 
