@@ -88,11 +88,11 @@ Most Read
     
     1. [Huge math error corrected in black plastic study; authors say it doesn’t matter](https://arstechnica.com/health/2024/12/huge-math-error-corrected-in-black-plastic-study-authors-say-it-doesnt-matter/)
     
-2. 2. [Buying a TV in 2025? Expect lower prices, more ads, and an OS war.](https://arstechnica.com/gadgets/2024/12/buying-a-tv-in-2025-expect-lower-prices-more-ads-and-an-os-war/)
+2. 2. [Trump to block the government and military from buying EVs](https://arstechnica.com/cars/2024/12/on-trumps-chopping-block-evs-charger-funding-californias-emissions/)
     
-3. 3. [Trump to block the government and military from buying EVs](https://arstechnica.com/cars/2024/12/on-trumps-chopping-block-evs-charger-funding-californias-emissions/)
+3. 3. [T-Mobile users can try Starlink-enabled phone service for free during beta](https://arstechnica.com/tech-policy/2024/12/t-mobile-opens-beta-registration-for-starlink-enabled-cell-phone-service/)
     
-4. 4. [T-Mobile users can try Starlink-enabled phone service for free during beta](https://arstechnica.com/tech-policy/2024/12/t-mobile-opens-beta-registration-for-starlink-enabled-cell-phone-service/)
+4. 4. [Buying a TV in 2025? Expect lower prices, more ads, and an OS war.](https://arstechnica.com/gadgets/2024/12/buying-a-tv-in-2025-expect-lower-prices-more-ads-and-an-os-war/)
     
 5. 5. [Why do we get headaches from drinking red wine?](https://arstechnica.com/health/2024/12/researchers-hone-in-on-headache-causing-compounds-in-red-wine/)
     
