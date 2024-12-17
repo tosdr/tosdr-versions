@@ -127,9 +127,14 @@ Unsere Nutzungsbedingungen werden immer wieder aktualisiert und gelten in der je
 
 Feedback
 
-[Kostenlose Online-Spiele](https://spiele.spiegel.de/ "Kostenlose Online-Spiele")
+[Neueste SPIEGEL Games](https://www.spiegel.de/games/ "Neueste SPIEGEL Games") [Alle Games](https://www.spiegel.de/games/)
 
-[mehr Spiele](https://spiele.spiegel.de/)
+*  [![Öffnen Sie das Spiel Wordle](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='24' height='24' %3E%3C/svg%3E) Wordle](https://www.spiegel.de/games/wordle-auf-deutsch-kostenlos-online-spielen-a-cbfa309d-a8ad-4d7d-9234-28b09b945834 "Wordle")
+*  [![Öffnen Sie das Spiel Wortsuche](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='24' height='24' %3E%3C/svg%3E) Wortsuche](https://www.spiegel.de/games/wortsuche-auf-deutsch-kostenlos-online-spielen-a-ee74d451-8ba7-4971-9624-00b858fbe671 "Wortsuche")
+*  [![Öffnen Sie das Spiel Paarsuche](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='24' height='24' %3E%3C/svg%3E) Paarsuche](https://www.spiegel.de/games/paarsuche-auf-deutsch-kostenlos-online-spielen-a-381cc67b-8016-4a82-b6b8-9a7066db7f83 "Paarsuche")
+*  [![Öffnen Sie das Spiel Das tägliche Quiz](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='24' height='24' %3E%3C/svg%3E) Das tägliche Quiz](https://www.spiegel.de/games/taegliches-quiz-beim-spiegel-7-fragen-zum-allgemeinwissen-pro-tag-a-8a9692b2-4462-4192-942c-fd7809c7519c "Das tägliche Quiz")
+
+[Kostenlose Online-Spiele](https://spiele.spiegel.de/ "Spiele") [mehr Spiele](https://spiele.spiegel.de/)
 
 *  [![Öffnen Sie das Spiel Adventskalender](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 88 88' width='88' height='88' %3E%3C/svg%3E)Advents­kalender](https://spiele.spiegel.de/adventskalender/?utm_campaign=adventskalender&utm_medium=footer_rondell&utm_source=spiegel_de "Adventskalender")
 *  [![Öffnen Sie das Spiel Kreuzworträtsel](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 88 88' width='88' height='88' %3E%3C/svg%3E)Kreuzworträt­sel](https://spiele.spiegel.de/kreuzwortraetsel/?utm_campaign=kreuzwortraetsel&utm_medium=footer_rondell&utm_source=spiegel_de "Kreuzworträtsel")
@@ -195,6 +200,7 @@ Gutscheine
 Alle Magazine des SPIEGEL
 
 *  [![Cover: DER SPIEGEL](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 136 181' width='136' height='181' %3E%3C/svg%3E)DER SPIEGEL](https://www.spiegel.de/spiegel/print/index-2024.html "DER SPIEGEL")
+*  [![Cover: SPIEGEL CHRONIK](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 136 181' width='136' height='181' %3E%3C/svg%3E)SPIEGEL CHRONIK](https://www.spiegel.de/spiegel/spjc/index-2024-1.html "SPIEGEL CHRONIK")
 *  [![Cover: S-Magazin](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 136 198' width='136' height='198' %3E%3C/svg%3E)S-Magazin](https://www.spiegel.de/spiegel/spsm/index-2023.html "S-Magazin")
 *  [![Cover: SPIEGEL BESTSELLER](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 136 181' width='136' height='181' %3E%3C/svg%3E)SPIEGEL BESTSELLER](https://www.spiegel.de/spiegel/spbest/index-2024.html "SPIEGEL BESTSELLER")
 *  [![Cover: SPIEGEL WISSEN](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 136 181' width='136' height='181' %3E%3C/svg%3E)SPIEGEL WISSEN](https://www.spiegel.de/spiegel/spiegelwissen/index-2024.html "SPIEGEL WISSEN")
@@ -202,7 +208,6 @@ Alle Magazine des SPIEGEL
 *  [![Cover: Dein SPIEGEL](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 136 175' width='136' height='175' %3E%3C/svg%3E)Dein SPIEGEL](https://www.spiegel.de/spiegel/deinspiegel/index-2024.html "Dein SPIEGEL")
 *  [![Cover: SPIEGEL COACHING](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 136 181' width='136' height='181' %3E%3C/svg%3E)SPIEGEL COACHING](https://www.amazon.de/dp/B0CRKN547S?tag=spiegel1-21 "SPIEGEL COACHING")
 *  [![Cover: SPIEGEL SPEZIAL](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 136 181' width='136' height='181' %3E%3C/svg%3E)SPIEGEL SPEZIAL](https://www.spiegel.de/spiegel/print/index-2024-54.html "SPIEGEL SPEZIAL")
-*  [![Cover: SPIEGEL CHRONIK](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 136 181' width='136' height='181' %3E%3C/svg%3E)SPIEGEL CHRONIK](https://www.spiegel.de/spiegel/spjc/index-2023-1.html "SPIEGEL CHRONIK")
 
 SPIEGEL Gruppe
 --------------
@@ -245,6 +250,7 @@ SPIEGEL Gruppe
 * [Newsletter](https://www.spiegel.de/newsletter "Newsletter")
 * [Debatte](https://www.spiegel.de/debatten/ "Debatte")
 * [SPIEGEL Extra](https://www.spiegel.de/extra "SPIEGEL Extra")
+* [Games und Quiz](https://www.spiegel.de/games/ "Games und Quiz")
 * [SPIEGEL+](https://www.spiegel.de/plus/ "SPIEGEL+")
 * [Magazine](https://www.spiegel.de/magazine "Magazine")
 * [Meinung](https://www.spiegel.de/thema/meinung/ "Meinung")
