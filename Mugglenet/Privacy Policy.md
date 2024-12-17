@@ -352,15 +352,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Quidditch started in the 11th century at a place called Queerditch Marsh, which is not marked on Muggle maps because wizards have made the place unplottable. Originally, it was quite a crude game played on broomsticks with just the Quaffle.
+“Harry Potter and the Chamber of Secrets” was once called “Harry Potter and the Half-Blood Prince”.
 
 ### Potter History
 
-January 3, 2006 – Harry Potter and the Goblet of Fire was named the highest-earning film internationally for 2005. It earned $850 million.
+July 15, 2009 – Harry Potter and the Half-Blood Prince is released in theaters.
 
 ### Potter Quote
 
-“Cedric was a person who exemplified many of the qualities that distinguish Hufflepuff house. He was a good and loyal friend, a hard worker, he valued fair play. His death has affected you all, whether you knew him well or not. I think that you have the right, therefore, to know exactly how it came about. \[…\] Cedric Diggory was murdered by Lord Voldemort.”
+“Do you know why I admire you, Newt? More, perhaps, than any man I know? You don’t seek power or popularity. You simply ask, is the thing right in itself? If it is, then I must do it, no matter the cost.”
 
 [](#)
 
