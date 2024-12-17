@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Where is johnson & johnson baby powder manufactured?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-where-is-j-and-j-baby-powder-manufactured.jpg "Where Is Johnson & Johnson Baby Powder Manufactured?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/where-is-johnson-and-johnson-baby-powder-manufactured "Where Is Johnson & Johnson Baby Powder Manufactured?")
+[![Is spectracide safer than roundup?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-is-spectracide-safer-than-roundup.jpg "Is Spectracide Safer Than Roundup?")](https://www.pintas.com/lawsuit/roundup-weed-killer/is-spectracide-safer-than-roundup/ "Is Spectracide Safer Than Roundup?")
 
-[#### Where Is Johnson & Johnson Baby Powder Manufactured?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/where-is-johnson-and-johnson-baby-powder-manufactured)
+[#### Is Spectracide Safer Than Roundup?](https://www.pintas.com/lawsuit/roundup-weed-killer/is-spectracide-safer-than-roundup/)
 
-[![Alzheimer’s seniors’ abuse risk in facilities](https://www.pintas.com/wp-content/uploads/2021/03/practice-areas-personal-injury-assisted-living-accident-lawyer-why-are-seniors-with-alzheimers-at-a-greater-risk-of-abuse-at-assisted-living-facilities-300x200.jpg "Alzheimer’s Seniors’ Abuse Risk in Facilities")](https://www.pintas.com/faq/why-are-seniors-with-alzheimers-at-a-greater-risk-of-abuse-at-assisted-living-facilities/ "Alzheimer’s Seniors’ Abuse Risk in Facilities")
+[![What are the early signs of lung cancer?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-what-are-the-early-signs-of-lung-cancer.jpg "What Are the Early Signs of Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/signs-of-lung-cancer "What Are the Early Signs of Lung Cancer?")
 
-[#### Alzheimer’s Seniors’ Abuse Risk in Facilities](https://www.pintas.com/faq/why-are-seniors-with-alzheimers-at-a-greater-risk-of-abuse-at-assisted-living-facilities/)
+[#### What Are the Early Signs of Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/signs-of-lung-cancer)
 
-[![Can asbestos lung cancer be cured?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-lawsuit-lawyer-can-asbestos-lung-cancer-be-cured.jpg "Can Asbestos Lung Cancer Be Cured?")](https://www.pintas.com/lung-cancer/can-asbestos-lung-cancer-be-cured/ "Can Asbestos Lung Cancer Be Cured?")
+[![What causes scabies in nursing homes?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-scabies-what-causes-scabies-in-nursing-homes.jpg "What Causes Scabies in Nursing Homes?")](https://www.pintas.com/faq/what-causes-scabies-in-nursing-homes/ "What Causes Scabies in Nursing Homes?")
 
-[#### Can Asbestos Lung Cancer Be Cured?](https://www.pintas.com/lung-cancer/can-asbestos-lung-cancer-be-cured/)
+[#### What Causes Scabies in Nursing Homes?](https://www.pintas.com/faq/what-causes-scabies-in-nursing-homes/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
