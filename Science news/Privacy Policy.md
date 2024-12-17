@@ -122,21 +122,21 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         
         * [Life](https://www.sciencenews.org/topic/life)
             
+            ### [Sheep earwax can record a dangerous diet](https://www.sciencenews.org/article/sheep-earwax-record-dangerous-diet)
+            
+            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")1 hour ago
+            
+        * [Life](https://www.sciencenews.org/topic/life)
+            
             ### [Here are 8 remarkable scientific firsts of 2024](https://www.sciencenews.org/article/remarkable-scientific-firsts-of-2024)
             
-            By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")15 hours ago
+            By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")21 hours ago
             
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
             
             ### [The message-sending part of neurons may be blobby, not smooth](https://www.sciencenews.org/article/axons-may-be-blobby-neuron)
             
-            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")19 hours ago
-            
-        * [Anthropology](https://www.sciencenews.org/topic/anthropology)
-            
-            ### [Humans have linked emotions to the same body parts for 3,000 years](https://www.sciencenews.org/article/link-emotions-body-parts-3000-years)
-            
-            By [Jason Bittel](https://www.sciencenews.org/author/jason-bittel "Posts by Jason Bittel")December 13, 2024
+            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")December 16, 2024
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -177,7 +177,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Here are 8 remarkable scientific firsts of 2024](https://www.sciencenews.org/article/remarkable-scientific-firsts-of-2024)
             
-            By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")15 hours ago
+            By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")21 hours ago
             
         * [Physics](https://www.sciencenews.org/topic/physics)
             
@@ -203,7 +203,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Here are 8 remarkable scientific firsts of 2024](https://www.sciencenews.org/article/remarkable-scientific-firsts-of-2024)
             
-            By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")15 hours ago
+            By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")21 hours ago
             
         * [Space](https://www.sciencenews.org/topic/space)
             
