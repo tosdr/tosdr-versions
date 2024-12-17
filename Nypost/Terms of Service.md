@@ -84,9 +84,9 @@ Search
 
 Search
 
-#### Breaking News
+#### NJ DRONE SAGA
 
-[Shooter at Abundant Life Christian School in Wisconsin ID'd as 15-year-old](https://nypost.com/2024/12/16/us-news/shooter-at-abundant-life-christian-school-in-idd-as-natalie-samantha-rupnow/)
+[NJ pilot's drone lost power in restricted flight space — while mystery drone kept flying](https://nypost.com/2024/12/17/us-news/new-jersey-drone-pilot-lost-power-while-approaching-mystery-drone/)
 
 Terms Of Use
 ============
