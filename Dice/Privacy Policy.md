@@ -1,7 +1,7 @@
 Dice Privacy Policy
 ===================
 
-LAST UPDATED: 11/21/2024
+LAST UPDATED: 12/17/2024
 
 [![Privacy feedback powered by TRUSTArc](https://privacy-policy.truste.com/privacy-seal/seal?rid=e8361470-d510-4755-9604-df13c25eee3d)](https://privacy.truste.com/privacy-seal/validation?rid=e8361470-d510-4755-9604-df13c25eee3d)
 
@@ -13,7 +13,7 @@ If you are a California resident, this Privacy Policy contains information that 
 
 **Overview**
 
-Note: Any reference to "we", "us", "our Site" or Dice are references to the [www.dice.com](http://www.dice.com/) site (the "Site"). Dice provides links to the websites of many other companies to which this policy does not apply.
+Note: Any reference to "we", "us", "our Site" or Dice are references to the [www.dice.com](https://www.dice.com/) site (the "Site"). Dice provides links to the websites of many other companies to which this policy does not apply.
 
 We at Dice are committed to good privacy practices regarding your personally identifiable information. Your loyalty as a job seeker, customer or visitor is important, and we hope that our concerns regarding your privacy, as described in this policy (the "Privacy Policy" or "Policy"), demonstrate our commitment to making your experience with Dice an enjoyable and satisfying one.
 
