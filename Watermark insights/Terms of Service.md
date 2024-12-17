@@ -67,22 +67,26 @@
         * [Contact us](https://www.watermarkinsights.com/about-us/contact-us/)
         * [Press](https://www.watermarkinsights.com/press/)
         * [Events](https://www.watermarkinsights.com/events/)
-    * * ### Three awards, **one** unified solution
+    * * ### Get inspired at our annual conference
             
-            [Read about it](https://www.watermarkinsights.com/press/watermarks-educational-impact-suite-finds-success-during-2024-award-season/ "Read about it")
+            [Register now](https://www.watermarkengage.com/event/79f3a381-b7d7-44cd-9567-8cb401500300/summary?_gl=1*bdut6a*_gcl_au*MTQyNTgyMzQ1MC4xNzMzNzcxODA5 "Read about it")
             
-            ![](https://www.watermarkinsights.com/wp-content/uploads/2024/06/Regular-Promo.png)
+            ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20214%20210'%3E%3C/svg%3E)
+            
+            ![](https://www.watermarkinsights.com/wp-content/uploads/2024/12/engage.png)
             
 * [For our clients](https://www.watermarkinsights.com/client-resources/)
     * * [Client resources](https://www.watermarkinsights.com/client-resources/)
         * [Help center](https://support.watermarkinsights.com/hc/en-us)
         * [Professional services](https://www.watermarkinsights.com/client-resources/professional-services/)
         * [Training](https://academy.watermarkinsights.com/)
-    * * ### Let us help **YOU!**
+    * * ### Get inspired at our annual conference
             
-            [Request Demo](https://www.watermarkinsights.com/request-demo "Request Demo")
+            [Register now](https://www.watermarkengage.com/event/79f3a381-b7d7-44cd-9567-8cb401500300/summary?_gl=1*bdut6a*_gcl_au*MTQyNTgyMzQ1MC4xNzMzNzcxODA5 "Read about it")
             
-            ![](/wp-content/uploads/2024/01/Group-21334.png)
+            ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20214%20210'%3E%3C/svg%3E)
+            
+            ![](https://www.watermarkinsights.com/wp-content/uploads/2024/12/engage.png)
             
 * [Sign in](https://www.watermarkinsights.com/client-resources/signon/)
 
@@ -155,22 +159,26 @@
         * [Contact us](https://www.watermarkinsights.com/about-us/contact-us/)
         * [Press](https://www.watermarkinsights.com/press/)
         * [Events](https://www.watermarkinsights.com/events/)
-    * * ### Three awards, **one** unified solution
+    * * ### Get inspired at our annual conference
             
-            [Read about it](https://www.watermarkinsights.com/press/watermarks-educational-impact-suite-finds-success-during-2024-award-season/ "Read about it")
+            [Register now](https://www.watermarkengage.com/event/79f3a381-b7d7-44cd-9567-8cb401500300/summary?_gl=1*bdut6a*_gcl_au*MTQyNTgyMzQ1MC4xNzMzNzcxODA5 "Read about it")
             
-            ![](https://www.watermarkinsights.com/wp-content/uploads/2024/06/Regular-Promo.png)
+            ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20214%20210'%3E%3C/svg%3E)
+            
+            ![](https://www.watermarkinsights.com/wp-content/uploads/2024/12/engage.png)
             
 * [For our clients](https://www.watermarkinsights.com/client-resources/)
     * * [Client resources](https://www.watermarkinsights.com/client-resources/)
         * [Help center](https://support.watermarkinsights.com/hc/en-us)
         * [Professional services](https://www.watermarkinsights.com/client-resources/professional-services/)
         * [Training](https://academy.watermarkinsights.com/)
-    * * ### Let us help **YOU!**
+    * * ### Get inspired at our annual conference
             
-            [Request Demo](https://www.watermarkinsights.com/request-demo "Request Demo")
+            [Register now](https://www.watermarkengage.com/event/79f3a381-b7d7-44cd-9567-8cb401500300/summary?_gl=1*bdut6a*_gcl_au*MTQyNTgyMzQ1MC4xNzMzNzcxODA5 "Read about it")
             
-            ![](/wp-content/uploads/2024/01/Group-21334.png)
+            ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20214%20210'%3E%3C/svg%3E)
+            
+            ![](https://www.watermarkinsights.com/wp-content/uploads/2024/12/engage.png)
             
 * [Sign in](https://www.watermarkinsights.com/client-resources/signon/)
 
