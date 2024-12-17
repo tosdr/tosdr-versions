@@ -117,57 +117,59 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Fast, Accurate & Easy to Use
-> ----------------------------
+> Quick and efficient support
+> ---------------------------
 > 
-> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
+> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
+> 
+> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
 
-Jannie Schutte - myFinance-Online.co.za
+Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
 
-![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=032019a0fb5c67118d2d98162e0412e876907aa9ad1d59ec6564888e16fed839&c=81190467)  
-OrgChart Hosting Pty Ltd
+![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=1c14adaf24a25237eae95a001d41cd8d2c63aca24d416ed523b231f34ef0b7fa&c=31840251)  
+Tracknetics
 
-![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=032019a0fb5c67118d2d98162e0412e876907aa9ad1d59ec6564888e16fed839&c=133025154)  
-Tagline Brands
+![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=1c14adaf24a25237eae95a001d41cd8d2c63aca24d416ed523b231f34ef0b7fa&c=31958969)  
+Multi CNC Solutions CC
 
-![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=032019a0fb5c67118d2d98162e0412e876907aa9ad1d59ec6564888e16fed839&c=172779113)  
-#DiGi3 Marketing & Design
+![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=1c14adaf24a25237eae95a001d41cd8d2c63aca24d416ed523b231f34ef0b7fa&c=140062793)  
+Iurus Inc
 
-![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=032019a0fb5c67118d2d98162e0412e876907aa9ad1d59ec6564888e16fed839&c=4864471)  
-Imvubu General Trading
+![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=1c14adaf24a25237eae95a001d41cd8d2c63aca24d416ed523b231f34ef0b7fa&c=209994401)  
+Abandoned Vehicle and Truck Solutions
 
-![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=032019a0fb5c67118d2d98162e0412e876907aa9ad1d59ec6564888e16fed839&c=195853907)  
-Entidee Enterprise PTY (ltd)
+![valued client FlipDesign - Renovation Contracting Firm](https://www.invoicesonline.co.za/scripts/image.php?bid=8663&file=logo_300_100&type=&fe=1c14adaf24a25237eae95a001d41cd8d2c63aca24d416ed523b231f34ef0b7fa&c=27594861)  
+FlipDesign - Renovation Contracting Firm
 
-![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=032019a0fb5c67118d2d98162e0412e876907aa9ad1d59ec6564888e16fed839&c=54543693)  
-Norton Medical & Consult - Namibia
+![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=1c14adaf24a25237eae95a001d41cd8d2c63aca24d416ed523b231f34ef0b7fa&c=74830559)  
+AquariumSmiths
 
-![valued client Hydroworld PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=032019a0fb5c67118d2d98162e0412e876907aa9ad1d59ec6564888e16fed839&c=27537970)  
-Hydroworld PTY LTD
+![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=1c14adaf24a25237eae95a001d41cd8d2c63aca24d416ed523b231f34ef0b7fa&c=122954264)  
+ARCHITEK PTY LTD
 
-![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=032019a0fb5c67118d2d98162e0412e876907aa9ad1d59ec6564888e16fed839&c=157239645)  
-Mtunzini Group
+![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=1c14adaf24a25237eae95a001d41cd8d2c63aca24d416ed523b231f34ef0b7fa&c=125314852)  
+NEW BEGINNINGS DESIGNS
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=032019a0fb5c67118d2d98162e0412e876907aa9ad1d59ec6564888e16fed839&c=111059702)  
-VIV'S TRUCKS (Pty) Ltd. (29/31/33)
+![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=1c14adaf24a25237eae95a001d41cd8d2c63aca24d416ed523b231f34ef0b7fa&c=158498536)  
+National Elite Security Services (PTY) LTD
 
-![valued client Safe Train Mokgethwa (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8103&file=logo_300_100&type=&fe=032019a0fb5c67118d2d98162e0412e876907aa9ad1d59ec6564888e16fed839&c=33422384)  
-Safe Train Mokgethwa (PTY) Ltd
+![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=1c14adaf24a25237eae95a001d41cd8d2c63aca24d416ed523b231f34ef0b7fa&c=153542814)  
+On The Spot Marketing (Pty) Ltd t/a 24hrprinting
 
-![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=032019a0fb5c67118d2d98162e0412e876907aa9ad1d59ec6564888e16fed839&c=20779481)  
-Brilliant Roof Products
+![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=1c14adaf24a25237eae95a001d41cd8d2c63aca24d416ed523b231f34ef0b7fa&c=164763656)  
+IYD
 
-![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=032019a0fb5c67118d2d98162e0412e876907aa9ad1d59ec6564888e16fed839&c=113137291)  
-AMS Ambu Medical Supplies
+![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=1c14adaf24a25237eae95a001d41cd8d2c63aca24d416ed523b231f34ef0b7fa&c=164169599)  
+VerdanTech Pty Ltd
 
-![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=032019a0fb5c67118d2d98162e0412e876907aa9ad1d59ec6564888e16fed839&c=23685033)  
-MONSTER SECURITY SERVICES
+![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=1c14adaf24a25237eae95a001d41cd8d2c63aca24d416ed523b231f34ef0b7fa&c=159732927)  
+Blue Bulls Rugby Coaches Association
 
-![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=032019a0fb5c67118d2d98162e0412e876907aa9ad1d59ec6564888e16fed839&c=69178448)  
-SR Travel Services
+![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=1c14adaf24a25237eae95a001d41cd8d2c63aca24d416ed523b231f34ef0b7fa&c=90858381)  
+GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
 
-![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=032019a0fb5c67118d2d98162e0412e876907aa9ad1d59ec6564888e16fed839&c=176965927)  
-Oukraal Merino's
+![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=1c14adaf24a25237eae95a001d41cd8d2c63aca24d416ed523b231f34ef0b7fa&c=61063031)  
+Redlum Group (Pty) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
