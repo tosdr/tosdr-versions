@@ -269,9 +269,13 @@ WEHCO Media, Inc.
 Little Rock, AR 72201  
 privacy@wehco.com
 
+  
+
 **Types of Information Collected**
 
 We collect two categories of information: (1) information that personally identifies you (for example, your name and e-mail address) that you voluntarily supply when you subscribe, register, complete a survey, or initiate some other transaction or communication. Personal identifiable information may include: (i) Contact Data (such as your name, mailing and e-mail addresses); (ii) Financial Data (such as your account or credit card number); and (iii) Demographic Data (such as your zip code, age and income). If you communicate with us by e-mail, post messages to any of our chat groups, bulletin boards, comment areas or forums, surveys or contest entries, any information provided in such communication may be collected as personal information as well, and (2) non-personally identifying information, which includes information about usage patterns and preferences as users navigate around our sites or use our information services. In some cases, an agent, affiliate, or business partner of WEHCO Media, Inc. collects the information. Third party providers featured on our sites, such as vendors of products and services offered through our sites, may be gathering the same kinds of information.
+
+  
 
 **Uses of Information Collected**
 
@@ -279,9 +283,13 @@ We use your information to help you use and navigate our products and services, 
 
 We do not sell names, email addresses, or other personally identifiable information you enter on our sites to any third parties, including advertisers, unless we have your permission to do so, such as through a registration for a contest, survey, or particular services or information.
 
+  
+
 **User Choice Regarding Collection, Use and Distribution of Personal Information**
 
 You may choose not to provide us with any Personal Information. In such an event, you can still access and use the Site; however, you will not be able to access and use those portions of the Site that require your Personal Information. If you do not wish to receive information and promotional material from us or from some of our partners, you may select the appropriate "opt-out" option each time we ask you for Personal Information.
+
+  
 
 **Use of Cookies**
 
@@ -289,27 +297,38 @@ Our sites use cookies, pixels, and other technologies (collectively, "cookies") 
 
 We also use third-party advertising companies to serve ads when you visit our websites. The third-party advertising technology we employ uses information derived from your visits to target advertising within our sites. In addition, our advertisers may use other third-party advertising technology to target advertising on our sites and on other sites. In the course of advertisements being served to you, a unique third-party cookie or cookies may be placed on your browser to help manage and optimize our advertising.
 
+  
+
 **Confidentiality and Security of Personal Information**
 
 Except as otherwise provided in this Privacy Policy, we will keep your Personal Information private and will not share it with third parties, unless such disclosure is necessary to: (a) comply with a court order or other legal process; (b) protect our rights or property; or (c) enforce our Terms of Service. Your Personal Information is stored on secure servers that are not accessible by third parties.
+
+  
 
 **Lost or Stolen Information**
 
 You must promptly notify us if your credit card, user name or password is lost, stolen or used without permission. In such an event, we will cancel that credit card number, user name or password and update our records accordingly.
 
+  
+
 **Other Limits to Your Privacy**
 
 Our sites contain links to other websites. We are not responsible for the privacy practices or the content of such sites. We also make comment areas, chat rooms, forums and message boards available to you. Please understand that any information that is disclosed in these areas becomes public information. We have no control over its use and you should exercise caution when deciding to disclose your personal information.
 
+  
+
 **Updates and Changes to Privacy Policy**
 
 We reserve the right, at any time and without notice, to add to, change, update or modify this Privacy Policy, simply by posting such change, update or modification on the Site. Any such change, update or modification will be effective immediately upon posting on the Site.
+
+  
 
 **Children's Privacy:**
 
 In keeping with the Children's Online Privacy Protection Act of 1998, we do not knowingly collect personally identifiable information from children under the age of 13 without prior verifiable parental consent. If we learn that we have collected such personal information without parental consent, we will delete that information from our records.
 
   
+To manage your privacy preferences click [**here.**](#)
 
 * * *
 
