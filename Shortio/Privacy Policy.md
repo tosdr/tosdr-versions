@@ -795,3 +795,9 @@ Choose a Language:
  [![twitter icon](/_astro/twitter.B8D3n_Py_1LJRHb.svg)](https://twitter.com/short_io)[![linkedin icon](/_astro/linkedin.CZNQ2UKL_Z84osA.svg)](https://www.linkedin.com/company/short.cm)[![facebook icon](/_astro/fb.tUO53PyI_D4yQz.svg)](https://www.facebook.com/shortio.links)
 
 © Copyright 2015-2024 Short.cm Inc. All Rights Reserved. [Terms & Conditions](https://short.io/terms) [Privacy Policy and GDPR](https://short.io/privacy)
+
+![close popup button](/_astro/close-icon.sJJGwSWd_3do2F.svg)
+
+Do you want to visit 上海索特艾欧科技有限公司 website?
+
+[跟随](https://shortio.cn/)
