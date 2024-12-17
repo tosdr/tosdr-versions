@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Resilience
+
+### As a post-Assad Syria reopens, Syrians ask: Can we go home?](https://www.csmonitor.com/World/Middle-East/2024/1216/syria-refugees-return-home-rebuild "As a post-Assad Syria reopens, Syrians ask: Can we go home?")
+
 [Creativity
 
 ### Innovation by failure in Germany](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1216/Innovation-by-failure-in-Germany "Innovation by failure in Germany")
@@ -100,21 +104,17 @@ Recent Stories
 
 ### Move over, Vikings. Sweden’s new seafaring heroes are knitting grannies.](https://www.csmonitor.com/The-Culture/Music/2024/1216/christmas-swedish-knitting-choir-gotland "Move over, Vikings. Sweden’s new seafaring heroes are knitting grannies.")
 
-[Safety
-
-### Floods are battering South Sudan. This aid worker helps villagers plan for the worst.](https://www.csmonitor.com/World/Making-a-difference/2024/1216/south-sudan-flooding-light-for-the-world "Floods are battering South Sudan. This aid worker helps villagers plan for the worst.")
-
 [See all News & Values stories](https://www.csmonitor.com/values)
 
 * * *
 
 Monitor Daily
 
-December 13, 2024
+December 16, 2024
 
-Star power
+This family left its home, but not Syria
 
-Space is one of those frontiers, like the seabed beneath retreating polar ice, where you might expect international flexing over resources. You wouldn’t be wrong. But where innovation is at play, there’s also an opportunity for collaborative work that could ultimately benefit humankind. Jason Thomson reports today on efforts to harvest solar energy from Earth’s orbit and beam it down for use.
+From the Middle East to Europe, one of the biggest questions today is: How many Syrians who fled their homes during the civil war will return? Dominique Soguel offers the first glimpses of an answer today.My attention turns to the al-Khansour family, who stayed in Syria, resettling in the city run by the rebels who now control the country. It is a slice of what Syria was – and perhaps could be.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### As a post-Assad Syria reopens, Syrians ask: Can we go home?](https://www.csmonitor.com/World/Middle-East/2024/1216/syria-refugees-return-home-rebuild "As a post-Assad Syria reopens, Syrians ask: Can we go home?")
+
+[### What South Korea’s impeachment battle means for US security alliance](https://www.csmonitor.com/World/Asia-Pacific/2024/1216/South-Korea-impeachment-foreign-policy-US-alliance "What South Korea’s impeachment battle means for US security alliance")
+
 [### Floods are battering South Sudan. This aid worker helps villagers plan for the worst.](https://www.csmonitor.com/World/Making-a-difference/2024/1216/south-sudan-flooding-light-for-the-world "Floods are battering South Sudan. This aid worker helps villagers plan for the worst.")
-
-[### Some school districts lack busses and drivers. Ridesharing apps are filling the gap.](https://www.csmonitor.com/USA/2024/1216/school-bus-rideshare-apps "Some school districts lack busses and drivers. Ridesharing apps are filling the gap.")
-
-[### Trump’s tariffs pressure Canada, but sealing the world’s longest land border isn’t easy](https://www.csmonitor.com/World/Americas/2024/1216/trump-deportation-migrants-canada-border "Trump’s tariffs pressure Canada, but sealing the world’s longest land border isn’t easy")
 
 * * *
 
