@@ -36,18 +36,18 @@
         
         New IOCONTROL malware used in critical infrastructure attacks](https://www.bleepingcomputer.com/news/security/new-iocontrol-malware-used-in-critical-infrastructure-attacks/)
     
-    * [![ConnectOnCall breach exposes health data of over 910,000 patients](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![FBI spots HiatusRAT malware attacks targeting web cameras, DVRs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        ConnectOnCall breach exposes health data of over 910,000 patients](https://www.bleepingcomputer.com/news/security/connectoncall-breach-exposes-health-data-of-over-910-000-patients/)
-    * [![Rhode Island confirms data breach after Brain Cipher ransomware attack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        FBI spots HiatusRAT malware attacks targeting web cameras, DVRs](https://www.bleepingcomputer.com/news/security/fbi-spots-hiatusrat-malware-attacks-targeting-web-cameras-dvrs/)
+    * [![Texas Tech University System data breach impacts 1.4 million patients](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Rhode Island confirms data breach after Brain Cipher ransomware attack](https://www.bleepingcomputer.com/news/security/rhode-island-confirms-data-breach-after-brain-cipher-ransomware-attack/)
-    * [![New Android NoviSpy spyware linked to Qualcomm zero-day bugs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Texas Tech University System data breach impacts 1.4 million patients](https://www.bleepingcomputer.com/news/security/texas-tech-university-system-data-breach-impacts-14-million-patients/)
+    * [![Kali Linux 2024.4 released with 14 new tools, deprecates some features](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        New Android NoviSpy spyware linked to Qualcomm zero-day bugs](https://www.bleepingcomputer.com/news/security/new-android-novispy-spyware-linked-to-qualcomm-zero-day-bugs/)
-    * [![Save on Microsoft Office Home 2024 for Mac or PC in this deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Kali Linux 2024.4 released with 14 new tools, deprecates some features](https://www.bleepingcomputer.com/news/security/kali-linux-20244-released-with-14-new-tools-deprecates-some-features/)
+    * [![Windows kernel bug now exploited in attacks to gain SYSTEM privileges](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Save on Microsoft Office Home 2024 for Mac or PC in this deal](https://www.bleepingcomputer.com/offer/deals/save-on-microsoft-office-home-2024-for-mac-or-pc-in-this-deal/)
+        Windows kernel bug now exploited in attacks to gain SYSTEM privileges](https://www.bleepingcomputer.com/news/security/windows-kernel-bug-now-exploited-in-attacks-to-gain-system-privileges/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
