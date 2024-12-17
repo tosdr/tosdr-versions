@@ -74,7 +74,7 @@ The cookies used are as follows:
 * [Privacy Policy](https://www.wisemetering.com/en/privacy-policy/)
 * [Cookies Policy](https://www.wisemetering.com/en/cookies-policy/)
 * [Terms and Conditions](https://www.wisemetering.com/en/terms-and-conditions/)
-* [IMS Policy](https://www.wisemetering.com/en/ims-policy/)
+* [IMS Policy](https://www.wisemetering.com/ims-policy/)
 * [Whistleblowing Channel](https://www.wisemetering.com/en/whistleblowing-channel/)
 * [About LMIT](https://www.wisemetering.com/en/about-lmit/)
 
