@@ -200,6 +200,11 @@ This document was last updated on January 1, 2014
 
 #### Defense News
 
+* [No runways, no sorties: Chinese missiles threaten US airpower plans](https://www.defensenews.com/opinion/2024/12/17/no-runways-no-sorties-chinese-missiles-threaten-us-airpower-plans/)  
+    12/17/24 11:59am  
+    
+    Members of Marine Fighter Attack Squadron 242 clear new F-35B aircraft on Marine Corps Air Station Iwakuni, Japan, on May 9, 2021. (Lance Cpl. Bryant Rodriguez/U.S. Marine Corps)
+    
 * [New B-52 engines pass key design review, prepare for altitude tests](https://www.defensenews.com/air/2024/12/16/new-b-52-engines-pass-key-design-review-prepare-for-altitude-tests/)  
     12/16/24 02:00pm  
     
@@ -214,11 +219,6 @@ This document was last updated on January 1, 2014
     12/13/24 11:32am  
     
     A person walks past the Global Combat Air Programme (GCAP) fighter jet concept design at the 2024 Farnborough International Airshow. (Justin Tallis/AFP via Getty Images)
-    
-* [Japan selects the T-6 Texan II as its new trainer aircraft](https://www.defensenews.com/global/asia-pacific/2024/12/13/japan-selects-the-t-6-texan-ii-as-its-new-trainer-aircraft/)  
-    12/13/24 08:27am  
-    
-    A T-6A Texan II rests under a hangar at Vance Air Force Base, Okla., Nov. 3, 2022. (Second Lt. Jonathan Soferr/Air Force)
     
 
 Recent parts by keyword  
