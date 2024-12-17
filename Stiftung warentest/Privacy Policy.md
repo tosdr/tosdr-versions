@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Über­wachung im Internet: So werden Sie getrackt – 10 Techniken jenseits von Cookies](https://www.test.de/Tracking-So-werden-Sie-getrackt-10-Techniken-jenseits-von-Cookies-5965179-0/ "Überwachung im Internet - So werden Sie getrackt – 10 Techniken jenseits von Cookies")
-* [Wärmepumpen­versicherung: Wärmepumpe gegen Umwelt­schäden und Vandalismus absichern](https://www.test.de/Waermepumpenversicherung-6030311-0/ "Wärmepumpenversicherung - Wärmepumpe gegen Umweltschäden und Vandalismus absichern")
-* [Powerstations im Test: Steck­dosen für unterwegs](https://www.test.de/Powerstation-Test-6023127-0/ "Powerstations im Test - Steckdosen für unterwegs")
-* [Ärger beim Bahnfahren: Schön cool bleiben – unsere Tipps für Buchung und Entschädigung](https://www.test.de/Aerger-beim-Bahnfahren-Wie-Sie-das-Beste-draus-machen-4200668-0/ "Ärger beim Bahnfahren - Schön cool bleiben – unsere Tipps für Buchung und Entschädigung")
-* [Hilferuf per Satellit: iPhones funken jetzt ins Welt­all](https://www.test.de/Neue-iPhone-Funktion-Hilferuf-per-Satellit-5952479-0/ "Hilferuf per Satellit - iPhones funken jetzt ins Weltall")
-* [Wanderja­cken im Test: Viele sind nicht ganz dicht](https://www.test.de/Wanderjacken-im-Test-Viele-sind-nicht-ganz-dicht-6160402-0/ "Wanderjacken im Test - Viele sind nicht ganz dicht")
+* [Tages­geld und Fest­geld: Anlegen geht auch ohne Internet](https://www.test.de/Tagesgeld-Festgeld-Konten-ohne-Online-Banking-oder-App-6143253-0/ "Tagesgeld und Festgeld - Anlegen geht auch ohne Internet")
+* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
+* [Rück­ruf: Bremse bei Stokke-Kinder­wagen kann sich lösen](https://www.test.de/Stokke-Rueckruf-Problem-mit-der-Bremse-6176592-0/ "Rückruf - Bremse bei Stokke-Kinderwagen kann sich lösen")
+* [Groß­baustellen der Deutschen Bahn: Wo nichts mehr zügig geht](https://www.test.de/Grossbaustellen-der-Deutschen-Bahn-Wo-nichts-mehr-zuegig-geht-6073286-0/ "Großbaustellen der Deutschen Bahn - Wo nichts mehr zügig geht")
+* [Beruhigungs­mittel im Test: Von Hopfen bis Lavendel – viele Mittel sind wenig geeignet](https://www.test.de/Beruhigungsmittel-2999340-0/ "Beruhigungsmittel im Test - Von Hopfen bis Lavendel – viele Mittel sind wenig geeignet")
+* [Geld­anlage richtig planen: Anlegen auf Sicht kostet Rendite](https://www.test.de/Geldanlage-richtig-planen-Anlegen-auf-Sicht-kostet-Rendite-6048767-0/ "Geldanlage richtig planen - Anlegen auf Sicht kostet Rendite")
 
 Weitere Informationen
 
@@ -3871,12 +3871,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Über­wachung im Internet: So werden Sie getrackt – 10 Techniken jenseits von Cookies](https://www.test.de/Tracking-So-werden-Sie-getrackt-10-Techniken-jenseits-von-Cookies-5965179-0/ "Überwachung im Internet - So werden Sie getrackt – 10 Techniken jenseits von Cookies")
-* [Wärmepumpen­versicherung: Wärmepumpe gegen Umwelt­schäden und Vandalismus absichern](https://www.test.de/Waermepumpenversicherung-6030311-0/ "Wärmepumpenversicherung - Wärmepumpe gegen Umweltschäden und Vandalismus absichern")
-* [Powerstations im Test: Steck­dosen für unterwegs](https://www.test.de/Powerstation-Test-6023127-0/ "Powerstations im Test - Steckdosen für unterwegs")
-* [Ärger beim Bahnfahren: Schön cool bleiben – unsere Tipps für Buchung und Entschädigung](https://www.test.de/Aerger-beim-Bahnfahren-Wie-Sie-das-Beste-draus-machen-4200668-0/ "Ärger beim Bahnfahren - Schön cool bleiben – unsere Tipps für Buchung und Entschädigung")
-* [Hilferuf per Satellit: iPhones funken jetzt ins Welt­all](https://www.test.de/Neue-iPhone-Funktion-Hilferuf-per-Satellit-5952479-0/ "Hilferuf per Satellit - iPhones funken jetzt ins Weltall")
-* [Wanderja­cken im Test: Viele sind nicht ganz dicht](https://www.test.de/Wanderjacken-im-Test-Viele-sind-nicht-ganz-dicht-6160402-0/ "Wanderjacken im Test - Viele sind nicht ganz dicht")
+* [Tages­geld und Fest­geld: Anlegen geht auch ohne Internet](https://www.test.de/Tagesgeld-Festgeld-Konten-ohne-Online-Banking-oder-App-6143253-0/ "Tagesgeld und Festgeld - Anlegen geht auch ohne Internet")
+* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
+* [Rück­ruf: Bremse bei Stokke-Kinder­wagen kann sich lösen](https://www.test.de/Stokke-Rueckruf-Problem-mit-der-Bremse-6176592-0/ "Rückruf - Bremse bei Stokke-Kinderwagen kann sich lösen")
+* [Groß­baustellen der Deutschen Bahn: Wo nichts mehr zügig geht](https://www.test.de/Grossbaustellen-der-Deutschen-Bahn-Wo-nichts-mehr-zuegig-geht-6073286-0/ "Großbaustellen der Deutschen Bahn - Wo nichts mehr zügig geht")
+* [Beruhigungs­mittel im Test: Von Hopfen bis Lavendel – viele Mittel sind wenig geeignet](https://www.test.de/Beruhigungsmittel-2999340-0/ "Beruhigungsmittel im Test - Von Hopfen bis Lavendel – viele Mittel sind wenig geeignet")
+* [Geld­anlage richtig planen: Anlegen auf Sicht kostet Rendite](https://www.test.de/Geldanlage-richtig-planen-Anlegen-auf-Sicht-kostet-Rendite-6048767-0/ "Geldanlage richtig planen - Anlegen auf Sicht kostet Rendite")
 
 Weitere spannende Themen
 
@@ -3891,12 +3891,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Über­wachung im Internet: So werden Sie getrackt – 10 Techniken jenseits von Cookies](https://www.test.de/Tracking-So-werden-Sie-getrackt-10-Techniken-jenseits-von-Cookies-5965179-0/ "Überwachung im Internet - So werden Sie getrackt – 10 Techniken jenseits von Cookies")
-* [Wärmepumpen­versicherung: Wärmepumpe gegen Umwelt­schäden und Vandalismus absichern](https://www.test.de/Waermepumpenversicherung-6030311-0/ "Wärmepumpenversicherung - Wärmepumpe gegen Umweltschäden und Vandalismus absichern")
-* [Powerstations im Test: Steck­dosen für unterwegs](https://www.test.de/Powerstation-Test-6023127-0/ "Powerstations im Test - Steckdosen für unterwegs")
-* [Ärger beim Bahnfahren: Schön cool bleiben – unsere Tipps für Buchung und Entschädigung](https://www.test.de/Aerger-beim-Bahnfahren-Wie-Sie-das-Beste-draus-machen-4200668-0/ "Ärger beim Bahnfahren - Schön cool bleiben – unsere Tipps für Buchung und Entschädigung")
-* [Hilferuf per Satellit: iPhones funken jetzt ins Welt­all](https://www.test.de/Neue-iPhone-Funktion-Hilferuf-per-Satellit-5952479-0/ "Hilferuf per Satellit - iPhones funken jetzt ins Weltall")
-* [Wanderja­cken im Test: Viele sind nicht ganz dicht](https://www.test.de/Wanderjacken-im-Test-Viele-sind-nicht-ganz-dicht-6160402-0/ "Wanderjacken im Test - Viele sind nicht ganz dicht")
+* [Tages­geld und Fest­geld: Anlegen geht auch ohne Internet](https://www.test.de/Tagesgeld-Festgeld-Konten-ohne-Online-Banking-oder-App-6143253-0/ "Tagesgeld und Festgeld - Anlegen geht auch ohne Internet")
+* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
+* [Rück­ruf: Bremse bei Stokke-Kinder­wagen kann sich lösen](https://www.test.de/Stokke-Rueckruf-Problem-mit-der-Bremse-6176592-0/ "Rückruf - Bremse bei Stokke-Kinderwagen kann sich lösen")
+* [Groß­baustellen der Deutschen Bahn: Wo nichts mehr zügig geht](https://www.test.de/Grossbaustellen-der-Deutschen-Bahn-Wo-nichts-mehr-zuegig-geht-6073286-0/ "Großbaustellen der Deutschen Bahn - Wo nichts mehr zügig geht")
+* [Beruhigungs­mittel im Test: Von Hopfen bis Lavendel – viele Mittel sind wenig geeignet](https://www.test.de/Beruhigungsmittel-2999340-0/ "Beruhigungsmittel im Test - Von Hopfen bis Lavendel – viele Mittel sind wenig geeignet")
+* [Geld­anlage richtig planen: Anlegen auf Sicht kostet Rendite](https://www.test.de/Geldanlage-richtig-planen-Anlegen-auf-Sicht-kostet-Rendite-6048767-0/ "Geldanlage richtig planen - Anlegen auf Sicht kostet Rendite")
 
 Neueste Tests
 
@@ -3909,12 +3909,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Über­wachung im Internet: So werden Sie getrackt – 10 Techniken jenseits von Cookies](https://www.test.de/Tracking-So-werden-Sie-getrackt-10-Techniken-jenseits-von-Cookies-5965179-0/ "Überwachung im Internet - So werden Sie getrackt – 10 Techniken jenseits von Cookies")
-* [Wärmepumpen­versicherung: Wärmepumpe gegen Umwelt­schäden und Vandalismus absichern](https://www.test.de/Waermepumpenversicherung-6030311-0/ "Wärmepumpenversicherung - Wärmepumpe gegen Umweltschäden und Vandalismus absichern")
-* [Powerstations im Test: Steck­dosen für unterwegs](https://www.test.de/Powerstation-Test-6023127-0/ "Powerstations im Test - Steckdosen für unterwegs")
-* [Ärger beim Bahnfahren: Schön cool bleiben – unsere Tipps für Buchung und Entschädigung](https://www.test.de/Aerger-beim-Bahnfahren-Wie-Sie-das-Beste-draus-machen-4200668-0/ "Ärger beim Bahnfahren - Schön cool bleiben – unsere Tipps für Buchung und Entschädigung")
-* [Hilferuf per Satellit: iPhones funken jetzt ins Welt­all](https://www.test.de/Neue-iPhone-Funktion-Hilferuf-per-Satellit-5952479-0/ "Hilferuf per Satellit - iPhones funken jetzt ins Weltall")
-* [Wanderja­cken im Test: Viele sind nicht ganz dicht](https://www.test.de/Wanderjacken-im-Test-Viele-sind-nicht-ganz-dicht-6160402-0/ "Wanderjacken im Test - Viele sind nicht ganz dicht")
+* [Tages­geld und Fest­geld: Anlegen geht auch ohne Internet](https://www.test.de/Tagesgeld-Festgeld-Konten-ohne-Online-Banking-oder-App-6143253-0/ "Tagesgeld und Festgeld - Anlegen geht auch ohne Internet")
+* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
+* [Rück­ruf: Bremse bei Stokke-Kinder­wagen kann sich lösen](https://www.test.de/Stokke-Rueckruf-Problem-mit-der-Bremse-6176592-0/ "Rückruf - Bremse bei Stokke-Kinderwagen kann sich lösen")
+* [Groß­baustellen der Deutschen Bahn: Wo nichts mehr zügig geht](https://www.test.de/Grossbaustellen-der-Deutschen-Bahn-Wo-nichts-mehr-zuegig-geht-6073286-0/ "Großbaustellen der Deutschen Bahn - Wo nichts mehr zügig geht")
+* [Beruhigungs­mittel im Test: Von Hopfen bis Lavendel – viele Mittel sind wenig geeignet](https://www.test.de/Beruhigungsmittel-2999340-0/ "Beruhigungsmittel im Test - Von Hopfen bis Lavendel – viele Mittel sind wenig geeignet")
+* [Geld­anlage richtig planen: Anlegen auf Sicht kostet Rendite](https://www.test.de/Geldanlage-richtig-planen-Anlegen-auf-Sicht-kostet-Rendite-6048767-0/ "Geldanlage richtig planen - Anlegen auf Sicht kostet Rendite")
 
 Stiftung Warentest
 
