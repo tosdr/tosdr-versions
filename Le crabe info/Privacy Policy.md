@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 630 utilisateurs actifs
+##### 770 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
+* [Voici le top 10 des recherches Google en France pour 2024](https://lecrabeinfo.net/voici-le-top-10-des-recherches-google-en-france-pour-2024.html)
+* [ChatGPT Search est maintenant ouvert à tous ! Le début de la fin pour Google ?](https://lecrabeinfo.net/chatgpt-search-est-maintenant-ouvert-a-tous-le-debut-de-la-fin-pour-google.html)
 * [Tiny11 : Windows 11 en version allégée ! Comment l’installer sur son PC ?](https://lecrabeinfo.net/tiny11-windows-11-en-version-allegee-comment-linstaller-sur-son-pc.html)
-* [Microsoft supprime la fonctionnalité "Actions suggérées" de Windows 11](https://lecrabeinfo.net/microsoft-supprime-la-fonctionnalite-actions-suggerees-de-windows-11.html)
-* [Windows 10 : la mise à jour de décembre 2024 (KB5048652) est disponible, quoi de neuf ?](https://lecrabeinfo.net/windows-10-la-mise-a-jour-de-decembre-2024-kb5048652-est-disponible-quoi-de-neuf.html)
 
 ### Tendance
 
@@ -152,12 +152,12 @@ Chargement en cours
 
 ### Statistiques
 
-* 68 038 membres
-* 976 articles
-* 27 100 commentaires
-* [2 686 abonnés Facebook](https://www.facebook.com/lecrabeinfo)
+* 68 040 membres
+* 979 articles
+* 27 107 commentaires
+* [2 687 abonnés Facebook](https://www.facebook.com/lecrabeinfo)
 * [867 abonnés X](https://x.com/lecrabeinfo)
-* [67 524 abonnés à la newsletter](https://lecrabeinfo.net/newsletter)
+* [67 525 abonnés à la newsletter](https://lecrabeinfo.net/newsletter)
 
 * [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr "CC BY-NC-SA")
 * 2013-2024
