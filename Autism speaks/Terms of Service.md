@@ -287,6 +287,14 @@ Autism news
 
 All the latest that matters to our community
 
+![Exceptional Parent Magazine logo](/sites/default/files/styles/content_list/public/Exceptional%20Parent%20Magazine%20logo.jpg.webp?itok=E8GlzjYj)
+
+12.17.24
+
+[### Exceptional Parent Magazine shares tips for an autism-friendly holiday](https://guide.autismspeaks.org/news/exceptional-parent-magazine-shares-tips-autism-friendly-holiday)
+
+In this month’s edition of Exceptional Parent Magazine, read some tips from Autism Speaks’ Marta Chmielowicz to help you plan a festive season that
+
 ![Spectrum colored border with autism speaks logo at bottom in center. Middle of image has the following text over a semi-transparent graphic of a capitol dome: "Congress passes Autism CARES Act of 2024; next stop, the President."](/sites/default/files/styles/content_list/public/Congress%20passes%20CARES.png.webp?itok=6ZH7FA_w)
 
 12.16.24
@@ -326,14 +334,6 @@ Pamela Dixon, Director of Clinical Services and Inclusion, had the privilege of 
 [### Policy Pulse Newsletter - November 2024](https://guide.autismspeaks.org/advocacy-news/policy-pulse-newsletter-november-2024)
 
 This newsletter edition shares updates about the Autism CARES Act of 2024, support for caregivers, global autism efforts and 2025 state advocacy plans
-
-![Vincent Feng standing in front of Capitol steps in DC](/sites/default/files/styles/content_list/public/Vincent-Feng-standing-in-front-of-Capitol-steps-in-DC_0.jpg.webp?itok=XOCZPihX)
-
-11.21.24
-
-[### US Senate passes the Autism CARES Act of 2024, sending it back to House for final passage](https://guide.autismspeaks.org/advocacy-news/us-senate-passes-autism-cares-act-2024-sending-it-back-house-final-passage)
-
-In a significant step forward for autism advocacy, the United States Senate has passed the Autism CARES Act of 2024, advancing the critical
 
 [Read more news](https://guide.autismspeaks.org/articles?article_type%5B981%5D=981&article_type%5B2181%5D=2181&article_type%5B2186%5D=2186&article_type%5B986%5D=986)
 
