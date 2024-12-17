@@ -18,6 +18,8 @@
 * [my bookmarks](https://darebee.com/bookmarks.html)
 * [donate](https://darebee.com/support.html)
 
+[![](/images/promo/alerts/snowfight2024.gif)](https://www.community.darebee.com/threads/snowfight-2024.2106)
+
 Terms of Use
 ============
 
