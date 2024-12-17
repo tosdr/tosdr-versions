@@ -458,9 +458,11 @@ Data Sharing & Data Processing
 
 Clients using our service may provide IPQualityScore with transactional information, which may include IP addresses, email addresses, billing details, phone numbers, and similar user data. This information is securely processed through our services to detect behavioral intent and analyze the risk profile of transactions, users, and similar events. This data is used to identify patterns of fraud within our system and improve your account's personal machine learning algorithms.
 
-IPQualityScore does not sell your personal data or the personal data of your end users. Any data shared with IPQualityScore will be confidential, securely processed, and maintained in-line with industry security standards. Your account's contact details may be shared with CRMs and marketing platforms which meet our standards for adequate security techniques and data processing safeguards.
+IPQualityScore does not sell your personal data or the personal data of your end users. Any data shared with IPQualityScore will be confidential, securely processed, and maintained in-line with industry security standards.
 
-This safeguards within this section shall provide IPQualityScore the right to share necessary data with third parties for any false-positive reports submitted through our feedback forms to [unblock an IP address](https://www.ipqualityscore.com/unblock-ip-address) , [report a false-positive](https://www.ipqualityscore.com/report-false-positive) , or [register an IP address](https://www.ipqualityscore.com/register-ip-address-business-organization) . This data may be shared with third parties to improve accuracy.
+Your account's contact details may be shared with CRMs and marketing platforms, which meet our standards for adequate security techniques and data processing safeguards.
+
+This safeguards within this section shall provide IPQualityScore the right to share necessary data with third parties for any false-positive reports submitted through our feedback forms to [unblock an IP address](https://www.ipqualityscore.com/unblock-ip-address), [report a false-positive](https://www.ipqualityscore.com/report-false-positive), or [register an IP address](https://www.ipqualityscore.com/register-ip-address-business-organization). This data may be shared with third parties to improve accuracy.
 
 Data Processing Agreement
 -------------------------
@@ -504,9 +506,9 @@ USA
 Summary
 -------
 
-IPQualityScore takes every precaution to safeguard your data. We reserve the right to amend this Privacy Policy at any time as we constantly improve our policies.
+IPQualityScore uses industry best practices to protect your data. We reserve the right to amend this Privacy Policy at any time.
 
-If you require more details or have any questions concerning our Privacy Policy, please feel free to [contact us](https://www.ipqualityscore.com/contact-us).
+If you require more information or have any questions concerning our Privacy Policy, please feel free to [contact us](https://www.ipqualityscore.com/contact-us).
 
 Ready to eliminate fraud?
 -------------------------
