@@ -1,5 +1,3 @@
-🎁 Spread the Cheer! Shop Our Christmas Sales Now 🎄 | [Grab the Deals](#)
-
 [![GL.iNet logo](/logo.svg)](https://www.gl-inet.com/)
 
 * [Home](https://www.gl-inet.com/)
