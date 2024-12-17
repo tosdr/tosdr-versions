@@ -398,11 +398,11 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 ##### Latest
 
-1. [9 Best Paleontology Courses for 2024](https://www.classcentral.com/report/best-paleontology-courses/)
-2. [7 Best Microsoft Access Courses for 2024](https://www.classcentral.com/report/best-microsoft-access-courses/)
-3. [Guide: How to Sign up for Coursera Courses for Free](https://www.classcentral.com/report/coursera-signup-for-free/)
-4. [\[2024\] 300+ Chemistry Courses to Expand Your Knowledge of the World](https://www.classcentral.com/report/chemistry-free-online-courses/)
-5. [Online Learning Deals & Discounts](https://www.classcentral.com/report/online-learning-deals/)
+1. [\[2024\] 150 Online Courses to Help Your Career](https://www.classcentral.com/report/online-courses-to-help-your-career/)
+2. [9 Best Paleontology Courses for 2024](https://www.classcentral.com/report/best-paleontology-courses/)
+3. [7 Best Microsoft Access Courses for 2024](https://www.classcentral.com/report/best-microsoft-access-courses/)
+4. [Guide: How to Sign up for Coursera Courses for Free](https://www.classcentral.com/report/coursera-signup-for-free/)
+5. [\[2024\] 300+ Chemistry Courses to Expand Your Knowledge of the World](https://www.classcentral.com/report/chemistry-free-online-courses/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -412,36 +412,36 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. python
+1. marketing
     
-2. c
+2. hacking
     
-3. flutter
+3. data science
     
 
 Popular subjects
 
-1. [Web Development
+1. [Cybersecurity
     
-    14,261 courses](https://www.classcentral.com/subject/web-development)
-2. [Information Technology
+    17,323 courses](https://www.classcentral.com/subject/cybersecurity)
+2. [Digital Marketing
     
-    5,347 courses](https://www.classcentral.com/subject/information-technology)
+    6,581 courses](https://www.classcentral.com/subject/digital-marketing)
 3. [Ethical Hacking
     
-    2,303 courses](https://www.classcentral.com/subject/ethical-hacking)
+    2,315 courses](https://www.classcentral.com/subject/ethical-hacking)
 
 Popular courses
 
-1. [Herramientas de la Inteligencia de Negocios
+1. [Astrobiology and the Search for Extraterrestrial Life
     
-    Galileo University](https://www.classcentral.com/course/business-intelligence-universidad-galileo-herrami-10281)
-2. [Let's Get Started: Building Self-Awareness
+    University of Edinburgh](https://www.classcentral.com/course/astrobio-415)
+2. [The Musculoskeletal System: The Science of Staying Active into Old Age
     
-    University System of Maryland](https://www.classcentral.com/course/leadership-the-university-of-maryland-college-par-19743)
-3. [Introduction to Classical Music
+    Newcastle University](https://www.classcentral.com/course/musculoskeletal-6738)
+3. [Responsive Web Design
     
-    Yale University](https://www.classcentral.com/course/introclassicalmusic-2987)
+    freeCodeCamp](https://www.classcentral.com/course/freecodecamp-responsive-web-design-34059)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
