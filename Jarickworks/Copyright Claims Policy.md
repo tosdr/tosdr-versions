@@ -85,7 +85,7 @@ Designing where you want to go today
 
 [Donate](#donate)
 
-[![freeblr limited government minarchism versus anarchism](/freeblr/limited-government/minarchism-versus-anarchism/card.svg)](https://jarick.works/freeblr/limited-government/minarchism-versus-anarchism)[![freeblr taxation tax is theft](/freeblr/taxation/tax-is-theft/card.svg)](https://jarick.works/freeblr/taxation/tax-is-theft)[![freeblr market i pencil](/freeblr/market/i-pencil/card.svg)](https://jarick.works/freeblr/market/i-pencil)[![freeblr justice pursuing justice in a free society](/freeblr/justice/pursuing-justice-in-a-free-society/card.svg)](https://jarick.works/freeblr/justice/pursuing-justice-in-a-free-society)
+[![beagle shell](/beagle/shell/card.svg)](https://jarick.works/beagle/shell)[![freeblr faq how would left anarchy work](/freeblr/faq/how-would-left-anarchy-work/card.svg)](https://jarick.works/freeblr/faq/how-would-left-anarchy-work)[![freeblr economics what is property](/freeblr/economics/what-is-property/card.svg)](https://jarick.works/freeblr/economics/what-is-property)[![freeblr war the prince](/freeblr/war/the-prince/card.svg)](https://jarick.works/freeblr/war/the-prince)
 
 [Follow](#follow)
 
