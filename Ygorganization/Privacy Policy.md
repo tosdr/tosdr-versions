@@ -136,12 +136,6 @@ For specific information about Mediavine Partners, the data each collects and th
 
 ##### Recent Posts
 
-[](https://ygorganization.com/babysfirstdelirium/ "Get Started With “Delirium Larva”! [RD/TB02]")
-
-#### [Get Started With “Delirium Larva”! \[RD/TB02\]](https://ygorganization.com/babysfirstdelirium/)
-
-December 11, 2024
-
 [](https://ygorganization.com/thepoltergeistismorethannice/ "The Wightmare Before Christmas! [ALIN]")
 
 #### [The Wightmare Before Christmas! \[ALIN\]](https://ygorganization.com/thepoltergeistismorethannice/)
@@ -163,6 +157,12 @@ December 10, 2024
 [](https://ygorganization.com/andnowawaitfortheseventhdragon/ "Get Your House In Order With “Dragonmaid”! [QCTB]")
 
 #### [Get Your House In Order With “Dragonmaid”! \[QCTB\]](https://ygorganization.com/andnowawaitfortheseventhdragon/)
+
+December 9, 2024
+
+[](https://ygorganization.com/november-25th-to-december-9th-2024-deck-recipes/ "November 25th to December 9th, 2024 [Deck Recipes]")
+
+#### [November 25th to December 9th, 2024 \[Deck Recipes\]](https://ygorganization.com/november-25th-to-december-9th-2024-deck-recipes/)
 
 December 9, 2024
 
