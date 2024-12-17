@@ -158,7 +158,7 @@ We fill United States orders primarily using UPS, USPS and Federal Express. If 
 
 **Returns/Refunds Policy**
 
-We understand that you may need to return a product. Should you feel the need to do so, you have 30 days from the date of purchase to initiate the process. Please contact us at support@coromega.com and one of our Customer Care Representatives would be happy to assist you.
+We understand that you may need to return a product. Should you feel the need to do so, you have 15 days from the date of purchase to initiate the process. Please contact us at support@coromega.com and one of our Customer Care Representatives would be happy to assist you.
 
 Invalid Password
 
