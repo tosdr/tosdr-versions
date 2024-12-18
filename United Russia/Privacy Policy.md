@@ -295,7 +295,7 @@
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Васильев](https://er.ru/activity/news?tags%5B0%5D=947) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#помощьучастникамСВО](https://er.ru/activity/news?tags%5B0%5D=1093584) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#XXIIСъездЕР](https://er.ru/activity/news?tags%5B0%5D=1095999) [#Путин](https://er.ru/activity/news?tags%5B0%5D=60)
 
-Сегодня 13:18
+18.12.24
 
 [![Владимир Якушев подвёл итоги работы «Единой России» в осеннюю сессию](https://cdn.er.ru/media/news/December2024/vTAZT9qXyQLhdm06v8jA-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-podvyol-itogi-raboty-edinoj-rossii-v-osennyuyu-sessiyu)
 
@@ -303,7 +303,7 @@
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#Путин](https://er.ru/activity/news?tags%5B0%5D=60) [#ДАМедведев](https://er.ru/activity/news?tags%5B0%5D=1095750) [#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152) [#поддержкасемейвоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1093581) [#первичныеотделения](https://er.ru/activity/news?tags%5B0%5D=113123)
 
-Сегодня 12:08
+18.12.24
 
 [![Госдума приняла инициированный «Единой Россией» законопроект об усилении ответственности за продажу вейпов детям](https://cdn.er.ru/media/news/December2024/ZMOFjHFZTFXpB87RNxr5-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-iniciirovannyj-edinoj-rossiej-zakonoproekt-ob-usilenii-otvetstvennosti-za-prodazhu-vejpov-detyam)
 
@@ -311,7 +311,7 @@
 
 [#Метелев](https://er.ru/activity/news?tags%5B0%5D=133170) [#никотин](https://er.ru/activity/news?tags%5B0%5D=142863) [#никотиносодержащаяпродукция](https://er.ru/activity/news?tags%5B0%5D=143416) [#вейпы](https://er.ru/activity/news?tags%5B0%5D=96999) [#несовершеннолетние](https://er.ru/activity/news?tags%5B0%5D=4501) [#штрафы](https://er.ru/activity/news?tags%5B0%5D=1198)
 
-Сегодня 11:50
+18.12.24
 
 [![«Единая Россия» и МГЕР помогают в ликвидации последствий разлива нефтепродуктов в Анапе и Темрюкском районе Краснодарского края](https://cdn.er.ru/media/news/December2024/hWoQkWiREd5FXy4IVWHO-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-i-mger-pomogayut-v-likvidacii-posledstvij-razliva-nefteproduktov-v-anape-i-temryukskom-rajone-krasnodarskogo-kraya)
 
@@ -319,7 +319,7 @@
 
 [#Краснодарский край](https://er.ru/activity/news?tags%5B0%5D=1282) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#МолодаяГвардияЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094676) [#первичныеотделения](https://er.ru/activity/news?tags%5B0%5D=113123) [#поддержка](https://er.ru/activity/news?tags%5B0%5D=519)
 
-Сегодня 11:25
+18.12.24
 
 [![«Единая Россия» проведёт лекции о финансовом планировании в Луганске, Мелитополе и Донецке](https://cdn.er.ru/media/news/December2024/2bPxXenL7XZbQRHDDeIO-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-provedyot-lekcii-o-finansovom-planirovanii-v-luganske-melitopole-i-donecke)
 
@@ -327,7 +327,7 @@
 
 [#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#приемныепартии](https://er.ru/activity/news?tags%5B0%5D=125195) [#штабобщественнойподдержки](https://er.ru/activity/news?tags%5B0%5D=1092101) [#финансоваяграмотность](https://er.ru/activity/news?tags%5B0%5D=113290) [#лекции](https://er.ru/activity/news?tags%5B0%5D=18064)
 
-Сегодня 11:14
+18.12.24
 
 [![Александр Жуков: Все поправки «Единой России» были приняты при доработке бюджета, что позволит добиться поставленных Президентом целей](https://cdn.er.ru/media/news/December2024/HY6sdtfAxa4FvfL5JRAJ-small.jpg)](https://er.ru/activity/news/aleksandr-zhukov-vse-popravki-edinoj-rossii-byli-prinyaty-pri-dorabotke-byudzheta-chto-pozvolit-dobitsya-postavlennyh-prezidentom-celej)
 
@@ -335,7 +335,7 @@
 
 [#Жуков](https://er.ru/activity/news?tags%5B0%5D=824) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#осенняясессия](https://er.ru/activity/news?tags%5B0%5D=121119) [#итоги](https://er.ru/activity/news?tags%5B0%5D=1184) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#ФракцияЕР](https://er.ru/activity/news?tags%5B0%5D=1090016) [#итогиработы](https://er.ru/activity/news?tags%5B0%5D=111531) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327)
 
-Сегодня 09:35
+18.12.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
