@@ -20,7 +20,7 @@ privacy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[December 18, 2024](https://www.japantimes.co.jp/archive/2024/12/18/ "archive page")
+[December 19, 2024](https://www.japantimes.co.jp/archive/2024/12/19/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -464,25 +464,25 @@ Revised June 1, 2022
 
 * Editors' Picks
 
-[Indian-born CEO of Japanese company says nation needs immigration to thrive](https://www.japantimes.co.jp/business/2024/12/15/companies/india-born-kameda-ceo/ "Indian-born CEO of Japanese company says nation needs immigration to thrive")
+[Japan to let investigators go undercover to crack down on _yami baito_](https://www.japantimes.co.jp/news/2024/12/17/japan/crime-legal/yamibaito-first-ministerial-meeting/ "Japan to let investigators go undercover to crack down on yami baito")
 
-  [![Lekh Juneja, chairman and CEO of Kameda Seika, at the company's headquarters in the city of Niigata in August](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/15/440239.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Lekh Juneja, chairman and CEO of Kameda Seika, at the company's headquarters in the city of Niigata in August")](https://www.japantimes.co.jp/business/2024/12/15/companies/india-born-kameda-ceo/ "Indian-born CEO of Japanese company says nation needs immigration to thrive")
+  [![A flyer created by the Metropolitan Police Department to warn people about <i>yami baito</i>, or "dark" part-time jobs](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/17/440673.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A flyer created by the Metropolitan Police Department to warn people about <i>yami baito</i>, or "dark" part-time jobs")](https://www.japantimes.co.jp/news/2024/12/17/japan/crime-legal/yamibaito-first-ministerial-meeting/ "Japan to let investigators go undercover to crack down on yami baito")
+
+[Japan 'regrets' release of anti-whaling activist Paul Watson](https://www.japantimes.co.jp/news/2024/12/18/japan/whaling-activist-denmark-free/ "Japan 'regrets' release of anti-whaling activist Paul Watson")
+
+  [![Environmental activist Paul Watson waves after getting released from prison in Nuuk, Greenland, on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/18/440948.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Environmental activist Paul Watson waves after getting released from prison in Nuuk, Greenland, on Tuesday.")](https://www.japantimes.co.jp/news/2024/12/18/japan/whaling-activist-denmark-free/ "Japan 'regrets' release of anti-whaling activist Paul Watson")
+
+[Trump picks businessman George Glass as Japan ambassador](https://www.japantimes.co.jp/news/2024/12/17/japan/politics/trump-japan-george-glass-ambassador/ "Trump picks businessman George Glass as Japan ambassador")
+
+  [![Businessman George Glass has been selected by U.S. President-elect Donald Trump to be the next ambassador to Japan.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/17/440602.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Businessman George Glass has been selected by U.S. President-elect Donald Trump to be the next ambassador to Japan.")](https://www.japantimes.co.jp/news/2024/12/17/japan/politics/trump-japan-george-glass-ambassador/ "Trump picks businessman George Glass as Japan ambassador")
 
 [Taiwan’s bullet train a testament to shinkansen’s export potential](https://www.japantimes.co.jp/business/2024/12/17/taiwan-hsr-shinkansen/ "Taiwan’s bullet train a testament to shinkansen’s export potential")
 
   [![A Taiwan High Speed Rail bullet train arrives at Nangang Station in the city of Taipei.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/16/440420.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Taiwan High Speed Rail bullet train arrives at Nangang Station in the city of Taipei.")](https://www.japantimes.co.jp/business/2024/12/17/taiwan-hsr-shinkansen/ "Taiwan’s bullet train a testament to shinkansen’s export potential")
 
-[Fatal knife attack in Kitakyushu McDonald’s took less than 30 seconds](https://www.japantimes.co.jp/news/2024/12/16/japan/crime-legal/japan-student-stabbing/ "Fatal knife attack in Kitakyushu McDonald’s took less than 30 seconds")
+[Indian-born CEO of Japanese company says nation needs immigration to thrive](https://www.japantimes.co.jp/business/2024/12/15/companies/india-born-kameda-ceo/ "Indian-born CEO of Japanese company says nation needs immigration to thrive")
 
-  [![Flowers and offerings are placed outside a McDonald's restaurant in Kitakyushu, Fukuoka Prefecture, where two junior high school students were stabbed by a man on Saturday, one fatally.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/16/440394.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Flowers and offerings are placed outside a McDonald's restaurant in Kitakyushu, Fukuoka Prefecture, where two junior high school students were stabbed by a man on Saturday, one fatally.")](https://www.japantimes.co.jp/news/2024/12/16/japan/crime-legal/japan-student-stabbing/ "Fatal knife attack in Kitakyushu McDonald’s took less than 30 seconds")
-
-[New fencing installed to help manage tourists at Mount Fuji photo spot](https://www.japantimes.co.jp/news/2024/12/17/japan/mount-fuji-fence/ "New fencing installed to help manage tourists at Mount Fuji photo spot")
-
-  [![New fencing was installed along the sidewalk near a convenience store in Fujikawaguchiko, Yamanashi Prefecture, on Monday to prevent tourists from jaywalking and to improve safety.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/17/440622.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "New fencing was installed along the sidewalk near a convenience store in Fujikawaguchiko, Yamanashi Prefecture, on Monday to prevent tourists from jaywalking and to improve safety.")](https://www.japantimes.co.jp/news/2024/12/17/japan/mount-fuji-fence/ "New fencing installed to help manage tourists at Mount Fuji photo spot")
-
-[Japan to let investigators go undercover to crack down on _yami baito_](https://www.japantimes.co.jp/news/2024/12/17/japan/crime-legal/yamibaito-first-ministerial-meeting/ "Japan to let investigators go undercover to crack down on yami baito")
-
-  [![A flyer created by the Metropolitan Police Department to warn people about <i>yami baito</i>, or "dark" part-time jobs](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/17/440673.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A flyer created by the Metropolitan Police Department to warn people about <i>yami baito</i>, or "dark" part-time jobs")](https://www.japantimes.co.jp/news/2024/12/17/japan/crime-legal/yamibaito-first-ministerial-meeting/ "Japan to let investigators go undercover to crack down on yami baito")
+  [![Lekh Juneja, chairman and CEO of Kameda Seika, at the company's headquarters in the city of Niigata in August](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/15/440239.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Lekh Juneja, chairman and CEO of Kameda Seika, at the company's headquarters in the city of Niigata in August")](https://www.japantimes.co.jp/business/2024/12/15/companies/india-born-kameda-ceo/ "Indian-born CEO of Japanese company says nation needs immigration to thrive")
 
 [Curiosity didn’t kill the meme: Why cats still rule Japanese YouTube](https://www.japantimes.co.jp/life/2024/12/17/digital/youtube-cat-memes-japan/ "Curiosity didn’t kill the meme: Why cats still rule Japanese YouTube")
 
@@ -567,23 +567,23 @@ Latest News
 
 [Iran's Revolutionary Guards extend control of oil exports, sources say](https://www.japantimes.co.jp/news/2024/12/18/world/politics/iran-revolutionary-guards-oil/ "Iran's Revolutionary Guards extend control of oil exports, sources say")
 
-8 mins ago
+6 hours ago
 
 [Russia detains suspect in killing of chemical weapons chief Igor Kirillov](https://www.japantimes.co.jp/news/2024/12/18/world/crime-legal/russia-detains-suspect/ "Russia detains suspect in killing of chemical weapons chief Igor Kirillov")
 
-33 mins ago
+6 hours ago
 
 [Honda and Nissan might combine to form world’s No. 3 auto group](https://www.japantimes.co.jp/business/2024/12/18/companies/honda-nissan-merger/ "Honda and Nissan might combine to form world’s No. 3 auto group")
 
-55 mins ago
+6 hours ago
+
+[Nihon Hidankyo members make Nobel visit to Hiroshima cenotaph](https://www.japantimes.co.jp/news/2024/12/18/japan/nihon-hidankyo-hiroshima-visit/ "Nihon Hidankyo members make Nobel visit to Hiroshima cenotaph")
+
+7 hours ago
 
 [Government not liable for nuclear evacuations, Osaka High Court rules](https://www.japantimes.co.jp/news/2024/12/18/japan/crime-legal/fukushima-nuclear-plant-evacuees/ "Government not liable for nuclear evacuations, Osaka High Court rules")
 
-1 hour ago
-
-[Japan breaks annual visitor record with 33.4 million in just 11 months](https://www.japantimes.co.jp/news/2024/12/18/japan/annual-visitor-record/ "Japan breaks annual visitor record with 33.4 million in just 11 months")
-
-2 hours ago
+8 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
