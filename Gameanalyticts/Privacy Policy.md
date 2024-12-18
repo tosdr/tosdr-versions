@@ -4,8 +4,9 @@
 
 [Skip to content](#main) [![GameAnalytics](https://gameanalytics.com/wp-content/themes/ga-v3/dist/images/logo.png)](https://gameanalytics.com/)
 
-* [Discover MarketIQ](https://gameanalytics.com/marketiq/)
-* [Analytics Tools](#)
+* [Join User Analysis Beta](https://gameanalytics.com/user-analysis/)
+* [Market Research](https://gameanalytics.com/marketiq/)
+* [Analytics](#)
     
     * Powerful analytics
         
