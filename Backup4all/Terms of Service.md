@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to create an exact copy of the source dri ...](https://www.backup4all.com/how-to-create-an-exact-copy-of-the-source-drive-on-another-driv-kb.html)  
+* [Backup from FTP](https://www.backup4all.com/backup-from-ftp-kb.html)  
     
-* [How to restore a backup to Dropbox](https://www.backup4all.com/how-to-restore-a-backup-to-dropbox-kb.html)  
+* [How to backup your data to QNAP](https://www.backup4all.com/how-to-backup-your-data-to-qnap-kb.html)  
     
-* [How to manage backup tags](https://www.backup4all.com/how-to-manage-backup-groups-kb.html)  
+* [How to create a smart backup](https://www.backup4all.com/how-to-create-a-smart-backup-kb.html)  
     
-* [Backup to Amazon S3 using Backup4all 6 or old ...](https://www.backup4all.com/backup-to-amazon-s3-kb.html)  
+* [DVD formats supported by Backup4all](https://www.backup4all.com/dvd-formats-supported-by-backup4all-kb.html)  
     
-* [How the incremental limit works in Backup4all](https://www.backup4all.com/how-the-incremental-limit-works-in-backup4all-kb.html)  
+* [Network backup](https://www.backup4all.com/network-backup-kb.html)  
     
 
 Choose language:
