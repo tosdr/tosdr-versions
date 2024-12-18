@@ -62,311 +62,598 @@ Menu
 
 [Get Started](https://choozle.com/digital-advertising-made-easy)
 
-Understanding Choozle's Comprehensive Privacy Policy
-====================================================
-
-Last Updated: March, 2022
-
-Choozle, Inc. (“Choozle,” “we,” “our,” “us” or “company”) is an advertising services platform, enabling our corporate customers to reach relevant advertising audiences, and accurately measure advertising performance. We are committed to respecting the privacy and security of the information we collect directly from, or on behalf of, our corporate customers. The following privacy policy describes the information we collect and how we use it. By using this website (“Site,” “Platform,” “Website”) or the service offered through our Site or any mobile application (the “Service”), you consent to our Privacy Policy.
-
-In addition to our corporate website privacy policy, we have added privacy information about our Advertising Services Platform (“Platform”) which you can skip to by [\[clicking here\]](https://hubprotechserver.com/choozle/privacy-policy/#noticeoptout).
-
-Quick links – Website
----------------------
-
-1. [INFORMATION WE COLLECT](#infowecollect)
-    
-2. [HOW WE USE COLLECTED INFORMATION](#collectedinfouse)
-    
-3. [INFORMATION SHARING](#infosharing)
-    
-4. [YOUR RIGHTS AND CHOICES](#yourrights)
-    
-5. [SECURITY AND DATA RETENTION](#securitydata)
-    
-6. [EU AND OTHER INTERNATIONAL VISITORS](#euvisitors)
-    
-7. [CALIFORNIA PRIVACY STATEMENT](#caliprivacy)
-    
-8. [CHANGES TO THIS POLICY](#policychanges)
-    
-9. [CONTACT US](#contactus)
-    
+Digital Advertising  
+Made Easy®
+================================
 
-Quick links – Advertising Services
-----------------------------------
+An omnichannel digital advertising platform – and strategic partner that helps advertisers and agencies navigate the modern media landscape with confidence.
 
-1. [ADVERTISING SERVICES PLATFORM PRIVACY NOTICE AND OPT-OUT INFORMATION](#noticeoptout)
-    
-2. [INFORMATION WE COLLECT THROUGH OUR ADVERTISING SERVICES PLATFORM](#infowecollectad)
-    
-3. [HOW OUR ADVERTISING SERVICES USE COLLECTED INFORMATION](#collectedinfousead)
-    
-4. [INFORMATION SHARING](#infosharingad)
-    
-5. [YOUR RIGHTS AND CHOICES](#yourrightsad)
-    
-6. [HOW TO OPT OUT OF CHOOZLE ADVERTISING PLATFORM SERVICES](#optoutad)
-    
+[Request a Demo](#bottom-home-form-section)
 
-#####   
-**INFORMATION WE COLLECT**
+![](https://choozle.com/wp-content/uploads/2024/05/images_1.png)
 
-We gather information about how visitors use our Site as well as information from interested or current customers in order to provide our Services.
+#### Display
 
-The following are the types of information we collect:
+Toggle
 
-* **_Information you give us:_** We receive the information you provide to us when you register for, or otherwise use, the Site such as your name, email address, business name, title, business URL, business industry, business type, phone number, address, credit card information and any feedback, questions, or recommendations you provide. If you provide information directly to us in other ways, such as by sending us an email or filling out a form, we may retain that information and add it with the other information we have collected from you. We may also collect information from you that is necessary for our legitimate interests, which will be disclosed to you at the time of collection. Choozle will use this information for the purposes of which it was collected.
-* **_Information from third parties:_** We may receive information about you from other sources, such from referrals, third-party sites or data services, or services that you link your Choozle account with, or otherwise. We may add this information to the information we have already collected from you.
-* **_Automatically collected information:_** To make our Site and Services more useful to you, our servers (which may be hosted by a third-party service provider) may collect information from you, including browser type, operating system, Internet Protocol (IP) address (a number that is automatically assigned to your computer when you use the Internet, which may vary from session to session), domain name, precise location data with GPS or lat/log, or a date and time stamp for your visit. We also use Cookies (as defined below) and navigational data to gather information regarding the date and time of your visit and the solutions and information for which you searched and which you viewed. Like most Internet services, we automatically gather this information and store it in log files each time you visit our Site or access your account on our network. We also could use data from mobile applications, including advertising IDs and mobile device IDs, to gather information regarding the date and time of your visit and the solutions and information for which you searched and which you viewed. Mobile advertising IDs or Mobile Device IDs are a unique identifier which can be used to identify a mobile device. Mobile applications and networks assign unique identifiers for mobile app developers can identify who is using their mobile apps as well as for advertising purposes.
+![](/wp-content/uploads/2024/04/checkbox.png)
 
-   
-[back to top](#backtotop)
+##### Running
 
-#####   
-**HOW WE USED COLLECTED INFORMATION**
+Budget: $38,330.00
 
-By registering for our products and services, or engaging with our brand, you provide us consent to collect and use your personal information for the following purposes:  
+Spend: $37,946.70
 
-* To operate and improve our Sites;
-* To fulfill your requests for certain products or services;
-* To provide you with content and information relevant to your interests in our product and services to facilitate and enhance your use of the platform;
-* To better understand your needs and provide you with more customized service;
-* To communicate with you about the Sites or our products and services;
-* To respond to any questions or concerns that you may have;
-* For market research, project planning, troubleshooting problems, detecting and protecting against errors, fraud, or other criminal activity;
-* For advertising and marketing purposes.
+Pacing: 99%
 
-We may create anonymous or aggregate data from the information we collect. We may use that data for our own purposes or disclose it to third parties at our own discretion.  
-   
-[back to top](#backtotop)
+Recom, Spend:  
+$317.11
 
-#####   
-**INFORMATION SHARING**
+#### Ad Group Optimizations
 
-We may share collected information under the following situations;
+Toggle
 
-* To suppliers, service providers or contractors that provide services to us and are contractually bound to safeguard your personal information. These services include messaging services, credit card processors, website hosting and analytics. These recipients are required by contract to keep confidential the information received on our behalf, and may not use it for any purpose other than to carry out the services they are performing for us;
-* With advertising services to assist Choozle with our own corporate advertising efforts (see Your Rights and Choices below for more information);
-* To third parties in connection with any merger, acquisition, reorganization, change in capital structure or sale of all or substantially all of the assets of Choozle;
-* When we have a good faith belief that disclosure is necessary to comply with the law, protect or defend our rights or the rights of other users of our Sites or products or services, or act in an emergency to protect someone’s safety; or
-* Otherwise with your express consent.
+27%
+---
 
-   
-Choozle confirms with all third-parties to ensure the data is managed in a lawful manner.  
-   
-[back to top](#backtotop)
+Savings with the use of our in-platform AI optimization
 
-#####   
-**YOUR RIGHTS AND CHOICES**
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20566%20546'%3E%3C/svg%3E)
 
-We want to communicate with you only if you want to hear from us. If you prefer not to receive information from us or would like to update or change your personal information or preferences, follow the instructions below to review, modify or delete your personal information.
+![](https://choozle.com/wp-content/uploads/2024/05/images_2.png)
 
-* To update or modify the information you have provided during registration, please log in and update your personal settings;
-* To unsubscribe from a promotional email, please follow the instructions or unsubscribe links available in any email you receive. If you decide not to receive promotional emails, we may still send you transactional communications, such as those about your account, to fulfill orders you have made, or to ask you to rate a product you purchased;
-* You may request that your registration information be deleted by contacting us at privacy@choozle.com. However, we may maintain limited information about your sales transactions or service inquiries for legal, tax or necessary record keeping purposes;
+### 42.2B
 
-Choozle also uses our own cookies, as well as cookies implemented by advertising services to assist Choozle with our own corporate advertising efforts. We may allow certain third party advertising services to collect data about your Choozle website viewing behavior and combine this data with information collected from other websites over time for purposes that include interest-based advertising. You can opt-out of these advertising efforts by visiting;  
-   
-**Advertising Industry Opt-Out Websites where Choozle is referenced:**
+Total Impressions Served
 
-The Network Advertising Initiative opt-out at www.optout.networkadvertising.org
+### 14+
 
-The Digital Advertising Alliance (DAA) opt-out at www.optout.aboutads.info
+Channels Leveraged
 
-The IAB Europe’s industry opt-out at www.youronlinechoices.eu
+### 97,000+
 
-   
-**Choozle’s website advertising partners:**
+Campaigns Delivered Since 2012
 
-LinkedIn
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20566%20546'%3E%3C/svg%3E)
 
-Facebook
+![](https://choozle.com/wp-content/uploads/2024/05/images_3.png)
 
-Google
+### 25+
 
-The Trade Desk
+Targeting Tactics Utilized
 
-   
-**Choozle’s website analytics partners:**
+### 30
 
-Hubspot
+Industries We’ve Worked Across
 
-Matomo
+### 10,000+
 
-Google
+Agencies and Brands Served Since 2012
 
-   
-In addition, you can configure your web browser (Chrome, Firefox, Internet Explorer, Safari, etc.) to delete and/or control the use of cookies. More information can be found in the Help system of your browser. We currently do not respond to browser-based “do not track” signals.  
-Links to Other Websites: The Site may contain links, content, and advertisements from third parties. Such links, content, and advertisements are not endorsements, authorizations or representations of our affiliation with that third party. We are not responsible for the privacy practices or the content of third parties, and we encourage you to carefully review the privacy policy of any website you visit.  
-   
-[back to top](#backtotop)
+Choozle connects you to premium DSPs, giving you access to the best available media to maximize your budget and impact.
 
-#####   
-**SECURITY AND DATA RETENTION**
+![Group](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20173%2051'%3E%3C/svg%3E)
 
-We have implemented commercially reasonable security measures, including physical, electronic, and administrative safeguards, to prevent unauthorized access to, loss, misuse, or alteration of the information collected through our Websites. We take reasonable steps to help protect your personal information in an effort to prevent loss, misuse, unauthorized access, disclosure, alteration, and destruction. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage is 100% secure. We make no assurances in this policy about our ability to prevent such loss, misuse, to you or to any third-party arising out of any such loss, misuse, or alteration. If you have any questions about the security of our Sites you can contact us using the information provided below.
+![Group](https://choozle.com/wp-content/uploads/2024/04/Group.svg)
 
-**Retention**: We retain the information you provide to us for as long as your account is active or as needed to provide you services or perform the purposes for which it was supplied. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.  
-We retain the automatically collected data from our Websites for up to 12 months. At any point up to the end of 12 months the data is de-identified or aggregated and stored for up to 3 additional years.
+![Vector](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20198%2036'%3E%3C/svg%3E)
 
-We may need to retain certain information for recordkeeping purposes, as required under applicable legal obligations, or to complete any transactions that you began prior to requesting such change or access. When updating or deleting your information, we may ask you to verify your identity before we can act on your request. We will comply with your request as soon as reasonably practicable and in accordance with applicable laws.  
-   
-[back to top](#backtotop)
+![Vector](https://choozle.com/wp-content/uploads/2024/04/Vector.svg)
 
-#####   
-**EU AND OTHER INTERNATIONAL VISITORS**
+![retail media advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20142%2043'%3E%3C/svg%3E)
 
-Choozle is a global company headquartered in the United States. If you access the Platform or any other Sites managed by Choozle, be aware that your information may be transferred to, stored, and processed in the United States. We transfer personal information from the EU, UK or Switzerland to the US by implementing the Standard Contractual Clauses adopted by the European Commission.
+![retail media advertising solutions](https://choozle.com/wp-content/uploads/2024/04/Amazon_logo-1.svg)
 
-We commit to resolve complaints about our collection or use of your personal information. EU, UK and Swiss individuals with inquiries or complaints regarding our use of your personal datashould first contact us at privacy@choozle.com. If Choozle does not resolve your complaint, you may submit your complaint to your local data protection authority.
+![TradeDesk_lockup_203x22](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20203%2022'%3E%3C/svg%3E)
 
-As it relates to personal data collected on this site for Residents of the European Union, Switzerland or United Kingdom, you are granted:
+![TradeDesk_lockup_203x22](https://choozle.com/wp-content/uploads/2024/06/TradeDesk_lockup_203x22-1.svg)
 
-(a)the right to access, modify or delete your personal data;
+![walmartconnectlogo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20856%20118'%3E%3C/svg%3E)
 
-(b)the right to restrict or object to certain processing activities,
+![walmartconnectlogo](https://choozle.com/wp-content/uploads/2024/06/walmartconnectlogo.svg)
 
-(c)the right to withdraw consent.
+![Google_2015_logo 1](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20119%2040'%3E%3C/svg%3E)
 
-If you are an EU, Swiss or UK resident you may request access to any personally identifiable data that is collected through the Choozle Site or Services by contacting us at privacy@choozle.com.
+![Google_2015_logo 1](https://choozle.com/wp-content/uploads/2024/04/Google_2015_logo-1.svg)
 
-We process personal information under the legal basis of performance of contract, consent and legitimate interest. Where any processing of personal information is solely dependent upon your consent, you have the right to withdraw such consent at any time. The provision of personal information by you will be for contractual, marketing, analytical purposes, or other purposes as referred to in this Policy. When we receive your request, we may ask you to verify your identity before we can act on your request. We may withhold information where we are required by law to do so or if the search for that information would require disproportionate effort or have a disproportionate effect to, for example, the cost of providing the information, the time it would take to retrieve the data, or how difficult it may be to obtain the information requested. Residents of the European Economic Area (EEA), in conjunction with the General Data Protection Regulation (GDPR), may opt out of our cookie-based marketing efforts by using the IAB Europe’s industry opt-out at [www.youronlinechoices.eu](http://www.youronlinechoices.eu/). Additional specific requests of data collection, management or use may be directed to us at privacy@choozle.com.  
-   
-[back to top](#backtotop)
+![Instagram_logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20934%20229'%3E%3C/svg%3E)
 
-#####   
-**CALIFORNIA PRIVACY STATEMENT**
+![Instagram_logo](https://choozle.com/wp-content/uploads/2024/04/Instagram_logo.png)
 
-The California Consumer Privacy Act of 2018 (CCPA) gives consumers more control over the personal information including:
+![Linkedin-logo-png](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201400%20362'%3E%3C/svg%3E)
 
-(a)The right to know about the personal information a business collects about them and how it is used and shared;
+![Linkedin-logo-png](https://choozle.com/wp-content/uploads/2024/04/Linkedin-logo-png.png)
 
-(b)The right to delete personal information collected from them (with some exceptions);
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20664%20420'%3E%3C/svg%3E)
 
-(c)The right to opt-out of the sale of their personal information. In the prior year, Choozle has not engaged in any activities that would be considered a ‘sale’ of your personal information as defined by the CCPA. Even so, we advise you to review the choices we provide in this policy related to the use of advertising cookies by third party services; and
+![](/wp-content/uploads/2024/04/triangle.png)
 
-(d)The right to non-discrimination for exercising their CCPA rights.
+Channels
+--------
 
-Please submit your requests to [privacy@choozle.com](mailto:privacy@choozle.com). For all requests, you must put the statement “Your California Privacy Rights” in the body of your request and include the name of the Site with respect to which you are requesting the information, as well as your name, street address, city, state, and zip code. Please note that we will not accept requests via the telephone, mail, or by facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.  
-   
-[back to top](#backtotop)
+_Serious question._  Are you still fragmenting your media planning and buying across multiple groups? How much efficiency and cost savings could you gain with a unified approach? With Choozle, you can streamline your media planning and buying processes, consolidating efforts and maximizing your resources.
 
-#####   
-**CHANGES TO OUR POLICY**
+Programmatic
+------------
 
-We may revise this policy at any time. Any changes and/or updates to the policy will be updated directly on this page. Material changes to this policy will be enacted on a going-forward basis.  
-   
-[back to top](#backtotop)
+search
+------
 
-#####   
-**CONTACT US**
+social
+------
 
-We welcome your questions, comments, and concerns about privacy. Please contact us by mail or email at:  
-Choozle, Inc. 3513 Brighton Blvd #510, Denver, CO 80216  
-[privacy@choozle.com](mailto:privacy@choozle.com)  
-   
-[back to top](#backtotop)
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20127'%3E%3C/svg%3E)
 
-#####   
-**ADVERTISING SERVICES PLATFORM PRIVACY NOTICE AND OPT-OUT INFORMATION**
+![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/Group-427319302-1.svg)
 
-Choozle provides a digital advertising software platform that leverages detailed consumer data to power programmatic advertising campaigns across display, video, mobile, audio, connected tv, digital out-of-home, and other mediums. Our service allows our clients to collect information about their current or potential customers using cookies, pixel tags, web beacons, web bugs, televisions or OTT devices, and other collection technologies. While we do not collect this information on our site, we want you to be aware of how our services can be used to collect your information using publically available data and other collection technologies.  
-   
-[back to top](#backtotop)
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20154'%3E%3C/svg%3E)
 
-#####   
-**INFORMATION WE COLLECT THROUGH OUR ADVERTISING SERVICES PLATFORM**
+![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/Group-427319301-1.svg)
 
-Information collected through our service: We and our clients collect, organize, and use information reflecting your interactions with a variety of websites, media types and social networks. _This information may include items such as;_
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20127'%3E%3C/svg%3E)
 
-* the date and time you visited a website;
-* your browser information;
-* your IP address
-* your precise location data (with mobile operating system consent);
-* your TV/CTV/OTT viewing behavior;
-* your browsing behavior;
-* your age and gender;
-* any interests you express or imply at social networking sites or other websites you visit.
+![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/Group-427319303-1.svg)
 
-   
-Choozle or its clients may recognize your computer over time by setting a unique browser cookie or receive a mobile advertising or device ID from your operating system, which your browser or operating system relays to our servers when you visit websites or apps that are affiliated with our partners or clients. We and our clients may also supplement the information we collect with additional information we obtain from other companies, which may include information derived from personal information prior to its use. We analyze the information we collect or obtain from third parties and organize it into pseudonymous user profiles, groups, and audiences, based on factors such as age, gender, geography, interests, offline and online actions.
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20131'%3E%3C/svg%3E)
 
-The behavioral categories we use to customize the ads you may see or for related purposes do not use personally identifiable information (PII) that directly identifies you such as your name, address, e-mail address, phone number. Our technology and services are designed to limit our use of consumer data to pseudonymous or non-personal information.
+![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/Group-427319304-1.svg)
 
-**Information provided by clients or third parties:** Our clients and/or third parties may provide us with various data sets that typically reside within their customer relationship management databases, which may include;
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20125'%3E%3C/svg%3E)
 
-(a)Contact information such as names, emails, addresses, or phone numbers.
+![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/Group-427319305-2.svg)
 
-(b)Location information, such as zip code or the approximate geographic area derived from your IP address or location positioning information provided by the location services and GPS features of your mobile device when location services have been enabled.
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20101%20127'%3E%3C/svg%3E)
 
-(c)Pseudonymous matched or linked data that enables our clients to match users across channels. The matched or linked data comes from third party data providers, brands, and websites with the rights to share consumer data for marketing purposes. We combine and measure these data sets against each other to ensure a high level of accuracy.
+![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/Group-427319306-1.svg)
 
-Please note that we license Choozle to third parties, such as website publishers, advertising agencies and marketers. A third-party licensee using Choozle may elect to collect, manage, and use other types of data through Choozle, which may include personal information (where permissible). Please consult the privacy policies of the websites you visit to become familiar with their privacy practices.  
-   
-[back to top](#backtotop)
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20103%20158'%3E%3C/svg%3E)
 
-#####   
-**HOW OUR ADVERTISING SERVICES USE COLLECTED INFORMATION**
+![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/Group-427319307-1.svg)
 
-We and our clients and partners design and deliver customized advertising campaigns or other relevant content across digital channels. We and our clients may also use this data for related purposes such as to conduct research regarding the results of our online advertising campaigns or to better understand the interests or activities of website visitors.
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20133'%3E%3C/svg%3E)
 
-As noted, we primarily use cookies and mobile advertising identifiers to facilitate relevant ads. In addition, we may work with match partner websites to send us unique identifiers that have been de-identified from an email address or other personal information using a hashing algorithm. We then search our database of client data to determine whether any of our clients is requesting to match data for that particular pseudonymous identifier. If a match occurs, we attempt to associate a cookie with that pseudonymous data and any other information we have matched about the identifier in order to serve the individual with relevant messages or advertisements.
+![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/Group-427319312-1.svg)
 
-We may also use this data for measurement purposes such as understanding how digital advertising impacts purchasing on their Site or other sales channels.
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20133'%3E%3C/svg%3E)
 
-We may also help clients create an ‘identity graph’ by “matching” or “mapping” users together that they have already “seen” across multiple web and mobile platforms, on a pseudonymous basis. This identity graph may then be used to enable cross-platform or cross-device relevant advertising to the same, or similar, individuals.
+![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/Group-427319311-1.svg)
 
-**This collected data may be used for personalized Advertising or Ad Delivery and Reporting which is further defined under the NAI’s Viewed Content Advertising Guidance.** As required under the NAI Code, the Choozle discloses standard interest segments that are based on [health-related information or interests](https://www.thetradedesk.com/assets/general/HealthSegments_TTD-Website.pdf) and [political information or interests](https://www.thetradedesk.com/assets/general/NAI_PoliticalSegments2.pdf) that it makes available in the Platform where permitted by law and self-regulatory rules. This information is used in the personalization of advertising efforts. Choozle confirms that any data used or collected by Choozle and our partners is obtained from responsible sources that provide users with appropriate levels of notice and choice.  
-   
-[back to top](#backtotop)
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20133'%3E%3C/svg%3E)
 
-#####   
-**INFORMATION SHARING**
+![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/Group-427319310-1.svg)
 
-As noted below in ‘Your Rights and Choices’, Choozle may share information about your visits to a website with numerous third party advertising services, including social media platforms. Some of these services are listed below, and you can opt-out of data sharing and their associated data use at any time. In addition to the services below, we may also work with various services to deliver relevant ads, which may include sharing information with various ad networks, ad delivery services, ad verification services, or ad exchanges . You may opt-out of many of these services through the industry-wide opt-out choices below.  
-   
-[back to top](#backtotop)
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20132'%3E%3C/svg%3E)
 
-#####   
-**YOUR RIGHTS AND CHOICES**
+![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/Group-427319309-1.svg)
 
-As part of Choozle’s commitment to respect privacy concerns and implement industry-recognized standards, Choozle complies with the Digital Advertising Alliance’s (DAA) Self-Regulatory Principles for Online Behavioral Advertising, which are designed to inform consumers about data collection and advertising practices across multiple websites and to provide consumers the ability to opt-out.  
-   
-[back to top](#backtotop)
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20101%20127'%3E%3C/svg%3E)
 
-#####   
-**HOW TO OPT OUT OF CHOOZLE ADVERTISING PLATFORM SERVICES**
+![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/Group-427319308-1.svg)
 
-If you would like to opt-out of Choozle’s advertising services, or services associated with our advertising partners, you may visit:
+Programmatic
+------------
 
-* The Network Advertising Initiative opt-out at [www.optout.networkadvertising.org](http://www.optout.networkadvertising.org/)
-* The Digital Advertising Alliance (DAA)’s YourAdChoice opt-out at [http://optout.aboutads.info](http://optout.aboutads.info/)
-* For those in Europe, you can opt-out via the IAB Europe’s industry opt-out at [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
-* The Trade Desk opt out at [https://www.adsrvr.org](https://www.adsrvr.org/)
-* The Liveramp opt out at [https://liveramp.com/opt\_out/](https://liveramp.com/opt_out/)
-* The Oracle opt out at [https://www.oracle.com/legal/privacy/privacy-choices.html](https://www.oracle.com/legal/privacy/privacy-choices.html)
-* The Amazon Ads opt out at [https://www.amazon.com/adprefs](https://www.amazon.com/adprefs)
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20127'%3E%3C/svg%3E)
 
-Note that after choosing to opt-out, if you use a different computer or a different browser, or if you delete or block browser cookies, you may need to repeat the opt-out steps. Most Web browsers also enable you to block browser cookies. You can refer to your web browser’s documentation to get more information on how to block or delete cookies directly through your browser settings.
+![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/Group-427319302-1.svg)
 
-You can also configure your web browser (Chrome, Firefox, Internet Explorer, Safari, etc.) to delete and/or control the use of cookies. More information can be found in the Help system of your browser.
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20154'%3E%3C/svg%3E)
 
-In addition, we provide you links where you can opt-out with your mobile ID by specific companies as this is handled separately from web-based browsers. This opt-out process will need to be done on your mobile device as it is unique to your device.
+![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/Group-427319301-1.svg)
 
-You can review the process on mobile ID opt-out via Network Advertising Initiative here: [https://www.networkadvertising.org/mobile-choice](https://www.networkadvertising.org/mobile-choice)
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20127'%3E%3C/svg%3E)
 
-You can review the process on mobile app opt-out via the Digital Advertising Alliance (DAA) here: [www.youradchoices.com/appchoices](http://www.youradchoices.com/appchoices)
+![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/Group-427319303-1.svg)
 
-In addition, we provide you links where you can opt-out of connected TV advertising as this is handled separately from web-based browsers. This opt-out process will need to be done on your connected tv device as it is unique to your device.
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20131'%3E%3C/svg%3E)
 
-You can review the process on connected tv opt-out via Network Advertising Initiative here: [https://www.networkadvertising.org/internet-connected-tv-choices/](https://www.networkadvertising.org/internet-connected-tv-choices/)
+![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/Group-427319304-1.svg)
 
-To learn more about our involvement with and adherence to industry standards, please contact us at [privacy@choozle.com](mailto:privacy@choozle.com).  
-   
-[back to top](#backtotop)
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20125'%3E%3C/svg%3E)
 
-Effective date March 10, 2022
+![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/Group-427319305-2.svg)
+
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20101%20127'%3E%3C/svg%3E)
+
+![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/Group-427319306-1.svg)
+
+search
+------
+
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20103%20158'%3E%3C/svg%3E)
+
+![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/Group-427319307-1.svg)
+
+social
+------
+
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20133'%3E%3C/svg%3E)
+
+![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/Group-427319312-1.svg)
+
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20133'%3E%3C/svg%3E)
+
+![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/Group-427319311-1.svg)
+
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20133'%3E%3C/svg%3E)
+
+![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/Group-427319310-1.svg)
+
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20132'%3E%3C/svg%3E)
+
+![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/Group-427319309-1.svg)
+
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20101%20127'%3E%3C/svg%3E)
+
+![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/Group-427319308-1.svg)
+
+Capabilities
+------------
+
+Unlock Choozle’s comprehensive capabilities to elevate your campaigns. Seamlessly scale and refine your advertising efforts with a suite of powerful targeting tactics aimed at maximizing your campaign effectiveness, all with expert guidance along the way.
+
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20165%20133'%3E%3C/svg%3E)
+
+![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/Group-427319287.svg)
+
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20165%20133'%3E%3C/svg%3E)
+
+![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/Group-427319288.svg)
+
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20165%20133'%3E%3C/svg%3E)
+
+![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/Group-427319289.svg)
+
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20165%20162'%3E%3C/svg%3E)
+
+![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/Group-427319290.svg)
+
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20165%20189'%3E%3C/svg%3E)
+
+![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/Group-427319291.svg)
+
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20165%20162'%3E%3C/svg%3E)
+
+![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/Group-427319292.svg)
+
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20165%20135'%3E%3C/svg%3E)
+
+![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/Group-427319293.svg)
+
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20165%20158'%3E%3C/svg%3E)
+
+![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/Group-427319294.svg)
+
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20165%20154'%3E%3C/svg%3E)
+
+![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/Group-427319295.svg)
+
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20165%20158'%3E%3C/svg%3E)
+
+![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/Group-427319297.svg)
+
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20165%20158'%3E%3C/svg%3E)
+
+![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/Group-427319296.svg)
+
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20165%20158'%3E%3C/svg%3E)
+
+![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/Group-427319298.svg)
+
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20165%20150'%3E%3C/svg%3E)
+
+![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/Group-427319299.svg)
+
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20165%20135'%3E%3C/svg%3E)
+
+![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/Group-427319293.svg)
+
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20165%20158'%3E%3C/svg%3E)
+
+![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/Group-427319294.svg)
+
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20165%20154'%3E%3C/svg%3E)
+
+![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/Group-427319295.svg)
+
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20165%20158'%3E%3C/svg%3E)
+
+![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/Group-427319297.svg)
+
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20165%20158'%3E%3C/svg%3E)
+
+![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/Group-427319296.svg)
+
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20165%20158'%3E%3C/svg%3E)
+
+![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/Group-427319298.svg)
+
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20165%20150'%3E%3C/svg%3E)
+
+![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/Group-427319299.svg)
+
+How We Work
+-----------
+
+DISCOVERY
+---------
+
+We gain alignment on business goals, so we can focus on exactly what you need to achieve them, and not waste time on the tactics that don’t make sense for your business.
+
+STRATEGY
+--------
+
+Organize marketing and campaign strategies across channels to maximize results.
+
+EXECUTION
+---------
+
+Setup campaigns to achieve goals – through consulting on self-service or leveraging our managed service teams.
+
+OPTIMIZATION
+------------
+
+Real-time dashboards provide key insights and reporting.
+
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201025%20596'%3E%3C/svg%3E)
+
+![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/desktop-mock-up-copy-1.png)
+
+Our Platform
+------------
+
+Quickly manage and optimize multiple advertisers and programmatic ad campaigns, no matter your campaign goals. Our easy-to-use, feature-rich digital advertising software lets you plan and execute campaigns efficiently and easily.
+
+[See It In Action](#bottom-home-form-section)
+
+Industries We Serve
+
+#### Health & Fitness
+
+#### Automotive
+
+#### Home & Garden
+
+#### Government & Politics
+
+#### CPG: Food & Drink
+
+#### Legal
+
+Case Studies
+
+[View Resources](https://choozle.com/brands/)
+
+0 x
+
+ROAS
+
+0 x
+
+ROAS
+
+Kroger Data Drives $476K in Campaign Sales
+------------------------------------------
+
+The campaign’s distinctiveness originated from its granular audience segmentation, leveraging both geographic and behavioral data from Kroger.
+
+[Read More](https://choozle.com/brands/optimizing-with-kroger-data-to-drive-outcome-based-results)
+
+Igniting 65% Revenue Growth with Lohre & Associates
+---------------------------------------------------
+
+In the competitive realm of airline ticket sales, our client sought to elevate their digital presence and drive conversions for flights from major US hubs to Japan and Asia.
+
+[Read More](https://choozle.com/agencies/lohre-associates)
+
+0 x
+
+ROAS
+
+Kroger Data Drives $476K in Campaign Sales
+------------------------------------------
+
+The campaign’s distinctiveness originated from its granular audience segmentation, leveraging both geographic and behavioral data from Kroger.
+
+[Read More](https://choozle.com/brands/optimizing-with-kroger-data-to-drive-outcome-based-results)
+
+0 x
+
+ROAS
+
+Igniting 65% Revenue Growth with Lohre & Associates
+---------------------------------------------------
+
+In the competitive realm of airline ticket sales, our client sought to elevate their digital presence and drive conversions for flights from major US hubs to Japan and Asia.
+
+[Read More](https://choozle.com/agencies/lohre-associates)
+
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%202560%201440'%3E%3C/svg%3E)
+
+![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/section-bg-scaled.jpeg)
+
+The customer service is exceptionally friendly, proactive, and helpful. I use Choozle every day and you always find new ways to use its features in your favor. We love how Choozle offers integrations with our reports and makes data collection simple and efficient.
+
+— Gonzalo G.
+
+The customer service is exceptionally friendly, proactive, and helpful. I use Choozle every day and you always find new ways to use its features in your favor. We love how Choozle offers integrations with our reports and makes data collection simple and efficient.
+
+— Gonzalo G.
+
+[Partner With Us](#bottom-home-form-section)
+
+Brands We’ve Partnered With
+---------------------------
+
+![Kroger-Logo.wine 1](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20200'%3E%3C/svg%3E)
+
+![Kroger-Logo.wine 1](https://choozle.com/wp-content/uploads/2024/05/Kroger-Logo.wine-1-300x200.png)
+
+![Reddit-Logo-500x281 3](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20185%20104'%3E%3C/svg%3E)
+
+![Reddit-Logo-500x281 3](https://choozle.com/wp-content/uploads/2024/04/Reddit-Logo-500x281-3.svg)
+
+![CaspersLogoNewOnWhite_1592x (1) 3](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20173%20102'%3E%3C/svg%3E)
+
+![CaspersLogoNewOnWhite_1592x (1) 3](https://choozle.com/wp-content/uploads/2024/04/CaspersLogoNewOnWhite_1592x-1-3.svg)
+
+![Big_Ass_Fans_Full_logo 3](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20267%2061'%3E%3C/svg%3E)
+
+![Big_Ass_Fans_Full_logo 3](https://choozle.com/wp-content/uploads/2024/04/Big_Ass_Fans_Full_logo-3.svg)
+
+![7ca63b2e-8a92-4cd2-87fe-1fc47b7f6d16 (1)](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2082'%3E%3C/svg%3E)
+
+![7ca63b2e-8a92-4cd2-87fe-1fc47b7f6d16 (1)](https://choozle.com/wp-content/uploads/2024/05/7ca63b2e-8a92-4cd2-87fe-1fc47b7f6d16-1-300x82.png)
+
+![kisspng-american-academy-of-pediatrics-united-states-of-am-home-helping-mothers-survive-5be9322305e0a1.8087421315420093790241](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20169'%3E%3C/svg%3E)
+
+![kisspng-american-academy-of-pediatrics-united-states-of-am-home-helping-mothers-survive-5be9322305e0a1.8087421315420093790241](https://choozle.com/wp-content/uploads/2024/05/kisspng-american-academy-of-pediatrics-united-states-of-am-home-helping-mothers-survive-5be9322305e0a1.8087421315420093790241-300x169.png)
+
+![7a142e0edbae14436b83d63447a33d41 3](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20149%2096'%3E%3C/svg%3E)
+
+![7a142e0edbae14436b83d63447a33d41 3](https://choozle.com/wp-content/uploads/2024/04/7a142e0edbae14436b83d63447a33d41-3.svg)
+
+Riding the Wave
+---------------
+
+Navigating complex media choices,  
+maximizing your ad budget, and achieving results is easy with experts by your side.
+
+[Explore Our Solutions](#bottom-home-form-section)
+
+Blog
+
+[View Blog](https://choozle.com/blog)
+
+Blog
+----
+
+[![graphics of screens programmatic](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%20628'%3E%3C/svg%3E)
+
+![graphics of screens programmatic](https://choozle.com/wp-content/uploads/smb2025-headerimgae-blog.jpg)](https://choozle.com/blog/the-benefits-of-programmatic-advertising-for-smbs-in-2025/)
+
+### [The Benefits of Programmatic Advertising for SMBs in 2025](https://choozle.com/blog/the-benefits-of-programmatic-advertising-for-smbs-in-2025/)
+
+ANNIE WISSNER December 9, 2024
+
+[![Customer journey header image blog](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%20628'%3E%3C/svg%3E)
+
+![Customer journey header image blog](https://choozle.com/wp-content/uploads/customerjourney-headerimgae-blog.jpg)](https://choozle.com/blog/the-customer-journey-is-evolving-are-you-keeping-up/)
+
+### [The Customer Journey is Evolving: Are You Keeping Up?](https://choozle.com/blog/the-customer-journey-is-evolving-are-you-keeping-up/)
+
+Choozle December 3, 2024
+
+[![shopping holiday bags](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%20628'%3E%3C/svg%3E)
+
+![shopping holiday bags](https://choozle.com/wp-content/uploads/smb-headerimgae-blog.jpg)](https://choozle.com/blog/smb-holiday-season/)
+
+### [6 Ways SMBs Can Win the Holiday Season in a Shorter Year](https://choozle.com/blog/smb-holiday-season/)
+
+Choozle November 22, 2024
+
+FAQs About Choosing the Right Digital Advertising Company
+---------------------------------------------------------
+
+What is Programmatic Advertising?
+
+Programmatic advertising is the process of buying and selling of ad inventory in real-time through an automated bidding system. Imagine a digital marketplace where advertisers and publishers meet, but instead of handshakes and negotiations, algorithms do the heavy lifting. Here’s how it works:
+
+* **Create the Campaign:** Advertisers define their campaign parameters: Who’s their target audience? What’s the budget? Which creative assets should be used? Meanwhile, publishers (website owners) make their ad inventory available for auction.
+* **The Auction House:** When a person visits a website, an ad impression becomes available. In a split second, a real-time auction unfolds. Demand Side Platforms (DSPs) step up to the bidding podium. Each DSP represents an advertiser, vying for that precious ad spot.
+* **The Highest Bidder Wins:** DSPs bid based on their campaign strategies. The highest CPM (Cost Per Mille) wins. The winning ad is served instantly to the user.
+
+**Why It Matters:**
+
+* **Efficiency:** Programmatic streamlines the process, saving time and manual effort.
+* **Laser-Targeted:** Ads reach specific audiences, minimizing wasted impressions.
+* **Transparency:** Advertisers know where their ads appear (no shady back alleys).
+* **Real-Time Optimization:** Campaign performance is analyzed, and adjustments are made on the fly.
+
+Programmatic advertising is like having a savvy digital assistant that ensures your ads find the right audience, at the right time, with the benefit of automation.
+
+What Makes Choozle a Top Digital Advertising Company?
+
+Choozle stands out as a top digital advertising company for several reasons:
+
+* **Comprehensive Advertising Solutions:** Choozle specializes in various advertising domains, including display, DOOH, video, audio, CTV, native, search, and social media advertising, providing comprehensive solutions to meet diverse marketing needs.
+* **Advanced Technology:** Choozle’s platform integrates a suite of advanced digital advertising tools, including a demand-side platform (DSP) and data management platform (DMP), enhanced by smart tag management, to streamline campaign management and maximize performance.
+* **Expert Guidance:** Choozle’s team of media experts provides expert guidance and support throughout the advertising journey, from campaign setup to optimization, ensuring that clients achieve their desired outcomes and maximize return on investment.
+* **User-Friendly Interface:** Choozle’s platform features a user-friendly interface that makes it easy for users to plan, execute, and optimize advertising campaigns efficiently, without the need for extensive technical expertise.
+* **Transparency and Control:** Choozle prioritizes transparency and puts users in control of their advertising efforts, providing insights into campaign performance, access to data and analytics, and the ability to make real-time adjustments to maximize results.
+
+Whether you’re a mid-market agency or a global brand, Choozle empowers businesses to reach their target audience effectively, drive engagement, and achieve measurable results through strategic digital advertising campaigns.
+
+What Is Advertising Inventory?
+
+Ad inventory refers to the total advertising space that a publisher makes available for sale. Originally associated with print media, it now predominantly pertains to internet.
+
+* **Page Impressions**: An impression occurs when a user views an ad. Publishers can command higher prices for ad space with substantial page impressions, as it reaches a larger audience.
+* **Ad Value**: Publishers assess ad value in various ways, often by multiplying page impressions by the average number of ads on their pages.
+* **Fill Rate**: This ratio compares rented ad space to vacant space. A higher fill rate benefits publishers, indicating greater revenue from their inventory.
+    * **Revenue Model**: Marketers pay publishers based on specific actions generated by the ads (e.g., leads, clicks, or sales).Remember, ad inventory management plays a pivotal role in effective advertising strategies!
+
+What Advertising Inventory Can I Access With Choozle?
+
+Choozle collaborates directly with multiple Demand Side Platforms (DSPs) and over 60 unique Supply Side Platforms (SSPs). This extensive network enables Choozle to offer its clients a diverse range of inventory for programmatic purchase. The inventory includes:
+
+* **Premium Websites and Applications:** Access to high-quality web properties.
+* **Leading Streaming CTV Platforms:** Channels like Hulu, Fubo, Prime Video, SlingTV, and Netflix. 
+* **Premium Audio Platforms:** Enjoy inventory on platforms such as Spotify and Pandora. 
+* **Digital Out-of-Home (DOOH) Screens:** Choozle provides access to various DOOH screens, including digital billboards, airport and transit center displays, and screens on taxis and rideshares. 
+
+Why Do I Need Digital Advertising?
+
+Digital advertising offers numerous benefits and advantages that make it essential for businesses looking to reach their target audience effectively in today’s digital age. Here are some compelling reasons why you need digital advertising:
+
+* **Wide Reach:** Digital advertising allows you to reach a vast audience across various online platforms, including websites, social media, search engines, and mobile apps. With billions of internet users worldwide, digital advertising enables you to extend your brand’s reach to potential customers globally. 
+* **Targeted Advertising:** Unlike traditional advertising methods, digital advertising offers advanced targeting options that allow you to reach specific demographics, interests, behaviors, and geographic locations. This precision targeting ensures that your ads are shown to the right audience, increasing the likelihood of engagement and conversions. 
+* **Measurable Results:** Digital advertising provides robust analytics and tracking tools that allow you to measure the performance of your campaigns in real-time. You can track metrics such as impressions, clicks, conversions, engagement, and return on investment (ROI), providing valuable insights into the effectiveness of your advertising efforts. 
+* **Cost-Effectiveness:** Digital advertising offers various pricing models, including cost-per-click (CPC), cost-per-thousand-impressions (CPM), and cost-per-acquisition (CPA), allowing you to optimize your advertising budget for maximum efficiency. Compared to traditional advertising channels, digital advertising often offers better value for money and a higher return on investment. 
+* **Flexibility and Control:** With digital advertising, you have full control over your campaigns, including budget allocation, targeting options, ad creatives, and scheduling. You can quickly adjust your campaigns in real-time based on performance data, optimize ad placements, and experiment with different messaging strategies to maximize results. 
+* **Engagement and Interactivity:** Digital advertising offers interactive and engaging ad formats, such as video ads, rich media ads, and interactive banners, that capture users’ attention and encourage interaction. These immersive experiences help build brand awareness, drive engagement, and foster deeper connections with your audience. 
+* **Adaptability to Consumer Behavior:** As consumer behavior continues to shift towards digital channels, digital advertising allows you to meet your audience where they are spending their time online. Whether they’re browsing social media, searching for products on Google, or streaming content on Connected TVs, digital advertising ensures that your brand remains visible and relevant to consumers. 
+* **Global Reach with Local Targeting:** Digital advertising enables businesses to target both local and global audiences with precision. Whether you’re a small local business targeting customers in your neighborhood or a global corporation looking to expand your reach internationally, digital advertising provides the tools and capabilities to reach your desired audience effectively. 
+
+The digital media landscape is dynamic and constantly shifting, partnering with Choozle means you don’t have to go it alone. With our expertise and support, you can confidently navigate the complexities of digital advertising and achieve your goals with efficiency and effectiveness.
+
+What Is Omnichannel Digital Advertising?
+
+Omnichannel digital advertising is a comprehensive approach to marketing that ensures seamless integration and consistency across all digital channels and devices. It involves strategically delivering targeted messages to consumers through various touchpoints and channels, such as websites, social media platforms, search engines, mobile apps, email, and more.
+
+The goal is to create a unified brand experience for customers, regardless of how they interact with your brand online. By leveraging omnichannel digital advertising, businesses can enhance brand visibility, increase engagement, and drive conversions by reaching consumers at every stage of their buyer’s journey.
+
+Why You Need Omnichannel Digital Advertising?
+
+In today’s digital landscape, consumers expect personalized and relevant interactions with brands across multiple channels. Omnichannel digital advertising allows businesses to meet these expectations by delivering tailored messages to consumers based on their preferences, behaviors, and interactions with the brand. By adopting an omnichannel approach, businesses can:
+
+* **Improve Customer Experience:** Omnichannel digital advertising enables businesses to deliver consistent messaging and experiences across all touchpoints, leading to a more cohesive and satisfying customer journey.
+* **Increase Engagement and Conversions:** By targeting consumers with relevant content and offers across different channels, businesses can capture their attention and encourage them to take desired actions, such as making a purchase or signing up for a newsletter.
+* **Gain Insights and Analytics:** Omnichannel digital advertising provides valuable data and insights into consumer behavior and campaign performance across various channels. This data can be used to optimize marketing strategies, refine targeting tactics, and improve overall ROI. 
+* **Stay Competitive:** In a competitive marketplace, businesses need to stay ahead of the curve by embracing innovative marketing strategies. Omnichannel digital advertising allows businesses to stay relevant and competitive by meeting consumers where they are and delivering meaningful interactions that drive results.
+
+By leveraging the power of omnichannel digital advertising, businesses can create meaningful connections with their target audience, drive brand loyalty, and ultimately achieve their business objectives with greater efficiency and effectiveness.
+
+How Do I Choose The Best Digital Advertising Company?
+
+Like any decision, you’re placing a lot of trust in digital advertising experts in a field you may or may not be familiar with. When it comes to evaluating trust, we recommend looking for signals like reviews from customers and the depth and breadth of advertising options. Does the digital advertising company I’m considering do a great job for clients? Does the digital advertising company I’m considering understand my industry in my market?
+
+The key to a great performing digital advertising is connecting with your audience and driving engagement. At Choozle, we’re experts on helping you choose the right way to allocate your resources, place your media in all the right channels against the right audiences and measure your progress.
+
+Why Work With Choozle?
+
+We connect mid-market agencies and brands with premium inventory, advanced audience data, and targeting tactics. With expertise from the Choozle team guiding campaign execution across programmatic, search, and extended supported solutions.
+
+Our easy-to-use, feature-rich digital advertising software lets you plan and execute campaigns efficiently and easily. You can quickly manage and optimize multiple advertisers and programmatic ad campaigns, no matter your campaign goals. With Choozle’s self-service option, you fully plan, execute, and optimize your campaigns within our platform. Choozle’s managed service offering takes the reins of campaign management within our platform, allowing you to focus on your business.
+
+**Highlights of working with Choozle:**
+
+* **Easy and intuitive:** Choozle’s platform is easy to use, from goal setting and campaign creation, to targeting, bidding, optimizing, and reporting.
+* **Approachable pricing:** Choozle offers pricing plans for teams of every size, from startups to established companies.
+* **Programmatic services:** Choozle connects into premium DSPs, giving users access to the best available programmatic services. 
+* **Transparency:** Choozle’s open and transparent approach to digital advertising gives users authority over their own data and analytics.
+
+Our team of digital media experts are here to meet you where you are on your digital journey. Whether you’re looking to leverage our self-service platform or managed services, we’re ready to chat about your Display, CTV, Native, Audio, Video, DOOH, Search or Social advertising needs.
 
 [![Choozle Logo white](https://choozle.com/wp-content/uploads/2024/04/Choozle-Logo-white.png)](https://choozle.com/)
 
