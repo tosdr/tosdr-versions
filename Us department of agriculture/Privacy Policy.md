@@ -645,6 +645,18 @@ Press Release
 
 ![](/themes/custom/usda_uswds/img/USDA_logo.png)
 
+[USDA Makes Investments to Strengthen American Farms and Businesses, Increase Competition and Lower Costs](https://www.usda.gov/article/usda-makes-investments-strengthen-american-farms-and-businesses-increase-competition-and-lower-costs)
+
+December 18, 2024
+
+USDA Secretary Tom Vilsack today announced that USDA is making domestic fertilizer production investments in nine states to increase competition, lower fertilizer costs for American farmers and lower food costs for U.S. consumers.
+
+[Learn More](https://www.usda.gov/article/usda-makes-investments-strengthen-american-farms-and-businesses-increase-competition-and-lower-costs)
+
+Press Release
+
+![](/themes/custom/usda_uswds/img/USDA_logo.png)
+
 [USDA APHIS Shares Update on Seven New States Coming on Board for its National Milk Testing Strategy](https://www.usda.gov/article/usda-aphis-shares-update-seven-new-states-coming-board-its-national-milk-testing-strategy)
 
 December 17, 2024
@@ -676,18 +688,6 @@ December 17, 2024
 “Many people come to college but don’t know what they want to do,” said Reese Baker, U.S. Department of Agriculture (USDA) 1890 National Scholar and junior at Southern University A&M in Baton Rouge, Louisiana. Baker had also felt the same way until she changed her major and followed her passion for agriculture.
 
 [Learn More](https://www.usda.gov/about-usda/news/blog/2024/12/17/1890-national-scholar-works-improve-access-affordable-healthy-food)
-
-Press Release
-
-![](/themes/custom/usda_uswds/img/USDA_logo.png)
-
-[Biden-Harris Administration Continues to Deliver Affordable Clean Energy to Rural Americans as Part of Investing in America Agenda](https://www.usda.gov/article/biden-harris-administration-continues-deliver-affordable-clean-energy-rural-americans-part-investing)
-
-December 16, 2024
-
-U.S. Department of Agriculture (USDA) Secretary Tom Vilsack today announced $78.3 million in partially forgivable loans for clean energy projects through the Powering Affordable Clean Energy (PACE) program to help lower electricity bills for households.
-
-[Learn More](https://www.usda.gov/article/biden-harris-administration-continues-deliver-affordable-clean-energy-rural-americans-part-investing)
 
 ### AskUSDA
 
