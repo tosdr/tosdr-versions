@@ -26,43 +26,41 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-johnson-1200x630.jpg)](https://americanwirenews.com/mike-johnson-takes-major-heat-over-dumpster-fire-budget-bill-opposite-of-what-doges-trying-to-do/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-aurora-detention-1200x630.jpg)](https://americanwirenews.com/violent-illegal-alien-gang-used-denver-area-apartment-complex-as-torture-site/)
 
-[Mike Johnson takes major heat over ‘dumpster fire’ budget bill: ‘Opposite of what DOGE’s trying to do’](https://americanwirenews.com/mike-johnson-takes-major-heat-over-dumpster-fire-budget-bill-opposite-of-what-doges-trying-to-do/)
+[Violent illegal alien gang used Denver-area apartment complex as torture site](https://americanwirenews.com/violent-illegal-alien-gang-used-denver-area-apartment-complex-as-torture-site/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-soonshiong-1200x630.jpg)](https://americanwirenews.com/la-times-staffers-snap-back-against-owners-directive-to-take-a-break-from-trump-give-two-sides/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-cohenscottabbycnn-1200-x-628-1200x630.jpg)](https://americanwirenews.com/watch-scott-jennings-trigger-cnn-team-with-take-on-trump-suing-news-organizations/)
 
-[LA Times staffers snap back against owner’s directive to take a ‘break’ from Trump, give two sides](https://americanwirenews.com/la-times-staffers-snap-back-against-owners-directive-to-take-a-break-from-trump-give-two-sides/)
+[Watch Scott Jennings trigger CNN team with take on Trump suing news organizations](https://americanwirenews.com/watch-scott-jennings-trigger-cnn-team-with-take-on-trump-suing-news-organizations/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-biden-2-1200x630.jpg)](https://americanwirenews.com/unsettling-biden-brazenly-and-falsely-brags-he-got-100-hostages-out-of-gaza/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-sfvirgie-1200-x-628-1200x630.jpg)](https://americanwirenews.com/deep-blue-city-onboards-fat-positivity-expert-as-a-consultant-on-weight-stigma-and-neutrality/)
 
-[‘Unsettling’: Biden brazenly and falsely brags he got 100 hostages out of Gaza](https://americanwirenews.com/unsettling-biden-brazenly-and-falsely-brags-he-got-100-hostages-out-of-gaza/)
+[Deep Blue city onboards ‘fat positivity’ expert as a consultant on ‘weight stigma and neutrality’](https://americanwirenews.com/deep-blue-city-onboards-fat-positivity-expert-as-a-consultant-on-weight-stigma-and-neutrality/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-biden-speech-1-1200x630.jpg)](https://americanwirenews.com/biden-elicits-loads-of-ridicule-by-claiming-basically-scandal-free-campaign/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-trump-hair-1200x630.png)](https://americanwirenews.com/is-all-the-buzz-about-trumps-new-look-really-true/)
 
-[Biden elicits loads of ridicule by claiming ‘basically scandal free’ campaign](https://americanwirenews.com/biden-elicits-loads-of-ridicule-by-claiming-basically-scandal-free-campaign/)
+[All the buzz about Trump’s ‘new look’ … is it really true?](https://americanwirenews.com/is-all-the-buzz-about-trumps-new-look-really-true/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2022/03/RF-Getty-oops-surprised-delete-shocked-regret-e1622126785748-1200x630.jpg)](https://americanwirenews.com/see-how-that-works-no-calls-for-gun-control-after-murder-of-insurance-ceo-shocking-new-poll-might-explain-why/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-reid-aoc-pelosi-1200x630.jpg)](https://americanwirenews.com/joy-reid-takes-veiled-shot-at-pelosi-after-she-helped-sink-aocs-oversight-bid-progressives-mourn-the-loss/)
 
-Getty Images
+[Joy Reid takes veiled shot at Pelosi after she helped sink AOC’s Oversight bid, Progressives mourn the loss](https://americanwirenews.com/joy-reid-takes-veiled-shot-at-pelosi-after-she-helped-sink-aocs-oversight-bid-progressives-mourn-the-loss/)
 
-[‘See how that works?’ No calls for gun control after murder of insurance CEO, shocking new poll might explain why](https://americanwirenews.com/see-how-that-works-no-calls-for-gun-control-after-murder-of-insurance-ceo-shocking-new-poll-might-explain-why/)
+[![](https://americanwirenews.com/wp-content/uploads/2023/05/SG-Biden-Harris-1-1200x630.jpg)](https://americanwirenews.com/biden-seeking-to-hire-1200-dei-bureaucrats-before-he-leaves-office/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-putin-1200x630.jpg)](https://americanwirenews.com/russia-announces-vaccine-for-cancer-that-will-be-given-to-patients-for-free/)
+[Biden seeking to hire 1,200 ‘DEI bureaucrats’ before he leaves office](https://americanwirenews.com/biden-seeking-to-hire-1200-dei-bureaucrats-before-he-leaves-office/)
 
-[Russia announces vaccine for cancer that will be given to patients for free](https://americanwirenews.com/russia-announces-vaccine-for-cancer-that-will-be-given-to-patients-for-free/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-trumpwins-1200-x-628-1200x630.jpg)](https://americanwirenews.com/trump-issues-warning-to-gop-senators-about-fast-tracking-noms-no-deals-with-dems/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-kim-foxx-1200x630.jpg)](https://americanwirenews.com/jussie-smollett-states-attorney-kim-foxx-no-longer-authorized-to-practice-law-in-illinois/)
+[Trump issues warning to GOP senators about fast-tracking noms: ‘NO DEALS WITH DEMS …’](https://americanwirenews.com/trump-issues-warning-to-gop-senators-about-fast-tracking-noms-no-deals-with-dems/)
 
-[Jussie Smollett State’s Attorney Kim Foxx no longer authorized to practice law in Illinois](https://americanwirenews.com/jussie-smollett-states-attorney-kim-foxx-no-longer-authorized-to-practice-law-in-illinois/)
+[![](https://americanwirenews.com/wp-content/uploads/2022/08/SG-American-Airlines2-1200x630.png)](https://americanwirenews.com/major-airline-grounds-dei-hiring-policies-in-latest-woke-rollback/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/08/sg-tren-de-aragua-in-aurora-colorado-1200x630.jpg)](https://americanwirenews.com/trump-was-right-again-14-suspected-gang-members-arrested-in-aurora-co-victims-found-beaten-and-bound/)
+[Major airline grounds DEI hiring policies in latest ‘woke’ rollback](https://americanwirenews.com/major-airline-grounds-dei-hiring-policies-in-latest-woke-rollback/)
 
-[‘Trump was right again’: 14 suspected gang members arrested in Aurora, Co., victims found beaten and bound](https://americanwirenews.com/trump-was-right-again-14-suspected-gang-members-arrested-in-aurora-co-victims-found-beaten-and-bound/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-abcsteffy-1200-x-628-1200x630.jpg)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-cheney-1200x630.jpg)
-
-### Liz Cheney accused of witness tampering in J6 show trial, House Oversight demands FBI investigation](https://americanwirenews.com/liz-cheney-accused-of-witness-tampering-in-j6-show-trial-house-oversight-demands-fbi-investigation/)
+### Humiliated’ Stephanopoulos is ‘apoplectic’ over $16M Trump defamation settlement](https://americanwirenews.com/humiliated-stephanopoulos-is-apoplectic-over-16m-trump-defamation-settlement/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
