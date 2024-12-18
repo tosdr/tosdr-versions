@@ -8,7 +8,7 @@
 
 |     |     |
 | --- | --- |
-| **You are 1 of 349 active visitors** | **Tuesday, December 17, 2024** |
+| **You are 1 of 475 active visitors** | **Tuesday, December 17, 2024** |
 
 **EMAIL NEWS**![](/images/clear.gif)
 
@@ -109,7 +109,7 @@ Should you have questions or concerns relating to this Privacy Statement or comp
 |     |     |
 |     |     |    
 
- **QUOTES TO REMEMBER**Congress have no power to disarm the militia. Their swords, and every other terrible implement of the soldier, are the birthright of an American... The unlimited power of the sword is not in the hands of either the federal or state government, but, where I trust in God it will ever remain, in the hands of the people. � Tench Coxe, Pennsylvania Gazette, Feb. 20, 1788.
+ **QUOTES TO REMEMBER**You need only reflect that one of the best ways to get yourself a reputation as a dangerous citizen these days is to go about repeating the very phrases which our founding fathers used in the struggle for independence. �CHARLES A. BEARD
 
 **COPYRIGHT POLICY:** The posting of copyrighted articles and other content, in whole or in part, is not allowed here. We have made an effort to educate our users about this policy and we are extremely serious about this. Users who are caught violating this rule will be warned and/or banned.  
 If you are the owner of content that you believe has been posted on this site without your permission, [please contact our webmaster by following this link](http://keepandbeararms.com/about/contact_us.asp). Please include with your message: (1) the particulars of the infringement, including a description of the content, (2) a link to that content here and (3) information concerning where the content in question was originally posted/published. We will address your complaint as quickly as possible. Thank you.
