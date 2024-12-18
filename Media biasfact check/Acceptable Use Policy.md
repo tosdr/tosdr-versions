@@ -67,11 +67,11 @@
 
 MBFC News
 
+* [December 18, 2024 | Media News Daily: Top Stories for 12/18/2024](https://mediabiasfactcheck.com/2024/12/18/media-news-daily-top-stories-for-12-18-2024/ "Media News Daily: Top Stories for 12/18/2024")
+* [December 18, 2024 | MBFC’s Daily Vetted Fact Checks for 12/18/2024](https://mediabiasfactcheck.com/2024/12/18/mbfcs-daily-vetted-fact-checks-for-12-18-2024/ "MBFC’s Daily Vetted Fact Checks for 12/18/2024")
 * [December 17, 2024 | Media News Daily: Top Stories for 12/17/2024](https://mediabiasfactcheck.com/2024/12/17/media-news-daily-top-stories-for-12-17-2024/ "Media News Daily: Top Stories for 12/17/2024")
 * [December 17, 2024 | MBFC’s Daily Vetted Fact Checks for 12/17/2024](https://mediabiasfactcheck.com/2024/12/17/mbfcs-daily-vetted-fact-checks-for-12-17-2024/ "MBFC’s Daily Vetted Fact Checks for 12/17/2024")
 * [December 16, 2024 | Media News Daily: Top Stories for 12/16/2024](https://mediabiasfactcheck.com/2024/12/16/media-news-daily-top-stories-for-12-16-2024/ "Media News Daily: Top Stories for 12/16/2024")
-* [December 16, 2024 | MBFC’s Daily Vetted Fact Checks for 12/16/2024](https://mediabiasfactcheck.com/2024/12/16/mbfcs-daily-vetted-fact-checks-for-12-16-2024/ "MBFC’s Daily Vetted Fact Checks for 12/16/2024")
-* [December 15, 2024 | Source of the Week: AF Post](https://mediabiasfactcheck.com/2024/12/15/source-of-the-week-af-post/ "Source of the Week: AF Post")
 
 Search for:  
 
@@ -131,6 +131,10 @@ Last Updated on October 18, 2018 by Media Bias Fact Check
 
 #### Recently Added Sources or Pages
 
+* [Jewish Insider – Bias and Credibility](https://mediabiasfactcheck.com/jewish-insider-bias-and-credibility/)
+    
+    December 18, 2024
+    
 * [Berliner Morgenpost – Bias and Credibility](https://mediabiasfactcheck.com/berliner-morgenpost-bias-and-credibility/)
     
     December 17, 2024
@@ -159,13 +163,15 @@ Last Updated on October 18, 2018 by Media Bias Fact Check
     
     December 16, 2024
     
-* [Roanoke College Institute for Policy and Opinion Research – Bias and Credibility](https://mediabiasfactcheck.com/roanoke-college-institute-for-policy-and-opinion-research-bias-and-credibility/)
-    
-    December 16, 2024
-    
 
 #### Recently Updated Pages
 
+* [Right-Center Bias](https://mediabiasfactcheck.com/right-center/ "View Right-Center Bias") - December 18, 2024
+    
+* [Jewish Insider – Bias and Credibility](https://mediabiasfactcheck.com/jewish-insider-bias-and-credibility/ "View Jewish Insider – Bias and Credibility") - December 18, 2024
+    
+* [Crooked Media – Bias and Credibility](https://mediabiasfactcheck.com/crooked-media/ "View Crooked Media – Bias and Credibility") - December 18, 2024
+    
 * [Berliner Morgenpost – Bias and Credibility](https://mediabiasfactcheck.com/berliner-morgenpost-bias-and-credibility/ "View Berliner Morgenpost – Bias and Credibility") - December 17, 2024
     
 * [Pro-Science](https://mediabiasfactcheck.com/pro-science/ "View Pro-Science") - December 17, 2024
@@ -180,25 +186,19 @@ Last Updated on October 18, 2018 by Media Bias Fact Check
     
 * [Context – Bias and Credibility](https://mediabiasfactcheck.com/context-bias-and-credibility/ "View Context – Bias and Credibility") - December 17, 2024
     
-* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - December 17, 2024
-    
-* [Newbury Weekly News – Bias and Credibility](https://mediabiasfactcheck.com/newbury-weekly-news-bias/ "View Newbury Weekly News – Bias and Credibility") - December 17, 2024
-    
-* [C19proxalutamide.com – Bias and Credibility](https://mediabiasfactcheck.com/c19proxalutamide-com-bias/ "View C19proxalutamide.com – Bias and Credibility") - December 16, 2024
-    
 
 #### Today’s Top Page Views
 
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
 * [Least Biased](https://mediabiasfactcheck.com/center/)
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
-* [MBFC's Daily Vetted Fact Checks for 12/17/2024](https://mediabiasfactcheck.com/2024/12/17/mbfcs-daily-vetted-fact-checks-for-12-17-2024/)
+* [350.org - Bias and Credibility](https://mediabiasfactcheck.com/350-org-bias-and-credibility/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
+* [MBFC's Daily Vetted Fact Checks for 12/17/2024](https://mediabiasfactcheck.com/2024/12/17/mbfcs-daily-vetted-fact-checks-for-12-17-2024/)
 * [Byline Times - Bias and Credibility](https://mediabiasfactcheck.com/byline-times/)
 * [NewsNation - Bias and Credibility](https://mediabiasfactcheck.com/newsnation/)
-* [Membership Levels](https://mediabiasfactcheck.com/membership-account/membership-levels/)
 
 #### Subscribe via Email
 
