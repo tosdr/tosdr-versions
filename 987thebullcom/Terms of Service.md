@@ -212,11 +212,11 @@ Recently Played
 
 |     |
 | --- |
-| 4x4xuLainey Wilson<br><br>10:39pm |
-| What My World Spins AroundJordan Davis<br><br>10:36pm |
-| Ain'T No Love In OklahomaLuke Combs<br><br>10:33pm |
-| A Bar Song (Tipsy)Shaboozey<br><br>10:21pm |
-| Wind Up Missing YouTucker Wetmore<br><br>10:19pm |
+| Lies, Lies, LiesMorgan Wallen<br><br>4:38am |
+| The Good OnesGabby Barrett<br><br>4:34am |
+| Break Up With HimOld Dominion<br><br>4:31am |
+| I Could Be That RainRandall King<br><br>4:28am |
+| She Had Me At Heads CarolinaCole Swindell<br><br>4:24am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -360,21 +360,21 @@ State
 Featured Brands
 ---------------
 
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
-
-Sports • Midwest
-
 [![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
 
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
-
-Top 40 • Pacific NW
-
 [![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
 News Talk • Eastern
+
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+
+Sports • Midwest
+
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+
+Spanish • Western
 
 [](https://www.alphamediausa.com/)
 
