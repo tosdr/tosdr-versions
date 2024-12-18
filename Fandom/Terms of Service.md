@@ -5,7 +5,7 @@ Terms of Use
 
 PLEASE READ AND REVIEW THESE TERMS OF USE CAREFULLY BEFORE USING THIS WEBSITE.
 
-Date of Last Revision: November 16, 2024
+Date of Last Revision: 2/11/2023
 
 #### Who we are and how to contact us
 
@@ -192,4 +192,3 @@ The Terms of Use, together with the Terms of Sale and the Privacy Policy, is the
 #### Previous Terms of Use
 
 * [May 24, 2022](https://www.fandom.com/terms-of-use-previous-version-5-24-2022-2-11-2023)
-* [February 11, 2023](https://www.fandom.com/terms-of-use-previous-version-02-11-2023-11-16-2024)
