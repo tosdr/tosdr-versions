@@ -156,7 +156,7 @@ Designing where you want to go today
 
 [Donate](#donate)
 
-[![freeblr money hard money in the voluntaryist tradition](/freeblr/money/hard-money-in-the-voluntaryist-tradition/card.svg)](https://jarick.works/freeblr/money/hard-money-in-the-voluntaryist-tradition)[![freeblr government statist reasoning not me but everybody else](/freeblr/government/statist-reasoning-not-me-but-everybody-else/card.svg)](https://jarick.works/freeblr/government/statist-reasoning-not-me-but-everybody-else)[![hire](/hire/card.svg)](https://jarick.works/hire)[![freeblr faq are anarchists pacifists](/freeblr/faq/are-anarchists-pacifists/card.svg)](https://jarick.works/freeblr/faq/are-anarchists-pacifists)
+[![freeblr limited government no treason the constitution of no authority](/freeblr/limited-government/no-treason-the-constitution-of-no-authority/card.svg)](https://jarick.works/freeblr/limited-government/no-treason-the-constitution-of-no-authority)[![freeblr health meth and other drug war facts](/freeblr/health/meth-and-other-drug-war-facts/card.svg)](https://jarick.works/freeblr/health/meth-and-other-drug-war-facts)[![freeblr human nature a definition of freedom](/freeblr/human-nature/a-definition-of-freedom/card.svg)](https://jarick.works/freeblr/human-nature/a-definition-of-freedom)[![freeblr market competition and cooperation](/freeblr/market/competition-and-cooperation/card.svg)](https://jarick.works/freeblr/market/competition-and-cooperation)
 
 [Follow](#follow)
 
