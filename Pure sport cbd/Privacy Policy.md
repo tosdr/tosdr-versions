@@ -20,6 +20,8 @@ Update
 
 Check out
 
+[Order by 8pm 20th December for UK Christmas Delivery](https://puresportcbd.com/en-us/collections)
+
 [Free Salty Pace Tote with orders over £100](https://puresportcbd.com/en-us/collections)
 
 [Rated 4.9 stars (6000+ reviews)](https://puresportcbd.com/en-us/pages/reviews)
