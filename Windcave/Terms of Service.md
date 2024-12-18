@@ -59,9 +59,9 @@
 * [Login](https://sec.windcave.com/pxmi3/logon)
 * [Contact Us](https://www.windcave.com/contact-us)
 
-[](https://www.windcave.com/acquiring-terms-and-conditions)
+[](https://www.windcave.com/terms-and-conditions)
 
-#### [Acquiring Terms & Conditions >](https://www.windcave.com/acquiring-terms-and-conditions)
+#### [Terms and conditions of Windcave Solution >](https://www.windcave.com/terms-and-conditions)
 
 [](https://www.windcave.com/certifications-and-compliance)
 
@@ -71,9 +71,9 @@
 
 #### [End User License Agreement (EULA) >](https://www.windcave.com/eula)
 
-[](https://www.windcave.com/legal-notice)
+[](https://www.windcave.com/windcave-website-terms-of-use)
 
-#### [Legal Notice >](https://www.windcave.com/legal-notice)
+#### [Windcave Website Terms of Use >](https://www.windcave.com/windcave-website-terms-of-use)
 
 [](https://www.windcave.com/merchant-ecommerce-account2account-terms)
 
@@ -91,10 +91,6 @@
 
 #### [Public License >](https://www.windcave.com/public-license)
 
-[](https://www.windcave.com/terms-and-conditions)
-
-#### [Terms and conditions >](https://www.windcave.com/terms-and-conditions)
-
 Footer
 ======
 
@@ -107,9 +103,6 @@ Footer
 
 [End User License Agreement](https://www.windcave.com/eula)
 -----------------------------------------------------------
-
-[Legal Notice](https://www.windcave.com/legal-notice)
------------------------------------------------------
 
 [Account2Account Terms & Conditions](https://www.windcave.com/merchant-ecommerce-account2account-terms)
 -------------------------------------------------------------------------------------------------------
@@ -125,6 +118,9 @@ Footer
 
 [Terms and Conditions](https://www.windcave.com/terms-and-conditions)
 ---------------------------------------------------------------------
+
+[Windcave Website Terms of Use](https://www.windcave.com/windcave-website-terms-of-use)
+---------------------------------------------------------------------------------------
 
 [Windcave](https://www.windcave.com/)
 
