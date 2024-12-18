@@ -276,7 +276,7 @@ Subscribe
 ### Shop
 
 * [Multivitamin](https://ritual.com/shop/multivitamins)
-* [Pregnancy](https://ritual.com/shop/first-to-third-trimester)
+* [Pregnancy](https://ritual.com/shop/pregnancy)
 * [Gut Health](https://ritual.com/shop/gut-health)
 * [Skin](https://ritual.com/shop/skin)
 * [All](https://ritual.com/shop/daily-health)
