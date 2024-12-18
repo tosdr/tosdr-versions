@@ -309,18 +309,6 @@ _By_ [Ben Brubaker](https://www.quantamagazine.org/authors/brubaker_ben)
 
 _By_ [Charlie Wood](https://www.quantamagazine.org/authors/charlie-wood)
 
-[![Fish swimming with outlined brains and microbes within them](https://www.quantamagazine.org/wp-content/uploads/2024/12/FishBrainMicrobiome-cr.SamuelVelasco-Thumbnail.webp)](https://www.quantamagazine.org/fish-have-a-brain-microbiome-could-humans-have-one-too-20241202/)
-
-[#### Fish Have a Brain Microbiome. Could Humans Have One Too?](https://www.quantamagazine.org/fish-have-a-brain-microbiome-could-humans-have-one-too-20241202/)
-
-_By_ [Yasemin Saplakoglu](https://www.quantamagazine.org/authors/yasemin-saplakoglu)
-
-[![Bessis sitting at an outdoor café in Paris.](https://www.quantamagazine.org/wp-content/uploads/2024/11/QADavidBessis-crLaurenceGeai-Thumbnail.webp)](https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/)
-
-[#### Mathematical Thinking Isn’t What You Think It Is](https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/)
-
-_By_ [Kelsey Houston-Edwards](https://www.quantamagazine.org/authors/kelsey-houston-edwards)
-
 The Quanta Newsletter
 
 _Get highlights of the most important news delivered to your email inbox_
