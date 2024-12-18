@@ -1,4 +1,4 @@
-[Update 27 is almost here! Join us **tonight at 20:30 CET** to discover all that's new and improved.](https://www.bunq.com/assets/media/legal/en/update-27)
+[We just released the best version of our app yet at **bunq Update 27**. Check out all that's new and improved here.](https://www.bunq.com/assets/media/legal/en/update-27)
 
 ![](https://framerusercontent.com/images/DU7HAXnvm85IhmGAomOAGAZUlMY.svg)
 
@@ -20,7 +20,7 @@
 
 [Press](https://press.bunq.com/)
 
-[Update 27 is almost here! Join us **tonight at 20:30 CET** to discover all that's new and improved.](https://www.bunq.com/assets/media/legal/en/update-27)
+[We just released the best version of our app yet at **bunq Update 27**. Check out all that's new and improved here.](https://www.bunq.com/assets/media/legal/en/update-27)
 
 ![](https://framerusercontent.com/images/DU7HAXnvm85IhmGAomOAGAZUlMY.svg)
 
@@ -42,7 +42,7 @@
 
 [Press](https://press.bunq.com/)
 
-[Update 27 is almost here! Join us **tonight at 20:30 CET** to discover all that's new and improved.](https://www.bunq.com/assets/media/legal/en/update-27)
+[We just released the best version of our app yet at **bunq Update 27**. Check out all that's new and improved here.](https://www.bunq.com/assets/media/legal/en/update-27)
 
 ![](https://framerusercontent.com/images/DU7HAXnvm85IhmGAomOAGAZUlMY.svg)
 
