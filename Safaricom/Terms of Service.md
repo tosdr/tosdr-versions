@@ -229,6 +229,20 @@ out of 5 based on
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
+> Dec 17, 2024
+
+> Denise was fantastic in helping us…
+
+> Denise was fantastic in helping us organise our South African adventure. I recommend her to anyone travelling to South Africa who needs local knowledge and expertise.
+
+Kyle Fortune
+
+,
+
+NZ
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
 > Dec 14, 2024
 
 > I just booked another incredible…
@@ -338,20 +352,6 @@ JUDITH ANN
 ,
 
 US
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Dec 9, 2024
-
-> Great support from Shann
-
-> Shann made the booking experience seamless - provided very helpful information to ensure we fully understood what the experience would be like and made sure we felt safe with experiences we have booked.
-
-SUE And Bryson STEIN
-
-,
-
-AU
 
 VIP service
 
