@@ -10,7 +10,7 @@ Read our research on:
 
 * [Vaccines](https://www.pewresearch.org/topic/science/science-issues/medicine-health/vaccines/)
 * [Election 2024](https://www.pewresearch.org/topic/politics-policy/us-elections-voters/election-2024/)
-* [Immigrant Populations](https://www.pewresearch.org/topic/immigration-migration/immigrant-populations/)
+* [Social Media](https://www.pewresearch.org/topic/internet-technology/platforms-services/social-media/)
 
 [](https://www.pewresearch.org/)[](https://www.pewresearch.org/)[](https://www.pewresearch.org/decoded)
 
@@ -100,7 +100,7 @@ Search
     
     * [Vaccines](https://www.pewresearch.org/topic/science/science-issues/medicine-health/vaccines/)
     * [Election 2024](https://www.pewresearch.org/topic/politics-policy/us-elections-voters/election-2024/)
-    * [Immigrant Populations](https://www.pewresearch.org/topic/immigration-migration/immigrant-populations/)
+    * [Social Media](https://www.pewresearch.org/topic/internet-technology/platforms-services/social-media/)
     
 
 [Home](https://www.pewresearch.org/) [About Pew Research Center](https://www.pewresearch.org/about/) [Terms of Use](https://www.pewresearch.org/about/terms-and-conditions/)
