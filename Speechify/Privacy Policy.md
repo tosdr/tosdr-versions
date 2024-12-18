@@ -6,7 +6,7 @@
 
 [AI Voice Generator](https://speechify.com/ai-voice-generator/)
 
-[AI Voice API](https://speechify.com/api/)
+[TTS API](https://speechify.com/api/)
 
 [Teams](https://speechify.com/)
 
