@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Sonnen­creme fürs Gesicht: Teuer und nicht immer zuver­lässig](https://www.test.de/Sonnencreme-fuers-Gesicht-Teuer-und-nicht-immer-zuverlaessig-6120418-0/ "Sonnencreme fürs Gesicht - Teuer und nicht immer zuverlässig")
-* [Verpackungs­ärger: Augen­creme von Sebamed](https://www.test.de/Verpackungsaerger-Augencreme-von-Sebamed-6024655-0/ "Verpackungsärger - Augencreme von Sebamed")
-* [Football-Fans droht massive Preis­erhöhung: Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen](https://www.test.de/Massive-Preiserhoehung-fuer-Football-Fans-Teure-Touchdowns-bei-Dazn-wie-Sie-sich-wehren-6132954-0/ "Football-Fans droht massive Preiserhöhung - Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen")
-* [Dubioses Fest­geld: Vorsicht bei Spar-Global](https://www.test.de/Dubioses-Festgeld-Vorsicht-bei-Spar-Global-6149600-0/ "Dubioses Festgeld - Vorsicht bei Spar-Global")
-* [Sympatex-Anleihe: Ermitt­lungen nach Millionen­verlusten](https://www.test.de/Sympatex-Anleihe-Ermittlungen-nach-Millionenverlusten-6049424-0/ "Sympatex-Anleihe - Ermittlungen nach Millionenverlusten")
-* [Fake-Portal: Vorsicht vor der Seite „zins­vergleich“](https://www.test.de/Fake-Portal-Vorsicht-vor-der-Seite-zinsvergleich-6063646-0/ "Fake-Portal - Vorsicht vor der Seite „zinsvergleich“")
+* [Kapital­anleger-Muster­verfahren: Prozess um Schaden­ersatz für Wirecard-Anleger beginnt](https://www.test.de/Kapitalanleger-Musterverfahren-Einer-klagt-fuer-alle-6168143-0/ "Kapitalanleger-Musterverfahren - Prozess um Schadenersatz für Wirecard-Anleger beginnt")
+* [Deutsche Bahn: Neue Zugangs­regeln für DB-Lounge](https://www.test.de/Deutsche-Bahn-Neue-Zugangsregeln-fuer-DB-Lounge-5986611-0/ "Deutsche Bahn - Neue Zugangsregeln für DB-Lounge")
+* [Schnell­test Sprach­verstärker Oskar: Sprache beim Fernsehen besser verstehen](https://www.test.de/Schnelltest-Sprachverstaerker-Oskar-Sprache-beim-Fernsehen-besser-verstehen-5992192-0/ "Schnelltest Sprachverstärker Oskar - Sprache beim Fernsehen besser verstehen")
+* [Mutmacherin: Ein Sieg für alle Frauen](https://www.test.de/Mutmacherin-Ein-Sieg-fuer-alle-Frauen-6041286-0/ "Mutmacherin - Ein Sieg für alle Frauen")
+* [Krebs­versicherung der Hanse Merkur: Kranken­zusatz mit Haken](https://www.test.de/Krebsversicherung-der-Hanse-Merkur-Krankenzusatz-mit-Haken-6018375-0/ "Krebsversicherung der Hanse Merkur - Krankenzusatz mit Haken")
+* [Pizza­öfen im Test: Zu Hause italienisch genießen](https://www.test.de/Pizzaoefen-im-Test-Zu-Hause-italienisch-geniessen-6024589-0/ "Pizzaöfen im Test - Zu Hause italienisch genießen")
 
 Weitere Informationen
 
@@ -3871,12 +3871,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Sonnen­creme fürs Gesicht: Teuer und nicht immer zuver­lässig](https://www.test.de/Sonnencreme-fuers-Gesicht-Teuer-und-nicht-immer-zuverlaessig-6120418-0/ "Sonnencreme fürs Gesicht - Teuer und nicht immer zuverlässig")
-* [Verpackungs­ärger: Augen­creme von Sebamed](https://www.test.de/Verpackungsaerger-Augencreme-von-Sebamed-6024655-0/ "Verpackungsärger - Augencreme von Sebamed")
-* [Football-Fans droht massive Preis­erhöhung: Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen](https://www.test.de/Massive-Preiserhoehung-fuer-Football-Fans-Teure-Touchdowns-bei-Dazn-wie-Sie-sich-wehren-6132954-0/ "Football-Fans droht massive Preiserhöhung - Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen")
-* [Dubioses Fest­geld: Vorsicht bei Spar-Global](https://www.test.de/Dubioses-Festgeld-Vorsicht-bei-Spar-Global-6149600-0/ "Dubioses Festgeld - Vorsicht bei Spar-Global")
-* [Sympatex-Anleihe: Ermitt­lungen nach Millionen­verlusten](https://www.test.de/Sympatex-Anleihe-Ermittlungen-nach-Millionenverlusten-6049424-0/ "Sympatex-Anleihe - Ermittlungen nach Millionenverlusten")
-* [Fake-Portal: Vorsicht vor der Seite „zins­vergleich“](https://www.test.de/Fake-Portal-Vorsicht-vor-der-Seite-zinsvergleich-6063646-0/ "Fake-Portal - Vorsicht vor der Seite „zinsvergleich“")
+* [Kapital­anleger-Muster­verfahren: Prozess um Schaden­ersatz für Wirecard-Anleger beginnt](https://www.test.de/Kapitalanleger-Musterverfahren-Einer-klagt-fuer-alle-6168143-0/ "Kapitalanleger-Musterverfahren - Prozess um Schadenersatz für Wirecard-Anleger beginnt")
+* [Deutsche Bahn: Neue Zugangs­regeln für DB-Lounge](https://www.test.de/Deutsche-Bahn-Neue-Zugangsregeln-fuer-DB-Lounge-5986611-0/ "Deutsche Bahn - Neue Zugangsregeln für DB-Lounge")
+* [Schnell­test Sprach­verstärker Oskar: Sprache beim Fernsehen besser verstehen](https://www.test.de/Schnelltest-Sprachverstaerker-Oskar-Sprache-beim-Fernsehen-besser-verstehen-5992192-0/ "Schnelltest Sprachverstärker Oskar - Sprache beim Fernsehen besser verstehen")
+* [Mutmacherin: Ein Sieg für alle Frauen](https://www.test.de/Mutmacherin-Ein-Sieg-fuer-alle-Frauen-6041286-0/ "Mutmacherin - Ein Sieg für alle Frauen")
+* [Krebs­versicherung der Hanse Merkur: Kranken­zusatz mit Haken](https://www.test.de/Krebsversicherung-der-Hanse-Merkur-Krankenzusatz-mit-Haken-6018375-0/ "Krebsversicherung der Hanse Merkur - Krankenzusatz mit Haken")
+* [Pizza­öfen im Test: Zu Hause italienisch genießen](https://www.test.de/Pizzaoefen-im-Test-Zu-Hause-italienisch-geniessen-6024589-0/ "Pizzaöfen im Test - Zu Hause italienisch genießen")
 
 Weitere spannende Themen
 
@@ -3891,12 +3891,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Sonnen­creme fürs Gesicht: Teuer und nicht immer zuver­lässig](https://www.test.de/Sonnencreme-fuers-Gesicht-Teuer-und-nicht-immer-zuverlaessig-6120418-0/ "Sonnencreme fürs Gesicht - Teuer und nicht immer zuverlässig")
-* [Verpackungs­ärger: Augen­creme von Sebamed](https://www.test.de/Verpackungsaerger-Augencreme-von-Sebamed-6024655-0/ "Verpackungsärger - Augencreme von Sebamed")
-* [Football-Fans droht massive Preis­erhöhung: Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen](https://www.test.de/Massive-Preiserhoehung-fuer-Football-Fans-Teure-Touchdowns-bei-Dazn-wie-Sie-sich-wehren-6132954-0/ "Football-Fans droht massive Preiserhöhung - Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen")
-* [Dubioses Fest­geld: Vorsicht bei Spar-Global](https://www.test.de/Dubioses-Festgeld-Vorsicht-bei-Spar-Global-6149600-0/ "Dubioses Festgeld - Vorsicht bei Spar-Global")
-* [Sympatex-Anleihe: Ermitt­lungen nach Millionen­verlusten](https://www.test.de/Sympatex-Anleihe-Ermittlungen-nach-Millionenverlusten-6049424-0/ "Sympatex-Anleihe - Ermittlungen nach Millionenverlusten")
-* [Fake-Portal: Vorsicht vor der Seite „zins­vergleich“](https://www.test.de/Fake-Portal-Vorsicht-vor-der-Seite-zinsvergleich-6063646-0/ "Fake-Portal - Vorsicht vor der Seite „zinsvergleich“")
+* [Kapital­anleger-Muster­verfahren: Prozess um Schaden­ersatz für Wirecard-Anleger beginnt](https://www.test.de/Kapitalanleger-Musterverfahren-Einer-klagt-fuer-alle-6168143-0/ "Kapitalanleger-Musterverfahren - Prozess um Schadenersatz für Wirecard-Anleger beginnt")
+* [Deutsche Bahn: Neue Zugangs­regeln für DB-Lounge](https://www.test.de/Deutsche-Bahn-Neue-Zugangsregeln-fuer-DB-Lounge-5986611-0/ "Deutsche Bahn - Neue Zugangsregeln für DB-Lounge")
+* [Schnell­test Sprach­verstärker Oskar: Sprache beim Fernsehen besser verstehen](https://www.test.de/Schnelltest-Sprachverstaerker-Oskar-Sprache-beim-Fernsehen-besser-verstehen-5992192-0/ "Schnelltest Sprachverstärker Oskar - Sprache beim Fernsehen besser verstehen")
+* [Mutmacherin: Ein Sieg für alle Frauen](https://www.test.de/Mutmacherin-Ein-Sieg-fuer-alle-Frauen-6041286-0/ "Mutmacherin - Ein Sieg für alle Frauen")
+* [Krebs­versicherung der Hanse Merkur: Kranken­zusatz mit Haken](https://www.test.de/Krebsversicherung-der-Hanse-Merkur-Krankenzusatz-mit-Haken-6018375-0/ "Krebsversicherung der Hanse Merkur - Krankenzusatz mit Haken")
+* [Pizza­öfen im Test: Zu Hause italienisch genießen](https://www.test.de/Pizzaoefen-im-Test-Zu-Hause-italienisch-geniessen-6024589-0/ "Pizzaöfen im Test - Zu Hause italienisch genießen")
 
 Neueste Tests
 
@@ -3909,12 +3909,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Sonnen­creme fürs Gesicht: Teuer und nicht immer zuver­lässig](https://www.test.de/Sonnencreme-fuers-Gesicht-Teuer-und-nicht-immer-zuverlaessig-6120418-0/ "Sonnencreme fürs Gesicht - Teuer und nicht immer zuverlässig")
-* [Verpackungs­ärger: Augen­creme von Sebamed](https://www.test.de/Verpackungsaerger-Augencreme-von-Sebamed-6024655-0/ "Verpackungsärger - Augencreme von Sebamed")
-* [Football-Fans droht massive Preis­erhöhung: Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen](https://www.test.de/Massive-Preiserhoehung-fuer-Football-Fans-Teure-Touchdowns-bei-Dazn-wie-Sie-sich-wehren-6132954-0/ "Football-Fans droht massive Preiserhöhung - Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen")
-* [Dubioses Fest­geld: Vorsicht bei Spar-Global](https://www.test.de/Dubioses-Festgeld-Vorsicht-bei-Spar-Global-6149600-0/ "Dubioses Festgeld - Vorsicht bei Spar-Global")
-* [Sympatex-Anleihe: Ermitt­lungen nach Millionen­verlusten](https://www.test.de/Sympatex-Anleihe-Ermittlungen-nach-Millionenverlusten-6049424-0/ "Sympatex-Anleihe - Ermittlungen nach Millionenverlusten")
-* [Fake-Portal: Vorsicht vor der Seite „zins­vergleich“](https://www.test.de/Fake-Portal-Vorsicht-vor-der-Seite-zinsvergleich-6063646-0/ "Fake-Portal - Vorsicht vor der Seite „zinsvergleich“")
+* [Kapital­anleger-Muster­verfahren: Prozess um Schaden­ersatz für Wirecard-Anleger beginnt](https://www.test.de/Kapitalanleger-Musterverfahren-Einer-klagt-fuer-alle-6168143-0/ "Kapitalanleger-Musterverfahren - Prozess um Schadenersatz für Wirecard-Anleger beginnt")
+* [Deutsche Bahn: Neue Zugangs­regeln für DB-Lounge](https://www.test.de/Deutsche-Bahn-Neue-Zugangsregeln-fuer-DB-Lounge-5986611-0/ "Deutsche Bahn - Neue Zugangsregeln für DB-Lounge")
+* [Schnell­test Sprach­verstärker Oskar: Sprache beim Fernsehen besser verstehen](https://www.test.de/Schnelltest-Sprachverstaerker-Oskar-Sprache-beim-Fernsehen-besser-verstehen-5992192-0/ "Schnelltest Sprachverstärker Oskar - Sprache beim Fernsehen besser verstehen")
+* [Mutmacherin: Ein Sieg für alle Frauen](https://www.test.de/Mutmacherin-Ein-Sieg-fuer-alle-Frauen-6041286-0/ "Mutmacherin - Ein Sieg für alle Frauen")
+* [Krebs­versicherung der Hanse Merkur: Kranken­zusatz mit Haken](https://www.test.de/Krebsversicherung-der-Hanse-Merkur-Krankenzusatz-mit-Haken-6018375-0/ "Krebsversicherung der Hanse Merkur - Krankenzusatz mit Haken")
+* [Pizza­öfen im Test: Zu Hause italienisch genießen](https://www.test.de/Pizzaoefen-im-Test-Zu-Hause-italienisch-geniessen-6024589-0/ "Pizzaöfen im Test - Zu Hause italienisch genießen")
 
 Stiftung Warentest
 
