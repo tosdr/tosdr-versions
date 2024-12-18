@@ -383,7 +383,7 @@ Product category, brand navigation and general site naviation
         
     * Computers
         
-        Computers options - 7 groups of items - 45 total selections
+        Computers options - 7 groups of items - 46 total selections
         
         * Laptops & Tablets
             
@@ -393,6 +393,7 @@ Product category, brand navigation and general site naviation
             * [Apple Laptops](https://www.microcenter.com/category/4294967288,4294820432/macbook)
             * [iPads / Tablets](https://www.microcenter.com/category/4294954921/ipads-tablets)
             * [Refurbished Laptops](https://www.microcenter.com/category/4294967291,519/refurbished-laptops)
+            * [Microsoft Surface](https://www.microcenter.com/site/brands/microsoft-surface.aspx)
             * [Microsoft 365 Bundles](https://www.microcenter.com/site/brands/365-bundles.aspx)
         * Desktops
             
