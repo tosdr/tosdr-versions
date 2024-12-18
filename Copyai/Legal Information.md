@@ -76,7 +76,7 @@ FEATURED RESOURCES
 
 [Login](https://app.copy.ai/login)[Get a Demo
 
-Contact Sales](https://copy.ai/request-a-demo)
+Get a Demo](https://copy.ai/request-a-demo)
 
 [](#)
 
