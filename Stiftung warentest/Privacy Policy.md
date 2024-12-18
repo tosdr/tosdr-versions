@@ -808,21 +808,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Heiß­luft­fritteusen im Test: Auch güns­tige Airfryer liefern knusp­rige Pommes](https://www.test.de/Heissluftfritteusen-im-Test-5115675-0/ "Heißluftfritteusen im Test - Auch günstige Airfryer liefern knusprige Pommes")
 * [Räucherlachs im Test: Lachs ist wieder Luxus](https://www.test.de/Raeucherlachs-im-Test-Lachs-ist-wieder-Luxus-4797142-0/ "Räucherlachs im Test - Lachs ist wieder Luxus")
 * [Giro­konten im Vergleich: Null statt 300 Euro – 10 Konten sind kostenlos](https://www.test.de/Girokonto-im-Test-5069390-0/ "Girokonten im Vergleich - Null statt 300 Euro – 10 Konten sind kostenlos")
 * [Skihelme im Test: Aufprall­schutz mit und ohne Mips](https://www.test.de/Skihelme-mit-und-ohne-Mips-im-Test-1833538-0/ "Skihelme im Test - Aufprallschutz mit und ohne Mips")
 * [Inhaliergeräte im Test: Einatmen – aufatmen](https://www.test.de/Inhaliergeraete-im-Test-1532341-0/ "Inhaliergeräte im Test - Einatmen – aufatmen")
 * [Laptops im Test: Kräftig und kompakt – Notebooks, Ultra­books und Co](https://www.test.de/Tablets-mit-Tastatur-Notebooks-Ultrabooks-Convertibles-im-Test-4734961-0/ "Laptops im Test - Kräftig und kompakt – Notebooks, Ultrabooks und Co")
-* [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 
 test.de entdecken
 
-* [Fritzbox als Netz­werk­speicher: Private Cloud mit Fritzbox – ohne extra Netz­werk­speicher](https://www.test.de/Fritzbox-als-Netzwerkspeicher-Eine-guenstige-NAS-Alternative-mit-Abstrichen-6137663-0/ "Fritzbox als Netzwerkspeicher - Private Cloud mit Fritzbox – ohne extra Netzwerkspeicher")
-* [Tomaten im Test: Diese Sorten sind robust](https://www.test.de/Tomaten-im-Test-Diese-Sorten-sind-robust-6105389-0/ "Tomaten im Test - Diese Sorten sind robust")
-* [Börsen­weisheiten: Aktien und Fonds im Mai verkaufen – was ist dran?](https://www.test.de/Boersenweisheiten-Aktien-und-Fonds-im-Mai-verkaufen-was-ist-dran-5999173-0/ "Börsenweisheiten - Aktien und Fonds im Mai verkaufen – was ist dran?")
-* [Rück­ruf Babboe-Lastenfahr­räder: Nun auch Slim Mountain betroffen](https://www.test.de/Lastenfahrraeder-von-Babboe-Verkaufsstopp-und-Rueckruf-wegen-Rahmenbruechen-6098753-0/ "Rückruf Babboe-Lastenfahrräder - Nun auch Slim Mountain betroffen")
-* [E-Auto laden: Gratis Strom tanken? Nur noch selten](https://www.test.de/E-Auto-laden-Gratis-Strom-tanken-Nur-noch-selten-5970181-0/ "E-Auto laden - Gratis Strom tanken? Nur noch selten")
-* [Buy now, pay later: Ratenkauf mit Risiko](https://www.test.de/Ratenkauf-Risiko-Buy-now-pay-later-5979579-0/ "Buy now, pay later - Ratenkauf mit Risiko")
+* [Nahrungs­ergän­zungs­mittel für Stillende: Viele bieten nicht, was sie sollten](https://www.test.de/Nahrungsergaenzungsmittel-fuer-Stillende-Viele-bieten-nicht-was-sie-sollten-6017290-0/ "Nahrungsergänzungsmittel für Stillende - Viele bieten nicht, was sie sollten")
+* [Sommerreifen im Test: Die besten Sommerreifen aus den ADAC-Tests](https://www.test.de/Test-Sommerreifen-Die-besten-Sommerreifen-aus-den-ADAC-Tests-6045628-0/ "Sommerreifen im Test - Die besten Sommerreifen aus den ADAC-Tests")
+* [Fotos vom Smartphone auf dem Fernseher ansehen: So klappt die moderne Diashow](https://www.test.de/Fotos-vom-Smartphone-auf-dem-Fernseher-ansehen-So-klappt-die-moderne-Diashow-6049555-0/ "Fotos vom Smartphone auf dem Fernseher ansehen - So klappt die moderne Diashow")
+* [Verpackungs­ärger: Freche Freunde Müsliriegel](https://www.test.de/Verpackungsaerger-Freche-Freunde-Muesliriegel-6105762-0/ "Verpackungsärger - Freche Freunde Müsliriegel")
+* [Daten­schutz im Test: Was Laut­sprecher-Apps ausplaudern](https://www.test.de/Datenschutz-im-Test-Was-Lautsprecher-Apps-ausplaudern-6126264-0/ "Datenschutz im Test - Was Lautsprecher-Apps ausplaudern")
+* [Ergo­meter im Test: Heimtrainer mit deutlichen Schwächen](https://www.test.de/Ergometer-im-Test-Heimtrainer-mit-deutlichen-Schwaechen-6045811-0/ "Ergometer im Test - Heimtrainer mit deutlichen Schwächen")
 
 Weitere Informationen
 
@@ -3862,59 +3862,59 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Heiß­luft­fritteusen im Test: Auch güns­tige Airfryer liefern knusp­rige Pommes](https://www.test.de/Heissluftfritteusen-im-Test-5115675-0/ "Heißluftfritteusen im Test - Auch günstige Airfryer liefern knusprige Pommes")
 * [Räucherlachs im Test: Lachs ist wieder Luxus](https://www.test.de/Raeucherlachs-im-Test-Lachs-ist-wieder-Luxus-4797142-0/ "Räucherlachs im Test - Lachs ist wieder Luxus")
 * [Giro­konten im Vergleich: Null statt 300 Euro – 10 Konten sind kostenlos](https://www.test.de/Girokonto-im-Test-5069390-0/ "Girokonten im Vergleich - Null statt 300 Euro – 10 Konten sind kostenlos")
 * [Skihelme im Test: Aufprall­schutz mit und ohne Mips](https://www.test.de/Skihelme-mit-und-ohne-Mips-im-Test-1833538-0/ "Skihelme im Test - Aufprallschutz mit und ohne Mips")
 * [Inhaliergeräte im Test: Einatmen – aufatmen](https://www.test.de/Inhaliergeraete-im-Test-1532341-0/ "Inhaliergeräte im Test - Einatmen – aufatmen")
 * [Laptops im Test: Kräftig und kompakt – Notebooks, Ultra­books und Co](https://www.test.de/Tablets-mit-Tastatur-Notebooks-Ultrabooks-Convertibles-im-Test-4734961-0/ "Laptops im Test - Kräftig und kompakt – Notebooks, Ultrabooks und Co")
-* [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 
 test.de entdecken
 
-* [Fritzbox als Netz­werk­speicher: Private Cloud mit Fritzbox – ohne extra Netz­werk­speicher](https://www.test.de/Fritzbox-als-Netzwerkspeicher-Eine-guenstige-NAS-Alternative-mit-Abstrichen-6137663-0/ "Fritzbox als Netzwerkspeicher - Private Cloud mit Fritzbox – ohne extra Netzwerkspeicher")
-* [Tomaten im Test: Diese Sorten sind robust](https://www.test.de/Tomaten-im-Test-Diese-Sorten-sind-robust-6105389-0/ "Tomaten im Test - Diese Sorten sind robust")
-* [Börsen­weisheiten: Aktien und Fonds im Mai verkaufen – was ist dran?](https://www.test.de/Boersenweisheiten-Aktien-und-Fonds-im-Mai-verkaufen-was-ist-dran-5999173-0/ "Börsenweisheiten - Aktien und Fonds im Mai verkaufen – was ist dran?")
-* [Rück­ruf Babboe-Lastenfahr­räder: Nun auch Slim Mountain betroffen](https://www.test.de/Lastenfahrraeder-von-Babboe-Verkaufsstopp-und-Rueckruf-wegen-Rahmenbruechen-6098753-0/ "Rückruf Babboe-Lastenfahrräder - Nun auch Slim Mountain betroffen")
-* [E-Auto laden: Gratis Strom tanken? Nur noch selten](https://www.test.de/E-Auto-laden-Gratis-Strom-tanken-Nur-noch-selten-5970181-0/ "E-Auto laden - Gratis Strom tanken? Nur noch selten")
-* [Buy now, pay later: Ratenkauf mit Risiko](https://www.test.de/Ratenkauf-Risiko-Buy-now-pay-later-5979579-0/ "Buy now, pay later - Ratenkauf mit Risiko")
+* [Nahrungs­ergän­zungs­mittel für Stillende: Viele bieten nicht, was sie sollten](https://www.test.de/Nahrungsergaenzungsmittel-fuer-Stillende-Viele-bieten-nicht-was-sie-sollten-6017290-0/ "Nahrungsergänzungsmittel für Stillende - Viele bieten nicht, was sie sollten")
+* [Sommerreifen im Test: Die besten Sommerreifen aus den ADAC-Tests](https://www.test.de/Test-Sommerreifen-Die-besten-Sommerreifen-aus-den-ADAC-Tests-6045628-0/ "Sommerreifen im Test - Die besten Sommerreifen aus den ADAC-Tests")
+* [Fotos vom Smartphone auf dem Fernseher ansehen: So klappt die moderne Diashow](https://www.test.de/Fotos-vom-Smartphone-auf-dem-Fernseher-ansehen-So-klappt-die-moderne-Diashow-6049555-0/ "Fotos vom Smartphone auf dem Fernseher ansehen - So klappt die moderne Diashow")
+* [Verpackungs­ärger: Freche Freunde Müsliriegel](https://www.test.de/Verpackungsaerger-Freche-Freunde-Muesliriegel-6105762-0/ "Verpackungsärger - Freche Freunde Müsliriegel")
+* [Daten­schutz im Test: Was Laut­sprecher-Apps ausplaudern](https://www.test.de/Datenschutz-im-Test-Was-Lautsprecher-Apps-ausplaudern-6126264-0/ "Datenschutz im Test - Was Lautsprecher-Apps ausplaudern")
+* [Ergo­meter im Test: Heimtrainer mit deutlichen Schwächen](https://www.test.de/Ergometer-im-Test-Heimtrainer-mit-deutlichen-Schwaechen-6045811-0/ "Ergometer im Test - Heimtrainer mit deutlichen Schwächen")
 
 Weitere spannende Themen
 
 Neueste Tests
 
+* [Heiß­luft­fritteusen im Test: Auch güns­tige Airfryer liefern knusp­rige Pommes](https://www.test.de/Heissluftfritteusen-im-Test-5115675-0/ "Heißluftfritteusen im Test - Auch günstige Airfryer liefern knusprige Pommes")
 * [Räucherlachs im Test: Lachs ist wieder Luxus](https://www.test.de/Raeucherlachs-im-Test-Lachs-ist-wieder-Luxus-4797142-0/ "Räucherlachs im Test - Lachs ist wieder Luxus")
 * [Giro­konten im Vergleich: Null statt 300 Euro – 10 Konten sind kostenlos](https://www.test.de/Girokonto-im-Test-5069390-0/ "Girokonten im Vergleich - Null statt 300 Euro – 10 Konten sind kostenlos")
 * [Skihelme im Test: Aufprall­schutz mit und ohne Mips](https://www.test.de/Skihelme-mit-und-ohne-Mips-im-Test-1833538-0/ "Skihelme im Test - Aufprallschutz mit und ohne Mips")
 * [Inhaliergeräte im Test: Einatmen – aufatmen](https://www.test.de/Inhaliergeraete-im-Test-1532341-0/ "Inhaliergeräte im Test - Einatmen – aufatmen")
 * [Laptops im Test: Kräftig und kompakt – Notebooks, Ultra­books und Co](https://www.test.de/Tablets-mit-Tastatur-Notebooks-Ultrabooks-Convertibles-im-Test-4734961-0/ "Laptops im Test - Kräftig und kompakt – Notebooks, Ultrabooks und Co")
-* [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 
 test.de entdecken
 
-* [Fritzbox als Netz­werk­speicher: Private Cloud mit Fritzbox – ohne extra Netz­werk­speicher](https://www.test.de/Fritzbox-als-Netzwerkspeicher-Eine-guenstige-NAS-Alternative-mit-Abstrichen-6137663-0/ "Fritzbox als Netzwerkspeicher - Private Cloud mit Fritzbox – ohne extra Netzwerkspeicher")
-* [Tomaten im Test: Diese Sorten sind robust](https://www.test.de/Tomaten-im-Test-Diese-Sorten-sind-robust-6105389-0/ "Tomaten im Test - Diese Sorten sind robust")
-* [Börsen­weisheiten: Aktien und Fonds im Mai verkaufen – was ist dran?](https://www.test.de/Boersenweisheiten-Aktien-und-Fonds-im-Mai-verkaufen-was-ist-dran-5999173-0/ "Börsenweisheiten - Aktien und Fonds im Mai verkaufen – was ist dran?")
-* [Rück­ruf Babboe-Lastenfahr­räder: Nun auch Slim Mountain betroffen](https://www.test.de/Lastenfahrraeder-von-Babboe-Verkaufsstopp-und-Rueckruf-wegen-Rahmenbruechen-6098753-0/ "Rückruf Babboe-Lastenfahrräder - Nun auch Slim Mountain betroffen")
-* [E-Auto laden: Gratis Strom tanken? Nur noch selten](https://www.test.de/E-Auto-laden-Gratis-Strom-tanken-Nur-noch-selten-5970181-0/ "E-Auto laden - Gratis Strom tanken? Nur noch selten")
-* [Buy now, pay later: Ratenkauf mit Risiko](https://www.test.de/Ratenkauf-Risiko-Buy-now-pay-later-5979579-0/ "Buy now, pay later - Ratenkauf mit Risiko")
+* [Nahrungs­ergän­zungs­mittel für Stillende: Viele bieten nicht, was sie sollten](https://www.test.de/Nahrungsergaenzungsmittel-fuer-Stillende-Viele-bieten-nicht-was-sie-sollten-6017290-0/ "Nahrungsergänzungsmittel für Stillende - Viele bieten nicht, was sie sollten")
+* [Sommerreifen im Test: Die besten Sommerreifen aus den ADAC-Tests](https://www.test.de/Test-Sommerreifen-Die-besten-Sommerreifen-aus-den-ADAC-Tests-6045628-0/ "Sommerreifen im Test - Die besten Sommerreifen aus den ADAC-Tests")
+* [Fotos vom Smartphone auf dem Fernseher ansehen: So klappt die moderne Diashow](https://www.test.de/Fotos-vom-Smartphone-auf-dem-Fernseher-ansehen-So-klappt-die-moderne-Diashow-6049555-0/ "Fotos vom Smartphone auf dem Fernseher ansehen - So klappt die moderne Diashow")
+* [Verpackungs­ärger: Freche Freunde Müsliriegel](https://www.test.de/Verpackungsaerger-Freche-Freunde-Muesliriegel-6105762-0/ "Verpackungsärger - Freche Freunde Müsliriegel")
+* [Daten­schutz im Test: Was Laut­sprecher-Apps ausplaudern](https://www.test.de/Datenschutz-im-Test-Was-Lautsprecher-Apps-ausplaudern-6126264-0/ "Datenschutz im Test - Was Lautsprecher-Apps ausplaudern")
+* [Ergo­meter im Test: Heimtrainer mit deutlichen Schwächen](https://www.test.de/Ergometer-im-Test-Heimtrainer-mit-deutlichen-Schwaechen-6045811-0/ "Ergometer im Test - Heimtrainer mit deutlichen Schwächen")
 
 Neueste Tests
 
+* [Heiß­luft­fritteusen im Test: Auch güns­tige Airfryer liefern knusp­rige Pommes](https://www.test.de/Heissluftfritteusen-im-Test-5115675-0/ "Heißluftfritteusen im Test - Auch günstige Airfryer liefern knusprige Pommes")
 * [Räucherlachs im Test: Lachs ist wieder Luxus](https://www.test.de/Raeucherlachs-im-Test-Lachs-ist-wieder-Luxus-4797142-0/ "Räucherlachs im Test - Lachs ist wieder Luxus")
 * [Giro­konten im Vergleich: Null statt 300 Euro – 10 Konten sind kostenlos](https://www.test.de/Girokonto-im-Test-5069390-0/ "Girokonten im Vergleich - Null statt 300 Euro – 10 Konten sind kostenlos")
 * [Skihelme im Test: Aufprall­schutz mit und ohne Mips](https://www.test.de/Skihelme-mit-und-ohne-Mips-im-Test-1833538-0/ "Skihelme im Test - Aufprallschutz mit und ohne Mips")
 * [Inhaliergeräte im Test: Einatmen – aufatmen](https://www.test.de/Inhaliergeraete-im-Test-1532341-0/ "Inhaliergeräte im Test - Einatmen – aufatmen")
 * [Laptops im Test: Kräftig und kompakt – Notebooks, Ultra­books und Co](https://www.test.de/Tablets-mit-Tastatur-Notebooks-Ultrabooks-Convertibles-im-Test-4734961-0/ "Laptops im Test - Kräftig und kompakt – Notebooks, Ultrabooks und Co")
-* [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 
 test.de entdecken
 
-* [Fritzbox als Netz­werk­speicher: Private Cloud mit Fritzbox – ohne extra Netz­werk­speicher](https://www.test.de/Fritzbox-als-Netzwerkspeicher-Eine-guenstige-NAS-Alternative-mit-Abstrichen-6137663-0/ "Fritzbox als Netzwerkspeicher - Private Cloud mit Fritzbox – ohne extra Netzwerkspeicher")
-* [Tomaten im Test: Diese Sorten sind robust](https://www.test.de/Tomaten-im-Test-Diese-Sorten-sind-robust-6105389-0/ "Tomaten im Test - Diese Sorten sind robust")
-* [Börsen­weisheiten: Aktien und Fonds im Mai verkaufen – was ist dran?](https://www.test.de/Boersenweisheiten-Aktien-und-Fonds-im-Mai-verkaufen-was-ist-dran-5999173-0/ "Börsenweisheiten - Aktien und Fonds im Mai verkaufen – was ist dran?")
-* [Rück­ruf Babboe-Lastenfahr­räder: Nun auch Slim Mountain betroffen](https://www.test.de/Lastenfahrraeder-von-Babboe-Verkaufsstopp-und-Rueckruf-wegen-Rahmenbruechen-6098753-0/ "Rückruf Babboe-Lastenfahrräder - Nun auch Slim Mountain betroffen")
-* [E-Auto laden: Gratis Strom tanken? Nur noch selten](https://www.test.de/E-Auto-laden-Gratis-Strom-tanken-Nur-noch-selten-5970181-0/ "E-Auto laden - Gratis Strom tanken? Nur noch selten")
-* [Buy now, pay later: Ratenkauf mit Risiko](https://www.test.de/Ratenkauf-Risiko-Buy-now-pay-later-5979579-0/ "Buy now, pay later - Ratenkauf mit Risiko")
+* [Nahrungs­ergän­zungs­mittel für Stillende: Viele bieten nicht, was sie sollten](https://www.test.de/Nahrungsergaenzungsmittel-fuer-Stillende-Viele-bieten-nicht-was-sie-sollten-6017290-0/ "Nahrungsergänzungsmittel für Stillende - Viele bieten nicht, was sie sollten")
+* [Sommerreifen im Test: Die besten Sommerreifen aus den ADAC-Tests](https://www.test.de/Test-Sommerreifen-Die-besten-Sommerreifen-aus-den-ADAC-Tests-6045628-0/ "Sommerreifen im Test - Die besten Sommerreifen aus den ADAC-Tests")
+* [Fotos vom Smartphone auf dem Fernseher ansehen: So klappt die moderne Diashow](https://www.test.de/Fotos-vom-Smartphone-auf-dem-Fernseher-ansehen-So-klappt-die-moderne-Diashow-6049555-0/ "Fotos vom Smartphone auf dem Fernseher ansehen - So klappt die moderne Diashow")
+* [Verpackungs­ärger: Freche Freunde Müsliriegel](https://www.test.de/Verpackungsaerger-Freche-Freunde-Muesliriegel-6105762-0/ "Verpackungsärger - Freche Freunde Müsliriegel")
+* [Daten­schutz im Test: Was Laut­sprecher-Apps ausplaudern](https://www.test.de/Datenschutz-im-Test-Was-Lautsprecher-Apps-ausplaudern-6126264-0/ "Datenschutz im Test - Was Lautsprecher-Apps ausplaudern")
+* [Ergo­meter im Test: Heimtrainer mit deutlichen Schwächen](https://www.test.de/Ergometer-im-Test-Heimtrainer-mit-deutlichen-Schwaechen-6045811-0/ "Ergometer im Test - Heimtrainer mit deutlichen Schwächen")
 
 Stiftung Warentest
 
