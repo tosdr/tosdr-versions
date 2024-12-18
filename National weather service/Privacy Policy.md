@@ -27,14 +27,14 @@
     
 * [SAFETY](https://www.weather.gov/safety/)
     
-    * [Tsunamis](https://www.weather.gov/safety/tsunami)
     * [Floods](https://www.weather.gov/safety/flood)
+    * [Tsunamis](https://www.weather.gov/safety/tsunami)
     * [Beach Hazards](https://www.weather.gov/safety/beachhazards)
     * [Wildfire](https://www.weather.gov/safety/wildfire)
     * [Cold](https://www.weather.gov/safety/cold)
     * [Tornadoes](https://www.weather.gov/safety/tornado)
-    * [Fog](https://www.weather.gov/safety/fog)
     * [Air Quality](https://www.weather.gov/safety/airquality)
+    * [Fog](https://www.weather.gov/safety/fog)
     * [Heat](https://www.weather.gov/safety/heat)
     * [Hurricanes](https://www.weather.gov/safety/hurricane)
     * [Lightning](https://www.weather.gov/safety/lightning)
