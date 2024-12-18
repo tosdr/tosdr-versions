@@ -36,6 +36,9 @@
         
         Clop ransomware claims responsibility for Cleo data theft attacks](https://www.bleepingcomputer.com/news/security/clop-ransomware-claims-responsibility-for-cleo-data-theft-attacks/)
     
+    * [![This open-box 2024 Lenovo IdeaPad 5i that can be yours for $580](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        This open-box 2024 Lenovo IdeaPad 5i that can be yours for $580](https://www.bleepingcomputer.com/offer/deals/this-open-box-2024-lenovo-ideapad-5i-that-can-be-yours-for-580/)
     * [![NVIDIA shares fix for game performance issues with new NVIDIA App](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         NVIDIA shares fix for game performance issues with new NVIDIA App](https://www.bleepingcomputer.com/news/software/nvidia-shares-fix-for-game-performance-issues-with-new-nvidia-app/)
@@ -45,9 +48,6 @@
     * [![New fake Ledger data breach emails try to steal crypto wallets ](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         New fake Ledger data breach emails try to steal crypto wallets](https://www.bleepingcomputer.com/news/security/new-fake-ledger-data-breach-emails-try-to-steal-crypto-wallets/)
-    * [![CISA orders federal agencies to secure Microsoft 365 tenants](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        CISA orders federal agencies to secure Microsoft 365 tenants](https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-secure-microsoft-365-tenants/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
