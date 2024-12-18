@@ -88,13 +88,13 @@ Most Read
     
     1. [Huge math error corrected in black plastic study; authors say it doesn’t matter](https://arstechnica.com/health/2024/12/huge-math-error-corrected-in-black-plastic-study-authors-say-it-doesnt-matter/)
     
-2. 2. [Trump FCC chair wants to revoke broadcast licenses—the 1st Amendment might stop him](https://arstechnica.com/tech-policy/2024/12/trumps-fcc-chair-can-hassle-the-living-daylights-out-of-news-broadcasters/)
+2. 2. [Report: Elon Musk failed to report movement required by security clearance](https://arstechnica.com/space/2024/12/report-elon-musk-failed-to-report-movement-required-by-security-clearance/)
     
-3. 3. [After decades of talk, Seagate seems ready to actually drop the HAMR hard drives](https://arstechnica.com/gadgets/2024/12/after-decades-of-talk-seagate-seems-ready-to-actually-drop-the-hamr-hard-drives/)
+3. 3. [“Unprecedented” decline in teen drug use continues, surprising experts](https://arstechnica.com/health/2024/12/the-kids-are-maybe-alright-teen-drug-use-hits-new-lows-in-ongoing-decline/)
     
-4. 4. [Big loss for ISPs as Supreme Court won’t hear challenge to $15 broadband law](https://arstechnica.com/tech-policy/2024/12/big-loss-for-isps-as-supreme-court-wont-hear-challenge-to-15-broadband-law/)
+4. 4. [After decades of talk, Seagate seems ready to actually drop the HAMR hard drives](https://arstechnica.com/gadgets/2024/12/after-decades-of-talk-seagate-seems-ready-to-actually-drop-the-hamr-hard-drives/)
     
-5. 5. [Report: Elon Musk failed to report movement required by security clearance](https://arstechnica.com/space/2024/12/report-elon-musk-failed-to-report-movement-required-by-security-clearance/)
+5. 5. [Big loss for ISPs as Supreme Court won’t hear challenge to $15 broadband law](https://arstechnica.com/tech-policy/2024/12/big-loss-for-isps-as-supreme-court-wont-hear-challenge-to-15-broadband-law/)
     
 
 Customize
