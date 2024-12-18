@@ -1,48 +1,48 @@
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=11398210&cs_ucfr=1&cv=4.4.0&cj=1) />
 
-##### SENSEX   81,749.07
+##### SENSEX   80,182.20
 
- -384.05
+ -502.25
 
-##### NIFTY   24,660.50
+##### NIFTY   24,198.85
 
- -107.80
+ -137.15
 
-##### CRUDEOIL   6,001.00
+##### CRUDEOIL   6,019.00
 
- -41.00
++ 89.00
 
-##### GOLD   77,200.00
+##### GOLD   76,642.00
 
-+ 64.00
+ -229.00
 
-##### SILVER   91,289.00
+##### SILVER   90,418.00
 
-+ 288.00
+ -457.00
 
-##### SENSEX   81,749.07
+##### SENSEX   80,182.20
 
- -384.05
+ -502.25
 
-##### NIFTY   24,660.50
+##### NIFTY   24,198.85
 
- -107.80
+ -137.15
 
-##### NIFTY   24,660.50
+##### NIFTY   24,198.85
 
- -107.80
+ -137.15
 
-##### CRUDEOIL   6,001.00
+##### CRUDEOIL   6,019.00
 
- -41.00
++ 89.00
 
-##### CRUDEOIL   6,001.00
+##### CRUDEOIL   6,019.00
 
- -41.00
++ 89.00
 
-##### GOLD   77,200.00
+##### GOLD   76,642.00
 
-+ 64.00
+ -229.00
 
 [![Businessline Logo](https://assetsbl.thehindubusinessline.com/theme/images/bl-online/logo.svg)](https://www.thehindubusinessline.com/)
 
@@ -195,6 +195,7 @@ TO ENJOY ADDITIONAL BENEFITS
 * #####  [Companies](https://www.thehindubusinessline.com/companies/)
     
     * [MSME](https://www.thehindubusinessline.com/companies/msme/) 
+    * [Companies Index](https://www.thehindubusinessline.com/companies/index/) 
 * #####  [Info-tech](https://www.thehindubusinessline.com/info-tech/)
     
     * [Computers & Laptops](https://www.thehindubusinessline.com/info-tech/computers-and-laptops/) 
@@ -707,15 +708,15 @@ The Courts in Chennai in India shall have the exclusive jurisdiction to the excl
 
 ##### Trending on businessline
 
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Stock Market Live](https://www.thehindubusinessline.com/markets/share-market-nifty-sensex-live-updates-3-december-2024/article68938705.ece)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Mobikwik IPO Live](https://www.thehindubusinessline.com/markets/stock-markets/one-mobikwik-systems-ipo-gmp-live-updates/article68969291.ece)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Vishal Mega Mart IPO](https://www.thehindubusinessline.com/markets/stock-markets/vishal-mega-mart-ipo-gmp-live-updates/article68969239.ece)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Stock Market Live](https://www.thehindubusinessline.com/markets/share-market-nifty-sensex-live-updates-18-december-2024/article68995819.ece)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Chennai Rains Live](https://www.thehindubusinessline.com/economy/agri-business/chennai-rains-live-news-tamil-nadu-weather-imd-predicts-heavy-rainfall-live-news-updates/article68998810.ece)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Vishal Mega Mart IPO Live](https://www.thehindubusinessline.com/markets/stock-markets/vishal-mega-mart-ipo-gmp-listing-today-share-price-live-updates/article68995128.ece)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Mobikwik IPO Live](https://www.thehindubusinessline.com/markets/stock-markets/one-mobikwik-systems-ipo-gmp-listing-today-share-price-live-updates/article68995113.ece)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Sai Life Science IPO News](https://www.thehindubusinessline.com/markets/stock-markets/sai-life-sciences-ipo-purple-united-sales-ipo-supreme-facility-management-ipo-listing-live-updates/article68995139.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) IPO News Live](https://www.thehindubusinessline.com/markets/stock-markets/suraksha-diagnostic-ganesh-infraworld-ipo-subscription-news-today-live-updates-3-dec-2024/article68941111.ece)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Top Business News Live](https://www.thehindubusinessline.com/companies/latest-business-news-today-live-updates-3-december-2024/article68918965.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) RBI MPC Meeting 2024](https://www.thehindubusinessline.com/money-and-banking/rbi-monetary-policy-committee-mpc-meeting-december-2024-live-news-shaktikanta-das-repo-rate-latest-updates/article68946864.ece)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Maharashtra Election Results 2024 Live](https://www.thehindubusinessline.com/news/maharashtra-assembly-election-results-2024-live-news-updates/article68899648.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Delhi Air Pollution Live](https://www.thehindubusinessline.com/news/national/delhi-weather-temperature-delhi-ncr-aqi-air-quality-pollution-live-updates-today-20-nov-2024/article68880880.ece)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) IPL Auction 2025 Day 1 Live](https://www.thehindubusinessline.com/news/sports/ipl-2025-mega-auction-live-news-updates/article68902386.ece)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) IPL Auction 2025](https://www.thehindubusinessline.com/news/sports/ipl-2025-mega-auction-live-news-updates/article68902386.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) RBI Monetary Policy Live](https://www.thehindubusinessline.com/money-and-banking/rbi-monetary-policy-committee-mpc-meeting-october-2024-live-news-updates/article68732719.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Nifty Prediction Today](https://www.thehindubusinessline.com/portfolio/technical-analysis/nifty-prediction-todaymarch-20-2024-bears-gain-traction-consider-shorts/article67971033.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Find Voter ID Number Online](https://www.thehindubusinessline.com/info-tech/how-to/how-to-find-voter-id-number-online/article66664192.ece)
