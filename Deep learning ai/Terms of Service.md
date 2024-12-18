@@ -1,4 +1,4 @@
-✨ New course! Enroll in [Collaborative Writing and Coding with OpenAI Canvas](https://bit.ly/3OrYgy3)
+✨ New course! Enroll in [Reasoning with o1](https://bit.ly/3ZXjdrf)
 
 [](https://www.deeplearning.ai/)
 
