@@ -28,7 +28,7 @@ Sign in with Google](https://xhamster.com/login-google?source=base)
 
 [Videos](https://xhamster.com/)
 
-[Live Sex](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&p1=cold&xhStatsUid=6762a30e103967.896755032c1&xhSessionToken=cc9f17b8334f0982bf50b318e3890e2f93931c9e&xhSessionStartedAt=1734517518)
+[Live Sex](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&p1=cold&xhStatsUid=6762f984c89833.79428254254&xhSessionToken=4809b1dfb6f85708f9cc22f6139ece3a688f138b&xhSessionStartedAt=1734539652)
 
 [Categories](https://xhamster.com/categories)
 
@@ -60,7 +60,7 @@ AI Girlfriend](https://lovescape.com/?userId=9841b8dfe0948b15d2ade18982de21bd512
 
 * [Upload](https://xhamster.com/creator-signup?source=uploadHeader)
 
-[Bored of PORN? 😈 Jerk off with REAL GIRLS in video chat TRY FOR FREE](https://xhamsterflirt.com/?utm_source=xhamster-headline&utm_medium=all-pages)
+[+14 MONTHS FREE 🌟🎄🎅 Grab the Once-a-Year Offer 🔥 JOIN FAPHOUSE](https://faphouse.com/?utm_source=xhamster-headline&utm_campaign=christmas-2024&utm_medium=desktop-headline)
 
 Privacy Policy
 ==============
