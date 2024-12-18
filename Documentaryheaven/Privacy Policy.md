@@ -128,39 +128,39 @@ Advertisement
     Why We Bang
     
     The film, Why We Bang, produced and directed by Orlando Myrics and Clifford Jordan for Ghetto Logik Entertainment is an independent film that documents the historical background of LA's Bloods and Cri...](https://documentaryheaven.com/why-we-bang/ "Why We Bang")
-* [![Shock and Awe: The Story of Electricity](/wp-content/thumbnails/14290-100x70.jpg?x53432)
+* [![Behind the Music: Rod Stewart](/wp-content/thumbnails/13712-100x70.jpg?x53432)
     
-    Shock and Awe: The Story of Electricity
+    Behind the Music: Rod Stewart
     
-    A three part documentary series which see's Professor Jim Al-Khalili tell  the story of our quest to master the power of electricity.The three episodes are condensed into one video here, see the t...](https://documentaryheaven.com/shock-awe-story-of-electricity/ "Shock and Awe: The Story of Electricity")
+    Rod Stewart was a rising young Rock n' Roll idol in the fall of 1971 with a No. 1 song and a No. 1 album on both sides of the atlantic. Three decades later after all the bands, blues, breakups and blo...](https://documentaryheaven.com/behind-music-rod-stewart/ "Behind the Music: Rod Stewart")
 
 ###### Throwback Documentaries
 
-* [![Africa’s Moonshine Epidemic](/wp-content/thumbnails/6794-100x70.jpg?x53432)
+* [![Warren Buffett Revealed](/wp-content/thumbnails/6711-100x70.jpg?x53432)
     
-    Africa’s Moonshine Epidemic
+    Warren Buffett Revealed
     
-    Ugandans are the hardest drinking Africans in the motherland, both in terms of per capita consumption and the hooch they choose to chug. Waregi, or "war gin," is what they call the local moonshine, an](https://documentaryheaven.com/africas-moonshine-epidemic/ "Africa’s Moonshine Epidemic")
-* [![UFO: New Evidence](/wp-content/thumbnails/6867-100x70.jpg?x53432)
+    Now in his eighties, Buffett has – for decades – held an unparalleled position in American finance. He is not only a legendary investor with an astounding success rate, and a billionaire forty times o](https://documentaryheaven.com/warren-buffett-revealed/ "Warren Buffett Revealed")
+* [![The Spy in the IRA](/wp-content/thumbnails/13532-100x70.jpg?x53432)
     
-    UFO: New Evidence
+    The Spy in the IRA
     
-    Are aliens really out there? You've heard tales of little green men from other planets, but these are normally consigned to urban legends and sci-fi fables. However, a dossier of files released by the](https://documentaryheaven.com/ufo-new-evidence/ "UFO: New Evidence")
-* [![EP6/6 How TV Ruined Your Life](/wp-content/thumbnails/5783-100x70.jpg?x53432)
+    In the Northern Irish conflict spying was a very dangerous game, through recordings obtained by Panorama the IRA's chief interrogator explains how he extracted information from informers before they w](https://documentaryheaven.com/spy-ira/ "The Spy in the IRA")
+* [![Among the Sex Offenders](/wp-content/thumbnails/8917-100x70.jpg?x53432)
     
-    EP6/6 How TV Ruined Your Life
+    Among the Sex Offenders
     
-    Knowledge Charlie Brooker traces how TV’s notion of knowledge has changed from bespectacled experts to celebrity presenter drivel. Warning: this episode contains an alien meeting with Danny Dyer and](https://documentaryheaven.com/how-tv-ruined-your-life-6/ "EP6/6 How TV Ruined Your Life")
-* [![Major Fraud: Who Wants To Be A Millionaire](/wp-content/thumbnails/12851-100x70.jpg?x53432)
+    Louis Theroux has spent the last few months filming a series of documentaries titled "LA Stories", this particular film "Among The Sex Offenders" is the final episode to air. Louis takes a look a](https://documentaryheaven.com/among-sex-offenders/ "Among the Sex Offenders")
+* [![Behind The Music: Oasis](/wp-content/thumbnails/10102-100x70.jpg?x53432)
     
-    Major Fraud: Who Wants To Be A Millionaire
+    Behind The Music: Oasis
     
-    Charles Ingram is a former British Army major who had made headlines worldwide after being convicted of cheating to win the jackpot of one million pounds on the British television gameshow Who Wants T](https://documentaryheaven.com/major-fraud/ "Major Fraud: Who Wants To Be A Millionaire")
-* [![Syble Hopp: A Documentary](/wp-content/thumbnails/5735-100x70.jpg?x53432)
+    The band Oasis revolved around the brothers Gallagher who's volatile relationship has been acted out in front of the press but before taking shots at one another they endure blows from an explosive an](https://documentaryheaven.com/behind-music-oasis/ "Behind The Music: Oasis")
+* [![Chazz Petrella: The Boy Who Should Have Lived](/wp-content/thumbnails/12589-100x70.jpg?x53432)
     
-    Syble Hopp: A Documentary
+    Chazz Petrella: The Boy Who Should Have Lived
     
-    In DePere, Wisconsin there is a school that exists because of one person. This is that story.](https://documentaryheaven.com/syble-hopp-a-documentary/ "Syble Hopp: A Documentary")
+    Having grown up in Cobourg, Ontario, with a loving family which included four older siblings, Chazz Petrella seemed to have an idyllic childhood. He was big into skateboarding and sports in general, l](https://documentaryheaven.com/chazz-petrella-boy-who-should-have-lived/ "Chazz Petrella: The Boy Who Should Have Lived")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
