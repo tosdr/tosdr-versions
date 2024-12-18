@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/large-display-stave-6xa4-pages/)
+ [](https://schoolsmusicmarket.com/product/composition-stimuli-mood-boards/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/ambient-music-presentation/)
+ [](https://schoolsmusicmarket.com/product/exploring-hip-hop-bass-lines/)
 
 ###### Browse By Year/Grade
 
