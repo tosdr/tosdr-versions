@@ -130,105 +130,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![Luã Vinícius](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1258113.thumb.jpeg.1c77f72588ce8e21e6909dbd1c41a241.jpeg)](https://www.clubedohardware.com.br/profile/1258113-lu%C3%A3-vin%C3%ADcius/ "Ir ao perfil de Luã Vinícius")
+    * [![nagzx](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1258123.thumb.png.55f4521c9995d5b6342cffafcff24300.png)](https://www.clubedohardware.com.br/profile/1258123-nagzx/ "Ir ao perfil de nagzx")
+        
+        0
+        
+        [Fonte recomendada para essa configuração.](https://www.clubedohardware.com.br/forums/topic/1705931-fonte-recomendada-para-essa-configura%C3%A7%C3%A3o/?do=getNewComment "Fonte recomendada para essa configuração.")
+        
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [nagzx](https://www.clubedohardware.com.br/profile/1258123-nagzx/ "Ir ao perfil de nagzx")  
+        10 minutos atrás
+        
+    * [![Marthy](https://www.clubedohardware.com.br/uploads/members/monthly_2023_10/imported-photo-1230200.thumb.png.ed0b9baeef2061719405afdf75917a0d.png)](https://www.clubedohardware.com.br/profile/1230200-marthy/ "Ir ao perfil de Marthy")
+        
+        0
+        
+        [Diferença de estabilidade da velocidade de download na Steam em diferentes SSDs](https://www.clubedohardware.com.br/forums/topic/1705930-diferen%C3%A7a-de-estabilidade-da-velocidade-de-download-na-steam-em-diferentes-ssds/?do=getNewComment "Diferença de estabilidade da velocidade de download na Steam em diferentes SSDs")
+        
+        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
+        Por [Marthy](https://www.clubedohardware.com.br/profile/1230200-marthy/ "Ir ao perfil de Marthy")  
+        1 hora atrás
+        
+    * [![Kakauz3](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1250112.thumb.png.c41b34a0b0bde495a71e288eec67c7eb.png)](https://www.clubedohardware.com.br/profile/1250112-kakauz3/ "Ir ao perfil de Kakauz3")
+        
+        0
+        
+        [Placa-mãe Positivo H61 compatível com RX 550 e Xeon e3 1230 v2?](https://www.clubedohardware.com.br/forums/topic/1705928-placa-m%C3%A3e-positivo-h61-compat%C3%ADvel-com-rx-550-e-xeon-e3-1230-v2/?do=getNewComment "Placa-mãe Positivo H61 compatível com RX 550 e Xeon e3 1230 v2?")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [Kakauz3](https://www.clubedohardware.com.br/profile/1250112-kakauz3/ "Ir ao perfil de Kakauz3")  
+        2 horas atrás
+        
+    * [![Mtzin](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1258120.thumb.png.cfa580caaa132ea9d9aceee997680d5e.png)](https://www.clubedohardware.com.br/profile/1258120-mtzin/ "Ir ao perfil de Mtzin")
+        
+        1
+        
+        [Sistema operacional não encontrado](https://www.clubedohardware.com.br/forums/topic/1705927-sistema-operacional-n%C3%A3o-encontrado/?do=getNewComment "Sistema operacional não encontrado")
+        
+        [Windows 10](https://www.clubedohardware.com.br/forums/forum/249-windows-10/ "Windows 10")  
+        Por [Mtzin](https://www.clubedohardware.com.br/profile/1258120-mtzin/ "Ir ao perfil de Mtzin")  
+        2 horas atrás
+        
+    * [![Kainan_0304](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1258119.thumb.png.44509e83e6a68d1233cc2a3a3b922110.png)](https://www.clubedohardware.com.br/profile/1258119-kainan_0304/ "Ir ao perfil de Kainan_0304")
+        
+        0
+        
+        [RX 580 não dá Vídeo](https://www.clubedohardware.com.br/forums/topic/1705926-rx-580-n%C3%A3o-d%C3%A1-v%C3%ADdeo/?do=getNewComment "RX 580 não dá Vídeo")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Kainan\_0304](https://www.clubedohardware.com.br/profile/1258119-kainan_0304/ "Ir ao perfil de Kainan_0304")  
+        2 horas atrás
+        
+    * [![Caioairesd](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1258118.thumb.png.e4c439eb350f49da4ba49f13ee8179cb.png)](https://www.clubedohardware.com.br/profile/1258118-caioairesd/ "Ir ao perfil de Caioairesd")
+        
+        4
+        
+        [DeepCool AG/AK400 aguentam Ryzen 7 5700X3D? Preciso de Water Cooler?](https://www.clubedohardware.com.br/forums/topic/1705925-deepcool-agak400-aguentam-ryzen-7-5700x3d-preciso-de-water-cooler/?do=getNewComment "DeepCool AG/AK400 aguentam Ryzen 7 5700X3D? Preciso de Water Cooler?")
+        
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [Caioairesd](https://www.clubedohardware.com.br/profile/1258118-caioairesd/ "Ir ao perfil de Caioairesd")  
+        4 horas atrás
+        
+    * [![Jhodess](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23626bc4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EJ%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/755869-jhodess/ "Ir ao perfil de Jhodess")
+        
+        6
+        
+        [PC gamer vai acabar passando dos R$10.000! Onde diminuir custos?](https://www.clubedohardware.com.br/forums/topic/1705923-pc-gamer-vai-acabar-passando-dos-r10000-onde-diminuir-custos/?do=getNewComment "PC gamer vai acabar passando dos R$10.000! Onde diminuir custos?")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [Jhodess](https://www.clubedohardware.com.br/profile/755869-jhodess/ "Ir ao perfil de Jhodess")  
+        4 horas atrás
+        
+    * [![fandoeden](https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg)](https://www.clubedohardware.com.br/profile/959854-fandoeden/ "Ir ao perfil de fandoeden")
         
         2
+        
+        [Posso usar dois pentes de memória RAM de 8GB 2666Mhz e dois de 8GB 3200Mhz?](https://www.clubedohardware.com.br/forums/topic/1705921-posso-usar-dois-pentes-de-mem%C3%B3ria-ram-de-8gb-2666mhz-e-dois-de-8gb-3200mhz/?do=getNewComment "Posso usar dois pentes de memória RAM de 8GB 2666Mhz e dois de 8GB 3200Mhz?")
+        
+        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
+        Por [fandoeden](https://www.clubedohardware.com.br/profile/959854-fandoeden/ "Ir ao perfil de fandoeden")  
+        4 horas atrás
+        
+    * [![bruno_duda](https://www.clubedohardware.com.br/uploads/members/profile/photo-470797.gif)](https://www.clubedohardware.com.br/profile/470797-bruno_duda/ "Ir ao perfil de bruno_duda")
+        
+        7
+        
+        [Uso do disco em 100% no Windows 10 mesmo após troca de SSD e HD](https://www.clubedohardware.com.br/forums/topic/1705917-uso-do-disco-em-100-no-windows-10-mesmo-ap%C3%B3s-troca-de-ssd-e-hd/?do=getNewComment "Uso do disco em 100% no Windows 10 mesmo após troca de SSD e HD")
+        
+        [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
+        Por [bruno\_duda](https://www.clubedohardware.com.br/profile/470797-bruno_duda/ "Ir ao perfil de bruno_duda")  
+        6 horas atrás
+        
+    * [![Luã Vinícius](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1258113.thumb.jpeg.1c77f72588ce8e21e6909dbd1c41a241.jpeg)](https://www.clubedohardware.com.br/profile/1258113-lu%C3%A3-vin%C3%ADcius/ "Ir ao perfil de Luã Vinícius")
+        
+        3
         
         [Tela azul "INACCESSIBLE\_BOOT\_DEVICE" ao tentar ligar o computador](https://www.clubedohardware.com.br/forums/topic/1705913-tela-azul-inaccessible_boot_device-ao-tentar-ligar-o-computador/?do=getNewComment "Tela azul "INACCESSIBLE_BOOT_DEVICE" ao tentar ligar o computador")
         
         [Telas azuis](https://www.clubedohardware.com.br/forums/forum/124-telas-azuis/ "Telas azuis")  
         Por [Luã Vinícius](https://www.clubedohardware.com.br/profile/1258113-lu%C3%A3-vin%C3%ADcius/ "Ir ao perfil de Luã Vinícius")  
-        21 minutos atrás
-        
-    * [![luwnc](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1255023.thumb.jpeg.5402b264424e7f58604eb21dd868dab7.jpeg)](https://www.clubedohardware.com.br/profile/1255023-luwnc/ "Ir ao perfil de luwnc")
-        
-        1
-        
-        [Placa-mãe H61 suporta processadores superiores ao Core I7-3770?](https://www.clubedohardware.com.br/forums/topic/1705912-placa-m%C3%A3e-h61-suporta-processadores-superiores-ao-core-i7-3770/?do=getNewComment "Placa-mãe H61 suporta processadores superiores ao Core I7-3770?")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [luwnc](https://www.clubedohardware.com.br/profile/1255023-luwnc/ "Ir ao perfil de luwnc")  
-        32 minutos atrás
-        
-    * [![GuiZovsK](https://www.clubedohardware.com.br/uploads/members/monthly_2022_11/aireu.thumb.jpg.38aea6935ea58564bf18dc1e1f764544.jpg)](https://www.clubedohardware.com.br/profile/1208356-guizovsk/ "Ir ao perfil de GuiZovsK")
-        
-        1
-        
-        [Sobre a fonte da marca Dazz modelo ATX ROP de 650W, é boa ou é cilada?](https://www.clubedohardware.com.br/forums/topic/1705911-sobre-a-fonte-da-marca-dazz-modelo-atx-rop-de-650w-%C3%A9-boa-ou-%C3%A9-cilada/?do=getNewComment "Sobre a fonte da marca Dazz modelo ATX ROP de 650W, é boa ou é cilada?")
-        
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [GuiZovsK](https://www.clubedohardware.com.br/profile/1208356-guizovsk/ "Ir ao perfil de GuiZovsK")  
-        33 minutos atrás
-        
-    * [![Felipeas11](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1133116.thumb.jpeg.cc07e23fb7660dbcaca3fe4d158827e4.jpeg)](https://www.clubedohardware.com.br/profile/1133116-felipeas11/ "Ir ao perfil de Felipeas11")
-        
-        0
-        
-        [Onde comprar uma tampa de vidro avulsa para gabinete Rise Mode RM-CA-06X-FB?](https://www.clubedohardware.com.br/forums/topic/1705910-onde-comprar-uma-tampa-de-vidro-avulsa-para-gabinete-rise-mode-rm-ca-06x-fb/?do=getNewComment "Onde comprar uma tampa de vidro avulsa para gabinete Rise Mode RM-CA-06X-FB?")
-        
-        [Gabinetes](https://www.clubedohardware.com.br/forums/forum/81-gabinetes/ "Gabinetes")  
-        Por [Felipeas11](https://www.clubedohardware.com.br/profile/1133116-felipeas11/ "Ir ao perfil de Felipeas11")  
-        33 minutos atrás
-        
-    * [![Cafu penta](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1258111.thumb.png.604aaa89a3ebdd07a04b5c589434cc99.png)](https://www.clubedohardware.com.br/profile/1258111-cafu-penta/ "Ir ao perfil de Cafu penta")
-        
-        1
-        
-        [SSD Kingston NV2 500GB não é reconhecido na placa-mãe ASRock H610M-HVS/M.2](https://www.clubedohardware.com.br/forums/topic/1705909-ssd-kingston-nv2-500gb-n%C3%A3o-%C3%A9-reconhecido-na-placa-m%C3%A3e-asrock-h610m-hvsm2/?do=getNewComment "SSD Kingston NV2 500GB não é reconhecido na placa-mãe ASRock H610M-HVS/M.2")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Cafu penta](https://www.clubedohardware.com.br/profile/1258111-cafu-penta/ "Ir ao perfil de Cafu penta")  
-        35 minutos atrás
-        
-    * [![LLuisfr](https://www.clubedohardware.com.br/uploads/members/monthly_2020_10/imported-photo-1079959.thumb.jpeg.9a9df170c6559139aa1adcbd65b47688.jpeg)](https://www.clubedohardware.com.br/profile/1079959-lluisfr/ "Ir ao perfil de LLuisfr")
-        
-        3
-        
-        [Como usar fans ARGB em uma placa-mãe MSI B450M PRO-VDH MAX sem suporte ARGB?](https://www.clubedohardware.com.br/forums/topic/1705908-como-usar-fans-argb-em-uma-placa-m%C3%A3e-msi-b450m-pro-vdh-max-sem-suporte-argb/?do=getNewComment "Como usar fans ARGB em uma placa-mãe MSI B450M PRO-VDH MAX sem suporte ARGB?")
-        
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [LLuisfr](https://www.clubedohardware.com.br/profile/1079959-lluisfr/ "Ir ao perfil de LLuisfr")  
-        53 minutos atrás
-        
-    * [![Archie Joestar](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1251907.thumb.png.9202565c50d5380d4802f3c1c1788d65.png)](https://www.clubedohardware.com.br/profile/1251907-archie-joestar/ "Ir ao perfil de Archie Joestar")
-        
-        3
-        
-        [Processador Ryzen 5 5600X ou Ryzen 7 5700X? Qual é melhor?](https://www.clubedohardware.com.br/forums/topic/1705907-processador-ryzen-5-5600x-ou-ryzen-7-5700x-qual-%C3%A9-melhor/?do=getNewComment "Processador Ryzen 5 5600X ou Ryzen 7 5700X? Qual é melhor?")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [Archie Joestar](https://www.clubedohardware.com.br/profile/1251907-archie-joestar/ "Ir ao perfil de Archie Joestar")  
-        1 hora atrás
-        
-    * [![GustavoAMB.-](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c4b1%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EG%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1068140-gustavoamb/ "Ir ao perfil de GustavoAMB.-")
-        
-        3
-        
-        [Recomendação de tela compatível com notebook Positivo Motion q464b](https://www.clubedohardware.com.br/forums/topic/1705906-recomenda%C3%A7%C3%A3o-de-tela-compat%C3%ADvel-com-notebook-positivo-motion-q464b/?do=getNewComment "Recomendação de tela compatível com notebook Positivo Motion q464b")
-        
-        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
-        Por [GustavoAMB.-](https://www.clubedohardware.com.br/profile/1068140-gustavoamb/ "Ir ao perfil de GustavoAMB.-")  
-        1 hora atrás
-        
-    * [![Vinicius Rfs](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1244921.thumb.jpeg.81156c98a8e364104e6ebaa789805970.jpeg)](https://www.clubedohardware.com.br/profile/1244921-vinicius-rfs/ "Ir ao perfil de Vinicius Rfs")
-        
-        2
-        
-        [Ryzen 5 5600 com alta temperatura e FPS baixo](https://www.clubedohardware.com.br/forums/topic/1705904-ryzen-5-5600-com-alta-temperatura-e-fps-baixo/?do=getNewComment "Ryzen 5 5600 com alta temperatura e FPS baixo")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [Vinicius Rfs](https://www.clubedohardware.com.br/profile/1244921-vinicius-rfs/ "Ir ao perfil de Vinicius Rfs")  
-        1 hora atrás
-        
-    * [![romline5](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/logos.thumb.jpg.713ff2fa83dbff02c0265171010bc32e.jpg)](https://www.clubedohardware.com.br/profile/1097780-romline5/ "Ir ao perfil de romline5")
-        
-        1
-        
-        [Criar vídeo de vídeo com AI totalmente do zero](https://www.clubedohardware.com.br/forums/topic/1705903-criar-v%C3%ADdeo-de-v%C3%ADdeo-com-ai-totalmente-do-zero/?do=getNewComment "Criar vídeo de vídeo com AI totalmente do zero")
-        
-        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
-        Por [romline5](https://www.clubedohardware.com.br/profile/1097780-romline5/ "Ir ao perfil de romline5")  
-        1 hora atrás
+        6 horas atrás
         
     
 
