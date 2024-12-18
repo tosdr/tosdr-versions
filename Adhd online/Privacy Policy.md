@@ -2,8 +2,6 @@
 
 🎄 **[Holiday hours](#holiday-hours)**
 
-Now offering Therapy in over 40 states!  **[Find yours](http://adhdonline.com/teletherapy)**
-
 [![ADHD Online from Mentavi Health](https://adhdonline.com/wp-content/uploads/2022/09/ADHD-Online-Full-Color-Logo-November-2023.png)](https://adhdonline.com/)
 
 * [Diagnosis](#)
