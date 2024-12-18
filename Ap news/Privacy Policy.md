@@ -12,9 +12,9 @@ Menu
     
     TOP STORIES
     
+    * [Russia says suspect detained in the killing of a senior general in Moscow](https://apnews.com/article/russia-ukraine-war-general-killed-suspected-arrested-32e504b029d8db0b8d52474d75efc383)
     * [A couple hundred North Korean troops killed, wounded in battles with Ukrainian forces](https://apnews.com/article/north-korea-ukraine-casualties-kursk-russia-a1207ba61ded5061f721ffa0f0650851)
     * [A top Russian general is killed in a Moscow bombing claimed by Ukraine](https://apnews.com/article/russia-explosion-head-of-nuclear-defense-forces-killed-9656bce946a9f552454df9debe5fbd18)
-    * [Israel's borders have shifted throughout its history. Action in Syria may reshape them again](https://apnews.com/article/israel-borders-history-syria-gaza-war-golan-5fdf8fdbe2ec2cee7b9cf7f78fbb1c8c)
     
     Newsletters
     
@@ -106,9 +106,9 @@ Menu
     
     TOP STORIES
     
+    * [Group says New Jersey toxic waste dumping caused $1B in harm, calls settlement inadequate](https://apnews.com/article/toms-river-toxic-waste-cancer-ciba-geigy-90b270b4c3cec258923fb4bb85c816f0)
+    * [UK inflation increase solidifies expectations interest rates will be kept on hold](https://apnews.com/article/britain-economy-inflation-interest-rates-05d118699b71950480206efd92e112a8)
     * [Musk and Trump are viewed roughly the same by Americans, an AP-NORC poll finds](https://apnews.com/article/trump-elon-apnorc-poll-favorability-8506a4eed5ac5dcfe818a277e4adf42a)
-    * [Retail sales rose at healthy pace last month in latest sign of US economy's health](https://apnews.com/article/retail-sales-economy-spending-483d7ee469187253262c5b47442a1988)
-    * [Americans end 2024 with grim economic outlook, but Republicans are optimistic for 2025: AP-NORC poll](https://apnews.com/article/economy-trump-biden-election-poll-39af2a837fc35173e13dd0e5d5e5d471)
     
 * [Science](https://apnews.com/science)
     
@@ -123,12 +123,6 @@ Menu
     * [Two stars may be orbiting each other near a supermassive black hole in our Milky Way galaxy](https://apnews.com/article/milky-way-black-hole-binary-star-system-f6b6bdc24742f7bb1fe4dd50ba219aab)
     
 * [Fact Check](https://apnews.com/ap-fact-check)
-    
-    TOP STORIES
-    
-    * [FACT FOCUS: Inspector general’s Jan. 6 report misrepresented as proof of FBI setup](https://apnews.com/article/fact-check-capitol-riot-fbi-justice-department-598b775804bdcef9cb065a67a4236033)
-    * [FACT FOCUS: Vermont ruling does not say schools can vaccinate children without parental consent](https://apnews.com/article/fact-check-vermont-supreme-court-vaccination-ruling-0256fc7ad888230ee8dc51f6fe0d479a)
-    * [FACT FOCUS: Posts misrepresent Biden administration spending on EV charging stations](https://apnews.com/article/fact-check-electric-vehicle-charging-stations-75-billion-buttigieg-1ddcd6ee193fc1847e5401c95c016ec3)
     
 * [Oddities](https://apnews.com/oddities)
     
@@ -169,8 +163,8 @@ Menu
     TOP STORIES
     
     * [Associated Press 100 Photos of 2024: An epic catalog of humanity](https://apnews.com/associated-press-100-photos-of-2024-an-epic-catalog-of-humanity)
-    * [See entertainment's biggest moments in 2024, through the lens of Associated Press photographers](https://apnews.com/article/2024-best-entertainment-photos-a8cb924be7d7987c68dfd230a92229a9)
-    * [AP's top sports photos of the year are worth a close look](https://apnews.com/article/ap-sports-photos-of-year-d07f4a6c90716b4e5e46df43cea695e8)
+    * [AP photographers capture stunning scenes of nature and wildlife in 2024](https://apnews.com/article/nature-animals-photos-2024-23caa4ff814a9f6e788689daee825461)
+    * [Joy and wonder: Between the bumps of the world, exuberance shone through in 2024](https://apnews.com/apphotosoftheyearjoywonder2024)
     
     Newsletters
     
@@ -214,8 +208,8 @@ Menu
     TOP STORIES
     
     * [Musk and Trump are viewed roughly the same by Americans, an AP-NORC poll finds](https://apnews.com/article/trump-elon-apnorc-poll-favorability-8506a4eed5ac5dcfe818a277e4adf42a)
+    * [Japanese space startup aborts 2nd satellite launch attempt minutes after liftoff](https://apnews.com/article/japan-space-rocket-satellite-commercial-abort-space-one-52409d53f2c187c0548188d160df03be)
     * [What does Big Tech hope to gain from warming up to Trump?](https://apnews.com/article/trump-big-tech-ceo-donations-visits-1ddf9464047b519abe5593244be488d9)
-    * [EU investigates TikTok over Romanian presidential election safeguards](https://apnews.com/article/tiktok-romania-european-union-election-0638e90cb3898fc61619e8aed4731a53)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -249,9 +243,9 @@ Menu
     
     TOP STORIES
     
+    * [Rusia anuncia la detención de un sospechoso por el asesinato de un general de alto rango en Moscú](https://apnews.com/article/rusia-explosion-general-kirillov-asesinado-detenido-ucrania-65322a88e4bb1cebbf6362c56b16e13a)
     * [Olvide el fútbol y la samba. Este perro callejero color caramelo es el nuevo ícono de Brasil](https://apnews.com/article/brasil-caramelo-perro-rio-carnaval-netflix-a0f9a88bab1d73280404064eef1ed098)
     * [Aumentan ventas de búnkeres nucleares en EEUU, pese a advertencias de expertos de que no protegen](https://apnews.com/article/eeuu-bunker-nuclear-refugios-advertencias-d8a633c2f4465a18b09475f0459c22b7)
-    * [La UE otorga el premio Sájarov a líderes opositores venezolanos](https://apnews.com/article/europa-ue-venezuela-premio-sajarov-derechos-humanos-e6404ca0b424d9e1a523a84febaec4bf)
     * [Netanyahu: tropas israelíes ocuparán una zona de contención dentro de Siria por el futuro previsible](https://apnews.com/article/siria-assad-israel-netanyahu-guerra-golan-5a0baebeb54a87b46c92c33d44bdf201)
     * [Instalaciones fronterizas de EEUU para niños migrantes mejoran, pero se necesita más, dice informe](https://apnews.com/article/migracion-ninos-detencion-migrantes-cf8643f5ae7859071a85edb2221678c0)
     
@@ -414,9 +408,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Russia says suspect detained in the killing of a senior general in Moscow](https://apnews.com/article/russia-ukraine-war-general-killed-suspected-arrested-32e504b029d8db0b8d52474d75efc383)
     * [A couple hundred North Korean troops killed, wounded in battles with Ukrainian forces](https://apnews.com/article/north-korea-ukraine-casualties-kursk-russia-a1207ba61ded5061f721ffa0f0650851)
     * [A top Russian general is killed in a Moscow bombing claimed by Ukraine](https://apnews.com/article/russia-explosion-head-of-nuclear-defense-forces-killed-9656bce946a9f552454df9debe5fbd18)
-    * [Israel's borders have shifted throughout its history. Action in Syria may reshape them again](https://apnews.com/article/israel-borders-history-syria-gaza-war-golan-5fdf8fdbe2ec2cee7b9cf7f78fbb1c8c)
     
     Newsletters
     
@@ -538,9 +532,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Group says New Jersey toxic waste dumping caused $1B in harm, calls settlement inadequate](https://apnews.com/article/toms-river-toxic-waste-cancer-ciba-geigy-90b270b4c3cec258923fb4bb85c816f0)
+    * [UK inflation increase solidifies expectations interest rates will be kept on hold](https://apnews.com/article/britain-economy-inflation-interest-rates-05d118699b71950480206efd92e112a8)
     * [Musk and Trump are viewed roughly the same by Americans, an AP-NORC poll finds](https://apnews.com/article/trump-elon-apnorc-poll-favorability-8506a4eed5ac5dcfe818a277e4adf42a)
-    * [Retail sales rose at healthy pace last month in latest sign of US economy's health](https://apnews.com/article/retail-sales-economy-spending-483d7ee469187253262c5b47442a1988)
-    * [Americans end 2024 with grim economic outlook, but Republicans are optimistic for 2025: AP-NORC poll](https://apnews.com/article/economy-trump-biden-election-poll-39af2a837fc35173e13dd0e5d5e5d471)
     
 * [Science](https://apnews.com/science)
     
@@ -561,12 +555,6 @@ Submit Search
     * [Two stars may be orbiting each other near a supermassive black hole in our Milky Way galaxy](https://apnews.com/article/milky-way-black-hole-binary-star-system-f6b6bdc24742f7bb1fe4dd50ba219aab)
     
 * [Fact Check](https://apnews.com/ap-fact-check)
-    
-    TOP STORIES
-    
-    * [FACT FOCUS: Inspector general’s Jan. 6 report misrepresented as proof of FBI setup](https://apnews.com/article/fact-check-capitol-riot-fbi-justice-department-598b775804bdcef9cb065a67a4236033)
-    * [FACT FOCUS: Vermont ruling does not say schools can vaccinate children without parental consent](https://apnews.com/article/fact-check-vermont-supreme-court-vaccination-ruling-0256fc7ad888230ee8dc51f6fe0d479a)
-    * [FACT FOCUS: Posts misrepresent Biden administration spending on EV charging stations](https://apnews.com/article/fact-check-electric-vehicle-charging-stations-75-billion-buttigieg-1ddcd6ee193fc1847e5401c95c016ec3)
     
 * [Oddities](https://apnews.com/oddities)
     
@@ -612,8 +600,8 @@ Submit Search
     TOP STORIES
     
     * [Associated Press 100 Photos of 2024: An epic catalog of humanity](https://apnews.com/associated-press-100-photos-of-2024-an-epic-catalog-of-humanity)
-    * [See entertainment's biggest moments in 2024, through the lens of Associated Press photographers](https://apnews.com/article/2024-best-entertainment-photos-a8cb924be7d7987c68dfd230a92229a9)
-    * [AP's top sports photos of the year are worth a close look](https://apnews.com/article/ap-sports-photos-of-year-d07f4a6c90716b4e5e46df43cea695e8)
+    * [AP photographers capture stunning scenes of nature and wildlife in 2024](https://apnews.com/article/nature-animals-photos-2024-23caa4ff814a9f6e788689daee825461)
+    * [Joy and wonder: Between the bumps of the world, exuberance shone through in 2024](https://apnews.com/apphotosoftheyearjoywonder2024)
     
     Newsletters
     
@@ -665,8 +653,8 @@ Submit Search
     TOP STORIES
     
     * [Musk and Trump are viewed roughly the same by Americans, an AP-NORC poll finds](https://apnews.com/article/trump-elon-apnorc-poll-favorability-8506a4eed5ac5dcfe818a277e4adf42a)
+    * [Japanese space startup aborts 2nd satellite launch attempt minutes after liftoff](https://apnews.com/article/japan-space-rocket-satellite-commercial-abort-space-one-52409d53f2c187c0548188d160df03be)
     * [What does Big Tech hope to gain from warming up to Trump?](https://apnews.com/article/trump-big-tech-ceo-donations-visits-1ddf9464047b519abe5593244be488d9)
-    * [EU investigates TikTok over Romanian presidential election safeguards](https://apnews.com/article/tiktok-romania-european-union-election-0638e90cb3898fc61619e8aed4731a53)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -708,9 +696,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Rusia anuncia la detención de un sospechoso por el asesinato de un general de alto rango en Moscú](https://apnews.com/article/rusia-explosion-general-kirillov-asesinado-detenido-ucrania-65322a88e4bb1cebbf6362c56b16e13a)
     * [Olvide el fútbol y la samba. Este perro callejero color caramelo es el nuevo ícono de Brasil](https://apnews.com/article/brasil-caramelo-perro-rio-carnaval-netflix-a0f9a88bab1d73280404064eef1ed098)
     * [Aumentan ventas de búnkeres nucleares en EEUU, pese a advertencias de expertos de que no protegen](https://apnews.com/article/eeuu-bunker-nuclear-refugios-advertencias-d8a633c2f4465a18b09475f0459c22b7)
-    * [La UE otorga el premio Sájarov a líderes opositores venezolanos](https://apnews.com/article/europa-ue-venezuela-premio-sajarov-derechos-humanos-e6404ca0b424d9e1a523a84febaec4bf)
     * [Netanyahu: tropas israelíes ocuparán una zona de contención dentro de Siria por el futuro previsible](https://apnews.com/article/siria-assad-israel-netanyahu-guerra-golan-5a0baebeb54a87b46c92c33d44bdf201)
     * [Instalaciones fronterizas de EEUU para niños migrantes mejoran, pero se necesita más, dice informe](https://apnews.com/article/migracion-ninos-detencion-migrantes-cf8643f5ae7859071a85edb2221678c0)
     
