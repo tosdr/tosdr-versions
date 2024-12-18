@@ -24,11 +24,11 @@
 
 [](javascript:ShowNextAnnouncement(false,'next'))
 
-[](https://amzn.to/2R8xkYn)
+[](https://amzn.to/45JqVq9)
 
 [](https://amzn.to/2BA10no)
 
-[](https://drawabox.com/rec/zapata/shading)
+[](https://drawabox.com/rec/proko/drawingbasics)
 
 USE CODE 12DAYS
 
@@ -36,7 +36,7 @@ FOR 15% OFF
 
 SALE ENDS December 25th
 
-[](https://drawabox.com/rec/bucci/digitalpainting)
+[](https://drawabox.com/rec/zapata/shading)
 
 USE CODE 12DAYS
 
