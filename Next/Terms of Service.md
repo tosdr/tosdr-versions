@@ -1,6 +1,6 @@
 6.0.12
 
-1734532858376
+1734555678084
 
                                       
 
@@ -12,9 +12,9 @@ en
 
 4.0.1
 
-1734533299877
+1734554662101
 
-     Next Terms & Conditions | T&C's | Next Official Site                                  
+ Next Terms & Conditions | T&C's | Next Official Site                                  
 
                   [Click here to use our accessible website](https://accessible.next.co.uk/)
 
@@ -22,7 +22,7 @@ en
 
 cutaway22
 
-1734532601658
+1734555197923
 
 You need to enable JavaScript to run this app.
 
@@ -710,18 +710,6 @@ Details of the competition winner will be available for 14 days after the compet
 * The Next Free Gift will be automatically added to bag when you buy any Next Fragrance.
 * The Next Gift contains:
     * Strawberry & Acai Body Scrub
-* To get the saving, you must order the qualifying items within the same order at the same time. If you later return one of the items, you will no longer be entitled to the discount.
-* This offer applies to selected indicated items when purchased at full price.
-* The Next Gift will be automatically added once 1 qualifying Next product has been added to the bag on either the Product or Shopping Bag Pages.
-* The promotion can only be used by the account holder, and you must be logged in to your account to view and shop the promotion.
-* This offer is not available to staff.
-* Offer applies while stocks last.
-
-### Next Promotion
-
-* The Next Free Gift will be automatically added to bag when you buy any Next Fragrance.
-* The Next Gift contains:
-    * Lemon & Pineapple Body Scrub
 * To get the saving, you must order the qualifying items within the same order at the same time. If you later return one of the items, you will no longer be entitled to the discount.
 * This offer applies to selected indicated items when purchased at full price.
 * The Next Gift will be automatically added once 1 qualifying Next product has been added to the bag on either the Product or Shopping Bag Pages.
@@ -3537,7 +3525,7 @@ You need to enable JavaScript to run this app.
 
 4.0.1
 
-1734532132978
+1734554019214
 
 ##### Our Social Networks
 
