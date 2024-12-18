@@ -503,21 +503,21 @@ English (EU)
 
 Discover
 
-[Travel](https://www.bunq.com/assets/media/legal/en/benefits/travel)
+[Students](https://www.bunq.com/assets/media/legal/en/documents/pricing)
 
-[Budgeting](https://www.bunq.com/assets/media/legal/en/benefits/budgeting)
+Expats
 
-[Sustainable Banking](https://www.bunq.com/assets/media/legal/en/benefits/sustainable-banking)
+Couples
 
-[Business](https://www.bunq.com/assets/media/legal/en/business)
+Parents
 
-[Compare Plans](https://www.bunq.com/assets/media/legal/en/plans)
+Savings
 
-[Pricing](https://www.bunq.com/assets/media/legal/en/documents/pricing)
-
-[Mortgages](https://mortgages.bunq.com/)
+Business
 
 [Blog](https://www.bunq.com/assets/media/legal/en/blog)
+
+[Mortgages](https://jobs.bunq.com/)
 
 Company
 
@@ -527,11 +527,11 @@ Company
 
 [Security](https://www.bunq.com/assets/media/legal/en/security)
 
+[Legal Documents](https://www.bunq.com/assets/media/legal/en/documents)
+
 [Imprint](https://www.bunq.com/assets/media/legal/en/imprint)
 
 [ESG Policy](https://www.bunq.com/assets/media/legal/en/documents/environmental-social-and-governance)
-
-[Legal Documents](https://www.bunq.com/assets/media/legal/en/documents)
 
 [Press](https://press.bunq.com/)
 
@@ -539,13 +539,13 @@ Company
 
 Help
 
+[Pricing](https://mortgages.bunq.com/)
+
 [Help Center](https://www.bunq.com/assets/media/legal/en/help)
 
 [Contact](https://www.bunq.com/assets/media/legal/en/contact)
 
-[Report an issue](https://www.bunq.com/assets/media/legal/en/report)
-
-[File a complaint](https://www.bunq.com/assets/media/legal/en/report/formal-complaint)
+[Report an Issue](https://www.bunq.com/assets/media/legal/en/report)
 
 [Knowledge Base](https://together.bunq.com/t/knowledge)
 
@@ -555,8 +555,6 @@ Help
 
 [Developers](https://developer.bunq.com/)
 
-[Site Map](https://www.bunq.com/assets/media/legal/en/sitemap)
-
 [© 2024 bunq](https://www.bunq.com/assets/media/legal/en/imprint)
 
 [Terms & Conditions](https://www.bunq.com/assets/media/legal/en/documents/terms-conditions)
@@ -565,7 +563,9 @@ Help
 
 Cookie Settings
 
-[![Download on Apple App Store](https://framerusercontent.com/images/16iZ9RaOqAMJw4sgyqt3QIcvM.svg)](https://app.adjust.com/dqvbt6?engagement_type=fallback_click&fallback=https%3A%2F%2Fweb.bunq.com%2Fsignup&redirect_macos=https%3A%2F%2Fweb.bunq.com%2Fsignup%3Ftracker_token%3Ddqvbt6)[![Get on Google Play store](https://framerusercontent.com/images/qIj7uEWbWJDIzyIzOcST9z8Q4.svg)](https://app.adjust.com/dqvbt6?engagement_type=fallback_click&fallback=https%3A%2F%2Fweb.bunq.com%2Fsignup&redirect_macos=https%3A%2F%2Fweb.bunq.com%2Fsignup%3Ftracker_token%3Ddqvbt6)
+![Download on Apple App Store](https://framerusercontent.com/images/16iZ9RaOqAMJw4sgyqt3QIcvM.svg)
+
+![Get on Google Play store](https://framerusercontent.com/images/qIj7uEWbWJDIzyIzOcST9z8Q4.svg)
 
 ![](https://framerusercontent.com/images/Tjb3L7naijsE5eqhFslwQ8MN60.svg)
 
@@ -583,21 +583,21 @@ English (EU)
 
 Discover
 
-[Travel](https://www.bunq.com/assets/media/legal/en/benefits/travel)
+[Students](https://www.bunq.com/assets/media/legal/en/documents/pricing)
 
-[Budgeting](https://www.bunq.com/assets/media/legal/en/benefits/budgeting)
+Expats
 
-[Sustainable Banking](https://www.bunq.com/assets/media/legal/en/benefits/sustainable-banking)
+Couples
 
-[Business](https://www.bunq.com/assets/media/legal/en/business)
+Parents
 
-[Compare Plans](https://www.bunq.com/assets/media/legal/en/plans)
+Savings
 
-[Pricing](https://www.bunq.com/assets/media/legal/en/documents/pricing)
-
-[Mortgages](https://mortgages.bunq.com/)
+Business
 
 [Blog](https://www.bunq.com/assets/media/legal/en/blog)
+
+[Mortgages](https://jobs.bunq.com/)
 
 Company
 
@@ -607,11 +607,11 @@ Company
 
 [Security](https://www.bunq.com/assets/media/legal/en/security)
 
+[Legal Documents](https://www.bunq.com/assets/media/legal/en/documents)
+
 [Imprint](https://www.bunq.com/assets/media/legal/en/imprint)
 
 [ESG Policy](https://www.bunq.com/assets/media/legal/en/documents/environmental-social-and-governance)
-
-[Legal Documents](https://www.bunq.com/assets/media/legal/en/documents)
 
 [Press](https://press.bunq.com/)
 
@@ -619,13 +619,13 @@ Company
 
 Help
 
+[Pricing](https://mortgages.bunq.com/)
+
 [Help Center](https://www.bunq.com/assets/media/legal/en/help)
 
 [Contact](https://www.bunq.com/assets/media/legal/en/contact)
 
-[Report an issue](https://www.bunq.com/assets/media/legal/en/report)
-
-[File a complaint](https://www.bunq.com/assets/media/legal/en/report/formal-complaint)
+[Report an Issue](https://www.bunq.com/assets/media/legal/en/report)
 
 [Knowledge Base](https://together.bunq.com/t/knowledge)
 
@@ -635,8 +635,6 @@ Help
 
 [Developers](https://developer.bunq.com/)
 
-[Site Map](https://www.bunq.com/assets/media/legal/en/sitemap)
-
 [© 2024 bunq](https://www.bunq.com/assets/media/legal/en/imprint)
 
 [Terms & Conditions](https://www.bunq.com/assets/media/legal/en/documents/terms-conditions)
@@ -645,7 +643,9 @@ Help
 
 Cookie Settings
 
-[![Download on Apple App Store](https://framerusercontent.com/images/16iZ9RaOqAMJw4sgyqt3QIcvM.svg)](https://app.adjust.com/dqvbt6?engagement_type=fallback_click&fallback=https%3A%2F%2Fweb.bunq.com%2Fsignup&redirect_macos=https%3A%2F%2Fweb.bunq.com%2Fsignup%3Ftracker_token%3Ddqvbt6)[![Get on Google Play store](https://framerusercontent.com/images/qIj7uEWbWJDIzyIzOcST9z8Q4.svg)](https://app.adjust.com/dqvbt6?engagement_type=fallback_click&fallback=https%3A%2F%2Fweb.bunq.com%2Fsignup&redirect_macos=https%3A%2F%2Fweb.bunq.com%2Fsignup%3Ftracker_token%3Ddqvbt6)
+![Download on Apple App Store](https://framerusercontent.com/images/16iZ9RaOqAMJw4sgyqt3QIcvM.svg)
+
+![Get on Google Play store](https://framerusercontent.com/images/qIj7uEWbWJDIzyIzOcST9z8Q4.svg)
 
 ![](https://framerusercontent.com/images/Tjb3L7naijsE5eqhFslwQ8MN60.svg)
 
@@ -663,21 +663,21 @@ English (EU)
 
 Discover
 
-[Travel](https://www.bunq.com/assets/media/legal/en/benefits/travel)
+[Students](https://www.bunq.com/assets/media/legal/en/documents/pricing)
 
-[Budgeting](https://www.bunq.com/assets/media/legal/en/benefits/budgeting)
+Expats
 
-[Sustainable Banking](https://www.bunq.com/assets/media/legal/en/benefits/sustainable-banking)
+Couples
 
-[Business](https://www.bunq.com/assets/media/legal/en/business)
+Parents
 
-[Compare Plans](https://www.bunq.com/assets/media/legal/en/plans)
+Savings
 
-[Pricing](https://www.bunq.com/assets/media/legal/en/documents/pricing)
-
-[Mortgages](https://mortgages.bunq.com/)
+Business
 
 [Blog](https://www.bunq.com/assets/media/legal/en/blog)
+
+[Mortgages](https://jobs.bunq.com/)
 
 Company
 
@@ -687,11 +687,11 @@ Company
 
 [Security](https://www.bunq.com/assets/media/legal/en/security)
 
+[Legal Documents](https://www.bunq.com/assets/media/legal/en/documents)
+
 [Imprint](https://www.bunq.com/assets/media/legal/en/imprint)
 
 [ESG Policy](https://www.bunq.com/assets/media/legal/en/documents/environmental-social-and-governance)
-
-[Legal Documents](https://www.bunq.com/assets/media/legal/en/documents)
 
 [Press](https://press.bunq.com/)
 
@@ -699,13 +699,13 @@ Company
 
 Help
 
+[Pricing](https://mortgages.bunq.com/)
+
 [Help Center](https://www.bunq.com/assets/media/legal/en/help)
 
 [Contact](https://www.bunq.com/assets/media/legal/en/contact)
 
-[Report an issue](https://www.bunq.com/assets/media/legal/en/report)
-
-[File a complaint](https://www.bunq.com/assets/media/legal/en/report/formal-complaint)
+[Report an Issue](https://www.bunq.com/assets/media/legal/en/report)
 
 [Knowledge Base](https://together.bunq.com/t/knowledge)
 
@@ -715,8 +715,6 @@ Help
 
 [Developers](https://developer.bunq.com/)
 
-[Site Map](https://www.bunq.com/assets/media/legal/en/sitemap)
-
 [© 2024 bunq](https://www.bunq.com/assets/media/legal/en/imprint)
 
 [Terms & Conditions](https://www.bunq.com/assets/media/legal/en/documents/terms-conditions)
@@ -725,4 +723,6 @@ Help
 
 Cookie Settings
 
-[![Download on Apple App Store](https://framerusercontent.com/images/16iZ9RaOqAMJw4sgyqt3QIcvM.svg)](https://app.adjust.com/dqvbt6?engagement_type=fallback_click&fallback=https%3A%2F%2Fweb.bunq.com%2Fsignup&redirect_macos=https%3A%2F%2Fweb.bunq.com%2Fsignup%3Ftracker_token%3Ddqvbt6)[![Get on Google Play store](https://framerusercontent.com/images/qIj7uEWbWJDIzyIzOcST9z8Q4.svg)](https://app.adjust.com/dqvbt6?engagement_type=fallback_click&fallback=https%3A%2F%2Fweb.bunq.com%2Fsignup&redirect_macos=https%3A%2F%2Fweb.bunq.com%2Fsignup%3Ftracker_token%3Ddqvbt6)
+![Download on Apple App Store](https://framerusercontent.com/images/16iZ9RaOqAMJw4sgyqt3QIcvM.svg)
+
+![Get on Google Play store](https://framerusercontent.com/images/qIj7uEWbWJDIzyIzOcST9z8Q4.svg)
