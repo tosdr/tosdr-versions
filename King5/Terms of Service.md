@@ -30,14 +30,15 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/b97afcb5-50af-4d49-8c5d-c14d64359e87/20241217T190651/b97afcb5-50af-4d49-8c5d-c14d64359e87_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b97afcb5-50af-4d49-8c5d-c14d64359e87/20241217T190651/b97afcb5-50af-4d49-8c5d-c14d64359e87_360x203.jpg)](https://www.king5.com/article/news/politics/state-politics/inslee-wealth-tax-100-million-1-percent-budget-proposal/281-c2d90e8a-0e6d-4996-a6ae-e0ee5e226d4d)
+    *  [![](https://media.king5.com/assets/KING/images/39e8fbf7-061f-421b-b223-466bb55a99d2/39e8fbf7-061f-421b-b223-466bb55a99d2_16x9.jpg) ![](https://media.king5.com/assets/KING/images/39e8fbf7-061f-421b-b223-466bb55a99d2/39e8fbf7-061f-421b-b223-466bb55a99d2_360x203.jpg)](https://www.king5.com/article/weather/freezing-rain-ice-expected-washington-mountain-passes-tuesday/281-16507188-0ae7-4bb6-947d-2bf3357b54b4)
         
-        #### [Gov. Inslee floats 'modest wealth tax' to help close Washington state's $12 billion budget gap](https://www.king5.com/article/news/politics/state-politics/inslee-wealth-tax-100-million-1-percent-budget-proposal/281-c2d90e8a-0e6d-4996-a6ae-e0ee5e226d4d)
+        #### [Heavy rain in the lowlands, ice in Washington's mountain passes expected Tuesday](https://www.king5.com/article/weather/freezing-rain-ice-expected-washington-mountain-passes-tuesday/281-16507188-0ae7-4bb6-947d-2bf3357b54b4)
         
-    *  [![](https://media.king5.com/assets/KING/images/2188aa0f-9ece-4ede-9568-64b18f30251b/20241031T155921/2188aa0f-9ece-4ede-9568-64b18f30251b_16x9.jpg) ![](https://media.king5.com/assets/KING/images/2188aa0f-9ece-4ede-9568-64b18f30251b/20241031T155921/2188aa0f-9ece-4ede-9568-64b18f30251b_360x203.jpg)](https://www.king5.com/article/news/local/seattle/former-police-chief-adrian-diaz-terminated-lying-relationship-staffer/281-88fbb293-f1d3-4028-983d-442d88b34560)
+    *  [![](https://media.king5.com/assets/KING/images/7ae97400-207a-4897-9dad-96e740e79e84/20241218T020015/7ae97400-207a-4897-9dad-96e740e79e84_16x9.jpg) ![](https://media.king5.com/assets/KING/images/7ae97400-207a-4897-9dad-96e740e79e84/20241218T020015/7ae97400-207a-4897-9dad-96e740e79e84_360x203.jpg)](https://www.king5.com/article/news/local/washingtons-longest-running-weekly-newspaper-fold/281-636ef215-b6c4-47cc-93ae-be11cd340506)
         
-        #### [Former Seattle Police Chief Adrian Diaz terminated for lying about relationship with staffer](https://www.king5.com/article/news/local/seattle/former-police-chief-adrian-diaz-terminated-lying-relationship-staffer/281-88fbb293-f1d3-4028-983d-442d88b34560)
+        #### [Washington's longest running weekly newspaper may fold](https://www.king5.com/article/news/local/washingtons-longest-running-weekly-newspaper-fold/281-636ef215-b6c4-47cc-93ae-be11cd340506) [![](https://media.king5.com/assets/KING/images/7ae97400-207a-4897-9dad-96e740e79e84/20241218T020015/7ae97400-207a-4897-9dad-96e740e79e84_16x9.jpg) ![](https://media.king5.com/assets/KING/images/7ae97400-207a-4897-9dad-96e740e79e84/20241218T020015/7ae97400-207a-4897-9dad-96e740e79e84_360x203.jpg)](https://www.king5.com/article/news/local/washingtons-longest-running-weekly-newspaper-fold/281-636ef215-b6c4-47cc-93ae-be11cd340506)
         
+        #### [Community group rallies to save Washington's oldest weekly newspaper as owner retires](https://www.king5.com/article/news/local/washingtons-longest-running-weekly-newspaper-fold/281-636ef215-b6c4-47cc-93ae-be11cd340506)
     
 * [Weather](https://www.king5.com/weather/)
     
@@ -60,7 +61,7 @@ Navigation
         
         #### [Heavy rain in the lowlands, ice in Washington's mountain passes expected Tuesday](https://www.king5.com/article/weather/freezing-rain-ice-expected-washington-mountain-passes-tuesday/281-16507188-0ae7-4bb6-947d-2bf3357b54b4)
         
-    *  [![](https://media.king5.com/assets/KING/images/e528c8ab-3ac0-4fb3-ba6f-ed969adfa7d7/20241217T130508/e528c8ab-3ac0-4fb3-ba6f-ed969adfa7d7_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e528c8ab-3ac0-4fb3-ba6f-ed969adfa7d7/20241217T130508/e528c8ab-3ac0-4fb3-ba6f-ed969adfa7d7_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/93bb98b1-c7a6-46de-a3b0-eeac6a5bc1f5/20241217T202359/93bb98b1-c7a6-46de-a3b0-eeac6a5bc1f5_16x9.jpg) ![](https://media.king5.com/assets/KING/images/93bb98b1-c7a6-46de-a3b0-eeac6a5bc1f5/20241217T202359/93bb98b1-c7a6-46de-a3b0-eeac6a5bc1f5_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -107,7 +108,7 @@ Seattle, WA »
 
 46°
 
-![Rain Shower](/assets/shared-images/weather-icons/drizzle-day_210x210.png)
+![Rain Shower](/assets/shared-images/weather-icons/drizzle-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
