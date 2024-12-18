@@ -19,19 +19,19 @@ HOLIDAY SALE: Buy one Sleep Pod, get another 50% OFF!
 
 [![mother tucking in son in sleep pod](//hugsleep.com/cdn/shop/files/SquarePDPs.001.jpg?v=1709244147&width=533)
 
-469 reviews
+470 reviews
 
 ### Kids - Hooded Sleep Pod Move
 
-Regular price $74.99
+Regular price From $69.99
 
-Regular price ~$99.99~ Sale price $74.99
+Regular price ~$99.99~ Sale price From $69.99
 
 Unit price /  per](https://hugsleep.com/products/kids-hooded-sleep-pod-move) 
 
 [![Graphite#woman laying in bed with sleep pod asleep](//hugsleep.com/cdn/shop/products/download.jpg?v=1659988966&width=533)
 
-469 reviews
+470 reviews
 
 ### Sleep Pod Move
 
@@ -43,7 +43,7 @@ Unit price /  per](https://hugsleep.com/products/sleep-pod-move-adult) 
 
 [![man in bed with hooded sleep pod move](//hugsleep.com/cdn/shop/files/Untitled5.007.jpg?v=1695958490&width=533)
 
-469 reviews
+470 reviews
 
 ### Hooded Sleep Pod Move
 
