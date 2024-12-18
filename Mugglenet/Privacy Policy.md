@@ -246,20 +246,6 @@ MuggleNet Archive Select Month December 2024  (11) November 2024  (23) October
 
 ### December 2024
 
-#### Tue, Dec 17
-
-First meeting of the Dueling Club
-
-Recurs yearly
-
-1992
-
-Harry discovers he is a Parselmouth
-
-Recurs yearly
-
-1992
-
 #### Wed, Dec 18
 
 Fred and George give Harry the Marauder's Map
@@ -342,6 +328,14 @@ Recurs yearly
 
 Scabior
 
+#### Tue, Dec 24
+
+Harry and Hermione visit Godric's Hollow
+
+Recurs yearly
+
+1997
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -352,15 +346,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The Hogwarts grounds were mapped out during the writing of Harry Potter and the Sorcerer’s Stone. The map includes instructions to get to Hogsmeade: “To reach the school by stagecoach, go right around lake to front entrance at North.”
+Rhys Ifans, the actor who plays Xenophilius Lovegood, compared being asked to work on “Harry Potter and the Deathly Hallows” with being knighted.
 
 ### Potter History
 
-November 16, 2010 – The Harry Potter and the Deathly Hallows – Part 1 video game is released in North America.
+December 13, 2007 – The Tales of Beedle the Bard goes up for auction at Sotheby’s and sells for nearly £2 million, far surpassing all expectations.
 
 ### Potter Quote
 
-“Alas! Ear wax!”
+“Hello, Harry Potter. My name is Tom Riddle. How did you come by my diary?”
 
 [](#)
 
