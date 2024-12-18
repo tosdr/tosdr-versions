@@ -4,7 +4,7 @@ Accept Cookies and Terms
 
 [Leave Site](https://google.com/)
 
-[![Minecraft Servers](pagespeed_static/1.JiBnMqyl6S.gif)](https://minecraft-server.net/)
+[![Minecraft Servers](minecraft-servers.png.pagespeed.ce.7HRxM5qnQd.png)](https://minecraft-server.net/)
 
 * [Home](https://minecraft-server.net/)
 * [Server Login](https://minecraft-server.net/user_cpl/)
@@ -29,17 +29,17 @@ Version All 1.21.4 1.21.3 1.21.2 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 
 
 Active Servers
 
-[![Crackex_Network](plugins/MineCraft/icons/25x25xCrackex_Network_1719945700.png.pagespeed.ic.5lGRZnbn0U.jpg)
+[![TotalVanilla](plugins/MineCraft/icons/25x25xTotalVanilla_1734020162.png.pagespeed.ic.TdWQjrJnTo.jpg)
 
-#1 BEST SURVIVAL • CrackexMc](https://minecraft-server.net/details/Crackex_Network/ "#1 BEST SURVIVAL • CrackexMc")[![HeartSMP](plugins/MineCraft/icons/25x25xHeartSMP_1733143122.png.pagespeed.ic._3YAt9VHdc.png)
+Total Vanilla](https://minecraft-server.net/details/TotalVanilla/ "Total Vanilla")[![StigmaPixelmon](plugins/MineCraft/icons/25x25xStigmaPixelmon_1728244261.png.pagespeed.ic.2NSTyGMxqP.png)
 
-HeartSMP SEASON 2](https://minecraft-server.net/details/HeartSMP/ "HeartSMP SEASON 2")[![KoalaServers](plugins/MineCraft/icons/25x25xKoalaServers_1732005494.png.pagespeed.ic.D0QllTPRc1.png)
+Stigma Pixelmon](https://minecraft-server.net/details/StigmaPixelmon/ "Stigma Pixelmon")[![Crackex_Network](plugins/MineCraft/icons/25x25xCrackex_Network_1719945700.png.pagespeed.ic.5lGRZnbn0U.jpg)
 
-KoalaServers | 1.21, Survival, Creative, Land Claiming, Anti-Grief, Economy, Ranks, Player Shops, McMMO, Jobs!](https://minecraft-server.net/details/KoalaServers/ "KoalaServers | 1.21, Survival, Creative, Land Claiming, Anti-Grief, Economy, Ranks, Player Shops, McMMO, Jobs!")[![BlockBay](plugins/MineCraft/icons/25x25xBlockBay_1732970431.png.pagespeed.ic.hriGlZXE0Y.png)
+#1 BEST SURVIVAL • CrackexMc](https://minecraft-server.net/details/Crackex_Network/ "#1 BEST SURVIVAL • CrackexMc")[![axn](plugins/MineCraft/icons/25x25xaxn_1729107605.png.pagespeed.ic.WJSivFsGJ1.jpg)
 
-BlockBay](https://minecraft-server.net/details/BlockBay/ "BlockBay")[![Folas1337](plugins/MineCraft/icons/Folas1337_1706960544.png)
+Anarchy Network](https://minecraft-server.net/details/axn/ "Anarchy Network")[![Gladius](plugins/MineCraft/icons/25x25xGladius_1687724866.png.pagespeed.ic.sE5XXSLjhm.png)
 
-~~ MetaUnion ~~ \[Friendly Community, No Pay2Win, RPG Survival, Creative\]](https://minecraft-server.net/details/Folas1337/ "~~ MetaUnion ~~ [Friendly Community, No Pay2Win, RPG Survival, Creative]")
+Gladius SMP SEMI ANARCHY NO CRYSTAL PVP](https://minecraft-server.net/details/Gladius/ "Gladius SMP SEMI ANARCHY NO CRYSTAL PVP")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Terms and Conditions of Minecraft-Server.net
@@ -125,4 +125,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06225 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06974 - Created by [Debaucus](https://debauc.us/)
