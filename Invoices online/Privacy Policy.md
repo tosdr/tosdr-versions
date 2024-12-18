@@ -117,57 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Instantaneous, Nicely Designed, Graphical Invoices
-> --------------------------------------------------
+> Saving time, saving money
+> -------------------------
 > 
-> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
+> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
 
-Henry Venter
+Cornel Erasmus - TELA Loss Adjusters & Assessors
 
-![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=3ce68fc3817f61fbc830eadef904d6c6403ef701f9f853b902c43515b7645b12&c=56789238)  
-Iurus Inc
-
-![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=3ce68fc3817f61fbc830eadef904d6c6403ef701f9f853b902c43515b7645b12&c=105080967)  
-Dr V Naik Consult
-
-![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=3ce68fc3817f61fbc830eadef904d6c6403ef701f9f853b902c43515b7645b12&c=131867780)  
-Lemba Truck Stop
-
-![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=3ce68fc3817f61fbc830eadef904d6c6403ef701f9f853b902c43515b7645b12&c=181445022)  
-Vplay Grafix
-
-![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=3ce68fc3817f61fbc830eadef904d6c6403ef701f9f853b902c43515b7645b12&c=194147087)  
-MSPCloud (Pty) Ltd
-
-![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=3ce68fc3817f61fbc830eadef904d6c6403ef701f9f853b902c43515b7645b12&c=187538673)  
-VIV'S TRUCKS (Pty) Ltd. (29/31/33)
-
-![valued client Super Sound Man (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7403&file=logo_300_100&type=&fe=3ce68fc3817f61fbc830eadef904d6c6403ef701f9f853b902c43515b7645b12&c=36698598)  
-Super Sound Man (PTY) Ltd
-
-![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=3ce68fc3817f61fbc830eadef904d6c6403ef701f9f853b902c43515b7645b12&c=105914283)  
-VIR Electrical (PTY) LTD
-
-![valued client KZN TRADE DISTRIBUTORS](https://www.invoicesonline.co.za/scripts/image.php?bid=8747&file=logo_300_100&type=&fe=3ce68fc3817f61fbc830eadef904d6c6403ef701f9f853b902c43515b7645b12&c=46700770)  
-KZN TRADE DISTRIBUTORS
-
-![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=3ce68fc3817f61fbc830eadef904d6c6403ef701f9f853b902c43515b7645b12&c=132211914)  
+![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=f93e5d33adbaecb71f1f28aae7aba9964e75d27365c3b033c798a739a7dc0587&c=86359032)  
 BEE SURE CONSULTING (PTY) LTD
 
-![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=3ce68fc3817f61fbc830eadef904d6c6403ef701f9f853b902c43515b7645b12&c=158731871)  
-IYD
+![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=f93e5d33adbaecb71f1f28aae7aba9964e75d27365c3b033c798a739a7dc0587&c=135005903)  
+Import Maaw
 
-![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=3ce68fc3817f61fbc830eadef904d6c6403ef701f9f853b902c43515b7645b12&c=162379856)  
-Goju Ryu Karate Centre
+![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=f93e5d33adbaecb71f1f28aae7aba9964e75d27365c3b033c798a739a7dc0587&c=172523043)  
+Kinetic Power Solutions (Pty) Ltd.
 
-![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=3ce68fc3817f61fbc830eadef904d6c6403ef701f9f853b902c43515b7645b12&c=84125085)  
-Wiselink Broadband Pty Ltd
+![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=f93e5d33adbaecb71f1f28aae7aba9964e75d27365c3b033c798a739a7dc0587&c=133497254)  
+BD Maintenance
 
-![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=3ce68fc3817f61fbc830eadef904d6c6403ef701f9f853b902c43515b7645b12&c=144990679)  
-TRACKFORCE (Pty) Ltd
+![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=f93e5d33adbaecb71f1f28aae7aba9964e75d27365c3b033c798a739a7dc0587&c=177608579)  
+Lily Fern & Co
 
-![valued client Eruca](https://www.invoicesonline.co.za/scripts/image.php?bid=8439&file=logo_300_100&type=&fe=3ce68fc3817f61fbc830eadef904d6c6403ef701f9f853b902c43515b7645b12&c=52820361)  
-Eruca
+![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=f93e5d33adbaecb71f1f28aae7aba9964e75d27365c3b033c798a739a7dc0587&c=55002283)  
+One2b
+
+![valued client Super Sound Man (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7403&file=logo_300_100&type=&fe=f93e5d33adbaecb71f1f28aae7aba9964e75d27365c3b033c798a739a7dc0587&c=101668376)  
+Super Sound Man (PTY) Ltd
+
+![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=f93e5d33adbaecb71f1f28aae7aba9964e75d27365c3b033c798a739a7dc0587&c=178629654)  
+NJR ICT Services (Pty) Ltd
+
+![valued client Roekeloos Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8320&file=logo_300_100&type=&fe=f93e5d33adbaecb71f1f28aae7aba9964e75d27365c3b033c798a739a7dc0587&c=178478598)  
+Roekeloos Group
+
+![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=f93e5d33adbaecb71f1f28aae7aba9964e75d27365c3b033c798a739a7dc0587&c=29467886)  
+Blue Bulls Rugby Coaches Association
+
+![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=f93e5d33adbaecb71f1f28aae7aba9964e75d27365c3b033c798a739a7dc0587&c=13960224)  
+OptaServ
+
+![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=f93e5d33adbaecb71f1f28aae7aba9964e75d27365c3b033c798a739a7dc0587&c=145845558)  
+Salvage Genie
+
+![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=f93e5d33adbaecb71f1f28aae7aba9964e75d27365c3b033c798a739a7dc0587&c=51516735)  
+Vplay Letsheng Mall
+
+![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=f93e5d33adbaecb71f1f28aae7aba9964e75d27365c3b033c798a739a7dc0587&c=130580898)  
+Gemini-IT Group
+
+![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=f93e5d33adbaecb71f1f28aae7aba9964e75d27365c3b033c798a739a7dc0587&c=134456575)  
+PROGRAPHIX PTY LTD
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
