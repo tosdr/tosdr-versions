@@ -4,7 +4,9 @@ x
 
 [Losing your Medicaid Coverage? Click HERE](https://www.crestondental.com/insurance-payment-options#insurance-bottom) 
 
-[](https://www.crestondental.com/ "Creston Dental home")
+[Call Us (803) 590-3054](tel:803-590-3054) [Schedule Appointment](https://www.crestondental.com/schedule-appointment/)
+
+[![](https://www.crestondental.com/wp-content/uploads/sites/4/2024/08/creston_BRACES.png)](https://www.crestondental.com/ "Creston Dental home")
 
 [Call Us (803) 590-3054](tel:803-590-3054) [Schedule Appointment](https://www.crestondental.com/schedule-appointment/)
 
@@ -36,8 +38,6 @@ x
     * [Kids Club](https://www.crestondental.com/kids-club/)
     * [Community Outreach, Media & Photos](https://www.crestondental.com/community-outreach/)
 * [Careers](https://www.crestondental.com/careers/)
-
-[Call Us (803) 590-3054](tel:803-590-3054) [Schedule Appointment](https://www.crestondental.com/schedule-appointment/)
 
 Privacy Notice
 ==============
