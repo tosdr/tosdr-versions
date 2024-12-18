@@ -113,54 +113,54 @@ Advertisement
     The Beginning and the End of the Universe
     
     Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
-* [![Why The Industrial Revolution Happened Here](/wp-content/thumbnails/8018-100x70.jpeg?x53432)
-    
-    Why The Industrial Revolution Happened Here
-    
-    Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
 * [![Suicide](/wp-content/thumbnails/13877-100x70.jpg?x53432)
     
     Suicide
     
     Released in 2001, Suicide is a film directed by Eames Yates and explores the suicide of his own brother which occurred two years prior to this films release. Eames' brother Teddy was 40 when he shot h...](https://documentaryheaven.com/suicide/ "Suicide")
-* [![Why We Bang](/wp-content/thumbnails/1121-100x70.jpg?x53432)
+* [![Why The Industrial Revolution Happened Here](/wp-content/thumbnails/8018-100x70.jpeg?x53432)
     
-    Why We Bang
+    Why The Industrial Revolution Happened Here
     
-    The film, Why We Bang, produced and directed by Orlando Myrics and Clifford Jordan for Ghetto Logik Entertainment is an independent film that documents the historical background of LA's Bloods and Cri...](https://documentaryheaven.com/why-we-bang/ "Why We Bang")
-* [![Behind the Music: Rod Stewart](/wp-content/thumbnails/13712-100x70.jpg?x53432)
+    Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
+* [![September Clues](/wp-content/thumbnails/1588-100x70.jpg?x53432)
     
-    Behind the Music: Rod Stewart
+    September Clues
     
-    Rod Stewart was a rising young Rock n' Roll idol in the fall of 1971 with a No. 1 song and a No. 1 album on both sides of the atlantic. Three decades later after all the bands, blues, breakups and blo...](https://documentaryheaven.com/behind-music-rod-stewart/ "Behind the Music: Rod Stewart")
+    This comprehensive analysis of the 9/11 broadcasts shows how the mainstream media actively participated in the 9/11 false-flag operation aimed at generating public support for illegal wars. This media...](https://documentaryheaven.com/september-clues/ "September Clues")
+* [![Design: e²](/wp-content/thumbnails/2696-100x70.png?x53432)
+    
+    Design: e²
+    
+    The Green Apple. David Owen, a writer for The New Yorker, discusses the complex issues of sustainability as they relate to urban and suburban life. “Green Manhattan,” an article that Owen wrote for Th...](https://documentaryheaven.com/design-e%c2%b2/ "Design: e²")
 
 ###### Throwback Documentaries
 
-* [![Inside Chernobyl](/wp-content/thumbnails/6659-100x70.jpg?x53432)
+* [![Living with Michael Jackson](/wp-content/thumbnails/513-100x70.png?x53432)
     
-    Inside Chernobyl
+    Living with Michael Jackson
     
-    A short film based on current conditions in Chernobyl & Pripyat. Made on a shoe string budget by the director. An amateur documentary with some professionally fleshed out ideas and research. ” Please](https://documentaryheaven.com/inside-chernobyl/ "Inside Chernobyl")
-* [![Swaziland: Gold Mine of Marijuana](/wp-content/thumbnails/8486-100x70.jpg?x53432)
+    Living with Michael Jackson is a Granada Television documentary, in which British journalist Martin Bashir interviewed Michael Jackson over a span of eight months, from May 2002 to January 2003. It wa](https://documentaryheaven.com/living-with-michael-jackson/ "Living with Michael Jackson")
+* [![Worse Than War](/wp-content/thumbnails/4333-100x70.jpg?x53432)
     
-    Swaziland: Gold Mine of Marijuana
+    Worse Than War
     
-    In this edition of Hamilton Morris' "Pharmacopeia‎" vice show, Hamilton and his team pay a visit to the landlocked Kingdom of Swaziland, which is completely surrounded by South Africa and Mozambique a](https://documentaryheaven.com/swaziland-gold-mine-marijuana/ "Swaziland: Gold Mine of Marijuana")
-* [![Feltham Sings](/wp-content/thumbnails/5858-100x70.gif?x53432)
+    WORSE THAN WAR documents Goldhagen's travels, teachings, and interviews in nine countries around the world, bringing viewers on an unprecedented journey of insight and analysis. In a film that is hi](https://documentaryheaven.com/worse-than-war/ "Worse Than War")
+* [![Cat Wars](/wp-content/thumbnails/9384-100x70.jpg?x53432)
     
-    Feltham Sings
+    Cat Wars
     
-    This documentary is – without a shadow of a doubt – one of the most innovative and engrossing documentaries ever aired on British television. Set in Feltham Young Offenders Institution in the United K](https://documentaryheaven.com/feltham-sings/ "Feltham Sings")
-* [![Schizophrenia: Stolen Minds, Stolen Lives](/wp-content/thumbnails/13903-100x70.jpg?x53432)
+    Cats are one of the most popular domesticated animals around and in the United Kingdom their numbers have dramatically risen over the last couple of years to around ten million. This number is vi](https://documentaryheaven.com/cat-wars/ "Cat Wars")
+* [![Lessons in Hate and Violence](/wp-content/thumbnails/5507-100x70.jpg?x53432)
     
-    Schizophrenia: Stolen Minds, Stolen Lives
+    Lessons in Hate and Violence
     
-    This is the story of a nightmare, a demon that strikes healthy teenagers and young adults, it robs them of past, present, future and even life itself. Schizophrenia is considered to be one of the most](https://documentaryheaven.com/schizophrenia-stolen-minds-stolen-lives/ "Schizophrenia: Stolen Minds, Stolen Lives")
-* [![Conspiracy of Silence](/wp-content/thumbnails/4587-100x70.jpg?x53432)
+    Dispatches goes undercover to investigate allegations that teachers regularly assault young children in some of the 2,000 Muslim schools in Britain run by Islamic organizations.The programme also fo](https://documentaryheaven.com/lessons-in-hate-and-violence/ "Lessons in Hate and Violence")
+* [![The Art of Listening](/wp-content/thumbnails/13200-100x70.jpg?x53432)
     
-    Conspiracy of Silence
+    The Art of Listening
     
-    (Banned Discovery Channel Documentary)"Conspiracy of Silence" is a powerful, disturbing documentary revealing a nationwide child abuse and pedophilia ring that leads to the highest levels of gov](https://documentaryheaven.com/conspiracy-of-silence/ "Conspiracy of Silence")
+    The Art of Listening takes us on the journey of music and explores the process involved in allowing it to reach its listener's ear. Starting out with the intent of a instrument maker and composer, mov](https://documentaryheaven.com/art-of-listening/ "The Art of Listening")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
