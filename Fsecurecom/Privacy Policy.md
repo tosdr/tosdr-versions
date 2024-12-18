@@ -12,8 +12,6 @@ Skip to main content
         
         * [Privacy statement](https://www.f-secure.com/en/legal/privacy/statement)
         * [F‑Secure Total](https://www.f-secure.com/en/legal/privacy/total)
-        * [F‑Secure VPN](https://www.f-secure.com/en/legal/privacy/vpn)
-        * [F‑Secure ID Protection](https://www.f-secure.com/en/legal/privacy/id-protection)
         * [F‑Secure Mobile Security](https://www.f-secure.com/en/legal/privacy/mobile-security)
         * [F‑Secure Sense](https://www.f-secure.com/en/legal/privacy/sense)
         * [Support tool](https://www.f-secure.com/en/legal/privacy/support-tool)
@@ -78,8 +76,6 @@ Choose your country
 * Privacy
     * [Privacy statement](https://www.f-secure.com/en/legal/privacy/statement)
     * [F‑Secure Total](https://www.f-secure.com/en/legal/privacy/total)
-    * [F‑Secure VPN](https://www.f-secure.com/en/legal/privacy/vpn)
-    * [F‑Secure ID Protection](https://www.f-secure.com/en/legal/privacy/id-protection)
     * [F‑Secure Mobile Security](https://www.f-secure.com/en/legal/privacy/mobile-security)
     * [F‑Secure Sense](https://www.f-secure.com/en/legal/privacy/sense)
     * [Support tool](https://www.f-secure.com/en/legal/privacy/support-tool)
