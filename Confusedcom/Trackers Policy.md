@@ -278,8 +278,7 @@ Essential cookies allow you to access our service and interact with our website 
 | MC1, MSFPC, MUID | Microsoft owned third party cookie for support chat functionality. Identifies unique web browsers visiting Microsoft sites and are used for advertising, site analytics, and other operational purposes. | 1 year |
 | MicrosoftApplicationsTelemetryDeviceId | Microsoft owned third party cookie for support chat functionality. Track users’ website behaviour and the interaction on the specific device. | 1 year |
 | MS0 | Microsoft owned third party cookie for support chat functionality. Used to identify a specific session. | 1 day |
-
-[](#)
+| ClickedOutQuotes | This cookie is used to identify quotes that a user has clicked out on; we use this to make sure that any quote data sent to third parties is not over-represented. | Expires at midnight on day of cookie drop |
 
 Non-essential cookies
 ---------------------
@@ -363,8 +362,6 @@ We use marketing cookies which help Confused.com to measure the success of our a
 | \_cq\_duid | ChEQ AI Technologies Ltd cookie used to protect our marketing from bots and inappropriate users. This cookie is used to detect domain sessions per device. | 3 months |
 | cg\_uuid | ChEQ AI Technologies Ltd cookie used to protect our marketing from bots and inappropriate users. This cookie is used to detect when the same device is used in a separate browser session, to ensure that is user is detected as malicious, it can be consistently blocked from access to our website. | 1 year |
 
-[](#)
-
 ### Partners and cookies
 
 **Our brands**
@@ -375,7 +372,7 @@ Confused.com, a trading name of Inspop.com Limited. Inspop.com Limited is part o
 
 We work with a range of providers for some of our comparison customer journeys. Some of these partners will drop cookies on our website domain so that they can provide the best experience between the websites. The associated Cookie Policies are operated by the underlying providers and we therefore recommend you review these where relevant. Please visit our [providers page](https://www.confused.com/about-us/providers) for more information on the partners we work with.
 
-**This policy was last updated on 21st November 2024.**
+**This policy was last updated on 18th December 2024.**
 
 ### How do I manage my cookies?
 
