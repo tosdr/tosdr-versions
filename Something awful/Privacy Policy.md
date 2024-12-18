@@ -205,26 +205,27 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [No Mutants Allowed, Scarleteen and Armenian Club](https://www.somethingawful.com/weekend-web/fallout-scarleteen-armenianclub/1/)
-* [The Cauldron, Wiccan Wisdom, and The Witch Forum](https://www.somethingawful.com/weekend-web/witch-forums/1/)
-* [Retro Junk](https://www.somethingawful.com/weekend-web/retrojunk/1/)
-* [Choose Your Own Humanities Career](https://www.somethingawful.com/news/humanities-career/1/)
-* [Frog Bog! (Part 2 of 2)](https://www.somethingawful.com/photoshop-phriday/frog-get-out2/1/)
+* [Variety Pack #15: Photoshops of Photoshop itself! Also: Incidental Markings, Superheroes, and Animals!](https://www.somethingawful.com/photoshop-phriday/variety-pack-splat/1/)
+* [Big Guts](https://www.somethingawful.com/weekend-web/big-guts/1/)
+* [Trading Cards](https://www.somethingawful.com/photoshop-phriday/trading-cards/1/)
+* [The Five-Day Prank](https://www.somethingawful.com/icq-pranks/icq-transcript-fiveday/1/)
+* [Eunuch Archive](https://www.somethingawful.com/weekend-web/eunuch-archive/1/)
 
 ### Popular Threads
 
+* ![](https://fi.somethingawful.com/forums/posticons/cd_classic.gif) [Hooray!](http://forums.somethingawful.com/showthread.php?threadid=4077726 "Hooray!")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [Are you afraid of dying?](http://forums.somethingawful.com/showthread.php?threadid=4077689 "Are you afraid of dying?")
+* ![](https://fi.somethingawful.com/forums/posticons/pi-cock.png) [craft meats](http://forums.somethingawful.com/showthread.php?threadid=4077754 "craft meats")
 * ![](https://fi.somethingawful.com/forums/posticons/fyad-sandwich.gif) [What's the best sour candy?](http://forums.somethingawful.com/showthread.php?threadid=4077714 "What's the best sour candy?")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/fruity.png) [House shoes and slippers](http://forums.somethingawful.com/showthread.php?threadid=4077708 "House shoes and slippers")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [Are you afraid of dying?](http://forums.somethingawful.com/showthread.php?threadid=4077689 "Are you afraid of dying?")
-* ![](https://fi.somethingawful.com/forums/posticons/cd_classic.gif) [Hooray!](http://forums.somethingawful.com/showthread.php?threadid=4077726 "Hooray!")
 
 ### Random Articles
 
-* [Inseminoid](https://www.somethingawful.com/movie-reviews/inseminoid/1/)
-* [Attention Smurfs! You're Being Smurfed!](https://www.somethingawful.com/feature-articles/smurfs-names/)
-* [Le Pac-Man](https://www.somethingawful.com/flash-tub/french-pacman-cartoon/)
-* [VULVA Original](https://www.somethingawful.com/awful-links/awful-link-3626/)
-* [Some Stupid Ass Shit About Balancing Rocks](https://www.somethingawful.com/awful-links/awful-link-826/)
+* [Duamutef's Pit of Iniquity](https://www.somethingawful.com/awful-links/awful-link-3431/)
+* [Deep Hurting Draws Politics](https://www.somethingawful.com/comedy-goldmine/deep-hurting-cartoons/1/)
+* [January 14, 2008](https://www.somethingawful.com/forum-fridays/ff01-14-07/1/)
+* [Blog like you mean it, son](https://www.somethingawful.com/mooflogs/blog-like-you/)
+* [Something Awful vs. the Dog Haired Private Investigator](https://www.somethingawful.com/legal-threats/macnachtan-dog-lawsuit/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
