@@ -123,44 +123,44 @@ Advertisement
     Suicide
     
     Released in 2001, Suicide is a film directed by Eames Yates and explores the suicide of his own brother which occurred two years prior to this films release. Eames' brother Teddy was 40 when he shot h...](https://documentaryheaven.com/suicide/ "Suicide")
-* [![Dispatches: The Killing Zone](/wp-content/thumbnails/481-100x70.png?x53432)
+* [![Why We Bang](/wp-content/thumbnails/1121-100x70.jpg?x53432)
     
-    Dispatches: The Killing Zone
+    Why We Bang
     
-    While the world's attention has been fixed on the war in Iraq, Dispatches reporter Sandra Jordan and producer Rodrigo Vasquez risk their lives to reveal the shocking level of daily violence and murder...](https://documentaryheaven.com/dispatches-the-killing-zone/ "Dispatches: The Killing Zone")
-* [![The Hour Of Our Time: The Legacy of William Cooper](/wp-content/thumbnails/1157-100x70.jpg?x53432)
+    The film, Why We Bang, produced and directed by Orlando Myrics and Clifford Jordan for Ghetto Logik Entertainment is an independent film that documents the historical background of LA's Bloods and Cri...](https://documentaryheaven.com/why-we-bang/ "Why We Bang")
+* [![Behind the Music: Rod Stewart](/wp-content/thumbnails/13712-100x70.jpg?x53432)
     
-    The Hour Of Our Time: The Legacy of William Cooper
+    Behind the Music: Rod Stewart
     
-    Surrounding us in our day-to-day lives are mysteries, that to spend our days pondering would paralyze us from leading productive lives. So we turn away from these thoughts in order to seek out as trou...](https://documentaryheaven.com/the-hour-of-our-time-the-legacy-of-william-cooper/ "The Hour Of Our Time: The Legacy of William Cooper")
+    Rod Stewart was a rising young Rock n' Roll idol in the fall of 1971 with a No. 1 song and a No. 1 album on both sides of the atlantic. Three decades later after all the bands, blues, breakups and blo...](https://documentaryheaven.com/behind-music-rod-stewart/ "Behind the Music: Rod Stewart")
 
 ###### Throwback Documentaries
 
-* [![Ghost Rapes of Bolivia](/wp-content/thumbnails/8054-100x70.jpg?x53432)
+* [![Inside Chernobyl](/wp-content/thumbnails/6659-100x70.jpg?x53432)
     
-    Ghost Rapes of Bolivia
+    Inside Chernobyl
     
-    For a while, the residents of Manitoba Colony thought demons were raping the town's women. There was no other explanation. No way of explaining how a woman could wake up with blood and semen stains sm](https://documentaryheaven.com/ghost-rapes-bolivia/ "Ghost Rapes of Bolivia")
-* [![Africa Addio (Farewell Africa)](/wp-content/thumbnails/2327-100x70.jpg?x53432)
+    A short film based on current conditions in Chernobyl & Pripyat. Made on a shoe string budget by the director. An amateur documentary with some professionally fleshed out ideas and research. ” Please](https://documentaryheaven.com/inside-chernobyl/ "Inside Chernobyl")
+* [![Swaziland: Gold Mine of Marijuana](/wp-content/thumbnails/8486-100x70.jpg?x53432)
     
-    Africa Addio (Farewell Africa)
+    Swaziland: Gold Mine of Marijuana
     
-    Africa Addio is an Italian documentary film made in 1966 about the end of the colonial era in Africa. The film was released under the names “Africa Blood and Guts” in the USA (which was only half of t](https://documentaryheaven.com/africa-addio-farewell-africa/ "Africa Addio (Farewell Africa)")
-* [![Space Race](/wp-content/thumbnails/16236-100x70.jpg?x53432)
+    In this edition of Hamilton Morris' "Pharmacopeia‎" vice show, Hamilton and his team pay a visit to the landlocked Kingdom of Swaziland, which is completely surrounded by South Africa and Mozambique a](https://documentaryheaven.com/swaziland-gold-mine-marijuana/ "Swaziland: Gold Mine of Marijuana")
+* [![Feltham Sings](/wp-content/thumbnails/5858-100x70.gif?x53432)
     
-    Space Race
+    Feltham Sings
     
-    Space Race is a four-part documentary drama series that was released by the BBC in 2005. It chronicles the major events and characters involved in the historic space race that occurred between the So](https://documentaryheaven.com/space-race/ "Space Race")
-* [![Chicago Blues](/wp-content/thumbnails/12735-100x70.jpg?x53432)
+    This documentary is – without a shadow of a doubt – one of the most innovative and engrossing documentaries ever aired on British television. Set in Feltham Young Offenders Institution in the United K](https://documentaryheaven.com/feltham-sings/ "Feltham Sings")
+* [![Schizophrenia: Stolen Minds, Stolen Lives](/wp-content/thumbnails/13903-100x70.jpg?x53432)
     
-    Chicago Blues
+    Schizophrenia: Stolen Minds, Stolen Lives
     
-    Released in 1972 and direct by Harley Cokeliss, Chicago Blues is not just a remarkable film but also one of incredible beauty, crafted with care by professionals who possess a true love and understand](https://documentaryheaven.com/chicago-blues/ "Chicago Blues")
-* [![The First Human](/wp-content/thumbnails/16104-100x70.jpg?x53432)
+    This is the story of a nightmare, a demon that strikes healthy teenagers and young adults, it robs them of past, present, future and even life itself. Schizophrenia is considered to be one of the most](https://documentaryheaven.com/schizophrenia-stolen-minds-stolen-lives/ "Schizophrenia: Stolen Minds, Stolen Lives")
+* [![Conspiracy of Silence](/wp-content/thumbnails/4587-100x70.jpg?x53432)
     
-    The First Human
+    Conspiracy of Silence
     
-    The roots of the human race are shrouded in mystery, lost to the depths of prehistoric time. Although every school kid knows that we evolved from the apes the reality is that almost nothing is known](https://documentaryheaven.com/first-human/ "The First Human")
+    (Banned Discovery Channel Documentary)"Conspiracy of Silence" is a powerful, disturbing documentary revealing a nationwide child abuse and pedophilia ring that leads to the highest levels of gov](https://documentaryheaven.com/conspiracy-of-silence/ "Conspiracy of Silence")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
