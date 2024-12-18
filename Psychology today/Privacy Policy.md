@@ -23,20 +23,20 @@ Mobile Navigation
     
     United States
     
-    * [Austin, TX](https://www.psychologytoday.com/us/therapists/tx/austin "Find a Therapist in Austin, TX")
-    * [Brooklyn, NY](https://www.psychologytoday.com/us/therapists/ny/brooklyn "Find a Therapist in Brooklyn, NY")
-    * [Chicago, IL](https://www.psychologytoday.com/us/therapists/il/chicago "Find a Therapist in Chicago, IL")
-    * [Denver, CO](https://www.psychologytoday.com/us/therapists/co/denver "Find a Therapist in Denver, CO")
-    * [Houston, TX](https://www.psychologytoday.com/us/therapists/tx/houston "Find a Therapist in Houston, TX")
-    * [Los Angeles, CA](https://www.psychologytoday.com/us/therapists/ca/los-angeles "Find a Therapist in Los Angeles, CA")
-    * [New York, NY](https://www.psychologytoday.com/us/therapists/ny/new-york "Find a Therapist in New York, NY")
-    * [Portland, OR](https://www.psychologytoday.com/us/therapists/or/portland "Find a Therapist in Portland, OR")
-    * [San Diego, CA](https://www.psychologytoday.com/us/therapists/ca/san-diego "Find a Therapist in San Diego, CA")
-    * [San Francisco, CA](https://www.psychologytoday.com/us/therapists/ca/san-francisco "Find a Therapist in San Francisco, CA")
-    * [Seattle, WA](https://www.psychologytoday.com/us/therapists/wa/seattle "Find a Therapist in Seattle, WA")
-    * [Washington, DC](https://www.psychologytoday.com/us/therapists/dc/washington "Find a Therapist in Washington, DC")
-    * [Atlanta, GA](https://www.psychologytoday.com/us/therapists/ga/atlanta "Find a Therapist in Atlanta, GA")
-    * [Sacramento, CA](https://www.psychologytoday.com/us/therapists/ca/sacramento "Find a Therapist in Sacramento, CA")
+    * [Austin, TX](https://www.psychologytoday.com/us/therapists/tx/austin "Find an Adlerian Therapist in Austin, TX")
+    * [Brooklyn, NY](https://www.psychologytoday.com/us/therapists/ny/brooklyn "Find an Adlerian Therapist in Brooklyn, NY")
+    * [Chicago, IL](https://www.psychologytoday.com/us/therapists/il/chicago "Find an Adlerian Therapist in Chicago, IL")
+    * [Denver, CO](https://www.psychologytoday.com/us/therapists/co/denver "Find an Adlerian Therapist in Denver, CO")
+    * [Houston, TX](https://www.psychologytoday.com/us/therapists/tx/houston "Find an Adlerian Therapist in Houston, TX")
+    * [Los Angeles, CA](https://www.psychologytoday.com/us/therapists/ca/los-angeles "Find an Adlerian Therapist in Los Angeles, CA")
+    * [New York, NY](https://www.psychologytoday.com/us/therapists/ny/new-york "Find an Adlerian Therapist in New York, NY")
+    * [Portland, OR](https://www.psychologytoday.com/us/therapists/or/portland "Find an Adlerian Therapist in Portland, OR")
+    * [San Diego, CA](https://www.psychologytoday.com/us/therapists/ca/san-diego "Find an Adlerian Therapist in San Diego, CA")
+    * [San Francisco, CA](https://www.psychologytoday.com/us/therapists/ca/san-francisco "Find an Adlerian Therapist in San Francisco, CA")
+    * [Seattle, WA](https://www.psychologytoday.com/us/therapists/wa/seattle "Find an Adlerian Therapist in Seattle, WA")
+    * [Washington, DC](https://www.psychologytoday.com/us/therapists/dc/washington "Find an Adlerian Therapist in Washington, DC")
+    * [Atlanta, GA](https://www.psychologytoday.com/us/therapists/ga/atlanta "Find an Adlerian Therapist in Atlanta, GA")
+    * [Sacramento, CA](https://www.psychologytoday.com/us/therapists/ca/sacramento "Find an Adlerian Therapist in Sacramento, CA")
     
 * [Get Help](#)
     
@@ -205,11 +205,11 @@ e) To comply with US State privacy laws and and certain regional privacy laws, 
 
 [Psychology Today](https://www.psychologytoday.com/us "Psychology Today")
 
-[![Facebook](https://cdn2.psychologytoday.com/theme-assets/logo/logo-facebook.svg)](https://www.facebook.com/psychologytoday "Psychology Today en Facebook")
+[![Facebook](https://cdn2.psychologytoday.com/theme-assets/logo/logo-facebook.svg)](https://www.facebook.com/psychologytoday "Psychology Today on Facebook")
 
-[![Twitter](https://cdn2.psychologytoday.com/theme-assets/logo/logo-twitter.svg)](https://twitter.com/psychtoday "Psychology Today en Twitter")
+[![Twitter](https://cdn2.psychologytoday.com/theme-assets/logo/logo-twitter.svg)](https://twitter.com/psychtoday "Psychology Today on Twitter")
 
-[![Instagram](https://cdn2.psychologytoday.com/theme-assets/logo/logo-instagram.svg)](https://www.instagram.com/psych_today/ "Psychology Today en Instagram")
+[![Instagram](https://cdn2.psychologytoday.com/theme-assets/logo/logo-instagram.svg)](https://www.instagram.com/psych_today/ "Psychology Today on Instagram")
 
 Recent Issues
 
