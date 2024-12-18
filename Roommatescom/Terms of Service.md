@@ -1,15 +1,75 @@
-  [![Roommates logo](https://static.roommates.com/assets/logo_roommates.com@2x-ce1db91d23883e0296601ece15a4595494b6febf671385c68dcda2e895d49b5f.png) ![Roommates.com](https://static.roommates.com/assets/logo_text_roommates.com@2x-b5387ee7aaf43dc3be3437f60dc1d3b52d1f92468e9f78b551559186bb05ace9.png)](https://www.roommates.com/ "Take me to the home page!")[![Roommates logo](https://static.roommates.com/assets/logo_roommates.com@2x-ce1db91d23883e0296601ece15a4595494b6febf671385c68dcda2e895d49b5f.png) ![Roommates.com](https://static.roommates.com/assets/logo_text_roommates.com@2x-b5387ee7aaf43dc3be3437f60dc1d3b52d1f92468e9f78b551559186bb05ace9.png)](https://www.roommates.com/ "Take me to the home page!")
+![](/images/tutorial/promo_square_d_1.jpg) ![](/images/tutorial/promo_square_m_1.jpg)
 
-[Sign in](https://my.roommates.com/users/sign_in) [Sign up](https://my.roommates.com/users/sign_up)
+What's New? Get Ready to Be Amazed!
+-----------------------------------
+
+An all-new roommates.com
+------------------------
+
+New Profile pages
+-----------------
+
+Updated search and more
+-----------------------
+
+Today marks the launch of a completely reimagined Roommates.com.
+
+We're thrilled to unveil our fresh new design, powerful new features, security updates, and an even better way to help you find the perfect roommate match.
+
+Ready to explore the updates? Check out the quick rundown.
+
+Introducing an all-new, updated design including new profiles, a revamped search, messaging, and more.
+
+Now, browsing roommates and showing off your room and personality is easier than ever.
+
+By popular demand, we've also added image sharing in our message center!
+
+We've redesigned our room and roommate profiles to showcase the most important information first, in a clear, concise manner. We've also added:
+
+* **Personality Badges** - Are you a Foodie? Outdoorsy? Show off who you are to potential roommates!
+* **College Students** - Add a badge and connect with others at your university who need or have rooms.
+
+We've updated our search and filters to be more powerful and fast, so you can spend more time messaging and less time searching.
+
+Filter by things like College or University, as well as by our new personality and lifestyle badges to really narrow down your matches.
+
+[Read more on our blog](https://www.roommates.com/blog/roommates-makeover-new-and-improved)
+
+Learn More
+
+1 of 4
 
 [HOLIDAY SALE - SAVE 74%](https://my.roommates.com/membership) 
 
 [Get a discounted VIP **1-year** membership for **$49**](https://my.roommates.com/membership)
 
+[![Roommates.com logo](/images/logo-word.png)](https://my.roommates.com/)
+
+[Sign Up](https://my.roommates.com/users/sign_up) [Sign In](https://my.roommates.com/users/sign_in)
+
+#1 Roommate Finder
+------------------
+
 Roommates.com Terms of Service
 ==============================
 
-**Last updated: June 11, 2024**
+![](/images/group-images@2x-c7b3294deef6a7be1b30395dd933d3d8.png?vsn=d) 10769+ active this month
+
+Roommates.com is the smart, simple, safe way to bring  
+roommates together. [Sign up for free today!](https://my.roommates.com/users/sign_up)
+
+[Search Rooms for Rent](https://my.roommates.com/search?members_type=havers) [Search Roommates](https://my.roommates.com/search?members_type=needers)
+
+[List Your Room For Rent](https://my.roommates.com/users/sign_up?members_type=havers)
+
+![](/images/prelogin/prelogin_header_2.webp)
+
+[Browse Locations](https://my.roommates.com/browse) | [Roommates by Category](https://my.roommates.com/types) | [Search Near Me](https://my.roommates.com/near-me)
+
+ROOMMATES.COM TERMS OF SERVICE
+------------------------------
+
+**Last updated: February 14, 2022**
 
 Please read these Terms of Service ("Terms") carefully. By downloading, accessing, or using the website or other products or services of Roommates.com, LLC or our parent companies, subsidiaries, or our affiliates ("Roommates", "we", or "us"), or the services, features, or functionality jointly offered with other companies through our website (collectively, the "Service" or "Services"), you agree to be bound by these Terms. These Terms affect your legal rights and obligations, so if you do not agree to these Terms, do not use the Services.
 
@@ -29,16 +89,16 @@ We may, in our sole discretion, refuse to offer the Services to any person or en
 2\. Privacy
 -----------
 
-The Roommates Privacy Policy is incorporated into these Terms. By accepting these Terms, you agree to the collection, use, and sharing of your information through the Services in accordance with the Privacy Policy, which is available at [https://my.roommates.com/privacy-policy](https://my.roommates.com/privacy-policy). If there is any conflict between the Privacy Policy and these Terms of Service, these Terms of Service prevail.
+The Roommates Privacy Policy is incorporated into these Terms. By accepting these Terms, you agree to the collection, use, and sharing of your information through the Services in accordance with the Privacy Policy, which is available at [https://roommates.com/privacy-policy](https://my.roommates.com/privacy-policy). If there is any conflict between the Privacy Policy and these Terms of Service, these Terms of Service prevail.
 
 3\. Fees and Costs
 ------------------
 
 Basic membership is free. Basic members can add listings, browse matches, and send direct messages. In order to read messages received from other members, one must upgrade to VIP Membership. Fees for VIP Membership are as follows: $5.99 for a 3-day trial, $19.99 for 30 days, and $29.99 for 60 days. A recurring monthly membership is available for $15.99 per month and renews automatically. Roommates may occasionally offer discounts. All fees are non-refundable, even if you cancel before the expiration of your VIP Membership. If you do cancel your account before your VIP Membership expires, your VIP Membership will remain active until the expiration of the original VIP Membership upgrade period.
 
-We also offer an ID verification service, provided by [Stripe, Inc.](https://stripe.com/identity/legal), for $2.99 if you are not a monthly member. All verification data from this service is provided by Stripe, Inc. and we have no control over the data, questions, or other information provided through this service. Stripe, Inc. is solely responsible for the accuracy and completeness of the verification service. The $2.99 fee is non-refundable whether or not the verification process is successfully completed.
+We also offer a verification service, provided through [Stripe, Inc.](https://stripe.com/identity/legal), for $2.99 if you are not a monthly member. All verification data from this service is provided by Stripe, Inc. and we have no control over the data, questions, or other information provided through this service. Stripe, Inc. is solely responsible for the accuracy and completeness of the verification service. The $2.99 fee is non-refundable whether or not the verification process is successfully completed.
 
-We also require all members to verify their phone number in order to use the Services, and that service is provided by [Twilio, Inc](https://www.twilio.com/). You agree that any and all phone, data, and SMS charges that result from the use of this verification service are at your own expense. We are not responsible for any charges incurred by you through your phone or internet service provider.
+We also offer phone number verification services through [Twilio, Inc](https://www.twilio.com/). You agree that any and all phone, data, and SMS charges that result from the use of this verification service are at your own expense. We are not responsible for any charges incurred by you through your phone or internet service provider.
 
 4\. User Content
 ----------------
@@ -210,36 +270,35 @@ If any provision of these Terms is found unenforceable, then that provision will
 
 Questions and Comments
 
-Roommates welcomes comments, questions, concerns, or suggestions. Please send feedback to us by visiting [https://my.roommates.com/contact](https://my.roommates.com/contact).
+Roommates welcomes comments, questions, concerns, or suggestions. Please send feedback to us by visiting [https://roommates.com/contact](https://my.roommates.com/contact).
+
+Learn More
+
+[About Us](https://my.roommates.com/about-us)  
+[Roommates.com Blog](https://my.roommates.com/blog)  
+[Roommates.com Labs](https://my.roommates.com/labs)  
+[Roommates.com City Guides](https://my.roommates.com/city-guides)  
+
+Rooms & Roommates
+
+[Rooms for Rent](https://my.roommates.com/rooms-for-rent)  
+[Roommate Finder](https://my.roommates.com/roommate-finder)  
+[Roommates Near Me](https://my.roommates.com/near-me)  
+
+Terms & Privacy
+
+[Terms of Service](https://my.roommates.com/tos)  
+[Privacy Policy](https://my.roommates.com/privacy-policy)  
+[Accessibility](https://my.roommates.com/accessibility)  
+[Privacy Control Center](#)  
+
+Get Help
+
+[Help](https://help.roommates.com/ "Opens in a new Tab")  
+[Contact Us](https://my.roommates.com/contact)  
+
+[© 2024 Roommates.com®](https://my.roommates.com/)[](https://my.roommates.com/)
 
 [© 2024 Roommates.com®](https://my.roommates.com/)
 
-[About Us](https://www.roommates.com/about-us)  
-[Roommates.com Blog](https://www.roommates.com/blog)  
-[Roommates.com Labs](https://www.roommates.com/labs)  
-[Rooms for Rent](https://www.roommates.com/rooms-for-rent)  
-[Roommate Finder](https://www.roommates.com/finder)  
-[Roommates Near Me](https://www.roommates.com/near-me)  
-
-[Help](https://help.roommates.com/)  
-[Terms of Service](https://my.roommates.com/tos)  
-[Privacy Policy](https://my.roommates.com/privacy-policy)  
-[Accessibility](https://www.roommates.com/accessibility)  
-[Privacy Control Center](#)  
-[Contact Us](https://my.roommates.com/contact)  
-
-[![Roommates.com on Facebook](https://static.roommates.com/assets/facebook-501a9088fe293f550b4b202c8dd72b6dcdfdc3d82c936d9bd8682ebaf2381d48.svg)](https://www.facebook.com/Roommatesdotcom) [![Roommates.com on Instagram](https://static.roommates.com/assets/instagram-2baca105298afd5ef03046d16d2593ab779907848d1bf685791bedd785c51d59.svg)](https://www.instagram.com/Roommatesdotcom) [![Roommates.com on Twitter](https://static.roommates.com/assets/xitter-2a5e09f2058d22eb3771da677b6090263f0a8a4f0146a1adb6e6d442d7a4d69a.png)](https://www.twitter.com/Roommatesdotcom)
-
-welcome to roommates.com
-------------------------
-
-Sign up to get started, it just takes a few moments
-
-* 
-* 
-* 
-* 
-*  I **have** a room  I **need** a room
-*  I have read, understand, and agree to the [Terms of Service Agreement](https://my.roommates.com/tos).
-* 
-* Get started!
+ [![Roommates.com on Facebook](https://static-staging.roommates.com/assets/facebook-501a9088fe293f550b4b202c8dd72b6dcdfdc3d82c936d9bd8682ebaf2381d48.svg)](https://www.facebook.com/Roommatesdotcom "Opens in a new Tab")[![Roommates.com on Instagram](https://static-staging.roommates.com/assets/instagram-2baca105298afd5ef03046d16d2593ab779907848d1bf685791bedd785c51d59.svg)](https://www.instagram.com/Roommatesdotcom "Opens in a new Tab")[![Roommates.com on X](/images/x.svg)](https://www.x.com/Roommatesdotcom "Opens in a new Tab")
