@@ -103,7 +103,7 @@ We do not use customer data to profile our users.
 
 If you have any further questions or comments about the privacy policy, please [get in touch](page:86F53D6E-5325-4D54-9C2B-D1D3F8BEEBF6). We’re happy to answer any questions you have.
 
-* [About](https://chequered.ink/about/)
+* [About Us](https://chequered.ink/about/)
 * [Contact](https://chequered.ink/contact/)
 * [Terms and Conditions](https://chequered.ink/terms-of-use/)
 * [Privacy Policy](https://chequered.ink/privacy-policy-2/)
