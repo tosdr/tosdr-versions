@@ -35,7 +35,7 @@ ContactEnglish
 
 [**Purchase or refi**
 
-Find the perfect loan for you.](https://apply.rate.com/?&icid=header:apply)
+Find the perfect loan for you.](https://www.rate.com/redirect?dest=https://apply.rate.com&icid=header:apply)
 
 [**HELOC**
 
