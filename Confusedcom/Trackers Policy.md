@@ -279,6 +279,10 @@ Essential cookies allow you to access our service and interact with our website 
 | MicrosoftApplicationsTelemetryDeviceId | Microsoft owned third party cookie for support chat functionality. Track users’ website behaviour and the interaction on the specific device. | 1 year |
 | MS0 | Microsoft owned third party cookie for support chat functionality. Used to identify a specific session. | 1 day |
 | ClickedOutQuotes | This cookie is used to identify quotes that a user has clicked out on; we use this to make sure that any quote data sent to third parties is not over-represented. | Expires at midnight on day of cookie drop |
+| code\_verifier | Confused Energy Authentication cookie to sign Authentication URL. | Session |
+| id\_token | Confused Energy Authentication cookie to ensure the user has been authenticated. | 20 minutes |
+| access\_token | Confused Energy Authentication cookie to ensure the user has been authorised. | 20 minutes |
+| error\_tracker | Confused Energy Authentication cookie to track any redirection loop which could lead to a bad User Experience and handle these loops appropriately. | Session |
 
 Non-essential cookies
 ---------------------
