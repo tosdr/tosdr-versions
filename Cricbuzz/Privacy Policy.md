@@ -38,7 +38,7 @@ More
 
 My Account Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[AUS vs IND - Break](https://www.cricbuzz.com/live-cricket-scores/91796/aus-vs-ind-3rd-test-india-tour-of-australia-2024-25 "Australia v India, 3rd Test - Break")[BAN vs WI - Break](https://www.cricbuzz.com/live-cricket-scores/95241/ban-vs-wi-2nd-t20i-bangladesh-tour-of-west-indies-2024 "Bangladesh v West Indies, 2nd T20I - Break")[RSA vs PAK - PAK Won](https://www.cricbuzz.com/live-cricket-scores/94345/rsa-vs-pak-1st-odi-pakistan-tour-of-south-africa-2024-25 "South Africa v Pakistan, 1st ODI - PAK Won")[INDW vs WIW - WIW Won](https://www.cricbuzz.com/live-cricket-scores/110021/indw-vs-wiw-2nd-t20i-west-indies-women-tour-of-india-2024 "India Women v West Indies Women, 2nd T20I - WIW Won")[MLS vs BRH - Preview](https://www.cricbuzz.com/live-cricket-scores/101577/mls-vs-brh-4th-match-big-bash-league-2024-25 "Melbourne Stars v Brisbane Heat, 4th Match - Preview")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[AUS vs IND - Match drawn](https://www.cricbuzz.com/live-cricket-scores/91796/aus-vs-ind-3rd-test-india-tour-of-australia-2024-25 "Australia v India, 3rd Test - Match drawn")[MLS vs BRH - Preview](https://www.cricbuzz.com/live-cricket-scores/101577/mls-vs-brh-4th-match-big-bash-league-2024-25 "Melbourne Stars v Brisbane Heat, 4th Match - Preview")[BAN vs WI - BAN Won](https://www.cricbuzz.com/live-cricket-scores/95241/ban-vs-wi-2nd-t20i-bangladesh-tour-of-west-indies-2024 "Bangladesh v West Indies, 2nd T20I - BAN Won")[RSA vs PAK - PAK Won](https://www.cricbuzz.com/live-cricket-scores/94345/rsa-vs-pak-1st-odi-pakistan-tour-of-south-africa-2024-25 "South Africa v Pakistan, 1st ODI - PAK Won")[INDW vs WIW - WIW Won](https://www.cricbuzz.com/live-cricket-scores/110021/indw-vs-wiw-2nd-t20i-west-indies-women-tour-of-india-2024 "India Women v West Indies Women, 2nd T20I - WIW Won")
 
 AllLive NowToday
 
@@ -46,7 +46,7 @@ AllLive NowToday
     
     Australia v India
     
-    [Australia vs India](https://www.cricbuzz.com/live-cricket-scores/91796/aus-vs-ind-3rd-test-australia-v-india "Australia v India, 3rd Test - Break")
+    [Australia vs India](https://www.cricbuzz.com/live-cricket-scores/91796/aus-vs-ind-3rd-test-australia-v-india "Australia v India, 3rd Test - Match drawn")
     
     3rd Test
     
@@ -94,7 +94,7 @@ AllLive NowToday
     
     10th Match
     
-* [Oman vs Saudi Arabia](https://www.cricbuzz.com/live-cricket-scores/112293/oman-vs-sau-11th-match-gulf-cricket-t20i-championship "Oman v Saudi Arabia, 11th Match - Preview")
+* [Oman vs Saudi Arabia](https://www.cricbuzz.com/live-cricket-scores/112293/oman-vs-sau-11th-match-gulf-cricket-t20i-championship "Oman v Saudi Arabia, 11th Match - Ings Break")
     
     11th Match
     
@@ -106,15 +106,19 @@ AllLive NowToday
     
     13th Match
     
+* [Qatar vs Bahrain](https://www.cricbuzz.com/live-cricket-scores/112305/qat-vs-bhr-14th-match-gulf-cricket-t20i-championship "Qatar v Bahrain, 14th Match - Upcoming")
+    
+    14th Match
+    
 * ICC Mens T20 World Cup Americas Sub Regional Qualifier, 2024
     
-    [Bermuda vs Cayman Islands](https://www.cricbuzz.com/live-cricket-scores/111505/ber-vs-caym-match-33-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Bermuda v Cayman Islands, Match 33 - BER Won")
-    
-    Match 33
-    
-* [Bahamas vs Mexico](https://www.cricbuzz.com/live-cricket-scores/111513/bhm-vs-mex-match-34-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Bahamas v Mexico, Match 34 - BHM Won")
+    [Bahamas vs Mexico](https://www.cricbuzz.com/live-cricket-scores/111513/bhm-vs-mex-match-34-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Bahamas v Mexico, Match 34 - BHM Won")
     
     Match 34
+    
+* [Bermuda vs Cayman Islands](https://www.cricbuzz.com/live-cricket-scores/111505/ber-vs-caym-match-33-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Bermuda v Cayman Islands, Match 33 - BER Won")
+    
+    Match 33
     
 * [Argentina vs Brazil](https://www.cricbuzz.com/live-cricket-scores/111529/arg-vs-brazil-match-36-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Argentina v Brazil, Match 36 - ARG Won")
     
@@ -126,11 +130,7 @@ AllLive NowToday
     
 * West Indies v Bangladesh, 2024
     
-    [Bangladesh vs West Indies](https://www.cricbuzz.com/live-cricket-scores/95232/ban-vs-wi-1st-t20i-west-indies-v-bangladesh-2024 "Bangladesh v West Indies, 1st T20I - BAN Won")
-    
-    1st T20I
-    
-* [Bangladesh vs West Indies](https://www.cricbuzz.com/live-cricket-scores/95241/ban-vs-wi-2nd-t20i-west-indies-v-bangladesh-2024 "Bangladesh v West Indies, 2nd T20I - Break")
+    [Bangladesh vs West Indies](https://www.cricbuzz.com/live-cricket-scores/95241/ban-vs-wi-2nd-t20i-west-indies-v-bangladesh-2024 "Bangladesh v West Indies, 2nd T20I - BAN Won")
     
     2nd T20I
     
@@ -549,41 +549,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/132825/rain-has-final-say-in-brisbane-as-both-teams-head-to-melbourne-at-1-1 "Rain has final say in Brisbane as both teams head to Melbourne at 1-1")
+
+[Rain has final say in Brisbane as both teams head to Melbourne at 1-1](https://www.cricbuzz.com/cricket-news/132825/rain-has-final-say-in-brisbane-as-both-teams-head-to-melbourne-at-1-1 "Rain has final say in Brisbane as both teams head to Melbourne at 1-1")
+
+1h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132824/ravichandran-ashwin-retires-from-international-cricket "Ravichandran Ashwin retires from international cricket")
+
+[Ravichandran Ashwin retires from international cricket](https://www.cricbuzz.com/cricket-news/132824/ravichandran-ashwin-retires-from-international-cricket "Ravichandran Ashwin retires from international cricket")
+
+1h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132823/clinical-bangladesh-seal-t20i-series-win-over-west-indies "Clinical Bangladesh seal T20I series win over West Indies")
+
+[Clinical Bangladesh seal T20I series win over West Indies](https://www.cricbuzz.com/cricket-news/132823/clinical-bangladesh-seal-t20i-series-win-over-west-indies "Clinical Bangladesh seal T20I series win over West Indies")
+
+1h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132822/tea-report "Australia get swinging, set India a target of 275")
+
+[Australia get swinging, set India a target of 275](https://www.cricbuzz.com/cricket-news/132822/tea-report "Australia get swinging, set India a target of 275")
+
+2h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132821/rain-washes-out-opening-session-on-day-5-after-india-fold-for-260 "Rain washes out opening session on Day 5 after India fold for 260")
+
+[Rain washes out opening session on Day 5 after India fold for 260](https://www.cricbuzz.com/cricket-news/132821/rain-washes-out-opening-session-on-day-5-after-india-fold-for-260 "Rain washes out opening session on Day 5 after India fold for 260")
+
+5h ago
+
   [](https://www.cricbuzz.com/cricket-news/132820/mitchell-santner-officially-appointed-new-zealands-white-ball-captain "Mitchell Santner officially appointed New Zealand's full-time white-ball captain")
 
 [Mitchell Santner officially appointed New Zealand's full-time white-ball captain](https://www.cricbuzz.com/cricket-news/132820/mitchell-santner-officially-appointed-new-zealands-white-ball-captain "Mitchell Santner officially appointed New Zealand's full-time white-ball captain")
 
-1h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132819/aghas-all-round-heroics-ayub-ton-help-pakistan-go-1-0-up "Agha's all-round heroics, Ayub ton help Pakistan go 1-0 up")
-
-[Agha's all-round heroics, Ayub ton help Pakistan go 1-0 up](https://www.cricbuzz.com/cricket-news/132819/aghas-all-round-heroics-ayub-ton-help-pakistan-go-1-0-up "Agha's all-round heroics, Ayub ton help Pakistan go 1-0 up")
-
-5h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132818/bcb-must-adopt-strategic-thinking-for-hp-and-a-team-tours-says-moore "BCB must adopt 'strategic thinking' for HP and A Team Tours, says Moore")
-
-[BCB must adopt 'strategic thinking' for HP and A Team Tours, says Moore](https://www.cricbuzz.com/cricket-news/132818/bcb-must-adopt-strategic-thinking-for-hp-and-a-team-tours-says-moore "BCB must adopt 'strategic thinking' for HP and A Team Tours, says Moore")
-
-6h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132817/england-shine-bright-under-bloems-sun "England shine bright under Bloem's sun")
-
-[England shine bright under Bloem's sun](https://www.cricbuzz.com/cricket-news/132817/england-shine-bright-under-bloems-sun "England shine bright under Bloem's sun")
-
-8h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132816/hayley-matthews-assault-helps-west-indies-level-series "Hayley Matthews assault helps West Indies level series")
-
-[Hayley Matthews assault helps West Indies level series](https://www.cricbuzz.com/cricket-news/132816/hayley-matthews-assault-helps-west-indies-level-series "Hayley Matthews assault helps West Indies level series")
-
-8h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132815/pakistan-spinners-restrict-south-africa-to-2399 "Pakistan spinners restrict South Africa to 239/9")
-
-[Pakistan spinners restrict South Africa to 239/9](https://www.cricbuzz.com/cricket-news/132815/pakistan-spinners-restrict-south-africa-to-2399 "Pakistan spinners restrict South Africa to 239/9")
-
-9h ago
+7h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
