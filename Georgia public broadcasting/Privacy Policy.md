@@ -277,10 +277,10 @@ Don't Miss:
 
 ![](/themes/custom/ga_forest/assets/images/icons/alerts/alert-live-grey.svg)
 
-GHSA Football State Championship 1A Division 1 : Northeast vs Toombs County at 1 P.M.
--------------------------------------------------------------------------------------
+GHSA Football State Championship 5A: Hughes vs Milton at Approx. 7:50 P.M.
+--------------------------------------------------------------------------
 
-[WATCH LIVE](https://www.gpb.org/sports/football/match/2024/12/17/2024-ghsa-1a-division-1-football-championship-northeast-vs-toombs)
+[WATCH LIVE!](https://www.gpb.org/sports/football/match/2024/12/17/2024-ghsa-5a-football-championship-langston-hughes-vs-milton)
 
 Messages
 --------
