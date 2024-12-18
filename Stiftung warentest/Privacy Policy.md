@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Kapital­anleger-Muster­verfahren: Prozess um Schaden­ersatz für Wirecard-Anleger beginnt](https://www.test.de/Kapitalanleger-Musterverfahren-Einer-klagt-fuer-alle-6168143-0/ "Kapitalanleger-Musterverfahren - Prozess um Schadenersatz für Wirecard-Anleger beginnt")
-* [Deutsche Bahn: Neue Zugangs­regeln für DB-Lounge](https://www.test.de/Deutsche-Bahn-Neue-Zugangsregeln-fuer-DB-Lounge-5986611-0/ "Deutsche Bahn - Neue Zugangsregeln für DB-Lounge")
-* [Schnell­test Sprach­verstärker Oskar: Sprache beim Fernsehen besser verstehen](https://www.test.de/Schnelltest-Sprachverstaerker-Oskar-Sprache-beim-Fernsehen-besser-verstehen-5992192-0/ "Schnelltest Sprachverstärker Oskar - Sprache beim Fernsehen besser verstehen")
-* [Mutmacherin: Ein Sieg für alle Frauen](https://www.test.de/Mutmacherin-Ein-Sieg-fuer-alle-Frauen-6041286-0/ "Mutmacherin - Ein Sieg für alle Frauen")
-* [Krebs­versicherung der Hanse Merkur: Kranken­zusatz mit Haken](https://www.test.de/Krebsversicherung-der-Hanse-Merkur-Krankenzusatz-mit-Haken-6018375-0/ "Krebsversicherung der Hanse Merkur - Krankenzusatz mit Haken")
-* [Pizza­öfen im Test: Zu Hause italienisch genießen](https://www.test.de/Pizzaoefen-im-Test-Zu-Hause-italienisch-geniessen-6024589-0/ "Pizzaöfen im Test - Zu Hause italienisch genießen")
+* [Fritzbox als Netz­werk­speicher: Private Cloud mit Fritzbox – ohne extra Netz­werk­speicher](https://www.test.de/Fritzbox-als-Netzwerkspeicher-Eine-guenstige-NAS-Alternative-mit-Abstrichen-6137663-0/ "Fritzbox als Netzwerkspeicher - Private Cloud mit Fritzbox – ohne extra Netzwerkspeicher")
+* [Tomaten im Test: Diese Sorten sind robust](https://www.test.de/Tomaten-im-Test-Diese-Sorten-sind-robust-6105389-0/ "Tomaten im Test - Diese Sorten sind robust")
+* [Börsen­weisheiten: Aktien und Fonds im Mai verkaufen – was ist dran?](https://www.test.de/Boersenweisheiten-Aktien-und-Fonds-im-Mai-verkaufen-was-ist-dran-5999173-0/ "Börsenweisheiten - Aktien und Fonds im Mai verkaufen – was ist dran?")
+* [Rück­ruf Babboe-Lastenfahr­räder: Nun auch Slim Mountain betroffen](https://www.test.de/Lastenfahrraeder-von-Babboe-Verkaufsstopp-und-Rueckruf-wegen-Rahmenbruechen-6098753-0/ "Rückruf Babboe-Lastenfahrräder - Nun auch Slim Mountain betroffen")
+* [E-Auto laden: Gratis Strom tanken? Nur noch selten](https://www.test.de/E-Auto-laden-Gratis-Strom-tanken-Nur-noch-selten-5970181-0/ "E-Auto laden - Gratis Strom tanken? Nur noch selten")
+* [Buy now, pay later: Ratenkauf mit Risiko](https://www.test.de/Ratenkauf-Risiko-Buy-now-pay-later-5979579-0/ "Buy now, pay later - Ratenkauf mit Risiko")
 
 Weitere Informationen
 
@@ -3871,12 +3871,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Kapital­anleger-Muster­verfahren: Prozess um Schaden­ersatz für Wirecard-Anleger beginnt](https://www.test.de/Kapitalanleger-Musterverfahren-Einer-klagt-fuer-alle-6168143-0/ "Kapitalanleger-Musterverfahren - Prozess um Schadenersatz für Wirecard-Anleger beginnt")
-* [Deutsche Bahn: Neue Zugangs­regeln für DB-Lounge](https://www.test.de/Deutsche-Bahn-Neue-Zugangsregeln-fuer-DB-Lounge-5986611-0/ "Deutsche Bahn - Neue Zugangsregeln für DB-Lounge")
-* [Schnell­test Sprach­verstärker Oskar: Sprache beim Fernsehen besser verstehen](https://www.test.de/Schnelltest-Sprachverstaerker-Oskar-Sprache-beim-Fernsehen-besser-verstehen-5992192-0/ "Schnelltest Sprachverstärker Oskar - Sprache beim Fernsehen besser verstehen")
-* [Mutmacherin: Ein Sieg für alle Frauen](https://www.test.de/Mutmacherin-Ein-Sieg-fuer-alle-Frauen-6041286-0/ "Mutmacherin - Ein Sieg für alle Frauen")
-* [Krebs­versicherung der Hanse Merkur: Kranken­zusatz mit Haken](https://www.test.de/Krebsversicherung-der-Hanse-Merkur-Krankenzusatz-mit-Haken-6018375-0/ "Krebsversicherung der Hanse Merkur - Krankenzusatz mit Haken")
-* [Pizza­öfen im Test: Zu Hause italienisch genießen](https://www.test.de/Pizzaoefen-im-Test-Zu-Hause-italienisch-geniessen-6024589-0/ "Pizzaöfen im Test - Zu Hause italienisch genießen")
+* [Fritzbox als Netz­werk­speicher: Private Cloud mit Fritzbox – ohne extra Netz­werk­speicher](https://www.test.de/Fritzbox-als-Netzwerkspeicher-Eine-guenstige-NAS-Alternative-mit-Abstrichen-6137663-0/ "Fritzbox als Netzwerkspeicher - Private Cloud mit Fritzbox – ohne extra Netzwerkspeicher")
+* [Tomaten im Test: Diese Sorten sind robust](https://www.test.de/Tomaten-im-Test-Diese-Sorten-sind-robust-6105389-0/ "Tomaten im Test - Diese Sorten sind robust")
+* [Börsen­weisheiten: Aktien und Fonds im Mai verkaufen – was ist dran?](https://www.test.de/Boersenweisheiten-Aktien-und-Fonds-im-Mai-verkaufen-was-ist-dran-5999173-0/ "Börsenweisheiten - Aktien und Fonds im Mai verkaufen – was ist dran?")
+* [Rück­ruf Babboe-Lastenfahr­räder: Nun auch Slim Mountain betroffen](https://www.test.de/Lastenfahrraeder-von-Babboe-Verkaufsstopp-und-Rueckruf-wegen-Rahmenbruechen-6098753-0/ "Rückruf Babboe-Lastenfahrräder - Nun auch Slim Mountain betroffen")
+* [E-Auto laden: Gratis Strom tanken? Nur noch selten](https://www.test.de/E-Auto-laden-Gratis-Strom-tanken-Nur-noch-selten-5970181-0/ "E-Auto laden - Gratis Strom tanken? Nur noch selten")
+* [Buy now, pay later: Ratenkauf mit Risiko](https://www.test.de/Ratenkauf-Risiko-Buy-now-pay-later-5979579-0/ "Buy now, pay later - Ratenkauf mit Risiko")
 
 Weitere spannende Themen
 
@@ -3891,12 +3891,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Kapital­anleger-Muster­verfahren: Prozess um Schaden­ersatz für Wirecard-Anleger beginnt](https://www.test.de/Kapitalanleger-Musterverfahren-Einer-klagt-fuer-alle-6168143-0/ "Kapitalanleger-Musterverfahren - Prozess um Schadenersatz für Wirecard-Anleger beginnt")
-* [Deutsche Bahn: Neue Zugangs­regeln für DB-Lounge](https://www.test.de/Deutsche-Bahn-Neue-Zugangsregeln-fuer-DB-Lounge-5986611-0/ "Deutsche Bahn - Neue Zugangsregeln für DB-Lounge")
-* [Schnell­test Sprach­verstärker Oskar: Sprache beim Fernsehen besser verstehen](https://www.test.de/Schnelltest-Sprachverstaerker-Oskar-Sprache-beim-Fernsehen-besser-verstehen-5992192-0/ "Schnelltest Sprachverstärker Oskar - Sprache beim Fernsehen besser verstehen")
-* [Mutmacherin: Ein Sieg für alle Frauen](https://www.test.de/Mutmacherin-Ein-Sieg-fuer-alle-Frauen-6041286-0/ "Mutmacherin - Ein Sieg für alle Frauen")
-* [Krebs­versicherung der Hanse Merkur: Kranken­zusatz mit Haken](https://www.test.de/Krebsversicherung-der-Hanse-Merkur-Krankenzusatz-mit-Haken-6018375-0/ "Krebsversicherung der Hanse Merkur - Krankenzusatz mit Haken")
-* [Pizza­öfen im Test: Zu Hause italienisch genießen](https://www.test.de/Pizzaoefen-im-Test-Zu-Hause-italienisch-geniessen-6024589-0/ "Pizzaöfen im Test - Zu Hause italienisch genießen")
+* [Fritzbox als Netz­werk­speicher: Private Cloud mit Fritzbox – ohne extra Netz­werk­speicher](https://www.test.de/Fritzbox-als-Netzwerkspeicher-Eine-guenstige-NAS-Alternative-mit-Abstrichen-6137663-0/ "Fritzbox als Netzwerkspeicher - Private Cloud mit Fritzbox – ohne extra Netzwerkspeicher")
+* [Tomaten im Test: Diese Sorten sind robust](https://www.test.de/Tomaten-im-Test-Diese-Sorten-sind-robust-6105389-0/ "Tomaten im Test - Diese Sorten sind robust")
+* [Börsen­weisheiten: Aktien und Fonds im Mai verkaufen – was ist dran?](https://www.test.de/Boersenweisheiten-Aktien-und-Fonds-im-Mai-verkaufen-was-ist-dran-5999173-0/ "Börsenweisheiten - Aktien und Fonds im Mai verkaufen – was ist dran?")
+* [Rück­ruf Babboe-Lastenfahr­räder: Nun auch Slim Mountain betroffen](https://www.test.de/Lastenfahrraeder-von-Babboe-Verkaufsstopp-und-Rueckruf-wegen-Rahmenbruechen-6098753-0/ "Rückruf Babboe-Lastenfahrräder - Nun auch Slim Mountain betroffen")
+* [E-Auto laden: Gratis Strom tanken? Nur noch selten](https://www.test.de/E-Auto-laden-Gratis-Strom-tanken-Nur-noch-selten-5970181-0/ "E-Auto laden - Gratis Strom tanken? Nur noch selten")
+* [Buy now, pay later: Ratenkauf mit Risiko](https://www.test.de/Ratenkauf-Risiko-Buy-now-pay-later-5979579-0/ "Buy now, pay later - Ratenkauf mit Risiko")
 
 Neueste Tests
 
@@ -3909,12 +3909,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Kapital­anleger-Muster­verfahren: Prozess um Schaden­ersatz für Wirecard-Anleger beginnt](https://www.test.de/Kapitalanleger-Musterverfahren-Einer-klagt-fuer-alle-6168143-0/ "Kapitalanleger-Musterverfahren - Prozess um Schadenersatz für Wirecard-Anleger beginnt")
-* [Deutsche Bahn: Neue Zugangs­regeln für DB-Lounge](https://www.test.de/Deutsche-Bahn-Neue-Zugangsregeln-fuer-DB-Lounge-5986611-0/ "Deutsche Bahn - Neue Zugangsregeln für DB-Lounge")
-* [Schnell­test Sprach­verstärker Oskar: Sprache beim Fernsehen besser verstehen](https://www.test.de/Schnelltest-Sprachverstaerker-Oskar-Sprache-beim-Fernsehen-besser-verstehen-5992192-0/ "Schnelltest Sprachverstärker Oskar - Sprache beim Fernsehen besser verstehen")
-* [Mutmacherin: Ein Sieg für alle Frauen](https://www.test.de/Mutmacherin-Ein-Sieg-fuer-alle-Frauen-6041286-0/ "Mutmacherin - Ein Sieg für alle Frauen")
-* [Krebs­versicherung der Hanse Merkur: Kranken­zusatz mit Haken](https://www.test.de/Krebsversicherung-der-Hanse-Merkur-Krankenzusatz-mit-Haken-6018375-0/ "Krebsversicherung der Hanse Merkur - Krankenzusatz mit Haken")
-* [Pizza­öfen im Test: Zu Hause italienisch genießen](https://www.test.de/Pizzaoefen-im-Test-Zu-Hause-italienisch-geniessen-6024589-0/ "Pizzaöfen im Test - Zu Hause italienisch genießen")
+* [Fritzbox als Netz­werk­speicher: Private Cloud mit Fritzbox – ohne extra Netz­werk­speicher](https://www.test.de/Fritzbox-als-Netzwerkspeicher-Eine-guenstige-NAS-Alternative-mit-Abstrichen-6137663-0/ "Fritzbox als Netzwerkspeicher - Private Cloud mit Fritzbox – ohne extra Netzwerkspeicher")
+* [Tomaten im Test: Diese Sorten sind robust](https://www.test.de/Tomaten-im-Test-Diese-Sorten-sind-robust-6105389-0/ "Tomaten im Test - Diese Sorten sind robust")
+* [Börsen­weisheiten: Aktien und Fonds im Mai verkaufen – was ist dran?](https://www.test.de/Boersenweisheiten-Aktien-und-Fonds-im-Mai-verkaufen-was-ist-dran-5999173-0/ "Börsenweisheiten - Aktien und Fonds im Mai verkaufen – was ist dran?")
+* [Rück­ruf Babboe-Lastenfahr­räder: Nun auch Slim Mountain betroffen](https://www.test.de/Lastenfahrraeder-von-Babboe-Verkaufsstopp-und-Rueckruf-wegen-Rahmenbruechen-6098753-0/ "Rückruf Babboe-Lastenfahrräder - Nun auch Slim Mountain betroffen")
+* [E-Auto laden: Gratis Strom tanken? Nur noch selten](https://www.test.de/E-Auto-laden-Gratis-Strom-tanken-Nur-noch-selten-5970181-0/ "E-Auto laden - Gratis Strom tanken? Nur noch selten")
+* [Buy now, pay later: Ratenkauf mit Risiko](https://www.test.de/Ratenkauf-Risiko-Buy-now-pay-later-5979579-0/ "Buy now, pay later - Ratenkauf mit Risiko")
 
 Stiftung Warentest
 
