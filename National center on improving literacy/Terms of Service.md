@@ -153,10 +153,9 @@ Contact Us
 
 * [_Email Us_](https://contact.improvingliteracy.org/contact-form/)
 * [Follow us on Facebook](https://www.facebook.com/improvingliteracy)
-* [Follow us on Twitter](https://twitter.com/nciliteracy)
 * [Subscribe to our YouTube Feed](https://www.youtube.com/channel/UCiGnchMYDuyabVFS9NsjPkg)
 
-### Share [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.facebook.com/improvingliteracy)   [Share on Twitter](https://twitter.com/home?status=https%3A//twitter.com/nciliteracy)
+### Share [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.facebook.com/improvingliteracy)
 
 The research reported here is funded by a grant to the National Center on Improving Literacy from the Office of Elementary and Secondary Education, in partnership with the Office of Special Education Programs (Award #: H283D210004). The opinions or policies expressed are those of the authors and do not represent views of OESE, OSEP, or the U.S. Department of Education. You should not assume endorsement by the Federal government. Copyright © 2024 National Center on Improving Literacy.
 
