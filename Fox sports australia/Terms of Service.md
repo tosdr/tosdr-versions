@@ -26,16 +26,6 @@ FOX SCORES
     | IND | 260 & 0 /8 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250503)
-* [Men's T20I
-    
-    BAN won by 27 runs
-    
-    |     |     |
-    | --- | --- |
-    | WI  | 102 |
-    | BAN | 7 /129 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20I2024-251202)
 * [Women's ODI
     
     19/12 9:00 AEST
@@ -78,6 +68,16 @@ FOX SCORES
     | SYD | 73  |
     
     Match Centre](https://www.foxsports.com.au/basketball/wnbl/match-centre/WNBL2024-25080001/play-by-play)
+* [WNBL
+    
+    19/12 18:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | BEN | –   |
+    | PER | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/wnbl/match-centre/WNBL2024-25080002)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
