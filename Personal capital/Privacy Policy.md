@@ -12,6 +12,8 @@ Sorry, you need to enable JavaScript to visit this website.
 
 [Financial professionals](https://www.personalcapital.com/financial-professionals/what-we-offer/financial-professionals-overview "Financial professionals")
 
+    
+
 [Individuals](#block-mobile-secondarynavigationpersonalinvestors)
 
 WM 2.0 - Main Navigation
