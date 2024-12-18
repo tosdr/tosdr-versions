@@ -64,19 +64,19 @@ Suggested Searches
 
 ### Featured
 
-[![Perseverance view from the top](https://www.nasa.gov/wp-content/uploads/2024/12/1-pia26511-perseverances-view-from-the-top-16.jpg?w=1024)
+[![NASA’s Webb Finds Planet-Forming Disks Lived Longer in Early Universe](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2024/webb-STScI-01JC439JQCXEY252WM2K1QF6Q6-2K.jpg)
 
-5 min read
+7 min read
 
-### NASA’s Perseverance Rover Reaches Top of Jezero Crater Rim
+### NASA’s Webb Finds Planet-Forming Disks Lived Longer in Early Universe
 
-article5 days ago](https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-reaches-top-of-jezero-crater-rim/)[![Hubble Images a Grand Spiral](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_NGC5643_potw2450a.jpg)
+article2 days ago](https://science.nasa.gov/missions/webb/nasas-webb-finds-planet-forming-disks-lived-longer-in-early-universe/)[![A digital rendering of the Starlab, which includes a large habitation and laboratory module with a smaller service module for power and propulsion (Credit: Starlab).](https://www.nasa.gov/wp-content/uploads/2024/12/starlab-rendering-04.png?w=1024)
 
-2 min read
+3 min read
 
-### Hubble Images a Grand Spiral
+### NASA Sees Progress on Starlab Commercial Space Station Development
 
-article4 days ago](https://science.nasa.gov/missions/hubble/hubble-images-a-grand-spiral/)[![What’s Up: December 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/parkcityutmeteor-credit-nasa-bill-dunford-jpg.webp)
+article1 day ago](https://www.nasa.gov/general/nasa-sees-progress-on-starlab-commercial-space-station-development/)[![What’s Up: December 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/parkcityutmeteor-credit-nasa-bill-dunford-jpg.webp)
 
 5 min read
 
@@ -241,47 +241,47 @@ Back
 
 ### Featured
 
-[![Hubble Images a Grand Spiral](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_NGC5643_potw2450a.jpg)
-
-2 min read
-
-### Hubble Images a Grand Spiral
-
-article 4 days ago](https://science.nasa.gov/missions/hubble/hubble-images-a-grand-spiral/)[![Roman Integrated Payload Assembly](https://www.nasa.gov/wp-content/uploads/2024/12/ipa-ssdif-1124-copy-2.jpg?w=819)
-
-4 min read
-
-### NASA Successfully Integrates Roman Mission’s Telescope, Instruments
-
-article 5 days ago](https://www.nasa.gov/missions/roman-space-telescope/nasa-successfully-integrates-roman-missions-telescope-instruments/)[![The north polar region of Jupiter’s volcanic moon Io](https://www.nasa.gov/wp-content/uploads/2024/12/1-pia26484-io-north-polar-region.png?w=1024)
+[![NASA DAVINCI Mission’s Many ‘Firsts’ to Unlock Venus’ Hidden Secrets](https://science.nasa.gov/wp-content/uploads/2023/06/davinci-probe-on-surface-1280x900-1.jpg)
 
 5 min read
 
-### NASA’s Juno Mission Uncovers Heart of Jovian Moon’s Volcanic Rage
+### NASA DAVINCI Mission’s Many ‘Firsts’ to Unlock Venus’ Hidden Secrets
 
-article 5 days ago](https://www.nasa.gov/missions/juno/nasas-juno-mission-uncovers-heart-of-jovian-moons-volcanic-rage/)
+article 2 days ago](https://science.nasa.gov/missions/davinci/davincis-many-firsts-at-venus/)[![NASA’s Webb Finds Planet-Forming Disks Lived Longer in Early Universe](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2024/webb-STScI-01JC439JQCXEY252WM2K1QF6Q6-2K.jpg)
+
+7 min read
+
+### NASA’s Webb Finds Planet-Forming Disks Lived Longer in Early Universe
+
+article 2 days ago](https://science.nasa.gov/missions/webb/nasas-webb-finds-planet-forming-disks-lived-longer-in-early-universe/)[![NASA’s retired InSight Mars lander was captured by the agency’s Mars Reconnaissance Orbiter](https://www.nasa.gov/wp-content/uploads/2024/12/1-hirise-spots-insight-in-october-2024-jpg-2024-12-12-at-4-53-40 pm.png?w=1024)
+
+5 min read
+
+### NASA Mars Orbiter Spots Retired InSight Lander to Study Dust Movement
+
+article 2 days ago](https://www.nasa.gov/missions/insight/nasa-mars-orbiter-spots-retired-insight-lander-to-study-dust-movement/)
 
 ### Highlights
 
-[![The Orion Environmental Test Article, blackened from its spaceflight, is photographed sitting on a white platform inside the shadowed aluminum vacuum chamber at NASA’s Neil Armstrong Test Facility. A woman with dark hair wearing a black sweatshirt appears in the lower right corner of the photo.](https://www.nasa.gov/wp-content/uploads/2024/12/grc-2024-c-04397.jpg?w=1024)
+[![NASA Deputy Administrator Pam Melroy speaks at the Microgravity Science Summit at the Eisenhower Executive Office Building, Monday, Dec. 13, 2024, in Washington.](https://www.nasa.gov/wp-content/uploads/2024/12/54209473735-9c0e7194b9-k.jpg?w=1024)
+
+3 min read
+
+### NASA Participates in Microgravity Science Summit
+
+article 10 hours ago](https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-participates-in-microgravity-science-summit/)[![The Orion Environmental Test Article, blackened from its spaceflight, is photographed sitting on a white platform inside the shadowed aluminum vacuum chamber at NASA’s Neil Armstrong Test Facility. A woman with dark hair wearing a black sweatshirt appears in the lower right corner of the photo.](https://www.nasa.gov/wp-content/uploads/2024/12/grc-2024-c-04397.jpg?w=1024)
 
 5 min read
 
 ### Orion Spacecraft Tested in Ohio After Artemis I Mission
 
-article 7 hours ago](https://www.nasa.gov/centers-and-facilities/glenn/orion-spacecraft-tested-in-ohio-after-artemis-i-mission/)[![](https://www.nasa.gov/wp-content/uploads/2024/12/iss060e033086.jpg?w=1024)
+article 17 hours ago](https://www.nasa.gov/centers-and-facilities/glenn/orion-spacecraft-tested-in-ohio-after-artemis-i-mission/)[![](https://www.nasa.gov/wp-content/uploads/2024/12/iss060e033086.jpg?w=1024)
 
 2 min read
 
 ### Station Science Top News: Dec. 13, 2024
 
-article 23 hours ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-dec-13-2024/)[![A digital rendering of the Starlab, which includes a large habitation and laboratory module with a smaller service module for power and propulsion (Credit: Starlab).](https://www.nasa.gov/wp-content/uploads/2024/12/starlab-rendering-04.png?w=1024)
-
-3 min read
-
-### NASA Sees Progress on Starlab Commercial Space Station Development
-
-article 24 hours ago](https://www.nasa.gov/general/nasa-sees-progress-on-starlab-commercial-space-station-development/)
+article 1 day ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-dec-13-2024/)
 
 ### Highlights
 
@@ -291,19 +291,19 @@ article 24 hours ago](https://www.nasa.gov/general/nasa-sees-progress-on-starlab
 
 ### Cutting-Edge Satellite Tracks Lake Water Levels in Ohio River Basin
 
-article 7 mins ago](https://www.nasa.gov/missions/swot/cutting-edge-satellite-tracks-lake-water-levels-in-ohio-river-basin/)[![Watersheds on the U.S. Eastern Seaboard](https://www.nasa.gov/wp-content/uploads/2024/12/1-terra-modis-04-21-23.jpg?w=1024)
+article 10 hours ago](https://www.nasa.gov/missions/swot/cutting-edge-satellite-tracks-lake-water-levels-in-ohio-river-basin/)[![Watersheds on the U.S. Eastern Seaboard](https://www.nasa.gov/wp-content/uploads/2024/12/1-terra-modis-04-21-23.jpg?w=1024)
 
 5 min read
 
 ### NASA-DOD Study: Saltwater to Widely Taint Coastal Groundwater by 2100
 
-article 6 days ago](https://www.nasa.gov/missions/space-shuttle/srtm/nasa-dod-study-saltwater-to-widely-taint-coastal-groundwater-by-2100/)[![NASA Study: Crops, Forests Responding to Changing Rainfall Patterns](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2024/1-precip%20map.jpg)
+article 7 days ago](https://www.nasa.gov/missions/space-shuttle/srtm/nasa-dod-study-saltwater-to-widely-taint-coastal-groundwater-by-2100/)[![NASA Study: Crops, Forests Responding to Changing Rainfall Patterns](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2024/1-precip%20map.jpg)
 
 4 min read
 
 ### NASA Study: Crops, Forests Responding to Changing Rainfall Patterns
 
-article 6 days ago](https://science.nasa.gov/earth/water-on-earth/nasa-study-crops-forests-responding-to-changing-rainfall-patterns/)
+article 7 days ago](https://science.nasa.gov/earth/water-on-earth/nasa-study-crops-forests-responding-to-changing-rainfall-patterns/)
 
 ### Highlights
 
@@ -313,13 +313,13 @@ article 6 days ago](https://science.nasa.gov/earth/water-on-earth/nasa-study-cro
 
 ### NASA Mars Orbiter Spots Retired InSight Lander to Study Dust Movement
 
-article 1 day ago](https://www.nasa.gov/missions/insight/nasa-mars-orbiter-spots-retired-insight-lander-to-study-dust-movement/)[![NASA DAVINCI Mission’s Many ‘Firsts’ to Unlock Venus’ Hidden Secrets](https://science.nasa.gov/wp-content/uploads/2023/06/davinci-probe-on-surface-1280x900-1.jpg)
+article 2 days ago](https://www.nasa.gov/missions/insight/nasa-mars-orbiter-spots-retired-insight-lander-to-study-dust-movement/)[![NASA DAVINCI Mission’s Many ‘Firsts’ to Unlock Venus’ Hidden Secrets](https://science.nasa.gov/wp-content/uploads/2023/06/davinci-probe-on-surface-1280x900-1.jpg)
 
 5 min read
 
 ### NASA DAVINCI Mission’s Many ‘Firsts’ to Unlock Venus’ Hidden Secrets
 
-article 1 day ago](https://science.nasa.gov/missions/davinci/davincis-many-firsts-at-venus/)[![](https://www.nasa.gov/wp-content/uploads/2024/12/nasas-europa-clipper-mission.jpg?w=1024)
+article 2 days ago](https://science.nasa.gov/missions/davinci/davincis-many-firsts-at-venus/)[![](https://www.nasa.gov/wp-content/uploads/2024/12/nasas-europa-clipper-mission.jpg?w=1024)
 
 7 min read
 
@@ -335,19 +335,19 @@ article 5 days ago](https://www.nasa.gov/centers-and-facilities/kennedy/nasa-ken
 
 ### Very Cold Detectors Reveal the Very Hot Universe and Kick Off a New Era in X-ray Astronomy
 
-article 8 hours ago](https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/very-cold-detectors-reveal-the-very-hot-universe-and-kick-off-a-new-era-in-x-ray-astronomy/)[![NASA’s Webb Finds Planet-Forming Disks Lived Longer in Early Universe](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2024/webb-STScI-01JC439JQCXEY252WM2K1QF6Q6-2K.jpg)
+article 18 hours ago](https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/very-cold-detectors-reveal-the-very-hot-universe-and-kick-off-a-new-era-in-x-ray-astronomy/)[![NASA’s Webb Finds Planet-Forming Disks Lived Longer in Early Universe](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2024/webb-STScI-01JC439JQCXEY252WM2K1QF6Q6-2K.jpg)
 
 7 min read
 
 ### NASA’s Webb Finds Planet-Forming Disks Lived Longer in Early Universe
 
-article 1 day ago](https://science.nasa.gov/missions/webb/nasas-webb-finds-planet-forming-disks-lived-longer-in-early-universe/)[![Hubble Images a Grand Spiral](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_NGC5643_potw2450a.jpg)
+article 2 days ago](https://science.nasa.gov/missions/webb/nasas-webb-finds-planet-forming-disks-lived-longer-in-early-universe/)[![Hubble Images a Grand Spiral](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_NGC5643_potw2450a.jpg)
 
 2 min read
 
 ### Hubble Images a Grand Spiral
 
-article 4 days ago](https://science.nasa.gov/missions/hubble/hubble-images-a-grand-spiral/)
+article 5 days ago](https://science.nasa.gov/missions/hubble/hubble-images-a-grand-spiral/)
 
 ### Highlights
 
@@ -357,19 +357,19 @@ article 4 days ago](https://science.nasa.gov/missions/hubble/hubble-images-a-gra
 
 ### GL4U On-Demand Courses
 
-article 19 mins ago](https://www.nasa.gov/gl4u-on-demand-courses/)[![Very Cold Detectors Reveal the Very Hot Universe and Kick Off a New Era in X-ray Astronomy](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/technology-highlights/2024/Kilbourne_Resolve-array_install.jpg)
+article 11 hours ago](https://www.nasa.gov/gl4u-on-demand-courses/)[![Very Cold Detectors Reveal the Very Hot Universe and Kick Off a New Era in X-ray Astronomy](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/technology-highlights/2024/Kilbourne_Resolve-array_install.jpg)
 
 7 min read
 
 ### Very Cold Detectors Reveal the Very Hot Universe and Kick Off a New Era in X-ray Astronomy
 
-article 8 hours ago](https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/very-cold-detectors-reveal-the-very-hot-universe-and-kick-off-a-new-era-in-x-ray-astronomy/)[![](https://www.nasa.gov/wp-content/uploads/2024/12/iss060e033086.jpg?w=1024)
+article 18 hours ago](https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/very-cold-detectors-reveal-the-very-hot-universe-and-kick-off-a-new-era-in-x-ray-astronomy/)[![](https://www.nasa.gov/wp-content/uploads/2024/12/iss060e033086.jpg?w=1024)
 
 2 min read
 
 ### Station Science Top News: Dec. 13, 2024
 
-article 23 hours ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-dec-13-2024/)
+article 1 day ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-dec-13-2024/)
 
 ### Highlights
 
@@ -385,7 +385,7 @@ article 4 days ago](https://www.nasa.gov/hiact/)[![A man wearing a blue hard hat
 
 ### Dynamic Spin Rig
 
-article 5 days ago](https://www.nasa.gov/dynamic-spin-rig/)[![An atmospheric probe model carried by a quad rotor aircraft rises and the Moon is visible.](https://images-assets.nasa.gov/image/AFRC2024-0166-032/AFRC2024-0166-032~large.jpg?w=1919&h=1281&fit=clip&crop=faces%2Cfocalpoint)
+article 6 days ago](https://www.nasa.gov/dynamic-spin-rig/)[![An atmospheric probe model carried by a quad rotor aircraft rises and the Moon is visible.](https://images-assets.nasa.gov/image/AFRC2024-0166-032/AFRC2024-0166-032~large.jpg?w=1919&h=1281&fit=clip&crop=faces%2Cfocalpoint)
 
 3 min read
 
@@ -401,13 +401,13 @@ article 6 days ago](https://www.nasa.gov/centers-and-facilities/armstrong/atmosp
 
 ### NASA Mars Orbiter Spots Retired InSight Lander to Study Dust Movement
 
-article 1 day ago](https://www.nasa.gov/missions/insight/nasa-mars-orbiter-spots-retired-insight-lander-to-study-dust-movement/)[![Animation showing air moving through a disc brake.](https://www.nasa.gov/wp-content/uploads/2024/12/orbis-2.gif?w=960)
+article 2 days ago](https://www.nasa.gov/missions/insight/nasa-mars-orbiter-spots-retired-insight-lander-to-study-dust-movement/)[![Animation showing air moving through a disc brake.](https://www.nasa.gov/wp-content/uploads/2024/12/orbis-2.gif?w=960)
 
 3 min read
 
 ### NASA Gives The World a Brake
 
-article 5 days ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-gives-the-world-a-brake/)[![Researchers Al Capps (seated) and Paul Borchers demonstrate Airspace Technology Demonstration 2 (ATD-2) tools that air traffic managers began testing in 2017.](https://www.nasa.gov/wp-content/uploads/2021/09/dsc_0007.jpg?w=1024)
+article 6 days ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-gives-the-world-a-brake/)[![Researchers Al Capps (seated) and Paul Borchers demonstrate Airspace Technology Demonstration 2 (ATD-2) tools that air traffic managers began testing in 2017.](https://www.nasa.gov/wp-content/uploads/2021/09/dsc_0007.jpg?w=1024)
 
 3 min read
 
@@ -423,23 +423,23 @@ article 3 weeks ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/an-e
 
 ### They Grow So Fast: Moon Tree Progress Since NASA’s Artemis I Mission
 
-article 6 days ago](https://www.nasa.gov/learning-resources/moon-tree-progress-since-nasas-artemis-i-mission/)
+article 7 days ago](https://www.nasa.gov/learning-resources/moon-tree-progress-since-nasas-artemis-i-mission/)
 
 ### Featured
 
-[![Artist rendition of astronaut inspecting dust on the lunar surface.](https://www.nasa.gov/wp-content/uploads/2022/12/dust-mitigation-2.jpg?w=1024)
+[![](https://www.nasa.gov/wp-content/uploads/2024/12/img-2153b-1.jpeg?w=1024)
 
-5 min read
+2 min read
 
-### NASA Technologies Aim to Solve Housekeeping’s Biggest Issue – Dust
+### Transforming Space Exploration: NASA and Northrop Grumman’s Digital Engineering Collaboration
 
-article 4 days ago](https://www.nasa.gov/directorates/stmd/nasa-technologies-aim-to-solve-housekeepings-biggest-issue-dust/)[![Children sitting in a circle around a newly planted Moon tree and learning about NASA's Artemis I mission.](https://www.nasa.gov/wp-content/uploads/2024/12/img-7413-adria-gillespie.jpg?w=1024)
+article 16 hours ago](https://www.nasa.gov/organizations/ocio/dt/nasa-northrupgrumman-digitalengineering/)[![A black drone with an orange top in flight in Nevada.](https://www.nasa.gov/wp-content/uploads/2024/12/drone-test.jpg?w=1024)
 
 3 min read
 
-### They Grow So Fast: Moon Tree Progress Since NASA’s Artemis I Mission
+### NASA Moves Drone Package Delivery Industry Closer to Reality
 
-article 6 days ago](https://www.nasa.gov/learning-resources/moon-tree-progress-since-nasas-artemis-i-mission/)[![](https://www.nasa.gov/wp-content/uploads/2024/12/helios-1-12-esa-solar-orbiter-illustration.jpg?w=1024)
+article 1 week ago](https://www.nasa.gov/aeronautics/drones/delivering-closer-to-reality/)[![](https://www.nasa.gov/wp-content/uploads/2024/12/helios-1-12-esa-solar-orbiter-illustration.jpg?w=1024)
 
 5 min read
 
