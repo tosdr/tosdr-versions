@@ -20,16 +20,16 @@ Wednesday, December 18 2024
 
 Latest
 
-* [The 33 best gifts under $50 for 2024](https://digitpatrox.com/the-33-best-gifts-under-50-for-2024/)
-* [NYT Strands Today: Hints and Answers for December 18, 2024](https://digitpatrox.com/nyt-strands-today-hints-and-answers-for-december-18-2024/)
-* [Top CIO strategies for 2025: How to optimize IT budgets and innovate with lean teams](https://digitpatrox.com/top-cio-strategies-for-2025-how-to-optimize-it-budgets-and-innovate-with-lean-teams/)
-* [Enterprise buyer’s guide: How to choose videoconferencing software](https://digitpatrox.com/enterprise-buyers-guide-how-to-choose-videoconferencing-software/)
-* [This Nvidia App Setting Is Tanking Your Frame Rate](https://digitpatrox.com/this-nvidia-app-setting-is-tanking-your-frame-rate/)
-* [How to Disable Antivirus Software](https://digitpatrox.com/how-to-disable-antivirus-software/)
-* [Best Cars and SUVs for Tall People](https://digitpatrox.com/best-cars-and-suvs-for-tall-people/)
-* [Boost Your Video Shooting Skills By Learning These Videography Terms](https://digitpatrox.com/boost-your-video-shooting-skills-by-learning-these-videography-terms/)
-* [What do security pros want from generative AI?](https://digitpatrox.com/what-do-security-pros-want-from-generative-ai/)
-* [CrowdStrike Survey Highlights Security Challenges in AI Adoption](https://digitpatrox.com/crowdstrike-survey-highlights-security-challenges-in-ai-adoption/)
+* [‘Bitter’ cyberspies target defense orgs with new MiyaRAT malware](https://digitpatrox.com/bitter-cyberspies-target-defense-orgs-with-new-miyarat-malware/)
+* [Intel finally notches a GPU win, confirms Arc B580 is selling out after stellar reviews](https://digitpatrox.com/intel-finally-notches-a-gpu-win-confirms-arc-b580-is-selling-out-after-stellar-reviews/)
+* [How to Get the Nocturnal Rod in Fisch Roblox](https://digitpatrox.com/how-to-get-the-nocturnal-rod-in-fisch-roblox/)
+* [Arctic Wolf to acquire BlackBerry’s Cylance assets for $160 million](https://digitpatrox.com/arctic-wolf-to-acquire-blackberrys-cylance-assets-for-160-million/)
+* [The LG B4 OLED TV Is $400 Off With a $100 Gift Card](https://digitpatrox.com/the-lg-b4-oled-tv-is-400-off-with-a-100-gift-card/)
+* [7 Best Sheets of 2024, Lab-Tested and Reviewed](https://digitpatrox.com/7-best-sheets-of-2024-lab-tested-and-reviewed/)
+* [Everything You Can and Can’t Share with Apple Family Sharing](https://digitpatrox.com/everything-you-can-and-cant-share-with-apple-family-sharing/)
+* [IT leaders fear a repeat of the CrowdStrike outage in 2025](https://digitpatrox.com/it-leaders-fear-a-repeat-of-the-crowdstrike-outage-in-2025/)
+* [Is Your SSD Failing? Learn to Check Its Health on Linux](https://digitpatrox.com/is-your-ssd-failing-learn-to-check-its-health-on-linux/)
+* [Southampton vs Liverpool live stream: watch EFL Cup game online](https://digitpatrox.com/southampton-vs-liverpool-live-stream-watch-efl-cup-game-online/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://cdn.vox-cdn.com/thumbor/8fdYK1P8ix8cZOwpdc-5zu9wgDk=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25703947/247215_Holiday_GG_2024_AKrales_UNER_50_LEDE_2040x1360.jpg)](https://digitpatrox.com/the-33-best-gifts-under-50-for-2024/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/06/27/blacksuit-hacker.jpg)](https://digitpatrox.com/bitter-cyberspies-target-defense-orgs-with-new-miyarat-malware/)
     
-    [The 33 best gifts under $50 for 2024](https://digitpatrox.com/the-33-best-gifts-under-50-for-2024/)
+    [‘Bitter’ cyberspies target defense orgs with new MiyaRAT malware](https://digitpatrox.com/bitter-cyberspies-target-defense-orgs-with-new-miyarat-malware/)
     
-    1 minute ago
+    40 minutes ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/07/strands-today-hints-and-answers.jpg?w=1252&quality=75)](https://digitpatrox.com/nyt-strands-today-hints-and-answers-for-december-18-2024/)
+* [![](https://cdn.vox-cdn.com/thumbor/Rfmy0TJBu0IcjQIZMhIOH2Ui-oE=/0x0:2048x1152/1200x628/filters:focal(1024x576:1025x577)/cdn.vox-cdn.com/uploads/chorus_asset/file/25795274/SMG_24_01_Gaming_Mage_Ultra_Organic_2560x1440_D_2048x1152.png)](https://digitpatrox.com/intel-finally-notches-a-gpu-win-confirms-arc-b580-is-selling-out-after-stellar-reviews/)
     
-    [NYT Strands Today: Hints and Answers for December 18, 2024](https://digitpatrox.com/nyt-strands-today-hints-and-answers-for-december-18-2024/)
+    [Intel finally notches a GPU win, confirms Arc B580 is selling out after stellar reviews](https://digitpatrox.com/intel-finally-notches-a-gpu-win-confirms-arc-b580-is-selling-out-after-stellar-reviews/)
     
-    17 minutes ago
+    1 hour ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/huUYWiTDzfrCSp7ksHa8GH-1200-80.jpg)](https://digitpatrox.com/top-cio-strategies-for-2025-how-to-optimize-it-budgets-and-innovate-with-lean-teams/)
+* [![](https://beebom.com/wp-content/uploads/2024/12/nocturnal-rod-in-fisch.jpg?w=1250&quality=75)](https://digitpatrox.com/how-to-get-the-nocturnal-rod-in-fisch-roblox/)
     
-    [Top CIO strategies for 2025: How to optimize IT budgets and innovate with lean teams](https://digitpatrox.com/top-cio-strategies-for-2025-how-to-optimize-it-budgets-and-innovate-with-lean-teams/)
+    [How to Get the Nocturnal Rod in Fisch Roblox](https://digitpatrox.com/how-to-get-the-nocturnal-rod-in-fisch-roblox/)
     
-    2 hours ago
+    1 hour ago
     
-* [![](https://us.resources.computerworld.com/wp-content/uploads/2024/12/default_image1734461443.4734.png)](https://digitpatrox.com/enterprise-buyers-guide-how-to-choose-videoconferencing-software/)
+* [![](https://cdn.mos.cms.futurecdn.net/E6CWYG29ZoytTeEWF72mcS-1200-80.jpg)](https://digitpatrox.com/arctic-wolf-to-acquire-blackberrys-cylance-assets-for-160-million/)
     
-    [Enterprise buyer’s guide: How to choose videoconferencing software](https://digitpatrox.com/enterprise-buyers-guide-how-to-choose-videoconferencing-software/)
-    
-    2 hours ago
-    
-* [![](https://lifehacker.com/imagery/articles/01JFB5F3KX9VJW0G144TG9FK9Q/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/this-nvidia-app-setting-is-tanking-your-frame-rate/)
-    
-    [This Nvidia App Setting Is Tanking Your Frame Rate](https://digitpatrox.com/this-nvidia-app-setting-is-tanking-your-frame-rate/)
+    [Arctic Wolf to acquire BlackBerry’s Cylance assets for $160 million](https://digitpatrox.com/arctic-wolf-to-acquire-blackberrys-cylance-assets-for-160-million/)
     
     3 hours ago
+    
+* [![](https://lifehacker.com/imagery/articles/01J1DCMM2SSRP1GD0T2MCCS4S2/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/the-lg-b4-oled-tv-is-400-off-with-a-100-gift-card/)
+    
+    [The LG B4 OLED TV Is $400 Off With a $100 Gift Card](https://digitpatrox.com/the-lg-b4-oled-tv-is-400-off-with-a-100-gift-card/)
+    
+    4 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,39 +208,39 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [1 minute ago
+* [40 minutes ago
     
-    ### The 33 best gifts under $50 for 2024](https://digitpatrox.com/the-33-best-gifts-under-50-for-2024/)
-* [17 minutes ago
+    ### ‘Bitter’ cyberspies target defense orgs with new MiyaRAT malware](https://digitpatrox.com/bitter-cyberspies-target-defense-orgs-with-new-miyarat-malware/)
+* [1 hour ago
     
-    ### NYT Strands Today: Hints and Answers for December 18, 2024](https://digitpatrox.com/nyt-strands-today-hints-and-answers-for-december-18-2024/)
-* [2 hours ago
+    ### Intel finally notches a GPU win, confirms Arc B580 is selling out after stellar reviews](https://digitpatrox.com/intel-finally-notches-a-gpu-win-confirms-arc-b580-is-selling-out-after-stellar-reviews/)
+* [1 hour ago
     
-    ### Top CIO strategies for 2025: How to optimize IT budgets and innovate with lean teams](https://digitpatrox.com/top-cio-strategies-for-2025-how-to-optimize-it-budgets-and-innovate-with-lean-teams/)
+    ### How to Get the Nocturnal Rod in Fisch Roblox](https://digitpatrox.com/how-to-get-the-nocturnal-rod-in-fisch-roblox/)
 
 Most Popular Topics
 
-* [October 25, 2024
+* [3 weeks ago
     
-    ### How to Make the Perfect Cup or Pot of Tea](https://digitpatrox.com/how-to-make-the-perfect-cup-or-pot-of-tea/)
-* [6 days ago
+    ### Are ‘ghost engineers’ stunting productivity in software development? Researchers claim nearly 10% of engineers do “virtually nothing” and are a drain on enterprises](https://digitpatrox.com/are-ghost-engineers-stunting-productivity-in-software-development-researchers-claim-nearly-10-of-engineers-do-virtually-nothing-and-are-a-drain-on-enterprises/)
+* [3 weeks ago
     
-    ### Google’s Gemini 2.0 Is All About Efficiency](https://digitpatrox.com/googles-gemini-2-0-is-all-about-efficiency/)
-* [September 13, 2024
+    ### The biggest IT threat? That seemingly innocuous web browser – Computerworld](https://digitpatrox.com/the-biggest-it-threat-that-seemingly-innocuous-web-browser-computerworld/)
+* [September 10, 2024
     
-    ### United Airlines is adding free Starlink Wi-Fi to all of its planes](https://digitpatrox.com/united-airlines-is-adding-free-starlink-wi-fi-to-all-of-its-planes/)
+    ### Is Google a monopoly? US DoJ begins second antitrust trial, this time targeting ad tech – Computerworld](https://digitpatrox.com/is-google-a-monopoly-us-doj-begins-second-antitrust-trial-this-time-targeting-ad-tech-computerworld/)
 
 Last Modified Topics
 
-* [3 hours ago
+* [4 hours ago
     
-    ### Best Cars and SUVs for Tall People](https://digitpatrox.com/best-cars-and-suvs-for-tall-people/)
-* [3 hours ago
+    ### Everything You Can and Can’t Share with Apple Family Sharing](https://digitpatrox.com/everything-you-can-and-cant-share-with-apple-family-sharing/)
+* [4 hours ago
     
-    ### Boost Your Video Shooting Skills By Learning These Videography Terms](https://digitpatrox.com/boost-your-video-shooting-skills-by-learning-these-videography-terms/)
-* [3 hours ago
+    ### IT leaders fear a repeat of the CrowdStrike outage in 2025](https://digitpatrox.com/it-leaders-fear-a-repeat-of-the-crowdstrike-outage-in-2025/)
+* [5 hours ago
     
-    ### What do security pros want from generative AI?](https://digitpatrox.com/what-do-security-pros-want-from-generative-ai/)
+    ### Is Your SSD Failing? Learn to Check Its Health on Linux](https://digitpatrox.com/is-your-ssd-failing-learn-to-check-its-health-on-linux/)
 
 Most Viewed Topics
 
