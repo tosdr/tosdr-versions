@@ -75,10 +75,10 @@ Renseignez votre email
 
  Ok
 
-* ![OUIGO sur facebook](https://cdn-fr.ouigo.com/edito-p-v3-assets/styles/social_links/azblob/file/logo%20fb.png?itok=l3lIWmAp)
-* ![OUIGO sur twitter](https://cdn-fr.ouigo.com/edito-p-v3-assets/styles/social_links/azblob/file/logo%20x%20.png?itok=gdmeZ1-W)
-* ![OUIGO sur youtube](https://cdn-fr.ouigo.com/edito-p-v3-assets/styles/social_links/azblob/file/logo%20youtube.png?itok=wBs3e7ns)
-* ![OUIGO sur instagram](https://cdn-fr.ouigo.com/edito-p-v3-assets/styles/social_links/azblob/file/logo%20insta.png?itok=D5tqJF2R)
+* ![OUIGO sur facebook](pagespeed_static/1.JiBnMqyl6S.gif)
+* ![OUIGO sur twitter](pagespeed_static/1.JiBnMqyl6S.gif)
+* ![OUIGO sur youtube](pagespeed_static/1.JiBnMqyl6S.gif)
+* ![OUIGO sur instagram](pagespeed_static/1.JiBnMqyl6S.gif)
 
 A DÉCOUVRIR
 
