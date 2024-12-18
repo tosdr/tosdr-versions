@@ -1,4 +1,4 @@
- [![College Advisor logo](data:image/svg+xml;nitro-empty-id=MTEwNDoyMTU=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTAwIDE5NSIgd2lkdGg9IjUwMCIgaGVpZ2h0PSIxOTUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+) ![College Advisor logo icon](data:image/svg+xml;nitro-empty-id=MTEwNToyMTM=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjU2IDI1NiIgd2lkdGg9IjI1NiIgaGVpZ2h0PSIyNTYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.collegeadvisor.com/)
+ [![College Advisor logo](data:image/svg+xml;nitro-empty-id=MTEwOToyMTU=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTAwIDE5NSIgd2lkdGg9IjUwMCIgaGVpZ2h0PSIxOTUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+) ![College Advisor logo icon](data:image/svg+xml;nitro-empty-id=MTExMDoyMTM=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjU2IDI1NiIgd2lkdGg9IjI1NiIgaGVpZ2h0PSIyNTYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.collegeadvisor.com/)
 
 [Primary Menu ☰](#primary-nav)
 
@@ -147,7 +147,7 @@ For arbitration claims that you assert against U.S. News in accordance with this
 
 This Arbitration Agreement will survive the termination of the relationship between you and U.S. News for any and all claims or disputes you or U.S. News have relating in any way to the services provided by U.S. News or your relationship with U.S. News.
 
-[![College Advisor logo](data:image/svg+xml;nitro-empty-id=MTQzMToxNzg=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTAwIDE5NSIgd2lkdGg9IjUwMCIgaGVpZ2h0PSIxOTUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.collegeadvisor.com/)
+[![College Advisor logo](data:image/svg+xml;nitro-empty-id=MTQzNjoxNzg=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTAwIDE5NSIgd2lkdGg9IjUwMCIgaGVpZ2h0PSIxOTUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.collegeadvisor.com/)
 
 Personalized and effective college advising for high school students.
 
@@ -167,7 +167,3 @@ Personalized and effective college advising for high school students.
 [](https://www.instagram.com/joincollegeadvisor/)[](https://www.facebook.com/joincollegeadvisor/)[](https://www.tiktok.com/@joincollegeadvisor)[](https://www.youtube.com/c/CollegeAdvisor)[](https://www.linkedin.com/company/joincollegeadvisor/)[](https://twitter.com/_collegeadvisor)
 
  Search
-
-×
-
-By using the College Advisor site and/or working with College Advisor, you agree to our updated [Terms and Conditions](https://www.collegeadvisor.com/terms-and-conditions/) and [Privacy Policy](https://www.collegeadvisor.com/privacy-policy/), including an arbitration clause that covers any disputes relating to our policies and your use of our products and services.
