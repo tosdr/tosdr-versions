@@ -781,4 +781,4 @@ SEO, copy & online byznys
 
 © 2006 - 2024 Daniel Beránek [Ochrana os. údajů](https://danielberanek.cz/ochrana-osobnich-udaju/), [Cookies](https://danielberanek.cz/zasady-cookies-eu/)
 
-Svištící rychlost mi dodává [WP-Hosting.cz](https://www.wp-hosting.cz/cenik/?sa_u=ext2qmbpl1&sa_c=834s6uyv "Hosting pro nejrychlejší WordPress") a [WP Rocket](https://shareasale.com/r.cfm?b=1075949&u=2238331&m=74778&urllink=&afftrack= "Zrychlení WP pluginem")
+Svištící rychlost mi dodává [WP-Hosting.cz](https://www.wp-hosting.cz/hosting/?af=0QfUDt2104 "Hosting pro nejrychlejší WordPress") a [WP Rocket](https://shareasale.com/r.cfm?b=1075949&u=2238331&m=74778&urllink=&afftrack= "Zrychlení WP pluginem")
