@@ -18,7 +18,6 @@ Search for:
 
 [](#)[](#)
 
-* [Gifts](https://www.autism-products.com/product-category/gifts-for-children-with-autism/)
 * [Toys](https://www.autism-products.com/product-category/toys/)
     * [Activity Mats](https://www.autism-products.com/product-category/toys/activity-mats/)
     * [Activity Sets](https://www.autism-products.com/product-category/toys/activity-sets/)
@@ -118,7 +117,6 @@ Search for:
     * [Spatial Awareness](https://www.autism-products.com/product-category/sensory-products/spatial-awareness/)
     * [Touch/Pressure](https://www.autism-products.com/product-category/sensory-products/touch-pressure/)
 
-* [Gifts](https://www.autism-products.com/product-category/gifts-for-children-with-autism/)
 * [Toys](https://www.autism-products.com/product-category/toys/)
     * [Activity Mats](https://www.autism-products.com/product-category/toys/activity-mats/)
     * [Activity Sets](https://www.autism-products.com/product-category/toys/activity-sets/)
