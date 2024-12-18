@@ -6,7 +6,7 @@
 
                                                               
 
-                [Skip to content](#content)
+                 [Skip to content](#content)
 
 [![Back Home](https://www.vpnuk.net/wp-content/uploads/2023/04/vpnuk-logo3.png)](https://www.vpnuk.net/)
 
