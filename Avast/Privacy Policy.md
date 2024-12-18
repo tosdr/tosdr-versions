@@ -541,7 +541,7 @@ General Privacy Policy
 
 As one of the world's most trusted antivirus brands, our goal is to help you with defenses against threats in cyberspace. To do so, we may have to collect your personal data to provide you with the best weapons and the most up-to-date security. We do not take your trust for granted so we’ve developed a Privacy Policy that covers how we collect, use, disclose, transfer, and store your personal data.
 
-This Privacy Policy was last updated in April 2024.
+This Privacy Policy was last updated in November 2024.
 
 Who We Are
 ----------
@@ -569,7 +569,7 @@ We may collect data or ask you to provide certain data when you visit our websit
 
 * Data collected directly from you or your device relating to an identified or identifiable natural person (“Data Subject”), and may include direct identifiers such as name, postal and email address, phone number, and online or indirect identifiers such as login account, login password, marketing preferences, social media account, and/or IP address;
 * If we link other data with your Personal Data, we will treat that linked data as Personal Data; and
-* We may also collect Personal Data from trusted third-party sources such as distributors, resellers, app stores, contact centers, and engage third parties such as marketing, survey, analytics or software suppliers to collect Personal Data to assist us.
+* We may also collect Personal Data from trusted third-party sources such as service providers, distributors, resellers, app stores, contact centers, and engage third parties such as marketing, survey, analytics or software suppliers to collect Personal Data to assist us.
 
   
   
@@ -583,7 +583,7 @@ The below described billing process applies to all customers who have purchased 
 
 Our parent company, Gen Digital Inc., will act as a controller with respect to processing of the Billing Data.
 
-Billing data includes your name, email address, billing address, your phone number, payment information (depending on method can include Credit/Debit Card Information or PayPal account) and device fingerprint ID.
+Billing data includes your name, email address, billing address, your phone number, payment information (depending on method can include Credit/Debit Card Information or PayPal account), National ID (regional specific, if outside the United States), VAT/Tax ID (regional specific, if outside the United States) and device fingerprint ID.
 
 | Billing data | What we use it for |
 | --- | --- |
@@ -625,12 +625,12 @@ The customer account remains valid until you actively delete it in the user admi
 Product Data includes two sub-categories:
 
 * **Device Data** includes information about the operating system; hardware; city/country location of device; IP address, device error logs; browser; network; applications running on the device, including the Avast products; and
-* **Service Data** includes information about product usage and events relating to use of our product by you. This information includes samples, detection details, and files used for malware protection, information concerning URLs of websites, usage statistics (activation, crashes, scans, errors).
+* **Service Data** includes information about product usage and events relating to use of our product by you. This information includes security data (samples and detection details such as information concerning URLs of websites, texts, emails and files used for malware and scam protection), usage statistics (activation, crashes, scans, errors), information related to product licenses, support-related data and our internal identifiers associated with our services (e.g. installation ID, internal hardware ID).
 
 These sub-categories differ for each product and service. If you want more detail about Device and Service Data we process on a product basis, please refer to our [Products Policy](https://www.avast.com/products-policy).
 
 **Communications Data  
-**If you contact us directly, we collect personal data about you, including identifiers, such as your name, email address, phone number, the contents of any message or attachments that you may send or communicate to us, and any other information you choose to provide. We may retain and review audio, electronic, visual, or similar information, such as audio call and chat recordings and/or the contents of the messages as required/permitted by law and our recording and information management policies. We will also collect identifiers from you, such as your email address and phone number, when you sign up to receive product updates, offers, and other promotional information or messages from us. When we send you emails, we may track whether you open them to learn how to deliver a better customer experience and improve our services.
+**If you contact us directly, request information or provide reviews and feedback, we collect personal data about you, including identifiers, such as your name, email address, phone number, the contents of any message or attachments that you may send or communicate to us, and any other information you choose to provide. We may retain and review audio, electronic, visual, or similar information, such as audio call and chat recordings and/or the contents of the messages as required/permitted by law and our recording and information management policies. We will also collect identifiers from you, such as your email address and phone number, when you sign up to receive product updates, offers, and other promotional information or messages from us. When we send you emails, we may track whether you open them to learn how to deliver a better customer experience and improve our services.
 
 Why We Process Your Personal Data
 ---------------------------------
@@ -645,7 +645,7 @@ We use your Personal Data for the following purposes and on the following ground
 * To keep our products or services up-to-date, safe and free of errors, including implementation of new product features and versions;
 * To verify your identity and entitlement to paid products or services, when you contact us for support or access our services;
 * To process your purchase transactions;
-* To update you on the status of your orders and licences;
+* To send necessary service and transactional messages and update you on the status of your orders and licences;
 * To manage your subscriptions and user accounts; and
 * To provide you with technical and customer support. This may include remote access to your device to better solve the issue. For this purpose, we will process the information from your product and device (e.g. crash reports, usage data), your contact details as well as other information you will provide to us (e.g. description of the issue).
 
@@ -657,20 +657,23 @@ We use your Personal Data for the following purposes and on the following ground
 
 We will always ask for your consent before any processing which requires it and we will provide you with necessary information through our [Consent Policy](https://www.avast.com/consent-policy) or otherwise as applicable.  
 
-**In order to fulfill legal obligations**, we process your Personal Data when it is necessary for compliance with a legal tax, accounting, anti-money laundering, legal order, sanction checks or other obligations to which we are subject.
+**In order to fulfill legal obligations**, we process your Personal Data when it is necessary for compliance with our legal obligations. We may be obligated to, for instance, keep and process records for tax purposes, accounting, other obligations such as court or other legal orders, anti-money laundering, sanction checks and other necessary disclosures.
 
 **On the basis of our legitimate interest** we will use your Personal Data to:
 
 * To communicate about possible security, privacy and performance improvements and products that supplement or improve our purchased products and to optimize the content and delivery of this type of communication;
 * To evaluate and to improve the performance and quality of our products, services and websites, develop new products, train our employees and to understand usage trends, and analyze user acquisitions, conversions and campaigns;
-* To maintain and develop threat intelligence resources, in particular to be able to detect and block malware;
-* To make our systems and applications more secure;  
+* To maintain and develop threat intelligence resources, in particular to be able to detect and block malware. We analyze samples of files and URLs we detect on your devices or websites you visit, and we use them to maintain our malware and privacy protection at the highest level possible. We may also share threat intelligence with other security companies and experts to improve our threat detection models;
+* To make our systems and applications more secure including to prevent or stop an attack on our computer systems or networks;  
     
+* To record our phone conversation when you contact our tech support by phone to better respond to your requests.
 * To maintain the effective performance of our business by ensuring necessary internal administrative and commercial processes (e.g. finances, audit, business intelligence, legal & compliance, fraud check, information security etc.); and
 * To establish, exercise, or defend our legal rights.  
      
 
 Your interests are a key part of our decision-making process and have been considered in all of the above-mentioned processing activities. We believe we have achieved a fair balance between privacy and business operations. In any case, you have the right to object, on grounds relating to your particular situation, to those processing operations. For more details, please see section [Your Privacy Rights](#privacy-rights).
+
+The list is, however, not exhaustive and depending on the business and legal developments we may process data for other compatible purposes as applicable in accordance with relevant privacy regulations.
 
 ### Balancing Legitimate Interests
 
@@ -696,7 +699,7 @@ The Personal Data we process for the purpose listed above includes, without limi
 
 #### Product messaging - In-product and Email Messages
 
-We have a legitimate interest for messaging our users about possible security, privacy and performance improvements and about products that supplement or improve the products already purchased. We can also message our customers with information and offers relating to already purchased products (e.g. time-limited offers).
+We have a legitimate interest in messaging our users about possible security, privacy and performance improvements and about products that supplement or improve the products already purchased. We can also message our customers with information and offers relating to already purchased products (e.g. time-limited offers).
 
 If you are our customer, we feel a responsibility to inform you about security and utility improvements and possible problems to your device and software, and provide you with effective solutions relevant to these problems. Because of this, we have a legitimate interest to optimize the content and delivery of this type of communication to you so that you are likely to find them relevant and non-intrusive at the same time. We use certain limited subsets of Billing Data, Account Data, and Product Data to deliver this communication.
 
@@ -721,7 +724,7 @@ Please refer to our [Products Policy](https://www.avast.com/products-policy) f
 
 ### Personalization
 
-We use your answers from surveys, in which you can participate, and relevant Product Data to personalize communication and recommend our relevant products for you.
+We use relevant Billing Data, Account Data, Product Data and your answers from surveys, in which you can participate, to personalize our offers, communication and product recommendations.
 
 We do not take any decisions solely based on algorithms, including profiling, that would significantly affect you.
 
@@ -729,6 +732,8 @@ How We Disclose Your Personal Data
 ----------------------------------
 
 We only disclose your Personal Data as described below, within our group of companies, with our partners, with service providers that process data on our behalf and with public authorities, when required by applicable law. Processing is only undertaken for the purposes described in this Privacy Policy and the relevant [Products Policy](https://www.avast.com/products-policy) sections. If we disclose your Personal Data, we require its recipients to comply with adequate privacy and confidentiality requirements, and security standards.
+
+We do not sell your personal data to third parties. We do not use or disclose sensitive personal information for the purpose of inferring characteristics about a consumer. Data obtained through short code programs will not be shared with any third-parties for their marketing reasons/purposes.
 
 ### Payment processors
 
@@ -751,9 +756,9 @@ Your Billing Data is processed by the payment processor from whom you purchased 
 
 We may use contractors and service providers to process your Personal Data for the purposes described in this Privacy Policy and [Products Policy](https://www.avast.com/products-policy). We contractually require service providers to keep data secure and confidential.
 
-Such service providers may include contact centers, professional consultants (including to defend or to exercise our rights), and marketing/survey/analytics/software suppliers.
+Such service providers may include contact centers, professional consultants (including to defend or to exercise our rights), and marketing/survey/analytics/software suppliers. We may also connect with business partners to provide specific services to you such as identity restoration. To provide identity restoration services, we may share, at your direction, your data with financial institutions, financial services companies, and other authorized third parties.
 
-In particular, we use Salesforce to provide us the CRM platform (see their [privacy information](https://www.salesforce.com/privacy/overview/) including appropriate safeguards for cross-border transfers).
+We use Salesforce to provide us the CRM platform (see their [privacy information](https://www.salesforce.com/privacy/overview/) including appropriate safeguards for cross-border transfers).
 
 We use Qualtrics as the provider of the experience management platform used to collect and evaluate customer feedback and insights (see their [Privacy statement](https://www.qualtrics.com/privacy-statement/) including appropriate safeguards for cross-border transfers.
 
@@ -761,15 +766,21 @@ We use Civilized Discourse Construction Kit, Inc., for hosting our Forum (see th
 
 Sometimes these service providers, for example- our distributors, resellers, and app store partners- will be independent controllers of your data and their terms and conditions, end user license agreements (“EULA”) and privacy statements will apply to such relationships.
 
+No data is shared for cross-contextual advertising and no data is sold to these third parties.
+
 ### Advertising Companies
 
 To be able to offer our products and services for free, we serve third-party ads in our products for mobile devices. To enable the ad, we embed a software development kit (“SDK”) provided by an advertising company into the product. The SDK collects Personal Data in order to personalize ads for you.
 
 Only few of our free products serve third-party ads. You will be asked for consent during the installation process of any such product. For further information, including the exact scope of processed Personal Data and names of relevant products, please refer to our [Consent Policy](https://www.avast.com/consent-policy) which includes the list of our advertising partners and their privacy policy.
 
+We may share limited categories of personal data (online identifiers and product-related information used to display appropriate ads) with these third parties for cross-contextual advertising purposes, as defined under California and other applicable U.S. state laws. “Cross-contextual advertising” in this context means advertisements we believe will be more interesting and useful to you based on your data, including data related to the use of our Services. Third parties may use the data we’ve shared with them to show you personalized ads. No data is sold to these third parties.
+
 ### Distributors, Resellers
 
 We may provide your Personal Data to our partners for the purpose of distribution, sale or management of our products. Our partners may communicate with you about Avast products or services. In addition, you purchase our products directly from our distributor, a reseller, or an app store. Because your relationship in these cases is with that distributor, reseller or an app store, such third party will also process your Personal Data.
+
+No data is shared for cross-contextual advertising and no data is sold to these third parties.
 
 ### Cookies Providers
 
@@ -786,7 +797,6 @@ While we generally prefer using our own analytical tools, we sometimes need to p
 | Google Analytics (Google) | user behaviour | [https://support.google.com/analytics/answer/6004245](https://support.google.com/analytics/answer/6004245)<br><br>[https://policies.google.com/privacy](https://policies.google.com/privacy) | US, Ireland |
 | Firebase Analytics (Google) | user behaviour (advanced features like A/B testing, predictions) | [https://firebase.google.com/support/privacy/](https://firebase.google.com/support/privacy/)<br><br>[https://policies.google.com/privacy](https://policies.google.com/privacy) | US, Ireland |
 | Firebase Crashlytics (Google) | crash reporting | [](https://firebase.google.com/support/privacy)[https://firebase.google.com/support/privacy/](https://firebase.google.com/support/privacy/)  <br><br>[https://policies.google.com/privacy](https://policies.google.com/privacy) | US, Ireland |
-| AppsFlyer | user acquisition | [https://www.appsflyer.com/privacy-policy/](https://www.appsflyer.com/privacy-policy/) | Germany |
 | Adjust | user acquisition | [https://www.adjust.com/terms/privacy-policy/](https://www.adjust.com/terms/privacy-policy/) | Germany |
 | Facebook Analytics (Facebook) | user behaviour | [https://www.facebook.com/about/privacy](https://www.facebook.com/about/privacy)<br><br>[https://developers.facebook.com/docs/analytics/overview](https://developers.facebook.com/docs/analytics/overview) | US, Ireland |
 | HockeyApp (Microsoft) | crash reporting | [https://privacy.microsoft.com/en-us/PrivacyStatement](https://privacy.microsoft.com/en-us/PrivacyStatement) | US, Ireland |
@@ -800,6 +810,8 @@ While we generally prefer using our own analytical tools, we sometimes need to p
 
 Not all of our products use all of these third-party analytics tools. Analytics tools that we use for diagnosing your product are necessary for service provision. You will find relevant tools listed under each product in our [Products Policy](https://www.avast.com/products-policy).
 
+No data is shared for cross-contextual advertising and no data is sold to these third parties.
+
 ### Login via third-party providers
 
 | Tool (provider) | More information, link to Privacy Policy | Location |
@@ -807,6 +819,8 @@ Not all of our products use all of these third-party analytics tools. Analytics 
 | Google Ireland Ltd. | [https://support.google.com/accounts/answer/112802](https://support.google.com/accounts/answer/112802)<br><br>[https://policies.google.com/privacy](https://policies.google.com/privacy) | Ireland |
 | Facebook Ireland Ltd. | [https://www.facebook.com/privacy/explanation](https://www.facebook.com/privacy/explanation) | Ireland |
 | Apple Distribution International | [https://www.apple.com/legal/privacy](https://www.apple.com/legal/privacy) | Ireland |
+
+No data is shared for cross-contextual advertising and no data is sold to these third parties.
 
 ### Public Authorities
 
@@ -817,6 +831,8 @@ In certain instances, it may be necessary for us to disclose your Personal Data 
 * A legal process having the same consequence as a court-issued request for data, in that if we were to refuse to provide such data, it would be in breach of local law, and it or its officers, executives or employees would be subject to liability for failing to honor such legal process;
 * Where such disclosure is necessary for us to enforce our legal rights pursuant to applicable law; or
 * A request for data with the purpose of identifying and/or preventing credit card fraud.
+
+No data is shared for cross-contextual advertising and no data is sold to these third parties.
 
 ### Mergers, Acquisitions and Corporate Restructurings
 
@@ -858,32 +874,49 @@ We strive to collect no more Personal Data from you than is required by the purp
 Children’s Privacy
 ------------------
 
-We may offer products and services designed specifically to assist you as a parent by providing child online protection features. In such cases, we will only collect and process Personal Data related to any child under the age specified in particular jurisdictions, which you choose to disclose to us or otherwise instruct us to collect and process. Details about this processing is included in our [Products Policy](https://www.avast.com/products-policy). Please refer to the specific applicable notices for this information.
+Our websites, services and products are not directed to, nor do we knowingly collect data from, minors (as defined by applicable law) except where explicitly described otherwise in the privacy notices of services designed specifically for purposes, such as to assist you by providing child online protection features. In such cases, we will only collect and process Personal Data related to any child under the age specified in particular jurisdictions, which you choose to disclose to us or otherwise instruct us to collect and process. Details about this processing is included in our [Products Policy](https://www.avast.com/products-policy). Please refer to the specific applicable notices for this information.
 
 How Long We Store Your Personal Data
 ------------------------------------
 
-We will hold your Personal Data on our systems for the following periods:  
+We keep your personal data as long as we need it to provide you with our services, to comply with legal obligations or protect our or other’s legitimate interests (such as to prevent harm; investigate possible violations of our terms or policies; promote safety, security and integrity; protect ourselves, including our rights, property or products; to defend against legal claims, complaints, litigation or regulatory proceedings). Often, there are different reasons to keep a specific piece of information that overlap and influence each other.
+
+When determining the specific retention period, we take into account various criteria, such as the type of service provided to you, the nature of our relationship with you, and mandatory retention periods provided by law and the relevant statute of limitations. 
+
+More specifically, we will hold your Personal Data on our systems for the following periods:  
  
 
-* For Billing Data, for as long as we have a legal obligation or for our legitimate interests in establishing legal rights and keeping proper business records. We also keep your Billing data to enable the renewal of your subscriptions;
+* For Billing Data, for as long as we have a legal obligation or for our legitimate interests in establishing legal rights and keeping proper business records. So, if we take payments from you, we archive limited payment information related to transactions for the time specified in law (depending on the relevant jurisdiction) to maintain proper business records, meet our audit obligations, detect and prevent fraud and to protect our legal rights in case there are disputes. We also keep your Billing data to enable the renewal of your subscriptions;
 * For Account Data, for as long as you maintain your account;
-* For Product Data, only as long as necessary for the purposes of a particular product or service. We use rolling deletion periods which means we regularly delete collected data in the given periods starting from the collection of that respective data. The rolling deletion periods for Product Data are not longer than six years. You can find specific rolling deletion periods for each of our products and their purposes in our [Products Policy](https://www.avast.com/products-policy). Please note that when you uninstall our product, processing for service provision, in-product messaging, analytics and third-party ads, if applicable, dependent on the installed product shall cease. After the uninstallation, we will continue to process your Product Data for statistical purposes for up to six years. We have measures in place to ensure compliance with data protection laws, including pseudonymization.
+* For Product Data, only as long as necessary for the purposes of a particular product or service. Where possible, we use rolling deletion periods which means we regularly delete collected data in the given periods starting from the collection of that respective data. The rolling deletion periods for Product Data are not longer than six years. You can find specific rolling deletion periods for each of our products and their purposes in our [Products Policy](https://www.avast.com/products-policy). Please note that when you uninstall our product, processing for service provision, in-product messaging, analytics and third-party ads, if applicable, dependent on the installed product shall cease. After the uninstallation, we will continue to process your Product Data for statistical purposes for up to six years. We have measures in place to ensure compliance with data protection laws, including pseudonymization.
 * For Communications Data, for as long as necessary to resolve your requests or questions and maintain evidence of such communications to defend our rights and protect our interests. If you receive product updates, offers, and other promotional information or messages, we process the data until you unsubscribe.
 
 Storage of Your Personal Data
 -----------------------------
 
-The data we collect from you may be stored, with risk-appropriate technical and organizational security measures applied to it, on in-house as well as third-party servers in the Czech Republic, in the United States, as well as anywhere we or our trusted service providers and partners operate. In particular, we store some of the data in the Google Cloud Platform operated by Google Cloud EMEA Ltd. Personal Data originating from the EEA are stored on Google’s servers in the EEA, however, such data may be also accessed by Google personnel located outside the EEA. We put in place appropriate safeguards, including Standard Contractual Clauses, to address these cross-border transfers of Personal Data.
+We are a global company that processes personal data in many countries. As part of our business, we may transfer data across the Gen group, its subsidiaries and affiliates, and third-party vendors of Gen located worldwide, including Avast, Avira, LifeLock and Norton entities. Data can be located in places where we offer our products or have our offices, infrastructure or data centers, including Europe and the United States.
+
+Transfers of your personal data within Gen Digital and its subsidiaries and affiliates are done pursuant to our intra-group data transfer agreement including EU Commission-approved [standard contractual clauses](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en) (SCCs). At the same time, intra-group transfers within the Gen Digital Group are covered by the EU-U.S. Data Privacy Framework, UK Extension to the EU-U.S. Data Privacy Framework and Swiss-U.S. Data Privacy Framework as set forth by the U.S. Department of Commerce regarding the transfer of personal information from the European Economic Area (EEA), the United Kingdom, and Switzerland to the United States. Click [here](https://www.nortonlifelock.com/us/en/privacy/global-privacy-statement/dpf/) to access the Gen Digital Inc. Data Privacy Framework Notice.
+
+Before we transfer data to third parties, we look at the risks to the data associated with such transfer. We require third parties to maintain the same protections over your data that we provide directly. For data originating from the European Economic Area we rely on [standard contractual clauses](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en) (SCCs), where applicable, to ensure your data rights are protected. To request a copy of the SCCs, please contact us [here](https://nlok.sharepoint.com/:w:/r/sites/DEPT-Corporate-Affairs-PrivacyLegal/_layouts/15/Doc.aspx?sourcedoc=%7BB93DA120-B95E-437B-9118-BDB929AA6545%7D&file=Avast%20GPP%202024%20v1.10a.docx&nav=eyJjIjoxNTQ2NzEzNn0&action=default&mobileredirect=true).
+
+Situations where we transfer Personal Data outside of the EEA may also include: allowing access to personal data stored in the cloud (such as Microsoft Azure, Amazon Web Services and Google Cloud Platform) to personnel located outside the EEA, the provisioning of our products and services and third-party services related to it, the processing of transactions and of your payment details, and the delivery of support services.
 
 In all cases, we follow generally accepted standards and security measures to protect the personal data submitted to us, both during transmission and once we receive it.
 
 Your Privacy Rights
 -------------------
 
-You have the following rights regarding the processing of your Personal Data:
+There are a variety of data protection laws around the globe that provide privacy rights to you as our customer. You can make certain choices about how your data is used by us by adjusting the privacy settings of the relevant product. 
 
-* Right to information - Right to receive information about the processing of your Personal Data, prior to processing as well as during the processing, upon request.
+Besides that, you have the following rights (depending on the region):
+
+* Right to information - Right to receive information about the processing of your Personal Data, prior to processing as well as during the processing, upon request. In particular, but not limited to:
+    * categories of personal data collected, sold, or disclosed by us;
+    * purposes for which categories of personal data are collected or sold;
+    * categories of sources from which we collect personal data;
+    * categories of third parties to whom we disclosed or sold personal data; and
+    * specific pieces of personal data we have collected about you during the past twelve months.
 * Right of access - You have the right to receive a copy of your Personal Data
 * Right to rectification - You have the right to seek correction of inaccurate Personal Data.
 * Right to erasure ("right to be forgotten") - You have the right to erasure of your Personal Data, but only in specific cases stipulated by law, e.g., if there is no legally recognized title on our part for further processing of your Personal Data (incl. protection of our legitimate interests and rights).
@@ -891,6 +924,7 @@ You have the following rights regarding the processing of your Personal Data:
 * Right to object - Applies to cases of processing carried out in legitimate interest. You have the right to object to such processing, on grounds relating to your particular situation, and we are required to assess the processing in order to ensure compliance with all legally binding rules and applicable regulations. In case of direct marketing, we shall cease processing Personal Data for such purposes after the objection.
 * Right to withdraw consent - In the case of processing based on your consent, as specified in our [Consent Policy](https://www.avast.com/consent-policy), you can withdraw your consent at any time by using the same method (if technically possible) you used to provide it to us (the exact method will be described in more detail with each consent when you provide it). The withdrawal of consent shall not affect the lawfulness of processing based on your consent before its withdrawal.
 * Right to restriction of processing - You have the right to restriction of processing of your Personal Data if: You are contesting the accuracy of your Personal Data, for a period enabling us to verify the accuracy of your Personal Data; the processing is unlawful and you oppose the erasure of the Personal Data and request the restriction of its use instead; we no longer need the Personal Data for the purposes of the processing, but they are required by you for the establishment, exercise or defence of legal claims; or you have objected to processing of your Personal Data, and there is a pending verification whether our legitimate grounds override your interests.
+* Right to Equal Service - Right not to receive discriminatory treatment for the exercise of your privacy rights, subject to certain limitations.
 * Right to contact a supervisory authority or court - You may contact and lodge a complaint with the supervisory authority – The Office for Personal Data Protection (Czech: Úřad na ochranu osobních údajů – www.uoou.cz) or your local authority or a relevant court.  
      
 
@@ -953,11 +987,15 @@ You can find all purposes of processing your personal information listed in the 
 
 You can find all categories of recipients of personal information listed in the section How We Disclose Your Personal Data. Avast does not sell (as such term is defined in the California Consumer Privacy Act/California Privacy Rights Act) your personal information we collect without providing a right to opt out or your direct permission. See more about your right to opt out of sale below.
 
-Our products are not targeted at minors under 16 years of age. We therefore have no knowledge of any sale of data concerning them.
-
 **How long we store your personal information**
 
 You can find more information on our retention practices in the section [How Long We Store Your Personal Data](#how-long-we-store) above.
+
+**Other information**
+
+Our products are not targeted at minors under 16 years of age. We therefore have no knowledge of any sale of data concerning them.
+
+We use and disclose sensitive personal information only for purposes expressly permitted under California law and therefore the ‘right to limit’ does not apply to our processing.
 
 #### Your Rights
 
@@ -1008,6 +1046,12 @@ Data Protection Officer
 -----------------------
 
 As required under the GDPR, we have a data protection officer (DPO) to monitor our compliance with the GDPR, provide advice where requested and cooperate with supervisory authorities. You can contact our data protection officer via [dpo@avast.com](mailto:dpo@avast.com).
+
+Or by mail:  
+Pembroke Privacy Ltd  
+4 Upper Pembroke Street  
+Dublin 2  
+Ireland DO2VN24
 
 Changes to this Privacy Policy
 ------------------------------
