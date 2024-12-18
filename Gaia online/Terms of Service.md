@@ -3,7 +3,7 @@ Welcome to Gaia! :: Terms of Service – Effective Date December 16, 2013
 
 [Gaia Home](https://www.gaiaonline.com/ "Return to the Gaia Homepage")
 
- [![](https://graphics.gaiaonline.com/images/event/xmas_2021/header/ani_04.png)](https://www.gaiaonline.com/grant?key=xmas_2024_day4 "On the 4th day of Xmas...") [![](//u1cdn.gaiaonline.com/mfs/index/adminupload/4b36efc4da3f.gif)](https://www.gaiaonline.com/forum/t.113992572 "Avatar Chat")
+ [![](https://graphics.gaiaonline.com/images/event/xmas_2021/header/ani_05.png)](https://www.gaiaonline.com/grant?key=xmas_2024_day5 "On the 5th day of Xmas...") [![](//u1cdn.gaiaonline.com/mfs/index/adminupload/4b36efc4da3f.gif)](https://www.gaiaonline.com/forum/t.113992572 "Avatar Chat")
 
 [Login](https://www.gaiaonline.com/auth/?_gaia_t_=4952 "Login to Gaia") [Register](https://www.gaiaonline.com/register/?v=c&_gaia_t_=4950 "Create a free account now")
 
@@ -13,7 +13,7 @@ Log In
 
 [Forgot your login?](https://www.gaiaonline.com/account/sendpass/ "Forgot your username/password?")
 
-26140ed67c308a3f9e99b59b073b511826140ed67c308a3f9e99b59b073b5118032ca5cc51c4cf128956c1bdad79d0b526140ed67c308a3f9e99b59b073b5118
+0f8b689c0d1136f7dc77c8168ecf5fe60f8b689c0d1136f7dc77c8168ecf5fe680a2a84331b7297603519b7e5e83218f
 
 * [My Gaia](https://www.gaiaonline.com/register/?v=c&&redirect=https%3A%2F%2Fwww.gaiaonline.com%2Fmygaia%2F)
 
@@ -531,4 +531,4 @@ Play with Platinum
 
 [More](https://www.gaiaonline.com/luckycatch/)
 
-![](https://www.gaiaonline.com/internal/mkt_t.php?mid[]=354&tm=1734508538)
+![](https://www.gaiaonline.com/internal/mkt_t.php?mid[]=354&tm=1734530265)
