@@ -56,13 +56,13 @@
 
 ###### Featured posts
 
-[![Featured article](https://www.applovin.com/wp-content/uploads/2020/06/460x260_CMR2024_PopUp_EN.jpg)
+[![Featured article](https://www.applovin.com/wp-content/uploads/2020/06/Prediction-2025-sm.jpg)
 
-###### New Report: Consumer Mobile Trends 2024](https://www.applovin.com/reports/consumer-mobile-trends-marketing-channel-diversification/)
+###### 2025 Predictions for the Mobile App Industry](https://www.applovin.com/blog/2025-predictions-mobile-app-industry/)
 
-[![Featured article](https://www.applovin.com/wp-content/uploads/2020/06/1440x810_CoffeeandCreative_Metaplay_Gamification_Blog_Header_Recap-1.jpg)
+[![Featured article](https://www.applovin.com/wp-content/uploads/2020/06/460_AppLovinCares_2024_RoundUp_Blog_Header.jpg)
 
-###### New Webinar: Metaplay & Gamification](https://www.applovin.com/blog/new-interactive-ads-webinar-about-metaplay-and-gamification-is-live/)
+###### The Spirit of Giving Back with AppLovin Cares](https://www.applovin.com/blog/embrace-spirit-giving-applovin/)
 
 [View all resources](https://www.applovin.com/resource-center/)
 
