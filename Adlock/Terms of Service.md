@@ -193,29 +193,29 @@ Address: Špitálska 53, Bratislava, 811 01, Slovakia
 Latest news
 -----------
 
+[![12 Best Free Solitaire Apps With No Ads for Android &amp; iOS](/wp-content/uploads/2023/01/Solitare.png)
+
+### 12 Best Free Solitaire Apps With No Ads for Android & iOS](https://adlock.com/blog/free-solitaire-apps-no-ads/)
+
 [![26 Best Ad-Free Games for Android &amp; iOS](/wp-content/uploads/2022/11/Best-Free-Mobile-Games-Without-Ads-For-2023-1.png)
 
-### 26 Best Ad-Free Games for Android & iOS](https://adlock.com//blog/blog-free-mobile-games-no-ads/)
+### 26 Best Ad-Free Games for Android & iOS](https://adlock.com/blog/blog-free-mobile-games-no-ads/)
 
 [![The Best Christmas Ads That Touched Our Hearts](/wp-content/uploads/2023/11/Christmas-ads.png)
 
-### The Best Christmas Ads That Touched Our Hearts](https://adlock.com//blog/best-christmas-ads/)
+### The Best Christmas Ads That Touched Our Hearts](https://adlock.com/blog/best-christmas-ads/)
 
 [![How to Stop Automatic New Tabs Opening in Google Chrome](/wp-content/uploads/2020/08/Group-217.png)
 
-### How to Stop Automatic New Tabs Opening in Google Chrome](https://adlock.com//blog/how-to-stop-automatic-tabs-opening-in-google-chrome/)
+### How to Stop Automatic New Tabs Opening in Google Chrome](https://adlock.com/blog/how-to-stop-automatic-tabs-opening-in-google-chrome/)
 
 [![Ad Blocker Detected: How To Remove It?](/wp-content/uploads/2021/02/hide_adlock2-1-1.jpg)
 
-### Ad Blocker Detected: How To Remove It?](https://adlock.com//blog/how-to-stop-ad-blocker-detection-on-websites/)
+### Ad Blocker Detected: How To Remove It?](https://adlock.com/blog/how-to-stop-ad-blocker-detection-on-websites/)
 
 [![Ad-Free Twitch: How to Block Annoying Ads](/wp-content/uploads/2021/02/Twich-cover.jpg)
 
-### Ad-Free Twitch: How to Block Annoying Ads](https://adlock.com//blog/how-to-block-twitch-ads/)
-
-[![How to Stop Seeing Political Ads Online](/wp-content/uploads/2024/11/Political-ads-1.jpg)
-
-### How to Stop Seeing Political Ads Online](https://adlock.com//blog/how-to-block-political-ads/)
+### Ad-Free Twitch: How to Block Annoying Ads](https://adlock.com/blog/how-to-block-twitch-ads/)
 
 [For Android](https://adlock.com/adlock-for-android/)[For Windows](https://adlock.com/adlock-for-windows/)[For Chrome](https://adlock.com/adlock-for-chrome/)[For Safari](https://adlock.com/adlock-for-safari/)[For macOS](https://adlock.com/adlock-for-macos/)[For iOS](https://adlock.com/adblocker-for-iphone-ios/)[For YouTube](https://adlock.com/blog/how-to-block-youtube-ads-on-android/)[For Twitch](https://adlock.com/blog/how-to-block-twitch-ads/)
 
