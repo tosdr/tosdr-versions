@@ -1,4 +1,4 @@
-* [Лимит экранного времени](https://kids360.app/limit-ekrannogo-vremeni)
+* [Лимит экранного времени](https://kids360.app/ru/limit-ekrannogo-vremeni)
 * [Блокировка приложений](https://kids360.app/ru/blokirovka-prilozhenij)
 * [Веб-контроль](https://kids360.app/ru/bezopasnyy-internet)
 * [Статистика приложений](https://kids360.app/ru/statistika-ispolzovaniya-prilozhenij)
