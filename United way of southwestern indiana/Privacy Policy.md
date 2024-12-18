@@ -54,8 +54,6 @@
     * [Blog](https://unitedwayswi.org/blog/)
     * [Press Releases](https://unitedwayswi.org/press-releases/)
 
-Menu
-
 * [About Us](#)
     * [About](https://unitedwayswi.org/about/)
     * [Our Commitment to Equity](https://unitedwayswi.org/deib-anti-racism/)
