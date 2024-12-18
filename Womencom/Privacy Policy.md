@@ -43,7 +43,7 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Billie Eilish looking up with a small smile while leaning her arm on her knee in 2024](https://www.women.com/img/gallery/the-real-reason-billie-eilish-wears-baggy-clothes-even-after-her-happier-than-ever-era/intro-1733957803.jpg)](https://www.women.com/1735954/real-reason-billie-eilish-baggy-clothes/)
+*  [![](https://www.women.com/img/gallery/the-real-reason-billie-eilish-wears-baggy-clothes-even-after-her-happier-than-ever-era/intro-1733957803.jpg)](https://www.women.com/1735954/real-reason-billie-eilish-baggy-clothes/)
     
     [Wellness](https://www.women.com/category/wellness/)
     
@@ -56,7 +56,19 @@
     
     By Madison Emily Whisenand [Read More](https://www.women.com/1735954/real-reason-billie-eilish-baggy-clothes/)
     
-* *  [![Ariana Grande](https://www.women.com/img/gallery/the-best-dressed-stars-of-2024-ranked/intro-1734458003.jpg)](https://www.women.com/1740546/best-dressed-stars-2024-ranked/)
+* *  [![Woman with a curly bob](https://www.women.com/img/gallery/the-winter-20242025-haircut-trends-youll-be-seeing-everywhere/intro-1734112734.jpg)](https://www.women.com/1737813/winter-2024-2025-haircut-trends-be-seeing-everywhere/)
+        
+        [Beauty](https://www.women.com/category/beauty/)
+        
+        [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+        
+        ### [The Winter 2024/2025 Haircut Trends You'll Be Seeing Everywhere](https://www.women.com/1737813/winter-2024-2025-haircut-trends-be-seeing-everywhere/)
+        
+        As cold days roll in, it can be hard to know what to do with your hair. Is it better to rock a longer cut to keep warm? Or do you use a shorter, simple cut?
+        
+        By Emily Hutchinson [Read More](https://www.women.com/1737813/winter-2024-2025-haircut-trends-be-seeing-everywhere/)
+        
+    *  [![Ariana Grande](https://www.women.com/img/gallery/the-best-dressed-stars-of-2024-ranked/intro-1734458003.jpg)](https://www.women.com/1740546/best-dressed-stars-2024-ranked/)
         
         [Fashion](https://www.women.com/category/fashion/)
         
@@ -68,22 +80,22 @@
         
         By Madison Emily Whisenand [Read More](https://www.women.com/1740546/best-dressed-stars-2024-ranked/)
         
-    *  [![ariana grande at a wicked premiere](https://www.women.com/img/gallery/ariana-grande-is-stunning-without-makeup/intro-1733955439.jpg)](https://www.women.com/1735909/ariana-grande-stunning-without-makeup/)
-        
-        [Beauty](https://www.women.com/category/beauty/)
-        
-        [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
-        
-        ### [Ariana Grande Is Stunning Without Makeup](https://www.women.com/1735909/ariana-grande-stunning-without-makeup/)
-        
-        Ariana Grande may be an R.E.M. beauty mogul, but her pov on makeup use has evolved over the years. Plus, she's just as gorgeous without it.
-        
-        By Amanda Chatel [Read More](https://www.women.com/1735909/ariana-grande-stunning-without-makeup/)
-        
 
 More Stories
 ------------
 
+*  [![ariana grande at a wicked premiere](https://www.women.com/img/gallery/ariana-grande-is-stunning-without-makeup/intro-1733955439.jpg)](https://www.women.com/1735909/ariana-grande-stunning-without-makeup/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
+    
+    ### [Ariana Grande Is Stunning Without Makeup](https://www.women.com/1735909/ariana-grande-stunning-without-makeup/)
+    
+    Ariana Grande may be an R.E.M. beauty mogul, but her pov on makeup use has evolved over the years. Plus, she's just as gorgeous without it.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1735909/ariana-grande-stunning-without-makeup/)
+    
 *  [![Barry Keoghan with Sabrina Carpenter](https://www.women.com/img/gallery/all-the-red-flags-we-noticed-in-sabrina-carpenter-and-barry-keoghans-relationship/intro-1733859839.jpg)](https://www.women.com/1734369/sabrina-carpenter-barry-keoghan-red-flags-relationship/)
     
     [Relationships](https://www.women.com/category/relationships/)
@@ -395,18 +407,6 @@ More Stories
     The slicked-back bun seems to be everywhere in 2024, seen on the red carpet as well as on the street. Here are five celebrities who have perfected the look.
     
     By Madison Emily Whisenand [Read More](https://www.women.com/1719912/celebs-who-mastered-art-slicked-back-bun/)
-    
-*  [![Asian woman browsing books at a bookstore](https://www.women.com/img/gallery/10-mystery-thriller-books-we-cant-wait-for-in-2025/intro-1732295218.jpg)](https://www.women.com/1720983/mystery-thriller-books-cant-wait-for-2025/)
-    
-    [Living](https://www.women.com/category/living/)
-    
-    [Living](https://www.women.com/category/living/) By Madison Emily Whisenand
-    
-    ### [10 Mystery & Thriller Books We Can't Wait For In 2025](https://www.women.com/1720983/mystery-thriller-books-cant-wait-for-2025/)
-    
-    A new year means new books, and 2025 will see some great additions to your shelf. Fans of mysteries and thrillers should check out these 10 upcoming releases.
-    
-    By Madison Emily Whisenand [Read More](https://www.women.com/1720983/mystery-thriller-books-cant-wait-for-2025/)
     
 
 Back
