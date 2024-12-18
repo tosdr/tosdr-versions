@@ -4,8 +4,6 @@
 
 ![Home](themes/custom/privacy_international_2020/images/logos/logo-1.png)](https://privacyinternational.org/)
 
-Search 
-
 [Sign up to Newsletter](https://action.privacyinternational.org/user/register)
 
 * [NEWS](https://privacyinternational.org/news)
