@@ -141,6 +141,12 @@ Dec 18
 
 ### [12/18 @ 10am EST – Live Q&A with ALL the Engineers | Ask the CEO your tech questions](https://speedify.com/event/12-18-10am-est-can-one-weaker-connection-slow-you-down-ask-the-ceo-your-tech-questions/ "12/18 @ 10am EST – Live Q&A with ALL the Engineers | Ask the CEO your tech questions")
 
+Jan 2
+
+10:00 am - 11:00 am EST
+
+### [1/02 @ 10am EST – How do you BOND more than two internet connections? | Ask the CEO your tech questions](https://speedify.com/event/1-02-10am-est-how-do-you-bond-more-than-two-internet-connections-ask-the-ceo-your-tech-questions/ "1/02 @ 10am EST – How do you BOND more than two internet connections? | Ask the CEO your tech questions")
+
 [View Calendar](https://speedify.com/calendar/ "View more events.")
 
 ### Bonding Apps
@@ -199,3 +205,7 @@ Follow us!
 * [Help](https://speedify.com/help/)
 * [Sign In](https://my.speedify.com/)
 * [Download](https://speedify.com/download/)
+
+                          
+
+This website uses cookies. To learn more, visit our [Cookie Policy](https://speedify.com/cookie-policy)[Ok](#)
