@@ -231,9 +231,9 @@ Fax:236-420-6881
 
 ![](https://www.hmebc.com/wp-content/themes/UWD/icons/hmelogopeople.png)
 
-104–2631 Enterprise Way, Kelowna, BC V1X 7Z3
+1988 Kirschner Rd, Kelowna, BC V1Y 4N6
 
-[Get Directions](https://www.google.com/maps/dir/?api=1&destination=HME+Home+Health,104%E2%80%932631%20Enterprise%20Way,%20Kelowna,%20BC%20V1X%207Z3)
+[Get Directions](https://www.google.com/maps/dir/?api=1&destination=HME+Home+Health,1988%20Kirschner%20Rd,%20Kelowna,%20BC%20V1Y%204N6)
 
 ### North Vancouver
 
