@@ -128,11 +128,11 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [One Nation, One Election](https://www.news18.com/india/lok-sabha-bills-one-nation-one-election-parliament-winter-session-opposition-furore-nda-bjp-allies-back-bill-constitution-amendment-bill-9159177.html)
-    * [Chennai Weather](https://www.news18.com/india/chennai-weather-imd-tamil-nadu-weather-heavy-rains-low-pressure-cyclone-bay-of-bengal-ws-b-9158714.html)
-    * [Stock Market](https://www.news18.com/business/markets/stock-market-crash-why-sensex-fell-over-1000-points-nifty-below-24400-today-9158948.html)
-    * [Champions Trophy Schedule](https://www.news18.com/cricket/icc-champions-trophy-2025-schedule-announcement-live-updates-match-date-time-venue-india-vs-pakistan-liveblog-9157982.html)
-    * [Kapil Sharma](https://www.news18.com/movies/kapil-sharma-breaks-silence-about-insulting-atlee-watch-and-decide-by-yourself-9159106.html)
+    * [R Ashwin Retires](https://www.news18.com/cricket/ravichandran-ashwin-announces-retirement-india-cricketer-border-gavaskar-trophy-india-vs-australia-2024-liveblog-9160055.html)
+    * [Laapataa Ladies](https://www.news18.com/movies/laapataa-ladies-oscar-run-ends-ricky-kej-says-aamir-khan-backed-film-wrong-choice-to-represent-india-9159875.html)
+    * [WTC Points Table](https://www.news18.com/cricket/updated-wtc-2023-25-points-table-after-india-australia-3rd-test-ends-in-a-draw-9159864.html)
+    * [Atlee](https://www.news18.com/movies/atlee-confirms-bang-on-collaboration-with-salman-khan-itll-be-the-proudest-film-of-our-country-9159802.html)
+    * [Maha Kumbh Mela](https://www.news18.com/kumbh-mela/)
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
@@ -169,11 +169,11 @@ Follow us on
 
 In Trends:
 
-* [One Nation, One Election](https://www.news18.com/india/lok-sabha-bills-one-nation-one-election-parliament-winter-session-opposition-furore-nda-bjp-allies-back-bill-constitution-amendment-bill-9159177.html)
-* [Chennai Weather](https://www.news18.com/india/chennai-weather-imd-tamil-nadu-weather-heavy-rains-low-pressure-cyclone-bay-of-bengal-ws-b-9158714.html)
-* [Stock Market](https://www.news18.com/business/markets/stock-market-crash-why-sensex-fell-over-1000-points-nifty-below-24400-today-9158948.html)
-* [Champions Trophy Schedule](https://www.news18.com/cricket/icc-champions-trophy-2025-schedule-announcement-live-updates-match-date-time-venue-india-vs-pakistan-liveblog-9157982.html)
-* [Kapil Sharma](https://www.news18.com/movies/kapil-sharma-breaks-silence-about-insulting-atlee-watch-and-decide-by-yourself-9159106.html)
+* [R Ashwin Retires](https://www.news18.com/cricket/ravichandran-ashwin-announces-retirement-india-cricketer-border-gavaskar-trophy-india-vs-australia-2024-liveblog-9160055.html)
+* [Laapataa Ladies](https://www.news18.com/movies/laapataa-ladies-oscar-run-ends-ricky-kej-says-aamir-khan-backed-film-wrong-choice-to-represent-india-9159875.html)
+* [WTC Points Table](https://www.news18.com/cricket/updated-wtc-2023-25-points-table-after-india-australia-3rd-test-ends-in-a-draw-9159864.html)
+* [Atlee](https://www.news18.com/movies/atlee-confirms-bang-on-collaboration-with-salman-khan-itll-be-the-proudest-film-of-our-country-9159802.html)
+* [Maha Kumbh Mela](https://www.news18.com/kumbh-mela/)
 * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 
 * Follow Us
