@@ -142,7 +142,7 @@
 [My Feed!My Feed](https://www.barstoolsports.com/favorites)[App](https://www.barstoolsports.com/download)
 
 * Trending Topics
-* [Surviving Barstool](https://www.barstoolsports.com/video/3533820/surviving-barstool-s4-ep.-6-or-tribes-go-to-war)
+* [Surviving Barstool](https://www.barstoolsports.com/video/3534208/surviving-barstool-s4-ep.-7-or-best-shot-wins-the-game)
 * [Barstool Store Best Sellers](https://store.barstoolsports.com/collections/best-sellers-page)
 * [Bill Belichick](https://store.barstoolsports.com/collections/chapel-hill)
 * [Pardon My Cheesesteak](https://order.pardonmycheesesteak.com/?_gl=1*weriuk*_gcl_au*MTY4MjEwMjE0Ni4xNzI5Njk0OTI4*_ga*OTE2OTI3NjkxLjE3MDAyNDI5OTU.*_ga_XEG774R29C*MTczNDExOTk4NC43NC4xLjE3MzQxMjAwMDIuMC4wLjA.)
