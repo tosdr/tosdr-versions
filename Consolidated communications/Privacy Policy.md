@@ -442,6 +442,7 @@ If you are a customer, please review the section related to our services. [If yo
 
 * **Note to California Residents:** Please review the “[Notice to California Residents – Your CCPA Rights](#carights)” section below for more information about your rights under the California Consumer Privacy Act of 2018 as amended by the California Privacy Rights Act (“CCPA”).
 * **Note to Maine Residents:** Please review the "[Notice to Maine Residents – Your Rights under Maine's 2019 Internet Privacy Law](https://www.consolidated.com/support/terms-policies/privacy-policy/maine-privacy-act)" section for more information about your rights under the 2019 "Act to Protect the Privacy of Online Customer Information" (or the "Maine Privacy Act").
+* **Note to New Hampshire Residents:** Please review the "[Notice to New Hampshire Residents – Your Rights under the New Hampshire Privacy Act](https://www.consolidated.com/support/terms-policies/privacy-policy/new-hampshire-privacy-act)" section for more information about your rights under the New Hampshire Privacy Act (“NHPA”).
 * **Note to Texas Residents:** Please review the “[Notice to Texas Residents – Your rights under the Texas Data Privacy and Security Act](https://www.consolidated.com/support/terms-policies/privacy-policy/texas-data-privacy-and-security-act)” section for more information about your rights under the Texas Data Privacy and Security Act (“TDPSA).
 
 **OUR SERVICES**
