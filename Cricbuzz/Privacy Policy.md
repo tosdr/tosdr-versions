@@ -38,7 +38,7 @@ More
 
 My Account Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[RSA vs PAK - Live](https://www.cricbuzz.com/live-cricket-scores/94345/rsa-vs-pak-1st-odi-pakistan-tour-of-south-africa-2024-25 "South Africa v Pakistan, 1st ODI - Live")[AUS vs IND - Stumps](https://www.cricbuzz.com/live-cricket-scores/91796/aus-vs-ind-3rd-test-india-tour-of-australia-2024-25 "Australia v India, 3rd Test - Stumps")[WI vs BAN - Preview](https://www.cricbuzz.com/live-cricket-scores/95241/wi-vs-ban-2nd-t20i-bangladesh-tour-of-west-indies-2024 "West Indies v Bangladesh, 2nd T20I - Preview")[INDW vs WIW - WIW Won](https://www.cricbuzz.com/live-cricket-scores/110021/indw-vs-wiw-2nd-t20i-west-indies-women-tour-of-india-2024 "India Women v West Indies Women, 2nd T20I - WIW Won")[MLS vs BRH - Preview](https://www.cricbuzz.com/live-cricket-scores/101577/mls-vs-brh-4th-match-big-bash-league-2024-25 "Melbourne Stars v Brisbane Heat, 4th Match - Preview")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[AUS vs IND - Break](https://www.cricbuzz.com/live-cricket-scores/91796/aus-vs-ind-3rd-test-india-tour-of-australia-2024-25 "Australia v India, 3rd Test - Break")[BAN vs WI - Break](https://www.cricbuzz.com/live-cricket-scores/95241/ban-vs-wi-2nd-t20i-bangladesh-tour-of-west-indies-2024 "Bangladesh v West Indies, 2nd T20I - Break")[RSA vs PAK - PAK Won](https://www.cricbuzz.com/live-cricket-scores/94345/rsa-vs-pak-1st-odi-pakistan-tour-of-south-africa-2024-25 "South Africa v Pakistan, 1st ODI - PAK Won")[INDW vs WIW - WIW Won](https://www.cricbuzz.com/live-cricket-scores/110021/indw-vs-wiw-2nd-t20i-west-indies-women-tour-of-india-2024 "India Women v West Indies Women, 2nd T20I - WIW Won")[MLS vs BRH - Preview](https://www.cricbuzz.com/live-cricket-scores/101577/mls-vs-brh-4th-match-big-bash-league-2024-25 "Melbourne Stars v Brisbane Heat, 4th Match - Preview")
 
 AllLive NowToday
 
@@ -46,7 +46,7 @@ AllLive NowToday
     
     Australia v India
     
-    [Australia vs India](https://www.cricbuzz.com/live-cricket-scores/91796/aus-vs-ind-3rd-test-australia-v-india "Australia v India, 3rd Test - Stumps")
+    [Australia vs India](https://www.cricbuzz.com/live-cricket-scores/91796/aus-vs-ind-3rd-test-australia-v-india "Australia v India, 3rd Test - Break")
     
     3rd Test
     
@@ -58,7 +58,7 @@ AllLive NowToday
     
 * South Africa vs Pakistan,2024-25
     
-    [South Africa vs Pakistan  LIVE](https://www.cricbuzz.com/live-cricket-scores/94345/rsa-vs-pak-1st-odi-south-africa-vs-pakistan2024-25 "South Africa v Pakistan, 1st ODI - Live")
+    [South Africa vs Pakistan](https://www.cricbuzz.com/live-cricket-scores/94345/rsa-vs-pak-1st-odi-south-africa-vs-pakistan2024-25 "South Africa v Pakistan, 1st ODI - PAK Won")
     
     1st ODI
     
@@ -108,21 +108,13 @@ AllLive NowToday
     
 * ICC Mens T20 World Cup Americas Sub Regional Qualifier, 2024
     
-    [Panama vs Mexico](https://www.cricbuzz.com/live-cricket-scores/111497/pan-vs-mex-match-32-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Panama v Mexico, Match 32 - PAN Won")
+    [Bermuda vs Cayman Islands](https://www.cricbuzz.com/live-cricket-scores/111505/ber-vs-caym-match-33-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Bermuda v Cayman Islands, Match 33 - BER Won")
     
-    Match 32
-    
-* [Bermuda vs Bahamas](https://www.cricbuzz.com/live-cricket-scores/111493/ber-vs-bhm-match-31-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Bermuda v Bahamas, Match 31 - BER Won")
-    
-    Match 31
+    Match 33
     
 * [Bahamas vs Mexico](https://www.cricbuzz.com/live-cricket-scores/111513/bhm-vs-mex-match-34-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Bahamas v Mexico, Match 34 - BHM Won")
     
     Match 34
-    
-* [Bermuda vs Cayman Islands](https://www.cricbuzz.com/live-cricket-scores/111505/ber-vs-caym-match-33-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Bermuda v Cayman Islands, Match 33 - BER Won")
-    
-    Match 33
     
 * [Argentina vs Brazil](https://www.cricbuzz.com/live-cricket-scores/111529/arg-vs-brazil-match-36-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Argentina v Brazil, Match 36 - ARG Won")
     
@@ -138,9 +130,13 @@ AllLive NowToday
     
     1st T20I
     
-* [West Indies vs Bangladesh](https://www.cricbuzz.com/live-cricket-scores/95241/wi-vs-ban-2nd-t20i-west-indies-v-bangladesh-2024 "West Indies v Bangladesh, 2nd T20I - Preview")
+* [Bangladesh vs West Indies](https://www.cricbuzz.com/live-cricket-scores/95241/ban-vs-wi-2nd-t20i-west-indies-v-bangladesh-2024 "Bangladesh v West Indies, 2nd T20I - Break")
     
     2nd T20I
+    
+* [West Indies vs Bangladesh](https://www.cricbuzz.com/live-cricket-scores/95245/wi-vs-ban-3rd-t20i-west-indies-v-bangladesh-2024 "West Indies v Bangladesh, 3rd T20I - Upcoming")
+    
+    3rd T20I
     
 * T20 LEAGUE
     
@@ -553,41 +549,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/132820/mitchell-santner-officially-appointed-new-zealands-white-ball-captain "Mitchell Santner officially appointed New Zealand's full-time white-ball captain")
+
+[Mitchell Santner officially appointed New Zealand's full-time white-ball captain](https://www.cricbuzz.com/cricket-news/132820/mitchell-santner-officially-appointed-new-zealands-white-ball-captain "Mitchell Santner officially appointed New Zealand's full-time white-ball captain")
+
+1h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132819/aghas-all-round-heroics-ayub-ton-help-pakistan-go-1-0-up "Agha's all-round heroics, Ayub ton help Pakistan go 1-0 up")
+
+[Agha's all-round heroics, Ayub ton help Pakistan go 1-0 up](https://www.cricbuzz.com/cricket-news/132819/aghas-all-round-heroics-ayub-ton-help-pakistan-go-1-0-up "Agha's all-round heroics, Ayub ton help Pakistan go 1-0 up")
+
+5h ago
+
   [](https://www.cricbuzz.com/cricket-news/132818/bcb-must-adopt-strategic-thinking-for-hp-and-a-team-tours-says-moore "BCB must adopt 'strategic thinking' for HP and A Team Tours, says Moore")
 
 [BCB must adopt 'strategic thinking' for HP and A Team Tours, says Moore](https://www.cricbuzz.com/cricket-news/132818/bcb-must-adopt-strategic-thinking-for-hp-and-a-team-tours-says-moore "BCB must adopt 'strategic thinking' for HP and A Team Tours, says Moore")
 
-32m ago
+6h ago
 
   [](https://www.cricbuzz.com/cricket-news/132817/england-shine-bright-under-bloems-sun "England shine bright under Bloem's sun")
 
 [England shine bright under Bloem's sun](https://www.cricbuzz.com/cricket-news/132817/england-shine-bright-under-bloems-sun "England shine bright under Bloem's sun")
 
-2h ago
+8h ago
 
   [](https://www.cricbuzz.com/cricket-news/132816/hayley-matthews-assault-helps-west-indies-level-series "Hayley Matthews assault helps West Indies level series")
 
 [Hayley Matthews assault helps West Indies level series](https://www.cricbuzz.com/cricket-news/132816/hayley-matthews-assault-helps-west-indies-level-series "Hayley Matthews assault helps West Indies level series")
 
-2h ago
+8h ago
 
   [](https://www.cricbuzz.com/cricket-news/132815/pakistan-spinners-restrict-south-africa-to-2399 "Pakistan spinners restrict South Africa to 239/9")
 
 [Pakistan spinners restrict South Africa to 239/9](https://www.cricbuzz.com/cricket-news/132815/pakistan-spinners-restrict-south-africa-to-2399 "Pakistan spinners restrict South Africa to 239/9")
 
-3h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132814/bell-stars-as-england-register-comprehensive-win-in-one-off-test "Bell stars as England register comprehensive win in one-off Test")
-
-[Bell stars as England register comprehensive win in one-off Test](https://www.cricbuzz.com/cricket-news/132814/bell-stars-as-england-register-comprehensive-win-in-one-off-test "Bell stars as England register comprehensive win in one-off Test")
-
-4h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132813/dercksen-the-latest-victim-of-csas-drs-disaster "Dercksen the latest victim of CSA's DRS disaster")
-
-[Dercksen the latest victim of CSA's DRS disaster](https://www.cricbuzz.com/cricket-news/132813/dercksen-the-latest-victim-of-csas-drs-disaster "Dercksen the latest victim of CSA's DRS disaster")
-
-5h ago
+9h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
