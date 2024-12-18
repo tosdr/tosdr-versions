@@ -15,9 +15,9 @@ Log InSign Up
 
 [Get The App](https://iheart.onelink.me/Ff5B/GetTheApp)
 
-[![iHeart](https://i.iheart.com/v3/re/new_assets/6761c39fbfb0a7eda9fd2779?ops=fit(240%2C80))](https://www.iheart.com/ "iHeart")
+[![iHeart](https://i.iheart.com/v3/re/new_assets/6761c33f265dae4c2e236cac?ops=fit(240%2C80))](https://www.iheart.com/ "iHeart")
 
-[![iHeart](https://i.iheart.com/v3/re/new_assets/6761c39fbfb0a7eda9fd2779?ops=fit(240%2C80))](https://www.iheart.com/ "iHeart")
+[![iHeart](https://i.iheart.com/v3/re/new_assets/6761c33f265dae4c2e236cac?ops=fit(240%2C80))](https://www.iheart.com/ "iHeart")
 
 Privacy Policy
 ==============
