@@ -2,7 +2,7 @@
 
 Privacy Policy
 
-This Privacy Policy shall be read in conjunction and together with the [Terms of Use /](https://www.mxplayer.in/terms-of-use) [User Agreement](https://www.mxplayer.in/terms-of%20use) forms an integral part of the User Agreement between You (“User(s) or you”) and Amazon MX Player (“We/Our/Us/Amazon MX Player”). Capitalized terms not defined herein shall have the meaning attributed to them under the [Terms of Use /](https://www.mxplayer.in/terms-of-use) [User Agreement](https://www.mxplayer.in/terms-of%20use)
+This Privacy Policy shall be read in conjunction and together with the [Terms of Use / User Agreement](https://www.mxplayer.in/terms-of-use) forms an integral part of the User Agreement between You (“User(s) or you”) and Amazon MX Player (“We/Our/Us/Amazon MX Player”). Capitalized terms not defined herein shall have the meaning attributed to them under the [Terms of Use / User Agreement](https://www.mxplayer.in/terms-of-use)
 
 1\. Amazon MX Player Terms of Privacy Policy
 
@@ -137,7 +137,7 @@ Our Services is primarily meant for the Users who have attained the age of 18 ye
 
 6\. Our Policy Towards Children
 
-Our Services are not directed to minors who are under the age of 13. If you become aware that your child has provided us with Personal Information without your consent, please reach out to us via[https://amazon.in/contact-us](https://amazon.in/contact-us). We do not knowingly collect personal information from children under the age of 13. If we become aware that a child under the age of 13 has provided us with personal information, we take steps to remove such information and terminate the child's account.
+Our Services are not directed to minors who are under the age of 13. If you become aware that your child has provided us with Personal Information without your consent, please reach out to us at [support@mxplayer.in](mailto:support@mxplayer.in). We do not knowingly collect personal information from children under the age of 13. If we become aware that a child under the age of 13 has provided us with personal information, we take steps to remove such information and terminate the child's account.
 
 7\. Third Party Websites / Apps
 
