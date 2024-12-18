@@ -144,6 +144,7 @@ This Website uses Trackers to improve the quality of the user experience and ena
     Storage duration:
     
     * \_fbp: 3 months
+    * lastExternalReferrer: duration of the session
     
 * ### LinkedIn button and social widgets (LinkedIn Corporation)
     
