@@ -25,6 +25,8 @@ Show mobile menu
 * [My Account](https://account.veygo.com/profile%20)
 * [Sign in](https://login.veygo.com/?redirect=https://www.veygo.com/cookie-policy/?loggedin=true%20)
 
+* * *
+
 Cookie policy
 =============
 
