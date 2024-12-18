@@ -121,9 +121,6 @@ Partners
 * Partner network
     ---------------
     
-    Technology partners
-    -------------------
-    
     Peering portal
     --------------
     
