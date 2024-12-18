@@ -29,9 +29,9 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.kagstv.com/assets/KARE/images/d3c483b6-1938-49a1-87f1-c389598a1368/20241203T041436/d3c483b6-1938-49a1-87f1-c389598a1368_16x9.jpg) ![](https://media.kagstv.com/assets/KARE/images/d3c483b6-1938-49a1-87f1-c389598a1368/20241203T041436/d3c483b6-1938-49a1-87f1-c389598a1368_360x203.jpg)](https://www.kagstv.com/article/news/crime/college-station-fox-meadows-apartments-barricaded-suspect-arrest-dec-18-2024/500-56c29def-a191-4bae-a434-da7610c6b839)
+    *  [![](https://media.kagstv.com/assets/KCEN/images/e714cd2b-1717-4dc3-a70a-9d303188af72/20241218T172556/e714cd2b-1717-4dc3-a70a-9d303188af72_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/e714cd2b-1717-4dc3-a70a-9d303188af72/20241218T172556/e714cd2b-1717-4dc3-a70a-9d303188af72_360x203.jpg)](https://www.kagstv.com/article/news/crime/college-station-fox-meadows-apartments-barricaded-suspect-arrest-dec-18-2024/500-56c29def-a191-4bae-a434-da7610c6b839)
         
-        #### [Police: Suspect in custody after barricading themselves at College Station apartment complex](https://www.kagstv.com/article/news/crime/college-station-fox-meadows-apartments-barricaded-suspect-arrest-dec-18-2024/500-56c29def-a191-4bae-a434-da7610c6b839)
+        #### [Police: Suspect in custody after hostage rescue at College Station apartment complex](https://www.kagstv.com/article/news/crime/college-station-fox-meadows-apartments-barricaded-suspect-arrest-dec-18-2024/500-56c29def-a191-4bae-a434-da7610c6b839)
         
     *  [![](https://media.kagstv.com/assets/KAGS/images/66c1844b-29a1-41e2-bd53-5fc440d5ceea/66c1844b-29a1-41e2-bd53-5fc440d5ceea_16x9.jpg) ![](https://media.kagstv.com/assets/KAGS/images/66c1844b-29a1-41e2-bd53-5fc440d5ceea/66c1844b-29a1-41e2-bd53-5fc440d5ceea_360x203.jpg)](https://www.kagstv.com/article/news/crime/the-cookshack-robbery-college-station-dec-2024/500-d127abd8-25bc-4730-8594-c8e7506c5124)
         
@@ -97,9 +97,9 @@ Navigation
 
 Bryan, TX »
 
-66°
+67°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
