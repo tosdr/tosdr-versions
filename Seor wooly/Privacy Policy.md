@@ -38,14 +38,14 @@
 * [The Wooly Team](https://www.senorwooly.com/team)
 * [FAQ](https://www.senorwooly.com/faq)
 
-!["No somos amigos" children's book (Hardcover)](https://assets.senorwooly.com/uploads/67bb7c4f-2101-4d3b-99fd-e2e7409f59d8.png)
+![The Billy & Gorro Winter Set: Scarf & Hat Combo](https://assets.senorwooly.com/uploads/210d807a-5b90-4370-bfd2-b7f1a54179b7.png)
 
 On Sale
 =======
 
 15% off
 
-"No somos amigos" children's book (Hardcover) ~$14.99~ $12.74 [Go to store](https://www.senorwooly.com/store/product/no-somos-amigos)
+The Billy & Gorro Winter Set: Scarf & Hat Combo ~$39.70~ $33.74 [Go to store](https://www.senorwooly.com/store/product/billy-y-gorro)
 
 ![](https://assets.senorwooly.com/static/images/marketing/doctor.png)
 
