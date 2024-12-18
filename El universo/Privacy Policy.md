@@ -13,7 +13,7 @@ MENÚ
 * [Juegos](https://www.eluniverso.com/juegos/)
 * [Tienda](https://tienda.eluniverso.com/)
 
-17 de diciembre de 2024
+18 de diciembre de 2024
 
 [](https://www.eluniverso.com/ "Logo del universo")
 
