@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/covid-vaccins-de-grootste-medische-misdaad/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/meelezen/de-lichtenergie-vanuit-het-atlantische-bewustzijn/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
