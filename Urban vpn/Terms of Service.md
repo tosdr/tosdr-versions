@@ -68,7 +68,6 @@
     * [![](https://assets.urban-vpn.com/wp-content/uploads/2023/02/03121359/lego.svg)
         
         Features](https://www.urban-vpn.com/features/)
-        * [Anonymous Browsing](https://www.urban-vpn.com/features/anonymous-browsing/)
         * [ISP throttling](https://www.urban-vpn.com/features/isp-throttling/)
         * [Server locations](https://www.urban-vpn.com/features/server-locations/)
         * [Unblock any website](https://www.urban-vpn.com/features/unblock-any-website/)
@@ -265,7 +264,6 @@
     * [![](https://assets.urban-vpn.com/wp-content/uploads/2023/02/03121359/lego.svg)
         
         Features](https://www.urban-vpn.com/features/)
-        * [Anonymous Browsing](https://www.urban-vpn.com/features/anonymous-browsing/)
         * [ISP throttling](https://www.urban-vpn.com/features/isp-throttling/)
         * [Server locations](https://www.urban-vpn.com/features/server-locations/)
         * [Unblock any website](https://www.urban-vpn.com/features/unblock-any-website/)
@@ -579,7 +577,6 @@ Download Urban VPN for free and browse the web while hiding your IP address.
 
 ### [FEATURES](https://www.urban-vpn.com/features/)
 
-* [Anonymous Browsing](https://www.urban-vpn.com/features/anonymous-browsing/)
 * [ISP throttling](https://www.urban-vpn.com/features/isp-throttling/)
 * [Server Locations](https://www.urban-vpn.com/features/server-locations/)
 * [Unblock any website](https://www.urban-vpn.com/features/unblock-any-website/)
