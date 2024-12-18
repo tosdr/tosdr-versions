@@ -1079,6 +1079,17 @@ QUICK BUY! Get 15% off on medicines\*
     * [Oral Care Supplements](https://www.1mg.com/categories/personal-care/oral-care/oral-care-supplements-490)
     * [Dental Floss & Tongue Cleaners](https://www.1mg.com/categories/personal-care/oral-care/dental-floss-tongue-cleaners-499)
     * [Tooth Powder](https://www.1mg.com/categories/personal-care/oral-care/tooth-powder-644)
+    * [Hair Care](https://www.1mg.com/categories/personal-care/hair-care-20)
+    * [Hair Oils](https://www.1mg.com/categories/personal-care/hair-care/hair-oils-566)
+    * [Hair Conditioners](https://www.1mg.com/categories/personal-care/hair-care/hair-conditioners-406)
+    * [Shampoos & Conditioners](https://www.1mg.com/categories/personal-care/hair-care/shampoos-conditioners-529)
+    * [Hair Creams & Masks](https://www.1mg.com/categories/personal-care/hair-care/hair-creams-masks-567)
+    * [Hair Serums](https://www.1mg.com/categories/personal-care/hair-care/hair-serums-565)
+    * [Hair Colour](https://www.1mg.com/categories/personal-care/hair-care/hair-colour-564)
+    * [Hair Growth Products](https://www.1mg.com/categories/personal-care/hair-care/hair-growth-products-1062)
+    * [Essential Oils](https://www.1mg.com/categories/personal-care/hair-care/essential-oils-379)
+    * [Hair Sprays, Gels & Wax](https://www.1mg.com/categories/personal-care/hair-care/hair-sprays-gels-wax-3161)
+    * [Hair Styling](https://www.1mg.com/categories/personal-care/hair-care/hair-styling-3160)
     
 
 last updated June 2021
