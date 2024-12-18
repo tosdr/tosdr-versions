@@ -1,3 +1,8 @@
+* **The Seattle Public Library Is Closed On Christmas Eve and Christmas Day**
+    
+    All locations of The Seattle Public Library and Book Returns at the Central Library will be closed on Christmas Eve, Tuesday, Dec. 24 and Christmas Day, Wednesday, Dec. 25.
+    
+
 [Skip to Main Content](https://www.spl.org/about-us/policies/online-privacy-and-terms-of-use#main-content)
 
  [![The Seattle Public Library logo](/Seattle-Public-Library/images/Header-images/logo-white.svg) ![The Seattle Public Library logo graphic](/Seattle-Public-Library/images/Header-images/spl-stickylogo.png)](https://www.spl.org/ "SPL - Home")
