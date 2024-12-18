@@ -71,7 +71,7 @@ Toggle
     * [Contact form](#Contact_form "Contact form")
     * [Request by e-mail, telephone, or fax](#Request_by_e-mail_telephone_or_fax "Request by e-mail, telephone, or fax")
 * [5\. Analysis tools and advertising](#5_Analysis_tools_and_advertising "5. Analysis tools and advertising")
-    * [Umami Analytics](#Umami_Analytics "Umami Analytics")
+    * [Umami Analytics (self-hosted)](#Umami_Analytics_self-hosted "Umami Analytics (self-hosted)")
 * [6\. Plug-ins and Tools](#6_Plug-ins_and_Tools "6. Plug-ins and Tools")
     * [Acast](#Acast "Acast")
 * [7\. Online marketing and partner programs](#7_Online_marketing_and_partner_programs "7. Online marketing and partner programs")
@@ -308,9 +308,9 @@ The data sent by you to us via contact requests remain with us until you request
 
 ### **5\. Analysis tools and advertising**
 
-#### **Umami Analytics**
+#### **Umami Analytics (self-hosted)**
 
-We use Umami Analytics on our website to analyze the reach of our website.
+We use a self-hosted instance of Umami Analytics on our website to analyze the reach of our website.
 
 Umami allows us to analyze the behavior of our website visitors. For this purpose, the following data is collected: Page URL, HTTP request, HTTP referrer, browser, operating system, device type and IP address. The HTTP request and IP address are stored in a hash for 24 hours; within this period, a user can be recognized if he or she returns to the website. It is not possible to identify the person. Further information can be found in the documentation for Umami Analytics at: https://umami.is
 
@@ -496,7 +496,7 @@ Enabling our clients to drive forward innovation themselves is our primary goal.
 * [Imprint](https://www.gammabeyond.com/en/imprint/)
 * [Privacy Policy](https://www.gammabeyond.com/en/privacy-policy/)
 
-©2024 GAMMA Digital & Beyond®
+©2025 GAMMA Digital & Beyond®
 
 [](https://www.linkedin.com/company/gammabeyond/about)[](http://innovationalcorrectness.com/)[](https://open.spotify.com/show/6hFFOm3fd3OoHoijVIzd0Y)[](https://www.youtube.com/c/GAMMADigitalBeyond?sub_confirmation=1)
 
