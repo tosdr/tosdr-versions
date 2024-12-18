@@ -310,8 +310,6 @@ Donation amount, other Other donation amount
 
 Donate Now
 
-[Donate](https://secure.projecthope.org/site/SPageNavigator/FY24_10_Year_End_Web_LO_12173.html? "Donate")
-
 We use cookies to ensure that we give you the best experience on our website. By clicking “Accept”, you consent to us using data collected from the cookies on our website. To learn more, check out our [privacy policy](https://www.projecthope.org/privacy-policy).
 
 Accept
