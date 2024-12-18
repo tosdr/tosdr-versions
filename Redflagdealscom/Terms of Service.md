@@ -64,6 +64,7 @@ Don't have an account? [Sign up now.](https://www.redflagdeals.com/user/signup/?
     
     * Forums
     * * [Hot Deals](https://forums.redflagdeals.com/hot-deals-f9/)
+        * [Boxing Day](https://forums.redflagdeals.com/hot-deals-f9/?h=2)
         * [Personal Finance](https://forums.redflagdeals.com/personal-finance-f41/)
         * [Buy, Sell, Trade](https://forums.redflagdeals.com/buy-sell-trading-post-f44/)
         * [Contests](https://forums.redflagdeals.com/contests-f34/)
