@@ -181,16 +181,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Michigan Senate Bans “Ghost Guns”](https://www.thegunpage.com/michigan-senate-bans-ghost-guns/10612587)
+* [Christensen Arms Releases The Evoke](https://www.thegunpage.com/christensen-arms-releases-the-evoke/10612585)
+* [WY: Wyoming Senate Proposes Terrible Legislation to Blunt a REAL Repeal of Gun Free Zones](https://www.thegunpage.com/wy-wyoming-senate-proposes-terrible-legislation-to-blunt-a-real-repeal-of-gun-free-zones/10612583)
+* [Gun Control Laws Fall as Courts Chart an Uncertain Path to the Future](https://www.thegunpage.com/gun-control-laws-fall-as-courts-chart-an-uncertain-path-to-the-future/10612581)
+* [Austria Arms' H&K G95K Clone Build (The German KSK's HK416)](https://www.thegunpage.com/austria-arms-hk-g95k-clone-build-the-german-ksks-hk416/10612586)
+* [Dems Play To Anti-Gun Base With Ultimate Political Grandstanding Ploy](https://www.thegunpage.com/dems-play-to-anti-gun-base-with-ultimate-political-grandstanding-ploy/10612580)
 * [Steel Challenge And USPSA Competition Q&A: Rule Explanations, Scoring Questions](https://www.thegunpage.com/steel-challenge-and-uspsa-competition-qa-rule-explanations-scoring-questions/10612579)
 * [From Goryunov’s SG-43 To Kalashnikov’s PK](https://www.thegunpage.com/from-goryunovs-sg-43-to-kalashnikovs-pk/10612571)
 * [POTD: Platypus – The 1911 That Takes Glock Magazines](https://www.thegunpage.com/potd-platypus-the-1911-that-takes-glock-magazines/10612572)
 * [TFB Review: Smith & Wesson Shield Plus PC Carry Comp Pistol](https://www.thegunpage.com/tfb-review-smith-wesson-shield-plus-pc-carry-comp-pistol/10612573)
-* [NBC Falsely Claims Magazine Disconnects Improve Safety of Handguns](https://www.thegunpage.com/nbc-falsely-claims-magazine-disconnects-improve-safety-of-handguns/10612567)
-* [CMMG Unveils The Br47 DISSENT](https://www.thegunpage.com/cmmg-unveils-the-br47-dissent/10612568)
-* [FBI Urges New Jersey Residents Not To Shoot Unidentified Drones](https://www.thegunpage.com/fbi-urges-new-jersey-residents-not-to-shoot-unidentified-drones/10612564)
-* [Brooklyn DA Declines to Prosecute Bus Driver in Self-Defense Case](https://www.thegunpage.com/brooklyn-da-declines-to-prosecute-bus-driver-in-self-defense-case/10612565) 
-* [The New LTT A300 Ultima Patrol Shotgun](https://www.thegunpage.com/the-new-ltt-a300-ultima-patrol-shotgun/10612569)
-* [CEO Killing: Activists Seek Ghost Gun Laws, But Ignore the Facts & Law](https://www.thegunpage.com/ceo-killing-activists-seek-ghost-gun-laws-but-ignore-the-facts-law/10612562)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -232,6 +232,7 @@ Contact Us
 
 Recent Comments
 
+* TennesseeConservative on [Is Kamala ‘28 Proof The Democrat Party Is In Disarray?](https://www.conservativedailynews.com/2024/12/is-kamala-28-proof-the-democrat-party-is-in-disarray/#comment-783795)
 * charles wilkins on [The Year We Had No President](https://www.conservativedailynews.com/2024/12/the-year-we-had-no-president/#comment-783758)
 * Richard McDonough on [BYE! Dem Rep Says ‘Thousands’ Of Federal Employees Are So Shaken By Trump Election They Might Quit](https://www.conservativedailynews.com/2024/12/bye-dem-rep-says-thousands-of-federal-employees-are-so-shaken-by-trump-election-they-might-quit/#comment-783742)
 * charles wilkins on [Trouble Shooter](https://www.conservativedailynews.com/2024/12/a-f-branco-cartoon-trouble-shooter/#comment-783733)
@@ -240,7 +241,6 @@ Recent Comments
 * charles wilkins on [Hunter Biden’s Pardon Really Rubbed America The Wrong Way, Poll Shows](https://www.conservativedailynews.com/2024/12/hunter-bidens-pardon-really-rubbed-america-the-wrong-way-poll-shows/#comment-783704)
 * KayCee on [Bad Gifts](https://www.conservativedailynews.com/2024/12/bad-gifts-2/#comment-783697)
 * KayCee on [Hunter Biden’s Pardon Really Rubbed America The Wrong Way, Poll Shows](https://www.conservativedailynews.com/2024/12/hunter-bidens-pardon-really-rubbed-america-the-wrong-way-poll-shows/#comment-783696)
-* KayCee on [People In North Carolina Are living In Tents While Biden Pledges Billions To Africa](https://www.conservativedailynews.com/2024/12/people-in-north-carolina-are-living-in-tents-while-biden-pledges-billions-to-africa/#comment-783690)
 
 [Close](#)
 
