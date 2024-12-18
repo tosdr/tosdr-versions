@@ -1,12 +1,12 @@
 [Skip to content](#main-content)
 
-[20% Off All Self-Defense Batons | Code: BATON20](https://www.thehomesecuritysuperstore.com/collections/batons?utm_source=website&utm_medium=banner&utm_campaign=20%25+Off+All+Self-Defense+Batons)
+[TASER Free Expedited 2 Day Shipping I Click Here!](https://www.thehomesecuritysuperstore.com/collections/taser?utm_source=Top&utm_medium=Banner&utm_campaign=Taser+Free+Shipping)
 
-TODAY'S OFFER: :: | 20% Off All Self-Defense Batons | Code: BATON20
+TODAY'S OFFER: :: | TASER Free Expedited 2 Day Shipping I Click Here!
 
 TODAY'S OFFER: : :
 
- 20% Off All Self-Defense Batons Code: BATON20
+ TASER Free Expedited 2 Day Shipping I Click Here!
 
 [![The Home Security Superstore](//www.thehomesecuritysuperstore.com/cdn/shop/files/thss-main-logo-jpg.jpg?v=1729157895&width=300)](https://www.thehomesecuritysuperstore.com/)
 
