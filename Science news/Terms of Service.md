@@ -94,7 +94,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Archaeology’s top discoveries of 2024 include preserved brains and a lost city](https://www.sciencenews.org/article/archaeology-discovery-brains-lost-city)
             
-            By [Maria Temming](https://www.sciencenews.org/author/maria-temming "Posts by Maria Temming")9 hours ago
+            By [Maria Temming](https://www.sciencenews.org/author/maria-temming "Posts by Maria Temming")15 hours ago
             
         * [Anthropology](https://www.sciencenews.org/topic/anthropology)
             
@@ -124,7 +124,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Sheep earwax can record a dangerous diet](https://www.sciencenews.org/article/sheep-earwax-record-dangerous-diet)
             
-            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")13 hours ago
+            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")19 hours ago
             
         * [Life](https://www.sciencenews.org/topic/life)
             
