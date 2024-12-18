@@ -34,10 +34,15 @@ Navigation
         
         #### [Metro bus driver stabbed, killed near UW campus](https://www.king5.com/article/news/crime/seattle-bus-driver-fatally-stabbed/281-4ee8c92b-8089-405e-9cb3-11c793fab572)
         
-    *  [![](https://media.king5.com/assets/KING/images/39e8fbf7-061f-421b-b223-466bb55a99d2/39e8fbf7-061f-421b-b223-466bb55a99d2_16x9.jpg) ![](https://media.king5.com/assets/KING/images/39e8fbf7-061f-421b-b223-466bb55a99d2/39e8fbf7-061f-421b-b223-466bb55a99d2_360x203.jpg)](https://www.king5.com/article/weather/freezing-rain-ice-expected-washington-mountain-passes-tuesday/281-16507188-0ae7-4bb6-947d-2bf3357b54b4)
+    *  [![](https://media.king5.com/assets/KING/images/e7dfc900-6e14-439e-9073-a70554931216/e7dfc900-6e14-439e-9073-a70554931216_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e7dfc900-6e14-439e-9073-a70554931216/e7dfc900-6e14-439e-9073-a70554931216_360x203.jpg)](https://www.king5.com/article/tech/science/environment/northern-giant-hornet-eradicated-washington/281-364bfe1e-898d-4202-b453-3bb1e27b9b0f)
         
-        #### [Mountain snow continues, gusty winds felt around western Washington](https://www.king5.com/article/weather/freezing-rain-ice-expected-washington-mountain-passes-tuesday/281-16507188-0ae7-4bb6-947d-2bf3357b54b4)
+        #### [Northern giant hornets eradicated from Washington, officials say](https://www.king5.com/article/tech/science/environment/northern-giant-hornet-eradicated-washington/281-364bfe1e-898d-4202-b453-3bb1e27b9b0f) [![](https://media.king5.com/assets/KING/images/e7dfc900-6e14-439e-9073-a70554931216/e7dfc900-6e14-439e-9073-a70554931216_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e7dfc900-6e14-439e-9073-a70554931216/e7dfc900-6e14-439e-9073-a70554931216_360x203.jpg)](https://www.king5.com/article/tech/science/environment/northern-giant-hornet-eradicated-washington/281-364bfe1e-898d-4202-b453-3bb1e27b9b0f)
         
+        #### [Northern giant hornets eradicated: Washington officials celebrate triumph over invasive threat](https://www.king5.com/article/tech/science/environment/northern-giant-hornet-eradicated-washington/281-364bfe1e-898d-4202-b453-3bb1e27b9b0f) [![](https://media.king5.com/assets/KING/images/e7dfc900-6e14-439e-9073-a70554931216/e7dfc900-6e14-439e-9073-a70554931216_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e7dfc900-6e14-439e-9073-a70554931216/e7dfc900-6e14-439e-9073-a70554931216_360x203.jpg)](https://www.king5.com/article/tech/science/environment/northern-giant-hornet-eradicated-washington/281-364bfe1e-898d-4202-b453-3bb1e27b9b0f)
+        
+        #### [Northern giant hornet threat eradicated in Washington](https://www.king5.com/article/tech/science/environment/northern-giant-hornet-eradicated-washington/281-364bfe1e-898d-4202-b453-3bb1e27b9b0f) [![](https://media.king5.com/assets/KING/images/e7dfc900-6e14-439e-9073-a70554931216/e7dfc900-6e14-439e-9073-a70554931216_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e7dfc900-6e14-439e-9073-a70554931216/e7dfc900-6e14-439e-9073-a70554931216_360x203.jpg)](https://www.king5.com/article/tech/science/environment/northern-giant-hornet-eradicated-washington/281-364bfe1e-898d-4202-b453-3bb1e27b9b0f)
+        
+        #### [Washington declares victory over northern giant hornets with no sightings in 3 years](https://www.king5.com/article/tech/science/environment/northern-giant-hornet-eradicated-washington/281-364bfe1e-898d-4202-b453-3bb1e27b9b0f)
     
 * [Weather](https://www.king5.com/weather/)
     
@@ -56,13 +61,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/39e8fbf7-061f-421b-b223-466bb55a99d2/39e8fbf7-061f-421b-b223-466bb55a99d2_16x9.jpg) ![](https://media.king5.com/assets/KING/images/39e8fbf7-061f-421b-b223-466bb55a99d2/39e8fbf7-061f-421b-b223-466bb55a99d2_360x203.jpg)](https://www.king5.com/article/weather/freezing-rain-ice-expected-washington-mountain-passes-tuesday/281-16507188-0ae7-4bb6-947d-2bf3357b54b4)
+    *  [![](https://media.king5.com/assets/KING/images/e809468d-7ac8-4fc2-9c91-e8f0eaa7573c/20241218T183124/e809468d-7ac8-4fc2-9c91-e8f0eaa7573c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e809468d-7ac8-4fc2-9c91-e8f0eaa7573c/20241218T183124/e809468d-7ac8-4fc2-9c91-e8f0eaa7573c_360x203.jpg)](https://www.king5.com/article/weather/weather-impact/top-wind-speeds-overnight-storm-western-washington/281-7ecc6017-2fb4-4745-b70c-437d4a04f3a6)
         
-        #### [Mountain snow continues, gusty winds felt around western Washington](https://www.king5.com/article/weather/freezing-rain-ice-expected-washington-mountain-passes-tuesday/281-16507188-0ae7-4bb6-947d-2bf3357b54b4)
+        #### [These were the top wind speeds recorded during overnight storm in western Washington](https://www.king5.com/article/weather/weather-impact/top-wind-speeds-overnight-storm-western-washington/281-7ecc6017-2fb4-4745-b70c-437d4a04f3a6)
         
-    *  [![](https://media.king5.com/assets/KING/images/72b3b469-b030-41c9-96fa-c99a764919bf/20241218T130322/72b3b469-b030-41c9-96fa-c99a764919bf_16x9.jpg) ![](https://media.king5.com/assets/KING/images/72b3b469-b030-41c9-96fa-c99a764919bf/20241218T130322/72b3b469-b030-41c9-96fa-c99a764919bf_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/1038f69c-af61-4f25-b8fc-4aa5013bc534/20241218T162209/1038f69c-af61-4f25-b8fc-4aa5013bc534_16x9.jpg) ![](https://media.king5.com/assets/KING/images/1038f69c-af61-4f25-b8fc-4aa5013bc534/20241218T162209/1038f69c-af61-4f25-b8fc-4aa5013bc534_360x203.jpg)](https://www.king5.com/article/weather/weather-impact/outages-power-heavy-winds-western-washington/281-22695fbb-59d7-4199-ae91-b394d85f0719)
         
-        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        #### [Over 40,000 remain without power in western Washington as crews work to restore after storm](https://www.king5.com/article/weather/weather-impact/outages-power-heavy-winds-western-washington/281-22695fbb-59d7-4199-ae91-b394d85f0719)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -82,13 +87,13 @@ Navigation
     
     Latest Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/ea8583eb-4d1b-4a00-a7f3-0e5e1c62b9d7/20241218T060732/ea8583eb-4d1b-4a00-a7f3-0e5e1c62b9d7_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ea8583eb-4d1b-4a00-a7f3-0e5e1c62b9d7/20241218T060732/ea8583eb-4d1b-4a00-a7f3-0e5e1c62b9d7_360x203.jpg)](https://www.king5.com/article/sports/nhl/kraken/ullmark-makes-30-saves-senators-win-4th-straight-with-3-0-win-over-kraken/281-8e9d5752-72c7-4b47-a222-1fa5e3b0ac52)
+    *  [![](https://media.king5.com/assets/KREM/images/ac39c8b2-9a8c-4125-aeef-812cabffb346/20240822T214424/ac39c8b2-9a8c-4125-aeef-812cabffb346_16x9.jpg) ![](https://media.king5.com/assets/KREM/images/ac39c8b2-9a8c-4125-aeef-812cabffb346/20240822T214424/ac39c8b2-9a8c-4125-aeef-812cabffb346_360x203.jpg)](https://www.king5.com/article/sports/ncaa/ncaaf/jake-dickert-leaving-wsu--wake-forest/293-d549f7ab-f466-4c20-bd55-64402b945ae5)
         
-        #### [Ullmark makes 30 saves, Senators win 4th straight with 3-0 win over Kraken](https://www.king5.com/article/sports/nhl/kraken/ullmark-makes-30-saves-senators-win-4th-straight-with-3-0-win-over-kraken/281-8e9d5752-72c7-4b47-a222-1fa5e3b0ac52)
+        #### [Jake Dickert leaves WSU to become head coach at Wake Forest](https://www.king5.com/article/sports/ncaa/ncaaf/jake-dickert-leaving-wsu--wake-forest/293-d549f7ab-f466-4c20-bd55-64402b945ae5)
         
-    *  [![](https://media.king5.com/assets/KING/images/c85738ba-9ecf-4d56-9029-3f97eddd2e60/20241216T034403/c85738ba-9ecf-4d56-9029-3f97eddd2e60_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c85738ba-9ecf-4d56-9029-3f97eddd2e60/20241216T034403/c85738ba-9ecf-4d56-9029-3f97eddd2e60_360x203.jpg)](https://www.king5.com/article/sports/geno-smith-injury-seahawks-packers/281-a396ee8b-0cf4-496c-ae36-1b03b2c99d44)
+    *  [![](https://media.king5.com/assets/WXIA/images/d301d4e6-b202-4479-89a4-23fac46d9c37/20241218T014338/d301d4e6-b202-4479-89a4-23fac46d9c37_16x9.jpg) ![](https://media.king5.com/assets/WXIA/images/d301d4e6-b202-4479-89a4-23fac46d9c37/20241218T014338/d301d4e6-b202-4479-89a4-23fac46d9c37_360x203.jpg)](https://www.king5.com/article/sports/nfl/falcons-bench-qb-kirk-cousins-favor-rookie-michael-penix-jr/85-7cf3995f-76fa-4ac7-a122-572e7204db73)
         
-        #### [Geno Smith avoids major injury after exiting Seahawks' loss to Packers](https://www.king5.com/article/sports/geno-smith-injury-seahawks-packers/281-a396ee8b-0cf4-496c-ae36-1b03b2c99d44)
+        #### [Falcons to start UW product Michael Penix Jr. after benching QB Kirk Cousins](https://www.king5.com/article/sports/nfl/falcons-bench-qb-kirk-cousins-favor-rookie-michael-penix-jr/85-7cf3995f-76fa-4ac7-a122-572e7204db73)
         
     
 * [VERIFY](https://www.king5.com/verify)
@@ -107,7 +112,7 @@ Seattle, WA »
 
 53°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
