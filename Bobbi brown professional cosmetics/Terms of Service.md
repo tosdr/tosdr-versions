@@ -2,7 +2,7 @@
 
 Previous
 
-[Enjoy 25% off sitewide.\* Use code: **DAY10** at checkout.](https://www.bobbibrowncosmetics.com/products/14358/best-sellers)
+[Shop our Limited Edition City Lights Holiday Collection.](https://www.bobbibrowncosmetics.com/products/52522/holiday/holiday_category)
 
 [Join our mailing list and get 15% off your first order.](https://www.bobbibrowncosmetics.com/account/signin.tmpl)
 
@@ -285,8 +285,6 @@ HOLIDAY GIFT GUIDE
 Special offers
 
 [See Today's Offer](https://www.bobbibrowncosmetics.com/offers-landing-page "See Today's Offer")
-
-[10 Days of Bobbi Brown](https://www.bobbibrowncosmetics.com/advent-calendar "10 Days of Bobbi Brown")
 
 [Up to 30% off Last Chance](https://www.bobbibrowncosmetics.com/products/16111/Makeup/last-call "Up to 30% off Last Chance")
 
