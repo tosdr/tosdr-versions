@@ -412,11 +412,11 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. c
+1. web development
     
-2. psychology
+2. machine learning
     
-3. law
+3. html
     
 
 Popular subjects
