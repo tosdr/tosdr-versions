@@ -459,12 +459,10 @@ Follow us:
 * [Careers](https://www.csmonitor.com/About/Careers)
 
 * [Social Media](https://www.csmonitor.com/About/Social-Media)
-* [Community Connect](https://www.csmonitor.com/About/Community-Connect)
 * [Content Map](https://www.csmonitor.com/csm/contentmap)
 * [Text Edition](https://www.csmonitor.com/text_edition)
 * [RSS](https://www.csmonitor.com/About/RSS)
 * [Reprints & Permissions](http://www.csmonitorreprints.com/)
-* [Multimedia](https://www.csmonitor.com/Multimedia)
 * [A Christian Science Perspective](https://www.csmonitor.com/Commentary/A-Christian-Science-Perspective)
 
 [© 1980–2024 The Christian Science Monitor.](https://www.csmonitor.com/About) [All Rights Reserved. Terms.](https://www.csmonitor.com/About/Terms) [Privacy Policy.](https://www.csmonitor.com/About/Privacy-Policy) Cookies Settings
