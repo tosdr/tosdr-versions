@@ -1,4 +1,4 @@
-[We just released the best version of our app yet at **bunq Update 27**. Check out all that's new and improved here.](https://www.bunq.com/assets/media/legal/en/update-27)
+[**bunq Update 27** has arrived! Tap here to see all that's new.](https://www.bunq.com/assets/media/legal/en/update-27)
 
 ![](https://framerusercontent.com/images/DU7HAXnvm85IhmGAomOAGAZUlMY.svg)
 
@@ -20,7 +20,7 @@
 
 [Press](https://press.bunq.com/)
 
-[We just released the best version of our app yet at **bunq Update 27**. Check out all that's new and improved here.](https://www.bunq.com/assets/media/legal/en/update-27)
+[**bunq Update 27** has arrived! Tap here to see all that's new.](https://www.bunq.com/assets/media/legal/en/update-27)
 
 ![](https://framerusercontent.com/images/DU7HAXnvm85IhmGAomOAGAZUlMY.svg)
 
@@ -42,7 +42,7 @@
 
 [Press](https://press.bunq.com/)
 
-[We just released the best version of our app yet at **bunq Update 27**. Check out all that's new and improved here.](https://www.bunq.com/assets/media/legal/en/update-27)
+[**bunq Update 27** has arrived! Tap here to see all that's new.](https://www.bunq.com/assets/media/legal/en/update-27)
 
 ![](https://framerusercontent.com/images/DU7HAXnvm85IhmGAomOAGAZUlMY.svg)
 
@@ -503,17 +503,17 @@ English (EU)
 
 Discover
 
-[Students](https://www.bunq.com/assets/media/legal/en/documents/pricing)
+[Students](https://www.bunq.com/assets/media/legal/en/students)
 
-Expats
+[Expats](https://www.bunq.com/assets/media/legal/en/expats)
 
-Couples
+[Couples](https://www.bunq.com/assets/media/legal/en/couples)
 
-Parents
+[Parents](https://www.bunq.com/assets/media/legal/en/parents)
 
-Savings
+[Savings](https://www.bunq.com/assets/media/legal/en/savings)
 
-Business
+[Business](https://www.bunq.com/assets/media/legal/en/business)
 
 [Blog](https://www.bunq.com/assets/media/legal/en/blog)
 
@@ -539,7 +539,7 @@ Company
 
 Help
 
-[Pricing](https://mortgages.bunq.com/)
+[Pricing](https://www.bunq.com/assets/media/legal/en/documents/pricing)
 
 [Help Center](https://www.bunq.com/assets/media/legal/en/help)
 
@@ -583,17 +583,17 @@ English (EU)
 
 Discover
 
-[Students](https://www.bunq.com/assets/media/legal/en/documents/pricing)
+[Students](https://www.bunq.com/assets/media/legal/en/students)
 
-Expats
+[Expats](https://www.bunq.com/assets/media/legal/en/expats)
 
-Couples
+[Couples](https://www.bunq.com/assets/media/legal/en/couples)
 
-Parents
+[Parents](https://www.bunq.com/assets/media/legal/en/parents)
 
-Savings
+[Savings](https://www.bunq.com/assets/media/legal/en/savings)
 
-Business
+[Business](https://www.bunq.com/assets/media/legal/en/business)
 
 [Blog](https://www.bunq.com/assets/media/legal/en/blog)
 
@@ -619,7 +619,7 @@ Company
 
 Help
 
-[Pricing](https://mortgages.bunq.com/)
+[Pricing](https://www.bunq.com/assets/media/legal/en/documents/pricing)
 
 [Help Center](https://www.bunq.com/assets/media/legal/en/help)
 
@@ -663,17 +663,17 @@ English (EU)
 
 Discover
 
-[Students](https://www.bunq.com/assets/media/legal/en/documents/pricing)
+[Students](https://www.bunq.com/assets/media/legal/en/students)
 
-Expats
+[Expats](https://www.bunq.com/assets/media/legal/en/expats)
 
-Couples
+[Couples](https://www.bunq.com/assets/media/legal/en/couples)
 
-Parents
+[Parents](https://www.bunq.com/assets/media/legal/en/parents)
 
-Savings
+[Savings](https://www.bunq.com/assets/media/legal/en/savings)
 
-Business
+[Business](https://www.bunq.com/assets/media/legal/en/business)
 
 [Blog](https://www.bunq.com/assets/media/legal/en/blog)
 
@@ -699,7 +699,7 @@ Company
 
 Help
 
-[Pricing](https://mortgages.bunq.com/)
+[Pricing](https://www.bunq.com/assets/media/legal/en/documents/pricing)
 
 [Help Center](https://www.bunq.com/assets/media/legal/en/help)
 
