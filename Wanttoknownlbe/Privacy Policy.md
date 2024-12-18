@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/obamas-geboorte-akte-met-zekerheid-vervalst/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/psychische-medicijnen-en-onze-kinderen/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
