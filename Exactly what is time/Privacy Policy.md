@@ -83,7 +83,7 @@ Random Pages
 
 * * *
 
-[Physics of Time](https://www.exactlywhatistime.com/physics-of-time/) [Definition of Time](https://www.exactlywhatistime.com/definition-of-time/) [Absolute Time](https://www.exactlywhatistime.com/physics-of-time/absolute-time/) [Glossary of Terms](https://www.exactlywhatistime.com/glossary-of-terms/) [Philosophy of Time](https://www.exactlywhatistime.com/philosophy-of-time/) [Ageing](https://www.exactlywhatistime.com/other-aspects-of-time/ageing/) [24H Ampm Converter](https://www.exactlywhatistime.com/24h-ampm-converter) [Time Percenption](https://www.exactlywhatistime.com/psychology-of-time/time-percenption/) [Chronophobia](https://www.exactlywhatistime.com/psychology-of-time/chronophobia/) [Calendars](https://www.exactlywhatistime.com/measurement-of-time/calendars/)
+[Time Percenption](https://www.exactlywhatistime.com/psychology-of-time/time-percenption/) [Time In Literature](https://www.exactlywhatistime.com/other-aspects-of-time/time-in-literature/) [Early Modern Philosophy](https://www.exactlywhatistime.com/philosophy-of-time/early-modern-philosophy/) [Calendars](https://www.exactlywhatistime.com/measurement-of-time/calendars/) [Definition of Time](https://www.exactlywhatistime.com/definition-of-time/) [Chronophobia](https://www.exactlywhatistime.com/psychology-of-time/chronophobia/) [Philosophy of Time](https://www.exactlywhatistime.com/philosophy-of-time/) [Time And The Big Bang](https://www.exactlywhatistime.com/physics-of-time/time-and-the-big-bang/) [Ancient Philosophy](https://www.exactlywhatistime.com/philosophy-of-time/ancient-philosophy/) [Other Aspects of Time](https://www.exactlywhatistime.com/other-aspects-of-time/)
 
 © 2024 ExactlyWhatIsTime.com - Exactly What Is Time?
 
