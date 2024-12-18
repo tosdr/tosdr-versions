@@ -6,7 +6,7 @@ Sections
 
 [61°
 
-![Mist](/pf/resources/images/weather/status-icons/20.png?d=949)](https://www.actionnewsjax.com/weather/)
+![Fog](/pf/resources/images/weather/status-icons/20.png?d=949)](https://www.actionnewsjax.com/weather/)
 
 [WATCH](https://www.actionnewsjax.com/video/)
 
