@@ -1,5 +1,5 @@
-**Terms Of Service** 
----------------------
+**Terms Of Service**
+--------------------
 
 _**Last Modified: December 06, 2024**_
 
