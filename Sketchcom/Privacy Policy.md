@@ -20,9 +20,9 @@ Menu
     
     What’s New
     
+    * [Sketch in 2024](https://www.sketch.com/updates/#sketch-in-2024)
     * [Smart Animate](https://www.sketch.com/updates/#smart-animate)
     * [Easy Library swaps](https://www.sketch.com/updates/#easy-library-swaps)
-    * [Color Variables in gradients](https://www.sketch.com/updates/#color-variables-in-gradients)
     
     [See all updates](https://www.sketch.com/updates/)
     
