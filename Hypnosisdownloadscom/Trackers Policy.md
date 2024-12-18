@@ -57,6 +57,7 @@ This Application uses Trackers to improve the quality of the user experience and
     Storage duration:
     
     * \_fbp: 3 months
+    * lastExternalReferrer: duration of the session
     
 * ### Google+ +1 button and social widgets (Google Ireland Limited)
     
@@ -181,6 +182,7 @@ This Application participates in the IAB Europe Transparency & Consent Framework
     Storage duration:
     
     * \_fbp: 3 months
+    * lastExternalReferrer: duration of the session
     
 * ### Google Ads Remarketing (Google Ireland Limited)
     
