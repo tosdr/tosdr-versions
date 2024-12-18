@@ -446,127 +446,123 @@ Go Ad-Free
 
 ### Featured Channels Featured
 
-[Steven Crowder
+[Redacted News
 
-41.8K](https://rumble.com/v60iv9b--the-true-cost-of-fat-pride-how-its-destroying-america.html "Steven Crowder")
+11.4K](https://rumble.com/v60mj7b-breaking-warmongers-pushing-trump-to-launch-pre-emptive-war-with-iran-redac.html "Redacted News")
+
+[Dr Disrespect
+
+6.34K](https://rumble.com/v60k9u5-live-dr-disrespect-marvel-rivals-ranked.html "Dr Disrespect")
 
 [Bannons War Room
 
-21.3K](https://rumble.com/v3by09g-warroom-live.html "Bannons War Room")
-
-[Badlands Media
-
-4.65K](https://rumble.com/v60e9fq-badlands-daily-december-18-2024.html "Badlands Media")
+2.65K](https://rumble.com/v5ycrbq-live-u.s.-house-of-representatives.html "Bannons War Room")
 
 [NEWSMAX
 
-3.26K](https://rumble.com/v60ivs2-the-gerry-callahan-show-live-12182024-newsmax-podcasts.html "NEWSMAX")
+2.14K](https://rumble.com/v60552h-newsmax2-live-real-news-for-real-people.html "NEWSMAX")
 
-[Matt Kohrs
+[Darkhorse Podcast
 
-2.06K](https://rumble.com/v60gcre-the-mk-show-dec.-18th.html "Matt Kohrs")
+1.22K](https://rumble.com/v60l4kt-the-256th-evolutionary-lens-with-bret-weinstein-and-heather-heying.html "Darkhorse Podcast")
 
-[Dr Steve Turley
+[Barry Cunningham
 
-338](https://rumble.com/v60bm2e-why-george-soross-empire-is-crumbling.html "Dr Steve Turley")
+765](https://rumble.com/v60kuhh-trump-daily-briefing-they-are-trying-to-screw-trump-before-he-gets-into-off.html "Barry Cunningham")
 
 [Lofi Girl
 
-272](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
+215](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
 
-[Mike Crispi
+[VSiNLive
 
-119](https://rumble.com/v60j0tq-congress-passes-another-massive-spending-bill.html "Mike Crispi")
-
-[barstoolsports
-
-69](https://rumble.com/v60csvn-wake-up-mintzy-12.18.24.html "barstoolsports")
-
-[Wake Up Mintzy
-
-69](https://rumble.com/v60csvn-wake-up-mintzy-12.18.24.html "Wake Up Mintzy")
+5](https://rumble.com/v60n0kb-follow-the-money-with-mitch-moss-and-pauly-howard-hour-1.html "VSiNLive")
 
 [Major League Fishing
 
 2](https://rumble.com/v5pak3w-live-general-tire-team-series-summit-cup-day-6.html "Major League Fishing")
 
-[The Pat Bev Podcast with Rone](https://rumble.com/c/ThePatBevPodcastWithRone "The Pat Bev Podcast with Rone")
+[Answer The Internet](https://rumble.com/c/AnswerTheInternet "Answer The Internet")
 
-[Jerry After Dark](https://rumble.com/c/JerryAfterDark "Jerry After Dark")
+[SLS - Street League Skateboarding](https://rumble.com/c/sls "SLS - Street League Skateboarding")
 
-[Jersey Jerry](https://rumble.com/c/jerseyjerry "Jersey Jerry")
+[Tate Speech by Andrew Tate](https://rumble.com/c/TateSpeech "Tate Speech by Andrew Tate")
 
-[Steve-O's Wild Ride! Podcast](https://rumble.com/c/WildRide "Steve-O's Wild Ride! Podcast")
+[The Why Files](https://rumble.com/c/TheWhyFiles "The Why Files")
 
-[Dana Beers](https://rumble.com/c/danabeers "Dana Beers")
+[Out & About](https://rumble.com/c/OutAndAbout "Out & About")
+
+[The Charlie Kirk Show](https://rumble.com/c/CharlieKirk "The Charlie Kirk Show")
+
+[BarstoolX](https://rumble.com/c/BarstoolX "BarstoolX")
+
+[ItGirl](https://rumble.com/c/ItGirl "ItGirl")
+
+[The Jimmy Dore Show](https://rumble.com/c/TheJimmyDoreShow "The Jimmy Dore Show")
+
+[Fore Play Golf](https://rumble.com/c/ForeplayGolf "Fore Play Golf")
+
+[Mountain Rug Cleaning](https://rumble.com/c/MountainRugCleaning "Mountain Rug Cleaning")
+
+[Plan Bri Uncut](https://rumble.com/c/PlanBriUncut "Plan Bri Uncut")
+
+[Rasmussen Reports](https://rumble.com/c/RasmussenReports "Rasmussen Reports")
+
+[The Casey Adams Show](https://rumble.com/c/CaseyAdamsShow "The Casey Adams Show")
 
 [Mostly Sports With Mark Titus and Brandon Walker](https://rumble.com/c/MostlySportsTitusandWalker "Mostly Sports With Mark Titus and Brandon Walker")
 
-[Alexis Wilkins](https://rumble.com/c/alexiswilkins "Alexis Wilkins")
+[Pardon My Take](https://rumble.com/c/PardonMyTake "Pardon My Take")
 
-[NELK](https://rumble.com/c/NELK "NELK")
-
-[Sports Wars](https://rumble.com/c/SportsWars "Sports Wars")
-
-[Bitcoin.com](https://rumble.com/c/Bitcoincom "Bitcoin.com")
-
-[The Kai 'N Speed Show](https://rumble.com/c/KaiNSpeed "The Kai 'N Speed Show")
-
-[THE SHOW CALEB SHOW](https://rumble.com/c/TheShowCalebShow "THE SHOW CALEB SHOW")
-
-[Devin Nunes](https://rumble.com/c/DevinNunes "Devin Nunes")
-
-[JoBlo Originals](https://rumble.com/c/JoBloOriginals "JoBlo Originals")
-
-[CartierFamily](https://rumble.com/c/TheOfficialCartierFamily "CartierFamily")
-
-[Due Dissidence](https://rumble.com/c/DueDissidence "Due Dissidence")
-
-[The Kirk Minihane Show](https://rumble.com/c/thekirkminihaneshow "The Kirk Minihane Show")
+[DanScavino45](https://rumble.com/user/DanScavino45 "DanScavino45")
 
 [Roseanne Barr](https://rumble.com/c/roseannebarr "Roseanne Barr")
 
-[Zero Blog Thirty](https://rumble.com/c/ZeroBlogThirty "Zero Blog Thirty")
+[Barstool U](https://rumble.com/c/BarstoolU "Barstool U")
 
-[Awaken With JP](https://rumble.com/c/AwakenWithJP "Awaken With JP")
+[Steven Crowder](https://rumble.com/c/StevenCrowder "Steven Crowder")
 
-[Stephen Gardner](https://rumble.com/c/StephenGardner "Stephen Gardner")
+[SB Mowing](https://rumble.com/c/SBMowing "SB Mowing")
 
-[Akademiks](https://rumble.com/c/Akademiks "Akademiks")
+[Glenn Greenwald](https://rumble.com/c/GGreenwald "Glenn Greenwald")
 
-[Howard Lutnick](https://rumble.com/c/HowardLutnick "Howard Lutnick")
+[Healthy Debate](https://rumble.com/c/HealthyDebate "Healthy Debate")
 
-[KFC Radio](https://rumble.com/c/KFCRadio "KFC Radio")
-
-[Matt Kim](https://rumble.com/c/FreeMattKim "Matt Kim")
-
-[Dr. Anthony M. Criniti IV (aka “Dr. Finance®”)](https://rumble.com/c/DrFinance "Dr. Anthony M. Criniti IV (aka “Dr. Finance®”)")
-
-[Barstool Radio Clips](https://rumble.com/c/BarstoolRadioClips "Barstool Radio Clips")
-
-[Answer The Internet](https://rumble.com/c/AnswerTheInternet "Answer The Internet")
-
-[Russell Brand](https://rumble.com/c/russellbrand "Russell Brand")
-
-[Dr. John Campbell](https://rumble.com/c/DrJohnCampbell "Dr. John Campbell")
-
-[Bussin' With The Boys](https://rumble.com/c/BussinWithTheBoys "Bussin' With The Boys")
-
-[Ghosts and Grit With Jack Osbourne Podcast](https://rumble.com/c/JackOsbourne "Ghosts and Grit With Jack Osbourne Podcast")
-
-[One Bite Pizza Reviews](https://rumble.com/c/OneBitePizzaReviews "One Bite Pizza Reviews")
-
-[Dr. Drew](https://rumble.com/c/DrDrew "Dr. Drew")
-
-[Barstool Baseball](https://rumble.com/c/BarstoolBaseball "Barstool Baseball")
+[Alexis Wilkins](https://rumble.com/c/alexiswilkins "Alexis Wilkins")
 
 [Primitive Survival Tool](https://rumble.com/c/PrimitiveSurvivalTools "Primitive Survival Tool")
 
-[Barstool Outdoors](https://rumble.com/c/BarstoolOutdoors "Barstool Outdoors")
+[Anthony Pompliano](https://rumble.com/c/AnthonyPompliano "Anthony Pompliano")
 
-[Alex Zedra](https://rumble.com/c/AlexZedra "Alex Zedra")
+[Gia Mariano](https://rumble.com/c/giamariano "Gia Mariano")
+
+[The Big Jackpot](https://rumble.com/c/TheBigJackpot "The Big Jackpot")
+
+[The Dan Bongino Show](https://rumble.com/c/Bongino "The Dan Bongino Show")
+
+[Havoc](https://rumble.com/c/Havoc "Havoc")
+
+[Mike Rowe](https://rumble.com/c/MikeRowe "Mike Rowe")
+
+[barstoolsports](https://rumble.com/user/barstoolsports "barstoolsports")
+
+[Dr Steve Turley](https://rumble.com/c/DrSteveTurley "Dr Steve Turley")
+
+[vivafrei](https://rumble.com/user/vivafrei "vivafrei")
+
+[The Rich Dad Channel](https://rumble.com/c/TheRichDadChannel "The Rich Dad Channel")
+
+[The Rubin Report](https://rumble.com/c/RubinReport "The Rubin Report")
 
 [Medical Medium](https://rumble.com/c/MedicalMedium "Medical Medium")
+
+[The Osbournes](https://rumble.com/c/TheOsbournesPodcast "The Osbournes")
+
+[The Kai 'N Speed Show](https://rumble.com/c/KaiNSpeed "The Kai 'N Speed Show")
+
+[BFFs: Dave Portnoy, Josh Richards & Bri Chickenfry](https://rumble.com/c/BFFsDavePortnoyJoshRichardsAndBriChickenfry "BFFs: Dave Portnoy, Josh Richards & Bri Chickenfry")
+
+[Bare Knuckle Fighting Championship](https://rumble.com/c/BKFC "Bare Knuckle Fighting Championship")
 
 ### Theme
 
