@@ -25,36 +25,36 @@ Privacy Policy
 
 #### **پربازدیدها**
 
-* [![کارگری می اندیشد](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![کارگری می اندیشد](https://karkhane.org/app/uploads/2024/05/Worker_b-95x65.jpg)](https://karkhane.org/5497/jedal_workers/)[چرا تلویزیون “جدال” سعی دارد “کارفروش” را به جای کارگر بنشاند؟](https://karkhane.org/5497/jedal_workers/)
 * [![نساجی مازندران: نمونه‌ای از اولویت منافع سرمایه‌داران](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![نساجی مازندران: نمونه‌ای از اولویت منافع سرمایه‌داران](https://karkhane.org/app/uploads/2020/10/nassaji-mazandaran-95x65.jpg)](https://karkhane.org/2262/%d9%86%d8%b3%d8%a7%d8%ac%db%8c-%d9%85%d8%a7%d8%b2%d9%86%d8%af%d8%b1%d8%a7%d9%86-%d8%a7%d9%88%d9%84%d9%88%db%8c%d8%aa-%d9%85%d9%86%d8%a7%d9%81%d8%b9-%d8%b3%d8%b1%d9%85%d8%a7%db%8c/)[نساجی مازندران: نمونه‌ای از اولویت منافع سرمایه‌داران](https://karkhane.org/2262/%d9%86%d8%b3%d8%a7%d8%ac%db%8c-%d9%85%d8%a7%d8%b2%d9%86%d8%af%d8%b1%d8%a7%d9%86-%d8%a7%d9%88%d9%84%d9%88%db%8c%d8%aa-%d9%85%d9%86%d8%a7%d9%81%d8%b9-%d8%b3%d8%b1%d9%85%d8%a7%db%8c/)
 * [![پوستر فیلم «سازمانده»-پهن](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![پوستر فیلم «سازمانده»-پهن](https://karkhane.org/app/uploads/2020/04/organizer-movie-poster-wide-95x65.jpg)](https://karkhane.org/1322/%d9%81%db%8c%d9%84%d9%85-%d8%b3%d8%a7%d8%b2%d9%85%d8%a7%d9%86%d8%af%d9%87/)[یادداشتی بر فیلم «سازمانده»](https://karkhane.org/1322/%d9%81%db%8c%d9%84%d9%85-%d8%b3%d8%a7%d8%b2%d9%85%d8%a7%d9%86%d8%af%d9%87/)
-* [![ساعت کار مفید ایرانی‌ها به روایت ایرنا](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![کارگری می اندیشد](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![ساعت کار مفید ایرانی‌ها به روایت ایرنا](https://karkhane.org/app/uploads/2020/04/iranian-work-hours-irna-95x65.jpg)](https://karkhane.org/1378/%d9%be%d9%86%d8%af%d8%a7%d8%b1%d9%87%d8%a7-%d9%88-%d8%b4%da%a9%d8%a7%d9%81%d9%87%d8%a7%db%8c-%db%8c%da%a9-%d9%86%d9%85%d9%88%d8%af%d8%a7%d8%b1/)[پندارها و شکاف‌های یک نمودار](https://karkhane.org/1378/%d9%be%d9%86%d8%af%d8%a7%d8%b1%d9%87%d8%a7-%d9%88-%d8%b4%da%a9%d8%a7%d9%81%d9%87%d8%a7%db%8c-%db%8c%da%a9-%d9%86%d9%85%d9%88%d8%af%d8%a7%d8%b1/)
-* [![تقدیرِ تاریخیِ آن دست‌های لطیفِ کارنکرده](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![کارگری می اندیشد](https://karkhane.org/app/uploads/2024/05/Worker_b-95x65.jpg)](https://karkhane.org/5497/jedal_workers/)[چرا تلویزیون “جدال” سعی دارد “کارفروش” را به جای کارگر بنشاند؟](https://karkhane.org/5497/jedal_workers/)
+* [![مسکن: نیاز ما، سود آن‌ها](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![تقدیرِ تاریخیِ آن دست‌های لطیفِ کارنکرده](https://karkhane.org/app/uploads/2020/12/taqdir-e-tarixi-e-an-dastha-e-karnakarde-95x65.jpg)](https://karkhane.org/2407/%d8%aa%d9%82%d8%af%db%8c%d8%b1-%d8%aa%d8%a7%d8%b1%db%8c%d8%ae%db%8c-%d8%a2%d9%86-%d8%af%d8%b3%d8%aa%d9%87%d8%a7%db%8c-%d9%84%d8%b7%db%8c%d9%81-%da%a9%d8%a7%d8%b1%d9%86%da%a9%d8%b1%d8%af%d9%87/)[تقدیرِ تاریخیِ آن دست‌های لطیفِ کارنکرده](https://karkhane.org/2407/%d8%aa%d9%82%d8%af%db%8c%d8%b1-%d8%aa%d8%a7%d8%b1%db%8c%d8%ae%db%8c-%d8%a2%d9%86-%d8%af%d8%b3%d8%aa%d9%87%d8%a7%db%8c-%d9%84%d8%b7%db%8c%d9%81-%da%a9%d8%a7%d8%b1%d9%86%da%a9%d8%b1%d8%af%d9%87/)
-* [![در کارخانه‌ی اسنوا چه می‌گذرد؟](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![مسکن: نیاز ما، سود آن‌ها](https://karkhane.org/app/uploads/2020/08/maskan-nyaz-e-ma-sud-e-anha-95x65.jpg)](https://karkhane.org/2136/%d9%85%d8%b3%da%a9%d9%86-%d9%86%db%8c%d8%a7%d8%b2-%d9%85%d8%a7%d8%8c-%d8%b3%d9%88%d8%af-%d8%a2%d9%86%d9%87%d8%a7/)[مسکن: نیاز ما، سود آن‌ها](https://karkhane.org/2136/%d9%85%d8%b3%da%a9%d9%86-%d9%86%db%8c%d8%a7%d8%b2-%d9%85%d8%a7%d8%8c-%d8%b3%d9%88%d8%af-%d8%a2%d9%86%d9%87%d8%a7/)
+* [![عدالت‌خواهانِ جوان (۱)؛ مشاورانِ اقتصاد مقاومتی و مبلغانِ تولید](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![در کارخانه‌ی اسنوا چه می‌گذرد؟](https://karkhane.org/app/uploads/2021/12/dar-snowa-che-migozarad-95x65.jpg)](https://karkhane.org/3309/%d8%af%d8%b1-%da%a9%d8%a7%d8%b1%d8%ae%d8%a7%d9%86%d9%87%db%8c-%d8%a7%d8%b3%d9%86%d9%88%d8%a7-%da%86%d9%87-%d9%85%db%8c%da%af%d8%b0%d8%b1%d8%af%d8%9f/)[در کارخانه‌ی اسنوا چه می‌گذرد؟](https://karkhane.org/3309/%d8%af%d8%b1-%da%a9%d8%a7%d8%b1%d8%ae%d8%a7%d9%86%d9%87%db%8c-%d8%a7%d8%b3%d9%86%d9%88%d8%a7-%da%86%d9%87-%d9%85%db%8c%da%af%d8%b0%d8%b1%d8%af%d8%9f/)
-* [![فروشگاه‌های زنجیره‌ای افق کوروش: زنجیرهایی از جنس استثمار](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![عدالت‌خواهانِ جوان (۱)؛ مشاورانِ اقتصاد مقاومتی و مبلغانِ تولید](https://karkhane.org/app/uploads/2023/04/edalatxahan-e-javan-1-95x65.jpg)](https://karkhane.org/4909/edalatxahan-e-javan-1/)[عدالت‌خواهان جوان (۱)؛ مشاورانِ اقتصاد مقاومتی و مبلغانِ تولید](https://karkhane.org/4909/edalatxahan-e-javan-1/)
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![فروشگاه‌های زنجیره‌ای افق کوروش: زنجیرهایی از جنس استثمار](https://karkhane.org/app/uploads/2024/04/ofogh-e-kurosh-chain-stores-95x65.jpg)](https://karkhane.org/5455/ofogh-e-kurosh-chain-stores/)[فروشگاه‌های زنجیره‌ای افق کوروش: زنجیرهایی از جنس استثمار](https://karkhane.org/5455/ofogh-e-kurosh-chain-stores/)
-* [![بررسی مبارزات کارگران و وضعیت نیروی کار در معادن ایران](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![](https://karkhane.org/app/uploads/2024/11/Nursing-Strike-95x65.jpg)](https://karkhane.org/6245/nurse_strike/)[اعتراضات پرستاران](https://karkhane.org/6245/nurse_strike/)
+* [![inflation and capitalism](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![بررسی مبارزات کارگران و وضعیت نیروی کار در معادن ایران](https://karkhane.org/app/uploads/2020/06/barresi-ye-mobārezāt-e-kārgarān-o-vaziyat-e-niruye-kār-dar-maāden-e-irān-1-95x65.jpg)](https://karkhane.org/1937/%d8%a8%d8%b1%d8%b1%d8%b3%db%8c-%d9%85%d8%a8%d8%a7%d8%b1%d8%b2%d8%a7%d8%aa-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d9%88-%d9%88%d8%b6%d8%b9%db%8c%d8%aa-%d9%86%db%8c%d8%b1%d9%88%db%8c-%da%a9%d8%a7/)[بررسی مبارزات کارگران و وضعیت نیروی کار در معادن ایران](https://karkhane.org/1937/%d8%a8%d8%b1%d8%b1%d8%b3%db%8c-%d9%85%d8%a8%d8%a7%d8%b1%d8%b2%d8%a7%d8%aa-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d9%88-%d9%88%d8%b6%d8%b9%db%8c%d8%aa-%d9%86%db%8c%d8%b1%d9%88%db%8c-%da%a9%d8%a7/)
-* [![کارگری‌نویسی: همبستگی و پیوستگی در راه مبارزه‌ی طبقاتی](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![inflation and capitalism](https://karkhane.org/app/uploads/2024/02/Capit-95x65.jpeg)](https://karkhane.org/5376/nirooyekar-dastmozad/)[نیروی کار، ‌دستمزد و تورم](https://karkhane.org/5376/nirooyekar-dastmozad/)
+* [![بازخوانی هفت‌تپه‌ی نود و نُه: گزارشی از اعتصاب کارگران هفت‌تپه در بهار و تابستان سال 99](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![کارگری‌نویسی: همبستگی و پیوستگی در راه مبارزه‌ی طبقاتی](https://karkhane.org/app/uploads/2021/02/1-95x65.jpg)](https://karkhane.org/2483/%da%a9%d8%a7%d8%b1%da%af%d8%b1%db%8c%d9%86%d9%88%db%8c%d8%b3%db%8c-%d9%87%d9%85%d8%a8%d8%b3%d8%aa%da%af%db%8c-%d9%88-%d9%be%db%8c%d9%88%d8%b3%d8%aa%da%af%db%8c-%d8%af%d8%b1-%d8%b1%d8%a7/)[کارگری‌نویسی: همبستگی و پیوستگی در راه مبارزه‌ی طبقاتی](https://karkhane.org/2483/%da%a9%d8%a7%d8%b1%da%af%d8%b1%db%8c%d9%86%d9%88%db%8c%d8%b3%db%8c-%d9%87%d9%85%d8%a8%d8%b3%d8%aa%da%af%db%8c-%d9%88-%d9%be%db%8c%d9%88%d8%b3%d8%aa%da%af%db%8c-%d8%af%d8%b1-%d8%b1%d8%a7/)
-* [![کارگرانِ بالاشهرنشین](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![بازخوانی هفت‌تپه‌ی نود و نُه: گزارشی از اعتصاب کارگران هفت‌تپه در بهار و تابستان سال 99](https://karkhane.org/app/uploads/2020/11/bazxani-e-haft-tappe-99-95x65.jpg)](https://karkhane.org/2311/%d8%a8%d8%a7%d8%b2%d8%ae%d9%88%d8%a7%d9%86%db%8c-%d8%a7%d8%b9%d8%aa%d8%b5%d8%a7%d8%a8-%d9%87%d9%81%d8%aa%d8%aa%d9%be%d9%87-99/)[بازخوانی هفت‌تپه‌ی نودونُه: گزارشی از اعتصاب کارگران هفت‌تپه در بهار و تابستان سال ۹۹](https://karkhane.org/2311/%d8%a8%d8%a7%d8%b2%d8%ae%d9%88%d8%a7%d9%86%db%8c-%d8%a7%d8%b9%d8%aa%d8%b5%d8%a7%d8%a8-%d9%87%d9%81%d8%aa%d8%aa%d9%be%d9%87-99/)
+* [![آموزش اقتصاد برای کارگران](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![کارگرانِ بالاشهرنشین](https://karkhane.org/app/uploads/2022/09/kargaran-e-balashahrneshin-95x65.jpg)](https://karkhane.org/4152/%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%a8%d8%a7%d9%84%d8%a7%d8%b4%d9%87%d8%b1%d9%86%d8%b4%db%8c%d9%86-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%b3%d8%b1%d8%a7%db%8c%d8%af%d8%a7%d8%b1/)[کارگرانِ بالاشهرنشین؛ نگاهی به وضعیت کارگران سرایدار](https://karkhane.org/4152/%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%a8%d8%a7%d9%84%d8%a7%d8%b4%d9%87%d8%b1%d9%86%d8%b4%db%8c%d9%86-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%b3%d8%b1%d8%a7%db%8c%d8%af%d8%a7%d8%b1/)
+    ![آموزش اقتصاد برای کارگران](https://karkhane.org/app/uploads/2021/11/amuzesh-e-eqtesad-bara-ye-kargaran-95x65.jpg)](https://karkhane.org/3235/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af-%d8%a8%d8%b1%d8%a7%db%8c-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%a8%d8%ae%d8%b4-%db%8c%da%a9-%d9%85%d8%b2%d8%af/)[آموزش اقتصاد برای کارگران، بخش یک: «مزد چیست؟»](https://karkhane.org/3235/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af-%d8%a8%d8%b1%d8%a7%db%8c-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%a8%d8%ae%d8%b4-%db%8c%da%a9-%d9%85%d8%b2%d8%af/)
+* [![مهاجران. قربانی سیاست‌های سرمایه‌دارانه](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![مهاجران. قربانی سیاست‌های سرمایه‌دارانه](https://karkhane.org/app/uploads/2024/03/2-95x65.jpg)](https://karkhane.org/5390/mohajeran-afghan/)[مهاجران افغان: قربانی سیاست‌های سرمایه‌دارانه](https://karkhane.org/5390/mohajeran-afghan/)
 
 * [Facebook](https://www.facebook.com/--107914377686249)
 * [YouTube](https://www.youtube.com/channel/UCnz481dcaM1p7c3oDR5Ot9A)
