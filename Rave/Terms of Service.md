@@ -11,7 +11,7 @@
 
 [Menu](#mobile-menu)
 
-[![Rave Mobile Safety](https://www.ravemobilesafety.com/wp-content/uploads/2022/12/Rave-Logo-MSI-150.png "Rave-Logo-MSI-150")](https://www.ravemobilesafety.com/ "Rave Mobile Safety")
+[![Rave Mobile Safety](https://www.ravemobilesafety.com/wp-content/uploads/2024/12/Rave-Mobile-Safety_Logo_MSI_RGB_150.png "Rave-Mobile-Safety_Logo_MSI_RGB_150")](https://www.ravemobilesafety.com/ "Rave Mobile Safety")
 
 * [WHY RAVE?](https://www.ravemobilesafety.com/rave-platform/)
 * [Solutions](https://www.ravemobilesafety.com/critical-communication-collaboration-solutions/)
