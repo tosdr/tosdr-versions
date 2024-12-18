@@ -35,7 +35,7 @@ SIGN UP & SAVE!
     
     [wwe](https://www.fanatics.com/wwe/o-1233766982+z-954942-2049841969)[wnba](https://www.fanatics.com/wnba/o-7082+z-89298516-572363254)
     
-    [nascar](https://www.fanatics.com/nascar/o-3580+z-7979470-3715318076)[collectibles](https://www.fanatics.com/collectibles-and-memorabilia/d-31559959+z-9268241-3885281878)
+    [nascar](https://www.fanatics.com/nascar/o-3580+z-7979470-3715318076)
     
 * [nfl](https://www.fanatics.com/nfl/o-3572+z-953036859-1253393850)
 * [college](https://www.fanatics.com/college/o-27+z-9314487535-1329600116)
@@ -48,15 +48,13 @@ SIGN UP & SAVE!
     
     [wnba](https://www.fanatics.com/wnba/o-7082+z-89298516-572363254)[nascar](https://www.fanatics.com/nascar/o-3580+z-7979470-3715318076)
     
-    [collectibles](https://www.fanatics.com/collectibles-and-memorabilia/d-31559959+z-9268241-3885281878)
-    
 * [nba](https://www.fanatics.com/nba/o-1370+z-938737729-293541727)
 * [nhl](https://www.fanatics.com/nhl/o-2428+z-935562038-1765108222)
 * [soccer](https://www.fanatics.com/soccer-gear/x-381605+z-94277330-4058512167)
 * [wwe](https://www.fanatics.com/wwe/o-1233766982+z-954942-2049841969)
 * [wnba](https://www.fanatics.com/wnba/o-7082+z-89298516-572363254)
 * [nascar](https://www.fanatics.com/nascar/o-3580+z-7979470-3715318076)
-* [collectibles](https://www.fanatics.com/collectibles-and-memorabilia/d-31559959+z-9268241-3885281878)
+* [collectibles](#top-nav11)
 * [more](#top-nav12)
 * [sale](#top-nav13)
 * [players](#top-nav14)
@@ -559,24 +557,24 @@ Follow Us
 * PayPal
 * Apple Pay
 
-rc: a9650630b14c9660
+rc: ab2c137a2e4cef6f
 
-vid: eacbd570-bd13-11ef-a499-6d97a294f5d8
+vid: 84e2ef40-bd46-11ef-aab6-a94df4044c8a
 
 version: 1.1.0-rc-20241009-21.102913
 
 +
 
-Qualified Experiments #:* 15273:B:1:1
-* 15465:A:0:1
+Qualified Experiments #:* 15273:A:0:1
+* 15465:B:1:1
 * 15472:A:0:1
-Namespaces:* 7:4991:0
-* 11:6000:0
-* 3:3758:0
-* 4:959:0
-* 6:585:0
-* 9:1024:0
-* 10:6967:0
-* 2:3491:0
-* 5:2821:0
-* 8:542:0
+Namespaces:* 3:4419:0
+* 6:4482:0
+* 7:2526:0
+* 10:8842:0
+* 2:1228:0
+* 4:3463:0
+* 5:2343:0
+* 8:4482:0
+* 9:325:0
+* 11:2678:0
