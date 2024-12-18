@@ -179,13 +179,13 @@ Join the **I_A_** newsletter for regular updates on our latest news stories.
 Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
+* [IA Writing Competition 2024 WINNERS!](https://independentaustralia.net/article-display/ia-writing-competition-2024-winners,19275 "Permanent Link : IA Writing Competition 2024 WINNERS!")
+* [Hugh Marks controversial choice for new ABC boss](https://independentaustralia.net/article-display/hugh-marks-controversial-choice-for-new-abc-boss,19273 "Permanent Link : Hugh Marks controversial choice for new ABC boss")
 * [Robodebt shadow leaves fears NDIS will be next victim of disabling policy](https://independentaustralia.net/article-display/robodebt-shadow-leaves-fears-ndis-will-be-next-victim-of-disabling-policy,19272 "Permanent Link : Robodebt shadow leaves fears NDIS will be next victim of disabling policy")
 * [Technology and society: Navigating innovation in a fractured world](https://independentaustralia.net/article-display/technology-and-society-navigating-innovation-in-a-fractured-world,19270 "Permanent Link : Technology and society: Navigating innovation in a fractured world")
 * [Dutton's nuclear report hides true cost to taxpayers](https://independentaustralia.net/article-display/duttons-nuclear-report-hides-true-cost-to-taxpayers,19269 "Permanent Link : Dutton's nuclear report hides true cost to taxpayers")
 * [Former Israeli Defence Minister admits to Gazan genocide](https://independentaustralia.net/article-display/former-israeli-defence-minister-admits-to-gazan-genocide,19268 "Permanent Link : Former Israeli Defence Minister admits to Gazan genocide")
 * [Interest rate changes don’t always sway voters](https://independentaustralia.net/article-display/interest-rate-changes-dont-always-sway-voters,19267 "Permanent Link : Interest rate changes don’t always sway voters")
-* [Why Treasury’s net migration forecast for 2023-24 blew out](https://independentaustralia.net/article-display/why-treasurys-net-migration-forecast-for-2023-24-blew-out,19266 "Permanent Link : Why Treasury’s net migration forecast for 2023-24 blew out")
-* [U.S. loses control of airspace as mysterious drone sightings escalate](https://independentaustralia.net/article-display/us-loses-control-of-airspace-as-mysterious-drone-sightings-escalate,19265 "Permanent Link : U.S. loses control of airspace as mysterious drone sightings escalate")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
