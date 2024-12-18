@@ -266,62 +266,32 @@ The scene of the incident remains preserved this morning for a technical examina
 [Woman on e-scooter found critically injured on road after horror incident overnight](https://www.derrynow.com/news/national-news/1683305/woman-on-e-scooter-found-critically-injured-on-road-after-horror-incident-overnight.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry member of Irish Defence Forces to be sentenced later for rape of a fellow officer](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry member of Irish Defence Forces to be sentenced later for rape of a fellow officer")](https://www.derrynow.com/news/local-news/1682815/derry-member-of-irish-defence-forces-to-be-sentenced-later-for-rape-of-a-fellow-officer.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry member of Irish Defence Forces to be sentenced later for rape of a fellow officer](https://www.derrynow.com/news/local-news/1682815/derry-member-of-irish-defence-forces-to-be-sentenced-later-for-rape-of-a-fellow-officer.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Festive cheer at Derry Credit Union 'Santa Saturday'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Festive cheer at Derry Credit Union 'Santa Saturday'")](https://www.derrynow.com/story-telling/pictures---videos/1681851/in-pictures-festive-cheer-at-derry-credit-union-santa-saturday.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Festive cheer at Derry Credit Union 'Santa Saturday'](https://www.derrynow.com/story-telling/pictures---videos/1681851/in-pictures-festive-cheer-at-derry-credit-union-santa-saturday.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Suspended sentence for elderly Derry man charged with assault](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for elderly Derry man charged with assault")](https://www.derrynow.com/news/local-news/1682675/suspended-sentence-for-elderly-derry-man-charged-with-assault.html)
+[![Man facing number of serious assault charges against father remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man facing number of serious assault charges against father remanded")](https://www.derrynow.com/news/newsletter-derrynow/1683577/man-facing-number-of-serious-assault-charges-against-father-remanded.html)
 
 Derry Magistrates' Court
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Suspended sentence for elderly Derry man charged with assault](https://www.derrynow.com/news/local-news/1682675/suspended-sentence-for-elderly-derry-man-charged-with-assault.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Man facing number of serious assault charges against father remanded](https://www.derrynow.com/news/newsletter-derrynow/1683577/man-facing-number-of-serious-assault-charges-against-father-remanded.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Police in Derry charge 30-year-old man with burglary](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police in Derry charge 30-year-old man with burglary")](https://www.derrynow.com/news/local-news/1683054/police-in-derry-charge-30-year-old-man-with-burglary.html)
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1683855/will-patching-no-longer-a-derry-city-player.html)
 
-PSNI
+Will Patching has spent four years at Derry City.
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-[Police in Derry charge 30-year-old man with burglary](https://www.derrynow.com/news/local-news/1683054/police-in-derry-charge-30-year-old-man-with-burglary.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Will Patching 'no longer a Derry City player'](https://www.derrynow.com/news/derry-sport/1683855/will-patching-no-longer-a-derry-city-player.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Police in Derry investigating after masked men attempt to force entry into van](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police in Derry investigating after masked men attempt to force entry into van")](https://www.derrynow.com/news/local-news/1682753/police-in-derry-investigating-after-masked-men-attempt-to-force-entry-into-van.html)
+[![Derry man convicted of animal cruelty charged with trespassing and stealing](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man convicted of animal cruelty charged with trespassing and stealing")](https://www.derrynow.com/news/newsletter-derrynow/1683533/derry-man-convicted-of-animal-cruelty-charged-with-trespassing-and-stealing.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Police in Derry investigating after masked men attempt to force entry into van](https://www.derrynow.com/news/local-news/1682753/police-in-derry-investigating-after-masked-men-attempt-to-force-entry-into-van.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Historic moment as first paramedics graduate from Derry's Magee campus](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Historic moment as first paramedics graduate from Derry's Magee campus")](https://www.derrynow.com/news/local-news/1682870/historic-moment-as-first-paramedics-graduate-from-derry-s-magee-campus.html)
-
-The first ever cohort of paramedics to be trained in Northern Ireland graduate from Ulster University in Derry.
+Derry Magistrates' Court
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Historic moment as first paramedics graduate from Derry's Magee campus](https://www.derrynow.com/news/local-news/1682870/historic-moment-as-first-paramedics-graduate-from-derry-s-magee-campus.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![49-year-old man arrested on suspicion of a number of offences in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "49-year-old man arrested on suspicion of a number of offences in Derry")](https://www.derrynow.com/news/local-news/1682786/49-year-old-man-arrested-on-suspicion-of-a-number-of-offences-in-derry.html)
-
-PSNI
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[49-year-old man arrested on suspicion of a number of offences in Derry](https://www.derrynow.com/news/local-news/1682786/49-year-old-man-arrested-on-suspicion-of-a-number-of-offences-in-derry.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry man convicted of animal cruelty charged with trespassing and stealing](https://www.derrynow.com/news/newsletter-derrynow/1683533/derry-man-convicted-of-animal-cruelty-charged-with-trespassing-and-stealing.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1682523/derry-death-notices-wednesday-december-18-2024.html)
 
@@ -330,20 +300,66 @@ PSNI
 [Derry Death Notices - Wednesday, December 18, 2024](https://www.derrynow.com/news/deaths/1682523/derry-death-notices-wednesday-december-18-2024.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Police in Derry investigating burglary arrest 30-year-old man](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police in Derry investigating burglary arrest 30-year-old man")](https://www.derrynow.com/news/local-news/1682729/police-in-derry-investigating-burglary-arrest-30-year-old-man.html)
+[![Judge imposes restraining order preventing Greysteel man from contacting parents and sister](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Judge imposes restraining order preventing Greysteel man from contacting parents and sister")](https://www.derrynow.com/news/derrynow/1683471/judge-imposes-restraining-order-preventing-greysteel-man-from-contacting-parents-and-sister.html)
 
-PSNI
+The case came before Limavady Magistrates Court today.
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Police in Derry investigating burglary arrest 30-year-old man](https://www.derrynow.com/news/local-news/1682729/police-in-derry-investigating-burglary-arrest-30-year-old-man.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Judge imposes restraining order preventing Greysteel man from contacting parents and sister](https://www.derrynow.com/news/derrynow/1683471/judge-imposes-restraining-order-preventing-greysteel-man-from-contacting-parents-and-sister.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man gets chance to stay out of prison after one-punch attack in Buncrana](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man gets chance to stay out of prison after one-punch attack in Buncrana")](https://www.derrynow.com/news/newsletter-derrynow/1683373/derry-man-gets-chance-to-stay-out-of-prison-after-one-punch-attack-in-buncrana.html)
+
+The 30-year-old appeared at Donegal Circuit Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man gets chance to stay out of prison after one-punch attack in Buncrana](https://www.derrynow.com/news/newsletter-derrynow/1683373/derry-man-gets-chance-to-stay-out-of-prison-after-one-punch-attack-in-buncrana.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![County Derry man who carried out 'appalling assault' on partner jailed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry man who carried out 'appalling assault' on partner jailed")](https://www.derrynow.com/news/local-news/1683599/county-derry-man-who-carried-out-appalling-assault-on-partner-jailed.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[County Derry man who carried out 'appalling assault' on partner jailed](https://www.derrynow.com/news/local-news/1683599/county-derry-man-who-carried-out-appalling-assault-on-partner-jailed.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[!['Pure greed' - Irish people shocked as RIP.ie plans to charge €100 per death notice](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'Pure greed' - Irish people shocked as RIP.ie plans to charge €100 per death notice")](https://www.derrynow.com/news/national-news/1683238/pure-greed-irish-people-shocked-as-rip-ie-plans-to-charge-100-per-death-notice.html)
+
+'Pure greed' - Irish people shocked as RIP.ie plans to charge €100 per death notice
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+['Pure greed' - Irish people shocked as RIP.ie plans to charge €100 per death notice](https://www.derrynow.com/news/national-news/1683238/pure-greed-irish-people-shocked-as-rip-ie-plans-to-charge-100-per-death-notice.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man returned for trial to Derry Crown Court on historical indecent assault charges](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man returned for trial to Derry Crown Court on historical indecent assault charges")](https://www.derrynow.com/news/newsletter-derrynow/1683580/man-returned-for-trial-to-derry-crown-court-on-historical-indecent-assault-charges.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man returned for trial to Derry Crown Court on historical indecent assault charges](https://www.derrynow.com/news/newsletter-derrynow/1683580/man-returned-for-trial-to-derry-crown-court-on-historical-indecent-assault-charges.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![Derry Christmas 2014: St Cecilia’s College Annual Carol Service held at Long Tower Church](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Christmas 2014: St Cecilia’s College Annual Carol Service held at Long Tower Church")](https://www.derrynow.com/story-telling/pictures---videos/1682911/derry-christmas-2014-st-cecilias-college-annual-carol-service-held-at-long-tower-church.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[Derry Christmas 2014: St Cecilia’s College Annual Carol Service held at Long Tower Church](https://www.derrynow.com/story-telling/pictures---videos/1682911/derry-christmas-2014-st-cecilias-college-annual-carol-service-held-at-long-tower-church.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry's Eugene Duffy honoured by IABA in Seconds Out: Stories of Irish Boxing](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry's Eugene Duffy honoured by IABA in Seconds Out: Stories of Irish Boxing")](https://www.derrynow.com/video/sport/1683729/derry-s-eugene-duffy-honoured-by-iaba-in-seconds-out-stories-of-irish-boxing.html)
+
+[Sport](https://www.derrynow.com/section/976/sport)
+
+[Derry's Eugene Duffy honoured by IABA in Seconds Out: Stories of Irish Boxing](https://www.derrynow.com/video/sport/1683729/derry-s-eugene-duffy-honoured-by-iaba-in-seconds-out-stories-of-irish-boxing.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Santa arrives in style at River Radio Big Toy Appeal in Lisnagelvin Shopping Centre](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Santa arrives in style at River Radio Big Toy Appeal in Lisnagelvin Shopping Centre")](https://www.derrynow.com/story-telling/pictures---videos/1681991/in-pictures-santa-arrives-in-style-at-river-radio-big-toy-appeal-in-lisnagelvin-shopping-centre.html)
 
@@ -400,20 +416,6 @@ Multimedia
 
 [IN PICTURES: Derry XC attracts best talent to Thornhill College venue](https://www.derrynow.com/story-telling/pictures---videos/1681638/in-pictures-derry-xc-attracts-best-talent-to-thornhill-college-venue.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Prospective pupils welcomed to Hollybush PS annual Open Day](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Prospective pupils welcomed to Hollybush PS annual Open Day")](https://www.derrynow.com/story-telling/pictures---videos/1678367/in-pictures-prospective-pupils-welcomed-to-hollybush-ps-annual-open-day.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Prospective pupils welcomed to Hollybush PS annual Open Day](https://www.derrynow.com/story-telling/pictures---videos/1678367/in-pictures-prospective-pupils-welcomed-to-hollybush-ps-annual-open-day.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Boys Indoor Primary School GAA Blitz held in Derry's Templemore Sports Complex](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Boys Indoor Primary School GAA Blitz held in Derry's Templemore Sports Complex")](https://www.derrynow.com/story-telling/pictures---videos/1676472/in-pictures-boys-indoor-primary-school-gaa-blitz-held-in-derry-s-templemore-sports-complex.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Boys Indoor Primary School GAA Blitz held in Derry's Templemore Sports Complex](https://www.derrynow.com/story-telling/pictures---videos/1676472/in-pictures-boys-indoor-primary-school-gaa-blitz-held-in-derry-s-templemore-sports-complex.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -515,57 +517,55 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![County Derry charged with series of theft and driving offences remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry charged with series of theft and driving offences remanded")](https://www.derrynow.com/news/newsletter-derrynow/1683569/county-derry-charged-with-series-of-theft-and-driving-offences-remanded.html)
+[![ Tomas McCloskey & Family](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 " Tomas McCloskey & Family")](https://www.derrynow.com/news/county-derry-post/1683731/county-derry-man-tomas-mccloskey-raised-an-amazing-5-000-in-aid-of-foyle-hospice.html)
 
-Derry Magistrates' Court
+Tomas McCloskey & Family
 
-[Local News](https://www.derrynow.com/section/975/news)
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
 
-[County Derry charged with series of theft and driving offences remanded](https://www.derrynow.com/news/newsletter-derrynow/1683569/county-derry-charged-with-series-of-theft-and-driving-offences-remanded.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[County Derry man Tomas McCloskey raised an amazing £5,000 in aid of Foyle Hospice](https://www.derrynow.com/news/county-derry-post/1683731/county-derry-man-tomas-mccloskey-raised-an-amazing-5-000-in-aid-of-foyle-hospice.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry man convicted of animal cruelty charged with trespassing and stealing](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man convicted of animal cruelty charged with trespassing and stealing")](https://www.derrynow.com/news/newsletter-derrynow/1683533/derry-man-convicted-of-animal-cruelty-charged-with-trespassing-and-stealing.html)
-
-Derry Magistrates' Court
+[![Derry's Templemore Sports Complex set to reopen ahead of schedule](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry's Templemore Sports Complex set to reopen ahead of schedule")](https://www.derrynow.com/news/local-news/1683919/derry-s-templemore-sports-complex-set-to-reopen-ahead-of-schedule.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Derry man convicted of animal cruelty charged with trespassing and stealing](https://www.derrynow.com/news/newsletter-derrynow/1683533/derry-man-convicted-of-animal-cruelty-charged-with-trespassing-and-stealing.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry's Templemore Sports Complex set to reopen ahead of schedule](https://www.derrynow.com/news/local-news/1683919/derry-s-templemore-sports-complex-set-to-reopen-ahead-of-schedule.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Judge imposes restraining order preventing Greysteel man from contacting parents and sister](https://www.derrynow.com/resizer/165/93/true/2024_12_18/360_F_608988880_W8haNckegD4WOj9k4f9HAWsol0SxOURy-1734521662259.jpg--.jpg?1734521662283 "Judge imposes restraining order preventing Greysteel man from contacting parents and sister")](https://www.derrynow.com/news/derrynow/1683471/judge-imposes-restraining-order-preventing-greysteel-man-from-contacting-parents-and-sister.html)
+[![Ulster University's Vice Chancellor is ‘confident’ to get the funding needed for the target of 10,000 students](https://www.derrynow.com/resizer/165/93/true/2024_03_22/Magee_Taskforce-1711109350905.JPG--.JPG?1711109351682 "Ulster University's Vice Chancellor is ‘confident’ to get the funding needed for the target of 10,000 students")](https://www.derrynow.com/news/derry-news/1683566/ulster-university-s-vice-chancellor-is-confident-to-get-the-funding-needed-for-the-target-of-10-000-students.html)
 
-The case came before Limavady Magistrates Court today.
+[Derry News](https://www.derrynow.com/section/999/derry-news)
 
-[Home](https://www.derrynow.com/)
+[Ulster University's Vice Chancellor is ‘confident’ to get the funding needed for the target of 10,000 students](https://www.derrynow.com/news/derry-news/1683566/ulster-university-s-vice-chancellor-is-confident-to-get-the-funding-needed-for-the-target-of-10-000-students.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Judge imposes restraining order preventing Greysteel man from contacting parents and sister](https://www.derrynow.com/news/derrynow/1683471/judge-imposes-restraining-order-preventing-greysteel-man-from-contacting-parents-and-sister.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![Key gas upgrade works planned for Magherafelt in 2025](https://www.derrynow.com/resizer/165/93/true/2024_12_18/evolve-1734537321247.jpg--.jpg?1734537321915 "Key gas upgrade works planned for Magherafelt in 2025")](https://www.derrynow.com/news/county-derry-post/1683843/key-gas-upgrade-works-planned-for-magherafelt-in-2025.html)
 
-[![Man returned for trial to Derry Crown Court on number of drug charges](https://www.derrynow.com/resizer/165/93/true/2015/06/04211140/derrycourthouse2.jpg--.jpg "Man returned for trial to Derry Crown Court on number of drug charges")](https://www.derrynow.com/news/newsletter-derrynow/1683403/man-returned-for-trial-to-derry-crown-court-on-number-of-drug-charges.html)
+Key gas upgrade works planned for Magherafelt in 2025
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[Key gas upgrade works planned for Magherafelt in 2025](https://www.derrynow.com/news/county-derry-post/1683843/key-gas-upgrade-works-planned-for-magherafelt-in-2025.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry City](https://www.derrynow.com/resizer/165/93/true/2024_12_18/IDNT_19-12-24_Back_Page_2-1734537997064.jpg--.jpg?1734537998062 "Derry City")](https://www.derrynow.com/news/derry-sport/1683855/will-patching-no-longer-a-derry-city-player.html)
+
+Will Patching has spent four years at Derry City.
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Will Patching 'no longer a Derry City player'](https://www.derrynow.com/news/derry-sport/1683855/will-patching-no-longer-a-derry-city-player.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Resurfacing plans at Derry's Crescent Link Fire Station confirmed](https://www.derrynow.com/resizer/165/93/true/2024_12_18/Crescent_Link_fire_station_derry-1734533317502.JPG--.JPG?1734533317532 "Resurfacing plans at Derry's Crescent Link Fire Station confirmed")](https://www.derrynow.com/news/local-news/1683738/resurfacing-plans-at-derry-s-crescent-link-fire-station-confirmed.html)
+
+Crescent Link Fire Station
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Man returned for trial to Derry Crown Court on number of drug charges](https://www.derrynow.com/news/newsletter-derrynow/1683403/man-returned-for-trial-to-derry-crown-court-on-number-of-drug-charges.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Foyle MP Colum Eastwood condemns Derry dissident-linked loan sharks](https://www.derrynow.com/resizer/165/93/true/2016/10/05175338/columeastwood-2.jpg--.jpg "Foyle MP Colum Eastwood condemns Derry dissident-linked loan sharks")](https://www.derrynow.com/news/parliament/1683443/foyle-mp-colum-eastwood-condemns-derry-dissident-linked-loan-sharks.html)
-
-Foyle MP Colum Eastwood
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Foyle MP Colum Eastwood condemns Derry dissident-linked loan sharks](https://www.derrynow.com/news/parliament/1683443/foyle-mp-colum-eastwood-condemns-derry-dissident-linked-loan-sharks.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man gets chance to stay out of prison after one-punch attack in Buncrana](https://www.derrynow.com/resizer/165/93/true/2022_02_09/judge-g0d3a2d66d_1920-1644406205572.jpg--.jpg?1644406206000 "Man gets chance to stay out of prison after one-punch attack in Buncrana")](https://www.derrynow.com/news/newsletter-derrynow/1683373/derry-man-gets-chance-to-stay-out-of-prison-after-one-punch-attack-in-buncrana.html)
-
-The 30-year-old appeared at Donegal Circuit Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man gets chance to stay out of prison after one-punch attack in Buncrana](https://www.derrynow.com/news/newsletter-derrynow/1683373/derry-man-gets-chance-to-stay-out-of-prison-after-one-punch-attack-in-buncrana.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Resurfacing plans at Derry's Crescent Link Fire Station confirmed](https://www.derrynow.com/news/local-news/1683738/resurfacing-plans-at-derry-s-crescent-link-fire-station-confirmed.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
