@@ -116,18 +116,18 @@ Supreme caution has been taken to make sure that there are no copyright infringe
 
 #### Random Posts
 
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2031'%3E%3C/svg%3E)
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2022'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/groupwise-80x31.jpg.optimal.jpg)](https://thebackroomtech.com/2008/08/14/free-dell-server-and-storage-stencils-including-emc/ "Free Visio Dell Server and Storage Stencils, including EMC")[Free Visio Dell Server and Storage Stencils, including EMC](https://thebackroomtech.com/2008/08/14/free-dell-server-and-storage-stencils-including-emc/ "Free Visio Dell Server and Storage Stencils, including EMC")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2046'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/windows-server-80x22.png)](https://thebackroomtech.com/2008/03/14/howto-shut-down-or-reboot-a-windows-2008-server-core-system/ "Howto: Shut down or reboot a Windows 2008 Server Core System")[Howto: Shut down or reboot a Windows 2008 Server Core System](https://thebackroomtech.com/2008/03/14/howto-shut-down-or-reboot-a-windows-2008-server-core-system/ "Howto: Shut down or reboot a Windows 2008 Server Core System")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2077%2052'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/how-virtualization-works-1-80x46.jpeg.optimal.jpeg)](https://thebackroomtech.com/2019/03/11/how-to-enable-virtualization-in-windows-10/ "How to Enable Virtualization in Windows 10")[How to Enable Virtualization in Windows 10](https://thebackroomtech.com/2019/03/11/how-to-enable-virtualization-in-windows-10/ "How to Enable Virtualization in Windows 10")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2072%2052'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/1-xenapp-install-77x52.png)](https://thebackroomtech.com/2018/04/09/simple-citrix-xenapp-install-and-deployment-step-by-step/ "Simple Citrix XenApp Install and Deployment – Step-by-Step")[Simple Citrix XenApp Install and Deployment – Step-by-Step](https://thebackroomtech.com/2018/04/09/simple-citrix-xenapp-install-and-deployment-step-by-step/ "Simple Citrix XenApp Install and Deployment – Step-by-Step")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2041'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/RAID-card-external-72x52.jpg.optimal.jpg)](https://thebackroomtech.com/2017/09/20/fix-raid-adapter-unrecoverable-error-dell-poweredge-server/ "Fix RAID Adapter – Unrecoverable Error on Dell PowerEdge Server")[Fix RAID Adapter – Unrecoverable Error on Dell PowerEdge Server](https://thebackroomtech.com/2017/09/20/fix-raid-adapter-unrecoverable-error-dell-poweredge-server/ "Fix RAID Adapter – Unrecoverable Error on Dell PowerEdge Server")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2049'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/pc-code-1-80x41.jpg.optimal.jpg)](https://thebackroomtech.com/2018/06/12/vmware-script-list-empty-resource-pools/ "VMware Script – List Empty Resource Pools")[VMware Script – List Empty Resource Pools](https://thebackroomtech.com/2018/06/12/vmware-script-list-empty-resource-pools/ "VMware Script – List Empty Resource Pools")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2059%2052'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/fsutil-command-80x49.png)](https://thebackroomtech.com/2009/01/16/howto-generate-many-files-of-a-particular-size-in-windows/ "Howto: Generate Many Files of a Particular Size in Windows")[Howto: Generate Many Files of a Particular Size in Windows](https://thebackroomtech.com/2009/01/16/howto-generate-many-files-of-a-particular-size-in-windows/ "Howto: Generate Many Files of a Particular Size in Windows")
+    ![](https://s11921.pcdn.co/wp-content/uploads/telnet-client-59x52.png)](https://thebackroomtech.com/2009/05/28/fix-blank-screen-when-using-windows-xp-telnet-client/ "Fix: Blank Screen When using Windows XP Telnet Client")[Fix: Blank Screen When using Windows XP Telnet Client](https://thebackroomtech.com/2009/05/28/fix-blank-screen-when-using-windows-xp-telnet-client/ "Fix: Blank Screen When using Windows XP Telnet Client")
 
 #### Our Publishing Family
 
