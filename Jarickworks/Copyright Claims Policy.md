@@ -85,7 +85,7 @@ Designing where you want to go today
 
 [Donate](#donate)
 
-[![freeblr government the immorality of the state](/freeblr/government/the-immorality-of-the-state/card.svg)](https://jarick.works/freeblr/government/the-immorality-of-the-state)[![freeblr faq what are the major debates between anarchists what are the recurring arguments](/freeblr/faq/what-are-the-major-debates-between-anarchists-what-are-the-recurring-arguments/card.svg)](https://jarick.works/freeblr/faq/what-are-the-major-debates-between-anarchists-what-are-the-recurring-arguments)[![freeblr limited government roads to serfdom](/freeblr/limited-government/roads-to-serfdom/card.svg)](https://jarick.works/freeblr/limited-government/roads-to-serfdom)[![freeblr faq have there been any anarcho capitalist societies](/freeblr/faq/have-there-been-any-anarcho-capitalist-societies/card.svg)](https://jarick.works/freeblr/faq/have-there-been-any-anarcho-capitalist-societies)
+[![freeblr economics the crackdown on price gouging helps no one except politicians and the media](/freeblr/economics/the-crackdown-on-price-gouging-helps-no-one-except-politicians-and-the-media/card.svg)](https://jarick.works/freeblr/economics/the-crackdown-on-price-gouging-helps-no-one-except-politicians-and-the-media)[![freeblr justice on the need for a final arbiter](/freeblr/justice/on-the-need-for-a-final-arbiter/card.svg)](https://jarick.works/freeblr/justice/on-the-need-for-a-final-arbiter)[![freeblr taxation funding public goods six solutions](/freeblr/taxation/funding-public-goods-six-solutions/card.svg)](https://jarick.works/freeblr/taxation/funding-public-goods-six-solutions)[![spekr what is corporatism](/spekr/what-is-corporatism/card.svg)](https://jarick.works/spekr/what-is-corporatism)
 
 [Follow](#follow)
 
