@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Arlington man killed while helping sister-in-law stranded on road](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/p-amelia-arlington-watson-rd-fatal-crash-9p_00.00.17.46.jpg?ve=1&tl=1)
+ [![Taco Bell is adding something unexpected to the menu](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-1945793217.jpg?ve=1&tl=1)
 
- ![Arlington man killed while helping sister-in-law stranded on road](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/p-amelia-arlington-watson-rd-fatal-crash-9p_00.00.17.46.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/arlington-man-killed-while-helping-sister-in-law-stranded-stranded-road)
+ ![Taco Bell is adding something unexpected to the menu](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-1945793217.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/taco-bell-chicken-nuggets-december-2024)
 
-### [Arlington man killed while helping sister-in-law stranded on road](https://www.fox4news.com/news/arlington-man-killed-while-helping-sister-in-law-stranded-stranded-road)
+### [Taco Bell is adding something unexpected to the menu](https://www.fox4news.com/news/taco-bell-chicken-nuggets-december-2024)
 
- [![Alleged CEO killer Luigi Mangione faces new murder as act of terrorism charge](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/068ce08f833747d8e01061d5fb391e3c.png?ve=1&tl=1)
+ [![VIDEO: Two killed in DeSoto house fire as flames and smoke engulf home](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/fire-desoto.png?ve=1&tl=1)
 
- ![Alleged CEO killer Luigi Mangione faces new murder as act of terrorism charge](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/592/333/068ce08f833747d8e01061d5fb391e3c.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/luigi-mangione-faces-new-1st-degree-murder-terrorism-charges)
+ ![VIDEO: Two killed in DeSoto house fire as flames and smoke engulf home](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/fire-desoto.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/desoto-house-fire)
 
-### [Alleged CEO killer Luigi Mangione faces new murder as act of terrorism charge](https://www.fox4news.com/news/luigi-mangione-faces-new-1st-degree-murder-terrorism-charges)
+### [VIDEO: Two killed in DeSoto house fire as flames and smoke engulf home](https://www.fox4news.com/news/desoto-house-fire)
 
- [![Fort Worth police searching for 'increasingly violent' serial armed robber](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/p-peyton-fort-worth-armed-robberies-suspect-9p_kdf_00.01.27.30.jpg?ve=1&tl=1)
+ [![Mega Millions numbers: Jackpot hits $825 million for next drawing](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/mega-millions.jpg?ve=1&tl=1)
 
- ![Fort Worth police searching for 'increasingly violent' serial armed robber](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/p-peyton-fort-worth-armed-robberies-suspect-9p_kdf_00.01.27.30.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-police-searching-increasingly-violent-serial-armed-robber)
+ ![Mega Millions numbers: Jackpot hits $825 million for next drawing](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/mega-millions.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mega-millions-jackpot-lottery-numbers-december-18-2024)
 
-### [Fort Worth police searching for 'increasingly violent' serial armed robber](https://www.fox4news.com/news/fort-worth-police-searching-increasingly-violent-serial-armed-robber)
+### [Mega Millions numbers: Jackpot hits $825 million for next drawing](https://www.fox4news.com/news/mega-millions-jackpot-lottery-numbers-december-18-2024)
 
- [![Cedar Hill officer solicited sex from woman arrested for DWI: arrest affidavit](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/p-david-cedar-hill-former-officer-arrested-9p_00.00.04.42.jpg?ve=1&tl=1)
+ [![Archaeologists uncover earliest known evidence of Christianity north of the Alps: 'Unusual for this time'](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/deteilaunahme-von-grab-134-copyright-denkmalamt-stadt-frankfurt-am-main-foto-michael-obst.jpg?ve=1&tl=1)
 
- ![Cedar Hill officer solicited sex from woman arrested for DWI: arrest affidavit](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/p-david-cedar-hill-former-officer-arrested-9p_00.00.04.42.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/cedar-hill-officer-solicited-sex-from-woman-arrested-dwi-arrest-affidavit)
+ ![Archaeologists uncover earliest known evidence of Christianity north of the Alps: 'Unusual for this time'](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/deteilaunahme-von-grab-134-copyright-denkmalamt-stadt-frankfurt-am-main-foto-michael-obst.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/archaeologists-uncover-earliest-known-evidence-christianity-north-alps-unusual-time)
 
-### [Cedar Hill officer solicited sex from woman arrested for DWI: arrest affidavit](https://www.fox4news.com/news/cedar-hill-officer-solicited-sex-from-woman-arrested-dwi-arrest-affidavit)
+### [Archaeologists uncover earliest known evidence of Christianity north of the Alps: 'Unusual for this time'](https://www.fox4news.com/news/archaeologists-uncover-earliest-known-evidence-christianity-north-alps-unusual-time)
 
- [![9 injured, one dead in mass shooting in Towson: officials](https://images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2024/12/32/18/66ecbd576115641e48805c5e3ebb0569.jpg?ve=1&tl=1)
+ [![Texas High School Football State Championship Games: Wednesday](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/06/32/18/GettyImages-1084725300.jpg?ve=1&tl=1)
 
- ![9 injured, one dead in mass shooting in Towson: officials](https://images.foxtv.com/images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2024/12/32/18/592/333/66ecbd576115641e48805c5e3ebb0569.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/9-injured-one-dead-mass-shooting-towson-officials)
+ ![Texas High School Football State Championship Games: Wednesday](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/06/32/18/592/333/GettyImages-1084725300.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/texas-high-school-football-state-championship-games-wednesday)
 
-### [9 injured, one dead in mass shooting in Towson: officials](https://www.fox4news.com/news/9-injured-one-dead-mass-shooting-towson-officials)
+### [Texas High School Football State Championship Games: Wednesday](https://www.fox4news.com/sports/texas-high-school-football-state-championship-games-wednesday)
 
 ###### [News](https://www.fox4news.com/news)
 
