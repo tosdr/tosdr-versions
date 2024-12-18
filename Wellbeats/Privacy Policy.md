@@ -21,6 +21,8 @@
 
 * [Français](https://www.lifespeak.com/fr/politique-de-confidentialite/)
 
+🎧 New Podcast [Leadership Unpacked](https://www.lifespeak.com/resource/leadership-unpacked-a-conversation-with-behavioral-scientist-dr-brooke-struck/)
+
 [![LifeSpeak Logo - Employee wellbeing solutions](https://www.lifespeak.com/wp-content/themes/ls-theme/img/logo-navy.svg)](https://www.lifespeak.com/)
 
 * [Wellbeing Suite](https://www.lifespeak.com/wellbeing-suite/ "Wellbeing Suite of Solutions for Organizations")
