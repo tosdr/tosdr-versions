@@ -83,7 +83,7 @@ Random Pages
 
 * * *
 
-[Psychology of Time](https://www.exactlywhatistime.com/psychology-of-time/) [Time Management](https://www.exactlywhatistime.com/other-aspects-of-time/time-management/) [Biopsychology](https://www.exactlywhatistime.com/psychology-of-time/biopsychology/) [Ageing](https://www.exactlywhatistime.com/other-aspects-of-time/ageing/) [Ancient Philosophy](https://www.exactlywhatistime.com/philosophy-of-time/ancient-philosophy/) [Absolute Time](https://www.exactlywhatistime.com/physics-of-time/absolute-time/) [Sources And References](https://www.exactlywhatistime.com/sources-and-references/) [Clocks](https://www.exactlywhatistime.com/measurement-of-time/clocks/) [Biological Clock](https://www.exactlywhatistime.com/psychology-of-time/biological-clock/) [Time Percenption](https://www.exactlywhatistime.com/psychology-of-time/time-percenption/)
+[Definition of Time](https://www.exactlywhatistime.com/definition-of-time/) [Time Management](https://www.exactlywhatistime.com/other-aspects-of-time/time-management/) [Time Standards](https://www.exactlywhatistime.com/measurement-of-time/time-standards/) [Early Modern Philosophy](https://www.exactlywhatistime.com/philosophy-of-time/early-modern-philosophy/) [Ageing](https://www.exactlywhatistime.com/other-aspects-of-time/ageing/) [Biopsychology](https://www.exactlywhatistime.com/psychology-of-time/biopsychology/) [Philosophy of Time](https://www.exactlywhatistime.com/philosophy-of-time/) [Glossary of Terms](https://www.exactlywhatistime.com/glossary-of-terms/) [Quantum Time](https://www.exactlywhatistime.com/physics-of-time/quantum-time/) [Time And The Big Bang](https://www.exactlywhatistime.com/physics-of-time/time-and-the-big-bang/)
 
 © 2024 ExactlyWhatIsTime.com - Exactly What Is Time?
 
