@@ -10,73 +10,198 @@ Fintech, how do you measure up to the rest of the industry?
 
 * Product
     
-    * [Acquire New Users](https://mixpanel.com/acquire)
-    * [Grow Your Business](https://mixpanel.com/grow)
-    * [Enterprise](https://mixpanel.com/enterprise)
-    * [Developer](https://mixpanel.com/developer)
-    * [Integrations](https://mixpanel.com/partners/integrations)
-    * [Session Replay](https://mixpanel.com/releases/session-replay)
-    * [Security & Privacy](https://mixpanel.com/security-privacy)
-    * [Docs](https://docs.mixpanel.com/)
-    * [What's New](https://docs.mixpanel.com/changelogs)
+    Product
+    
+    * [Product Analytics
+        
+        Measure & optimize products](https://mixpanel.com/features)
+    * [Warehouse Connectors
+        
+        Sync trusted data](https://mixpanel.com/releases/data-warehouse-connectors)
+    * [Session Replay
+        
+        Watch user journeys](https://mixpanel.com/releases/session-replay)
+    * [Integrations
+        
+        Connect the tools you love](https://mixpanel.com/partners/integrations)
+    * [Security & Privacy
+        
+        Protect customer data](https://mixpanel.com/security-privacy)
+    
+    Use Cases
+    
+    * [Acquire New Users
+        
+        Boost marketing campaigns](https://mixpanel.com/acquire)
+    * [Grow Your Users
+        
+        Engage & retain more users](https://mixpanel.com/grow)
     
 * Solutions
     
-    * [Teams](https://mixpanel.com/teams)
-    * [Industries](https://mixpanel.com/industries)
+    Teams
     
-* Community
+    * [Product](https://mixpanel.com/teams/product-teams)
+    * [Data](https://mixpanel.com/teams/data-teams)
+    * [Marketing](https://mixpanel.com/teams/marketing-teams)
+    * [Engineering](https://mixpanel.com/teams/engineering-teams)
     
-    * [Customers](https://mixpanel.com/customers)
+    Industries
+    
+    * [Finance](https://mixpanel.com/industries/finance)
+    * [Media & Entertainment](https://mixpanel.com/industries/media)
+    * [B2B](https://mixpanel.com/industries/b2b-saas)
+    * [Ecommerce](https://mixpanel.com/industries/ecommerce)
+    * [Healthcare](https://mixpanel.com/industries/healthcare)
+    
+    Business Size
+    
+    * [Enterprise](https://mixpanel.com/enterprise)
     * [Startups](https://mixpanel.com/startups)
-    * [Events](https://events.mixpanel.com/)
-    * [Slack](https://mixpanel.com/community-slack)
-    * [Expert Directory](https://mixpanel.com/partners/experts)
     
-* Company
+* Resources
     
-    * [About Us](https://mixpanel.com/about)
-    * [Blog](https://mixpanel.com/blog)
-    * [Become a Partner](https://mixpanel.com/partners)
-    * [We're Hiring!](https://mixpanel.com/jobs)
+    Using Mixpanel
+    
+    * [Docs & Guides
+        
+        Getting started is easy](https://docs.mixpanel.com/)
+    * [Contact Support
+        
+        Access personalized help](mailto:support@mixpanel.com)
+    * [What's New
+        
+        See the latest product updates](https://docs.mixpanel.com/changelogs)
+    
+    Community
+    
+    * [Blog
+        
+        Explore growth strategies](https://mixpanel.com/blog)
+    * [Events & Webinars
+        
+        Join us virtually and in person](https://events.mixpanel.com/)
+    * [Community
+        
+        Ask questions and learn](https://community.mixpanel.com/)
+    * [Customer Stories
+        
+        Impact in action](https://mixpanel.com/customers)
+    
+    Partnerships
+    
+    * [Become a Partner
+        
+        Partner and grow with us](https://mixpanel.com/partners)
+    * [Hire an Expert
+        
+        Get advanced solution support](https://mixpanel.com/partners/experts)
     
 * [Pricing](https://mixpanel.com/pricing)
 
-[Contact Sales](https://mixpanel.com/contact-us/sales)
-
 [Login](https://mixpanel.com/login)
+
+[Contact Sales](https://mixpanel.com/contact-us/sales)
 
 [Get Started Free](https://mixpanel.com/register)
 
 * Product
     
-    * [Acquire New Users](https://mixpanel.com/acquire)
-    * [Grow Your Business](https://mixpanel.com/grow)
-    * [Enterprise](https://mixpanel.com/enterprise)
-    * [Developer](https://mixpanel.com/developer)
-    * [Integrations](https://mixpanel.com/partners/integrations)
-    * [Session Replay](https://mixpanel.com/releases/session-replay)
-    * [Security & Privacy](https://mixpanel.com/security-privacy)
-    * [Docs](https://docs.mixpanel.com/)
-    * [Pricing](https://mixpanel.com/pricing)
-    * [What's New](https://docs.mixpanel.com/changelogs)
+    Back
+    
+    Product
+    
+    * [Product Analytics
+        
+        Measure & optimize products](https://mixpanel.com/features)
+    * [Warehouse Connectors
+        
+        Sync trusted data](https://mixpanel.com/releases/data-warehouse-connectors)
+    * [Session Replay
+        
+        Watch user journeys](https://mixpanel.com/releases/session-replay)
+    * [Integrations
+        
+        Connect the tools you love](https://mixpanel.com/partners/integrations)
+    * [Security & Privacy
+        
+        Protect customer data](https://mixpanel.com/security-privacy)
+    
+    Use Cases
+    
+    * [Acquire New Users
+        
+        Boost marketing campaigns](https://mixpanel.com/acquire)
+    * [Grow Your Users
+        
+        Engage & retain more users](https://mixpanel.com/grow)
+    
 * Solutions
     
-    * [Teams](https://mixpanel.com/teams)
-    * [Industries](https://mixpanel.com/industries)
-* Community
+    Back
     
-    * [Customers](https://mixpanel.com/customers)
+    Teams
+    
+    * [Product](https://mixpanel.com/teams/product-teams)
+    * [Data](https://mixpanel.com/teams/data-teams)
+    * [Marketing](https://mixpanel.com/teams/marketing-teams)
+    * [Engineering](https://mixpanel.com/teams/engineering-teams)
+    
+    Industries
+    
+    * [Finance](https://mixpanel.com/industries/finance)
+    * [Media & Entertainment](https://mixpanel.com/industries/media)
+    * [B2B](https://mixpanel.com/industries/b2b-saas)
+    * [Ecommerce](https://mixpanel.com/industries/ecommerce)
+    * [Healthcare](https://mixpanel.com/industries/healthcare)
+    
+    Business Size
+    
+    * [Enterprise](https://mixpanel.com/enterprise)
     * [Startups](https://mixpanel.com/startups)
-    * [Events](https://events.mixpanel.com/)
-    * [Slack](https://mixpanel.com/community-slack)
-    * [Expert Directory](https://mixpanel.com/partners/experts)
-    * [👋 We’re Hiring](https://mixpanel.com/jobs)
-* Company
     
-    * [About Us](https://mixpanel.com/about)
-    * [Blog](https://mixpanel.com/blog)
-    * [Become a Partner](https://mixpanel.com/partners)
+* Resources
+    
+    Back
+    
+    Using Mixpanel
+    
+    * [Docs & Guides
+        
+        Getting started is easy](https://docs.mixpanel.com/)
+    * [Contact Support
+        
+        Access personalized help](mailto:support@mixpanel.com)
+    * [What's New
+        
+        See the latest product updates](https://docs.mixpanel.com/changelogs)
+    
+    Community
+    
+    * [Blog
+        
+        Explore growth strategies](https://mixpanel.com/blog)
+    * [Events & Webinars
+        
+        Join us virtually and in person](https://events.mixpanel.com/)
+    * [Community
+        
+        Ask questions and learn](https://community.mixpanel.com/)
+    * [Customer Stories
+        
+        Impact in action](https://mixpanel.com/customers)
+    
+    Partnerships
+    
+    * [Become a Partner
+        
+        Partner and grow with us](https://mixpanel.com/partners)
+    * [Hire an Expert
+        
+        Get advanced solution support](https://mixpanel.com/partners/experts)
+    
+* [Pricing](https://mixpanel.com/pricing)
+    
 
 [Login](https://mixpanel.com/login)
 
