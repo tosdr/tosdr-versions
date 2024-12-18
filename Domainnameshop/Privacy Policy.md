@@ -827,7 +827,7 @@ Here are some additional security recommendations that the Data Controller shoul
 | --- | --- |
 | [Web hosting](https://domainname.shop/web)  <br>[Read more / order](https://domainname.shop/web)  <br>[Get started](https://domainname.shop/faq?section=17)  <br>[Install Joomla](https://domainname.shop/faq?id=253)  <br>[Install WordPress](https://domainname.shop/faq?id=220) | [Help](https://domainname.shop/support)  <br>[Frequently asked questions](https://domainname.shop/faq)  <br>[Contact us](https://domainname.shop/contact)  <br>[Service announcements](https://domainname.shop/status)  <br>[Sign up](https://domainname.shop/order)  <br>[Price list](https://domainname.shop/pricelist) |
 
- [![](/png/picts/mail-white.png) support@domainnameshop.com](https://domainname.shop/contact) [![](/png/picts/phone-white.png) +47 2294 3333 (08-17)](https://domainname.shop/contact)
+ [![](/png/picts/mail-white.png) support@domainnameshop.com](https://domainname.shop/contact) [![](/png/picts/phone-white.png) +47 2294 3333 (open)](https://domainname.shop/contact)
 
 [![](/png/picts/rss-white.png)](https://domainname.shop/rss/en/news.rdf)  [![](/png/picts/facebook-white.png)](https://facebook.com/domeneshop)  [![](/png/picts/x-white.png)](https://twitter.com/domeneshop)  
 
