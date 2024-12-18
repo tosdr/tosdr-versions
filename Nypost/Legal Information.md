@@ -84,10 +84,6 @@ Search
 
 Search
 
-#### Pictured
-
-[Wisconsin Christian school shooter seen in first photos](https://nypost.com/2024/12/17/us-news/natalie-samantha-rupnow-seen-in-first-photos-after-she-killed-2-in-wisconsin-christian-school-shooting/)
-
 Privacy Notice Highlights
 =========================
 
