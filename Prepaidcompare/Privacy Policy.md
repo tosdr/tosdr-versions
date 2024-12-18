@@ -7,7 +7,7 @@
 * [Privacy](https://prepaidcompare.net/privacy.html "Privacy Policy")
 * [Help](https://prepaidcompare.net/help.html)
 
-[![Mastodon](/masto.png)](https://mas.to/@PrepaidCompare "Mastodon") [![Bluesky](/bsky.png)](https://bsky.app/profile/prepaidnews.bsky.social "Bluesky")
+[![Mastodon](/masto.png)](https://mas.to/@PrepaidCompare "Mastodon") [![Bluesky](/bsky.png)](https://bsky.app/profile/prepaidcompare.net "Bluesky")
 
 Privacy Policy for PrepaidCompare.net
 -------------------------------------
