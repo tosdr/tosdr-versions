@@ -398,6 +398,26 @@ References to the governing law refer to:
 | Asia, Oceania or the Asia-Pacific region other than Mainland China, Hong Kong and Macau | Singapore |
 | Worldwide in all other countries or regions not listed above. | New York (without regard to its conflict of laws principles) |
 
+Your place of residency or principal place of business
+
+| Your place of residency or principal place of business | Substantive governing law |
+| --- | --- |
+| Mainland China, Hong Kong and Macau |
+| Substantive governing law<br><br>Hong Kong |
+
+| Your place of residency or principal place of business | Substantive governing law |
+| --- | --- |
+| Asia, Oceania or the Asia-Pacific region other than Mainland China, Hong Kong and Macau |
+| Substantive governing law<br><br>Singapore |
+
+| Your place of residency or principal place of business | Substantive governing law |
+| --- | --- |
+| Worldwide in all other countries or regions not listed above. |
+| Substantive governing law<br><br>New York (without regard to its conflict of laws principles) |
+
+| Your place of residency or principal place of business | Substantive governing law |
+| --- | --- |
+
 If you habitually reside in a Member State of the European Union or the EEA, the United Kingdom or Switzerland, and are acting as a consumer (i.e., for a purpose which can be regarded as outside your trade craft or profession), the foregoing choice of governing law will not deprive you of the protection afforded to you by provisions that cannot be derogated from by agreement by virtue of the laws applicable where you habitually reside. In addition, you may bring proceedings in relation to any claim against Unity either in the courts of the country in which Unity is domiciled or in the courts for the place where you are domiciled, and proceedings may be brought against you only in the courts of the country in which you are domiciled.
 
 Any dispute arising out of, relating to or in connection with these Terms (including any disputes regarding the existence, validity, interpretation, performance, breach or termination thereof or any dispute regarding non-contractual obligations arising out of or relating to be) will be referred to and finally resolved by binding arbitration as follows:
@@ -407,6 +427,32 @@ Any dispute arising out of, relating to or in connection with these Terms (inclu
 | Mainland China, Hong Kong and Macau | Administered by the Hong Kong International Arbitration Centre (“HKIAC”) under the HKIAC Administered Arbitration Rules in force when the Notice of Arbitration is submitted | Three arbitrators with the claimant party nominating one arbitrator, the respondent party nominating one arbitrator and the third and presiding arbitrator being nominated by the two party appointed arbitrators within 30 days of the appointment of the second arbitrator; the language of arbitration will be English | Hong Kong (with any in-person hearings to be held in Singapore); Hong Kong law |
 | Asia, Oceania or the Asia-Pacific region other than Mainland China, Hong Kong and Macau | Administered by the Singapore International Arbitration Centre (“SIAC”) under the SIAC Administered Arbitration Rules in force when the Notice of Arbitration is submitted | Three arbitrators with the claimant party nominating one arbitrator, the respondent party nominating one arbitrator and the third and presiding arbitrator being nominated by the two party appointed arbitrators within 30 days of the appointment of the second arbitrator; the language of arbitration will be English | Singapore; Singapore law |
 | Worldwide in all other countries or regions not listed above. | Administered by the London Court of International Arbitration (LCIA) in accordance with the LCIA Arbitration Rules in force when the Notice of Arbitration is submitted | Three arbitrators with the claimant party nominating one arbitrator, the respondent party nominating one arbitrator and the third and presiding arbitrator being nominated by the two party appointed arbitrators within 30 days of the appointment of the second arbitrator; the language of arbitration will be English | London England; New York law (without regard to its conflict of laws principles) |
+
+Your place of residency or principal place of business
+
+| Your place of residency or principal place of business | Administering Institution and Procedural Rules | Number of Arbitrators and Language | Seat of Arbitration and Governing law of arbitration agreement |
+| --- | --- | --- | --- |
+| Mainland China, Hong Kong and Macau |
+| Administering Institution and Procedural Rules<br><br>Administered by the Hong Kong International Arbitration Centre (“HKIAC”) under the HKIAC Administered Arbitration Rules in force when the Notice of Arbitration is submitted |
+| Number of Arbitrators and Language<br><br>Three arbitrators with the claimant party nominating one arbitrator, the respondent party nominating one arbitrator and the third and presiding arbitrator being nominated by the two party appointed arbitrators within 30 days of the appointment of the second arbitrator; the language of arbitration will be English |
+| Seat of Arbitration and Governing law of arbitration agreement<br><br>Hong Kong (with any in-person hearings to be held in Singapore); Hong Kong law |
+
+| Your place of residency or principal place of business | Administering Institution and Procedural Rules | Number of Arbitrators and Language | Seat of Arbitration and Governing law of arbitration agreement |
+| --- | --- | --- | --- |
+| Asia, Oceania or the Asia-Pacific region other than Mainland China, Hong Kong and Macau |
+| Administering Institution and Procedural Rules<br><br>Administered by the Singapore International Arbitration Centre (“SIAC”) under the SIAC Administered Arbitration Rules in force when the Notice of Arbitration is submitted |
+| Number of Arbitrators and Language<br><br>Three arbitrators with the claimant party nominating one arbitrator, the respondent party nominating one arbitrator and the third and presiding arbitrator being nominated by the two party appointed arbitrators within 30 days of the appointment of the second arbitrator; the language of arbitration will be English |
+| Seat of Arbitration and Governing law of arbitration agreement<br><br>Singapore; Singapore law |
+
+| Your place of residency or principal place of business | Administering Institution and Procedural Rules | Number of Arbitrators and Language | Seat of Arbitration and Governing law of arbitration agreement |
+| --- | --- | --- | --- |
+| Worldwide in all other countries or regions not listed above. |
+| Administering Institution and Procedural Rules<br><br>Administered by the London Court of International Arbitration (LCIA) in accordance with the LCIA Arbitration Rules in force when the Notice of Arbitration is submitted |
+| Number of Arbitrators and Language<br><br>Three arbitrators with the claimant party nominating one arbitrator, the respondent party nominating one arbitrator and the third and presiding arbitrator being nominated by the two party appointed arbitrators within 30 days of the appointment of the second arbitrator; the language of arbitration will be English |
+| Seat of Arbitration and Governing law of arbitration agreement<br><br>London England; New York law (without regard to its conflict of laws principles) |
+
+| Your place of residency or principal place of business | Administering Institution and Procedural Rules | Number of Arbitrators and Language | Seat of Arbitration and Governing law of arbitration agreement |
+| --- | --- | --- | --- |
 
 **Interim Relief and Arbitration Exceptions**
 
