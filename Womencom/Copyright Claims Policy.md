@@ -43,20 +43,32 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Ariana Grande](https://www.women.com/img/gallery/the-best-dressed-stars-of-2024-ranked/intro-1734458003.jpg)](https://www.women.com/1740546/best-dressed-stars-2024-ranked/)
+*  [![Billie Eilish looking up with a small smile while leaning her arm on her knee in 2024](https://www.women.com/img/gallery/the-real-reason-billie-eilish-wears-baggy-clothes-even-after-her-happier-than-ever-era/intro-1733957803.jpg)](https://www.women.com/1735954/real-reason-billie-eilish-baggy-clothes/)
     
-    [Fashion](https://www.women.com/category/fashion/)
+    [Wellness](https://www.women.com/category/wellness/)
     
-    [Fashion](https://www.women.com/category/fashion/) By Madison Emily Whisenand
+    [Wellness](https://www.women.com/category/wellness/) By Madison Emily Whisenand
     
-    [The Best Dressed Stars Of 2024, Ranked](https://www.women.com/1740546/best-dressed-stars-2024-ranked/)
-    =======================================================================================================
+    [The Real Reason Billie Eilish Wears Baggy Clothes, Even After Her Happier Than Ever Era](https://www.women.com/1735954/real-reason-billie-eilish-baggy-clothes/)
+    =================================================================================================================================================================
     
-    From actors, rappers, and pop girlies alike, 2024 was defined by eclectic outfits, method dressing, and merging the old with the new.
+    The "Birds of a Feather" singer once made headlines for her super casual style. However, the motivation behind her sartorial choices is more than comfort.
     
-    By Madison Emily Whisenand [Read More](https://www.women.com/1740546/best-dressed-stars-2024-ranked/)
+    By Madison Emily Whisenand [Read More](https://www.women.com/1735954/real-reason-billie-eilish-baggy-clothes/)
     
-* *  [![ariana grande at a wicked premiere](https://www.women.com/img/gallery/ariana-grande-is-stunning-without-makeup/intro-1733955439.jpg)](https://www.women.com/1735909/ariana-grande-stunning-without-makeup/)
+* *  [![Ariana Grande](https://www.women.com/img/gallery/the-best-dressed-stars-of-2024-ranked/intro-1734458003.jpg)](https://www.women.com/1740546/best-dressed-stars-2024-ranked/)
+        
+        [Fashion](https://www.women.com/category/fashion/)
+        
+        [Fashion](https://www.women.com/category/fashion/) By Madison Emily Whisenand
+        
+        ### [The Best Dressed Stars Of 2024, Ranked](https://www.women.com/1740546/best-dressed-stars-2024-ranked/)
+        
+        From actors, rappers, and pop girlies alike, 2024 was defined by eclectic outfits, method dressing, and merging the old with the new.
+        
+        By Madison Emily Whisenand [Read More](https://www.women.com/1740546/best-dressed-stars-2024-ranked/)
+        
+    *  [![ariana grande at a wicked premiere](https://www.women.com/img/gallery/ariana-grande-is-stunning-without-makeup/intro-1733955439.jpg)](https://www.women.com/1735909/ariana-grande-stunning-without-makeup/)
         
         [Beauty](https://www.women.com/category/beauty/)
         
@@ -68,22 +80,22 @@
         
         By Amanda Chatel [Read More](https://www.women.com/1735909/ariana-grande-stunning-without-makeup/)
         
-    *  [![Barry Keoghan with Sabrina Carpenter](https://www.women.com/img/gallery/all-the-red-flags-we-noticed-in-sabrina-carpenter-and-barry-keoghans-relationship/intro-1733859839.jpg)](https://www.women.com/1734369/sabrina-carpenter-barry-keoghan-red-flags-relationship/)
-        
-        [Relationships](https://www.women.com/category/relationships/)
-        
-        [Relationships](https://www.women.com/category/relationships/) By Emily Hutchinson
-        
-        ### [All The Red Flags We Noticed In Sabrina Carpenter And Barry Keoghan's Relationship](https://www.women.com/1734369/sabrina-carpenter-barry-keoghan-red-flags-relationship/)
-        
-        Sabrina Carpenter and Barry Keoghan called off their relationship in December 2024, but there were plenty of red flags before they broke up.
-        
-        By Emily Hutchinson [Read More](https://www.women.com/1734369/sabrina-carpenter-barry-keoghan-red-flags-relationship/)
-        
 
 More Stories
 ------------
 
+*  [![Barry Keoghan with Sabrina Carpenter](https://www.women.com/img/gallery/all-the-red-flags-we-noticed-in-sabrina-carpenter-and-barry-keoghans-relationship/intro-1733859839.jpg)](https://www.women.com/1734369/sabrina-carpenter-barry-keoghan-red-flags-relationship/)
+    
+    [Relationships](https://www.women.com/category/relationships/)
+    
+    [Relationships](https://www.women.com/category/relationships/) By Emily Hutchinson
+    
+    ### [All The Red Flags We Noticed In Sabrina Carpenter And Barry Keoghan's Relationship](https://www.women.com/1734369/sabrina-carpenter-barry-keoghan-red-flags-relationship/)
+    
+    Sabrina Carpenter and Barry Keoghan called off their relationship in December 2024, but there were plenty of red flags before they broke up.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1734369/sabrina-carpenter-barry-keoghan-red-flags-relationship/)
+    
 *  [![Close up of feet getting a pedicure](https://www.women.com/img/gallery/every-type-of-pedicure-explained/intro-1733419200.jpg)](https://www.women.com/1730467/every-type-pedicure-explained/)
     
     [Beauty](https://www.women.com/category/beauty/)
@@ -395,18 +407,6 @@ More Stories
     A new year means new books, and 2025 will see some great additions to your shelf. Fans of mysteries and thrillers should check out these 10 upcoming releases.
     
     By Madison Emily Whisenand [Read More](https://www.women.com/1720983/mystery-thriller-books-cant-wait-for-2025/)
-    
-*  [![Taylor Swift at the MTV Awards in 2024](https://www.women.com/img/gallery/taylor-swift-outfits-that-totally-missed-the-mark-in-2024/intro-1732210802.jpg)](https://www.women.com/1719639/taylor-swift-outfits-totally-missed-mark-2024/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
-    
-    ### [Taylor Swift Outfits That Totally Missed The Mark In 2024](https://www.women.com/1719639/taylor-swift-outfits-totally-missed-mark-2024/)
-    
-    Taylor Swift is all about taking risks, and occasionally, they flop. In 2024, Swift switched things up and started doing things differently.
-    
-    By Bernadette Roe [Read More](https://www.women.com/1719639/taylor-swift-outfits-totally-missed-mark-2024/)
     
 
 Back
