@@ -1,30 +1,90 @@
-  [![Roommates logo](https://static.roommates.com/assets/logo_roommates.com@2x-ce1db91d23883e0296601ece15a4595494b6febf671385c68dcda2e895d49b5f.png) ![Roommates.com](https://static.roommates.com/assets/logo_text_roommates.com@2x-b5387ee7aaf43dc3be3437f60dc1d3b52d1f92468e9f78b551559186bb05ace9.png)](https://www.roommates.com/ "Take me to the home page!")[![Roommates logo](https://static.roommates.com/assets/logo_roommates.com@2x-ce1db91d23883e0296601ece15a4595494b6febf671385c68dcda2e895d49b5f.png) ![Roommates.com](https://static.roommates.com/assets/logo_text_roommates.com@2x-b5387ee7aaf43dc3be3437f60dc1d3b52d1f92468e9f78b551559186bb05ace9.png)](https://www.roommates.com/ "Take me to the home page!")
+![](/images/tutorial/promo_square_d_1.jpg) ![](/images/tutorial/promo_square_m_1.jpg)
 
-[Sign in](https://my.roommates.com/users/sign_in) [Sign up](https://my.roommates.com/users/sign_up)
+What's New? Get Ready to Be Amazed!
+-----------------------------------
+
+An all-new roommates.com
+------------------------
+
+New Profile pages
+-----------------
+
+Updated search and more
+-----------------------
+
+Today marks the launch of a completely reimagined Roommates.com.
+
+We're thrilled to unveil our fresh new design, powerful new features, security updates, and an even better way to help you find the perfect roommate match.
+
+Ready to explore the updates? Check out the quick rundown.
+
+Introducing an all-new, updated design including new profiles, a revamped search, messaging, and more.
+
+Now, browsing roommates and showing off your room and personality is easier than ever.
+
+By popular demand, we've also added image sharing in our message center!
+
+We've redesigned our room and roommate profiles to showcase the most important information first, in a clear, concise manner. We've also added:
+
+* **Personality Badges** - Are you a Foodie? Outdoorsy? Show off who you are to potential roommates!
+* **College Students** - Add a badge and connect with others at your university who need or have rooms.
+
+We've updated our search and filters to be more powerful and fast, so you can spend more time messaging and less time searching.
+
+Filter by things like College or University, as well as by our new personality and lifestyle badges to really narrow down your matches.
+
+[Read more on our blog](https://www.roommates.com/blog/roommates-makeover-new-and-improved)
+
+Learn More
+
+1 of 4
 
 [HOLIDAY SALE - SAVE 74%](https://my.roommates.com/membership) 
 
 [Get a discounted VIP **1-year** membership for **$49**](https://my.roommates.com/membership)
 
-ROOMMATES.COM PRIVACY POLICY
+[![Roommates.com logo](/images/logo-word.png)](https://my.roommates.com/)
+
+[Sign Up](https://my.roommates.com/users/sign_up) [Sign In](https://my.roommates.com/users/sign_in)
+
+#1 Roommate Finder
+------------------
+
+Roommates.com Privacy Policy
 ============================
+
+![](/images/group-images@2x-c7b3294deef6a7be1b30395dd933d3d8.png?vsn=d) 10769+ active this month
+
+Roommates.com is the smart, simple, safe way to bring  
+roommates together. [Sign up for free today!](https://my.roommates.com/users/sign_up)
+
+[Search Rooms for Rent](https://my.roommates.com/search?members_type=havers) [Search Roommates](https://my.roommates.com/search?members_type=needers)
+
+[List Your Room For Rent](https://my.roommates.com/users/sign_up?members_type=havers)
+
+![](/images/prelogin/prelogin_header_1.webp)
+
+[Browse Locations](https://my.roommates.com/browse) | [Roommates by Category](https://my.roommates.com/types) | [Search Near Me](https://my.roommates.com/near-me)
+
+ROOMMATES.COM PRIVACY POLICY
+----------------------------
 
 At Roommates.com, LLC (referred to as "Company," "Roommates.com," "us," or "we"), we recognize that your privacy is important. This Policy discloses the privacy practices for the Company's family of Websites (collectively, the "Site"), as well as related products and services we may offer to you (collectively referred to as the "Services"). This Policy also covers how personal and other information that we receive or collect about you is treated. Please read the information below to learn the following regarding your use of this Site.
 
-You acknowledge that this Privacy Policy is designed to be read in connection with the Site Terms of Service, which are available at [https://my.roommates.com/tos](https://my.roommates.com/tos), and that by accessing or using our Site, you agree to be bound by the Site’s Terms of Service, as well as this Policy.
+You acknowledge that this Privacy Policy is designed to be read in connection with the Site Terms of Service, which are available at [https://roommates.com/tos](https://my.roommates.com/tos), and that by accessing or using our Site, you agree to be bound by the Site’s Terms of Service, as well as this Policy.
 
 We reserve the right to change this Privacy Policy from time to time. We will notify you about significant changes in the way we treat personal information by placing a notice on our site and by updating any privacy information on this page. Your continued use of the Site or Services available through this Site after such modifications will constitute your: (a) acknowledgment of the modified Policy; and (b) your agreement to abide and be bound by that Policy.
 
 This Privacy Policy was last updated on January 25, 2022.
 
-If you have any questions about this Policy, please feel free to contact us at support@roommates.com or by visiting [https://my.roommates.com/contact](https://my.roommates.com/contact).
+If you have any questions about this Policy, please feel free to contact us at support@roommates.com or by visiting [https://www.roommates.com/contact](https://my.roommates.com/contact).
 
 IMPORTANT: BY USING THE SITE OR THE OFFERINGS AVAILABLE ON THIS SITE, YOU GIVE YOUR CONSENT THAT ALL PERSONAL DATA THAT YOU SUBMIT MAY BE PROCESSED BY US IN THE MANNER AND FOR THE PURPOSES DESCRIBED BELOW. IF YOU DO NOT AGREE TO THESE TERMS AND CONDITIONS, DO NOT USE THE SITE.
 
 1\. Types of Information We Collect
 -----------------------------------
 
-In order to better provide you with the functionality of the Roommmates.com website, we collect two types of information about our users: Personally Identifiable Information ("PII") and Aggregate Information.
+In order to better provide you with the functionality of the Roommates.com website, we collect two types of information about our users: Personally Identifiable Information ("PII") and Aggregate Information.
 
 Personally Identifiable Information: This refers to information that lets us know the specifics of who you are. When you engage in certain activities on this Site, such as registering for an account, submitting content, or posting content on the Site, or sending us feedback, we may ask you to provide certain information about yourself.
 
@@ -51,6 +111,8 @@ We may also use an outside advertising partner to display banner advertisements 
 Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some aspects of the Site may not function properly if you elect to disable cookies.
 
 We use the Google Analytics Advertising Features which includes AdWords remarketing services to advertise on third party websites to visitors of the our website. Third-party vendors, including Google, use cookies to provide advertisements based on a user's past visits to various websites, including our website. This remarketing can be seen in the form of advertisements on Google search result pages and other sites in the Google Display Network. Any data collected will be used in accordance with our privacy policy and Google's privacy policy. To opt-out of remarketing through Google's use of cookies, by changing your preferences in your Google Ad Settings, click on the following link: [http://www.google.com/settings/ads](http://www.google.com/settings/ads). To opt-out of third-party vendor's use of cookies for remarketing (also known as interest-based advertising) visit the Network Advertising Initiative Opt-Out page link: [http://www.networkadvertising.org/managing/opt\_out.asp](http://www.networkadvertising.org/managing/opt_out.asp). To review additional Google Analytic opt-out options, click on the following link: [Google Analytics' Opt-Out Browser Add-On](https://tools.google.com/dlpage/gaoptout/).
+
+We partner with Clickety for affiliate marketing and Clickety may set a cookie on your computer in order to ensure that our affiliates are properly credited for their referral. You can learn more at [https://clickety.com/](https://clickety.com/).
 
 4\. Release of Information
 --------------------------
@@ -106,7 +168,7 @@ Unfortunately, no data transmission over the Internet or any wireless network ca
 
 You must be an individual who is at least 18 years old to have our permission to use this Site. Our policy is that we do not knowingly collect, use, or disclose PII about minor visitors.
 
-You should also be aware that when you disclose Personally Identifiable Information (i.e. your name, email address, etc.) in the public areas on this Site, that information, along with any information disclosed in your communication, can be collected and used by third parties and may result in unsolicited messages (including unwanted spam messages) from third parties. Such activities are beyond our control and this Policy does not apply to such information. Please consult our Site Terms of Service for our Site Conduct policies at [https://my.roommates.com/tos](https://my.roommates.com/tos). In the event of a conflict between this Privacy Policy and the Terms of Service, the Terms of Service are controlling.
+You should also be aware that when you disclose Personally Identifiable Information (i.e. your name, email address, etc.) in the public areas on this Site, that information, along with any information disclosed in your communication, can be collected and used by third parties and may result in unsolicited messages (including unwanted spam messages) from third parties. Such activities are beyond our control and this Policy does not apply to such information. Please consult our Site Terms of Service for our Site Conduct policies at [https://roommates.com/tos](https://my.roommates.com/tos). In the event of a conflict between this Privacy Policy and the Terms of Service, the Terms of Service are controlling.
 
 If you have any questions, concerns, or inquiries about our Privacy Policy, our use of your PII, or our privacy practices, please contact us at support@roommates.com.
 
@@ -117,34 +179,33 @@ Attn: Privacy Compliance Officer
 11201 N Tatum Blvd Ste 300 PMB 84304  
 Phoenix, AZ 85028
 
-[© 2024 Roommates.com®](https://my.roommates.com/)
+Learn More
 
-[About Us](https://www.roommates.com/about-us)  
-[Roommates.com Blog](https://www.roommates.com/blog)  
-[Roommates.com Labs](https://www.roommates.com/labs)  
-[Rooms for Rent](https://www.roommates.com/rooms-for-rent)  
-[Roommate Finder](https://www.roommates.com/finder)  
-[Roommates Near Me](https://www.roommates.com/near-me)  
+[About Us](https://my.roommates.com/about-us)  
+[Roommates.com Blog](https://my.roommates.com/blog)  
+[Roommates.com Labs](https://my.roommates.com/labs)  
+[Roommates.com City Guides](https://my.roommates.com/city-guides)  
 
-[Help](https://help.roommates.com/)  
+Rooms & Roommates
+
+[Rooms for Rent](https://my.roommates.com/rooms-for-rent)  
+[Roommate Finder](https://my.roommates.com/roommate-finder)  
+[Roommates Near Me](https://my.roommates.com/near-me)  
+
+Terms & Privacy
+
 [Terms of Service](https://my.roommates.com/tos)  
 [Privacy Policy](https://my.roommates.com/privacy-policy)  
-[Accessibility](https://www.roommates.com/accessibility)  
+[Accessibility](https://my.roommates.com/accessibility)  
 [Privacy Control Center](#)  
+
+Get Help
+
+[Help](https://help.roommates.com/ "Opens in a new Tab")  
 [Contact Us](https://my.roommates.com/contact)  
 
-[![Roommates.com on Facebook](https://static.roommates.com/assets/facebook-501a9088fe293f550b4b202c8dd72b6dcdfdc3d82c936d9bd8682ebaf2381d48.svg)](https://www.facebook.com/Roommatesdotcom) [![Roommates.com on Instagram](https://static.roommates.com/assets/instagram-2baca105298afd5ef03046d16d2593ab779907848d1bf685791bedd785c51d59.svg)](https://www.instagram.com/Roommatesdotcom) [![Roommates.com on Twitter](https://static.roommates.com/assets/xitter-2a5e09f2058d22eb3771da677b6090263f0a8a4f0146a1adb6e6d442d7a4d69a.png)](https://www.twitter.com/Roommatesdotcom)
+[© 2024 Roommates.com®](https://my.roommates.com/)[](https://my.roommates.com/)
 
-welcome to roommates.com
-------------------------
+[© 2024 Roommates.com®](https://my.roommates.com/)
 
-Sign up to get started, it just takes a few moments
-
-* 
-* 
-* 
-* 
-*  I **have** a room  I **need** a room
-*  I have read, understand, and agree to the [Terms of Service Agreement](https://my.roommates.com/tos).
-* 
-* Get started!
+ [![Roommates.com on Facebook](https://static-staging.roommates.com/assets/facebook-501a9088fe293f550b4b202c8dd72b6dcdfdc3d82c936d9bd8682ebaf2381d48.svg)](https://www.facebook.com/Roommatesdotcom "Opens in a new Tab")[![Roommates.com on Instagram](https://static-staging.roommates.com/assets/instagram-2baca105298afd5ef03046d16d2593ab779907848d1bf685791bedd785c51d59.svg)](https://www.instagram.com/Roommatesdotcom "Opens in a new Tab")[![Roommates.com on X](/images/x.svg)](https://www.x.com/Roommatesdotcom "Opens in a new Tab")
