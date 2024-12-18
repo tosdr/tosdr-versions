@@ -1,6 +1,6 @@
-[![The StoryGraph logo](https://assets.thestorygraph.com/assets/logo-no-text-6e4b5a0b239e88ee9bd83498dd94e6c7f70ab8bf55a6235242969c00a6dafa9e.png)](https://thestorygraph.com/)
+[![The StoryGraph logo](https://assets.thestorygraph.com/assets/logo-no-text-dbc07c424f7c101643b557c90dc24e731e03a12a290128931a8e9ec3e041411e.png)](https://thestorygraph.com/)
 
-[![The StoryGraph logo](https://assets.thestorygraph.com/assets/logo-no-text-dark-mode-9315f9b5c6597a284b8c47b5fa2d2e489570e97a05cc5ec69caa5258c93d08d6.png)](https://thestorygraph.com/)
+[![The StoryGraph logo](https://assets.thestorygraph.com/assets/logo-no-text-dark-mode-aaa1ca58e5ba3123daa166deb51de3a03b76e94c474f7c08709d628b14fc1a69.png)](https://thestorygraph.com/)
 
 Go back
 
