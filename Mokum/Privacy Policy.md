@@ -7,8 +7,6 @@ Search
 
 User manual
 
-Site is temporarily read-only, please see [@support](https://mokum.place/support) for details
-
 [Back to table of contents](https://mokum.place/about)
 
 Privacy policy
