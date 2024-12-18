@@ -31,6 +31,490 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+La amenaza de los petroleros obsoletos
+======================================
+
+Los barcos petroleros obsoletos son una amenaza para el medioambiente.
+----------------------------------------------------------------------
+
+![Imagen del petrolero Volgoneft 212.](https://www.elcomercio.com/wp-content/uploads/2024/12/naufragio-rusos-petroleo-1-1024x576-1.jpeg)
+
+En medio de la ya devastadora **invasión rusa** a **Ucrania**, el derrame de más de 8 000 toneladas de petróleo en el Mar Negro, en Europa, surge como un trágico recordatorio de la **negligencia** y el desdén hacia el **medioambiente** que acompaña a los conflictos humanos.
+
+Este desastre ecológico, resultado del **naufragio** de dos petroleros rusos junto al puerto de Kerch el pasado domingo 15 de diciembre de 2024, amenaza no solo a las frágiles aguas del **Mar Negro**, sino también a los principios internacionales de seguridad y **sostenibilidad ambiental.**
+
+> La comunidad internacional enfrenta un dilema ético y práctico. Por un lado, está la urgencia de endurecer las sanciones y los controles sobre las exportaciones rusas de crudo
+
+El Gobierno de Ucrania no ha dudado en calificar el incidente como una **tragedia, y subraya los daños irreversibles** a ecosistemas vitales. El plancton, las aves marinas y las poblaciones de peces, elementos esenciales de la biodiversidad marina, están en peligro. Sin embargo, lo más alarmante no es solo el **impacto** inmediato, sino también la evidencia de una práctica que se ha vuelto demasiado común: el uso de e**mbarcaciones antiguas** y mal preparadas para enfrentar condiciones adversas, para multiplicar las ganancias económicas.
+
+Los petroleros implicados, Volgoneft-212 y Volgoneft-239, tienen más de **medio siglo de antigüedad**. Diseñados para ríos y no para mares abiertos, su presencia en el estrecho de Kerch durante una tormenta refleja una clara negligencia. Esas flotas deberían estar **fuera de circulación**.
+
+La comunidad internacional enfrenta un dilema ético y práctico. Por un lado, está la urgencia de endurecer las sanciones y los controles sobre las **exportaciones rusas de crudo**, una medida que la Unión Europea ha adoptado parcialmente. Por otro, está la necesidad de abordar la problemática de los llamados “barcos fantasma”. Estas embarcaciones no solo eluden **sanciones** al desactivar sus sistemas GPS, sino que también representan un **riesgo ambiental constante**.
+
+La oenegé Razom We Stand ha advertido que no solo está en peligro el **Mar Negro**, sino también al **Báltico**, el **Mediterráneo** y otras rutas marítimas internacionales. Cada tonelada de crudo que se [derrama](https://www.elcomercio.com/actualidad/mundo/ucrania-alerta-desastre-ambiental-mar-negro-vertido-petroleo-ruso.html "https://www.elcomercio.com/actualidad/mundo/ucrania-alerta-desastre-ambiental-mar-negro-vertido-petroleo-ruso.html") representa una carga que trasciende fronteras, que afecta a comunidades y ecosistemas en todo el mundo.
+
+La tragedia del estrecho de **Kerch** debería servir como una llamada de atención. No se puede permitir que los intereses económicos y geopolíticos sigan eclipsando la **urgencia** de proteger los mares con [petroleros](https://es.wikipedia.org/wiki/Petrolero "https://es.wikipedia.org/wiki/Petrolero") obsoletos. 
+
+Salvar la democracia
+====================
+
+Creciente desencanto ciudadano con la democracia en América Latina debido a su desgaste, la corrupción y la influencia del narcotráfico.
+----------------------------------------------------------------------------------------------------------------------------------------
+
+![Ramiro Rivera Molina, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Ramiro-Rivera-Molina.jpg)
+
+Es cierto que la democracia no goza del apoyo y afecto en los ciudadanos. La Corporación Latinobarómetro, anualmente realiza mediciones que incluyen más de veinte mil entrevistas en dieciocho países que representa a 600 millones de habitantes. La conclusión es el desencanto y encono ante la **democracia**, precisamente por su **desgaste y desprestigio**. Una **democracia** carcomida y en desintegración, a lo que se agrega el contagio con la corrupción, el narcotráfico y la economía criminal. Vivimos una **recesión democrática**, tan vulnerable puede ser atrapada por el **populismo autoritario**.
+
+El conflicto al que nos enfrentamos en las elecciones del 9F del 25 es: salvar la **democracia** o perderla si esta es devorada con el retorno de quienes la hicieron tanto daño en la **década autoritaria**; en manos de un **caudillo sin escrúpulos**, de odio crónico y resentimiento sin remedio. Hasta hace poco, sabíamos que lideraba una organización que hizo de la política una maquinaria de **corrupción**. Gracias a la fiscal Diana Salazar y al presidente Daniel Noboa, estamos al tanto que se trata de una **organización con vínculos irrefutables** con las organizaciones terroristas y los más feroces carteles del narcotráfico.  Pero se pavonean con un cinismo sin límite.
+
+Con frecuencia, cuando tratamos de recordar el valor de la **democracia**, recurrimos a la conocida frase de Winston Churchill: _«La democracia es el peor sistema de gobierno diseñado por el hombre. Con excepción de todos los demás_». Si la célebre frase de Churchill es insuficiente, agregaría otra parecida, de Norberto Bobbio: «_La democracia no es el mejor de los bienes, pero es el menor de los males»._  Más claro que el agua que nos ha faltado.
+
+La **elección presidencial y legislativa** que se aproxima, más allá de las dieciséis candidaturas que reflejan la **dispersión y degradación del sistema político** y la ausencia de partidos, configura un escenario de **polarización política**: la **democracia y la autocracia**, la libertad o la arbitrariedad, el poder distribuido o concentrado, las instituciones o el desenfreno del odio, La **estabilidad o la turbulencia**. La razón o la perversión.  El **progreso o el retraso**.  La dignidad humana o la manipulación.  La posibilidad de salir adelante o la condena al infierno. Pero mi pronóstico es que el **populismo autoritario** volverá a perder.
+
+Cartas a Quito / 18 de diciembre de 2024
+========================================
+
+Estas son las cartas a Quito de este miércoles 18 de diciembre de 2024
+----------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+No a al engaño y la violencia, y sí a la “paz”
+----------------------------------------------
+
+Lucha entre el “bien” (la paz, la justicia, la libertad, el desarrollo, el servicio, la educación, la verdad…), y el “mal” (la violencia, la corrupción, la injusticia, la esclavitud, el fanatismo, la ambición, el adoctrinamiento, la mentira…). Pero la ambición por el poder, el dinero y el dominio a los demás no tiene fin. Sí, a la paz, pero a veces es necesario defenderla, sin libertad y justicia no hay paz, Papa Francisco que pide diálogo en Cuba, Venezuela, Nicaragua, Ecuador…, y deja a sus Pueblos en manos de lobos criminales vestidos de ovejas. S. Tomás de Aquino: “Si puedes vivir en medio de la injusticia, sin enojo (sin defender la justicia), eres inmoral como injusto”. Jesús sacó con la fuerza a los profanadores de la Casa de Dios. Los mongoles asesinaban, esclavizaban y torturaban a quienes no se sometían a sus edictos, cultura y religión en la India. Y los Santos Maestros Sikhs Hardgobind y Gobind Singh se vieron obligados a enfrentarlos y liberar a la India de sus brutales crímenes y esclavitud. Los obscuros desarman al pueblo para someterlos con su justicia corrupta, la delincuencia, la policía y militares infectados. Antes había justicia, militares y policías los apresaban y nos protegían. Y la delincuencia en el poder y las calles reinan. En el mundo el 90% de ciudadanos los rechazan y son del Estado Global Obscuro. A Trump no le dejaron sacar a Maduro con infiltrados en su gobierno, el SSXXI, Rusia, China y la UE. ¿Ahora, debe caer? Los ciudadanos de América y el mundo exigen la salida de los criminales de Cuba, Nicaragua, Venezuela, Ecuador, Bolivia, etc. S. Bolívar, tomado y prostituido por asesinos-narco-camaradas, enseñó: “Si la tiranía se hace ley, la rebelión es tu derecho”.    
+
+Juan Carlos Cobo Rueda
+
+El precio del cacao sigue al alza, ¿cómo impacta el mercado ecuatoriano?
+========================================================================
+
+El precio mundial del cacao alcanzó los 11 819 dólares por tonelada, un aumento del 177% en un año. Hay mucha especulación en el mercado.
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+![El cacao está entre los principales productos de exportación ecuatoriano, con ventas superiores a 2 500 millones de dólares entre enero y octubre del 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/cacao-122024.jpg)
+
+En los últimos doce meses, el **mercado mundial del cacao** ha registrado una **volatilidad** sin precedentes. Este lunes 16 de diciembre de 2024, el precio de la fruta llegó a 11 819 dólares la tonelada.
+
+### Más noticias
+
+* [Boom de precio del cacao ¿Es buen momento para sembrar de esta fruta?](https://www.elcomercio.com/actualidad/boom-precio-cacao-momento-sembrar-ecuador-produccion.html "https://www.elcomercio.com/actualidad/boom-precio-cacao-momento-sembrar-ecuador-produccion.html")
+* [Venta de cacao sostuvo a las exportaciones de Ecuador en primeros meses de 2024](https://www.elcomercio.com/actualidad/negocios/venta-de-cacao-sostuvo-a-las-exportaciones-de-ecuador-en-primeros-meses-de-2024.html "https://www.elcomercio.com/actualidad/negocios/venta-de-cacao-sostuvo-a-las-exportaciones-de-ecuador-en-primeros-meses-de-2024.html")
+* [Ecuador y Canadá finalizaron quinta negociación para acuerdo comercial](https://www.elcomercio.com/actualidad/negocios/ecuador-canada-negociaciones-acuerdo-comercial.html "Ecuador y Canadá finalizaron quinta negociación para acuerdo comercial")
+
+La cifra representa un incremento del 177% en comparación con el precio de hace un año. Ya que el 16 de diciembre de 2023, el precio de la tonelada del cacao fue de 4 268 tonelada, según [investing.com](https://es.investing.com/commodities/us-cocoa-historical-data "https://es.investing.com/commodities/us-cocoa-historical-data").
+
+El precio de este lunes está muy cerca al valor más alto registrado este año, que fue 11 878 el 19 de abril de 2024.
+
+La volatilidad del precio de esta materia prima ha generado incertidumbre entre productores, exportadores y demás actores de la cadena cacaotera ecuatoriana, según la Asociación Nacional de Exportadores de Cacao del Ecuador (Anecacao). Comprender las dinámicas globales es esencial para entender que el exportador ecuatoriano no tiene injerencia en la fijación de precios, agregó.
+
+Factores globales en los precios del cacao y su impacto en Ecuador
+------------------------------------------------------------------
+
+Según Anecacao, dos factores determinan el precio del cacao a nivel internacional:
+
+**1\. La Bolsa de Nueva York (NYC).** Alrededor del 85% de las operaciones en este mercado son manejadas por fondos de **inversión especulativos**, generando movimientos bruscos e impredecibles. Actualmente, los precios superan los **11 000 dólares por tonelada**, debido al déficit productivo en Costa de Marfil y Ghana, principales productores mundiales. La escasez ha provocado especulación, afectando los mercados de futuros y físicos, y propagando inestabilidad a nivel global.
+
+**2\. Los diferenciales de cacao.** Estos son establecidos por la industria mundial que compra el  
+cacao ecuatoriano. Estos diferenciales reflejan la calidad del grano y las condiciones de oferta y demanda. Sin embargo, una baja demanda global, problemas financieros en la industria chocolatera y la disminución del consumo han impactado negativamente. Esto ha generado iliquidez y volatilidad en el mercado.
+
+Problemática del mercado internacional del cacao
+------------------------------------------------
+
+Toda esta problemática que enfrentan compradores y vendedores es provocada por una disminución en las moliendas de cacao y una **caída en el consumo de chocolate internacionalmente**.
+
+La reducción en las moliendas de cacao y en las ventas de chocolate a escala internacional ha provocado una caída del **30% en la demanda global de cacao**, lo que se traduce en menores ingresos para mercados de origen, como **Ecuador**.
+
+En el contexto local, **el productor ecuatoriano** de [cacao](https://es.wikipedia.org/wiki/Grano_de_cacao "https://es.wikipedia.org/wiki/Grano_de_cacao") recibió un promedio de **370 dólares por quintal** en 2024, posicionando al país como el origen que mejor paga a sus productores. Sin embargo, la situación global sigue siendo compleja y requiere esfuerzos conjuntos para proteger la cadena cacaotera.
+
+El sector ecuatoriano enfrenta grandes desafíos, pero mantiene su compromiso de apoyar a todos los actores involucrados en esta vital actividad económica del país.
+
+* * *
+
+Venezuela pidió salvoconducto para Jorge Glas
+=============================================
+
+El canciller de Colombia reveló el pedido de Venezuela sobre Jorge Glas.
+------------------------------------------------------------------------
+
+![Jorge Glas está preso en la cárcel La Roca y Venezuela pide un salvoconducto a su favor.](https://www.elcomercio.com/wp-content/uploads/2024/05/Jorge-Glas-2.jpg)
+
+El régimen de **Nicolás Maduro** en **Venezuela** pidió salvoconducto para el exvicepresidente **Jorge Glas**, según informó el canciller de **Colombia**, **Luis Gilberto Murillo**, este martes 17 de diciembre.
+
+Según el funcionario colombiano, este es uno de los pedidos que hace Venezuela a cambio de otorgar salvoconductos a **seis opositores** al gobierno de Maduro, refugiados en la **embajada de Argentina**, en **Caracas**.
+
+### Más noticias:
+
+* [Noboa tilda de “absurdo” el rechazo a la Cumbre Iberoamericana del Comité que apoya a Glas](https://www.elcomercio.com/actualidad/noboa-tilda-de-absurdo-el-rechazo-a-la-cumbre-iberoamericana-del-comite-que-apoya-a-glas.html "Noboa tilda de “absurdo” el rechazo a la Cumbre Iberoamericana del Comité que apoya a Glas")
+* [Caso Odebrecht: Gustavo Massuh pagará una reparación integral al Estado ¿Cuál es el monto?](https://www.elcomercio.com/actualidad/seguridad/caso-odebrecht-gustavo-massuh-pagara-una-reparacion-integral-al-estado-cual-es-el-monto.html "Caso Odebrecht: Gustavo Massuh pagará una reparación integral al Estado ¿Cuál es el monto?")
+
+Pedido de Venezuela para que se le otorgue un salvoconducto a Jorge Glas
+------------------------------------------------------------------------
+
+El **canciller de Colombia, Luis Gilberto Murillo**, afirmó este martes que el Gobierno colombiano lleva a cabo gestiones ante el Gobierno de Venezuela para que dé salvoconductos a los **seis antichavistas**.
+
+Ellos están refugiados, desde marzo, en la residencia de la **Embajada de Argentina en Caracas**, custodiada por Brasil.
+
+“Estamos viendo la situación de la embajada de **Argentina** en **Venezuela,** que ahora la custodia la tiene **Brasil**, seis venezolanos que están en esa embajada”, dijo Murillo.
+
+El canciller se refirió a la crisis venezolana en **San Andrés**, durante la clausura de la ‘**Cumbre de Pueblos Afrodescendientes del Caribe Occidental**‘.
+
+“Yo fui a Brasil personalmente, por instrucción del presidente (Gustavo) **Petro**, porque logramos, en nuestra conversación con el **Gobierno de Venezuela**, que se dieran los salvoconductos a estas seis personas (…) ellos pedían que Argentina liberara una persona muy cercana al Gobierno de Venezuela y que también **se le diera salvoconducto a Jorge Glas, en Ecuador**“, continuó el canciller.
+
+Glas, exvicepresidente de **Rafael Correa** (2007-2017), fue detenido en la **Embajada de México en Quito**, en abril de este año.
+
+Jorge Glas recibió **asilo diplomático** por parte de **México**. Sin embargo, tenía orden de prisión por otro caso de corrupción en **Ecuador**.
+
+La justicia de Ecuador procesa y sentenció al exvicepresidente por varios **casos de corrupción**.
+
+Está preso en la cárcel de máxima seguridad de **La Roca.**
+
+A raíz de la incursión policial en la Embajada de México en Quito, ese país también exige el salvoconducto para **Jorge Glas**.
+
+Los fracasos de Gandolfi e Independiente del Valle en 2025
+==========================================================
+
+Independiente del Valle sumó una serie de decepciones internacionales y nacionales en 2025 de la mano del DT Javier Gandolfi.
+-----------------------------------------------------------------------------------------------------------------------------
+
+![Jeison Medina de Independiente del Valle encara un rival en la final de la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/12/20241207140876-fbl-ligapro-primera-final-liga-independiente-scaled.jpg)
+
+El entrenador argentino **Javier Gandolfi** dejó el cargo en Independiente del Valle tras haber perdido la final de **Liga Pro** con Liga de Quito y la de la **Copa Ecuador** ante El Nacional.
+
+“**Javier Gandolfi y su cuerpo técnico no continuarán en el club y se da por terminada la relación contractual de mutuo acuerdo**. Gracias por su aporte y profesionalismo, suerte en sus próximos retos”, anunció el club del Valle en su cuenta de la red social X.
+
+### Más noticias:
+
+* [Liga de Quito, IDV y una recordada final de Liga Pro](https://www.elcomercio.com/deportes/liga-pro-final-independiente-liga-2023-2024.html "Liga de Quito, IDV y una recordada final de Liga Pro")
+* [Javier Gandolfi fue despedido por Independiente del Valle](https://www.elcomercio.com/deportes/futbol/javier-gandolfi-independiente-valle-entrenador.html "Javier Gandolfi fue despedido por Independiente del Valle")
+* [Liga de Quito se proclamó como bicampeón de la Liga Pro](https://www.elcomercio.com/deportes/futbol/independiente-valle-liga-quito-marcador.html "Liga de Quito se proclamó como bicampeón de la Liga Pro")
+
+Gandolfi se vinculó con Independiente del Valle en diciembre del año pasado con un contrato hasta diciembre de 2025, pero su salida se anticipó con los **decepcionantes resultados** en la Copa Libertadores y la Copa Sudamericana, la mala campaña en la segunda etapa de la Liga Pro, así como con las finales perdidas.
+
+Gandolfi e Independiente desilusionaron internacionalmente
+----------------------------------------------------------
+
+![Edinson Cavani (centro) de Boca Juniors al momento en que anota el gol ante Independiente del Valle en la Copa Sudamericana.](https://www.elcomercio.com/wp-content/uploads/2024/07/1000091136.jpg)
+
+Edinson Cavani (centro) de Boca Juniors al momento en que anota el gol ante Independiente del Valle en la Copa Sudamericana. Foto: Agencia EFE.
+
+Con Gandolfi en el banquillo Independiente del Valle ganó la primera fase de la Liga Pro, de manera invicta, con diez triunfos y cinco empates, pero quedó **eliminado en la fase de grupos de la Libertadores**.
+
+También perdió la fase de repesca para seguir en la **Copa Sudamericana**, donde fue eliminado por Boca Juniors[.](https://en.wikipedia.org/wiki/Independiente_del_Valle "https://en.wikipedia.org/wiki/Independiente_del_Valle")
+
+IDV se cayó en las finales
+--------------------------
+
+El equipo negriazul, posteriormente, alcanzó la final de la **Copa Ecuador** con el objetivo de revalidar el título obtenido en 2022, pero perdió por 0-1 ante **El Nacional**, que se hizo con el título para acabar con una sequía de dieciocho años sin trofeos, pese a la crisis económica que atraviesa.
+
+![Jugadores de El Nacional festejando el título de la Copa Ecuador 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-27T180951.623-1024x683.jpg)
+
+Jugadores de El Nacional festejando el título de la Copa Ecuador 2024. Foto: API.
+
+La goleada por 3-0 sufrida ante **Liga de Quito** en el partido de ida de la final de la Liga Pro dejó una discreta imagen en su funcionamiento, complicó más la posibilidad para continuar, pues no le alcanzó el triunfo por 1-0 en el partido de vuelta. Peor aún, Liga de Quito dio la **vuelta olímpica** en el estadio de su propiedad.
+
+![Jugadores de Liga de Quito celebran el título 13 del campeonato nacional.](https://www.elcomercio.com/wp-content/uploads/2024/12/plamares_ecuador_1-1024x683.jpg)
+
+Jugadores de Liga de Quito celebran el título 13 del campeonato nacional. Foto: API.
+
+Los títulos de Independiente
+----------------------------
+
+Independiente del Valle disputó en 2016 la final de la **Libertadores**, ganó en 2019 y 2022 la **Copa Sudamericana, la Recopa Sudamericana** en 2023 y la Liga Pro en 2021. A su vez, también tiene una Copa y una Supercopa Ecuador de 2022 y 2023.
+
+La intención de los directivos del club, ha sido tener como base a jugadores formados en su cantera los que, incluso; han potenciado a las selecciones juveniles y también a la absoluta de **Ecuador**.
+
+No te pierdas San Viernes y El Confesionario
+--------------------------------------------
+
+Segundo Castillo agradece tras ser ratificado en Barcelona SC
+=============================================================
+
+Segundo Alejandro Castillo, DT de Barcelona SC, se pronunció por medio de sus redes sociales tras ser ratificado en el equipo.
+------------------------------------------------------------------------------------------------------------------------------
+
+![Segundo Alejandro Castillo, DT de Barcelona SC, en uno de sus partidos.](https://www.elcomercio.com/wp-content/uploads/2024/12/1000189936.jpg)
+
+**Segundo Alejandro Castillo**, DT de Barcelona SC, mostró su agradecimiento tras ser ratificado en el cargo y anunciado para disputar la temporada 2025 con la institución. El estratega se pronunció por medio de sus redes sociales.
+
+La mañana de este martes 17 de diciembre del 2024, el ‘**Ídolo**‘ dio a conocer de manera oficial que Castillo se mantendría en el cargo después de que se especulase con respecto a su continuidad. Allí, el equipo hizo Hincapié en que el ecuatoriano [será el técnico en su año de centenario](https://www.elcomercio.com/deportes/futbol/segundo-castillo-mortero-dt-barcelona.html "https://www.elcomercio.com/deportes/futbol/segundo-castillo-mortero-dt-barcelona.html").
+
+### Más noticias:
+
+* [Barcelona SC celebra su centenario con camisetas conmemorativas](https://www.elcomercio.com/deportes/futbol/barcelona-camisetas-centenario-precio-modelo.html "Barcelona SC celebra su centenario con camisetas conmemorativas")
+* [Segundo Castillo tuvo un ciclo invicto con Barcelona SC](https://www.elcomercio.com/deportes/futbol/segundo-castillo-barcelona-sc-invicto-renovacion.html "Segundo Castillo tuvo un ciclo invicto con Barcelona SC")
+* [Segundo Castillo, ratificado por Barcelona Sporting Club](https://www.elcomercio.com/deportes/futbol/segundo-castillo-ratificado-barcelona-guayaquil.html "Segundo Castillo ratificado por Barcelona Sporting Club")
+
+Horas después de que se hiciese el anuncio para la **hinchada amarilla**, Castillo realizó la publicación de **gratitud** en su cuenta de instagram. Aunque en el video de su presentación ya había dicho unas palabras en voz en off, estas solamente anunciaban que se quedaría y el aniversario del club.
+
+Dentro de su nueva interacción, este agregó una foto suya con una cita bíblica, seguida de un fragmento del **cómo se grabó su presentación**. El audio de fondo fue una melodía cuya voz cantante agradecía por distintos motivos.
+
+“**Gracias al más grande**“, puso Castillo como descripción de su publicación, junto a tres emoticones de manos juntadas y balones de fútbol. El nuevo video, a su vez, finalizaba con otra frase religiosa.
+
+Segundo Castillo en Barcelona SC
+--------------------------------
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DDsxnWapt3s/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de Sir Second Castle (@elmortero\_puro\_chocolate)](https://www.instagram.com/reel/DDsxnWapt3s/?utm_source=ig_embed&utm_campaign=loading)
+
+**Segundo Castillo** continuará en Barcelona SC después de tomar las riendas del equipo durante la recta final de la Liga Pro 2024. El entrenador ecuatoriano se hizo cargo del club tras la salida del argentino **Ariel Holan**, quien había sustituido al uruguayo **Diego López**.
+
+Con el equipo torero, el estratega, que también vistió sus colores, consiguió finalizar la temporada **invicto** tras lograr tres victorias y tres empates en **Liga Pro** y ganar un torneo amistoso. A su vez, esta fue la primera vez que dirigió el club sin que aquello se tratase de un interinato, pues antes lo había hecho en dos ocasiones de manera temporal[.](https://en.wikipedia.org/wiki/Barcelona_S.C. "https://en.wikipedia.org/wiki/Barcelona_S.C.")
+
+Al momento en que **Castillo** tomó Barcelona SC, la escuadra se encontraba en la quinta posición de la segunda etapa y él la elevó hacia la cuarta. A su vez, aseguró la presencia en la Copa Libertadores 2025, donde los toreros iniciarán desde la segunda fase.
+
+Barcelona SC también lanzó su nueva indumentaria
+------------------------------------------------
+
+![Marathon Sports.](https://www.elcomercio.com/wp-content/uploads/2024/12/camisetas_cien_4-1024x683.jpg)
+
+Camiseta principal de Barcelona SC para el 2025. Foto: Marathon Sports.
+
+**Barcelona SC** también aprovechó la fecha de presentación de su entrenador de 2025 para mostrar las prendas que utilizará en aquel año. Al tratarse de su centenario, el equipo torero y su auspiciante textil lanzaron tres modelos de camisetas.
+
+La primera es **amarilla** y cuenta con detalles del mismo color, pero de distinta tonalidad, de manera que estos evocan a un sol. Sus detalles son negros y, bajo el escudo al costado izquierdo superior, están el año de fundación y el del centenario: **1925 y 2025.**
+
+La blusa alterna del equipo será totalmente **negra** con detalles blancos en el cuello y al borde de las mangas y hace referencia a la primera blusa del club. A su vez, cuenta con un diseño retro al impregnar cordones para ajustar la parte superior de la prenda.
+
+La última casaca para el ‘Ídolo’ será **blanca y roja**. El primer color, predominante en la prenda, se fusionará con el segundo, que presenta detalles en diagonal.
+
+No te pierdas San Viernes y El Confesionario
+--------------------------------------------
+
+Justicia de Brasil ordena el retiro mundial de canción de Adele por plagio
+==========================================================================
+
+Un Juez de Brasil ordenó a la cantante Adele que retire de todas las plataformas una de sus canciones por un presunto plagio.
+-----------------------------------------------------------------------------------------------------------------------------
+
+![La cantante británica Adele es una de las artistas más influyentes y reconocidas del siglo XXI](https://www.elcomercio.com/wp-content/uploads/2024/12/adele-cancion-plagio.jpg)
+
+Un **Juez Mercantil** de **Río de Janeiro** ordenó a la reconocida cantante **Adele** que retire su canción **‘Million Years Ago’** por un presunto **plagio**.
+
+### Más noticias
+
+* [El cantante Raphael, hospitalizado de urgencia tras sufrir accidente cerebrovascular](https://www.elcomercio.com/tendencias/entretenimiento/cantante-rapahel-accidente-cerebrovascular-hospital.html "El cantante Raphael, hospitalizado de urgencia tras sufrir accidente cerebrovascular")
+* [Karol G y Feid arrasan con su química física y musical](https://www.elcomercio.com/tendencias/entretenimiento/karol-g-feid-fans-amor-complicidad-pareja-ano.html "Karol G y Feid arrasan con su química física y musical")
+* [¿Qué ofrece Spotify además de música?](https://www.elcomercio.com/tendencias/entretenimiento/spotify-tesoros-poco-explorados-plataforma-streaming.html "¿Qué ofrece Spotify además de música?")
+
+El veto se dio a través de una **medida cautelar** tomada el viernes **13 de diciembre de 2024**. Cuatro días después, este martes **17**, la discográfica **Universal Music** presentó una **petición de reconsideración**.
+
+Denuncia por presunto plagio en canción de Adele
+------------------------------------------------
+
+La denuncia fue presentada por el compositor brasileño **Toninho Geraes**, quien aduce que la canción de Adele **‘Million Years Ago’**, de **2015**, es similar a su canción **‘Mulheres’**, de **1995**.
+
+El **Tribunal Mercantil** resolvió que “la emisión continuada” de la canción **anglosajona** causó un daño significativo “a la carrera y al patrimonio” de **Toninho Geraes**.
+
+Por eso, ordenó que los demandados se abstengan “de **utilizar**, **reproducir**, **editar**, **distribuir** o **comercializar**” la canción **‘Million Years Ago’** de forma “**inmediata** y **global**” sin expresa autorización de **Geraes**.
+
+De no cumplir, se aplicará una **multa** de **50 000 reales**, **8 202 dólares**, por reproducción.
+
+El documento oficial, también, solicitó a las plataformas digitales de **audio** y **video**, como **Spotify** y **YouTube**, que retiren la canción de Adele de sus colecciones en **Brasil** y “en cualquier otro país”.
+
+Universal Music presentó solicitud de reconsideración
+-----------------------------------------------------
+
+**Universal Music** presentó una solicitud ante el **Tribunal Mercantil de Brasil** para que la decisión sea reconsiderada.
+
+La discográfica considera como **“desproporcionada”** la decisión y afirma que “causará un importante perjuicio **económico**” a los demandados.
+
+Asimismo, señala que la retirada de la canción de las plataformas representa un daño al “**interés público**” por su “importante valor **cultural** y **artístico**” para las audiencias.
+
+En el documento, el estudio de abogados que representa a **Universal Music** afirmó que “el principal fundamento de la **medida cautelar** es una **similitud melódica**” entre ambas canciones y aclaró que “**similitud melódica** y **plagio** son conceptos diferentes en la música”.
+
+Los defensores alegaron que las “**similitudes** entre las dos canciones, y decenas de otras, se deben a un ‘**cliché musical**‘ propio de la **industria**“[.](https://es.wikipedia.org/wiki/Adele "https://es.wikipedia.org/wiki/Adele")
+
+Compositor pide ser reconocido como coautor de la canción
+---------------------------------------------------------
+
+Una de las abogadas denunciantes, **Deborah Sztajnberg**, afirmó a **EFE** que la discográfica “está en un problema” y que no va a ser fácil que contrarreste las pruebas, que son “**millones**“.
+
+“Hemos puesto a disposición pruebas, **partituras**, **grabaciones**, **videos**, **audios**. Pusimos a una banda a ejecutar las dos músicas al mismo tiempo. Cualquiera que escucha las dos se da cuenta de que es exactamente la misma música”, comentó la abogada.
+
+El compositor **Geraes** pide ser reconocido como **coautor**, así como un porcentaje de las **regalías** recibidas por **Adele** y las grabadoras y una **indemnización** por daños **morales**.
+
+En sus redes sociales, **Toninho Geraes** celebró la decisión del juez y afirmó que, aunque queda “un largo camino”, sigue “firme, con **esperanza** y creyendo en la fuerza de la **samba** y la **justicia**“.
+
+Hasta el cierre de esta nota, la canción de **Adele** continúa disponible en las plataformas de **música** y de **video**.
+
+Ministerio de Energía impuso sanción económica a Progen por incumplimientos ¿Cuál es el monto?
+==============================================================================================
+
+La sanción económica anunciada por el Ministerio de Energía a Progen es por incumplimientos.
+--------------------------------------------------------------------------------------------
+
+![El Ministerio de Energía impuso una sanción económica a Progen por incumplimientos.](https://www.elcomercio.com/wp-content/uploads/2024/12/ministerio-energia-progen.jpg)
+
+El **Ministerio de Energía** impuso una sanción económica a la **empresa Progen**, informó este martes 17 de diciembre de 2024[.](https://es.wikipedia.org/wiki/Ministerio_de_Energ%C3%ADa_y_Minas_(Ecuador))
+
+La **empresa Progen** fue contratada para suministrar generadores eléctricos en dos proyectos térmicos necesarios para solventar la **crisis energética** del **Ecuador**.
+
+### Más noticias:
+
+* [Gobierno toma acciones contra Progen por retrasos en generadores eléctricos](https://www.elcomercio.com/actualidad/negocios/gobierno-toma-acciones-contra-progen-retrasos-entrega-generadores.html "Gobierno toma acciones contra Progen por retrasos en generadores eléctricos")
+* [Contraloría investigará la contratación de generadores eléctricos](https://www.elcomercio.com/actualidad/ecuador/generadores-electricos-contraloria-investigara-celec.html "Contraloría investigará la contratación de generadores eléctricos")
+
+Medidas del Ministerio de Energía sobre incumplimientos de Progen
+-----------------------------------------------------------------
+
+El **Ministerio de Energía y Minas** informó que ejecuta varias acciones para garantizar el cumplimiento de los contratos de adquisición de **equipos de generación** para **Salitral y Quevedo**.
+
+El **Gobierno** actúa con entidades de control y en estricto apego a las leyes vigentes.
+
+El Ministerio informó que Progen fue notificada por diversos **incumplimientos** en los plazos de entrega e instalación de las unidades de generación.
+
+Por esta razón, hasta el momento, se ha impuesto a Progen una **penalización de 900 000 dólares**, por infracciones.
+
+Esta cartera de Estado tomó la decisión de **retirar de sus cargos a funcionarios**, incluidos el **gerente de CELEC Termopichincha** y los administradores del contrato, que habrían incurrido en prácticas que entorpecieron el proceso.
+
+Además, estarán sujeto a las **investigaciones** que correspondan.
+
+El Gobierno solicitó a la **Contraloría General del Estado** un **examen especial**.
+
+El **examen especial inicio el 13 de diciembre de 2024** y abarca las fases preparatoria, precontractual, contractual, de ejecución y pago de los contratos emergentes.
+
+“Esta cartera de Estado mantiene un seguimiento exhaustivo de todos los procedimientos, asegurando que las **garantías contractuales** se mantengan vigentes”, aseguró el Ministerio de Energía, en un comunicado.
+
+### Las constataciones
+
+Al momento, se ha constatado el avance de las obras civiles en Quevedo y Salitral, y que han llegado al país **23 equipos** electrógenos de Progen, que generarán alrededor de **83 MW.**
+
+En reuniones de trabajo, se han presentado los cronogramas de envíos de los **equipos auxiliares y transformadores**, los cuales se prevé que arriben al país.
+
+Estos llegarían entre el **24 de diciembre de 2024 y el 15 de enero de 2025**, señaló el Ministerio de Energía.
+
+“El **Ministerio** reafirma su compromiso con la transparencia, la ejecución eficiente de los proyectos y la protección de los recursos del país”, aseguró la institución.
+
+### La Contraloría
+
+La **Contraloría General del Estado** inició una verificación preliminar en la **Empresa Pública Estratégica Corporación Eléctrica del Ecuador (Celec)**.
+
+Esto, por los procesos de contratación efectuados en el marco de la **declaratoria de emergencia** del sector eléctrico.
+
+El resultado de ese informe determinó la acción de control a la compra de **los generadores** a **Progen**.
+
+Adicional, Contraloría realiza un segundo examen especial al contrato **CELEC-EP-EGU-ESMERALDAS-002**.
+
+Este contrato es para la “**Adquisición, instalación, puesta en marcha y asistencia en operación y mantenimiento de generadores termoeléctricos terrestres (90 – 150 MW)**”.
+
+Este se ubicará en la provincia de Esmeraldas, de la Unidad de Negocio **ELECTROGUAYAS**, con la **empresa ATM (Austral Technical Managment).**
+
+Este examen inició el **16 de diciembre** de 2024, con orden de trabajo No. 0009-DNA4-2024-I.
+
+El **período de análisis** de estas acciones de control comprende entre el 1 de enero de 2023 y el 13 de diciembre de 2024.
+
+ANT suspendió el pago de infracciones de tránsito de forma temporal
+===================================================================
+
+La ANT suspendió temporalmente el pago de los valores pendientes por infracciones de tránsito en Ecuador.
+---------------------------------------------------------------------------------------------------------
+
+![El pago de infracciones de tránsito se suspenden por más de seis meses](https://www.elcomercio.com/wp-content/uploads/2024/12/infracciones-transito-ant-suspension.jpg)
+
+La **Agencia Nacional de Tránsito** (ANT) suspendió temporalmente el **pago de los valores** pendientes por **infracciones de tránsito** en Ecuador.
+
+### Más noticias
+
+* [CTE implementa cámaras ‘bodycam’ en sus agentes, ¿qué pasa si no las encienden?](https://www.elcomercio.com/actualidad/guayaquil/agentes-cte-camaras-bodycam-obligados.html "CTE implementa cámaras ‘bodycam’ en sus agentes, ¿qué pasa si no las encienden?")
+* [Diciembre, un mes propicio para la prevención los siniestros de tránsito](https://www.elcomercio.com/opinion/editorial/diciembre-mes-propicio-prevencion-siniestros-transito.html "Diciembre, un mes propicio para la prevención los siniestros de tránsito")
+* [¿Cómo afectan los siniestros de tránsito por consumo de alcohol a Quito?](https://www.elcomercio.com/actualidad/quito/como-afectan-los-siniestros-de-transito-por-consumo-de-alcohol-a-quito.html "¿Cómo afectan los siniestros de tránsito por consumo de alcohol a Quito?")
+
+Esta medida, que obedece a la disposición dada por el ministro de Transporte, **Roberto Luque**, se aplica a nivel nacional a partir del **viernes 13 de diciembre** de 2024 y se extenderá hasta el 30 de junio de 2025.
+
+Según detalló la entidad, la verificación de los valores pendientes de pago por sanciones estipuladas en el Código Orgánico Integral Penal (**COIP**) se suspende para que los ciudadanos puedan realizar **trámites administrativos** en este tiempo.
+
+“Esta medida permitirá al ciudadano realizar diversos trámites como la **matriculación** de sus vehículos, compraventa de automotores y **renovación de licencias**, sin tener que pagar valores pendientes por multas relacionadas con radares”, detalló Luque.
+
+Medida no condona deudas
+------------------------
+
+Sin embargo, el Ministro aclaró que esta decisión no es una **condonación de deudas**, sino un alivio temporal[.](https://www.ant.gob.ec/ "https://www.ant.gob.ec/")
+
+“Esto no significa que las deudas serán **perdonadas**, esto es temporal, hasta ver cómo solucionamos este tema que es un grave problema, pero representa un alivio a los ciudadanos hoy en día”, explicó el funcionario.
+
+> 📢ATENCIÓN  
+>   
+> Suspendimos la verificación de valores pendientes de pago por infracciones de tránsito, hasta el 30 de junio de 2025.  
+>   
+> Esta NO es una condonación de deudas, es una disposición temporal para garantizar la continuidad de trámites administrativos.[#LaNuevaANTEnAcción](https://twitter.com/hashtag/LaNuevaANTEnAcci%C3%B3n?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/gkua3XGbFT](https://t.co/gkua3XGbFT)
+> 
+> — ANT Ecuador (@ANT\_ECUADOR) [December 17, 2024](https://twitter.com/ANT_ECUADOR/status/1869167746816332277?ref_src=twsrc%5Etfw)
+
+Agentes de tránsito recibieron cámaras ‘bodycam’
+------------------------------------------------
+
+El Ministró también se refirió a las nuevas cámaras ‘bodycam’ entregadas a la **Comisión de Tránsito del Ecuador** (CTE).
+
+La entidad implementó la nueva regulación para sus **agentes** a partir del martes 10 de diciembre.
+
+Los agentes de tránsito están obligados a utilizar los **dispositivos de videograbación**, conocidos como ‘**bodycam**‘, todo el tiempo, mientras cumplen con su jornada laboral.
+
+Según explicó Roberto Luque, el objetivo de la implementación de las más de **2 100 ‘bodycam’** es garantizar la **transparencia** en los procedimientos viales y reducir los casos de **corrupción** o mala aplicación de la ley.
+
+### Sanciones para los agentes que utilicen las cámaras
+
+En caso de que los ciudadanos detecten que **no estén prendidos** mientras se realiza una intervención, la CTE recomendó a los usuarios que le exijan al agente el respectivo encendido.
+
+De no utilizarlos, los agentes recibirán una sanción por falta grave. Según el Código Orgánico de Entidades de Seguridad Ciudadana y Orden Público (Coescop) se sancionará con el **8 %** de la remuneración mensual que percibe el servidor.
+
+CTE suspendió operativos de control
+-----------------------------------
+
+Asimismo, la CTE suspendió los operativos de control desde el 6 de diciembre de 2024, “sin excepción alguna”[.](https://www.comisiontransito.gob.ec/ "https://www.comisiontransito.gob.ec/")
+
+Esto, porque sus agentes se sumaron a los Controles de Armas, Municiones y Explosivos (**Camex**), junto a la **Policía Nacional** y las **Fuerzas Armadas**.
+
+La Comisión de Tránsito del Ecuador **opera en siete provincias**: Guayas, Santa Elena, Los Ríos, Azuay, El Oro, Manabí y Santo Domingo de los Tsáchilas.
+
+Sebastián Beccacece revela su lado personal con la Selección de Ecuador
+=======================================================================
+
+Sebastián Beccacece, DT de la Selección de Ecuador mostró su lado personal y brindó su imagen fuera del fútbol.
+---------------------------------------------------------------------------------------------------------------
+
+![Sebastián Beccacece durante una rueda de prensa de la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/12/20241108136199-gye-sebastian-beccacece-scaled.jpg)
+
+El **DT Sebastián Beccacece** arribó al país en agosto de este 2024 para hacerse cargo de la Selección de Ecuador y reemplazar a Félix Sánchez Bas. Tras casi seis meses en el cargo, este mostró su lado personal y contó cuáles son sus gustos fuera de la cancha, así como aspectos personales vinculados al país y a su rol.
+
+La llegada de la Beccacece al combinado nacional se produjo después de la Copa América y con el fin de que este disputase las eliminatorias rumbo al **Mundial 2026**. A pesar de que Sánchez Bas estaba en zona de clasificación y llegó a los cuartos de final del máximo torneo de selecciones del continente, él y la **Federación Ecuatoriana de Fútbol** (FEF) rompieron su vínculo.
+
+### Más noticias:
+
+* [Sebastián Beccacece ha nombrado seis capitanes en la Selección de Ecuador](https://www.elcomercio.com/deportes/seleccion-ecuador-capitanes-sebastian-beccacece.html "Sebastián Beccacece ha nombrado seis capitanes en la Selección de Ecuador")
+* [¿Cuál es el esquema de juego de Beccacece con la Selección de Ecuador?](https://www.elcomercio.com/deportes/futbol/esquema-sebastian-beccacece-seleccion-ecuador.html "¿Cuál es el esquema de juego de Beccacece con la Selección de Ecuador?")
+* [La Selección de Ecuador fue top mundial, ¿qué pasó con sus jugadores?](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-top-ranking-fifa.html "La Selección de Ecuador fue top mundial, ¿qué pasó con sus jugadores?")
+
+A partir de su arribo, Beccacece debió centrarse en los seis partidos de eliminatorias que le restaban a 2024, en los cuales obtuvo un **[balance favorecedor](https://www.elcomercio.com/deportes/sebastian-beccacece-seleccion-ecuador-fortalezas-colombia.html "https://www.elcomercio.com/deportes/sebastian-beccacece-seleccion-ecuador-fortalezas-colombia.html")**. Estable en el cargo y con el equipo en una mejor posición que en la que lo encontró, este se dio tiempo para relatar parte de su intimidad[.](https://en.wikipedia.org/wiki/Ecuador_national_football_team "https://en.wikipedia.org/wiki/Ecuador_national_football_team")
+
+Por medio de sus redes sociales, la **FEF** hizo pública una entrevista con el estratega argentino. Allí, este hizo revelaciones desde su plato favorito en el país hasta cuál es su equipo de fútbol y su futbolista favorito.
+
+Messi, Newell’s y el ceviche, entre las preferencias de Beccacece
+-----------------------------------------------------------------
+
+> 🏓 Ping Pong con nuestro DT de la Selección Mayor, [@SebaBecca](https://twitter.com/SebaBecca?ref_src=twsrc%5Etfw). [pic.twitter.com/Ynp9Xy36Xb](https://t.co/Ynp9Xy36Xb)
+> 
+> — La Tri 🇪🇨 (@LaTri) [December 17, 2024](https://twitter.com/LaTri/status/1869140672978055263?ref_src=twsrc%5Etfw)
+
+En el video en el cual contesta las incógnitas sobre sí, este empieza por narrar sus gustos futbolísticos personales. Allí pone a **Lionel Messi** como su ídolo y al Estadio Marcelo Bielsa y Newell’s All Boys como su reducto y club preferidos.
+
+La influencia de su equipo también se ve presente en torno a su libro favorito: _Lo Suficientemente loco._ Un texto sobre **Bielsa**, sobre quien se declaró admirador.
+
+Con respecto a su personalidad y al país, Beccacece señaló que su plato de preferencia es el **ceviche** y cuando no está en la cancha opta por **el teatro o el cine**. Asimismo, agregó que ahora su meta es llegar al Mundial y previo a los partidos suele escuchar rock de su país.
+
+Sebastián Beccacece y la Selección de Ecuador
+---------------------------------------------
+
+Con la Selección de Ecuador y dentro de lo deportivo, Sebastián Beccacece ha tenido éxito a pesar de su flojo arranque. El combinado nacional se ubica en el tercer puesto de las eliminatorias al Mundial con **19 puntos**, a seis del líder Argentina.
+
+Desde su llegada, este ha conseguido vencer en tres oportunidades, empatar en dos y ser derrotado tan solo en una. En la más reciente fecha doble de eliminatorias, este consiguió seis puntos de seis posibles al golear de local a **Bolivia** e imponerse ante **Colombia** de visita.
+
+Para concretar o no su objetivo de llegar al **Mundial** con la Tri, el entrenador deberá enfrentarse a otros seis compromisos. Todos los duelos venideros se jugarán en el 2025.
+
+No te pierdas San Viernes y El Confesionario
+--------------------------------------------
+
 Cosede explica proceso de pagos a clientes de Cooperativa Cámara de Comercio de Ambato
 ======================================================================================
 
@@ -270,6 +754,11 @@ También se fue del equipo el ecuatoriano **Gustavo Cortéz**, por la falta de s
 Otro de los jugadores que se fue es el venezolano **Alexander González**.
 
 La crisis administrativa y económica en el **Emelec** ocasionó la renuncia el pasado 29 de octubre de su presidente José Pileggi y quienes quedaron en su lugar no han comunicado las soluciones de las demandas ante la FIFA de sus exjugadores. 
+
+No te pierdas San Viernes y El Confesionario
+--------------------------------------------
+
+No te pierdas San Viernes y El Confesionario
 
 Gobierno de Ecuador fijó nuevo salario básico para 2025
 =======================================================
@@ -559,577 +1048,3 @@ El Santos Laguna se encargó de inmortalizar al delantero quiteño en los exteri
 
 Confesionario – segunda temporada en proceso
 --------------------------------------------
-
-¿Cómo votó Ecuador en los Premios The Best 2024 de la FIFA?
-===========================================================
-
-Vinícius Jr. y a Aitana Bonmatí ganaron los premios The Best de 2024 y tres delegados de Ecuador votaron en cada categoría.
----------------------------------------------------------------------------------------------------------------------------
-
-![Vinicius Jr. ganador del premio The Best de la FIFA 2024, posa con su premio.](https://www.elcomercio.com/wp-content/uploads/2024/12/5a828e755a18fd7acac85e8fa5c2e4fb87c8084e.jpg)
-
-La **FIFA** celebró la edición de 2024 de los premios **The Best**, donde condecora a los mejores jugadores del año a nivel masculino y femenino. Para las votaciones en las dos categorías, Ecuador contó con representantes de la Selección y de la Prensa.
-
-**Vinícius Jr**., estrella brasilera del Real Madrid, y **Aitana Bonmatí**, figura del **FC Barcelona**, fueron los ganadores del premio que otorga el máximo organismo de fútbol del mundo. El primero se hizo con el galardón tras quedar en el segundo puesto del **Balón de Oro** por detrás de **Rodri**, mientras que la española triunfó en las dos distinciones.
-
-### Más noticias:
-
-* [¿Cómo se vota en los premios The Best y Balón de Oro?](https://www.elcomercio.com/deportes/futbol/como-se-vota-en-los-premios-the-best-balon-de-oro.html "¿Cómo se vota en los premios The Best y Balón de Oro?")
-* [Premios The Best 2024: Estos fueron los ganadores](https://www.elcomercio.com/deportes/premios-the-best-2024-estos-fueron-los-ganadores.html "Premios The Best 2024: Estos fueron los ganadores")
-* [Vinícius Júnior ganó el premio The Best 2024 al mejor futbolista](https://www.elcomercio.com/deportes/futbol/vinicius-junior-gano-premio-the-best-2024-al-mejor-futbolista.html "Vinícius Júnior ganó el premio The Best 2024 al mejor futbolista")
-
-Para la presente edición se mantuvo el formato de votación de las anteriores, sin embargo, se realizó una ligera inclusión. Aunque [los encargados de enviar los votos](https://www.elcomercio.com/deportes/futbol/como-se-vota-en-los-premios-the-best-balon-de-oro.html "https://www.elcomercio.com/deportes/futbol/como-se-vota-en-los-premios-the-best-balon-de-oro.html") debían ser el **DT y capitán de cada selección** -femenina y masculina- así como de **un periodista** para cada categoría, se dio la posibilidad de que los aficionados participen y su distinción sea tomada en cuenta[.](https://en.wikipedia.org/wiki/The_Best_FIFA_Football_Awards "https://en.wikipedia.org/wiki/The_Best_FIFA_Football_Awards")
-
-En el ámbito masculino, **Sebastián Beccacece**, DT de la Selección de Ecuador; **Enner Valencia**, capitán; y **Tito Rosales Cox**, representante de la prensa, fueron los encargados de votar. Dentro de la rama femenina lo hicieron **Andrés Usme**, DT de la Tri; **Ligia Moreira**, capitana; y **Juan Carlos Bailón,** desde el lado de la prensa.
-
-Los votos de Ecuador para el premio The Best masculino
-------------------------------------------------------
-
-![Rodri Hernández ganó el Balón de Oro 2024 y Vinícius Júnior ganó el The Best 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-17T155428.996-1024x683.jpg)
-
-Rodri Hernández ganó el Balón de Oro 2024 y Vinícius Júnior ganó el The Best 2024. Foto: Ballon de Oro y Real Madrid / Composición EL COMERCIO.
-
-Las votaciones entre los tres delegados de Ecuador variaron entre sí, aunque hubo nombres en los que se coincidió, salvo por el orden. El nombre común **para Valencia, Beccacece y Rosales fue el de Rodri.**
-
-**Enner Valencia** votó como el mejor posicionado para el premio The Best al ganador **Vinícius Jr.** Tras él los ubicó al alemán **Toni Kroos** y al español Rodri.
-
-**Sebastián Beccacece** puso a su compatriota **Lionel Messi** como el mejor del mundo. En segundo puesto puso a Rodri y tercero a **Lamine Yamal**.
-
-**Tito Rosales Cox** posicionó en la cima de sus elegidos a **Rodri** y como escoltas a **Vinícius Júnior** y a **Dani Carvajal.**
-
-Los votos de Ecuador para el premio The Best femenino
------------------------------------------------------
-
-![Aitana Bonmatí, ganadora del Balón de Oro Femenino 2024, también ganó el premio The Best.](https://www.elcomercio.com/wp-content/uploads/2024/10/d9db21f83b13f46067b274aa345a88e0dd76f900-1024x724.jpg)
-
-Aitana Bonmatí, ganadora del Balón de Oro Femenino 2024, también ganó el The Best. Foto: Agencia EFE.
-
-En el caso de los votantes para mejor jugadora de parte de Ecuador, un caso similar al masculino se presentó. Allí, todos los representantes del país agregaron dentro de su top tres a la ganadora **Aitana Bonmatí.**
-
-**Liga Moreira** puso en la mejor posición a **Caroline Graham Hansen**. Después ubicó a **Lindsey Horan y Aitana Bonmatí**.
-
-**Andrés Usme** dejó en primer puesto a **Horan**, segunda a **Bonmatí** y tercera **Sophia Smith**. Finalmente, **Juan Carlos Bailón** ubicó a **Aitana Bonmatí, Salma Paralluelo, Lucy Bronze** de la uno a la tres.
-
-Secuestros en Ecuador, ¿cuál es el horario preferido para cometer el delito?
-============================================================================
-
-Secuestros en Ecuador aumentan un 13% en 2024; Guayas y Los Ríos concentran los casos, con mayor incidencia en la tarde y noche.
---------------------------------------------------------------------------------------------------------------------------------
-
-![Imagen referencial de un secuestro.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-1-2.png)
-
-Entre enero y noviembre de 2024, según datos de la **Fiscalía General del Estado**, los delitos de **secuestro y secuestro extorsivo** mostraron un incremento en comparación con el mismo periodo de 2023 en Ecuador.
-
-### Más noticias
-
-* [Delito de extorsión, un mal que viven los ecuatorianos, ¿qué pasó en 2024?](https://www.elcomercio.com/actualidad/seguridad/delito-extorsion-un-mal-que-viven-los-ecuatorianos-incremento-2024.html "Delito de extorsión, un mal que viven los ecuatorianos, ¿qué pasó en 2024?")
-* [Adulto mayor falleció tras ser liberado de un secuestro en Guayaquil](https://www.elcomercio.com/actualidad/seguridad/adulto-mayor-fallece-tras-ser-liberado-secuestro-guayaquil.html "Adulto mayor falleció tras ser liberado de un secuestro en Guayaquil")
-* [Pedro Pablo Perlaza contó la experiencia de su secuestro](https://www.elcomercio.com/deportes/pedro-pablo-perlaza-secuestro-experiencia.html "Pedro Pablo Perlaza contó la experiencia de su secuestro")
-
-Los datos oficiales registran un total de **3 491 noticias del delito (NDDs)** hasta noviembre de 2024, frente a las **3 090 reportadas en el mismo lapso del año anterior**.
-
-El secuestro y sus diferentes modalidades continúan concentrándose en provincias con **alta densidad poblacional y actividad económica**.
-
-La tarde y la noche son los horarios con más incidencia, lo que coincide con momentos de mayor actividad en las ciudades. El **comportamiento de los delitos** también presenta variaciones mensuales, con picos recurrentes en los **últimos meses del año**, especialmente en provincias como **Guayas, Los Ríos y Pichincha**.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DDNL8E9B2vl/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/reel/DDNL8E9B2vl/?utm_source=ig_embed&utm_campaign=loading)
-
-Incremento en los casos de secuestro en Ecuador
------------------------------------------------
-
-En 2023, se registraron **1 643 casos de secuestro**, mientras que hasta noviembre de 2024 la cifra alcanzó los **1 761**. Este aumento representa un crecimiento del **7% en lo que va del año**. La mayoría de los casos corresponden a **secuestros no flagrantes**, donde las autoridades no logran intervenir durante la comisión del delito. **Guayas y [Pichincha](https://es.wikipedia.org/wiki/Provincia_de_Pichincha "https://es.wikipedia.org/wiki/Provincia_de_Pichincha")** concentran la mayor cantidad de casos reportados.
-
-Los secuestros consumados continúan representando la mayor proporción de los registros. En 2023, existieron **1 271 casos consumados** y hasta noviembre de 2024, la cifra aumentó a **1 300.** Las tentativas también subieron, pasando de **372 a 461 casos en el mismo periodo de comparación**.
-
-Secuestro extorsivo con mayor incidencia
-----------------------------------------
-
-El secuestro extorsivo también registró un aumento entre 2023 y 2024. Durante el año pasado, se reportaron **1 447 casos**, mientras que hasta noviembre de 2024 se contabilizan 1 730.
-
-Las provincias de **Guayas y Los Ríos** son las más afectadas, seguidas de **Pichincha y El Oro**.
-
-En los casos de secuestro extorsivo, los registros no flagrantes representan la mayor parte. Hasta noviembre de 2024, las autoridades reportaron **1 424 casos no flagrantes**, frente a 1 194 reportados en 2023. En contraste, los casos flagrantes apenas suman el **18% del total**.
-
-Distribución por provincias
----------------------------
-
-Las provincias de **Guayas, Los Ríos y Pichincha** acumulan más del 60% de los casos reportados a escala nacional.
-
-**Guayas lidera la estadística con 1 638 casos registrados** hasta noviembre de 2024, lo que representa un aumento frente a los **1 396 reportados en 2023**. En esta provincia, cantones como **Guayaquil, Durán y Milagro** concentran los registros más altos.
-
-Los Ríos ocupa el segundo lugar con un crecimiento considerable. En 2023, reportó 325 casos, mientras que hasta noviembre de 2024 la cifra escaló a 646. Quevedo y San Jacinto de Buena Fe son los cantones con mayor incidencia en esta provincia.
-
-En **Pichincha, Quito** sigue siendo el epicentro, aunque los casos **disminuyeron levemente** al pasar de 352 en 2023 a 304 hasta noviembre de 2024.
-
-Horarios y tendencias del delito
---------------------------------
-
-La mayor incidencia de los delitos ocurre durante la tarde y la noche. En 2023, la tarde **acumuló 1 004 registros y la noche 1 034**. Para 2024, los **registros aumentaron, con 1 144 casos en la tarde y 1 054 en la noche**.
-
-Estos horarios coinciden con **actividades cotidianas y de traslado**, momentos en los que las víctimas son más vulnerables.
-
-En contraste, la madrugada reporta menos casos de [secuestro](https://es.wikipedia.org/wiki/Secuestro), con **318 en 2023 y 315 hasta noviembre de 2024**. La mañana, aunque con una incidencia **menor que la tarde,** también registró aumentos en 2024, con **978 casos frente a los 734 del año anterior**.
-
-‘Karate Kid Legends’: Encuentro épico entre Ralph Macchio y Jackie Chan 
-========================================================================
-
-La nueva película ‘Karate Kid Legends’ promete cautivar a los fans.
--------------------------------------------------------------------
-
-![En ‘Karate Kid Legends’, Li Fong, el protagonista, se muda a Nueva York tras una tragedia. Foto: IMDb.](https://www.elcomercio.com/wp-content/uploads/2024/12/Karate-Kid.jpg)
-
-La nostalgia por **Karate Kid** continúa con fuerza gracias al anuncio de la nueva película, **‘Karate Kid Legends’**. Este filme marca un emocionante ‘crossover’ entre dos icónicas figuras de la franquicia: **Ralph Macchio y Jackie Chan**. La combinación de estos dos talentos promete ofrecer una experiencia única para los seguidores de la saga. 
-
-### Más noticias
-
-* [El emotivo homenaje al Sr. Miyagi que conmueve a los fans de ‘Cobra Kai’](https://www.elcomercio.com/afull/cobra-kai-sr-miyagi-homenaje-netflix.html "https://www.elcomercio.com/afull/cobra-kai-sr-miyagi-homenaje-netflix.html")
-* [Actores fallecidos de Karate Kid y Cobra Kai](https://www.elcomercio.com/tendencias/entretenimiento/actores-fallecidos-karate-kid-cobra-kai.html "https://www.elcomercio.com/tendencias/entretenimiento/actores-fallecidos-karate-kid-cobra-kai.html") 
-
-**Sinopsis y trama de ‘Karate Kid Legends’** 
----------------------------------------------
-
-En **‘Karate Kid Legends’**, la historia se centra en **Li Fong**, un joven prodigio del kung fu interpretado por **Ben Wang**. Tras una tragedia familiar, Li se muda a Nueva York con su madre, donde enfrenta retos para adaptarse a su nueva vida. Aunque inicialmente intenta evitar conflictos, se ve arrastrado a una **competición de kárate** para ayudar a un amigo. Aquí es donde el **Sr. Han**, el personaje de **Jackie Chan**, solicita la ayuda de **Daniel LaRusso (Ralph Macchio)** para entrenar a Li y fusionar sus estilos de lucha en un enfrentamiento decisivo, de acuerdo con [GQ](https://www.gq.com.mx/articulo/karate-kid-legends-de-que-trata-trailer-fecha-de-estreno-reparto "https://www.gq.com.mx/articulo/karate-kid-legends-de-que-trata-trailer-fecha-de-estreno-reparto"). 
-
-**Actores y equipo creativo** 
-------------------------------
-
-La película cuenta con un elenco destacado que incluye: 
-
-* Ralph Macchio como Daniel LaRusso 
-
-* Jackie Chan como Sr. Han 
-
-* Ben Wang como Li Fong 
-
-El **director del filme** es J**ohn G. Avildsen**, conocido por su trabajo en las películas originales de Karate Kid, lo que añade un toque nostálgico y auténtico a esta nueva entrega, presente desde el tráiler que ya ha sido lanzado. 
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DDrpeG1pl9a/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de Karate Kid (@karatekidmovie)](https://www.instagram.com/reel/DDrpeG1pl9a/?utm_source=ig_embed&utm_campaign=loading)
-
-**Fecha de estreno y expectativas** 
-------------------------------------
-
-Aunque la fecha exacta de estreno en Ecuador aún no ha sido dada, se espera que ‘Karate Kid Legends’ llegue a los cines internacionales el 30 de mayo de 2025. Esta anticipación ha generado un gran interés entre los fanáticos, especialmente en Ecuador, donde la serie **‘Cobra Kai’** ha revitalizado el interés por el **universo de Karate Kid**. La serie, que concluirá su última temporada el próximo año, ha sido fundamental para mantener viva la llama del legado, según [La Vanguardia](https://www.lavanguardia.com/andro4all/series/primer-trailer-de-la-nueva-karate-kid-que-confirma-su-fecha-de-estreno-y-en-castellano "https://www.lavanguardia.com/andro4all/series/primer-trailer-de-la-nueva-karate-kid-que-confirma-su-fecha-de-estreno-y-en-castellano"). 
-
-**Conexiones entre ‘Karate Kid’ y ‘Cobra Kai’** 
-------------------------------------------------
-
-La nueva película, tal parece, no solo se conecta con las **historias previas de ‘Karate Kid’**, sino que también establece vínculos con la popular serie ‘Cobra Kai’. Esta serie ha introducido a **nuevas generaciones al mundo del kárate** y ha explorado las vidas de los personajes clásicos **años después de los eventos originales**. El regreso de Macchio y Chan en **‘Karate Kid Legends’** refuerza esta **conexión intergeneracional** y promete atraer tanto a viejos como a nuevos aficionados. 
-
-**Impacto cultural en Ecuador** 
---------------------------------
-
-El **fenómeno Karate Kid** tiene una base sólida de **seguidores en Ecuador**. La nostalgia por las películas originales resuena profundamente en la cultura local. La llegada de ‘Cobra Kai’, y su protagonista de nacionalidad estadounidense-ecuatoriana **Xolo Maridueña (Miguel)** ha revitalizado este interés, convirtiendo a las historias de karate en un **tema popular entre jóvenes y adultos**. Este contexto cultural hace que la expectativa por **‘Karate Kid Legends’** sea aún mayor, ya que muchos esperan ver cómo se desarrollará esta nueva narrativa. 
-
-### Te recomendamos:
-
-Niño con autismo experimentó supuesta discriminación en una escuela de Quito
-============================================================================
-
-El caso del niño con autismo que enfrento una supuesta discriminación está en proceso de evaluación, en Quito.
---------------------------------------------------------------------------------------------------------------
-
-![Imagen referencial de discriminación en el ámbito escolar.](https://www.elcomercio.com/wp-content/uploads/2024/12/Ciudadana-de-Seleccion-y-Designacion-de-la-Primera-Autoridad-de-la-Defensoria-Publica-32.jpg)
-
-Un niño con **autismo y epilepsia** enfrentó supuesta discriminación en una escuela pública de Quito. El caso está en manos de autoridades de Educación[.](https://es.wikipedia.org/wiki/Quito)[](https://es.wikipedia.org/wiki/Quito)
-
-El menor tiene nueve años y no es la primera **institución educativa** por la que cursa durante su vida escolar.
-
-### Más noticias
-
-* [Caso de violación a niña genera pedido de investigación para jueces en Ecuador](https://www.elcomercio.com/actualidad/ecuador/caso-violacion-pedido-investigacion-para-jueces-ecuador.html "Caso de violación a niña genera pedido de investigación para jueces en Ecuador")
-* [Fiscalía logra sentencia para profesora que pinchaba a niño en escuela de Quito](https://www.elcomercio.com/actualidad/seguridad/fiscalia-logra-sentencia-para-profesora-que-pinchaba-a-nino-en-escuela-de-quito.html "Fiscalía logra sentencia para profesora que pinchaba a niño en escuela de Quito")
-* [Ministerio de Educación responde a caso de presunto abuso en plantel en Guayaquil](https://www.elcomercio.com/actualidad/seguridad/ministerio-educacion-responde-caso-abuso-plantel-guayaquil.html "Ministerio de Educación responde a caso de presunto abuso en plantel en Guayaquil")
-
-Caso de niño con autismo en Escuela de Quito
---------------------------------------------
-
-**Patricio Moreno**, subsecretario de Educación del Distrito Metropolitano de Quito, aseguró que se hizo un trabajo de apoyo a la educación desde el inicio del año escolar.
-
-Sobre el caso, en el que está involucrado un docente por la supuesta discriminación, indicó que ya fue separado del **grupo escolar** del menor.
-
-Hasta donde se conoció, el maestro se habría negado a enseñar al menor. Pero, los detalles aún están en evaluación.
-
-No obstante, el maestro se mantiene en la institución. Esto debido a que, apuntó Moreno, está en curso el **proceso administrativo** para determinar la responsabilidad y sanciones.
-
-La madre del niño presentó la denuncia en el **distrito educativo**, el 18 de noviembre de 2024. En ese momento, aseguró el funcionario, se activó la ruta de protección.
-
-El proceso está en manos de la **Junta de Resolución de Conflictos**, que se conforma en ese tipo de casos.
-
-> ⚠️ Las investigaciones externas son alternativas para que especialistas, instituciones públicas y privadas, organizaciones internacionales desarrollen estudios sobre el Sistema Nacional de Educación, donde los diversos actores puedan participar en el marco del derecho.  
->   
-> 📕… [pic.twitter.com/Dcxkf6uHQY](https://t.co/Dcxkf6uHQY)
-> 
-> — Ministerio de Educación del Ecuador (@Educacion\_Ec) [December 17, 2024](https://twitter.com/Educacion_Ec/status/1869132452947718248?ref_src=twsrc%5Etfw)
-
-Rutas y protocolos frente a violencia institucional
----------------------------------------------------
-
-Desde la **[Subsecretaría de Educación del Distrito Metropolitano de Quito](https://educacion.gob.ec/)** detallaron los protocolos para casos de vulneración de derechos en planteles educativos.
-
-* Cualquier miembro de la comunidad educativa que conozca de un supuesto caso de **violencia física**, psicológica o negligencia contra un niño o adolescente por parte de personal de la institución está obligado a **denunciar** ante la autoridad institucional.
-* La alerta puede realizarse en línea a través del formulario de la **Dirección Distrital** o llamando al 911 en casos de emergencia.
-* Reporte de hecho de violencia: la primera persona que tuvo conocimiento del hecho de violencia debe levantar un reporte de hecho de violencia con la descripción de la situación suscitada, sin caer en la revictimización del estudiante presunta víctima.
-* Si un caso de **violencia** no ha sido denunciado a la Fiscalía u otras unidades judiciales, cualquier miembro de la comunidad educativa que sepa del hecho debe informarlo a las autoridades competentes (Fiscalía y Dirección Distrital) para que tomen las acciones correspondientes.
-* Notificar sobre la posible **omisión de la denuncia** por parte de quienes tuvieron conocimiento del caso previamente.
-
-Pasos infaltables en los protocolos
------------------------------------
-
-* **Acercamiento con la familia:** el personal del Departamento de Consejería Estudiantil (DECE) o la autoridad educativa también debe informar al representante legal del estudiante sobre las acciones.
-* Cuando la Dirección Distrital de Educación conoce un caso de violencia, se conforma la Junta Distrital de Resolución de Conflictos, que es responsable de implementar medidas de protección.
-* Si la persona agresora forma parte de la comunidad educativa, puede ser separada mientras se lleva a cabo el debido proceso.
-* **Seguimiento** y acompañamiento del caso
-* Derivación de la presunta víctima: en caso necesario, el **DECE** debe derivar a la víctima y su familia a atención externa para apoyo emocional y tratamiento psicológico.
-* Si no hay profesionales del **DECE**, la autoridad educativa asumirá esta responsabilidad, utilizando el formato de derivación correspondiente.
-
-* * *
-
-Colegio Electoral pone a Donald Trump un paso más cerca de la Casa Blanca
-=========================================================================
-
-Los legisladores pueden hacer públicas objeciones a los certificados si consideran que hubo irregularidades.
-------------------------------------------------------------------------------------------------------------
-
-![Donald Trump durante uno de sus discursos.](https://www.elcomercio.com/wp-content/uploads/2024/12/Donald-Trump-efe-ok.jpg)
-
-Los miembros del **Colegio Electoral en Estados Unidos** se están reuniendo este martes, 17 de diciembre de 2024, en sus **respectivos estados** para elegir a Donald Trump como **nuevo presidente,** un paso más en el proceso para que el **líder republicano** llegue a la Casa Blanca el 20 de enero.
-
-### Más noticias
-
-* [Donald Trump revive debate sobre vacunas y autismo](https://www.elcomercio.com/actualidad/mundo/donald-trump-revive-debate-sobre-vacunas-y-autismo.html "Donald Trump revive debate sobre vacunas y autismo")
-* [Donald Trump invita a Javier Milei a su ceremonia de investidura presidencial](https://www.elcomercio.com/actualidad/mundo/donald-trump-javier-milei-invitacion-investidura.html "Donald Trump invita a Javier Milei a su ceremonia de investidura presidencial")
-* [Donald Trump agradece el ‘honor’ a TIME pero solo ‘habla bien’ del 25 % de sus portadas](https://www.elcomercio.com/actualidad/mundo/donald-trump-persona-ano-2024-honor-revista-time.html "Donald Trump agradece el ‘honor’ a TIME pero solo ‘habla bien’ del 25 % de sus portadas")
-
-La cita **pasó prácticamente desapercibida** a diferencia de lo **que pasó hace cuatro años**, cuando electores partidarios de Trump trataron de **reunirse en siete estados** en un intento de revertir el resultado electoral, que dio como **ganador al demócrata Joe Biden.**
-
-Algunos de esos electores que hace cuatro años intentaron formar una **votación paralela contraria** al resultado de las urnas este martes formaron parte del **cuerpo oficial de delegados** republicanos en estados como Pensilvania o Míchigan.
-
-Estados organizados durante las votaciones
-------------------------------------------
-
-La mayoría de los estados organizaron sus votaciones a primera hora de la tarde, sin que se hayan reportado incidentes.
-
-En Arizona, sin embargo, los electores **mantuvieron en secreto** el lugar de su reunión por motivos de seguridad.
-
-Trump ganó las elecciones del pasado 5 de noviembre en estados que le otorgan 312 votos en el Colegio Electoral, frente a los **224 de la candidata demócrata**, la actual vicepresidenta Kamala Harris.
-
-Una vez concluya el procedimiento de hoy, los **certificados con los resultados de los respectivos** estados se envían a Washington, donde deben estar en **manos del presidente el Senado** -en este caso Harris- y del archivista de Estados Unidos antes del 25 de diciembre.
-
-El archivista es el encargado de transferir los **certificados al nuevo Congreso**, que se forma el 3 de enero.
-
-El 6 de enero, el **nuevo Congreso** se reúne en una sesión conjunta de las dos cámaras para contar y anunciar los votos de los estados, que deben reflejar el **312 para Trump y 224 para Harris**.
-
-Objeciones de los legisladores
-------------------------------
-
-En esa sesión, los legisladores pueden **hacer públicas objeciones** a los certificados si consideran que ha habido irregularidades.
-
-Esta fecha también fue clave hace 4 años, ya que partidarios de [Donald Trump](https://es.wikipedia.org/wiki/Donald_Trump "https://es.wikipedia.org/wiki/Donald_Trump") asaltaron violentamente el Capitolio tratando de evitar el **conteo de votos que daba la victoria a Biden** mientras decenas de congresistas republicanos objetaban a los resultados.
-
-Esta vez, sin embargo, no se esperan **mayores sobresaltos** en este proceso tedioso que a lo largo de la historia ha pasado inadvertido.
-
-“Para ser honesto, me había olvidado**. Así de aburrido y sin incidentes va a ser**“, dijo en declaraciones al diario The Washington Post Gabriel Sterling, un alto funcionario electoral del estado de Georgia.
-
-Sterling tuvo un papel clave en 2020 ya que tuvo que defender el **resultado de las urnas**, que los partidarios de Trump trataron de manipular.
-
-Cortes de luz en Guayaquil este miércoles 18 de diciembre
-=========================================================
-
-Los cortes de luz en Guayaquil este miércoles 18 de diciembre son de dos horas para el sector residencial.
-----------------------------------------------------------------------------------------------------------
-
-![Los cortes de luz en Guayaquil el miércoles 18 de diciembre son definidos por CNEL.](https://www.elcomercio.com/wp-content/uploads/2024/12/cortes-luz-guayaquil-18-diciembre.jpg)
-
-Este **miércoles 18 de diciembre** de 2024 es el penúltimo día de los **cortes de luz** en **Guayaquil** y todo el país, según la proyección del Gobierno.
-
-**CNEL** publicó la programación de suspensión de energía eléctrica en la urbe porteña para mañana.
-
-### Más noticias:
-
-* [Cortes de luz no programados se aplicaron en Quito](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-no-programados-se-aplicaron-en-quito.html "Cortes de luz no programados se aplicaron en Quito")
-* [Gobierno ratifica el fin de los cortes de luz luego de más de 80 días de racionamientos](https://www.elcomercio.com/actualidad/ecuador/gobierno-ratifica-fin-cortes-luz-ecuador.html "Gobierno ratifica el fin de los cortes de luz luego de más de 80 días de racionamientos")
-
-Horarios de los cortes de luz en Guayaquil este miércoles 18 de diciembre
--------------------------------------------------------------------------
-
-El **Gobierno** mantiene su palabra de que a partir del viernes 20 de diciembre los cortes de luz programados llegarán a su fin.
-
-Por la **crisis energética**, **Ecuador** tuvo racionamientos energéticos de hasta 14 horas diarias.
-
-Los cortes empezaron en **abril**, pero se suspendieron unos días después. Se retomaron el **23 de septiembre** hasta la fecha.
-
-El Gobierno justificó su decisión de suspender los cortes de luz programados en el análisis de varios **factores**.
-
-El incremento de **lluvias** en las zonas cercanas a las **centrales hidroeléctricas**, mejoró el nivel de los caudales de los ríos y los embalses.
-
-La inversión en **proyectos emergentes** que permiten activar o reactivar la generación de energía.
-
-El último anuncio que hizo el Gobierno de Daniel Noboa es la activación de la Unidad 3 de la central **Alluriquín**, en el complejo **Toachi Pilatón**.
-
-La compra de energía a **Colombia** y la generación eléctrica privada también fueron factores importantes en medio de esta sequía.
-
-Así, **CNEL** mantiene un mismo horario de cortes de energía eléctrica para **Guayaquil** desde el lunes 16 al jueves 19 de diciembre.
-
-Son cortes de **dos horas** para el **sector residencial**, al igual que en el resto del país.
-
-A continuación, los horarios de los **cortes de luz en Guayaquil este miércoles 18 de diciembre** de 2024 por sectores:
-
-Ecuador refinancia deuda por 1 530 millones de dólares y asegura fondos para la Amazonía
-========================================================================================
-
-Ecuador refinancia 1 530 millones de dólares de deuda y destina 460 millones a conservar la Amazonía a través del Programa Biocorredor Amazónico.
--------------------------------------------------------------------------------------------------------------------------------------------------
-
-![La iniciativa busca proteger 4,6 millones de hectáreas de áreas protegidas y sumar 1,8 millones de nuevas hectáreas de bosques y humedales de la Amazonía.](https://www.elcomercio.com/wp-content/uploads/2024/12/amazonia-1712.jpg)
-
-El presidente **Daniel Noboa** presentó este martes 17 de diciembre de 2024 la primera **conversión de deuda** destinada a la conservación terrestre y de agua dulce en la Amazonía ecuatoriana. Esta medida generará beneficios financieros y ambientales para el país, al destinar recursos a la implementación del Programa Biocorredor Amazónico (BCA) y sus iniciativas de conservación[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [Canje de deuda por conservación de la Amazonía del Ecuador, ¿qué significa?](https://www.elcomercio.com/actualidad/negocios/canje-de-deuda-por-conservacion-de-la-amazonia-del-ecuador-que-significa.html "Canje de deuda por conservación de la Amazonía del Ecuador, ¿qué significa?")
-* [Déficit fiscal 2024: ¿Cómo afecta sus finanzas y qué medidas se necesitan?](https://www.elcomercio.com/actualidad/negocios/deficit-fiscal-2024-finanzas-medidas-ecuador.html "Déficit fiscal 2024: ¿Cómo afecta sus finanzas y qué medidas se necesitan?")
-* [Exportaciones mineras de Ecuador llegaron a 2 407 millones de dólares](https://www.elcomercio.com/actualidad/ecuador/exportaciones-mineras-ecuador-llegaron-a-2-407-millones-de-dolares.html "Exportaciones mineras de Ecuador llegaron a 2 407 millones de dólares")
-
-La operación refinanció aproximadamente 1 530 millones de dólares en **bonos globales** mediante un crédito de **1 000 millones de dólares** con mejores condiciones. Esto reducirá el **servicio de la deuda** (pago de capital más interés) en 816 millones de dólares hasta 2035.
-
-Así, la transacción permitió extender los plazos de vencimiento de los bonos hasta 11 años y desconcentrar pagos entre 2025 y 2040.
-
-> ¡Ecuador logra reducir 800 millones de dólares de deuda hasta 2035 para conservar la Amazonía! 🇪🇨👏  
->   
-> El presidente [@DanielNoboaOk](https://twitter.com/DanielNoboaOk?ref_src=twsrc%5Etfw) participó del anunció de la primera conversión de deuda destinada a la conservación de la Amazonía ecuatoriana. Esto permitió refinanciar… [pic.twitter.com/TWAhNw0WOD](https://t.co/TWAhNw0WOD)
-> 
-> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [December 17, 2024](https://twitter.com/Presidencia_Ec/status/1869103021625577873?ref_src=twsrc%5Etfw)
-
-El Programa Biocorredor Amazónico
----------------------------------
-
-Los recursos liberados financiarán el **Programa Biocorredor Amazónico (BCA)**. La iniciativa busca proteger 4,6 millones de hectáreas de áreas protegidas y sumar 1,8 millones de nuevas hectáreas de **bosques y humedales**.
-
-Además, busca conservar 18 000 kilómetros de ríos, promoviendo la biodiversidad y la conectividad ecológica. El programa también impulsa la bioeconomía, fortaleciendo los medios de vida de las comunidades amazónicas.
-
-“Esto es lo justo con el ambiente, con el planeta y con las futuras generaciones”, señaló Noboa. Además, destacó el esfuerzo del equipo ministerial para **concretar esta operación** que sitúa a Ecuador como **pionero en conservación** y desarrollo sostenible.
-
-Por su parte, el ministro de Economía, **Juan Carlos Vega**, explicó que la transacción mejorará la estabilidad fiscal y permitirá asegurar 460 millones de dólares para proyectos sostenibles en la Amazonía, convirtiéndose en la **mayor cifra recaudada** en este tipo de transacciones financieras. “Transformamos la **deuda en esperanza** y la **biodiversidad** en un legado para la humanidad”, dijo.
-
-Así fue el canje por conservación
----------------------------------
-
-La conversión fue posible gracias al apoyo de organismos como **The Nature Conservancy** (TNC), Corporación Financiera Internacional para el Desarrollo (DFC) del Gobierno de los Estados Unidos, que proporcionó un seguro de riesgo político por 1 000 millones de dólares. Además, el Banco Interamericano de Desarrollo (BID) otorgó una garantía parcial de liquidez por 155 millones de dólares, y el Bank of América actuó como agente estructurador de la nueva operación.
-
-Además, Ecuador se benefició del asesoramiento técnico y legal de Hogan Lovells, Enosis Capital, Centerview Partners, y Global Green Growth Institute.
-
-**Galo Medina**, de The Nature Conservancy (TNC), señaló que el **Biocorredor Amazónico** es un ejemplo de conservación y desarrollo económico, pues combina la conversión de deuda con herramientas técnicas, políticas públicas y planificación estratégica. “Este será el primer programa centrado en ecosistemas terrestres y de agua dulce. Es un modelo de gestión que se convierte en una solución integral diseñada junto a pueblos y comunidades indígenas”.
-
-Por su parte, **Diego Inclán,** representante del Instituto Nacional de Biodiversidad (Inabio), señaló que esta entidad respaldó el proceso del BCA mediante asistencia técnica y más de 40 años de estudio científico de la zona amazónica. Según los estudios ejecutados, la Amazonía alberga a más del 10% especies de flora y fauna conocidas hasta el momento. “La biodiversidad debe ser la base del desarrollo, más aún cuando se trata de un país megadiverso como el nuestro”, dijo.
-
-Los recursos generados por esta conversión de deuda serán gestionados a través del **Fondo Biocorredor Amazónico.** El programa recibirá un promedio de 19 millones de dólares anuales durante los próximos 17 años.
-
-* * *
-
-Procuraduría General del Estado se refirió a los bienes de los hermanos Isaías
-==============================================================================
-
-La Procuraduría General del Estado emitió un comunicado sobre los bienes de los hermanos Isaías luego del fallo de la Corte Constitucional.
--------------------------------------------------------------------------------------------------------------------------------------------
-
-![La Procuraduría General del Estado se pronunció sobre los bienes de los expropietarios de Filanbanco.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-17T163904.820.jpg)
-
-La **Procuraduría General del Estado (PGE)** informó que la Corte Constitucional notificó el 17 de diciembre de 2024 su **sentencia respecto a los bienes incautados** a los hermanos **William y Roberto Isaías Dassum, expropietarios de Filanbanco**.
-
-### Más noticias
-
-* [Corte Constitucional falla en contra de los hermanos Isaías](https://www.elcomercio.com/actualidad/politica/corte-constitucional-fallo-en-contra-de-los-hermanos-isaias.html "Corte Constitucional falla en contra de los hermanos Isaías")
-* [Comisión admitió impugnación contra candidata a jueza de la Corte Constitucional](https://www.elcomercio.com/actualidad/politica/comision-calificadora-admitio-impugnacion-contra-candidata-jueza-corte-constitucional.html "Comisión admitió impugnación contra candidata a jueza de la Corte Constitucional")
-* [Corte Constitucional se pronunció sobre propuesta de Daniel Noboa respecto a presos](https://www.elcomercio.com/actualidad/seguridad/corte-constitucional-pronuncio-propuesta-daniel-noboa-presos.html "Corte Constitucional se pronunció sobre propuesta de Daniel Noboa respecto a presos")
-
-La decisión deja sin efecto las **actuaciones del proceso y ratifica que los bienes permanecerán en manos del Estado ecuatoriano**.
-
-Esta acción surge tras la demanda extraordinaria de protección presentada por la PGE y otras entidades el 4 de octubre de 2022.
-
-Las demandas buscaban la **revisión de dos sentencias emitidas** en mayo y septiembre de 2022 por la **Unidad Judicial Norte 2 de Familia, Mujer, Niñez y Adolescencia de Guayaquil** y la Sala Especializada de lo Penal de la Corte Provincial del Guayas.
-
-> [#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw)| Los bienes incautados a los hermanos [#Isaías](https://twitter.com/hashtag/Isa%C3%ADas?src=hash&ref_src=twsrc%5Etfw) Dassum permanecerán en manos del Estado ecuatoriano.  
->   
-> La información:  
-> ⬇️⬇️⬇️ [pic.twitter.com/gSrnuWDJaT](https://t.co/gSrnuWDJaT)
-> 
-> — Procuraduría Ecuador (@PGEcuador) [December 17, 2024](https://twitter.com/PGEcuador/status/1869122624426754259?ref_src=twsrc%5Etfw)
-
-Ratificación de los bienes incautados
--------------------------------------
-
-La **[Corte Constitucional](https://es.wikipedia.org/wiki/Corte_Constitucional_del_Ecuador "https://es.wikipedia.org/wiki/Corte_Constitucional_del_Ecuador")** determinó que los bienes, derechos y activos incautados a los hermanos Isaías Dassum durante el **proceso de incautación seguirán bajo administración estatal**. Esto incluye el pago del precio de los bienes por parte del Estado y su vinculación con resoluciones emitidas por la Agencia de Garantías de Depósitos (AGD).
-
-El **pedido de trámite prioritario fue aceptado** por la Corte el 26 de abril de 2023, permitiendo que las alegaciones de la PGE fueran sustentadas en audiencia pública realizada el 23 de mayo del mismo año.
-
-La decisión se basa en la observancia del **precedente vinculante de la sentencia No. 364-16-SEP-CC** y en garantizar la seguridad jurídica.
-
-Actuación de jueces y futuras acciones
---------------------------------------
-
-En la resolución, la Corte Constitucional declaró el **error inexcusable por parte de los jueces de las instancias inferiores**. La decisión incluye notificar al **Consejo de la Judicatura** sobre dicha declaratoria y remitir el expediente a la **Fiscalía General del Estado**.
-
-> La Corte Constitucional anula las decisiones judiciales que favorecían a los hermanos Roberto y William Isaías Dassum, por lo que no se ejecutará la reparación integral ordenada por las sentencias de primera y segunda instancia.  
->   
-> La CC consideró que estas decisiones judiciales… [pic.twitter.com/hRPDj9WMNw](https://t.co/hRPDj9WMNw)
-> 
-> — La Voz del Tomebamba (@tomebamba) [December 17, 2024](https://twitter.com/tomebamba/status/1869074480804356425?ref_src=twsrc%5Etfw)
-
-La Fiscalía iniciará la investigación para determinar **si existen elementos que configuren delitos** como el **prevaricato**. Esto involucra la actuación de jueces de la Unidad Judicial Norte 2 de Guayaquil y de la Sala Especializada de lo Penal, Penal Militar, Penal Policial y Tránsito de la Corte Provincial del Guayas.
-
-Timothée Chalamet se transforma en Bob Dylan para la película ‘A Complete Unknown’
-==================================================================================
-
-El reto para el actor fue construir un Bob Dylan auténtico.
------------------------------------------------------------
-
-![Timothée Chalamet interpreta a Bob Dylan en la película 'A Complete Unknow'.](https://www.elcomercio.com/wp-content/uploads/2024/12/bob-dylan-El-Comercio.jpg)
-
-**Timothée Chalamet** se sumergió profundamente en la vida de Bob Dylan para interpretar al ícono en la **película ‘A Complete Unknown**‘. ¿Cómo lo hizo?
-
-Durante seis años, el actor francoestadounidense no solo aprendió a tocar la guitarra y la armónica, sino que también visitó lugares emblemáticos, como la casa de infancia de Dylan en Minnesota y el famoso Café Wha? de Nueva York.
-
-### Más noticias
-
-* **[El zombie del tráiler de ‘28 Years Later’ no es Cillian Murphy](https://www.elcomercio.com/afull/zombie-28-anos-despues.html "https://www.elcomercio.com/afull/zombie-28-anos-despues.html")**
-* **[Fallece Marisa Paredes, exchica Almodóvar](https://www.elcomercio.com/tendencias/cine/fallece-marisa-paredes-una-chica-almodovar.html "https://www.elcomercio.com/tendencias/cine/fallece-marisa-paredes-una-chica-almodovar.html")**
-
-Según Chalamet, mucho ha cambiado desde los años 60. “Ahora es más un tributo a otras leyendas, pero ya no se siente como el lugar que inspiró a Dylan”, comentó a The New York Times.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/C_S4IcRpsU3/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de Timothée Chalamet (@tchalamet)](https://www.instagram.com/p/C_S4IcRpsU3/?utm_source=ig_embed&utm_campaign=loading)
-
-**Chalamet** (28 años) genera expectativas por su actuación como Dylan, ya que es una figura relevante y popular entre generaciones jóvenes por su participación como [Paul Atreides](https://es.wikipedia.org/wiki/Paul_Atreides) en las recientes ‘Dune’ (2021), ‘Dune 2’ (2024) y ‘Wonka’ (2023).
-
-**¿Dudas iniciales?**
----------------------
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DBtWKVyvCl_/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de Timothée Chalamet (@tchalamet)](https://www.instagram.com/reel/DBtWKVyvCl_/?utm_source=ig_embed&utm_campaign=loading)
-
-La noticia de que Timothée Chalamet interpretaría a Bob Dylan generó escepticismo inicial, incluso entre colegas. Oscar Isaac, coprotagonista de Chalamet en ‘Dune’ pensó que era “una idea realmente mala”.
-
-Tras las primeras proyecciones, la actuación de Chalamet ha sido elogiada por la crítica. Según Variety, su transformación en Dylan es “hipnotizante” y “una de las interpretaciones más cautivadoras de su carrera”.
-
-Chalamet no solo actúa, sino también interpreta las canciones de Dylan. El actor confesó a AP que interpretar a una figura cultural tan trascendente fue uno de los mayores desafíos de su carrera.
-
-**Es un homenaje a un genio creativo**
---------------------------------------
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DDkn1x-TFp_/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de A Complete Unknown (@completeunknownfilm)](https://www.instagram.com/p/DDkn1x-TFp_/?utm_source=ig_embed&utm_campaign=loading)
-
-La película, que se estrena el 25 de diciembre, no se limita a contar la historia de Dylan como músico, sino que explora su impacto como pensador y figura clave en la formación de la cultura estadounidense.
-
-A sus 83 años, Dylan sigue siendo una influencia global, y Chalamet lo describe como “el artista definitivo de los últimos 60 años”.
-
-Es una figura trascendental, no solo por su legado musical, sino también por su impacto en la cultura contemporánea. Como ganador del Premio Nobel de Literatura en 2016, su habilidad para combinar poesía y música marcó un antes y un después en la industria.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DDiYIQ2yeiu/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de Levi's (@levis)](https://www.instagram.com/p/DDiYIQ2yeiu/?utm_source=ig_embed&utm_campaign=loading)
-
-Su influencia es palpable en artistas de distintas generaciones, desde cantautores como Bruce Springsteen hasta fenómenos actuales como Lana Del Rey. Además, Bob Dylan es un símbolo de resistencia creativa que se ha adaptado a lo largo de seis décadas a contextos sociales y políticos cambiantes.
-
-En un mundo donde las voces auténticas son cada vez más escasas, su vida y obra ofrecen una lección de integridad artística. Su _biopic_ no solo es un viaje al pasado, sino una reflexión sobre el poder de la música como motor de cambio y conexión universal.
-
-Tráiler de ‘A Complete Unknown’
--------------------------------
-
-Te recomendamos:
-----------------
-
-Supuesto programa de espionaje está en la mira de la Asamblea
-=============================================================
-
-Embajador de Israel en Ecuador también será convocado en el proceso de fiscalización de Pegasus.
-------------------------------------------------------------------------------------------------
-
-![Este 17 de diciembre, la Asamblea definió un proceso de fiscalización a programa de investigación.](https://www.elcomercio.com/wp-content/uploads/2024/12/pegasus.jpg)
-
-El Pleno de la **Asamblea Nacional** fiscalizará las aplicaciones del software **Pegasus**. Esta sería una herramienta de espionaje a periodistas, opositores políticos y activistas en Ecuador[.](https://es.wikipedia.org/wiki/Ecuador)[](https://es.wikipedia.org/wiki/Ecuador)
-
-Este martes, 17 de diciembre de 2024, 111 asambleístas respaldaron el proceso. El **Gobierno de Israel** fue señalado en la reunión.
-
-### Más noticias
-
-* [Reservistas de las Fuerzas Armadas se capacitarán en tácticas y tecnología](https://www.elcomercio.com/actualidad/ecuador/reservistas-fuerzas-armadas-capacitacion.html "Reservistas de las Fuerzas Armadas se capacitarán en tácticas y tecnología")
-* [Asamblea aprueba Ley sobre discriminación laboral por edad](https://www.elcomercio.com/actualidad/politica/asamblea-aprueba-ley-sobre-discriminacion-laboral-edad-consiste.html "Asamblea aprueba Ley sobre discriminación laboral por edad")
-* [Financiamiento a partidos políticos en Ecuador se tramitará en comisión ocasional de la Asamblea](https://www.elcomercio.com/actualidad/politica/financiamiento-partidos-politicos-ecuador-comision-ocasional-asamblea.html "Financiamiento a partidos políticos en Ecuador se tramitará en comisión ocasional de la Asamblea")
-
-> [#JuntosLegislamos](https://twitter.com/hashtag/JuntosLegislamos?src=hash&ref_src=twsrc%5Etfw)  
-> Presunta afectación a la intimidad de las y los ecuatorianos mediante el software [#Pegasus](https://twitter.com/hashtag/Pegasus?src=hash&ref_src=twsrc%5Etfw) será fiscalizada por la Comisión de [@SeguridadAN](https://twitter.com/SeguridadAN?ref_src=twsrc%5Etfw)  
-> Boletín[https://t.co/kSi0PLyr7H](https://t.co/kSi0PLyr7H) [pic.twitter.com/gc3r2LzgoW](https://t.co/gc3r2LzgoW)
-> 
-> — Asamblea Nacional (@AsambleaEcuador) [December 17, 2024](https://twitter.com/AsambleaEcuador/status/1869084313729597881?ref_src=twsrc%5Etfw)
-
-Programa de espionaje y la Asamblea
------------------------------------
-
-El asambleísta **Otto Vera** propuso la resolución para dar paso al proceso. Según el legislador, gobierno israelí creo la herramienta, con el objetivo de investigar a quienes forman parte del crimen organizado a escala mundial.
-
-No obstante, Vera indicó que hay denuncias en medios de comunicación nacionales sobre el uso de este software como **“herramienta de espionaje que podría poner en riesgo el derecho a la intimidad de las y los ciudadanos ecuatorianos”**.
-
-Él sostuvo que la fiscalización rigurosa es necesaria ante la presunta compra de este software por parte del **Gobierno de Ecuador**. Pidió explicaciones sobre las condiciones en las que se adquirió, así como definir las responsabilidades.
-
-La resolución sobre presunto equipo de espionaje
-------------------------------------------------
-
-La resolución aprobada por el Pleno del **[Legislativo](https://www.asambleanacional.gob.ec/es)** contiene cuatro artículos. En esta se dispone la comparecencia del director del Centro de Inteligencia Estratégica (CIES), **Michele Sensi Contugi**.
-
-El plazo para que acuda es de **10 días** y debe esclarecer los hechos relacionados con el equipo tecnológico.
-
-A la par, los legisladores decidieron oficiar a **Tzach Sarid**, embajador de Israel en Ecuador. El objetivo es que proporcione información que pueda contribuir al esclarecimiento del presunto uso del software Pegasus en el país.
-
-La **Comisión de Seguridad** tendrá que elaborar un informe sobre el caso y presentarlo al Pleno de la Asamblea. El plazo es de máximo 30 días.
-
-* * *
-
-Cortes de luz en Quito este miércoles 18 de diciembre
-=====================================================
-
-Los cortes de luz en Quito este miércoles 18 de diciembre son de dos horas en el sector residencial.
-----------------------------------------------------------------------------------------------------
-
-![Los cortes de luz en Quito este miércoles 18 de diciembre son definidos por la EEQ.](https://www.elcomercio.com/wp-content/uploads/2024/12/cortes-luz-quito-18-diciembre.jpg)
-
-Este **miércoles 18 de diciembre** de 2024 es el penúltimo día de los **cortes de luz** en **Quito** y todo el país, según la proyección del Gobierno.
-
-La **Empresa Eléctrica Quito (EEQ)** publicó la programación de suspensión de energía eléctrica en la capital para mañana.
-
-### Más noticias:
-
-* [Cortes de luz no programados se aplicaron en Quito](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-no-programados-se-aplicaron-en-quito.html "Cortes de luz no programados se aplicaron en Quito")
-* [Gobierno ratifica el fin de los cortes de luz luego de más de 80 días de racionamientos](https://www.elcomercio.com/actualidad/ecuador/gobierno-ratifica-fin-cortes-luz-ecuador.html "Gobierno ratifica el fin de los cortes de luz luego de más de 80 días de racionamientos")
-
-Horarios de los cortes de luz en Quito este miércoles 18 de diciembre
----------------------------------------------------------------------
-
-El **Gobierno** mantiene su palabra de que a partir del viernes 20 de diciembre los cortes de luz programados llegarán a su fin.
-
-Por la **crisis energética**, **Ecuador** tuvo racionamientos energéticos de hasta 14 horas diarias.
-
-Los cortes empezaron en **abril**, pero se suspendieron unos días después. Se retomaron el **23 de septiembre** hasta la fecha.
-
-El Gobierno justificó su decisión de suspender los cortes de luz programados en el análisis de varios **factores**.
-
-El incremento de **lluvias** en las zonas cercanas a las **centrales hidroeléctricas**, mejoró el nivel de los caudales de los ríos y los embalses.
-
-La inversión en **proyectos emergentes** que permiten activar o reactivar la generación de energía.
-
-El último anuncio que hizo el Gobierno de Daniel Noboa es la activación de la Unidad 3 de la central **Alluriquín**, en el complejo **Toachi Pilatón**.
-
-La compra de energía a **Colombia** y la generación eléctrica privada también fueron factores importantes en medio de esta sequía.
-
-Así, la **EEQ** mantiene un mismo horario de cortes de energía eléctrica para **Quito** desde el lunes 16 al jueves 19 de diciembre.
-
-Son cortes de **dos horas** para el **sector residencial**, al igual que en el resto del país.
-
-A continuación, los horarios de los **cortes de luz en Quito este miércoles 18 de diciembre** de 2024 por sectores:
