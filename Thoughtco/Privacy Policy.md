@@ -78,9 +78,11 @@ Close Search the site  GO
 Terms of Use and Policies
 =========================
 
-Table of Contents
+In This Article
 
-Expand
+View All
+
+In This Article
 
 * [Advertising Policy](#toc-advertising-policy)
     
