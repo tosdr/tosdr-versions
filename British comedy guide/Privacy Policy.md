@@ -140,6 +140,10 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 
 ### See also
 
+[![Only Fools And Horses. Image shows from L to R: Del (David Jason), Uncle Albert (Buster Merryfield), Rodney (Nicholas Lyndhurst). Copyright: BBC](https://cdn.comedy.co.uk/images/library/comedies/300x200/o/only_fools_and_horses_royal_flush.jpg "Only Fools And Horses. Image shows from L to R: Del (David Jason), Uncle Albert (Buster Merryfield), Rodney (Nicholas Lyndhurst). Copyright: BBC")](https://www.comedy.co.uk/quiz/337/) Quiz
+
+[Christmas Quiz 2024](https://www.comedy.co.uk/quiz/337/)
+
 [![Cerys Bradley](https://cdn.comedy.co.uk/images/library/people/300x200/c/cerys_bradley_b.jpg "Cerys Bradley")](https://www.comedy.co.uk/live/random8/cerys-bradley-2024/) Live
 
 [Random 8: Cerys Bradley](https://www.comedy.co.uk/live/random8/cerys-bradley-2024/)
@@ -151,10 +155,6 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 [![Gavin Webster](https://cdn.comedy.co.uk/images/library/people/300x200/g/gavin_webster_megaphone.jpg "Gavin Webster")](https://www.comedy.co.uk/live/fgwg/gavin-webster/) Live
 
 [First Gig, Worst Gig: Gavin Webster](https://www.comedy.co.uk/live/fgwg/gavin-webster/)
-
-[![Gavin & Stacey. Image shows left to right: Nessa (Ruth Jones), Smithy (James Corden)](https://cdn.comedy.co.uk/images/library/comedies/300x200/g/gavin_and_stacey_smithy_nessa.jpg "Gavin & Stacey. Image shows left to right: Nessa (Ruth Jones), Smithy (James Corden)")](https://www.comedy.co.uk/tv/gavin_stacey/features/the-quiz/) Shop
-
-[Gavin & Stacey: The quiz](https://www.comedy.co.uk/tv/gavin_stacey/features/the-quiz/)
 
 #### Subscribe to our newsletters
 
