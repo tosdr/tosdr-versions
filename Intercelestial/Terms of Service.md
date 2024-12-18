@@ -1,19 +1,26 @@
+[Skip to content](#main)
+
+[Intercelestial](https://intercelestial.com/ "Intercelestial")
+
+Waiting to be known
+
+[](#)
+
+[MENU](#menus)
+
 * [Home](https://intercelestial.com/)
 * [Astrobiology](https://intercelestial.com/category/astrobiology/)
 * [Astronomy](https://intercelestial.com/category/astronomy/)
 * [Astrophysics](https://intercelestial.com/category/astrophysics/)
 * [Cosmology](https://intercelestial.com/category/cosmology/)
+* 
 
-[Intercelestial](https://intercelestial.com/)
-
-* [Home](https://intercelestial.com/)
-* [Astrobiology](https://intercelestial.com/category/astrobiology/)
-* [Astronomy](https://intercelestial.com/category/astronomy/)
-* [Astrophysics](https://intercelestial.com/category/astrophysics/)
-* [Cosmology](https://intercelestial.com/category/cosmology/)
+[Homepage](https://intercelestial.com/) / Terms of Service
 
 Terms of Service
 ================
+
+By [Enigma](https://intercelestial.com/author/enigma/ "Permalink to: Enigma")Posted on July 28, 2017
 
 **1\. ACCEPTANCE OF TERMS**
 
@@ -54,77 +61,19 @@ The Site may contain links to third party websites or resources, which may or ma
 
 YOU AGREE THAT YOUR USE OF THIRD-PARTY SITES OR THIRD PARTY APPLICATIONS, SOFTWARE OR CONTENT, INCLUDING, WITHOUT LIMITATION, YOUR USE OF ANY CONTENT, INFORMATION, DATA, ADVERTISING, PRODUCTS, OR OTHER MATERIALS ON OR AVAILABLE THROUGH SUCH WEBSITES AND RESOURCES, IS AT YOUR OWN RISK AND IS SUBJECT TO THE TERMS AND CONDITIONS OF USE APPLICABLE TO SUCH SITES AND RESOURCES.
 
-#### Search
+### Search
 
-#### Recent Posts
+Search for:  
 
-[](https://intercelestial.com/nebulae-cosmic-canvases-of-creation-and-destruction/)
-
-#### [Nebulae: Cosmic Canvases of Creation and Destruction](https://intercelestial.com/nebulae-cosmic-canvases-of-creation-and-destruction/)
-
-March 18, 2024
-
-[](https://intercelestial.com/a-journey-into-the-depths-of-black-holes/)
-
-#### [A Journey into the Depths of Black Holes](https://intercelestial.com/a-journey-into-the-depths-of-black-holes/)
-
-December 16, 2023
-
-[](https://intercelestial.com/the-electromagnetic-spectrum/)
-
-#### [The Electromagnetic Spectrum](https://intercelestial.com/the-electromagnetic-spectrum/)
-
-July 18, 2023
-
-[](https://intercelestial.com/image-processing-of-big-data/)
-
-#### [Image Processing of Big Data](https://intercelestial.com/image-processing-of-big-data/)
-
-July 4, 2023
-
-[](https://intercelestial.com/the-ska-square-kilometer-array/)
-
-#### [The SKA, Square Kilometer Array](https://intercelestial.com/the-ska-square-kilometer-array/)
-
-June 18, 2023
-
-[](https://intercelestial.com/astronautics/)
-
-#### [Astronautics](https://intercelestial.com/astronautics/)
-
-June 1, 2023
-
-[](https://intercelestial.com/eht-event-horizon-telescope/)
-
-#### [EHT, Event Horizon Telescope](https://intercelestial.com/eht-event-horizon-telescope/)
-
-May 16, 2023
-
-[](https://intercelestial.com/observatories-of-big-ear-and-nancay/)
-
-#### [Observatories of Big Ear and Nançay](https://intercelestial.com/observatories-of-big-ear-and-nancay/)
-
-May 2, 2023
-
-[](https://intercelestial.com/radioastronomy/)
-
-#### [Radioastronomy](https://intercelestial.com/radioastronomy/)
-
-April 17, 2023
-
-#### Tag Cloud
-
-[Andromeda](https://intercelestial.com/tag/andromeda/)[Astronaut](https://intercelestial.com/tag/astronaut/)[Big Bang](https://intercelestial.com/tag/big-bang/)[bioastronomy](https://intercelestial.com/tag/bioastronomy/)[Black Hole](https://intercelestial.com/tag/black-hole/)[Blue Sky](https://intercelestial.com/tag/blue-sky/)[Calendar](https://intercelestial.com/tag/calendar/)[camera](https://intercelestial.com/tag/camera/)[Cluster](https://intercelestial.com/tag/cluster/)[Collision](https://intercelestial.com/tag/collision/)
-
-#### Categories
+### Categories
 
 Categories Select Category Astrobiology Astronomy Astrophysics Cosmology History Radioastronomy Techno
 
-#### Archives
+### Archives
 
 Archives Select Month March 2024 December 2023 July 2023 June 2023 May 2023 April 2023 March 2023 February 2023 January 2023 December 2022 November 2022 October 2022 September 2022 August 2022 July 2022 June 2022 May 2022 April 2022 March 2022 February 2022 January 2022 December 2021 November 2021 October 2021 September 2021 August 2021 July 2021 June 2021 May 2021 April 2021 March 2021 February 2021 January 2021 December 2020 November 2020 October 2020 August 2020 July 2020 June 2020 May 2020 March 2020 February 2020 January 2020 December 2019 November 2019 October 2019 August 2019 April 2019 January 2019 October 2018 August 2018 July 2018 May 2018 April 2018 March 2018 February 2018 January 2018 December 2017 November 2017 October 2017
 
-#### Recent Comments
+### Recent Comments
 
 * ron on [Professional Astronomy](https://intercelestial.com/professional-astronomy/comment-page-35/#comment-24991)
 * Bon on [Nebulae: Cosmic Canvases of Creation and Destruction](https://intercelestial.com/nebulae-cosmic-canvases-of-creation-and-destruction/comment-page-1/#comment-24990)
@@ -132,7 +81,7 @@ Archives Select Month March 2024 December 2023 July 2023 June 2023 May 2023 Apri
 * mattt on [The Galilean Glasses](https://intercelestial.com/the-galilean-glasses/comment-page-43/#comment-24987)
 * sifat on [Nebulae: Cosmic Canvases of Creation and Destruction](https://intercelestial.com/nebulae-cosmic-canvases-of-creation-and-destruction/comment-page-1/#comment-24985)
 
-#### Get in Touch with Us
+### Get in Touch with Us
 
 * [Contact Us](https://intercelestial.com/contact-us/)
 * [Sitemap](https://intercelestial.com/sitemap/)
@@ -141,96 +90,12 @@ Archives Select Month March 2024 December 2023 July 2023 June 2023 May 2023 Apri
 
 Close
 
-#### Search
+### The
 
-#### Recent Posts
+The stars will never be won by little minds; we must be big as space itself.
 
-[](https://intercelestial.com/nebulae-cosmic-canvases-of-creation-and-destruction/)
+### Unknown
 
-#### [Nebulae: Cosmic Canvases of Creation and Destruction](https://intercelestial.com/nebulae-cosmic-canvases-of-creation-and-destruction/)
+Our prime obligation to ourselves is to make the unknown known.
 
-March 18, 2024
-
-[](https://intercelestial.com/a-journey-into-the-depths-of-black-holes/)
-
-#### [A Journey into the Depths of Black Holes](https://intercelestial.com/a-journey-into-the-depths-of-black-holes/)
-
-December 16, 2023
-
-[](https://intercelestial.com/the-electromagnetic-spectrum/)
-
-#### [The Electromagnetic Spectrum](https://intercelestial.com/the-electromagnetic-spectrum/)
-
-July 18, 2023
-
-[](https://intercelestial.com/image-processing-of-big-data/)
-
-#### [Image Processing of Big Data](https://intercelestial.com/image-processing-of-big-data/)
-
-July 4, 2023
-
-[](https://intercelestial.com/the-ska-square-kilometer-array/)
-
-#### [The SKA, Square Kilometer Array](https://intercelestial.com/the-ska-square-kilometer-array/)
-
-June 18, 2023
-
-[](https://intercelestial.com/astronautics/)
-
-#### [Astronautics](https://intercelestial.com/astronautics/)
-
-June 1, 2023
-
-[](https://intercelestial.com/eht-event-horizon-telescope/)
-
-#### [EHT, Event Horizon Telescope](https://intercelestial.com/eht-event-horizon-telescope/)
-
-May 16, 2023
-
-[](https://intercelestial.com/observatories-of-big-ear-and-nancay/)
-
-#### [Observatories of Big Ear and Nançay](https://intercelestial.com/observatories-of-big-ear-and-nancay/)
-
-May 2, 2023
-
-[](https://intercelestial.com/radioastronomy/)
-
-#### [Radioastronomy](https://intercelestial.com/radioastronomy/)
-
-April 17, 2023
-
-#### Tag Cloud
-
-[Andromeda](https://intercelestial.com/tag/andromeda/)[Astronaut](https://intercelestial.com/tag/astronaut/)[Big Bang](https://intercelestial.com/tag/big-bang/)[bioastronomy](https://intercelestial.com/tag/bioastronomy/)[Black Hole](https://intercelestial.com/tag/black-hole/)[Blue Sky](https://intercelestial.com/tag/blue-sky/)[Calendar](https://intercelestial.com/tag/calendar/)[camera](https://intercelestial.com/tag/camera/)[Cluster](https://intercelestial.com/tag/cluster/)[Collision](https://intercelestial.com/tag/collision/)[comet](https://intercelestial.com/tag/comet/)[concept](https://intercelestial.com/tag/concept/)[Constellation](https://intercelestial.com/tag/constellation/)[Cosmos](https://intercelestial.com/tag/cosmos/)[date](https://intercelestial.com/tag/date/)
-
-#### Categories
-
-Categories Select Category Astrobiology Astronomy Astrophysics Cosmology History Radioastronomy Techno
-
-#### Archives
-
-Archives Select Month March 2024 December 2023 July 2023 June 2023 May 2023 April 2023 March 2023 February 2023 January 2023 December 2022 November 2022 October 2022 September 2022 August 2022 July 2022 June 2022 May 2022 April 2022 March 2022 February 2022 January 2022 December 2021 November 2021 October 2021 September 2021 August 2021 July 2021 June 2021 May 2021 April 2021 March 2021 February 2021 January 2021 December 2020 November 2020 October 2020 August 2020 July 2020 June 2020 May 2020 March 2020 February 2020 January 2020 December 2019 November 2019 October 2019 August 2019 April 2019 January 2019 October 2018 August 2018 July 2018 May 2018 April 2018 March 2018 February 2018 January 2018 December 2017 November 2017 October 2017
-
-#### Recent Comments
-
-* ron on [Professional Astronomy](https://intercelestial.com/professional-astronomy/comment-page-35/#comment-24991)
-* Bon on [Nebulae: Cosmic Canvases of Creation and Destruction](https://intercelestial.com/nebulae-cosmic-canvases-of-creation-and-destruction/comment-page-1/#comment-24990)
-* ss on [How to Analyze the Observations](https://intercelestial.com/how-to-analyze-the-observations/comment-page-6/#comment-24989)
-* mattt on [The Galilean Glasses](https://intercelestial.com/the-galilean-glasses/comment-page-43/#comment-24987)
-* sifat on [Nebulae: Cosmic Canvases of Creation and Destruction](https://intercelestial.com/nebulae-cosmic-canvases-of-creation-and-destruction/comment-page-1/#comment-24985)
-
-#### Get in Touch with Us
-
-* [Contact Us](https://intercelestial.com/contact-us/)
-* [Sitemap](https://intercelestial.com/sitemap/)
-* [Privacy Policy](https://intercelestial.com/privacy-policy/)
-* [Terms of Service](https://intercelestial.com/terms-of-service/)
-
-Close
-
-[Intercelestial](https://intercelestial.com/)
----------------------------------------------
-
-© 2023 - Published with [WordPress](https://wordpress.org/)
-
-[](#header)
+[Proudly powered by WordPress](https://wordpress.org/ "Proudly powered by WordPress") / [Theme: Superfast](https://www.idtheme.com/superfast/ "Theme: Superfast")
