@@ -331,6 +331,8 @@ Privacy
 
 [Tesla Vehicle Data Processing Terms and Conditions](https://enphase.com/legal/tesla-vehicle-data-processing-terms-and-conditions)
 
+[Privacy Policy Brazil](https://enphase.com/legal/privacy-policy)
+
 Sales
 
 [Sales Terms and Conditions](https://enphase.com/legal/sales-terms-and-conditions)
@@ -509,11 +511,11 @@ Your session expired. Please login again to continue to purchase.
     * [Communication](https://enphase.com/installers/communication)
     * [System builder](https://enphase.com/installers/systems)
     * [Microinverters](https://enphase.com/installers/microinverters)
-    * [EV chargers](https://enphase.com/installers/ev-chargers)
+    * [EV chargers](https://enphase.com/node/14356)
     * [Accessories](https://enphase.com/installers/accessories)
     * [Apps](https://enphase.com/installers/apps)
     * [Documentation](https://enphase.com/installers/resources/documentation)
-    * [Training](https://enphase.com/installers/training)
+    * [Training](https://enphase.com/installers/training-and-certifications)
     * [Resources](https://enphase.com/installers/resources)
     * [O&M Marketplace](https://enphase.com/installers/om-marketplace)
     * [Leads Program](https://start.enphase.com/appointments-program-signup)
