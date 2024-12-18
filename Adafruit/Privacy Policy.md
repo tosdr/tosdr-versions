@@ -410,9 +410,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Flexibility is the key to stability”
+“ Human history becomes more and more a race between education and catastrophe”
 
-[John Wooden](http://en.wikipedia.org/wiki/John_Wooden)
+[H. G. Wells](http://en.wikipedia.org/wiki/H._G._Wells)
 
 [](https://www.adafruit.com/about)
 
