@@ -20,6 +20,22 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Lifelong fan George Farmer said the visit 'lifted his spirits'](https://southwarknews.co.uk/wp-content/uploads/2024/12/Charlton-Xmas-2024-Visit_81-360x180.jpeg)](https://southwarknews.co.uk/news/charlton-athletic-football-stars-surprise-hospital-patients-with-christmas-cheer-and-gifts/)
+    
+    ### [Charlton Athletic football stars surprise hospital patients with Christmas cheer and gifts](https://southwarknews.co.uk/news/charlton-athletic-football-stars-surprise-hospital-patients-with-christmas-cheer-and-gifts/)
+    
+    [![The garages on New James Court Estate in Scylla Road](https://southwarknews.co.uk/wp-content/uploads/2024/12/Scylla-Road-1-360x180.png)](https://southwarknews.co.uk/area/peckham/council-wants-to-transform-peckham-garage-site-into-affordable-homes/)
+    
+    ### [Council wants to transform Peckham garage site into affordable homes](https://southwarknews.co.uk/area/peckham/council-wants-to-transform-peckham-garage-site-into-affordable-homes/)
+    
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/12/CREDIT-@georgethomasbell-copy-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/local-beer-global-literature-and-events-to-spark-creativity-at-bermondseys-morocco-bound/)
+    
+    ### [Local beer, global literature and events to spark creativity at Bermondsey’s Morocco Bound](https://southwarknews.co.uk/area/bermondsey/local-beer-global-literature-and-events-to-spark-creativity-at-bermondseys-morocco-bound/) 
+    
+    [![The Save Our Safer Streets group took to the High Court on as part of a legal challenge against Tower Hamlets Council. Photo from Noah Vickers/LDRS](https://southwarknews.co.uk/wp-content/uploads/2024/12/The-Save-Our-Safer-Streets-group-360x180.jpg)](https://southwarknews.co.uk/area/london/what-impact-will-the-high-court-ruling-on-low-traffic-neighbours-have-for-other-boroughs/)
+    
+    ### [What impact will the High Court ruling on low traffic neighbours have for other boroughs?](https://southwarknews.co.uk/area/london/what-impact-will-the-high-court-ruling-on-low-traffic-neighbours-have-for-other-boroughs/)
+    
     [![MP Neil Coyle in his constituency office](https://southwarknews.co.uk/wp-content/uploads/2023/04/nc-360x180.png)](https://southwarknews.co.uk/area/rotherhithe/i-will-wont-shy-away-from-challenging-southwark-council-or-transport-for-london-writes-mp-neil-coyle/)
     
     ### [‘I will won’t shy away from challenging Southwark Council or Transport for London’, writes MP Neil Coyle](https://southwarknews.co.uk/area/rotherhithe/i-will-wont-shy-away-from-challenging-southwark-council-or-transport-for-london-writes-mp-neil-coyle/)
@@ -39,22 +55,6 @@
     [![Rotherhithe Tunnel. Image Google](https://southwarknews.co.uk/wp-content/uploads/2024/12/Rotherhithe-Tunnel-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/plans-to-close-rotherhithe-tunnel-for-nine-month-delayed-to-2026/)
     
     ### [Plans to close Rotherhithe Tunnel for nine months delayed to 2026](https://southwarknews.co.uk/area/rotherhithe/plans-to-close-rotherhithe-tunnel-for-nine-month-delayed-to-2026/)
-    
-    [![Miatta Fahnbulleh](https://southwarknews.co.uk/wp-content/uploads/2024/01/Miatta-Fahnbulleh-e1704998877172-360x180.jpeg)](https://southwarknews.co.uk/news/community/our-warm-home-plans-will-help-people-save-money-says-peckham-mp/)
-    
-    ### [‘Our Warm Home Plans will help people save money’ says Peckham MP](https://southwarknews.co.uk/news/community/our-warm-home-plans-will-help-people-save-money-says-peckham-mp/)
-    
-    [![Bermondsey and Old Southwark MP Neil Coyle (left) and Iqbal Mohamed, MP for Dewsbury (right)](https://southwarknews.co.uk/wp-content/uploads/2024/12/Bermondsey-and-Old-Southwark-MP-Neil-Coyle-left-and-Iqbal-Mohamed-MP-for-Dewsbury-right-360x180.png)](https://southwarknews.co.uk/area/bermondsey/labour-mp-slams-independent-mp-who-argued-against-banning-first-cousin-marriage/)
-    
-    ### [Labour MP slams independent MP who argued against banning first-cousin marriage](https://southwarknews.co.uk/area/bermondsey/labour-mp-slams-independent-mp-who-argued-against-banning-first-cousin-marriage/)
-    
-    [![L: Umana Yana owner, Debbie Monfries. R: Debbie with rapper Central Cee when he visited her shop.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-16-12-2024-at-14.50-360x180.jpg)](https://southwarknews.co.uk/area/herne-hill/herne-hill-restaurant-owner-to-host-free-soup-kitchen-funded-by-rapper-central-cee/)
-    
-    ### [Herne Hill restaurant owner to host free soup kitchen funded by rapper Central Cee](https://southwarknews.co.uk/area/herne-hill/herne-hill-restaurant-owner-to-host-free-soup-kitchen-funded-by-rapper-central-cee/)
-    
-    [![The Aylesham Centre's central arcade filled with handcart traders](https://southwarknews.co.uk/wp-content/uploads/2024/12/Screenshot-2024-12-14-at-09.44.12-745x560-1-360x180.png)](https://southwarknews.co.uk/featured/berkeley-drops-aylesham-centre-affordable-housing-offer-to-12-per-cent/)
-    
-    ### [Berkeley drops Aylesham Centre affordable housing offer to 12 per cent](https://southwarknews.co.uk/featured/berkeley-drops-aylesham-centre-affordable-housing-offer-to-12-per-cent/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +105,22 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Lifelong fan George Farmer said the visit 'lifted his spirits'](https://southwarknews.co.uk/wp-content/uploads/2024/12/Charlton-Xmas-2024-Visit_81-360x180.jpeg)](https://southwarknews.co.uk/news/charlton-athletic-football-stars-surprise-hospital-patients-with-christmas-cheer-and-gifts/)
+    
+    ### [Charlton Athletic football stars surprise hospital patients with Christmas cheer and gifts](https://southwarknews.co.uk/news/charlton-athletic-football-stars-surprise-hospital-patients-with-christmas-cheer-and-gifts/)
+    
+    [![The garages on New James Court Estate in Scylla Road](https://southwarknews.co.uk/wp-content/uploads/2024/12/Scylla-Road-1-360x180.png)](https://southwarknews.co.uk/area/peckham/council-wants-to-transform-peckham-garage-site-into-affordable-homes/)
+    
+    ### [Council wants to transform Peckham garage site into affordable homes](https://southwarknews.co.uk/area/peckham/council-wants-to-transform-peckham-garage-site-into-affordable-homes/)
+    
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/12/CREDIT-@georgethomasbell-copy-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/local-beer-global-literature-and-events-to-spark-creativity-at-bermondseys-morocco-bound/)
+    
+    ### [Local beer, global literature and events to spark creativity at Bermondsey’s Morocco Bound](https://southwarknews.co.uk/area/bermondsey/local-beer-global-literature-and-events-to-spark-creativity-at-bermondseys-morocco-bound/) 
+    
+    [![The Save Our Safer Streets group took to the High Court on as part of a legal challenge against Tower Hamlets Council. Photo from Noah Vickers/LDRS](https://southwarknews.co.uk/wp-content/uploads/2024/12/The-Save-Our-Safer-Streets-group-360x180.jpg)](https://southwarknews.co.uk/area/london/what-impact-will-the-high-court-ruling-on-low-traffic-neighbours-have-for-other-boroughs/)
+    
+    ### [What impact will the High Court ruling on low traffic neighbours have for other boroughs?](https://southwarknews.co.uk/area/london/what-impact-will-the-high-court-ruling-on-low-traffic-neighbours-have-for-other-boroughs/)
+    
     [![MP Neil Coyle in his constituency office](https://southwarknews.co.uk/wp-content/uploads/2023/04/nc-360x180.png)](https://southwarknews.co.uk/area/rotherhithe/i-will-wont-shy-away-from-challenging-southwark-council-or-transport-for-london-writes-mp-neil-coyle/)
     
     ### [‘I will won’t shy away from challenging Southwark Council or Transport for London’, writes MP Neil Coyle](https://southwarknews.co.uk/area/rotherhithe/i-will-wont-shy-away-from-challenging-southwark-council-or-transport-for-london-writes-mp-neil-coyle/)
@@ -124,22 +140,6 @@ View All Result
     [![Rotherhithe Tunnel. Image Google](https://southwarknews.co.uk/wp-content/uploads/2024/12/Rotherhithe-Tunnel-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/plans-to-close-rotherhithe-tunnel-for-nine-month-delayed-to-2026/)
     
     ### [Plans to close Rotherhithe Tunnel for nine months delayed to 2026](https://southwarknews.co.uk/area/rotherhithe/plans-to-close-rotherhithe-tunnel-for-nine-month-delayed-to-2026/)
-    
-    [![Miatta Fahnbulleh](https://southwarknews.co.uk/wp-content/uploads/2024/01/Miatta-Fahnbulleh-e1704998877172-360x180.jpeg)](https://southwarknews.co.uk/news/community/our-warm-home-plans-will-help-people-save-money-says-peckham-mp/)
-    
-    ### [‘Our Warm Home Plans will help people save money’ says Peckham MP](https://southwarknews.co.uk/news/community/our-warm-home-plans-will-help-people-save-money-says-peckham-mp/)
-    
-    [![Bermondsey and Old Southwark MP Neil Coyle (left) and Iqbal Mohamed, MP for Dewsbury (right)](https://southwarknews.co.uk/wp-content/uploads/2024/12/Bermondsey-and-Old-Southwark-MP-Neil-Coyle-left-and-Iqbal-Mohamed-MP-for-Dewsbury-right-360x180.png)](https://southwarknews.co.uk/area/bermondsey/labour-mp-slams-independent-mp-who-argued-against-banning-first-cousin-marriage/)
-    
-    ### [Labour MP slams independent MP who argued against banning first-cousin marriage](https://southwarknews.co.uk/area/bermondsey/labour-mp-slams-independent-mp-who-argued-against-banning-first-cousin-marriage/)
-    
-    [![L: Umana Yana owner, Debbie Monfries. R: Debbie with rapper Central Cee when he visited her shop.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-16-12-2024-at-14.50-360x180.jpg)](https://southwarknews.co.uk/area/herne-hill/herne-hill-restaurant-owner-to-host-free-soup-kitchen-funded-by-rapper-central-cee/)
-    
-    ### [Herne Hill restaurant owner to host free soup kitchen funded by rapper Central Cee](https://southwarknews.co.uk/area/herne-hill/herne-hill-restaurant-owner-to-host-free-soup-kitchen-funded-by-rapper-central-cee/)
-    
-    [![The Aylesham Centre's central arcade filled with handcart traders](https://southwarknews.co.uk/wp-content/uploads/2024/12/Screenshot-2024-12-14-at-09.44.12-745x560-1-360x180.png)](https://southwarknews.co.uk/featured/berkeley-drops-aylesham-centre-affordable-housing-offer-to-12-per-cent/)
-    
-    ### [Berkeley drops Aylesham Centre affordable housing offer to 12 per cent](https://southwarknews.co.uk/featured/berkeley-drops-aylesham-centre-affordable-housing-offer-to-12-per-cent/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -239,6 +239,12 @@ This site uses cookies – small text files that are placed on your machine to h
 
 ### Featured Articles
 
+[![The garages on New James Court Estate in Scylla Road](https://southwarknews.co.uk/wp-content/uploads/2024/12/Scylla-Road-1-120x86.png)](https://southwarknews.co.uk/area/peckham/council-wants-to-transform-peckham-garage-site-into-affordable-homes/)
+
+### [Council wants to transform Peckham garage site into affordable homes](https://southwarknews.co.uk/area/peckham/council-wants-to-transform-peckham-garage-site-into-affordable-homes/)
+
+[18th December 2024](https://southwarknews.co.uk/area/peckham/council-wants-to-transform-peckham-garage-site-into-affordable-homes/)
+
 [![Left to right: Max Fiddimore, Brian Skipper and Valerie all heaped praise on the Poundland on Lordship Lane](https://southwarknews.co.uk/wp-content/uploads/2024/12/Left-to-right-Max-Fiddimore-Brian-Skipper-and-Valerie-all-heaped-praise-on-the-Poundland-on-Lordship-Lane-120x86.png)](https://southwarknews.co.uk/area/dulwich/fig-biscuits-and-budget-bubbly-how-britains-poshest-poundland-shop-proved-a-surprising-success/)
 
 ### [Fig biscuits and budget bubbly: How Britain’s poshest Poundland shop proved a surprising success](https://southwarknews.co.uk/area/dulwich/fig-biscuits-and-budget-bubbly-how-britains-poshest-poundland-shop-proved-a-surprising-success/)
@@ -268,12 +274,6 @@ This site uses cookies – small text files that are placed on your machine to h
 ### [Berkeley drops Aylesham Centre affordable housing offer to 12 per cent](https://southwarknews.co.uk/featured/berkeley-drops-aylesham-centre-affordable-housing-offer-to-12-per-cent/)
 
 [16th December 2024](https://southwarknews.co.uk/featured/berkeley-drops-aylesham-centre-affordable-housing-offer-to-12-per-cent/)
-
-[![(photo: London Fire Brigade)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-29-10-2024-at-10.03-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-fire-four-rescued-as-firefighters-urge-smoking-safety/)
-
-### [Bermondsey fire: Four rescued as firefighters urge smoking safety](https://southwarknews.co.uk/area/bermondsey/bermondsey-fire-four-rescued-as-firefighters-urge-smoking-safety/)
-
-[16th December 2024](https://southwarknews.co.uk/area/bermondsey/bermondsey-fire-four-rescued-as-firefighters-urge-smoking-safety/)
 
 ### USEFUL PAGES
 
