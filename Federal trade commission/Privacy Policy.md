@@ -226,7 +226,7 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [Federal Trade Commission Announces Bipartisan Rule Banning Junk Ticket and Hotel Fees](https://www.ftc.gov/news-events/news/press-releases/2024/12/federal-trade-commission-announces-bipartisan-rule-banning-junk-ticket-hotel-fees)
+    ### [FTC Hosts Virtual Workshop on Predatory Pricing](https://www.ftc.gov/news-events/news/press-releases/2024/12/ftc-hosts-virtual-workshop-predatory-pricing)
     
     December 17, 2024
     
