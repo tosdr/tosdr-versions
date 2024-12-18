@@ -24,7 +24,7 @@ If you set up your account in one of our apps via Facebook, Apple ID, or other t
 
 The login information stored by us will be removed when you delete the account.
 
-You can always request the removal of your account and all related data by [contacting our support team](mailto:support@pho.to). See more in REMOVE YOUR PERSONAL INFORMATION.
+You can always delete your account and related data yourself or request the deletion by [contacting our support team](mailto:support@pho.to). See more in REMOVE YOUR PERSONAL INFORMATION.
 
 TECHNICAL INFORMATION
 ---------------------
@@ -35,7 +35,7 @@ When you use a website or mobile application like ours, certain internet and net
 
 **Cookie data**. We use "cookies" and similar technologies to collect log data and operate our services. You can learn more about how we use cookies in "COOKIES" below.
 
-**Device data**. We collect and combine data about the devices you use to access our Mobile apps and Services, including, but not limited to, device type and model, operating system, time zone, app store country, battery level, device usage and activity.
+**Device information**. We collect and combine data about the devices you use to access our Mobile apps and Services, including, but not limited to, device type and model, operating system, time zone, app store country, battery level, device usage and activity.
 
 **Metadata of visual information**. We collect the metadata linked to your content. For example, your images may be accompanied by additional content like a hashtag (e.g., to mark keywords), comments. This makes your content more searchable by others and more interactive.
 
