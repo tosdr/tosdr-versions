@@ -1,5 +1,3 @@
-[Breaking: Georgia GOP electors formally vote for Trump, in contrast to 2020 drama](https://www.ajc.com/politics/georgia-gop-electors-formally-vote-for-trump-in-contrast-to-2020-drama/HFQK7BHGPVBR5C2ZILPEMVRBEM/)
-
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1891)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1891)](https://www.ajc.com/)
 
 Log In
