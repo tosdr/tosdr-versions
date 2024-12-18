@@ -15,6 +15,11 @@
     
     [See All](https://www.coolthings.com/gadgets/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/insta360-connect-ai-video-camera-bar-dual-4k-camera-videoconferencing-meetings/)
+    
+    [Insta360 Connect Brings the Outfit’s AI -Powered Video Capture to Videoconferencing Systems](https://www.coolthings.com/insta360-connect-ai-video-camera-bar-dual-4k-camera-videoconferencing-meetings/)
+    ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/supernote-a5-x2-manta-e-ink-tablet-puts-note-taking-and-reparability-at-the-forefront/)
     
     [Supernote A5 X2 Manta E-Ink Tablet Puts Note-Taking and Reparability at the Forefront](https://www.coolthings.com/supernote-a5-x2-manta-e-ink-tablet-puts-note-taking-and-reparability-at-the-forefront/)
@@ -24,11 +29,6 @@
     
     [The Best Smart Thermostats for More Energy-Efficient Heating and Cooling](https://www.coolthings.com/the-best-smart-thermostats-for-more-energy-efficient-heating-and-cooling/)
     --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/raspberry-pi-500-keyboard-computer-capable-affordable-desktop-pc-setup/)
-    
-    [Raspberry Pi 500 Keyboard Computer Gives You a Capable and Affordable Productivity Machine](https://www.coolthings.com/raspberry-pi-500-keyboard-computer-capable-affordable-desktop-pc-setup/)
-    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
 * [GIFTS](http://www.coolthings.com/gifts/)
     
@@ -43,6 +43,11 @@
     
     [See All](https://www.coolthings.com/gear/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/camelbak-pro-8-pocket-tool-belt-hydration-flask-handyman-diy/)
+    
+    [Camelbak Pro 8-Pocket Tool Belt Adds Proper Hydration to Your Handyman Setup](https://www.coolthings.com/camelbak-pro-8-pocket-tool-belt-hydration-flask-handyman-diy/)
+    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-ergonomic-seat-cushions-for-more-comfortable-workdays/)
     
     [The Best Ergonomic Seat Cushions for More Comfortable Workdays](https://www.coolthings.com/the-best-ergonomic-seat-cushions-for-more-comfortable-workdays/)
@@ -52,11 +57,6 @@
     
     [Imalent LD35 EDC Flashlight Comes with a Charging Case to Triple Its Battery Life](https://www.coolthings.com/imalent-ld35-1200-lumen-edc-flashlight-wireless-charging-case-triple-battery-life/)
     --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-photography-gifts-for-pros-and-enthusiasts-alike/)
-    
-    [The Best Photography Gifts for Pros and Enthusiasts Alike](https://www.coolthings.com/the-best-photography-gifts-for-pros-and-enthusiasts-alike/)
-    --------------------------------------------------------------------------------------------------------------------------------------------------
     
     * [OUTDOOR GEAR](http://www.coolthings.com/tag/outdoor-gear/)
     * [CAMPING GEAR](http://www.coolthings.com/tag/camping-gear/)
