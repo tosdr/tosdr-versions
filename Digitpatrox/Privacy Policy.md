@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Tuesday, December 17 2024
+Wednesday, December 18 2024
 
 Latest
 
-* [Ransomware gang says it hacked MA community clinic, stole medical records](https://digitpatrox.com/ransomware-gang-says-it-hacked-ma-community-clinic-stole-medical-records/)
-* [‘SaaS dependency’ is becoming a major issue for tech leaders](https://digitpatrox.com/saas-dependency-is-becoming-a-major-issue-for-tech-leaders/)
-* [Blood in the iPhones? Apple faces criminal charges – Computerworld](https://digitpatrox.com/blood-in-the-iphones-apple-faces-criminal-charges-computerworld/)
-* [How to Identify a Fake Screenshot](https://digitpatrox.com/how-to-identify-a-fake-screenshot/)
-* [Is Shein safe? Examining Shein’s privacy and security risks](https://digitpatrox.com/is-shein-safe-examining-sheins-privacy-and-security-risks/)
-* [The Best Toilet Paper for You—and Your Plumbing](https://digitpatrox.com/the-best-toilet-paper-for-you-and-your-plumbing/)
-* [The Best PlayStation Games and Accessories to Gift These Holidays](https://digitpatrox.com/the-best-playstation-games-and-accessories-to-gift-these-holidays/)
-* [Government says breach to AWS-hosted MoD AI recruitment tool would have “concerning consequences”](https://digitpatrox.com/government-says-breach-to-aws-hosted-mod-ai-recruitment-tool-would-have-concerning-consequences/)
-* [Astrill VPN Review: Features, Performance, and Insights](https://digitpatrox.com/astrill-vpn-review-features-performance-and-insights/)
-* [Huge Crocs holiday sale is live — 11 last-minute deals you can shop now from $12](https://digitpatrox.com/huge-crocs-holiday-sale-is-live-11-last-minute-deals-you-can-shop-now-from-12/)
+* [The 33 best gifts under $50 for 2024](https://digitpatrox.com/the-33-best-gifts-under-50-for-2024/)
+* [NYT Strands Today: Hints and Answers for December 18, 2024](https://digitpatrox.com/nyt-strands-today-hints-and-answers-for-december-18-2024/)
+* [Top CIO strategies for 2025: How to optimize IT budgets and innovate with lean teams](https://digitpatrox.com/top-cio-strategies-for-2025-how-to-optimize-it-budgets-and-innovate-with-lean-teams/)
+* [Enterprise buyer’s guide: How to choose videoconferencing software](https://digitpatrox.com/enterprise-buyers-guide-how-to-choose-videoconferencing-software/)
+* [This Nvidia App Setting Is Tanking Your Frame Rate](https://digitpatrox.com/this-nvidia-app-setting-is-tanking-your-frame-rate/)
+* [How to Disable Antivirus Software](https://digitpatrox.com/how-to-disable-antivirus-software/)
+* [Best Cars and SUVs for Tall People](https://digitpatrox.com/best-cars-and-suvs-for-tall-people/)
+* [Boost Your Video Shooting Skills By Learning These Videography Terms](https://digitpatrox.com/boost-your-video-shooting-skills-by-learning-these-videography-terms/)
+* [What do security pros want from generative AI?](https://digitpatrox.com/what-do-security-pros-want-from-generative-ai/)
+* [CrowdStrike Survey Highlights Security Challenges in AI Adoption](https://digitpatrox.com/crowdstrike-survey-highlights-security-challenges-in-ai-adoption/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/12/Ransomware-gang-says-it-hacked-MA-community-clinic-stole-medical-records.jpg)](https://digitpatrox.com/ransomware-gang-says-it-hacked-ma-community-clinic-stole-medical-records/)
+* [![](https://cdn.vox-cdn.com/thumbor/8fdYK1P8ix8cZOwpdc-5zu9wgDk=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25703947/247215_Holiday_GG_2024_AKrales_UNER_50_LEDE_2040x1360.jpg)](https://digitpatrox.com/the-33-best-gifts-under-50-for-2024/)
     
-    [Ransomware gang says it hacked MA community clinic, stole medical records](https://digitpatrox.com/ransomware-gang-says-it-hacked-ma-community-clinic-stole-medical-records/)
+    [The 33 best gifts under $50 for 2024](https://digitpatrox.com/the-33-best-gifts-under-50-for-2024/)
     
-    25 minutes ago
+    1 minute ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/CC249pBxH82zX3YQ6i6kB7-1200-80.jpg)](https://digitpatrox.com/saas-dependency-is-becoming-a-major-issue-for-tech-leaders/)
+* [![](https://beebom.com/wp-content/uploads/2024/07/strands-today-hints-and-answers.jpg?w=1252&quality=75)](https://digitpatrox.com/nyt-strands-today-hints-and-answers-for-december-18-2024/)
     
-    [‘SaaS dependency’ is becoming a major issue for tech leaders](https://digitpatrox.com/saas-dependency-is-becoming-a-major-issue-for-tech-leaders/)
+    [NYT Strands Today: Hints and Answers for December 18, 2024](https://digitpatrox.com/nyt-strands-today-hints-and-answers-for-december-18-2024/)
     
-    53 minutes ago
+    17 minutes ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3626463-0-51500100-1734457067-original.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/blood-in-the-iphones-apple-faces-criminal-charges-computerworld/)
+* [![](https://cdn.mos.cms.futurecdn.net/huUYWiTDzfrCSp7ksHa8GH-1200-80.jpg)](https://digitpatrox.com/top-cio-strategies-for-2025-how-to-optimize-it-budgets-and-innovate-with-lean-teams/)
     
-    [Blood in the iPhones? Apple faces criminal charges – Computerworld](https://digitpatrox.com/blood-in-the-iphones-apple-faces-criminal-charges-computerworld/)
-    
-    1 hour ago
-    
-* [![](https://lifehacker.com/imagery/articles/01JFAB18XB5VWPJ4QZ4D885PR8/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/how-to-identify-a-fake-screenshot/)
-    
-    [How to Identify a Fake Screenshot](https://digitpatrox.com/how-to-identify-a-fake-screenshot/)
+    [Top CIO strategies for 2025: How to optimize IT budgets and innovate with lean teams](https://digitpatrox.com/top-cio-strategies-for-2025-how-to-optimize-it-budgets-and-innovate-with-lean-teams/)
     
     2 hours ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/12/Is-Shein-safe_.jpg)](https://digitpatrox.com/is-shein-safe-examining-sheins-privacy-and-security-risks/)
+* [![](https://us.resources.computerworld.com/wp-content/uploads/2024/12/default_image1734461443.4734.png)](https://digitpatrox.com/enterprise-buyers-guide-how-to-choose-videoconferencing-software/)
     
-    [Is Shein safe? Examining Shein’s privacy and security risks](https://digitpatrox.com/is-shein-safe-examining-sheins-privacy-and-security-risks/)
+    [Enterprise buyer’s guide: How to choose videoconferencing software](https://digitpatrox.com/enterprise-buyers-guide-how-to-choose-videoconferencing-software/)
     
     2 hours ago
+    
+* [![](https://lifehacker.com/imagery/articles/01JFB5F3KX9VJW0G144TG9FK9Q/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/this-nvidia-app-setting-is-tanking-your-frame-rate/)
+    
+    [This Nvidia App Setting Is Tanking Your Frame Rate](https://digitpatrox.com/this-nvidia-app-setting-is-tanking-your-frame-rate/)
+    
+    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,39 +208,39 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [25 minutes ago
+* [1 minute ago
     
-    ### Ransomware gang says it hacked MA community clinic, stole medical records](https://digitpatrox.com/ransomware-gang-says-it-hacked-ma-community-clinic-stole-medical-records/)
-* [53 minutes ago
+    ### The 33 best gifts under $50 for 2024](https://digitpatrox.com/the-33-best-gifts-under-50-for-2024/)
+* [17 minutes ago
     
-    ### ‘SaaS dependency’ is becoming a major issue for tech leaders](https://digitpatrox.com/saas-dependency-is-becoming-a-major-issue-for-tech-leaders/)
-* [1 hour ago
+    ### NYT Strands Today: Hints and Answers for December 18, 2024](https://digitpatrox.com/nyt-strands-today-hints-and-answers-for-december-18-2024/)
+* [2 hours ago
     
-    ### Blood in the iPhones? Apple faces criminal charges – Computerworld](https://digitpatrox.com/blood-in-the-iphones-apple-faces-criminal-charges-computerworld/)
+    ### Top CIO strategies for 2025: How to optimize IT budgets and innovate with lean teams](https://digitpatrox.com/top-cio-strategies-for-2025-how-to-optimize-it-budgets-and-innovate-with-lean-teams/)
 
 Most Popular Topics
 
-* [4 weeks ago
+* [October 25, 2024
     
-    ### Smart Appliances Could Expose Your WiFi to Hacking Risks](https://digitpatrox.com/smart-appliances-could-expose-your-wifi-to-hacking-risks/)
-* [August 20, 2024
+    ### How to Make the Perfect Cup or Pot of Tea](https://digitpatrox.com/how-to-make-the-perfect-cup-or-pot-of-tea/)
+* [6 days ago
     
-    ### Data center vacancy rates are nosediving in Europe – here’s why that could be a problem](https://digitpatrox.com/data-center-vacancy-rates-are-nosediving-in-europe-heres-why-that-could-be-a-problem/)
+    ### Google’s Gemini 2.0 Is All About Efficiency](https://digitpatrox.com/googles-gemini-2-0-is-all-about-efficiency/)
 * [September 13, 2024
     
-    ### My Favorite Amazon Deal of the Day: Hisense 65-Inch Class U8](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-hisense-65-inch-class-u8/)
+    ### United Airlines is adding free Starlink Wi-Fi to all of its planes](https://digitpatrox.com/united-airlines-is-adding-free-starlink-wi-fi-to-all-of-its-planes/)
 
 Last Modified Topics
 
-* [2 hours ago
-    
-    ### The Best PlayStation Games and Accessories to Gift These Holidays](https://digitpatrox.com/the-best-playstation-games-and-accessories-to-gift-these-holidays/)
 * [3 hours ago
     
-    ### Government says breach to AWS-hosted MoD AI recruitment tool would have “concerning consequences”](https://digitpatrox.com/government-says-breach-to-aws-hosted-mod-ai-recruitment-tool-would-have-concerning-consequences/)
+    ### Best Cars and SUVs for Tall People](https://digitpatrox.com/best-cars-and-suvs-for-tall-people/)
 * [3 hours ago
     
-    ### Astrill VPN Review: Features, Performance, and Insights](https://digitpatrox.com/astrill-vpn-review-features-performance-and-insights/)
+    ### Boost Your Video Shooting Skills By Learning These Videography Terms](https://digitpatrox.com/boost-your-video-shooting-skills-by-learning-these-videography-terms/)
+* [3 hours ago
+    
+    ### What do security pros want from generative AI?](https://digitpatrox.com/what-do-security-pros-want-from-generative-ai/)
 
 Most Viewed Topics
 
@@ -249,10 +249,10 @@ Most Viewed Topics
     ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [August 13, 2024
     
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
-* [August 13, 2024
-    
     ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+* [August 12, 2024
+    
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
