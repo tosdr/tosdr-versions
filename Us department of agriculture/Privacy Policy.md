@@ -264,7 +264,7 @@ Menu
     
     Sustainable agricultural productivity growth is a foundational element in building more sustainable agricultural and food systems.
     
-    [Discover How](https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/sustainability)
+    [Discover How](https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/oce-sustainability)
     
     Sustainability Menu
     -------------------
@@ -291,12 +291,12 @@ Menu
         * [Infrastructure Overview](https://www.usda.gov/sustainability/infrastructure "USDA embarked on a groundbreaking analysis on the potential benefits of rural broadband infrastructure and emerging on-farm technology.")
         * [Rural Broadband Expansion](https://www.usda.gov/sustainability/infrastructure/broadband)
     * [Councils and Coalitions](https://www.usda.gov/)
-        * [Councils and Coalitions Overview](https://www.usda.gov/sustainability/sustainability-councils-and-coalitions "USDA is committed to working with partners and stakeholders toward the sustainability of diverse agricultural and food systems.")
-        * [Definitions: Sustainability and Food Systems](https://www.usda.gov/sustainability/sustainability-councils-and-coalitions/definitions-sustainability-and-food-systems)
-        * [Sustainable Productivity Growth Coalition](https://www.usda.gov/sustainability/sustainability-councils-and-coalitions/sustainable-productivity-growth-coalition)
-        * [U.S. Food Systems](https://www.usda.gov/sustainability/sustainability-councils-and-coalitions/us-food-systems)
-        * [UN Food Systems Summit](https://www.usda.gov/sustainability/sustainability-councils-and-coalitions/un-food-systems-summit)
-        * [USDA Director and Council](https://www.usda.gov/sustainability/sustainability-councils-and-coalitions/usda-director-and-council)
+        * [Councils and Coalitions Overview](https://www.usda.gov/sustainability-councils-and-coalitions "USDA is committed to working with partners and stakeholders toward the sustainability of diverse agricultural and food systems.")
+        * [Definitions: Sustainability and Food Systems](https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/oce-sustainability/definitions-sustainability-and-food-systems)
+        * [Sustainable Productivity Growth Coalition](https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/oce-sustainability/sustainable-productivity-growth-coalition)
+        * [U.S. Food Systems](https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/oce-sustainability/us-food-systems)
+        * [UN Food Systems Summit](https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/oce-sustainability/un-food-systems-summit)
+        * [USDA Director and Council](https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/oce-sustainability/usda-director-and-council)
     
     Sustainability Submenus
     -----------------------
@@ -323,12 +323,12 @@ Menu
         * [Infrastructure Overview](https://www.usda.gov/sustainability/infrastructure "USDA embarked on a groundbreaking analysis on the potential benefits of rural broadband infrastructure and emerging on-farm technology.")
         * [Rural Broadband Expansion](https://www.usda.gov/sustainability/infrastructure/broadband)
     * [Councils and Coalitions](https://www.usda.gov/)
-        * [Councils and Coalitions Overview](https://www.usda.gov/sustainability/sustainability-councils-and-coalitions "USDA is committed to working with partners and stakeholders toward the sustainability of diverse agricultural and food systems.")
-        * [Definitions: Sustainability and Food Systems](https://www.usda.gov/sustainability/sustainability-councils-and-coalitions/definitions-sustainability-and-food-systems)
-        * [Sustainable Productivity Growth Coalition](https://www.usda.gov/sustainability/sustainability-councils-and-coalitions/sustainable-productivity-growth-coalition)
-        * [U.S. Food Systems](https://www.usda.gov/sustainability/sustainability-councils-and-coalitions/us-food-systems)
-        * [UN Food Systems Summit](https://www.usda.gov/sustainability/sustainability-councils-and-coalitions/un-food-systems-summit)
-        * [USDA Director and Council](https://www.usda.gov/sustainability/sustainability-councils-and-coalitions/usda-director-and-council)
+        * [Councils and Coalitions Overview](https://www.usda.gov/sustainability-councils-and-coalitions "USDA is committed to working with partners and stakeholders toward the sustainability of diverse agricultural and food systems.")
+        * [Definitions: Sustainability and Food Systems](https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/oce-sustainability/definitions-sustainability-and-food-systems)
+        * [Sustainable Productivity Growth Coalition](https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/oce-sustainability/sustainable-productivity-growth-coalition)
+        * [U.S. Food Systems](https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/oce-sustainability/us-food-systems)
+        * [UN Food Systems Summit](https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/oce-sustainability/un-food-systems-summit)
+        * [USDA Director and Council](https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/oce-sustainability/usda-director-and-council)
     
     ![Apples in an orchard](/sites/default/files/2024-08/definitions%20%282%29.png)
     
@@ -336,7 +336,7 @@ Menu
     
     Most incorporate the notion that true sustainability must balance economic, social and environmental dimensions.
     
-    [View Definitions](https://www.usda.gov/sustainability/sustainability-councils-and-coalitions/definitions-sustainability-and-food-systems)
+    [View Definitions](https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/oce-sustainability/definitions-sustainability-and-food-systems)
     
     ![Speaker at climate change forum](/sites/default/files/2024-08/climate-change-adaptation%20%281%29.png)
     
@@ -528,7 +528,8 @@ Share:
     
 * [Senior Officials and Political Appointees](https://www.usda.gov/senior-officials-and-political-appointees)
 * [Staff Offices](https://www.usda.gov/about-usda/general-information/staff-offices)
-* [Sustainability](https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/sustainability "Sustainable agricultural productivity growth is a foundational element in building more sustainable agricultural and food systems.")
+* [Sustainability Councils and Coalitions](https://www.usda.gov/sustainability-councils-and-coalitions "USDA is committed to working with partners and stakeholders toward the sustainability of diverse agricultural and food systems.")
+* [Sustainability](https://www.usda.gov/sustainability "Sustainable agricultural productivity growth is a foundational element in building more sustainable agricultural and food systems.")
 * [Trade and Markets](https://www.usda.gov/trade-and-markets "USDA works with foreign governments, international organizations, and the Office of the U.S. Trade Representative to establish international standards and rules to improve accountability and predictability for agricultural trade.")
 
 Thank you for visiting the United States Department of Agriculture (USDA) website and reviewing our privacy statement. Our privacy policy is clear: We do not collect any personally identifiable information, (PII), without your explicit consent.
@@ -645,6 +646,18 @@ Press Release
 
 ![](/themes/custom/usda_uswds/img/USDA_logo.png)
 
+[Biden-Harris Administration Connects People and Businesses in Rural Areas to Reliable High-Speed Internet in 18 States](https://www.usda.gov/article/biden-harris-administration-connects-people-and-businesses-rural-areas-reliable-high-speed-internet)
+
+December 18, 2024
+
+USDA Secretary Tom Vilsack today announced more than $313 million in funding to connect rural residents, farmers and business owners in 18 states to reliable high-speed internet.
+
+[Learn More](https://www.usda.gov/article/biden-harris-administration-connects-people-and-businesses-rural-areas-reliable-high-speed-internet)
+
+Press Release
+
+![](/themes/custom/usda_uswds/img/USDA_logo.png)
+
 [USDA Makes Investments to Strengthen American Farms and Businesses, Increase Competition and Lower Costs](https://www.usda.gov/article/usda-makes-investments-strengthen-american-farms-and-businesses-increase-competition-and-lower-costs)
 
 December 18, 2024
@@ -676,18 +689,6 @@ December 17, 2024
 The Biden-Harris Administration today released a policy framework to guide potential demand-side measures to reduce the importation of deforestation-linked commodities.
 
 [Learn More](https://www.usda.gov/article/biden-harris-administration-announces-policy-framework-combat-demand-driven-illegal-deforestation)
-
-Blog
-
-![Reese Baker, U.S. Department of Agriculture (USDA) 1890 National Scholar and junior at Southern University A&M in Baton Rouge, Louisiana](/sites/default/files/styles/trending_card_768x603/public/oppe-1890-natl-scholar-healthy-food-blog-121724.jpg?itok=YBVbjecw)
-
-[1890 National Scholar Works to Improve Access to Affordable, Healthy Food](https://www.usda.gov/about-usda/news/blog/2024/12/17/1890-national-scholar-works-improve-access-affordable-healthy-food)
-
-December 17, 2024
-
-“Many people come to college but don’t know what they want to do,” said Reese Baker, U.S. Department of Agriculture (USDA) 1890 National Scholar and junior at Southern University A&M in Baton Rouge, Louisiana. Baker had also felt the same way until she changed her major and followed her passion for agriculture.
-
-[Learn More](https://www.usda.gov/about-usda/news/blog/2024/12/17/1890-national-scholar-works-improve-access-affordable-healthy-food)
 
 ### AskUSDA
 
