@@ -100,7 +100,7 @@ from$0.35/IP](https://smartproxy.com/proxies/isp-proxies/pricing)
 
 [Mobile Proxies
 
-from$6/GB](https://smartproxy.com/proxies/mobile/pricing)
+from$4.5/GB](https://smartproxy.com/proxies/mobile/pricing)
 
 [Datacenter
 
