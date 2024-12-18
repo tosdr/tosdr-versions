@@ -1520,6 +1520,8 @@ More Info
 
        
 
+Chat not available
+
 Some text goes here Open the Real Chat
 
 #### Hello there, looks like you're located in Canada.
