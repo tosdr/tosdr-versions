@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Fort Worth debuts $40 million renovations of Will Rogers Memorial Center](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/p-dionne-will-rogers-center-updates-530p_00.00.19.00.jpg?ve=1&tl=1)
+ [![Arlington man killed while helping sister-in-law stranded on road](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/p-amelia-arlington-watson-rd-fatal-crash-9p_00.00.17.46.jpg?ve=1&tl=1)
 
- ![Fort Worth debuts $40 million renovations of Will Rogers Memorial Center](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/p-dionne-will-rogers-center-updates-530p_00.00.19.00.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-debuts-40-million-renovations-will-rogers-memorial-center)
+ ![Arlington man killed while helping sister-in-law stranded on road](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/p-amelia-arlington-watson-rd-fatal-crash-9p_00.00.17.46.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/arlington-man-killed-while-helping-sister-in-law-stranded-stranded-road)
 
-### [Fort Worth debuts $40 million renovations of Will Rogers Memorial Center](https://www.fox4news.com/news/fort-worth-debuts-40-million-renovations-will-rogers-memorial-center)
+### [Arlington man killed while helping sister-in-law stranded on road](https://www.fox4news.com/news/arlington-man-killed-while-helping-sister-in-law-stranded-stranded-road)
 
- [![Man gets probation in 2014 Garland murder case delayed 30 times](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/david-mcdermett.jpg?ve=1&tl=1)
+ [![Alleged CEO killer Luigi Mangione faces new murder as act of terrorism charge](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/068ce08f833747d8e01061d5fb391e3c.png?ve=1&tl=1)
 
- ![Man gets probation in 2014 Garland murder case delayed 30 times](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/david-mcdermett.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/david-mcdermett-janet-vanderslice-probation-plea-deal)
+ ![Alleged CEO killer Luigi Mangione faces new murder as act of terrorism charge](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/592/333/068ce08f833747d8e01061d5fb391e3c.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/luigi-mangione-faces-new-1st-degree-murder-terrorism-charges)
 
-### [Man gets probation in 2014 Garland murder case delayed 30 times](https://www.fox4news.com/news/david-mcdermett-janet-vanderslice-probation-plea-deal)
+### [Alleged CEO killer Luigi Mangione faces new murder as act of terrorism charge](https://www.fox4news.com/news/luigi-mangione-faces-new-1st-degree-murder-terrorism-charges)
 
- [![North Texas Walmart employees wearing body cameras](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/gettyimages-2185459806.jpg?ve=1&tl=1)
+ [![Fort Worth police searching for 'increasingly violent' serial armed robber](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/p-peyton-fort-worth-armed-robberies-suspect-9p_kdf_00.01.27.30.jpg?ve=1&tl=1)
 
- ![North Texas Walmart employees wearing body cameras](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/gettyimages-2185459806.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/north-texas-walmart-employees-body-cameras)
+ ![Fort Worth police searching for 'increasingly violent' serial armed robber](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/p-peyton-fort-worth-armed-robberies-suspect-9p_kdf_00.01.27.30.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-police-searching-increasingly-violent-serial-armed-robber)
 
-### [North Texas Walmart employees wearing body cameras](https://www.fox4news.com/news/north-texas-walmart-employees-body-cameras)
+### [Fort Worth police searching for 'increasingly violent' serial armed robber](https://www.fox4news.com/news/fort-worth-police-searching-increasingly-violent-serial-armed-robber)
 
- [![Ellis County detention officer killed after being beaten to death by inmate](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/ellis-county-jailer-killed.jpg?ve=1&tl=1)
+ [![Cedar Hill officer solicited sex from woman arrested for DWI: arrest affidavit](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/p-david-cedar-hill-former-officer-arrested-9p_00.00.04.42.jpg?ve=1&tl=1)
 
- ![Ellis County detention officer killed after being beaten to death by inmate](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/ellis-county-jailer-killed.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ellis-county-detention-officer-isaiah-bias-death)
+ ![Cedar Hill officer solicited sex from woman arrested for DWI: arrest affidavit](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/p-david-cedar-hill-former-officer-arrested-9p_00.00.04.42.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/cedar-hill-officer-solicited-sex-from-woman-arrested-dwi-arrest-affidavit)
 
-### [Ellis County detention officer killed after being beaten to death by inmate](https://www.fox4news.com/news/ellis-county-detention-officer-isaiah-bias-death)
+### [Cedar Hill officer solicited sex from woman arrested for DWI: arrest affidavit](https://www.fox4news.com/news/cedar-hill-officer-solicited-sex-from-woman-arrested-dwi-arrest-affidavit)
 
- [![Parents of Mesquite 9-month-old girl who 'starved to death' charged with capital murder](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/mesquite-9-month-old-starved-to-death.png?ve=1&tl=1)
+ [![9 injured, one dead in mass shooting in Towson: officials](https://images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2024/12/32/18/66ecbd576115641e48805c5e3ebb0569.jpg?ve=1&tl=1)
 
- ![Parents of Mesquite 9-month-old girl who 'starved to death' charged with capital murder](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/mesquite-9-month-old-starved-to-death.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/destiny-avila-leon-johnson-capital-murder-charges-maliyah-johnson-starved)
+ ![9 injured, one dead in mass shooting in Towson: officials](https://images.foxtv.com/images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2024/12/32/18/592/333/66ecbd576115641e48805c5e3ebb0569.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/9-injured-one-dead-mass-shooting-towson-officials)
 
-### [Parents of Mesquite 9-month-old girl who 'starved to death' charged with capital murder](https://www.fox4news.com/news/destiny-avila-leon-johnson-capital-murder-charges-maliyah-johnson-starved)
+### [9 injured, one dead in mass shooting in Towson: officials](https://www.fox4news.com/news/9-injured-one-dead-mass-shooting-towson-officials)
 
 ###### [News](https://www.fox4news.com/news)
 
