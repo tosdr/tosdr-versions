@@ -2,14 +2,14 @@ Wednesday, December 18 2024
 
 Breaking News
 
+* [End The Weaponization Of The IRS](https://www.conservativedailynews.com/2024/12/end-the-weaponization-of-the-irs/)
+* [Is Kamala ‘28 Proof The Democrat Party Is In Disarray?](https://www.conservativedailynews.com/2024/12/is-kamala-28-proof-the-democrat-party-is-in-disarray/)
 * [FBI Urges New Jersey Residents Not To Shoot Unidentified Drones](https://www.conservativedailynews.com/2024/12/fbi-urges-new-jersey-residents-not-to-shoot-unidentified-drones/)
 * [Senate Dems Move To Abolish ‘Undemocratic’ Electoral College After Crushing November Losses](https://www.conservativedailynews.com/2024/12/senate-dems-move-to-abolish-undemocratic-electoral-college-after-crushing-november-losses/)
 * [Record Slim House Majority Faces New Problems As GOP Lawmaker Announces Exit From Republican Conference](https://www.conservativedailynews.com/2024/12/record-slim-house-majority-faces-new-problems-as-gop-lawmaker-announces-exit-from-republican-conference/)
 * [President Joe Biden’s Schedule for Tuesday, December 17, 2024](https://www.conservativedailynews.com/2024/12/president-joe-bidens-schedule-for-tuesday-december-17-2024/)
 * [Inflation is a problem. The Fed must NOT cut interest rates.](https://www.conservativedailynews.com/2024/12/inflation-is-a-problem-the-fed-must-not-cut-interest-rates/)
 * [The Smooth Transition Was Another Biden Fallacy](https://www.conservativedailynews.com/2024/12/the-smooth-transition-was-another-biden-fallacy/)
-* [Medal of Honor Monday: Army Col. Charles P. Murray Jr.](https://www.conservativedailynews.com/2024/12/medal-of-honor-monday-army-col-charles-p-murray-jr/)
-* [House Republicans Finally Putting The Squeeze On Bloated Pentagon Budget](https://www.conservativedailynews.com/2024/12/house-republicans-finally-putting-the-squeeze-on-bloated-pentagon-budget/)
 
 * [RSS](https://www.conservativedailynews.com/news-feeds/)
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
@@ -130,6 +130,24 @@ Orange = One-Time Donations
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/04/Bedroom-with-mattress.jpg)](https://www.conservativedailynews.com/2024/12/no-cost-ways-to-drift-off-to-sleep-that-dont-involve-sheep/)
+    
+    [No-Cost Ways to Drift Off to Sleep That Don’t Involve Sheep](https://www.conservativedailynews.com/2024/12/no-cost-ways-to-drift-off-to-sleep-that-dont-involve-sheep/)
+    
+    December 18, 2024
+    
+* [![Inflation reduction act IRS](https://www.conservativedailynews.com/wp-content/uploads/2022/08/mrz081622dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/end-the-weaponization-of-the-irs/)
+    
+    [End The Weaponization Of The IRS](https://www.conservativedailynews.com/2024/12/end-the-weaponization-of-the-irs/)
+    
+    December 18, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/IMG_5922-220x150.jpeg)](https://www.conservativedailynews.com/2024/12/is-kamala-28-proof-the-democrat-party-is-in-disarray/)
+    
+    [Is Kamala ‘28 Proof The Democrat Party Is In Disarray?](https://www.conservativedailynews.com/2024/12/is-kamala-28-proof-the-democrat-party-is-in-disarray/)
+    
+    December 18, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2019/01/Drone.jpg)](https://www.conservativedailynews.com/2024/12/fbi-urges-new-jersey-residents-not-to-shoot-unidentified-drones/)
     
     [FBI Urges New Jersey Residents Not To Shoot Unidentified Drones](https://www.conservativedailynews.com/2024/12/fbi-urges-new-jersey-residents-not-to-shoot-unidentified-drones/)
@@ -160,27 +178,10 @@ Recent Posts
     
     December 17, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/03/Senior-Citizens-2.jpg)](https://www.conservativedailynews.com/2024/12/10-essential-resources-for-caregivers/)
-    
-    [10 Essential Resources for Caregivers](https://www.conservativedailynews.com/2024/12/10-essential-resources-for-caregivers/)
-    
-    December 17, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/gv121624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/a-bidenomics-christmas/)
-    
-    [A Bidenomics Christmas](https://www.conservativedailynews.com/2024/12/a-bidenomics-christmas/)
-    
-    December 17, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/stg121624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/actual-loser/)
-    
-    [Actual Loser](https://www.conservativedailynews.com/2024/12/actual-loser/)
-    
-    December 17, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Steel Challenge And USPSA Competition Q&A: Rule Explanations, Scoring Questions](https://www.thegunpage.com/steel-challenge-and-uspsa-competition-qa-rule-explanations-scoring-questions/10612579)
 * [From Goryunov’s SG-43 To Kalashnikov’s PK](https://www.thegunpage.com/from-goryunovs-sg-43-to-kalashnikovs-pk/10612571)
 * [POTD: Platypus – The 1911 That Takes Glock Magazines](https://www.thegunpage.com/potd-platypus-the-1911-that-takes-glock-magazines/10612572)
 * [TFB Review: Smith & Wesson Shield Plus PC Carry Comp Pistol](https://www.thegunpage.com/tfb-review-smith-wesson-shield-plus-pc-carry-comp-pistol/10612573)
@@ -190,7 +191,6 @@ Recent Posts
 * [Brooklyn DA Declines to Prosecute Bus Driver in Self-Defense Case](https://www.thegunpage.com/brooklyn-da-declines-to-prosecute-bus-driver-in-self-defense-case/10612565) 
 * [The New LTT A300 Ultima Patrol Shotgun](https://www.thegunpage.com/the-new-ltt-a300-ultima-patrol-shotgun/10612569)
 * [CEO Killing: Activists Seek Ghost Gun Laws, But Ignore the Facts & Law](https://www.thegunpage.com/ceo-killing-activists-seek-ghost-gun-laws-but-ignore-the-facts-law/10612562)
-* [Bushmaster Announces The Muta II BM556](https://www.thegunpage.com/bushmaster-announces-the-muta-ii-bm556/10612558)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
