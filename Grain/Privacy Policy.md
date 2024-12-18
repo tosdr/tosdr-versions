@@ -14,7 +14,7 @@ Company
 
 Resources
 
-[Blog](https://grain.com/blog)[Help Center](https://support.grain.com/en/)[Self-guided Product Tour](https://grain.com/resource/self-guided-product-tour)[Contact Us](https://grain.com/contact)[Contact Us](#)
+[Blog](https://grain.com/blog)[Help Center](https://support.grain.com/en/)[Integrations](https://grain.com/integrations)[Self-guided Product Tour](https://grain.com/resource/self-guided-product-tour)[Contact Us](https://grain.com/contact)[Contact Us](#)
 
 Compare
 
