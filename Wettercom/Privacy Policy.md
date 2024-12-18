@@ -2,7 +2,7 @@
 
 Menü
 
-[![Online Wetter bei wetter.com](https://cs3.wettercomassets.com/wcomv5/images/wetter_com_logo.svg?202412121109 "wetter.com ▶ Aktuelles Wetter & 16-Tages Wettervorhersage")](https://www.wetter.com/)
+[![Online Wetter bei wetter.com](https://cs3.wettercomassets.com/wcomv5/images/wetter_com_logo.svg?202412181129 "wetter.com ▶ Aktuelles Wetter & 16-Tages Wettervorhersage")](https://www.wetter.com/)
 
 [](javascript:void(0);)
 
@@ -615,7 +615,6 @@ Bestimmte Cookies sind unbedingt erforderlich, damit wir unser Online-Angebot au
 | wetter.com | defLang (DE,AT,CH)  <br>Zweck. Ländererkennung der Domain  <br>Speicherdauer: 7 Tage  <br>Cookiezugriff durch weitere Empfänger: Nein  <br>  <br>PHPSESSID  <br>Zweck: Verhinderung von Missbrauch z.B. bei der Newsletteranmeldung  <br>Speicherdauer: 1 Stunde  <br>Cookiezugriff durch weitere Empfänger: Nein |
 | Usercentrics | Erhobene Daten: Consent Daten; Device Daten; IAB-consentString  <br>Verarbeitungszweck: Betrieb der Consent Management Platform  <br>Speicherdauer des Cookies: 3 Jahre  <br>Cookie-Zugriff durch weitere Datenempfänger: Ja, Länder: Deutschland |
 | Optimizely | Erhobene Daten: ID  <br>Verarbeitungszweck: A/B Test Zuordnung  <br>Speicherdauer: unbegrenzt  <br>Cookie-Zugriff durch weitere Datenempfänger: ja Länder: USA (EU-U.S. Data Privacy Framework) |
-| Fraud0 | Erhobene Daten: Geräteinformationen,Gerätetyp, Gerätemodell, Gerätehersteller, Version des Betriebssystems, Browser-Informationen, Browser-Typ, Hardware-basierte Kennungen, Referrer URL, Bildschirmgröße, Farbtiefe, Plattformtyp, Nutzerverhalten, Sitzungs-ID, Sitzungsdauer, Aktivierung der Option „Nicht tracken“, Schriftarten-Hash, Plug-In-Hash, Manipulation der Auflösung  <br>Verarbeitungszweck: Bot – Detection  <br>Speicherdauer: unbegrenzt |
 
 Wie können Sie die Verwendung von Cookies verhindern bzw. Cookies löschen?
 
@@ -1105,7 +1104,6 @@ Bestimmte Cookies sind unbedingt erforderlich, damit wir unser Online-Angebot au
 | wetter.com | defLang (DE,AT,CH)  <br>Zweck. Ländererkennung der Domain  <br>Speicherdauer: 7 Tage  <br>Cookiezugriff durch weitere Empfänger: Nein  <br>  <br>PHPSESSID  <br>Zweck: Verhinderung von Missbrauch z.B. bei der Newsletteranmeldung  <br>Speicherdauer: 1 Stunde  <br>Cookiezugriff durch weitere Empfänger: Nein |
 | Usercentrics | Erhobene Daten: Consent Daten; Device Daten; IAB-consentString  <br>Verarbeitungszweck: Betrieb der Consent Management Platform  <br>Speicherdauer des Cookies: 3 Jahre  <br>Cookie-Zugriff durch weitere Datenempfänger: Ja, Länder: Deutschland |
 | Optimizely | Erhobene Daten: ID  <br>Verarbeitungszweck: A/B Test Zuordnung  <br>Speicherdauer: unbegrenzt  <br>Cookie-Zugriff durch weitere Datenempfänger: ja Länder: USA (EU-U.S. Data Privacy Framework) |
-| Fraud0 | Erhobene Daten: Geräteinformationen,Gerätetyp, Gerätemodell, Gerätehersteller, Version des Betriebssystems, Browser-Informationen, Browser-Typ, Hardware-basierte Kennungen, Referrer URL, Bildschirmgröße, Farbtiefe, Plattformtyp, Nutzerverhalten, Sitzungs-ID, Sitzungsdauer, Aktivierung der Option „Nicht tracken“, Schriftarten-Hash, Plug-In-Hash, Manipulation der Auflösung  <br>Verarbeitungszweck: Bot – Detection  <br>Speicherdauer: unbegrenzt |
 
 Wie können Sie die Verwendung von Cookies verhindern bzw. Cookies löschen?
 
@@ -1126,7 +1124,7 @@ Reichenaustraße 19a
 78467 Konstanz  
 [contact@wetter.com](mailto:contact@wetter.com)
 
-![wetter.com](https://cs3.wettercomassets.com/wcomv5/images/wetter_com_logo.svg?202412121109 "wetter.com")
+![wetter.com](https://cs3.wettercomassets.com/wcomv5/images/wetter_com_logo.svg?202412181129 "wetter.com")
 
 [Zurück](#) [Schließen ✕](#)
 
@@ -1144,10 +1142,10 @@ Mehr Informationen zu Werbung und Tracking findest du in unseren [Datenschutzhin
 
 Nutze wetter.com und viele weitere Websites ganz ohne Werbebanner, personalisiertes Tracking und Werbespots für nur 3,99€ / Monat.
 
- ![contentpass](https://cs3.wettercomassets.com/wcomv5/images/contentpass/logo.svg?202412121109 "contentpass") Werbefrei für 3,99€ / Monat
+ ![contentpass](https://cs3.wettercomassets.com/wcomv5/images/contentpass/logo.svg?202412181129 "contentpass") Werbefrei für 3,99€ / Monat
 
 Bereits contentpass-Mitglied?  
- [![contentpass](https://cs3.wettercomassets.com/wcomv5/images/contentpass/logo.svg?202412121109 "contentpass") Hier einloggen](#).
+ [![contentpass](https://cs3.wettercomassets.com/wcomv5/images/contentpass/logo.svg?202412181129 "contentpass") Hier einloggen](#).
 
 Wir nutzen ausschließlich Cookies und andere Technologien, die zur Bereitstellung unseres Angebotes unbedingt erforderlich sind. Details zum Abo findest du [hier](https://my.contentpass.net/) und in unseren [Datenschutzhinweisen (contentpass-Abo)](https://www.wetter.com/datenschutz/pay/).
 
