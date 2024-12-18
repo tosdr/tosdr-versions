@@ -148,6 +148,16 @@ HuntAndJump.com Rules
 
 ![](/images/coloricons/News-Alerts-2.png)News & Alerts
 
+12/18/2024 8:41 AM EST
+
+Looks like this update broke a bunch of buttons on the horse page. We will get this fixed asap. We expect a few hours.
+
+12/18/2024 5:46 AM EST
+
+![](https://i.imgur.com/8ZNckE8.png)
+
+### Prance your way to the winner's circle with the new American Miniature Horse BC
+
 12/11/2024 4:05 AM EST
 
 Winter 2024 hide and seek has started. It's time for Koleduvane! Also Golden Token Bundles are now in the shop. See the forum for more info.
@@ -167,14 +177,6 @@ Vesela Koleda!
 
 The East Bulgarian Warmblood has trotted into the game.  
 ![](https://i.imgur.com/TXNRa0l.png)
-
-12/2/2024 7:04 AM EST
-
-### The updated image generation is now live, and opening the page of any horse will force update its image to the new generation.
-
-11/30/2024 11:51 PM EST
-
-### The gift exchange has been assigned. Happy gifting!
 
 ![](/images/coloricons/Gold-Star-2.png)Bonus Stall Progress
 
