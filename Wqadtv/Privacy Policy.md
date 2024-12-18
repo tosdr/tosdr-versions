@@ -30,17 +30,17 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/e102134e-1377-4fe0-88be-661de0fdd482/20241015T233049/e102134e-1377-4fe0-88be-661de0fdd482_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e102134e-1377-4fe0-88be-661de0fdd482/20241015T233049/e102134e-1377-4fe0-88be-661de0fdd482_360x203.jpg)](https://www.wqad.com/article/news/local/rock-island-vape-shop-moratorium-extended-june-2025/526-aa98a3d1-16a5-4cbd-8c39-c0d28feebecf)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/ed4d3b26-ac2c-4384-b1a3-a8e4579b4604/20241218T042545/ed4d3b26-ac2c-4384-b1a3-a8e4579b4604_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ed4d3b26-ac2c-4384-b1a3-a8e4579b4604/20241218T042545/ed4d3b26-ac2c-4384-b1a3-a8e4579b4604_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/new-scott-county-youth-justice-rehabilitation-center/526-8a3a98f9-2532-45a2-adc8-c7d100b2264b)
         
-        #### [Rock Island vape shop moratorium extended to June 30, 2025](https://www.wqad.com/article/news/local/rock-island-vape-shop-moratorium-extended-june-2025/526-aa98a3d1-16a5-4cbd-8c39-c0d28feebecf)
+        #### [Take a look inside the new Scott County Youth Justice and Rehabilitation Center](https://www.wqad.com/article/news/local/public-safety/new-scott-county-youth-justice-rehabilitation-center/526-8a3a98f9-2532-45a2-adc8-c7d100b2264b) [![](https://media.tegna-media.com/assets/WQAD/images/ed4d3b26-ac2c-4384-b1a3-a8e4579b4604/20241218T042545/ed4d3b26-ac2c-4384-b1a3-a8e4579b4604_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ed4d3b26-ac2c-4384-b1a3-a8e4579b4604/20241218T042545/ed4d3b26-ac2c-4384-b1a3-a8e4579b4604_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/new-scott-county-youth-justice-rehabilitation-center/526-8a3a98f9-2532-45a2-adc8-c7d100b2264b)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/7a5124cd-7de9-4516-acbd-58163b3c3d5d/20241217T220741/7a5124cd-7de9-4516-acbd-58163b3c3d5d_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/7a5124cd-7de9-4516-acbd-58163b3c3d5d/20241217T220741/7a5124cd-7de9-4516-acbd-58163b3c3d5d_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/bettendorf-police-chief-keith-kimball-retirement/526-a6a4bbfb-f021-45a8-a461-d5648b352da5)
+        #### [Scott County officials cut ribbon on new Youth Justice and Rehabilitation Center](https://www.wqad.com/article/news/local/public-safety/new-scott-county-youth-justice-rehabilitation-center/526-8a3a98f9-2532-45a2-adc8-c7d100b2264b) [![](https://media.tegna-media.com/assets/WQAD/images/ed4d3b26-ac2c-4384-b1a3-a8e4579b4604/20241218T042545/ed4d3b26-ac2c-4384-b1a3-a8e4579b4604_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ed4d3b26-ac2c-4384-b1a3-a8e4579b4604/20241218T042545/ed4d3b26-ac2c-4384-b1a3-a8e4579b4604_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/new-scott-county-youth-justice-rehabilitation-center/526-8a3a98f9-2532-45a2-adc8-c7d100b2264b)
         
-        #### [Bettendorf police chief to retire in April](https://www.wqad.com/article/news/local/public-safety/bettendorf-police-chief-keith-kimball-retirement/526-a6a4bbfb-f021-45a8-a461-d5648b352da5) [![](https://media.tegna-media.com/assets/WQAD/images/7a5124cd-7de9-4516-acbd-58163b3c3d5d/20241217T220741/7a5124cd-7de9-4516-acbd-58163b3c3d5d_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/7a5124cd-7de9-4516-acbd-58163b3c3d5d/20241217T220741/7a5124cd-7de9-4516-acbd-58163b3c3d5d_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/bettendorf-police-chief-keith-kimball-retirement/526-a6a4bbfb-f021-45a8-a461-d5648b352da5)
+        #### [Scott County is getting a new Youth Justice and Rehabilitation Center. Here's what's inside:](https://www.wqad.com/article/news/local/public-safety/new-scott-county-youth-justice-rehabilitation-center/526-8a3a98f9-2532-45a2-adc8-c7d100b2264b)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/25b8d99c-f518-42a7-b525-1dd373a4d666/20241218T000434/25b8d99c-f518-42a7-b525-1dd373a4d666_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/25b8d99c-f518-42a7-b525-1dd373a4d666/20241218T000434/25b8d99c-f518-42a7-b525-1dd373a4d666_360x203.jpg)](https://www.wqad.com/article/news/local/moline-i74-bridge-walkway-pedestrian-crash-dot/526-4f1c2d8d-2eca-40cd-9799-1154823f95b5)
         
-        #### [Bettendorf police chief announces retirement](https://www.wqad.com/article/news/local/public-safety/bettendorf-police-chief-keith-kimball-retirement/526-a6a4bbfb-f021-45a8-a461-d5648b352da5) [![](https://media.tegna-media.com/assets/WQAD/images/7a5124cd-7de9-4516-acbd-58163b3c3d5d/20241217T220741/7a5124cd-7de9-4516-acbd-58163b3c3d5d_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/7a5124cd-7de9-4516-acbd-58163b3c3d5d/20241217T220741/7a5124cd-7de9-4516-acbd-58163b3c3d5d_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/bettendorf-police-chief-keith-kimball-retirement/526-a6a4bbfb-f021-45a8-a461-d5648b352da5)
+        #### [City of Moline votes on I-74 pedestrian path upgrades following 2022 tragedy](https://www.wqad.com/article/news/local/moline-i74-bridge-walkway-pedestrian-crash-dot/526-4f1c2d8d-2eca-40cd-9799-1154823f95b5)
         
-        #### [Bettendorf's police chief is retiring](https://www.wqad.com/article/news/local/public-safety/bettendorf-police-chief-keith-kimball-retirement/526-a6a4bbfb-f021-45a8-a461-d5648b352da5)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -59,7 +59,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/35afca09-805b-4cb6-a7ba-96feb0103649/20241217T131440/35afca09-805b-4cb6-a7ba-96feb0103649_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/35afca09-805b-4cb6-a7ba-96feb0103649/20241217T131440/35afca09-805b-4cb6-a7ba-96feb0103649_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/eeba37f6-e90c-4d70-a4fa-51571ad540bd/20241217T231138/eeba37f6-e90c-4d70-a4fa-51571ad540bd_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/eeba37f6-e90c-4d70-a4fa-51571ad540bd/20241217T231138/eeba37f6-e90c-4d70-a4fa-51571ad540bd_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
         #### [Snow and rain showers tracking through overnight](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
@@ -100,9 +100,9 @@ Navigation
 
 Davenport, IA »
 
-34°
+33°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
