@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [Backup strategy: scheduled daily differential ...](https://www.backup4all.com/backup-strategy-scheduled-daily-differential-backups-and-weekly-full-backups-kb.html)  
-    
-* [How to use "Clean destination folder" feature ...](https://www.backup4all.com/how-to-use-clean-destination-folder-feature-in-backup4all-kb.html)  
-    
-* [How to erase a CD/DVD/Blu-ray with Backup4all](https://www.backup4all.com/how-to-erase-a-cd-dvd-blu-ray-with-backup4all-kb.html)  
-    
 * [How to configure and use One Touch Backup?](https://www.backup4all.com/how-to-configure-and-use-one-touch-backup-kb.html)  
     
-* [How to use independent zip splits in Backup4a ...](https://www.backup4all.com/how-to-use-independent-zip-splits-in-backup4all-kb.html)  
+* [Restore demo](https://www.backup4all.com/restore-demo-kb.html)  
+    
+* [How to activate Backup4all online](https://www.backup4all.com/how-to-activate-kb.html)  
+    
+* [How to activate Backup4all Monitor](https://www.backup4all.com/how-to-activate-backup4all-monitor-kb.html)  
+    
+* [How to back up data files from OneDrive using ...](https://www.backup4all.com/how-to-back-up-data-files-from-onedrive-using-backup4all-kb.html)  
     
 
 Choose language:
