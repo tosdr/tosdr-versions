@@ -5,7 +5,7 @@ Terms of use
 
 [MyAbandonware](https://www.myabandonware.com/)
 
-More than 32500 old games to download for free!
+More than 32600 old games to download for free!
 
  
 
@@ -118,9 +118,9 @@ Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/mya
 
 Screenshots needed
 
-* [Hydra](https://www.myabandonware.com/game/hydra-mz3)
-* [Kick Off 2: Winning Tactics](https://www.myabandonware.com/game/kick-off-2-winning-tactics-7cr)
-* [Sweep!](https://www.myabandonware.com/game/sweep-o5s)
+* [Demon's Revenge](https://www.myabandonware.com/game/demon-s-revenge-hny)
+* [Rollergames](https://www.myabandonware.com/game/rollergames-rnx)
+* [SpongeBob SquarePants Saves the Day](https://www.myabandonware.com/game/spongebob-squarepants-saves-the-day-msv)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
