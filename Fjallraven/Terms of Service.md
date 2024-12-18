@@ -536,7 +536,7 @@ Asia
     * [Store Locator](https://www.fjallraven.com/us/en-us/store-locater-north-america/)
     * [My account](https://www.fjallraven.com/us/en-us/my-account/login/)
 
-[**Free 3-Day Shipping Until 12/17**](https://www.fjallraven.com/us/en-us/customer-service/shipping/)
+[**Free 2-Day Shipping Until 12/19**](https://www.fjallraven.com/us/en-us/customer-service/shipping/)
 
 [](javascript:void(0))[Our Heritage](javascript:void(0)) ![Man with backpack](/4a5a97/contentassets/f6bd9e7070854e8e8bc7466993bb994a/men_with_backpack.jpg)
 
@@ -734,7 +734,7 @@ Discover
 Discover
 
 * [Fjällräven Experience](https://experience.fjallraven.com/us/en-us)
-* [Fjällräven Polar](https://experience.fjallraven.com/polar/2025?id=81bc710e-c76d-40ae-8376-ad5f7041a1c7)
+* [Fjällräven Polar](https://experience.fjallraven.com/polar/2025?id=f8de2567-a4c9-4e9d-95b3-3b3586ceabae)
 * [Fjällräven Classic](https://classic.fjallraven.com/)
 * [Our Community](https://www.fjallraven.com/us/en-us/our-community/)
 * Do Not Sell or Share My Personal Information
