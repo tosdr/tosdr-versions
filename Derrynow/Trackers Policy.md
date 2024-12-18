@@ -273,13 +273,6 @@ Most Popular
 [Throwback Tuesday: Out and About with the County Derry Post (2014)](https://www.derrynow.com/story-telling/pictures---videos/1681642/throwback-tuesday-out-and-about-with-the-county-derry-post-2014.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![PROPERTY: Spacious five bedroom home in rural Derry hits the market at great price](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PROPERTY: Spacious five bedroom home in rural Derry hits the market at great price")](https://www.derrynow.com/news/property/1681916/property-spacious-five-bedroom-home-in-rural-derry-hits-the-market-at-great-price.html)
-
-[Property](https://www.derrynow.com/section/1232/property)
-
-[PROPERTY: Spacious five bedroom home in rural Derry hits the market at great price](https://www.derrynow.com/news/property/1681916/property-spacious-five-bedroom-home-in-rural-derry-hits-the-market-at-great-price.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry member of Irish Defence Forces to be sentenced later for rape of a fellow officer](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry member of Irish Defence Forces to be sentenced later for rape of a fellow officer")](https://www.derrynow.com/news/local-news/1682815/derry-member-of-irish-defence-forces-to-be-sentenced-later-for-rape-of-a-fellow-officer.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -287,12 +280,12 @@ Most Popular
 [Derry member of Irish Defence Forces to be sentenced later for rape of a fellow officer](https://www.derrynow.com/news/local-news/1682815/derry-member-of-irish-defence-forces-to-be-sentenced-later-for-rape-of-a-fellow-officer.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1681643/derry-death-notices-tuesday-december-17-2024.html)
+[![PROPERTY: Spacious five bedroom home in rural Derry hits the market at great price](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PROPERTY: Spacious five bedroom home in rural Derry hits the market at great price")](https://www.derrynow.com/news/property/1681916/property-spacious-five-bedroom-home-in-rural-derry-hits-the-market-at-great-price.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
+[Property](https://www.derrynow.com/section/1232/property)
 
-[Derry Death Notices - Tuesday, December 17, 2024](https://www.derrynow.com/news/deaths/1681643/derry-death-notices-tuesday-december-17-2024.html)
---------------------------------------------------------------------------------------------------------------------------------------------------
+[PROPERTY: Spacious five bedroom home in rural Derry hits the market at great price](https://www.derrynow.com/news/property/1681916/property-spacious-five-bedroom-home-in-rural-derry-hits-the-market-at-great-price.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Man described in court as 'a violent offender' charged with series of motoring and burglary offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man described in court as 'a violent offender' charged with series of motoring and burglary offences")](https://www.derrynow.com/news/local-news/1682546/man-described-in-court-as-a-violent-offender-charged-with-series-of-motoring-and-burglary-offences.html)
 
@@ -334,6 +327,15 @@ Photo: Pixabay
 
 [Police in Derry investigating after masked men attempt to force entry into van](https://www.derrynow.com/news/local-news/1682753/police-in-derry-investigating-after-masked-men-attempt-to-force-entry-into-van.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man who posted messages about Derry mayor branded 'a right wing, racist conspiracy theorist'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man who posted messages about Derry mayor branded 'a right wing, racist conspiracy theorist'")](https://www.derrynow.com/news/local-news/1682638/man-who-posted-messages-about-derry-mayor-branded-a-right-wing-racist-conspiracy-theorist.html)
+
+Mayor of Derry and Strabane, Cllr Lilian Seenoi Barr.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man who posted messages about Derry mayor branded 'a right wing, racist conspiracy theorist'](https://www.derrynow.com/news/local-news/1682638/man-who-posted-messages-about-derry-mayor-branded-a-right-wing-racist-conspiracy-theorist.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -511,6 +513,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1682523/derry-death-notices-wednesday-december-18-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Wednesday, December 18, 2024](https://www.derrynow.com/news/deaths/1682523/derry-death-notices-wednesday-december-18-2024.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Rappers Kneecap among Irish talent shortlisted for Oscars](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Rappers Kneecap among Irish talent shortlisted for Oscars")](https://www.derrynow.com/news/local-news/1683153/rappers-kneecap-among-irish-talent-shortlisted-for-oscars.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -518,7 +527,7 @@ Advertise with Us
 [Rappers Kneecap among Irish talent shortlisted for Oscars](https://www.derrynow.com/news/local-news/1683153/rappers-kneecap-among-irish-talent-shortlisted-for-oscars.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[!['no place in our city for these kind of racist, fascist threats' - Foyle MP](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'no place in our city for these kind of racist, fascist threats' - Foyle MP")](https://www.derrynow.com/news/local-news/1683055/no-place-in-our-city-for-these-kind-of-racist-fascist-threats-foyle-mp.html)
+[!['no place in our city for these kind of racist, fascist threats' - Foyle MP](https://www.derrynow.com/resizer/165/93/true/2019/01/03084203/Colum-Eastwood.jpg--.jpg "'no place in our city for these kind of racist, fascist threats' - Foyle MP")](https://www.derrynow.com/news/local-news/1683055/no-place-in-our-city-for-these-kind-of-racist-fascist-threats-foyle-mp.html)
 
 Foyle MP Colum Eastwood.
 
@@ -553,13 +562,6 @@ PSNI
 
 [49-year-old man arrested on suspicion of a number of offences in Derry](https://www.derrynow.com/news/local-news/1682786/49-year-old-man-arrested-on-suspicion-of-a-number-of-offences-in-derry.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Police in Derry investigating after masked men attempt to force entry into van](https://www.derrynow.com/resizer/165/93/true/2024_02_26/75d09668-969e-11ed-a6c5-0210609a3fe2-1685351040715.jpg---1708952493894.jpg--.jpg?1708952493928 "Police in Derry investigating after masked men attempt to force entry into van")](https://www.derrynow.com/news/local-news/1682753/police-in-derry-investigating-after-masked-men-attempt-to-force-entry-into-van.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Police in Derry investigating after masked men attempt to force entry into van](https://www.derrynow.com/news/local-news/1682753/police-in-derry-investigating-after-masked-men-attempt-to-force-entry-into-van.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
