@@ -1094,6 +1094,8 @@ I agree to the collection and processing of the above information by NVIDIA <spa
 
 I agree that the above information will be transferred to NVIDIA Corporation in the United States and stored in a manner consistent with <a href="https://www.nvidia.com/en-us/about-nvidia/privacy-policy/?deeplink=visiting-our-website" target="\_blank">NVIDIA Privacy Policy</a> due to necessities for research, event organization and corresponding NVIDIA internal management and system operation need. You may contact us by sending an email to <a href="mailto:privacy@nvidia.com">privacy@nvidia.com</a> to resolve related problems.
 
+Remember me
+
 Submit
 
  
