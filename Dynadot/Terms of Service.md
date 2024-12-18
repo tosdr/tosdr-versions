@@ -2,7 +2,7 @@
 
 ![](https://www.facebook.com/tr?id=1013298092648180&ev=PageView&noscript=1)
 
-[Interested in Web3? Let .LOCKER be your stepping stone, registrations are now on sale for $11.49!](https://www.dynadot.com/domain/locker?utm_source=Promobar&utm_campaign=LOCKER%20Promobar%20Dec%202024&utm_medium=locker&drefid=4699)
+[Interested in Web3? Let .LOCKER be your stepping stone, registrations are now on sale for $11.49!](https://www.dynadot.com/domain/locker?utm_source=Promobar&utm_campaign=LOCKER%20Promobar%20Dec%202024&utm_medium=locker&drefid=4699)[Transfer your .COM domains for $10.50 to a safe home this season with code: GIFT1050 💙](https://www.dynadot.com/domain/transfer?utm_source=Promobar&utm_campaign=COM%20Transfer%20Promobar%20Dec%202024&utm_medium=com%20transfer&drefid=4694)
 
 [](https://www.dynadot.com/)
 
