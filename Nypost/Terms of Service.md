@@ -84,6 +84,10 @@ Search
 
 Search
 
+#### Breaking News
+
+[House Ethics Committee secretly votes to release Gaetz files on alleged sex misconduct probe: report](https://nypost.com/2024/12/18/us-news/house-ethics-committee-secretly-votes-to-release-matt-gaetz-file-report/)
+
 Terms Of Use
 ============
 
