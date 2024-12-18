@@ -13,7 +13,7 @@ Password
 
 ×
 
-[Log](#)
+Log
 
 [_More..._](#)
 
@@ -21,34 +21,55 @@ Password
 * [Add all films to a list…](#)
 * [Add all films to watchlist](#)
 
-Add to your films…
-==================
+##### Add to your films… I watched… Edit diary entry
 
-Name of Film 
-
-[Back](#)
+Back
 
   
 
- Add film to your diary? Watched on[](#)
+Name of Film 
+
+Or add
+
+ Add film to your diary?
+
+Watched on 
 
  I’ve watched this film before
+
+ Contains spoilers
+
+A moderator has locked spoilers for this review
 
 Tags
 
 Press Tab to complete, Enter to create
 
- Like
-
 Rating
 
-Who can view (Help) Default — Anyone (public) Close Friends (selected by you) You (private) Draft entry
+ Like
 
- Contains spoilers
+Privacy mode (Help) Default Anyone (public) Close Friends (selected by you) You (private)
 
-A moderator has locked this field.
+…
 
- [Delete](#)
+Anyone (public)
+
+Close Friends (selected by you)
+
+You (private)
+
+* * *
+
+Use account default
+
+Your diary date (if set) and watched status for this film will remain publicly visible if you change the privacy level of this entry. Add members to your Close Friends from their profile. Set your account default in [Settings](https://letterboxd.com/settings/).
+
+ Draft
+
+Draft entries are not public and do not count towards stats
+
+Delete Save
 
  
 
