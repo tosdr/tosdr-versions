@@ -205,25 +205,26 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Make Poverty History - Part One](https://www.somethingawful.com/comedy-goldmine/make-poverty-history/1/)
-* [Awful Propaganda Part 2](https://www.somethingawful.com/photoshop-phriday/awful-propaganda-2/)
-* [Clips4Sale!](https://www.somethingawful.com/photoshop-phriday/amateur-porn-descriptions/)
-* [Animal Anomalies](https://www.somethingawful.com/photoshop-phriday/animal-anomalies/1/)
-* [Animal Anomalies 6](https://www.somethingawful.com/photoshop-phriday/animal-anomalies6/1/)
+* [No Mutants Allowed, Scarleteen and Armenian Club](https://www.somethingawful.com/weekend-web/fallout-scarleteen-armenianclub/1/)
+* [The Cauldron, Wiccan Wisdom, and The Witch Forum](https://www.somethingawful.com/weekend-web/witch-forums/1/)
+* [Retro Junk](https://www.somethingawful.com/weekend-web/retrojunk/1/)
+* [Choose Your Own Humanities Career](https://www.somethingawful.com/news/humanities-career/1/)
+* [Frog Bog! (Part 2 of 2)](https://www.somethingawful.com/photoshop-phriday/frog-get-out2/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [Are you afraid of dying?](http://forums.somethingawful.com/showthread.php?threadid=4077689 "Are you afraid of dying?")
 * ![](https://fi.somethingawful.com/forums/posticons/fyad-sandwich.gif) [What's the best sour candy?](http://forums.somethingawful.com/showthread.php?threadid=4077714 "What's the best sour candy?")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/fruity.png) [House shoes and slippers](http://forums.somethingawful.com/showthread.php?threadid=4077708 "House shoes and slippers")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [Are you afraid of dying?](http://forums.somethingawful.com/showthread.php?threadid=4077689 "Are you afraid of dying?")
+* ![](https://fi.somethingawful.com/forums/posticons/cd_classic.gif) [Hooray!](http://forums.somethingawful.com/showthread.php?threadid=4077726 "Hooray!")
 
 ### Random Articles
 
-* [The Alf N' Willie Show](https://www.somethingawful.com/flash-tub/alf-show-cartoon/)
-* [You are now entering <P> Baron Orlav's Crypt! <P> BE](https://www.somethingawful.com/awful-links/awful-link-906/)
-* [Rate My Instructor: Professor X](https://www.somethingawful.com/news/professor-x-review/)
-* [Blog like you mean it, son](https://www.somethingawful.com/mooflogs/blog-like-you/)
-* [Other Jobs Video Game Baddies Could Do](https://www.somethingawful.com/comedy-goldmine/other-jobs-video/1/)
+* [Inseminoid](https://www.somethingawful.com/movie-reviews/inseminoid/1/)
+* [Attention Smurfs! You're Being Smurfed!](https://www.somethingawful.com/feature-articles/smurfs-names/)
+* [Le Pac-Man](https://www.somethingawful.com/flash-tub/french-pacman-cartoon/)
+* [VULVA Original](https://www.somethingawful.com/awful-links/awful-link-3626/)
+* [Some Stupid Ass Shit About Balancing Rocks](https://www.somethingawful.com/awful-links/awful-link-826/)
 
 [Random!](https://www.somethingawful.com/random/)
 
