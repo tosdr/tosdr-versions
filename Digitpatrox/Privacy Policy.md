@@ -20,16 +20,16 @@ Wednesday, December 18 2024
 
 Latest
 
-* [Selling on outcomes, not solutions – how the channel can improve sales success in 2025](https://digitpatrox.com/selling-on-outcomes-not-solutions-how-the-channel-can-improve-sales-success-in-2025/)
-* [What Grindy Tasks Can it Get Rid Of?](https://digitpatrox.com/what-grindy-tasks-can-it-get-rid-of/)
-* [Hexgears Immersion A3 TKL review](https://digitpatrox.com/hexgears-immersion-a3-tkl-review/)
-* [New fake Ledger data breach emails try to steal crypto wallets](https://digitpatrox.com/new-fake-ledger-data-breach-emails-try-to-steal-crypto-wallets/)
-* [Apple’s App Store is inviting me to ‘search the way you talk’](https://digitpatrox.com/apples-app-store-is-inviting-me-to-search-the-way-you-talk/)
-* [Where Do FaceTime Photos Go on a Mac?](https://digitpatrox.com/where-do-facetime-photos-go-on-a-mac/)
-* [This Beats Pill Speaker Is $50 Off Right Now, and It’ll Arrive Before Christmas](https://digitpatrox.com/this-beats-pill-speaker-is-50-off-right-now-and-itll-arrive-before-christmas/)
-* [How to watch StackTV from anywhere](https://digitpatrox.com/how-to-watch-stacktv-from-anywhere/)
-* [How to Save $500 on Your Cell Phone Plan](https://digitpatrox.com/how-to-save-500-on-your-cell-phone-plan/)
-* [The Best External Solid State Drives (SSDs) of 2024](https://digitpatrox.com/the-best-external-solid-state-drives-ssds-of-2024/)
+* [That new Copilot key on your keyboard? It’s useless for business – Computerworld](https://digitpatrox.com/that-new-copilot-key-on-your-keyboard-its-useless-for-business-computerworld/)
+* [Is the Treadmill or Your Watch More Accurate on How Far You’ve Run?](https://digitpatrox.com/is-the-treadmill-or-your-watch-more-accurate-on-how-far-youve-run/)
+* [Ransomware gang says it’s responsible for data breach at Pennsylvania food producer](https://digitpatrox.com/ransomware-gang-says-its-responsible-for-data-breach-at-pennsylvania-food-producer/)
+* [How to change compose and reply settings in Outlook app for Windows 11, 10](https://digitpatrox.com/how-to-change-compose-and-reply-settings-in-outlook-app-for-windows-11-10/)
+* [Flying With a Baby: What to Pack in Your Carry-On](https://digitpatrox.com/flying-with-a-baby-what-to-pack-in-your-carry-on/)
+* [Why and How I Turned Off Apple Intelligence Notification Summaries on iPhone and Mac](https://digitpatrox.com/why-and-how-i-turned-off-apple-intelligence-notification-summaries-on-iphone-and-mac/)
+* [LastPass breach comes back to haunt users as hackers steal $12 million in cryptocurrency](https://digitpatrox.com/lastpass-breach-comes-back-to-haunt-users-as-hackers-steal-12-million-in-cryptocurrency/)
+* [Australia Unveils National AI Plan to Boost Investment and Capabilities](https://digitpatrox.com/australia-unveils-national-ai-plan-to-boost-investment-and-capabilities/)
+* [Cynthia Erivo got just three hours sleep a night filming ‘Wicked’ — here’s how to manage your sleep during a busy period](https://digitpatrox.com/cynthia-erivo-got-just-three-hours-sleep-a-night-filming-wicked-heres-how-to-manage-your-sleep-during-a-busy-period/)
+* [Recorded Future CEO applauds “undesirable” designation by Russia](https://digitpatrox.com/recorded-future-ceo-applauds-undesirable-designation-by-russia/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/Bhkuofd9LWaGzyt5VwymKH-1200-80.jpg)](https://digitpatrox.com/selling-on-outcomes-not-solutions-how-the-channel-can-improve-sales-success-in-2025/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3627584-0-60812500-1734547158-1-copilot-key-100955022-orig.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/that-new-copilot-key-on-your-keyboard-its-useless-for-business-computerworld/)
     
-    [Selling on outcomes, not solutions – how the channel can improve sales success in 2025](https://digitpatrox.com/selling-on-outcomes-not-solutions-how-the-channel-can-improve-sales-success-in-2025/)
+    [That new Copilot key on your keyboard? It’s useless for business – Computerworld](https://digitpatrox.com/that-new-copilot-key-on-your-keyboard-its-useless-for-business-computerworld/)
     
-    26 minutes ago
+    9 minutes ago
     
-* [![](https://assets.techrepublic.com/uploads/2024/12/rpa-contact-center-featured-image-12162024-min.jpg)](https://digitpatrox.com/what-grindy-tasks-can-it-get-rid-of/)
+* [![](https://lifehacker.com/imagery/articles/01JFDBEY6KYAR6225Q0XFHY06A/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/is-the-treadmill-or-your-watch-more-accurate-on-how-far-youve-run/)
     
-    [What Grindy Tasks Can it Get Rid Of?](https://digitpatrox.com/what-grindy-tasks-can-it-get-rid-of/)
+    [Is the Treadmill or Your Watch More Accurate on How Far You’ve Run?](https://digitpatrox.com/is-the-treadmill-or-your-watch-more-accurate-on-how-far-youve-run/)
     
-    30 minutes ago
+    37 minutes ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/rFL7g25RFLeTcHVnW2nFub-1200-80.jpg)](https://digitpatrox.com/hexgears-immersion-a3-tkl-review/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/12/Ransomware-gang-says-it-hacked-Pennsylvania-food-producer.jpg)](https://digitpatrox.com/ransomware-gang-says-its-responsible-for-data-breach-at-pennsylvania-food-producer/)
     
-    [Hexgears Immersion A3 TKL review](https://digitpatrox.com/hexgears-immersion-a3-tkl-review/)
+    [Ransomware gang says it’s responsible for data breach at Pennsylvania food producer](https://digitpatrox.com/ransomware-gang-says-its-responsible-for-data-breach-at-pennsylvania-food-producer/)
     
-    34 minutes ago
+    43 minutes ago
     
-* [![](https://www.bleepstatic.com/content/hl-images/2023/12/14/blocks-1.jpg)](https://digitpatrox.com/new-fake-ledger-data-breach-emails-try-to-steal-crypto-wallets/)
+* [![](https://pureinfotech.com/wp-content/uploads/2024/12/outlook-compose-reply-hero-mauro-huculak.webp)](https://digitpatrox.com/how-to-change-compose-and-reply-settings-in-outlook-app-for-windows-11-10/)
     
-    [New fake Ledger data breach emails try to steal crypto wallets](https://digitpatrox.com/new-fake-ledger-data-breach-emails-try-to-steal-crypto-wallets/)
+    [How to change compose and reply settings in Outlook app for Windows 11, 10](https://digitpatrox.com/how-to-change-compose-and-reply-settings-in-outlook-app-for-windows-11-10/)
     
-    2 hours ago
+    44 minutes ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/4Wp1aFVuIz-lAaRsk6d070BFRiA=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/23925968/acastro_STK045_03.jpg)](https://digitpatrox.com/apples-app-store-is-inviting-me-to-search-the-way-you-talk/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1734454609/prod/content/dam/CRO-Images-2024/Babies/CR-Babies-InlineHero-What-to-Pack-Carry-on-Babies-1224)](https://digitpatrox.com/flying-with-a-baby-what-to-pack-in-your-carry-on/)
     
-    [Apple’s App Store is inviting me to ‘search the way you talk’](https://digitpatrox.com/apples-app-store-is-inviting-me-to-search-the-way-you-talk/)
+    [Flying With a Baby: What to Pack in Your Carry-On](https://digitpatrox.com/flying-with-a-baby-what-to-pack-in-your-carry-on/)
     
-    2 hours ago
+    47 minutes ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,45 +208,45 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [26 minutes ago
+* [9 minutes ago
     
-    ### Selling on outcomes, not solutions – how the channel can improve sales success in 2025](https://digitpatrox.com/selling-on-outcomes-not-solutions-how-the-channel-can-improve-sales-success-in-2025/)
-* [30 minutes ago
+    ### That new Copilot key on your keyboard? It’s useless for business – Computerworld](https://digitpatrox.com/that-new-copilot-key-on-your-keyboard-its-useless-for-business-computerworld/)
+* [37 minutes ago
     
-    ### What Grindy Tasks Can it Get Rid Of?](https://digitpatrox.com/what-grindy-tasks-can-it-get-rid-of/)
-* [34 minutes ago
+    ### Is the Treadmill or Your Watch More Accurate on How Far You’ve Run?](https://digitpatrox.com/is-the-treadmill-or-your-watch-more-accurate-on-how-far-youve-run/)
+* [43 minutes ago
     
-    ### Hexgears Immersion A3 TKL review](https://digitpatrox.com/hexgears-immersion-a3-tkl-review/)
+    ### Ransomware gang says it’s responsible for data breach at Pennsylvania food producer](https://digitpatrox.com/ransomware-gang-says-its-responsible-for-data-breach-at-pennsylvania-food-producer/)
 
 Most Popular Topics
 
-* [November 16, 2024
+* [October 6, 2024
     
-    ### Narwal’s Freo X Ultra, the best mopping robot available, is on sale for a new low price](https://digitpatrox.com/narwals-freo-x-ultra-the-best-mopping-robot-available-is-on-sale-for-a-new-low-price/)
-* [4 weeks ago
+    ### Jeff Bezos’ Blue Origin plans to launch a new crew capsule on Monday](https://digitpatrox.com/jeff-bezos-blue-origin-plans-to-launch-a-new-crew-capsule-on-monday/)
+* [October 16, 2024
     
-    ### Apple plans for a smarter LLM-based Siri smart assistant – Computerworld](https://digitpatrox.com/apple-plans-for-a-smarter-llm-based-siri-smart-assistant-computerworld/)
-* [October 23, 2024
+    ### Test – Best VPNs for Linux](https://digitpatrox.com/test-best-vpns-for-linux/)
+* [August 24, 2024
     
-    ### SUVs and Minivans With the Best Third-Row Seats](https://digitpatrox.com/suvs-and-minivans-with-the-best-third-row-seats/)
+    ### US oil giant Halliburton confirms cyberattack behind systems shutdown](https://digitpatrox.com/us-oil-giant-halliburton-confirms-cyberattack-behind-systems-shutdown/)
 
 Last Modified Topics
 
-* [5 hours ago
+* [1 hour ago
     
-    ### This Beats Pill Speaker Is $50 Off Right Now, and It’ll Arrive Before Christmas](https://digitpatrox.com/this-beats-pill-speaker-is-50-off-right-now-and-itll-arrive-before-christmas/)
-* [5 hours ago
+    ### LastPass breach comes back to haunt users as hackers steal $12 million in cryptocurrency](https://digitpatrox.com/lastpass-breach-comes-back-to-haunt-users-as-hackers-steal-12-million-in-cryptocurrency/)
+* [2 hours ago
     
-    ### How to watch StackTV from anywhere](https://digitpatrox.com/how-to-watch-stacktv-from-anywhere/)
-* [5 hours ago
+    ### Australia Unveils National AI Plan to Boost Investment and Capabilities](https://digitpatrox.com/australia-unveils-national-ai-plan-to-boost-investment-and-capabilities/)
+* [2 hours ago
     
-    ### How to Save $500 on Your Cell Phone Plan](https://digitpatrox.com/how-to-save-500-on-your-cell-phone-plan/)
+    ### Cynthia Erivo got just three hours sleep a night filming ‘Wicked’ — here’s how to manage your sleep during a busy period](https://digitpatrox.com/cynthia-erivo-got-just-three-hours-sleep-a-night-filming-wicked-heres-how-to-manage-your-sleep-during-a-busy-period/)
 
 Most Viewed Topics
 
 * [August 13, 2024
     
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [August 12, 2024
     
     ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
