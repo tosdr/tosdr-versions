@@ -191,6 +191,7 @@ Main menu
 * [Instagram](https://www.instagram.com/victorianparliament/ "Visit on Instagram")
 * [Facebook](https://www.facebook.com/VicParliament "Visit on Facebook")
 * [Youtube](https://www.youtube.com/user/parliamentofvictoria "Visit on YouTube")
+* [Bluesky](https://bsky.app/profile/vicparliament.bsky.social "Visit on Bluesky")
 
 * * *
 
@@ -384,6 +385,7 @@ Footer Navigation
 * [Instagram Instagram](https://www.instagram.com/victorianparliament/)
 * [Facebook Facebook](https://www.facebook.com/VicParliament)
 * [YouTube Youtube](https://www.youtube.com/user/parliamentofvictoria)
+* [Bluesky Bluesky](https://bsky.app/profile/vicparliament.bsky.social)
 
 * * *
 
