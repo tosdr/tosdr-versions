@@ -17,7 +17,7 @@ English Edition
 * [অসমীয়া (Assam)](https://assam.news18.com/)
 * [ଓଡ଼ିଆ (Odia)](https://odia.news18.com/)
 
-Wed, Dec 18, 2024
+Thu, Dec 19, 2024
 
 [Download News18 APP](https://onelink.to/eng-web-other)[Watch LIVE TV](https://www.news18.com/livetv/)
 
@@ -128,10 +128,10 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [R Ashwin Retires](https://www.news18.com/cricket/ravichandran-ashwin-announces-retirement-india-cricketer-border-gavaskar-trophy-india-vs-australia-2024-liveblog-9160055.html)
-    * [Laapataa Ladies](https://www.news18.com/movies/laapataa-ladies-oscar-run-ends-ricky-kej-says-aamir-khan-backed-film-wrong-choice-to-represent-india-9159875.html)
     * [WTC Points Table](https://www.news18.com/cricket/updated-wtc-2023-25-points-table-after-india-australia-3rd-test-ends-in-a-draw-9159864.html)
-    * [Atlee](https://www.news18.com/movies/atlee-confirms-bang-on-collaboration-with-salman-khan-itll-be-the-proudest-film-of-our-country-9159802.html)
+    * [Boat Collision](https://www.news18.com/india/how-boat-collided-with-neelkamal-ferry-off-mumbai-coast-caught-on-cam-9160735.html)
+    * [Alia Bhatt](https://www.news18.com/movies/alia-bhatt-reacts-to-ranbir-kapoor-being-trolled-for-ignoring-her-at-raj-kapoor-film-festival-they-dont-9160464.html)
+    * [Mohammad Shami](https://www.news18.com/cricket/mohammad-shami-flying-to-australia-for-bgt-rohit-sharma-responds-i-think-its-high-time-ws-b-9160353.html)
     * [Maha Kumbh Mela](https://www.news18.com/kumbh-mela/)
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 * News18 Initiatives
@@ -169,10 +169,10 @@ Follow us on
 
 In Trends:
 
-* [R Ashwin Retires](https://www.news18.com/cricket/ravichandran-ashwin-announces-retirement-india-cricketer-border-gavaskar-trophy-india-vs-australia-2024-liveblog-9160055.html)
-* [Laapataa Ladies](https://www.news18.com/movies/laapataa-ladies-oscar-run-ends-ricky-kej-says-aamir-khan-backed-film-wrong-choice-to-represent-india-9159875.html)
 * [WTC Points Table](https://www.news18.com/cricket/updated-wtc-2023-25-points-table-after-india-australia-3rd-test-ends-in-a-draw-9159864.html)
-* [Atlee](https://www.news18.com/movies/atlee-confirms-bang-on-collaboration-with-salman-khan-itll-be-the-proudest-film-of-our-country-9159802.html)
+* [Boat Collision](https://www.news18.com/india/how-boat-collided-with-neelkamal-ferry-off-mumbai-coast-caught-on-cam-9160735.html)
+* [Alia Bhatt](https://www.news18.com/movies/alia-bhatt-reacts-to-ranbir-kapoor-being-trolled-for-ignoring-her-at-raj-kapoor-film-festival-they-dont-9160464.html)
+* [Mohammad Shami](https://www.news18.com/cricket/mohammad-shami-flying-to-australia-for-bgt-rohit-sharma-responds-i-think-its-high-time-ws-b-9160353.html)
 * [Maha Kumbh Mela](https://www.news18.com/kumbh-mela/)
 * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 
@@ -428,7 +428,7 @@ This Policy was last updated as of 14th November 2024.
 
 ![](https://images.news18.com/ibnlive/uploads/2021/07/1627283897_news18_logo-1200x800.jpg)
 
-Dec 18, 2024
+Dec 19, 2024
 
 [View All](https://www.news18.com/short-news/)
 
