@@ -196,57 +196,59 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> One of the best decisions I've made for my business
-> ---------------------------------------------------
+> Enjoying Invoices Online
+> ------------------------
 > 
-> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
+> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
+> 
+> I have upgraded to the Gold account in order to support you guys!
 
-Anri van der Linde
+Shaun Gartshore
 
-![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=9566fa0c5de224c154d31df660c9dcb746a0647fe98f0209e256f75d6a6fda03&c=26557583)  
-Dombieterfontein (PTY) LTD
+![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=977b369a5ac2d460e1bca7917ec215345243b9d4d414f0048c720b597a143b59&c=210428675)  
+Lizzy Pop PTY(Ltd)
 
-![valued client FlipDesign - Renovation Contracting Firm](https://www.invoicesonline.co.za/scripts/image.php?bid=8663&file=logo_300_100&type=&fe=9566fa0c5de224c154d31df660c9dcb746a0647fe98f0209e256f75d6a6fda03&c=108641499)  
-FlipDesign - Renovation Contracting Firm
+![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=977b369a5ac2d460e1bca7917ec215345243b9d4d414f0048c720b597a143b59&c=3866061)  
+VIV'S TRUCKS (Pty) Ltd. (651)
 
-![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=9566fa0c5de224c154d31df660c9dcb746a0647fe98f0209e256f75d6a6fda03&c=148685507)  
-CGHK Enterprises (PTY) LTD
+![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=977b369a5ac2d460e1bca7917ec215345243b9d4d414f0048c720b597a143b59&c=73175387)  
+Gemini-IT Group
 
-![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=9566fa0c5de224c154d31df660c9dcb746a0647fe98f0209e256f75d6a6fda03&c=183053916)  
-Mtunzini Group
+![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=977b369a5ac2d460e1bca7917ec215345243b9d4d414f0048c720b597a143b59&c=164348858)  
+Testpro Laboratory (Pty) Ltd
 
-![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=9566fa0c5de224c154d31df660c9dcb746a0647fe98f0209e256f75d6a6fda03&c=173031562)  
-Alliance Energy
+![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=977b369a5ac2d460e1bca7917ec215345243b9d4d414f0048c720b597a143b59&c=130658510)  
+Camp 4 Africa (Pty) Ltd
 
-![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=9566fa0c5de224c154d31df660c9dcb746a0647fe98f0209e256f75d6a6fda03&c=27322934)  
-BEE SURE CONSULTING (PTY) LTD
+![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=977b369a5ac2d460e1bca7917ec215345243b9d4d414f0048c720b597a143b59&c=98199580)  
+Kaylas Creations
 
-![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=9566fa0c5de224c154d31df660c9dcb746a0647fe98f0209e256f75d6a6fda03&c=98532355)  
-OXYAIDER (PTY) LTD
+![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=977b369a5ac2d460e1bca7917ec215345243b9d4d414f0048c720b597a143b59&c=77092440)  
+Immediate Health (pty)ltd
 
-![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=9566fa0c5de224c154d31df660c9dcb746a0647fe98f0209e256f75d6a6fda03&c=213197895)  
-Leef in Afrikaans
+![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=977b369a5ac2d460e1bca7917ec215345243b9d4d414f0048c720b597a143b59&c=102829736)  
+NIMAWELL
 
-![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=9566fa0c5de224c154d31df660c9dcb746a0647fe98f0209e256f75d6a6fda03&c=85822365)  
-Moremi Kitchens Rustenburg
+![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=977b369a5ac2d460e1bca7917ec215345243b9d4d414f0048c720b597a143b59&c=211001123)  
+Digifax (Pty) Ltd T/A SecurityHyper
 
-![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=9566fa0c5de224c154d31df660c9dcb746a0647fe98f0209e256f75d6a6fda03&c=209902555)  
-Chiron Medical Solutions
+![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=977b369a5ac2d460e1bca7917ec215345243b9d4d414f0048c720b597a143b59&c=127003043)  
+SA Security Brokerz (Pty) Ltd
 
-![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=9566fa0c5de224c154d31df660c9dcb746a0647fe98f0209e256f75d6a6fda03&c=171470911)  
-FJW Security Cc
+![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=977b369a5ac2d460e1bca7917ec215345243b9d4d414f0048c720b597a143b59&c=29286623)  
+African Roots
 
-![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=9566fa0c5de224c154d31df660c9dcb746a0647fe98f0209e256f75d6a6fda03&c=21174747)  
-Myfinance-Online
+![valued client Fox Alarms & Security CC](https://www.invoicesonline.co.za/scripts/image.php?bid=5134&file=logo_300_100&type=&fe=977b369a5ac2d460e1bca7917ec215345243b9d4d414f0048c720b597a143b59&c=211841679)  
+Fox Alarms & Security CC
 
-![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=9566fa0c5de224c154d31df660c9dcb746a0647fe98f0209e256f75d6a6fda03&c=39037275)  
-ELLIE'S CLEANING CHICKS
+![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=977b369a5ac2d460e1bca7917ec215345243b9d4d414f0048c720b597a143b59&c=208199905)  
+Imhoff Equestrian Centre
 
-![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=9566fa0c5de224c154d31df660c9dcb746a0647fe98f0209e256f75d6a6fda03&c=50234110)  
-Xpress Designs
+![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=977b369a5ac2d460e1bca7917ec215345243b9d4d414f0048c720b597a143b59&c=155116703)  
+CLEVER STUDENTS
 
-![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=9566fa0c5de224c154d31df660c9dcb746a0647fe98f0209e256f75d6a6fda03&c=88810044)  
-APTV Telecoms CC
+![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=977b369a5ac2d460e1bca7917ec215345243b9d4d414f0048c720b597a143b59&c=15939220)  
+Moving Made Easy (PTY) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
