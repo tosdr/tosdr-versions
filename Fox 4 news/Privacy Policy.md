@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Taco Bell is adding something unexpected to the menu](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-1945793217.jpg?ve=1&tl=1)
+ [![North Texas’ supply of O- and B- blood is critically low](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/4196tz-carter-bloodcare-critical-supply-mode_00.00.19.06.jpg?ve=1&tl=1)
 
- ![Taco Bell is adding something unexpected to the menu](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-1945793217.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/taco-bell-chicken-nuggets-december-2024)
+ ![North Texas’ supply of O- and B- blood is critically low](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/4196tz-carter-bloodcare-critical-supply-mode_00.00.19.06.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/north-texas-blood-supply-o-b-negative-critical-need)
 
-### [Taco Bell is adding something unexpected to the menu](https://www.fox4news.com/news/taco-bell-chicken-nuggets-december-2024)
+### [North Texas’ supply of O- and B- blood is critically low](https://www.fox4news.com/news/north-texas-blood-supply-o-b-negative-critical-need)
 
- [![VIDEO: Two killed in DeSoto house fire as flames and smoke engulf home](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/fire-desoto.png?ve=1&tl=1)
+ [![Recipe: How to make chicken tamales from Cantina Laredo](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/40153939493043a38d412c7db58ef26d-e1734548106433.jpg?ve=1&tl=1)
 
- ![VIDEO: Two killed in DeSoto house fire as flames and smoke engulf home](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/fire-desoto.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/desoto-house-fire)
+ ![Recipe: How to make chicken tamales from Cantina Laredo](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/40153939493043a38d412c7db58ef26d-e1734548106433.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/chicken-tamale-recipe)
 
-### [VIDEO: Two killed in DeSoto house fire as flames and smoke engulf home](https://www.fox4news.com/news/desoto-house-fire)
+### [Recipe: How to make chicken tamales from Cantina Laredo](https://www.fox4news.com/news/chicken-tamale-recipe)
 
- [![Mega Millions numbers: Jackpot hits $825 million for next drawing](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/mega-millions.jpg?ve=1&tl=1)
+ [![Supreme Court agrees to hear arguments over TikTok ban](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/tiktok-logo.jpg?ve=1&tl=1)
 
- ![Mega Millions numbers: Jackpot hits $825 million for next drawing](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/mega-millions.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mega-millions-jackpot-lottery-numbers-december-18-2024)
+ ![Supreme Court agrees to hear arguments over TikTok ban](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/tiktok-logo.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/supreme-court-hear-arguments-tiktok-ban)
 
-### [Mega Millions numbers: Jackpot hits $825 million for next drawing](https://www.fox4news.com/news/mega-millions-jackpot-lottery-numbers-december-18-2024)
+### [Supreme Court agrees to hear arguments over TikTok ban](https://www.fox4news.com/news/supreme-court-hear-arguments-tiktok-ban)
 
- [![Archaeologists uncover earliest known evidence of Christianity north of the Alps: 'Unusual for this time'](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/deteilaunahme-von-grab-134-copyright-denkmalamt-stadt-frankfurt-am-main-foto-michael-obst.jpg?ve=1&tl=1)
+ [![Message in a bottle makes it from Florida to Texas - and will keep going](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/foxwx-message-bottle1.jpg?ve=1&tl=1)
 
- ![Archaeologists uncover earliest known evidence of Christianity north of the Alps: 'Unusual for this time'](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/deteilaunahme-von-grab-134-copyright-denkmalamt-stadt-frankfurt-am-main-foto-michael-obst.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/archaeologists-uncover-earliest-known-evidence-christianity-north-alps-unusual-time)
+ ![Message in a bottle makes it from Florida to Texas - and will keep going](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/foxwx-message-bottle1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/message-bottle-makes-from-florida-texas-will-keep-going)
 
-### [Archaeologists uncover earliest known evidence of Christianity north of the Alps: 'Unusual for this time'](https://www.fox4news.com/news/archaeologists-uncover-earliest-known-evidence-christianity-north-alps-unusual-time)
+### [Message in a bottle makes it from Florida to Texas - and will keep going](https://www.fox4news.com/news/message-bottle-makes-from-florida-texas-will-keep-going)
 
- [![Texas High School Football State Championship Games: Wednesday](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/06/32/18/GettyImages-1084725300.jpg?ve=1&tl=1)
+ [![Weatherford police shoot man who pointed gun at them during domestic response](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/121824-weatherford-ois-kdfweme002_10_42_35_mpg_00.02.48.30.jpg?ve=1&tl=1)
 
- ![Texas High School Football State Championship Games: Wednesday](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/06/32/18/592/333/GettyImages-1084725300.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/texas-high-school-football-state-championship-games-wednesday)
+ ![Weatherford police shoot man who pointed gun at them during domestic response](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/121824-weatherford-ois-kdfweme002_10_42_35_mpg_00.02.48.30.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/weatherford-police-officer-involved-shooting)
 
-### [Texas High School Football State Championship Games: Wednesday](https://www.fox4news.com/sports/texas-high-school-football-state-championship-games-wednesday)
+### [Weatherford police shoot man who pointed gun at them during domestic response](https://www.fox4news.com/news/weatherford-police-officer-involved-shooting)
 
 ###### [News](https://www.fox4news.com/news)
 
