@@ -272,6 +272,8 @@ Sending funds for an Order as a transaction with incorrect parameters. If the Or
 
 7.9. In some cases, when for objective reasons the User cannot provide sufficient evidence of the source of the funds received, as well as in the case of a personal acquaintance of the sender with the alleged criminal who sent the funds to the User, as an exception, the User may be asked to undergo identity verification.
 
+7.10. FixedFloat reserves the right to restrict access to services, including suspending the fulfillment of new orders, if the User is undergoing an investigation related to a violation of the Rules or suspicion of fraud, money laundering, or other illegal activities.
+
 ### Section 8 Personal Data
 
 8.1. By accepting these Terms, you expressly allow FixedFloat to process your personal data, export your personal data outside of the jurisdiction in which you reside or are located.
