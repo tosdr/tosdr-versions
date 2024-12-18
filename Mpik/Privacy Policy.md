@@ -294,6 +294,7 @@ Als betroffene Person, deren personenbezogene Daten im Rahmen der oben genannten
                 * [μTEx](https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/stored-and-cooled-ions/research/mutex "μTEx")
                 * [COLLAPS (CERN)](https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/stored-and-cooled-ions/research/collaps-cern "COLLAPS (CERN)")
                 * [Cryogenic Storage Ring](https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/stored-and-cooled-ions/research/csr "Cryogenic Storage Ring")
+                * [Projekt Oldrich Novotny](https://www.mpi-hd.mpg.de/mpi/en/forschung/abteilungen-und-gruppen/gespeicherte-und-gekuehlte-ionen/forschung/projekt-oldrich-novotny "Projekt Oldrich Novotny")
             * [Teaching](https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/stored-and-cooled-ions/teaching "Teaching")
                 * [Lecture Archive](https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/stored-and-cooled-ions/teaching/lecture-archive "Lecture Archive")
                 * [Lecture Archive 2008- 2022](https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/stored-and-cooled-ions/teaching/lecture-archive-2008-2022 "Lecture Archive 2008- 2022")
