@@ -327,7 +327,7 @@ United States
 * [College Support](https://www.pearson.com/en-us/higher-education/support.html)
 * [Work Support](https://www.pearson.com/en-us/work/support.html)
 * [Global Rights Licensing](https://www.pearson.com/en-us/legal-information/global-rights-licensing.html)
-* [Global Permissions](http://www.pearson.com/global-permission-granting.html)
+* [Global Permissions](https://www.pearson.com/global-permission-granting.html)
 
  [![Pearson](/content/dam/help/hedReimagined/logos/logo-hed--on-dark.svg)](https://www.pearson.com/en-us.html)
 
