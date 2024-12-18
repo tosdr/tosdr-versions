@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/12/design-wallpaper-lego-feature.jpg)
+
+[](https://theinspirationgrid.com/lego-wallpaper-present-the-worlds-first-buildable-magazine-cover/)
+
+### LEGO & Wallpaper Present The World’s First Buildable Magazine Cover
+
+![](https://inspgr.id/app/uploads/2024/12/3d-unhappy-boy-feature.jpg)
+
+[](https://theinspirationgrid.com/unhappy-boy-a-moody-cast-of-characters-by-tzeho-lai/)
+
+### Unhappy Boy: A Moody Cast of Characters by Tzeho Lai
+
 ![](https://inspgr.id/app/uploads/2024/12/photography-hiroki-matsubara-feature.jpg)
 
 [](https://theinspirationgrid.com/breathtaking-photos-of-japan-by-hiroki-matsubara/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/edgy-illustrated-portraits-by-kirsten-rothbart/)
 
 ### Edgy Illustrated Portraits by Kirsten Rothbart
-
-![](https://inspgr.id/app/uploads/2024/12/design-andrew-hudson-feature.jpg)
-
-[](https://theinspirationgrid.com/flair-flourish-the-amazing-work-of-andrew-hudson/)
-
-### Flair & Flourish: The Amazing Work of Andrew Hudson
-
-![](https://inspgr.id/app/uploads/2024/12/3d-ruslan-tihomirow-feature.jpg)
-
-[](https://theinspirationgrid.com/lego-x-japanese-aesthetics-3d-creations-by-ruslan-tihomirow/)
-
-### Lego x Japanese Aesthetics: 3D Creations by Ruslan Tihomirow
 
 Awesome products for creatives
 ------------------------------
