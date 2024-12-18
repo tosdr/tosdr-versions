@@ -1,10 +1,10 @@
-**Fellow Patriot:** The voluntary financial generosity of supporters like _you_ keeps our hard-hitting analysis coming. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us) today. Thank you for your support! —Nate Jackson, Managing Editor
+**Publisher's Note:** One of the most significant things you can do to promote Liberty is to [support our mission](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us). Please [make your gift to the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us) today. Thank you! —Mark Alexander, Publisher
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/112914-mid-day-digest-2024-12-17?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/112955-mid-day-digest-2024-12-18?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Subscriber/User Terms and Conditions of Service
 
@@ -189,7 +189,7 @@ These Terms and Conditions, together with the Privacy Policy, represent the enti
 
 All users and subscribers of Web site agree to abide by and comply with these "Subscriber/User Terms and Conditions of Service," as set forth by Publius Press, Inc., publisher of The Patriot Post, as a condition of subscription or use.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/112914-mid-day-digest-2024-12-17?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/112955-mid-day-digest-2024-12-18?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
@@ -207,6 +207,8 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Top Opinion
 
+*      [Mark Alexander Yes, Virginia…](https://patriotpost.us/alexander/112962-yes-virginia-dot-dot-dot-2024-12-18)
+*      [Jeff Jacoby A Commutation for Federal Death Row Inmates Would Be a Travesty of Justice](https://patriotpost.us/opinion/112960-a-commutation-for-federal-death-row-inmates-would-be-a-travesty-of-justice-2024-12-18)
 *      [Byron York Trump’s Popularity Is Rising — What Will the Resistance Do?](https://patriotpost.us/opinion/112941-trumps-popularity-is-rising-what-will-the-resistance-do-2024-12-18)
 *      [Tim Graham ABC’s Payment to Trump Creates ‘Chilling Effect’](https://patriotpost.us/opinion/112940-abcs-payment-to-trump-creates-chilling-effect-2024-12-18)
 *      [Star Parker Did Luigi Mangione Murder Because of ‘Emotional Disturbance’?](https://patriotpost.us/opinion/112939-did-luigi-mangione-murder-because-of-emotional-disturbance-2024-12-18)
@@ -231,11 +233,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[Wear Your Patriotism on Your Sleeve
-
- 
-
-Shop Now](https://patriotpostshop.com/)
+No MSM Churn No Clickbait Junk No Advertising
 
 ### The Foundation
 
