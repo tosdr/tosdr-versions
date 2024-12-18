@@ -109,7 +109,7 @@
     
 * [Programming & Tech](https://www.fiverr.com/categories/programming-tech?source=category_tree)
     
-    * [Website Development](https://www.fiverr.com/cp/website-design-development)
+    * [Website Development](https://www.fiverr.com/categories/programming-tech/website-development?source=category_tree)
     * [Business Websites](https://www.fiverr.com/categories/programming-tech/buy/website-development/business?source=category_tree&ref=website_type%3Abusiness)
     * [E-Commerce Development](https://www.fiverr.com/categories/programming-tech/buy/website-development/e-commerce?source=category_tree&ref=website_type%3Ae_commerce)
     * [Landing Pages](https://www.fiverr.com/categories/programming-tech/buy/website-development/landing-page?source=category_tree&ref=website_type%3Alanding_page)
@@ -135,7 +135,7 @@
     * [AI Integrations](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-integrations?source=category_tree)
     * [AI Agents](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-agents-development?source=category_tree)
     * [AI Fine-Tuning](https://www.fiverr.com/categories/data/data-science/ai-fine-tuning?source=category_tree)
-    * [AI Technology Consulting](https://www.fiverr.com/categories/programming-tech/ai-coding/AI-Technology-Consulting?source=category_tree)
+    * [AI Technology Consultingnew](https://www.fiverr.com/categories/programming-tech/ai-coding/AI-Technology-Consulting?source=category_tree)
     
     * [Chatbot Development](https://www.fiverr.com/categories/programming-tech/chatbots?source=category_tree)
     * [AI Chatbot](https://www.fiverr.com/categories/programming-tech/chatbots/ai-chatbot-development?source=category_tree)
@@ -554,7 +554,7 @@
     * [AI Integrations](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-integrations?source=category_tree)
     * [AI Agents](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-agents-development?source=category_tree)
     * [AI Fine-Tuning](https://www.fiverr.com/categories/data/data-science/ai-fine-tuning?source=category_tree)
-    * [AI Technology Consulting](https://www.fiverr.com/categories/programming-tech/ai-coding/AI-Technology-Consulting?source=category_tree)
+    * [AI Technology Consultingnew](https://www.fiverr.com/categories/programming-tech/ai-coding/AI-Technology-Consulting?source=category_tree)
     
     * Data
         
@@ -679,7 +679,7 @@
     
     * Tech Consulting
         
-    * [AI Technology Consulting](https://www.fiverr.com/categories/programming-tech/ai-coding/AI-Technology-Consulting?source=category_tree)
+    * [AI Technology Consultingnew](https://www.fiverr.com/categories/programming-tech/ai-coding/AI-Technology-Consulting?source=category_tree)
     * [Website Consulting](https://www.fiverr.com/categories/programming-tech/website-maintenance/consultation?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
     * [Mobile App Consulting](https://www.fiverr.com/categories/programming-tech/mobile-app-maintenance/consultation?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
     * [Game Development Consulting](https://www.fiverr.com/categories/programming-tech/game-development/consultation?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
@@ -822,7 +822,7 @@ Browse categories
     
     Programming & Tech
     
-    * [Website Development](https://www.fiverr.com/cp/website-design-development)
+    * [Website Development](https://www.fiverr.com/categories/programming-tech/website-development?source=category_tree)
     * [Business Websites](https://www.fiverr.com/categories/programming-tech/buy/website-development/business?source=category_tree&ref=website_type%3Abusiness)
     * [E-Commerce Development](https://www.fiverr.com/categories/programming-tech/buy/website-development/e-commerce?source=category_tree&ref=website_type%3Ae_commerce)
     * [Landing Pages](https://www.fiverr.com/categories/programming-tech/buy/website-development/landing-page?source=category_tree&ref=website_type%3Alanding_page)
@@ -848,7 +848,7 @@ Browse categories
     * [AI Integrations](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-integrations?source=category_tree)
     * [AI Agents](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-agents-development?source=category_tree)
     * [AI Fine-Tuning](https://www.fiverr.com/categories/data/data-science/ai-fine-tuning?source=category_tree)
-    * [AI Technology Consulting](https://www.fiverr.com/categories/programming-tech/ai-coding/AI-Technology-Consulting?source=category_tree)
+    * [AI Technology ConsultingNew](https://www.fiverr.com/categories/programming-tech/ai-coding/AI-Technology-Consulting?source=category_tree)
     
     * [Chatbot Development](https://www.fiverr.com/categories/programming-tech/chatbots?source=category_tree)
     * [AI Chatbot](https://www.fiverr.com/categories/programming-tech/chatbots/ai-chatbot-development?source=category_tree)
@@ -1231,7 +1231,7 @@ Browse categories
     * [AI Integrations](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-integrations?source=category_tree)
     * [AI Agents](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-agents-development?source=category_tree)
     * [AI Fine-Tuning](https://www.fiverr.com/categories/data/data-science/ai-fine-tuning?source=category_tree)
-    * [AI Technology Consulting](https://www.fiverr.com/categories/programming-tech/ai-coding/AI-Technology-Consulting?source=category_tree)
+    * [AI Technology ConsultingNew](https://www.fiverr.com/categories/programming-tech/ai-coding/AI-Technology-Consulting?source=category_tree)
     
     * Data
     * [Data Science & ML](https://www.fiverr.com/categories/data/data-science?source=category_tree)
@@ -1344,7 +1344,7 @@ Browse categories
     * [Mindfulness CoachingNew](https://www.fiverr.com/categories/lifestyle/wellness/mindfulness-coaching?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
     
     * Tech Consulting
-    * [AI Technology Consulting](https://www.fiverr.com/categories/programming-tech/ai-coding/AI-Technology-Consulting?source=category_tree)
+    * [AI Technology ConsultingNew](https://www.fiverr.com/categories/programming-tech/ai-coding/AI-Technology-Consulting?source=category_tree)
     * [Website Consulting](https://www.fiverr.com/categories/programming-tech/website-maintenance/consultation?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
     * [Mobile App Consulting](https://www.fiverr.com/categories/programming-tech/mobile-app-maintenance/consultation?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
     * [Game Development Consulting](https://www.fiverr.com/categories/programming-tech/game-development/consultation?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
@@ -1528,6 +1528,7 @@ Last update: July 2024
 * [Careers](https://www.fiverr.com/jobs?source=footer)
 * [Terms of Service](https://www.fiverr.com/legal-portal?source=footer)
 * [Privacy Policy](https://www.fiverr.com/legal-portal/privacy/privacy-policy?source=footer)
+* [Do not sell or share my personal information](https://www.fiverr.com/legal-portal/privacy/do-not-sell-my-personal-information)
 * [Partnerships](https://www.fiverr.com/partnerships?source=footer)
 * [Creator Network](https://www.fiverr.com/partnerships/creators)
 * [Affiliates](https://www.fiverr.com/partnerships/affiliates)
