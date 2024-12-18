@@ -1,7 +1,3 @@
-We're proud to be recognized as a Leader in the 2024 Gartner®️ Magic Quadrant™️ for Collaborative Work Management[Get the report](https://asana.com/resources/gartner-magic-quadrant-collaborative-work-management-2024?utm_medium=website&utm_source=web_banner&utm_content=topbanner&utm_campaign=gartner-cwm-mq25)
-
-x icon
-
 [Asana Home](https://asana.com/?noredirect)
 
 * Product chevron-down icon
@@ -447,7 +443,7 @@ If you have any questions about these Terms, please contact us at [terms-questi
 * [Customer Success](https://asana.com/customer-success)
 * [Developers and API](https://developers.asana.com/docs)
 * [Partners](https://asana.com/partners)
-* [Sitemap](https://asana.com/inside-asana/inside-asana/inside-asana/site-map)
+* [Sitemap](https://asana.com/site-map)
 
 * Company
 * [About us](https://asana.com/company)
