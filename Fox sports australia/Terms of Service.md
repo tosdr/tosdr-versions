@@ -18,12 +18,12 @@ FOX SCORES
     
 * [Men's Test
     
-    Day 4
+    Day 5 Session 1
     
     |     |     |
     | --- | --- |
-    | AUS | 445 |
-    | IND | 9 /252 |
+    | AUS | 445 & 0 /0 |
+    | IND | 260 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250503)
 * [Women's Test
@@ -56,56 +56,34 @@ FOX SCORES
     | PAK | 7 /242 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODI2024-251101)
-* [Big Bash League
-    
-    SYDT won by 2 wkts
-    
-    |     |     |
-    | --- | --- |
-    | SYDT | 8 /183 |
-    | ADE | 8 /182 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/BBL2024-250103)
 * [WNCL
     
-    18/12 10:00 AEST
-    
     |     |     |
     | --- | --- |
-    | VIC | –   |
-    | SA  | –   |
+    | VIC |     |
+    | SA  | 6 /187 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WNCL2024-250116)
+* [Big Bash League
+    
+    18/12 19:15 AEST
+    
+    |     |     |
+    | --- | --- |
+    | MELS | –   |
+    | BRI | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/BBL2024-250104)
 * Basketball
     
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | SAC | 129 |
-    | DEN | 130 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25011227/box-score)
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | LAC | 144 |
-    | UTA | 107 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25011228/box-score)
 * NBA Cup
     
-    18/12 12:30 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | OKC | –   |
-    | MIL | –   |
+    | OKC | 0   |
+    | MIL | 0   |
     
 * [WNBL
     
@@ -783,7 +761,6 @@ FOX SCORES
 
 * [Formula 1](https://www.foxsports.com.au/video/motorsport/formula-1)
 * [Supercars](https://www.foxsports.com.au/video/motorsport/supercars)
-* [MotoGP](https://www.foxsports.com.au/video/motorsport/motogp)
 * [Motorsport](https://www.foxsports.com.au/video/motorsport/motorsport)
 * [NASCAR](https://www.foxsports.com.au/video/motorsport/nascar)
 * [WRC](https://www.foxsports.com.au/video/motorsport/wrc)
