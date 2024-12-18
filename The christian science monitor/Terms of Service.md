@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Justice
+
+### As Trump lawsuits unravel, hush money conviction is an exception](https://www.csmonitor.com/USA/Politics/2024/1217/trump-hush-money-appeal "As Trump lawsuits unravel, hush money conviction is an exception")
+
 [Safety
 
 ### Tracing fentanyl’s path into the US starts at this port. It doesn’t end there.](https://www.csmonitor.com/USA/2024/1217/fentanyl-trump-us-mexico-china "Tracing fentanyl’s path into the US starts at this port. It doesn’t end there.")
@@ -100,21 +104,17 @@ Recent Stories
 
 ### Christmas light for Gaza](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1217/Christmas-light-for-Gaza "Christmas light for Gaza")
 
-[Resilience
-
-### Why Zimbabweans keep watching their money go up in smoke](https://www.csmonitor.com/World/Africa/2024/1217/zimbabwe-ZiG-financial-crisis-mbare-musika-fire "Why Zimbabweans keep watching their money go up in smoke")
-
 [See all News & Values stories](https://www.csmonitor.com/values)
 
 * * *
 
 Monitor Daily
 
-December 16, 2024
+December 17, 2024
 
-This family left its home, but not Syria
+Ferreting out fentanyl
 
-From the Middle East to Europe, one of the biggest questions today is: How many Syrians who fled their homes during the civil war will return? Dominique Soguel offers the first glimpses of an answer today.My attention turns to the al-Khansour family, who stayed in Syria, resettling in the city run by the rebels who now control the country. It is a slice of what Syria was – and perhaps could be.
+How do officials ferret out smuggled fentanyl – America’s “greatest and most urgent drug threat,” according to the Drug Enforcement Administration? It’s a multifaceted challenge. As Sarah Matusek lays out in detail in our lead story today, it involves the expected: “proactive policing,” education, “the whole of government.” And the unexpected. And, yes, “following the money”: In the IRS office in Denver, a poster reads: “Only an Accountant Could Catch Al Capone.”
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
