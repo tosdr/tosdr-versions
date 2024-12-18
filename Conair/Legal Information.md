@@ -2,7 +2,7 @@
 
 **Enjoy Free Shipping on All Orders Over $100!**
 
-[![Conair](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dw4b2c9649/images/logo.png)](https://www.conair.com/?lang=en_US "Conair Home")
+[![Conair](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dw2375aa56/images/logo.png)](https://www.conair.com/?lang=en_US "Conair Home")
 
 ![](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dw3389ecd8/images/search.svg)
 
