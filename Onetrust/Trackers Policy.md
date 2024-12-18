@@ -172,9 +172,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
+* [Deliver hyper-personalized experiences with a privacy-first approach to first-party data](https://www.onetrust.com/resources/deliver-hyper-personalized-experiences-with-a-privacy-first-approach-to-first-party-data-infographic/)
 * [Redefining privacy as a business asset: The value of Privacy Automation](https://www.onetrust.com/resources/redefining-privacy-as-a-business-asset-the-value-of-privacy-automation-webinar/)
 * [OneTrust Consent & Preferences Demo Video](https://www.onetrust.com/resources/consent-and-preferences-demo-video/)
-* [Data Privacy Day 2025](https://www.onetrust.com/resources/data-privacy-day-2025-webinar/)
 
 ### Platform
 
