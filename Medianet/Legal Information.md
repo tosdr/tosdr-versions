@@ -1,6 +1,6 @@
 [](https://www.media.net/)
 
-[Publishers](https://www.media.net/publishers)[Advertisers](https://www.media.net/advertiser)[Contextual SearchSignals](https://www.media.net/contextualads)[Deals Desk](https://www.media.net/deals-desk)[Outcomes First](https://www.media.net/outcomes) [Deals Desk](https://www.media.net/deals-desk)
+[Publishers](https://www.media.net/publishers)[Advertisers](https://www.media.net/advertiser)[Contextual SearchSignals](https://www.media.net/contextualads)[Deals Desk](https://www.media.net/deals-desk)
 
 Inventory Policies
 ==================
