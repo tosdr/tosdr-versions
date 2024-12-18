@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Energy $$ in CO](/assets/Images/teasers/small/Energy-to-CO-2013-14.png)](http://www.followthemoney.org/research/blog/energy-dollars-in-denver/)
+[![2013 Elections Overview](/assets/Images/teasers/small/LegCandbyStatus.png)](http://www.followthemoney.org/research/institute-reports/2013-elections-overview/)
 
-Energy Giving in Colorado, 2013-14.
+Successful incumbent candidates dominated 2013 fundraising.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
