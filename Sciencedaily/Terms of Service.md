@@ -249,19 +249,19 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
+[Patient Education and Counseling](https://www.sciencedaily.com/news/health_medicine/patient_education_and_counseling/)
+
 [Genes](https://www.sciencedaily.com/news/health_medicine/genes/)
 
-[Prostate Cancer](https://www.sciencedaily.com/news/health_medicine/prostate_cancer/)
-
-[Depression](https://www.sciencedaily.com/news/mind_brain/depression/)
+[Breast Cancer](https://www.sciencedaily.com/news/health_medicine/breast_cancer/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Detectors](https://www.sciencedaily.com/news/matter_energy/detectors/)
 
-[Nature of Water](https://www.sciencedaily.com/news/matter_energy/nature_of_water/)
+[Educational Technology](https://www.sciencedaily.com/news/computers_math/educational_technology/)
 
-[Galaxies](https://www.sciencedaily.com/news/space_time/galaxies/)
+[Photography](https://www.sciencedaily.com/news/computers_math/photography/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
