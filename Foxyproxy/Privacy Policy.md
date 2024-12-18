@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-You have an excellent product which addresses users’ needs very well.
+Perfect. Thank you very much. Classy of you to check for confirmation. Kudos.
 
-Michael Alexander
+Patrick Z.
