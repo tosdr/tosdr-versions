@@ -444,15 +444,15 @@ What Customers Are Saying
 
 Based on 307,016 Carpet Cleaning Services Reviews
 
-How fast and easy it all is! My carpet looks great! **SM.** - Palmetto, FL - 12/17/2024
+**DJ.** - Clifton Park, NY - 12/17/2024
 
 (5.0 Out of 5 stars)
 
-Nothing **MM.** - Santa Rosa, CA - 12/17/2024
+I like that when scheduling my appointment for cleaning and during the evaluation at the time of cleaning you took the time to explain the process and expectations. The person that cleaned my carpets was thorough and took pride in doing a good job. I am pleased with the service I received. **KP.** - Lewisville, TX - 12/16/2024
 
-(4.0 Out of 5 stars)
+(5.0 Out of 5 stars)
 
-Fast and effective **MA.** - Columbia, MO - 12/17/2024
+Cleveland was awesome!! Very knowledgeable and great personality! Thank you for a great job! We are very happy with the results!! **KH.** - Longwood, FL - 12/15/2024
 
 (5.0 Out of 5 stars)
 
