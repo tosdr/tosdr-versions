@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Is lung cancer always terminal?](https://www.pintas.com/wp-content/uploads/2020/06/lung-cancer-is-lung-cancer-always-terminal-1.jpg "Is Lung Cancer Always Terminal?")](https://www.pintas.com/lung-cancer/is-lung-cancer-always-terminal/ "Is Lung Cancer Always Terminal?")
+[![Detecting physical abuse in dementia patients](https://www.pintas.com/wp-content/uploads/2021/03/practice-areas-personal-injury-assisted-living-accident-lawyer-what-are-some-signs-of-physical-abuse-of-seniors-with-dementia-at-memory-care-facilities-300x200.jpg "Detecting Physical Abuse in Dementia Patients")](https://www.pintas.com/faq/what-are-some-signs-of-physical-abuse-of-seniors-with-dementia-at-memory-care-facilities/ "Detecting Physical Abuse in Dementia Patients")
 
-[#### Is Lung Cancer Always Terminal?](https://www.pintas.com/lung-cancer/is-lung-cancer-always-terminal/)
+[#### Detecting Physical Abuse in Dementia Patients](https://www.pintas.com/faq/what-are-some-signs-of-physical-abuse-of-seniors-with-dementia-at-memory-care-facilities/)
 
-[![What powders are talc free?](https://www.pintas.com/wp-content/uploads/2020/07/talcum-powder-what-powders-are-talc-free-scaled.jpg "What Powders Are Talc Free?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/talc-free-powders "What Powders Are Talc Free?")
+[![How long does a mesothelioma case take?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-how-long-does-a-mesothelioma-case-take-scaled.jpg "How Long Does A Mesothelioma Case Take?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-long-does-a-mesothelioma-case-take/ "How Long Does A Mesothelioma Case Take?")
 
-[#### What Powders Are Talc Free?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/talc-free-powders)
+[#### How Long Does A Mesothelioma Case Take?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-long-does-a-mesothelioma-case-take/)
 
-[![Evidence for neglect in memory care cases](https://www.pintas.com/wp-content/uploads/2021/03/practice-areas-personal-injury-nursing-home-abuse-lawyer-what-evidence-do-i-need-to-prove-my-loved-ones-neglect-in-a-memory-care-300x200.jpg "Evidence for Neglect in Memory Care Cases")](https://www.pintas.com/faq/what-evidence-do-i-need-to-prove-my-loved-ones-neglect-in-a-memory-care/ "Evidence for Neglect in Memory Care Cases")
+[![What is a lesion on the lung?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-lawsuit-lawyer-what-is-a-lesion-on-the-lung.jpg "What Is a Lesion on the Lung?")](https://www.pintas.com/practice-areas/lung-cancer/what-is-a-lesion-on-the-lung/ "What Is a Lesion on the Lung?")
 
-[#### Evidence for Neglect in Memory Care Cases](https://www.pintas.com/faq/what-evidence-do-i-need-to-prove-my-loved-ones-neglect-in-a-memory-care/)
+[#### What Is a Lesion on the Lung?](https://www.pintas.com/practice-areas/lung-cancer/what-is-a-lesion-on-the-lung/)
 
 ### Injured?  
 Tell Us What Happened.
