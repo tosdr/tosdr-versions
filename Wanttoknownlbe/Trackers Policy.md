@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/gastcolumns/jochie-gijzelt-nos-nos-gijzelt-journalistiek/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/hoofdartikelen/de-piramide-van-gizeh-monument-van-de-schepping/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
