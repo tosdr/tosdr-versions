@@ -182,11 +182,13 @@ Menü
 
 * [Games News](https://www.bild.de/spiele/spiele-news/spiele-news/home-15720500.bild.html)
 
-* [Online-Spiele](https://spiele.bild.de/)
-* [Browsergames](https://www.bild.de/spiele/kostenlos-spielen/browser-spiele/home-78777536.bild.html)
-* [Fun-Casino](https://www.bild.de/spiele/kostenlos-spielen/casinos/jackpot-50468472.bild.html)
+* [Online-Spiele](https://www.bild.de/games/)
+* [Browser Games](https://www.bild.de/games/browser-games/)
+* [Strategiespiele](https://www.bild.de/games/strategiespiele/)
+* [Casual Games](https://spiele.bild.de/)
 * [Kreuzworträtsel](https://spiele.bild.de/kreuzwortraetsel/)
 * [Solitär](https://spiele.bild.de/solitaer/)
+* [Sudoku](https://spiele.bild.de/sudoku/)
 * [Adventskalender 2024](https://spiele.bild.de/adventskalender/)
 
 * [Deals](https://www.bild.de/deals/)
@@ -206,6 +208,28 @@ Menü
 4. AGB
     ===
     
+
+[BreakingNews
+
+Schon wieder Alarm in Köln! Unbekannter stellt Koffer in Supermarkt ab und flüchtet
+
+Schon wieder Alarm in Köln! Unbekannter stellt Koffer in Supermarkt ab und flüchtet
+
+Schon wieder Alarm in Köln! Unbekannter stellt Koffer in Supermarkt ab und flüchtet
+
+Schon wieder Alarm in Köln! Unbekannter stellt Koffer in Supermarkt ab und flüchtet
+
+Schon wieder Alarm in Köln! Unbekannter stellt Koffer in Supermarkt ab und flüchtet
+
+Schon wieder Alarm in Köln! Unbekannter stellt Koffer in Supermarkt ab und flüchtet
+
+Schon wieder Alarm in Köln! Unbekannter stellt Koffer in Supermarkt ab und flüchtet
+
+Schon wieder Alarm in Köln! Unbekannter stellt Koffer in Supermarkt ab und flüchtet
+
+Schon wieder Alarm in Köln! Unbekannter stellt Koffer in Supermarkt ab und flüchtet
+
+Schon wieder Alarm in Köln! Unbekannter stellt Koffer in Supermarkt ab und flüchtet](https://www.bild.de/regional/koeln/alarm-in-koen-unbekannter-stellt-koffer-in-supermarkt-ab-und-fluechtet-6763124133fc6116949cf954)
 
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
