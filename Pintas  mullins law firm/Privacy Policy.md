@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What percentage of lung nodules turn out to be cancer?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-what-percentage-of-lung-nodules-turn-out-to-be-cancer.jpg "What Percentage of Lung Nodules Turn Out to Be Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/what-percentage-of-lung-nodules-turn-out-to-be-cancer/ "What Percentage of Lung Nodules Turn Out to Be Cancer?")
+[![Is lung cancer always terminal?](https://www.pintas.com/wp-content/uploads/2020/06/lung-cancer-is-lung-cancer-always-terminal-1.jpg "Is Lung Cancer Always Terminal?")](https://www.pintas.com/lung-cancer/is-lung-cancer-always-terminal/ "Is Lung Cancer Always Terminal?")
 
-[#### What Percentage of Lung Nodules Turn Out to Be Cancer?](https://www.pintas.com/practice-areas/lung-cancer/what-percentage-of-lung-nodules-turn-out-to-be-cancer/)
+[#### Is Lung Cancer Always Terminal?](https://www.pintas.com/lung-cancer/is-lung-cancer-always-terminal/)
 
-[![What is the main cause of mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-mesothelioma-lawyer-what-is-the-main-cause-of-mesothelioma-scaled.jpg "What Is the Main Cause of Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-is-the-main-cause-of-mesothelioma/ "What Is the Main Cause of Mesothelioma?")
+[![What powders are talc free?](https://www.pintas.com/wp-content/uploads/2020/07/talcum-powder-what-powders-are-talc-free-scaled.jpg "What Powders Are Talc Free?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/talc-free-powders "What Powders Are Talc Free?")
 
-[#### What Is the Main Cause of Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-is-the-main-cause-of-mesothelioma/)
+[#### What Powders Are Talc Free?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/talc-free-powders)
 
-[![What products contain talc?](https://www.pintas.com/wp-content/uploads/2020/07/johnson-and-johnson-talcum-powder-lawsuit-lawyer-what-products-contain-talc-scaled.jpg "What Products Contain Talc?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/what-products-contain-talc/ "What Products Contain Talc?")
+[![Evidence for neglect in memory care cases](https://www.pintas.com/wp-content/uploads/2021/03/practice-areas-personal-injury-nursing-home-abuse-lawyer-what-evidence-do-i-need-to-prove-my-loved-ones-neglect-in-a-memory-care-300x200.jpg "Evidence for Neglect in Memory Care Cases")](https://www.pintas.com/faq/what-evidence-do-i-need-to-prove-my-loved-ones-neglect-in-a-memory-care/ "Evidence for Neglect in Memory Care Cases")
 
-[#### What Products Contain Talc?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/what-products-contain-talc/)
+[#### Evidence for Neglect in Memory Care Cases](https://www.pintas.com/faq/what-evidence-do-i-need-to-prove-my-loved-ones-neglect-in-a-memory-care/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
