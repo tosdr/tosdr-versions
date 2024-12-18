@@ -1,4 +1,4 @@
-Tuesday, December 17 2024
+Wednesday, December 18 2024
 
 Breaking News
 
@@ -181,6 +181,9 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [From Goryunov’s SG-43 To Kalashnikov’s PK](https://www.thegunpage.com/from-goryunovs-sg-43-to-kalashnikovs-pk/10612571)
+* [POTD: Platypus – The 1911 That Takes Glock Magazines](https://www.thegunpage.com/potd-platypus-the-1911-that-takes-glock-magazines/10612572)
+* [TFB Review: Smith & Wesson Shield Plus PC Carry Comp Pistol](https://www.thegunpage.com/tfb-review-smith-wesson-shield-plus-pc-carry-comp-pistol/10612573)
 * [NBC Falsely Claims Magazine Disconnects Improve Safety of Handguns](https://www.thegunpage.com/nbc-falsely-claims-magazine-disconnects-improve-safety-of-handguns/10612567)
 * [CMMG Unveils The Br47 DISSENT](https://www.thegunpage.com/cmmg-unveils-the-br47-dissent/10612568)
 * [FBI Urges New Jersey Residents Not To Shoot Unidentified Drones](https://www.thegunpage.com/fbi-urges-new-jersey-residents-not-to-shoot-unidentified-drones/10612564)
@@ -188,9 +191,6 @@ Recent Posts
 * [The New LTT A300 Ultima Patrol Shotgun](https://www.thegunpage.com/the-new-ltt-a300-ultima-patrol-shotgun/10612569)
 * [CEO Killing: Activists Seek Ghost Gun Laws, But Ignore the Facts & Law](https://www.thegunpage.com/ceo-killing-activists-seek-ghost-gun-laws-but-ignore-the-facts-law/10612562)
 * [Bushmaster Announces The Muta II BM556](https://www.thegunpage.com/bushmaster-announces-the-muta-ii-bm556/10612558)
-* [Florida 13-Year-Old Sells A Gun To 19-Year-Old Then Fatally Shoots Him](https://www.thegunpage.com/florida-13-year-old-sells-a-gun-to-19-year-old-then-fatally-shoots-him/10612555)
-* [New CMP Rimfire League Announced at Lake Erie Arms](https://www.thegunpage.com/new-cmp-rimfire-league-announced-at-lake-erie-arms/10612559)
-* [TSA on Pace to Catch Fewer Firearms at Airport Checkpoints in 2024](https://www.thegunpage.com/tsa-on-pace-to-catch-fewer-firearms-at-airport-checkpoints-in-2024/10612553)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
