@@ -222,7 +222,7 @@ Zip Code  QUOTE & SCHEDULE
 
 Enter your zip/postal code above to find carpet cleaning services in your area, get a free quote or book online!
 
-Average 4.7 Stars Based on 306,950 Reviews
+Average 4.7 Stars Based on 307,016 Reviews
 
 * [Home](https://www.oxifresh.com/)
 * \>
@@ -384,19 +384,19 @@ What Customers Are Saying
 
 ### Average 4.7 stars (Out of 5)
 
-Based on 306,950 Carpet Cleaning Services Reviews
+Based on 307,016 Carpet Cleaning Services Reviews
 
-Good service !!! **BS.** - Toronto, ON - 12/15/2024
-
-(5.0 Out of 5 stars)
-
-Brandon gave a great explanation of the process and what would be best for my needs. **JB.** - Bismarck, ND - 12/15/2024
+The black lite test that finds pet fluids **MD.** - Munster, IN - 12/17/2024
 
 (5.0 Out of 5 stars)
 
-How easy you guys were to work with in the middle of our chaotic moving week. **SL.** - Wilder, ID - 12/15/2024
+I’ve had two different techs, and both were courteous and knowledgeable. They pay attention to any problem areas I point out. The cleaning itself works well, even on high-traffic areas. It uses a lot less water than other companies, so the carpet is damp instead of wet, and it dries much faster. I like being able to schedule everything online, too — the website is user friendly. Oxi Fresh is a good, reliable service company! **RG.** - Johnson City, TN - 12/17/2024
 
 (5.0 Out of 5 stars)
+
+A great job was done **LS.** - Farmville, VA - 12/15/2024
+
+(4.5 Out of 5 stars)
 
 [MORE REVIEWS](https://www.oxifresh.com/testimonials)
 
