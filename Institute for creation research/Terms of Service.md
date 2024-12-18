@@ -165,6 +165,94 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
+More God's Design Is an Engineering Wonder
+
+[![](/i/Main%20Stage%20-%201400x1050/creationbullseye_1400x1050.jpg)](https://www.icr.org/article/creations-bullseye)
+
+[Creation's Bullseye](https://www.icr.org/article/creations-bullseye/)
+
+The first sentence in a recent evolutionary news story set the stage for the rest of the article: “Flowers like hibiscus use an invisible blueprint...
+
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+
+[![](/i/Main%20Stage%20-%201400x1050/rnavirusesocean-1400x1050)](https://www.icr.org/article/rna-viruses-ocean)
+
+[New RNA Viruses Discovered in Ocean Water Samples](https://www.icr.org/article/rna-viruses-ocean/)
+
+An international team of scientists onboard the schooner Tara is conducting an ongoing oceanic global study. The research is part of the Tara Oceans Consortium...
+
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+
+[![](/i/Main%20Stage%20-%201400x1050/spidersilkimage-1400x1050)](https://www.icr.org/article/spider-silk-secrets-stun-scientists)
+
+[Spider Silk Secrets Stun Scientists](https://www.icr.org/article/spider-silk-secrets-stun-scientists/)
+
+Two separate spider research projects published remarkable results, both in the journal Current Biology. These spiders’ specific features show their...
+
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+
+More Creation Science Update
+
+[![](/i/Main%20Stage%20-%201400x1050/fossilleaf_1400x1050.jpg)](https://www.icr.org/article/fossil-leaf-miners)
+
+[Fossil Leaf Miners](https://www.icr.org/article/fossil-leaf-miners/)
+
+The fossil record clearly shows insects have always been insects. In a recent study, researchers led by biologist Richard J. Knecht, a Ph.D. candidate...
+
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+
+[![](/i/Main%20Stage%20-%201400x1050/cet-or-evol-trick_1400x1050.jpg)](https://www.icr.org/article/CET-or-evolutionary-trick)
+
+[CET or Evolutionary Trick?](https://www.icr.org/article/CET-or-evolutionary-trick/)
+
+Did you know that about 50% of the oxygen in the air you breathe comes from plankton in our oceans? Specifically, microplankton is made up of tiny organisms...
+
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+
+[![](/i/Main%20Stage%20-%201400x1050/fertilesahara-1400x1050)](https://www.icr.org/article/evidence-post-flood-climate-egypt)
+
+[Evidence Supports Post-Flood Wet Climate for Egypt](https://www.icr.org/article/evidence-post-flood-climate-egypt/)
+
+Evolutionary scientists found evidence that the Sahara Desert was green and fertile at the end of the Ice Age, allowing people to live hundreds of miles...
+
+BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
+
+Shop Related Products
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/3050408/file.jpg)
+
+The New Ocean Book](https://store.icr.org/mr-frank-sherwin-the-new-ocean-book.html)
+
+$16.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/8285455/file.jpg)
+
+The Mighty, Wonderful Oceans](https://store.icr.org/the-mighty-wonderful-oceans.html)
+
+$7.99
+
+$9.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/5005666/file.jpg)
+
+Science, Scripture, & Salvation Vol 2](https://store.icr.org/mr-frank-sherwin-science-scripture-salvation-vol-2.html)
+
+$1.99
+
+$3.99
+
+[](https://store.icr.org/.html)
+
+$
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/13216497/file.jpg)
+
+Scientific Evidences for Creation - Download](https://store.icr.org/mr-frank-sherwin-scientific-evidences-for-11389225.html)
+
+$4.99
+
+$9.99
+
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
