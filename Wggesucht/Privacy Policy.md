@@ -72,7 +72,7 @@ Laden Sie Ihre **SCHUFA-Auskunft** direkt hier herunter, um Ihre Bonität unkomp
 
 Als kostengünstige Alternative bieten wir den **BonitätsPass** von itsmydata an, mit dem Sie ebenfalls eine sichere Bonitätsprüfung erhalten.
 
-[itsmydata](https://www.wg-gesucht.de/itsmydata.html)
+[itsmydata](https://www.wg-gesucht.de/itsmydata.html?utm_source=main_navigation)
 
 #### Aktiver Werbeblocker
 
