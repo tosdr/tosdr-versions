@@ -28,6 +28,10 @@ shop
     * [Pit~Pourri](https://www.poopourri.com/products/pit-pourri-coconut-vanilla-sandalwood)
     * [Shop All](https://www.poopourri.com/collections/all-products)
     
+    ### The Funk Factory
+    
+    * [Tap! Play! Win!](https://www.poopourri.com/pages/tap-play-win)
+    
     ### Bundle + Save
     
     * [Build Your Own Bundle](https://www.poopourri.com/pages/build-your-own-bundle)
@@ -66,21 +70,26 @@ shop
     
 *  ![shopping bag icon](//pourri.com/cdn/shop/t/826/assets/icon--cart.svg?v=43504665361036498501734387597) **0**
 
-X* [![cat-image](//pourri.com/cdn/shop/files/best-smeller-mob_small.jpg?v=18042034792411084763)
+X* [![cat-image](//pourri.com/cdn/shop/files/best-smeller-mob.jpg?v=18042034792411084763)
     
     ### Best Smellers
     
     Shop Funk fighting Faves](https://www.poopourri.com/collections/best-sellers)
-* [![cat-image](//pourri.com/cdn/shop/files/build-bundle-mob_small.png?v=17931849954337334734)
+* [![cat-image](//pourri.com/cdn/shop/files/build-bundle-mob.png?v=17931849954337334734)
     
     ### Build A Bundle
     
     Save 20%](https://www.poopourri.com/pages/build-your-own-bundle)
-* [![cat-image](//pourri.com/cdn/shop/files/sale-mob_small.jpg?v=6715679442643199105)
+* [![cat-image](//pourri.com/cdn/shop/files/sale-mob.jpg?v=6715679442643199105)
     
     ### Sale
     
     Save Up to 60%](https://www.poopourri.com/collections/sale)
+* [![cat-image](//pourri.com/cdn/shop/files/icon--win-epic-prizes.png?v=2299343757436462904)
+    
+    ### The Funk Factory
+    
+    Tap! Play! Win!](https://www.poopourri.com/pages/tap-play-win)
 * [![cat-image](//pourri.com/cdn/shop/t/826/assets/bar-menu--poo.jpg?v=47379815496088024721734387467)
     
     ### Poo~Pourri
@@ -111,32 +120,32 @@ X* [![cat-image](//pourri.com/cdn/shop/files/best-smeller-mob_small.jpg?v=180420
     ### Sole~Pourri
     
     Shoe + Foot Odor Fresheners](https://www.poopourri.com/collections/sole-pourri)
-* [![cat-image](//pourri.com/cdn/shop/files/car-pourri-mob-nav_small.jpg?v=16637315017810513166)
+* [![cat-image](//pourri.com/cdn/shop/files/car-pourri-mob-nav.jpg?v=16637315017810513166)
     
     ### Car~Pourri
     
     Car Odor Fresheners](https://www.poopourri.com/collections/car-pourri)
-* [![cat-image](//pourri.com/cdn/shop/files/little-stinker-mob-nav_small.jpg?v=10851315670732951662)
+* [![cat-image](//pourri.com/cdn/shop/files/little-stinker-mob-nav.jpg?v=10851315670732951662)
     
     ### Baby~Pourri
     
     Diaper Pail Odor Freshener](https://www.poopourri.com/products/little-stinker-diaper-pail-odor-eliminator)
-* [![cat-image](//pourri.com/cdn/shop/files/pit-pourri-mob_small.jpg?v=11164813754287640105)
+* [![cat-image](//pourri.com/cdn/shop/files/pit-pourri-mob.jpg?v=11164813754287640105)
     
     ### Pit~Pourri
     
     Full Body Deodorant](https://www.poopourri.com/collections/pit-pourri)
-* [![cat-image](//pourri.com/cdn/shop/files/new-mob_small.png?v=2362070475230678860)
+* [![cat-image](//pourri.com/cdn/shop/files/new-mob.png?v=2362070475230678860)
     
     ### New!
     
     The Latest & Greatest](https://www.poopourri.com/collections/new)
-* [![cat-image](//pourri.com/cdn/shop/files/Pet_1.4Box_FRT_small.jpg?v=640557179819009272)
+* [![cat-image](//pourri.com/cdn/shop/files/Pet_1.4Box_FRT.jpg?v=640557179819009272)
     
     ### Holiday Gifts
     
     Presents at Every Price](https://www.poopourri.com/collections/holiday-gifts-that-sleigh)
-* [![cat-image](//pourri.com/cdn/shop/files/BWP_PrimeBlue_Preferred_small.png?v=10131370912576904514)
+* [![cat-image](//pourri.com/cdn/shop/files/BWP_PrimeBlue_Preferred.png?v=10131370912576904514)
     
     ### Buy With Prime](https://www.poopourri.com/pages/buy-with-prime)
 * [![cat-image](//pourri.com/cdn/shop/t/826/assets/bar-menu--all.jpg?v=127310225224191499861734387463)
