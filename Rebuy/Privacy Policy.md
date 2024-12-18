@@ -18,7 +18,7 @@ Get it FREE 🚀](https://www.rebuyengine.com/tools/tactics-deck?website_utm_pag
     * [Rules Engine
         
         Blend conditional logic and AI within Data Sources to create intelligent shopping experiences](#)
-    * [Personalization
+    * [Personalization & Recommendations
         
         Enhance every stage of the customer journey and drive more revenue from each visitor](#)
     * [![Apps & Integrations Icon](https://www.rebuyengine.com/hubfs/Navigation/icon-apps-integrations.svg)
