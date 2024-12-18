@@ -398,11 +398,11 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 ##### Latest
 
-1. [\[2024\] 150 Online Courses to Help Your Career](https://www.classcentral.com/report/online-courses-to-help-your-career/)
-2. [9 Best Paleontology Courses for 2024](https://www.classcentral.com/report/best-paleontology-courses/)
-3. [7 Best Microsoft Access Courses for 2024](https://www.classcentral.com/report/best-microsoft-access-courses/)
-4. [Guide: How to Sign up for Coursera Courses for Free](https://www.classcentral.com/report/coursera-signup-for-free/)
-5. [\[2024\] 300+ Chemistry Courses to Expand Your Knowledge of the World](https://www.classcentral.com/report/chemistry-free-online-courses/)
+1. [10 Best Git & GitHub Courses for 2024](https://www.classcentral.com/report/best-git-github-courses/)
+2. [\[2024\] 150 Online Courses to Help Your Career](https://www.classcentral.com/report/online-courses-to-help-your-career/)
+3. [9 Best Paleontology Courses for 2024](https://www.classcentral.com/report/best-paleontology-courses/)
+4. [7 Best Microsoft Access Courses for 2024](https://www.classcentral.com/report/best-microsoft-access-courses/)
+5. [Guide: How to Sign up for Coursera Courses for Free](https://www.classcentral.com/report/coursera-signup-for-free/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -412,36 +412,36 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. web development
+1. python
     
-2. machine learning
+2. excel
     
-3. html
+3. web development
     
 
 Popular subjects
 
-1. [Web Development
+1. [Information Technology
     
-    14,308 courses](https://www.classcentral.com/subject/web-development)
-2. [Data Analysis
+    5,382 courses](https://www.classcentral.com/subject/information-technology)
+2. [Communication Skills
     
-    9,290 courses](https://www.classcentral.com/subject/data-analysis)
-3. [Digital Marketing
+    4,494 courses](https://www.classcentral.com/subject/communication-skills)
+3. [Cybersecurity
     
-    6,581 courses](https://www.classcentral.com/subject/digital-marketing)
+    17,350 courses](https://www.classcentral.com/subject/cybersecurity)
 
 Popular courses
 
-1. [Medical Neuroscience
+1. [Education for All: Disability, Diversity and Inclusion
     
-    Duke University](https://www.classcentral.com/course/medicalneuro-384)
-2. [Best Practices for Biomedical Research Data Management (HE)
+    University of Cape Town](https://www.classcentral.com/course/education-for-all-5664)
+2. [AI and Big Data in Global Health Improvement
     
-    Harvard Medical School](https://www.classcentral.com/course/canvas-network-best-practices-for-biomedical-research-data-management-he-10172)
-3. [Organic Chemistry 1
+    Taipei Medical University](https://www.classcentral.com/course/ai-and-big-data-global-health-improvement-17981)
+3. [Learning How to Learn: Powerful mental tools to help you master tough subjects
     
-    Jawaharlal Nehru University, New Delhi](https://www.classcentral.com/course/swayam-organic-chemistry-1-14221)
+    Deep Teaching Solutions](https://www.classcentral.com/course/learning-how-to-learn-2161)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
