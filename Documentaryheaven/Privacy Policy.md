@@ -123,44 +123,44 @@ Advertisement
     Why The Industrial Revolution Happened Here
     
     Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
-* [![September Clues](/wp-content/thumbnails/1588-100x70.jpg?x53432)
+* [![Why We Bang](/wp-content/thumbnails/1121-100x70.jpg?x53432)
     
-    September Clues
+    Why We Bang
     
-    This comprehensive analysis of the 9/11 broadcasts shows how the mainstream media actively participated in the 9/11 false-flag operation aimed at generating public support for illegal wars. This media...](https://documentaryheaven.com/september-clues/ "September Clues")
-* [![Design: e²](/wp-content/thumbnails/2696-100x70.png?x53432)
+    The film, Why We Bang, produced and directed by Orlando Myrics and Clifford Jordan for Ghetto Logik Entertainment is an independent film that documents the historical background of LA's Bloods and Cri...](https://documentaryheaven.com/why-we-bang/ "Why We Bang")
+* [![Shock and Awe: The Story of Electricity](/wp-content/thumbnails/14290-100x70.jpg?x53432)
     
-    Design: e²
+    Shock and Awe: The Story of Electricity
     
-    The Green Apple. David Owen, a writer for The New Yorker, discusses the complex issues of sustainability as they relate to urban and suburban life. “Green Manhattan,” an article that Owen wrote for Th...](https://documentaryheaven.com/design-e%c2%b2/ "Design: e²")
+    A three part documentary series which see's Professor Jim Al-Khalili tell  the story of our quest to master the power of electricity.The three episodes are condensed into one video here, see the t...](https://documentaryheaven.com/shock-awe-story-of-electricity/ "Shock and Awe: The Story of Electricity")
 
 ###### Throwback Documentaries
 
-* [![Living with Michael Jackson](/wp-content/thumbnails/513-100x70.png?x53432)
+* [![Africa’s Moonshine Epidemic](/wp-content/thumbnails/6794-100x70.jpg?x53432)
     
-    Living with Michael Jackson
+    Africa’s Moonshine Epidemic
     
-    Living with Michael Jackson is a Granada Television documentary, in which British journalist Martin Bashir interviewed Michael Jackson over a span of eight months, from May 2002 to January 2003. It wa](https://documentaryheaven.com/living-with-michael-jackson/ "Living with Michael Jackson")
-* [![Worse Than War](/wp-content/thumbnails/4333-100x70.jpg?x53432)
+    Ugandans are the hardest drinking Africans in the motherland, both in terms of per capita consumption and the hooch they choose to chug. Waregi, or "war gin," is what they call the local moonshine, an](https://documentaryheaven.com/africas-moonshine-epidemic/ "Africa’s Moonshine Epidemic")
+* [![UFO: New Evidence](/wp-content/thumbnails/6867-100x70.jpg?x53432)
     
-    Worse Than War
+    UFO: New Evidence
     
-    WORSE THAN WAR documents Goldhagen's travels, teachings, and interviews in nine countries around the world, bringing viewers on an unprecedented journey of insight and analysis. In a film that is hi](https://documentaryheaven.com/worse-than-war/ "Worse Than War")
-* [![Cat Wars](/wp-content/thumbnails/9384-100x70.jpg?x53432)
+    Are aliens really out there? You've heard tales of little green men from other planets, but these are normally consigned to urban legends and sci-fi fables. However, a dossier of files released by the](https://documentaryheaven.com/ufo-new-evidence/ "UFO: New Evidence")
+* [![EP6/6 How TV Ruined Your Life](/wp-content/thumbnails/5783-100x70.jpg?x53432)
     
-    Cat Wars
+    EP6/6 How TV Ruined Your Life
     
-    Cats are one of the most popular domesticated animals around and in the United Kingdom their numbers have dramatically risen over the last couple of years to around ten million. This number is vi](https://documentaryheaven.com/cat-wars/ "Cat Wars")
-* [![Lessons in Hate and Violence](/wp-content/thumbnails/5507-100x70.jpg?x53432)
+    Knowledge Charlie Brooker traces how TV’s notion of knowledge has changed from bespectacled experts to celebrity presenter drivel. Warning: this episode contains an alien meeting with Danny Dyer and](https://documentaryheaven.com/how-tv-ruined-your-life-6/ "EP6/6 How TV Ruined Your Life")
+* [![Major Fraud: Who Wants To Be A Millionaire](/wp-content/thumbnails/12851-100x70.jpg?x53432)
     
-    Lessons in Hate and Violence
+    Major Fraud: Who Wants To Be A Millionaire
     
-    Dispatches goes undercover to investigate allegations that teachers regularly assault young children in some of the 2,000 Muslim schools in Britain run by Islamic organizations.The programme also fo](https://documentaryheaven.com/lessons-in-hate-and-violence/ "Lessons in Hate and Violence")
-* [![The Art of Listening](/wp-content/thumbnails/13200-100x70.jpg?x53432)
+    Charles Ingram is a former British Army major who had made headlines worldwide after being convicted of cheating to win the jackpot of one million pounds on the British television gameshow Who Wants T](https://documentaryheaven.com/major-fraud/ "Major Fraud: Who Wants To Be A Millionaire")
+* [![Syble Hopp: A Documentary](/wp-content/thumbnails/5735-100x70.jpg?x53432)
     
-    The Art of Listening
+    Syble Hopp: A Documentary
     
-    The Art of Listening takes us on the journey of music and explores the process involved in allowing it to reach its listener's ear. Starting out with the intent of a instrument maker and composer, mov](https://documentaryheaven.com/art-of-listening/ "The Art of Listening")
+    In DePere, Wisconsin there is a school that exists because of one person. This is that story.](https://documentaryheaven.com/syble-hopp-a-documentary/ "Syble Hopp: A Documentary")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
