@@ -2,14 +2,14 @@ Tuesday, December 17 2024
 
 Breaking News
 
+* [FBI Urges New Jersey Residents Not To Shoot Unidentified Drones](https://www.conservativedailynews.com/2024/12/fbi-urges-new-jersey-residents-not-to-shoot-unidentified-drones/)
+* [Senate Dems Move To Abolish ‘Undemocratic’ Electoral College After Crushing November Losses](https://www.conservativedailynews.com/2024/12/senate-dems-move-to-abolish-undemocratic-electoral-college-after-crushing-november-losses/)
+* [Record Slim House Majority Faces New Problems As GOP Lawmaker Announces Exit From Republican Conference](https://www.conservativedailynews.com/2024/12/record-slim-house-majority-faces-new-problems-as-gop-lawmaker-announces-exit-from-republican-conference/)
 * [President Joe Biden’s Schedule for Tuesday, December 17, 2024](https://www.conservativedailynews.com/2024/12/president-joe-bidens-schedule-for-tuesday-december-17-2024/)
 * [Inflation is a problem. The Fed must NOT cut interest rates.](https://www.conservativedailynews.com/2024/12/inflation-is-a-problem-the-fed-must-not-cut-interest-rates/)
 * [The Smooth Transition Was Another Biden Fallacy](https://www.conservativedailynews.com/2024/12/the-smooth-transition-was-another-biden-fallacy/)
 * [Medal of Honor Monday: Army Col. Charles P. Murray Jr.](https://www.conservativedailynews.com/2024/12/medal-of-honor-monday-army-col-charles-p-murray-jr/)
 * [House Republicans Finally Putting The Squeeze On Bloated Pentagon Budget](https://www.conservativedailynews.com/2024/12/house-republicans-finally-putting-the-squeeze-on-bloated-pentagon-budget/)
-* [DOGE Must Focus On Big Picture To Achieve Big Change](https://www.conservativedailynews.com/2024/12/doge-must-focus-on-big-picture-to-achieve-big-change/)
-* [Pam Bondi Will Clean Up The DOJ And Bring Back Justice For All](https://www.conservativedailynews.com/2024/12/pam-bondi-will-clean-up-the-doj-and-bring-back-justice-for-all/)
-* [Norway Provides An Object Lesson On How Not To Make Energy Policy](https://www.conservativedailynews.com/2024/12/norway-provides-an-object-lesson-on-how-not-to-make-energy-policy/)
 
 * [RSS](https://www.conservativedailynews.com/news-feeds/)
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
@@ -130,6 +130,24 @@ Orange = One-Time Donations
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/01/Drone.jpg)](https://www.conservativedailynews.com/2024/12/fbi-urges-new-jersey-residents-not-to-shoot-unidentified-drones/)
+    
+    [FBI Urges New Jersey Residents Not To Shoot Unidentified Drones](https://www.conservativedailynews.com/2024/12/fbi-urges-new-jersey-residents-not-to-shoot-unidentified-drones/)
+    
+    December 17, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/U.S.-Senate-220x150.jfif)](https://www.conservativedailynews.com/2024/12/senate-dems-move-to-abolish-undemocratic-electoral-college-after-crushing-november-losses/)
+    
+    [Senate Dems Move To Abolish ‘Undemocratic’ Electoral College After Crushing November Losses](https://www.conservativedailynews.com/2024/12/senate-dems-move-to-abolish-undemocratic-electoral-college-after-crushing-november-losses/)
+    
+    December 17, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/02/Capitol-hill.jpg)](https://www.conservativedailynews.com/2024/12/record-slim-house-majority-faces-new-problems-as-gop-lawmaker-announces-exit-from-republican-conference/)
+    
+    [Record Slim House Majority Faces New Problems As GOP Lawmaker Announces Exit From Republican Conference](https://www.conservativedailynews.com/2024/12/record-slim-house-majority-faces-new-problems-as-gop-lawmaker-announces-exit-from-republican-conference/)
+    
+    December 17, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/03-pardondrone-dt-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/12/fly-by-night/)
     
     [Fly By Night](https://www.conservativedailynews.com/2024/12/fly-by-night/)
@@ -160,37 +178,19 @@ Recent Posts
     
     December 17, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/mrz121624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/next-2/)
-    
-    [Next](https://www.conservativedailynews.com/2024/12/next-2/)
-    
-    December 17, 2024
-    
-* [![Joe Biden missing sleeping](https://www.conservativedailynews.com/wp-content/uploads/2024/12/stg121524dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/president-joe-bidens-schedule-for-tuesday-december-17-2024/)
-    
-    [President Joe Biden’s Schedule for Tuesday, December 17, 2024](https://www.conservativedailynews.com/2024/12/president-joe-bidens-schedule-for-tuesday-december-17-2024/)
-    
-    December 17, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/inflation-warning-sign-220x150.png)](https://www.conservativedailynews.com/2024/12/inflation-is-a-problem-the-fed-must-not-cut-interest-rates/)
-    
-    [Inflation is a problem. The Fed must NOT cut interest rates.](https://www.conservativedailynews.com/2024/12/inflation-is-a-problem-the-fed-must-not-cut-interest-rates/)
-    
-    December 16, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [NBC Falsely Claims Magazine Disconnects Improve Safety of Handguns](https://www.thegunpage.com/nbc-falsely-claims-magazine-disconnects-improve-safety-of-handguns/10612567)
+* [CMMG Unveils The Br47 DISSENT](https://www.thegunpage.com/cmmg-unveils-the-br47-dissent/10612568)
+* [FBI Urges New Jersey Residents Not To Shoot Unidentified Drones](https://www.thegunpage.com/fbi-urges-new-jersey-residents-not-to-shoot-unidentified-drones/10612564)
+* [Brooklyn DA Declines to Prosecute Bus Driver in Self-Defense Case](https://www.thegunpage.com/brooklyn-da-declines-to-prosecute-bus-driver-in-self-defense-case/10612565) 
+* [The New LTT A300 Ultima Patrol Shotgun](https://www.thegunpage.com/the-new-ltt-a300-ultima-patrol-shotgun/10612569)
 * [CEO Killing: Activists Seek Ghost Gun Laws, But Ignore the Facts & Law](https://www.thegunpage.com/ceo-killing-activists-seek-ghost-gun-laws-but-ignore-the-facts-law/10612562)
 * [Bushmaster Announces The Muta II BM556](https://www.thegunpage.com/bushmaster-announces-the-muta-ii-bm556/10612558)
 * [Florida 13-Year-Old Sells A Gun To 19-Year-Old Then Fatally Shoots Him](https://www.thegunpage.com/florida-13-year-old-sells-a-gun-to-19-year-old-then-fatally-shoots-him/10612555)
 * [New CMP Rimfire League Announced at Lake Erie Arms](https://www.thegunpage.com/new-cmp-rimfire-league-announced-at-lake-erie-arms/10612559)
 * [TSA on Pace to Catch Fewer Firearms at Airport Checkpoints in 2024](https://www.thegunpage.com/tsa-on-pace-to-catch-fewer-firearms-at-airport-checkpoints-in-2024/10612553)
-* [NBC falsely claims magazine disconnects increase safety](https://www.thegunpage.com/nbc-falsely-claims-magazine-disconnects-increase-safety/10612551)
-* [Fairless Captures Distinguished Rifleman Badge With M1 Garand: ‘It Gave Me A Chance’](https://www.thegunpage.com/fairless-captures-distinguished-rifleman-badge-with-m1-garand-it-gave-me-a-chance/10612557)
-* [Addressing Unsportsmanlike Behavior In USPSA Competition](https://www.thegunpage.com/addressing-unsportsmanlike-behavior-in-uspsa-competition/10612550)
-* [TFB Review: Nocpix VISTA H50 Thermal Monocular](https://www.thegunpage.com/tfb-review-nocpix-vista-h50-thermal-monocular/10612546)
-* [POTD: Recon Marines with M27RWK in Latvia](https://www.thegunpage.com/potd-recon-marines-with-m27rwk-in-latvia/10612547)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
