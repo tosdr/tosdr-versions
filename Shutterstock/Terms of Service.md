@@ -8,7 +8,7 @@
 
 [Browse Content](https://www.shutterstock.com/images)
 
-[AI generator](https://www.shutterstock.com/ai-image-generator)
+[AI Generator](https://www.shutterstock.com/ai-image-generator)
 
 [Enterprise](https://www.shutterstock.com/business)
 
