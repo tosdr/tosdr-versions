@@ -253,7 +253,7 @@ article 2 days ago](https://science.nasa.gov/missions/davinci/davincis-many-firs
 
 ### NASA’s Webb Finds Planet-Forming Disks Lived Longer in Early Universe
 
-article 2 days ago](https://science.nasa.gov/missions/webb/nasas-webb-finds-planet-forming-disks-lived-longer-in-early-universe/)[![NASA’s retired InSight Mars lander was captured by the agency’s Mars Reconnaissance Orbiter](https://www.nasa.gov/wp-content/uploads/2024/12/1-hirise-spots-insight-in-october-2024-jpg-2024-12-12-at-4-53-40 pm.png?w=1024)
+article 2 days ago](https://science.nasa.gov/missions/webb/nasas-webb-finds-planet-forming-disks-lived-longer-in-early-universe/)[![NASA’s retired InSight Mars lander was captured by the agency’s Mars Reconnaissance Orbiter](https://www.nasa.gov/wp-content/uploads/2024/12/pia26515-hirise-crop.jpg?w=1024)
 
 5 min read
 
@@ -263,25 +263,25 @@ article 2 days ago](https://www.nasa.gov/missions/insight/nasa-mars-orbiter-spot
 
 ### Highlights
 
-[![NASA Deputy Administrator Pam Melroy speaks at the Microgravity Science Summit at the Eisenhower Executive Office Building, Monday, Dec. 13, 2024, in Washington.](https://www.nasa.gov/wp-content/uploads/2024/12/54209473735-9c0e7194b9-k.jpg?w=1024)
+[![Astronaut Kayla Barron checks out chile peppers growing in the station](https://www.nasa.gov/wp-content/uploads/2023/03/iss066e084293.jpg?w=1024)
 
-3 min read
+4 min read
 
-### NASA Participates in Microgravity Science Summit
+### Space Gardens
 
-article 17 hours ago](https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-participates-in-microgravity-science-summit/)[![The Orion Environmental Test Article, blackened from its spaceflight, is photographed sitting on a white platform inside the shadowed aluminum vacuum chamber at NASA’s Neil Armstrong Test Facility. A woman with dark hair wearing a black sweatshirt appears in the lower right corner of the photo.](https://www.nasa.gov/wp-content/uploads/2024/12/grc-2024-c-04397.jpg?w=1024)
+article 3 hours ago](https://www.nasa.gov/missions/station/iss-research/space-gardens/)[![](https://images-assets.nasa.gov/image/KSC-20240130-PH-JBS01_0032/KSC-20240130-PH-JBS01_0032~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint)
 
-5 min read
+8 min read
 
-### Orion Spacecraft Tested in Ohio After Artemis I Mission
+### NASA’s Kennedy Space Center Looks to Thrive in 2025
 
-article 1 day ago](https://www.nasa.gov/centers-and-facilities/glenn/orion-spacecraft-tested-in-ohio-after-artemis-i-mission/)[![](https://www.nasa.gov/wp-content/uploads/2024/12/iss060e033086.jpg?w=1024)
+article 4 hours ago](https://www.nasa.gov/centers-and-facilities/kennedy/nasa-kennedy-looks-to-thrive-in-2025/)[![Three lunar terrain vehicles side by side inside of a large chamber with dramatic lighting. Astrolab's lunar terrain vehicle is white with the their orange logo on the front of the rover. Intuitive Machines' lunar terrain vehicle is white with a blue stripe on the front and their logo on the top of their rover. Lunar Outpost's lunar terrain vehicle is grey with green lights.](https://www.nasa.gov/wp-content/uploads/2024/12/jsc2024e076712-alt.jpg?w=1024)
 
-2 min read
+4 min read
 
-### Station Science Top News: Dec. 13, 2024
+### New Commercial Artemis Moon Rovers Undergo Testing at NASA
 
-article 2 days ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-dec-13-2024/)
+article 5 hours ago](https://www.nasa.gov/humans-in-space/new-commercial-artemis-moon-rovers-undergo-testing-at-nasa/)
 
 ### Highlights
 
@@ -291,23 +291,23 @@ article 2 days ago](https://www.nasa.gov/centers-and-facilities/johnson/station-
 
 ### Cutting-Edge Satellite Tracks Lake Water Levels in Ohio River Basin
 
-article 17 hours ago](https://www.nasa.gov/missions/swot/cutting-edge-satellite-tracks-lake-water-levels-in-ohio-river-basin/)[![Watersheds on the U.S. Eastern Seaboard](https://www.nasa.gov/wp-content/uploads/2024/12/1-terra-modis-04-21-23.jpg?w=1024)
+article 24 hours ago](https://www.nasa.gov/missions/swot/cutting-edge-satellite-tracks-lake-water-levels-in-ohio-river-basin/)[![Watersheds on the U.S. Eastern Seaboard](https://www.nasa.gov/wp-content/uploads/2024/12/1-terra-modis-04-21-23.jpg?w=1024)
 
 5 min read
 
 ### NASA-DOD Study: Saltwater to Widely Taint Coastal Groundwater by 2100
 
-article 7 days ago](https://www.nasa.gov/missions/space-shuttle/srtm/nasa-dod-study-saltwater-to-widely-taint-coastal-groundwater-by-2100/)[![NASA Study: Crops, Forests Responding to Changing Rainfall Patterns](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2024/1-precip%20map.jpg)
+article 1 week ago](https://www.nasa.gov/missions/space-shuttle/srtm/nasa-dod-study-saltwater-to-widely-taint-coastal-groundwater-by-2100/)[![NASA Study: Crops, Forests Responding to Changing Rainfall Patterns](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2024/1-precip%20map.jpg)
 
 4 min read
 
 ### NASA Study: Crops, Forests Responding to Changing Rainfall Patterns
 
-article 7 days ago](https://science.nasa.gov/earth/water-on-earth/nasa-study-crops-forests-responding-to-changing-rainfall-patterns/)
+article 1 week ago](https://science.nasa.gov/earth/water-on-earth/nasa-study-crops-forests-responding-to-changing-rainfall-patterns/)
 
 ### Highlights
 
-[![NASA’s retired InSight Mars lander was captured by the agency’s Mars Reconnaissance Orbiter](https://www.nasa.gov/wp-content/uploads/2024/12/1-hirise-spots-insight-in-october-2024-jpg-2024-12-12-at-4-53-40 pm.png?w=1024)
+[![NASA’s retired InSight Mars lander was captured by the agency’s Mars Reconnaissance Orbiter](https://www.nasa.gov/wp-content/uploads/2024/12/pia26515-hirise-crop.jpg?w=1024)
 
 5 min read
 
@@ -329,47 +329,47 @@ article 6 days ago](https://www.nasa.gov/centers-and-facilities/kennedy/nasa-ken
 
 ### Featured
 
-[![Very Cold Detectors Reveal the Very Hot Universe and Kick Off a New Era in X-ray Astronomy](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/technology-highlights/2024/Kilbourne_Resolve-array_install.jpg)
+[![](https://www.nasa.gov/wp-content/uploads/2024/12/ngc5084-aligned-hst-closer-dec2024-darker-contrast-cropped.png?w=512)
+
+4 min read
+
+### NASA Finds ‘Sideways’ Black Hole Using Legacy Data, New Techniques
+
+article 3 hours ago](https://www.nasa.gov/universe/black-holes/nasa-finds-sideways-black-hole-using-legacy-data-new-techniques/)[![NASA Open Science Reveals Sounds of Space](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/universe/2023/09/crab_lg.jpeg)
+
+4 min read
+
+### NASA Open Science Reveals Sounds of Space
+
+article 4 hours ago](https://science.nasa.gov/open-science/astronomy-data-sonification/)[![Very Cold Detectors Reveal the Very Hot Universe and Kick Off a New Era in X-ray Astronomy](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/technology-highlights/2024/Kilbourne_Resolve-array_install.jpg)
 
 7 min read
 
 ### Very Cold Detectors Reveal the Very Hot Universe and Kick Off a New Era in X-ray Astronomy
 
-article 1 day ago](https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/very-cold-detectors-reveal-the-very-hot-universe-and-kick-off-a-new-era-in-x-ray-astronomy/)[![NASA’s Webb Finds Planet-Forming Disks Lived Longer in Early Universe](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2024/webb-STScI-01JC439JQCXEY252WM2K1QF6Q6-2K.jpg)
-
-7 min read
-
-### NASA’s Webb Finds Planet-Forming Disks Lived Longer in Early Universe
-
-article 2 days ago](https://science.nasa.gov/missions/webb/nasas-webb-finds-planet-forming-disks-lived-longer-in-early-universe/)[![Hubble Images a Grand Spiral](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_NGC5643_potw2450a.jpg)
-
-2 min read
-
-### Hubble Images a Grand Spiral
-
-article 5 days ago](https://science.nasa.gov/missions/hubble/hubble-images-a-grand-spiral/)
+article 1 day ago](https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/very-cold-detectors-reveal-the-very-hot-universe-and-kick-off-a-new-era-in-x-ray-astronomy/)
 
 ### Highlights
 
-[![GeneLab for Colleges and Universities (GL4U) Patch](https://www.nasa.gov/wp-content/uploads/2024/12/gl4u-patch-final-1.jpg?w=800)
+[![](https://www.nasa.gov/wp-content/uploads/2024/12/ngc5084-aligned-hst-closer-dec2024-darker-contrast-cropped.png?w=512)
+
+4 min read
+
+### NASA Finds ‘Sideways’ Black Hole Using Legacy Data, New Techniques
+
+article 3 hours ago](https://www.nasa.gov/universe/black-holes/nasa-finds-sideways-black-hole-using-legacy-data-new-techniques/)[![GeneLab for Colleges and Universities (GL4U) Patch](https://www.nasa.gov/wp-content/uploads/2024/12/gl4u-patch-final-1.jpg?w=800)
 
 2 min read
 
 ### GL4U On-Demand Courses
 
-article 18 hours ago](https://www.nasa.gov/gl4u-on-demand-courses/)[![Very Cold Detectors Reveal the Very Hot Universe and Kick Off a New Era in X-ray Astronomy](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/technology-highlights/2024/Kilbourne_Resolve-array_install.jpg)
+article 24 hours ago](https://www.nasa.gov/gl4u-on-demand-courses/)[![Very Cold Detectors Reveal the Very Hot Universe and Kick Off a New Era in X-ray Astronomy](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/technology-highlights/2024/Kilbourne_Resolve-array_install.jpg)
 
 7 min read
 
 ### Very Cold Detectors Reveal the Very Hot Universe and Kick Off a New Era in X-ray Astronomy
 
-article 1 day ago](https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/very-cold-detectors-reveal-the-very-hot-universe-and-kick-off-a-new-era-in-x-ray-astronomy/)[![](https://www.nasa.gov/wp-content/uploads/2024/12/iss060e033086.jpg?w=1024)
-
-2 min read
-
-### Station Science Top News: Dec. 13, 2024
-
-article 2 days ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-dec-13-2024/)
+article 1 day ago](https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/very-cold-detectors-reveal-the-very-hot-universe-and-kick-off-a-new-era-in-x-ray-astronomy/)
 
 ### Highlights
 
@@ -391,11 +391,11 @@ article 6 days ago](https://www.nasa.gov/dynamic-spin-rig/)[![An atmospheric pro
 
 ### Atmospheric Probe Shows Promise in Test Flight
 
-article 7 days ago](https://www.nasa.gov/centers-and-facilities/armstrong/atmospheric-probe-shows-promise-in-test-flight/)
+article 1 week ago](https://www.nasa.gov/centers-and-facilities/armstrong/atmospheric-probe-shows-promise-in-test-flight/)
 
 ### Highlights
 
-[![NASA’s retired InSight Mars lander was captured by the agency’s Mars Reconnaissance Orbiter](https://www.nasa.gov/wp-content/uploads/2024/12/1-hirise-spots-insight-in-october-2024-jpg-2024-12-12-at-4-53-40 pm.png?w=1024)
+[![NASA’s retired InSight Mars lander was captured by the agency’s Mars Reconnaissance Orbiter](https://www.nasa.gov/wp-content/uploads/2024/12/pia26515-hirise-crop.jpg?w=1024)
 
 5 min read
 
@@ -423,7 +423,7 @@ article 3 weeks ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/an-e
 
 ### They Grow So Fast: Moon Tree Progress Since NASA’s Artemis I Mission
 
-article 7 days ago](https://www.nasa.gov/learning-resources/moon-tree-progress-since-nasas-artemis-i-mission/)
+article 1 week ago](https://www.nasa.gov/learning-resources/moon-tree-progress-since-nasas-artemis-i-mission/)
 
 ### Featured
 
@@ -433,7 +433,7 @@ article 7 days ago](https://www.nasa.gov/learning-resources/moon-tree-progress-s
 
 ### Transforming Space Exploration: NASA and Northrop Grumman’s Digital Engineering Collaboration
 
-article 23 hours ago](https://www.nasa.gov/organizations/ocio/dt/nasa-northrupgrumman-digitalengineering/)[![A black drone with an orange top in flight in Nevada.](https://www.nasa.gov/wp-content/uploads/2024/12/drone-test.jpg?w=1024)
+article 1 day ago](https://www.nasa.gov/organizations/ocio/dt/nasa-northrupgrumman-digitalengineering/)[![A black drone with an orange top in flight in Nevada.](https://www.nasa.gov/wp-content/uploads/2024/12/drone-test.jpg?w=1024)
 
 3 min read
 
