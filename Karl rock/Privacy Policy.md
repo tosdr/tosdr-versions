@@ -410,13 +410,13 @@ Top
     
     [How to Book a Train Ticket in India (For Foreigners)](https://blog.karlrock.com/how-to-book-a-train-ticket-in-india-for-foreigners/ "How to Book a Train Ticket in India (For Foreigners)")
     
-* [![The Best Cheap Eats in Kathmandu](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/11/3610AE1A-1FEE-4F71-86A0-E54EE2BC0D7B.jpeg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/the-best-cheap-eats-in-kathmandu/ "The Best Cheap Eats in Kathmandu")
-    
-    [The Best Cheap Eats in Kathmandu](https://blog.karlrock.com/the-best-cheap-eats-in-kathmandu/ "The Best Cheap Eats in Kathmandu")
-    
 * [![How to Rent a Motorcycle in Pakistan (with Prices)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2023/08/img_9157-scaled.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-rent-a-motorcycle-in-pakistan-with-prices/ "How to Rent a Motorcycle in Pakistan (with Prices)")
     
     [How to Rent a Motorcycle in Pakistan (with Prices)](https://blog.karlrock.com/how-to-rent-a-motorcycle-in-pakistan-with-prices/ "How to Rent a Motorcycle in Pakistan (with Prices)")
+    
+* [![The Best Cheap Eats in Kathmandu](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/11/3610AE1A-1FEE-4F71-86A0-E54EE2BC0D7B.jpeg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/the-best-cheap-eats-in-kathmandu/ "The Best Cheap Eats in Kathmandu")
+    
+    [The Best Cheap Eats in Kathmandu](https://blog.karlrock.com/the-best-cheap-eats-in-kathmandu/ "The Best Cheap Eats in Kathmandu")
     
 * [![How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2019/11/Kartarpur-Darbar-Sahib-Main-Prayer-Hall.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-travel-to-kartarpur-sahib-via-kartarpur-corridor/ "How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)")
     
