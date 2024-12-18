@@ -76,7 +76,7 @@ _Last updated: March 14, 2020_
 
 [![HT Vector Logo](images/logo5.png)](https://ht-vector.com/)
 
-© 2007–2024  
+© 2007–2025  
 All rights reserved
 
   
