@@ -287,6 +287,14 @@ Autism news
 
 All the latest that matters to our community
 
+![2024 Autism Speaks Research Roundup](/sites/default/files/styles/content_list/public/2024-Research-Roundup-Social-Post_0.jpg.webp?itok=IfzBfueB)
+
+12.18.24
+
+[### Research roundup: 2024 in review and the road ahead](https://guide.autismspeaks.org/science-news/autism-research-2024)
+
+2024 brought important progress in autism research, with discoveries that deepen our understanding of autism and open new possibilities for improving
+
 ![Exceptional Parent Magazine logo](/sites/default/files/styles/content_list/public/Exceptional%20Parent%20Magazine%20logo.jpg.webp?itok=E8GlzjYj)
 
 12.17.24
@@ -295,7 +303,7 @@ All the latest that matters to our community
 
 In this month’s edition of Exceptional Parent Magazine, read some tips from Autism Speaks’ Marta Chmielowicz to help you plan a festive season that
 
-![Spectrum colored border with autism speaks logo at bottom in center. Middle of image has the following text over a semi-transparent graphic of a capitol dome: "Congress passes Autism CARES Act of 2024; next stop, the President."](/sites/default/files/styles/content_list/public/Congress%20passes%20CARES.png.webp?itok=6ZH7FA_w)
+![Congress passes Autism CARES Act of 2024](/sites/default/files/styles/content_list/public/Congress-passes-Autism-CARES-Act-of-2024.jpg.webp?itok=NXbqIfkt)
 
 12.16.24
 
@@ -327,14 +335,6 @@ For the past twenty years, Autism Speaks has been more than just a voice—it ha
 
 Pamela Dixon, Director of Clinical Services and Inclusion, had the privilege of traveling to the country of Georgia as part of the Professional
 
-!["POLICY PULSE" on two lines with color gradient of navy to aqua](/sites/default/files/styles/content_list/public/header%20stacked%20graphic_0.png.webp?itok=b3KQ-4zr)
-
-11.25.24
-
-[### Policy Pulse Newsletter - November 2024](https://guide.autismspeaks.org/advocacy-news/policy-pulse-newsletter-november-2024)
-
-This newsletter edition shares updates about the Autism CARES Act of 2024, support for caregivers, global autism efforts and 2025 state advocacy plans
-
 [Read more news](https://guide.autismspeaks.org/articles?article_type%5B981%5D=981&article_type%5B2181%5D=2181&article_type%5B2186%5D=2186&article_type%5B986%5D=986)
 
 Advocacy priorities
@@ -362,6 +362,30 @@ Life on the spectrum
 
 ------------------------
 
+[![DJ and his mom holding a sign that says 'Beacon Bound'](/sites/default/files/styles/content_grid/public/DJ-and-his-mom-holding-a-sign-that-says-Beacon-Bound.jpg.webp?itok=RpTvcvAM)](https://guide.autismspeaks.org/profile/meet-andrew-dj-f)
+
+Andrew “DJ” F. | 19 years old
+
+She reminded me that independence doesn’t mean perfection; it means progress. She and Autism Speaks have helped our family beyond words.
+
+[Read Andrew “DJ” F.'s Story](https://guide.autismspeaks.org/profile/meet-andrew-dj-f)
+
+[![Bryan Rivera Medina](/sites/default/files/styles/content_grid/public/Bryan-Rivera-Medina.jpg.webp?itok=l_6ooxe3)](https://guide.autismspeaks.org/profile/meet-bryan-rivera-medina)
+
+Bryan Rivera Medina
+
+It is important to increase social awareness about the needs and abilities of people with autism, promoting their integration into all aspects of community life.
+
+[Read Bryan Rivera Medina's Story](https://guide.autismspeaks.org/profile/meet-bryan-rivera-medina)
+
+[![Jon Delancy standing in front of a mural](/sites/default/files/styles/content_grid/public/Jon-Delancy-standing-in-front-of-a-mural.jpg.webp?itok=UZD59gWW)](https://guide.autismspeaks.org/profile/meet-jon-d)
+
+Jon D.
+
+Just be yourself. When you tell your story, remember you never know who needs to hear it. It could inspire someone to never give up.
+
+[Read Jon D. 's Story](https://guide.autismspeaks.org/profile/meet-jon-d)
+
 [![Ira and Lisa](/sites/default/files/styles/content_grid/public/Ira%20and%20Lisa.jpeg.webp?itok=xRk7O8l0)](https://guide.autismspeaks.org/profile/meet-ira-t-and-lisa)
 
 Ira T., 28, and his mom, Lisa
@@ -369,28 +393,6 @@ Ira T., 28, and his mom, Lisa
 My mom needs help sometimes and I like to help her because she takes care of me. I always give her a kiss when she’s sad and a big hug because I love her.
 
 [Read Ira T., 28, and his mom, Lisa's Story](https://guide.autismspeaks.org/profile/meet-ira-t-and-lisa)
-
-[![David Hummel at the Baseball Hall of Fame](/sites/default/files/styles/content_grid/public/David-Hummel-at-the-Baseball-Hall-of-Fame.jpg.webp?itok=evOFKhXn)](https://guide.autismspeaks.org/profile/employee-profile-david-hummel-administrative-assistant)
-
-### [Employee Profile: David Hummel, Administrative assistant](https://guide.autismspeaks.org/profile/employee-profile-david-hummel-administrative-assistant)
-
-[Read 's Story](https://guide.autismspeaks.org/profile/employee-profile-david-hummel-administrative-assistant)
-
-[![Robin Herrera, owner of Surftismo](/sites/default/files/styles/content_grid/public/Robin-Herrera%2C-owner-of-Surftismo.jpg.webp?itok=FgvAK2ku)](https://guide.autismspeaks.org/profile/meet-robin-h)
-
-Robin H.
-
-By supporting the autism community, I feel very nostalgic seeing these kids feel the most comfortable and happy.
-
-[Read Robin H.'s Story](https://guide.autismspeaks.org/profile/meet-robin-h)
-
-[![Victoria with face paint](/sites/default/files/styles/content_grid/public/Jamaican-musician-playing-the-drums_0.jpg.webp?itok=b9MsRTjb)](https://guide.autismspeaks.org/profile/meet-victoria-b)
-
-Victoria B. | 33 years old
-
-National Disability Employment Awareness Month emphasizes the importance of creating opportunities for people like me, with disabilities, to have jobs, be independent and thrive.
-
-[Read Victoria B.'s Story](https://guide.autismspeaks.org/profile/meet-victoria-b)
 
 [Explore more stories](https://guide.autismspeaks.org/profile)
 
