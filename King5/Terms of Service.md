@@ -30,15 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/39e8fbf7-061f-421b-b223-466bb55a99d2/39e8fbf7-061f-421b-b223-466bb55a99d2_16x9.jpg) ![](https://media.king5.com/assets/KING/images/39e8fbf7-061f-421b-b223-466bb55a99d2/39e8fbf7-061f-421b-b223-466bb55a99d2_360x203.jpg)](https://www.king5.com/article/weather/freezing-rain-ice-expected-washington-mountain-passes-tuesday/281-16507188-0ae7-4bb6-947d-2bf3357b54b4)
+    *  [![](https://media.king5.com/assets/KING/images/d295bbe2-2c96-4f8d-bc5c-66f7b04c3a08/20241218T072933/d295bbe2-2c96-4f8d-bc5c-66f7b04c3a08_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d295bbe2-2c96-4f8d-bc5c-66f7b04c3a08/20241218T072933/d295bbe2-2c96-4f8d-bc5c-66f7b04c3a08_360x203.jpg)](https://www.king5.com/article/news/local/public-safety/56-small-business-owners-ne-seattle-demand-action-against-burglaries/281-c5ea5893-d78d-4835-ac25-d94e356a0e59)
         
-        #### [Heavy rain in the lowlands, ice in Washington's mountain passes expected Tuesday](https://www.king5.com/article/weather/freezing-rain-ice-expected-washington-mountain-passes-tuesday/281-16507188-0ae7-4bb6-947d-2bf3357b54b4)
+        #### ['I don't feel safe': Seattle mayor urged to act as business, home break-ins persist](https://www.king5.com/article/news/local/public-safety/56-small-business-owners-ne-seattle-demand-action-against-burglaries/281-c5ea5893-d78d-4835-ac25-d94e356a0e59)
         
-    *  [![](https://media.king5.com/assets/KING/images/7ae97400-207a-4897-9dad-96e740e79e84/20241218T020015/7ae97400-207a-4897-9dad-96e740e79e84_16x9.jpg) ![](https://media.king5.com/assets/KING/images/7ae97400-207a-4897-9dad-96e740e79e84/20241218T020015/7ae97400-207a-4897-9dad-96e740e79e84_360x203.jpg)](https://www.king5.com/article/news/local/washingtons-longest-running-weekly-newspaper-fold/281-636ef215-b6c4-47cc-93ae-be11cd340506)
+    *  [![](https://media.king5.com/assets/KING/images/30fe44bf-3f14-48a6-9dee-37b56ea7ccae/20241218T062213/30fe44bf-3f14-48a6-9dee-37b56ea7ccae_16x9.jpg) ![](https://media.king5.com/assets/KING/images/30fe44bf-3f14-48a6-9dee-37b56ea7ccae/20241218T062213/30fe44bf-3f14-48a6-9dee-37b56ea7ccae_360x203.jpg)](https://www.king5.com/article/news/local/school-bus-driver-wont-face-charges-for-fatal-crash-in-tacoma-prosecutor-says/281-086fb2c0-28a4-4f20-88d5-f2ea46f73635)
         
-        #### [Washington's longest running weekly newspaper may fold](https://www.king5.com/article/news/local/washingtons-longest-running-weekly-newspaper-fold/281-636ef215-b6c4-47cc-93ae-be11cd340506) [![](https://media.king5.com/assets/KING/images/7ae97400-207a-4897-9dad-96e740e79e84/20241218T020015/7ae97400-207a-4897-9dad-96e740e79e84_16x9.jpg) ![](https://media.king5.com/assets/KING/images/7ae97400-207a-4897-9dad-96e740e79e84/20241218T020015/7ae97400-207a-4897-9dad-96e740e79e84_360x203.jpg)](https://www.king5.com/article/news/local/washingtons-longest-running-weekly-newspaper-fold/281-636ef215-b6c4-47cc-93ae-be11cd340506)
+        #### [Pierce County prosecutors won't charge school bus driver involved in deadly crash](https://www.king5.com/article/news/local/school-bus-driver-wont-face-charges-for-fatal-crash-in-tacoma-prosecutor-says/281-086fb2c0-28a4-4f20-88d5-f2ea46f73635)
         
-        #### [Community group rallies to save Washington's oldest weekly newspaper as owner retires](https://www.king5.com/article/news/local/washingtons-longest-running-weekly-newspaper-fold/281-636ef215-b6c4-47cc-93ae-be11cd340506)
     
 * [Weather](https://www.king5.com/weather/)
     
@@ -59,7 +58,7 @@ Navigation
     
     *  [![](https://media.king5.com/assets/KING/images/39e8fbf7-061f-421b-b223-466bb55a99d2/39e8fbf7-061f-421b-b223-466bb55a99d2_16x9.jpg) ![](https://media.king5.com/assets/KING/images/39e8fbf7-061f-421b-b223-466bb55a99d2/39e8fbf7-061f-421b-b223-466bb55a99d2_360x203.jpg)](https://www.king5.com/article/weather/freezing-rain-ice-expected-washington-mountain-passes-tuesday/281-16507188-0ae7-4bb6-947d-2bf3357b54b4)
         
-        #### [Heavy rain in the lowlands, ice in Washington's mountain passes expected Tuesday](https://www.king5.com/article/weather/freezing-rain-ice-expected-washington-mountain-passes-tuesday/281-16507188-0ae7-4bb6-947d-2bf3357b54b4)
+        #### [Heavy rain in the lowlands, ice in Washington's mountain passes expected overnight](https://www.king5.com/article/weather/freezing-rain-ice-expected-washington-mountain-passes-tuesday/281-16507188-0ae7-4bb6-947d-2bf3357b54b4)
         
     *  [![](https://media.king5.com/assets/KING/images/93bb98b1-c7a6-46de-a3b0-eeac6a5bc1f5/20241217T202359/93bb98b1-c7a6-46de-a3b0-eeac6a5bc1f5_16x9.jpg) ![](https://media.king5.com/assets/KING/images/93bb98b1-c7a6-46de-a3b0-eeac6a5bc1f5/20241217T202359/93bb98b1-c7a6-46de-a3b0-eeac6a5bc1f5_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -83,13 +82,13 @@ Navigation
     
     Latest Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/ea8583eb-4d1b-4a00-a7f3-0e5e1c62b9d7/20241218T060732/ea8583eb-4d1b-4a00-a7f3-0e5e1c62b9d7_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ea8583eb-4d1b-4a00-a7f3-0e5e1c62b9d7/20241218T060732/ea8583eb-4d1b-4a00-a7f3-0e5e1c62b9d7_360x203.jpg)](https://www.king5.com/article/sports/nhl/kraken/ullmark-makes-30-saves-senators-win-4th-straight-with-3-0-win-over-kraken/281-8e9d5752-72c7-4b47-a222-1fa5e3b0ac52)
+        
+        #### [Ullmark makes 30 saves, Senators win 4th straight with 3-0 win over Kraken](https://www.king5.com/article/sports/nhl/kraken/ullmark-makes-30-saves-senators-win-4th-straight-with-3-0-win-over-kraken/281-8e9d5752-72c7-4b47-a222-1fa5e3b0ac52)
+        
     *  [![](https://media.king5.com/assets/KING/images/c85738ba-9ecf-4d56-9029-3f97eddd2e60/20241216T034403/c85738ba-9ecf-4d56-9029-3f97eddd2e60_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c85738ba-9ecf-4d56-9029-3f97eddd2e60/20241216T034403/c85738ba-9ecf-4d56-9029-3f97eddd2e60_360x203.jpg)](https://www.king5.com/article/sports/geno-smith-injury-seahawks-packers/281-a396ee8b-0cf4-496c-ae36-1b03b2c99d44)
         
         #### [Geno Smith avoids major injury after exiting Seahawks' loss to Packers](https://www.king5.com/article/sports/geno-smith-injury-seahawks-packers/281-a396ee8b-0cf4-496c-ae36-1b03b2c99d44)
-        
-    *  [![](https://media.king5.com/assets/KING/images/c0310c6b-5a6e-400d-ab6a-4cebb6068434/20241216T140834/c0310c6b-5a6e-400d-ab6a-4cebb6068434_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c0310c6b-5a6e-400d-ab6a-4cebb6068434/20241216T140834/c0310c6b-5a6e-400d-ab6a-4cebb6068434_360x203.jpg)](https://www.king5.com/article/sports/nfl/seahawks/nfl-playoff-picture-seahawks-after-week-15/281-544d4f94-69a7-4ac3-a255-acf8f5d17c40)
-        
-        #### [NFL Playoff Picture: Where Seahawks stand after Week 15 loss to Packers](https://www.king5.com/article/sports/nfl/seahawks/nfl-playoff-picture-seahawks-after-week-15/281-544d4f94-69a7-4ac3-a255-acf8f5d17c40)
         
     
 * [VERIFY](https://www.king5.com/verify)
@@ -106,9 +105,9 @@ Navigation
 
 Seattle, WA »
 
-46°
+55°
 
-![Rain Shower](/assets/shared-images/weather-icons/drizzle-night_210x210.png)
+![Rain](/assets/shared-images/weather-icons/rain-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
