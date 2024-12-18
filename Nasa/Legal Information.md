@@ -269,23 +269,29 @@ article 5 days ago](https://www.nasa.gov/missions/juno/nasas-juno-mission-uncove
 
 ### Orion Spacecraft Tested in Ohio After Artemis I Mission
 
-article 6 hours ago](https://www.nasa.gov/centers-and-facilities/glenn/orion-spacecraft-tested-in-ohio-after-artemis-i-mission/)[![](https://www.nasa.gov/wp-content/uploads/2024/12/iss060e033086.jpg?w=1024)
+article 7 hours ago](https://www.nasa.gov/centers-and-facilities/glenn/orion-spacecraft-tested-in-ohio-after-artemis-i-mission/)[![](https://www.nasa.gov/wp-content/uploads/2024/12/iss060e033086.jpg?w=1024)
 
 2 min read
 
 ### Station Science Top News: Dec. 13, 2024
 
-article 22 hours ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-dec-13-2024/)[![A digital rendering of the Starlab, which includes a large habitation and laboratory module with a smaller service module for power and propulsion (Credit: Starlab).](https://www.nasa.gov/wp-content/uploads/2024/12/starlab-rendering-04.png?w=1024)
+article 23 hours ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-dec-13-2024/)[![A digital rendering of the Starlab, which includes a large habitation and laboratory module with a smaller service module for power and propulsion (Credit: Starlab).](https://www.nasa.gov/wp-content/uploads/2024/12/starlab-rendering-04.png?w=1024)
 
 3 min read
 
 ### NASA Sees Progress on Starlab Commercial Space Station Development
 
-article 23 hours ago](https://www.nasa.gov/general/nasa-sees-progress-on-starlab-commercial-space-station-development/)
+article 24 hours ago](https://www.nasa.gov/general/nasa-sees-progress-on-starlab-commercial-space-station-development/)
 
 ### Highlights
 
-[![Watersheds on the U.S. Eastern Seaboard](https://www.nasa.gov/wp-content/uploads/2024/12/1-terra-modis-04-21-23.jpg?w=1024)
+[![Data from the SWOT satellite](https://www.nasa.gov/wp-content/uploads/2024/12/pia26188-ohio-basin-lakes-thumb.jpg?w=1024)
+
+5 min read
+
+### Cutting-Edge Satellite Tracks Lake Water Levels in Ohio River Basin
+
+article 7 mins ago](https://www.nasa.gov/missions/swot/cutting-edge-satellite-tracks-lake-water-levels-in-ohio-river-basin/)[![Watersheds on the U.S. Eastern Seaboard](https://www.nasa.gov/wp-content/uploads/2024/12/1-terra-modis-04-21-23.jpg?w=1024)
 
 5 min read
 
@@ -297,13 +303,7 @@ article 6 days ago](https://www.nasa.gov/missions/space-shuttle/srtm/nasa-dod-st
 
 ### NASA Study: Crops, Forests Responding to Changing Rainfall Patterns
 
-article 6 days ago](https://science.nasa.gov/earth/water-on-earth/nasa-study-crops-forests-responding-to-changing-rainfall-patterns/)[![Data taken by NASA’s PACE and the international SWOT](https://www.nasa.gov/wp-content/uploads/2024/12/swot-pace-still-thumbnail.png?w=1024)
-
-6 min read
-
-### NASA’s PACE, US-European SWOT Satellites Offer Combined Look at Ocean
-
-article 1 week ago](https://www.nasa.gov/missions/pace/nasas-pace-us-european-swot-satellites-offer-combined-look-at-ocean/)
+article 6 days ago](https://science.nasa.gov/earth/water-on-earth/nasa-study-crops-forests-responding-to-changing-rainfall-patterns/)
 
 ### Highlights
 
@@ -335,7 +335,7 @@ article 5 days ago](https://www.nasa.gov/centers-and-facilities/kennedy/nasa-ken
 
 ### Very Cold Detectors Reveal the Very Hot Universe and Kick Off a New Era in X-ray Astronomy
 
-article 7 hours ago](https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/very-cold-detectors-reveal-the-very-hot-universe-and-kick-off-a-new-era-in-x-ray-astronomy/)[![NASA’s Webb Finds Planet-Forming Disks Lived Longer in Early Universe](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2024/webb-STScI-01JC439JQCXEY252WM2K1QF6Q6-2K.jpg)
+article 8 hours ago](https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/very-cold-detectors-reveal-the-very-hot-universe-and-kick-off-a-new-era-in-x-ray-astronomy/)[![NASA’s Webb Finds Planet-Forming Disks Lived Longer in Early Universe](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2024/webb-STScI-01JC439JQCXEY252WM2K1QF6Q6-2K.jpg)
 
 7 min read
 
@@ -351,25 +351,25 @@ article 4 days ago](https://science.nasa.gov/missions/hubble/hubble-images-a-gra
 
 ### Highlights
 
-[![Very Cold Detectors Reveal the Very Hot Universe and Kick Off a New Era in X-ray Astronomy](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/technology-highlights/2024/Kilbourne_Resolve-array_install.jpg)
+[![GeneLab for Colleges and Universities (GL4U) Patch](https://www.nasa.gov/wp-content/uploads/2024/12/gl4u-patch-final-1.jpg?w=800)
+
+2 min read
+
+### GL4U On-Demand Courses
+
+article 19 mins ago](https://www.nasa.gov/gl4u-on-demand-courses/)[![Very Cold Detectors Reveal the Very Hot Universe and Kick Off a New Era in X-ray Astronomy](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/technology-highlights/2024/Kilbourne_Resolve-array_install.jpg)
 
 7 min read
 
 ### Very Cold Detectors Reveal the Very Hot Universe and Kick Off a New Era in X-ray Astronomy
 
-article 7 hours ago](https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/very-cold-detectors-reveal-the-very-hot-universe-and-kick-off-a-new-era-in-x-ray-astronomy/)[![](https://www.nasa.gov/wp-content/uploads/2024/12/iss060e033086.jpg?w=1024)
+article 8 hours ago](https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/very-cold-detectors-reveal-the-very-hot-universe-and-kick-off-a-new-era-in-x-ray-astronomy/)[![](https://www.nasa.gov/wp-content/uploads/2024/12/iss060e033086.jpg?w=1024)
 
 2 min read
 
 ### Station Science Top News: Dec. 13, 2024
 
-article 22 hours ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-dec-13-2024/)[![NASA’s Webb Finds Planet-Forming Disks Lived Longer in Early Universe](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2024/webb-STScI-01JC439JQCXEY252WM2K1QF6Q6-2K.jpg)
-
-7 min read
-
-### NASA’s Webb Finds Planet-Forming Disks Lived Longer in Early Universe
-
-article 1 day ago](https://science.nasa.gov/missions/webb/nasas-webb-finds-planet-forming-disks-lived-longer-in-early-universe/)
+article 23 hours ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-dec-13-2024/)
 
 ### Highlights
 
@@ -445,7 +445,7 @@ article 6 days ago](https://www.nasa.gov/learning-resources/moon-tree-progress-s
 
 ### 50 Years Ago: Launch of Helios 1 to Explore the Sun 
 
-article 7 days ago](https://www.nasa.gov/missions/helios-1/50-years-ago-launch-of-helios-1-to-explore-the-sun/)
+article 1 week ago](https://www.nasa.gov/missions/helios-1/50-years-ago-launch-of-helios-1-to-explore-the-sun/)
 
 ### Highlights
 
