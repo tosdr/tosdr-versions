@@ -54,7 +54,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-17 Dec 2024
+18 Dec 2024
 
 * [Home
     
@@ -257,13 +257,6 @@ Advertise with Us
 
 Most Popular
 
-[![Throwback Tuesday: Out and About with the County Derry Post (2014)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About with the County Derry Post (2014)")](https://www.derrynow.com/story-telling/pictures---videos/1681642/throwback-tuesday-out-and-about-with-the-county-derry-post-2014.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[Throwback Tuesday: Out and About with the County Derry Post (2014)](https://www.derrynow.com/story-telling/pictures---videos/1681642/throwback-tuesday-out-and-about-with-the-county-derry-post-2014.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [!['Unimaginable' - Tributes paid after woman dies giving birth at University Hospital Galway](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'Unimaginable' - Tributes paid after woman dies giving birth at University Hospital Galway")](https://www.derrynow.com/news/national-news/1682567/unimaginable-tributes-paid-after-woman-dies-giving-birth-at-university-hospital-galway.html)
 
 'Unimaginable' - Tributes paid after woman dies giving birth at University Hospital Galway
@@ -273,19 +266,19 @@ Most Popular
 ['Unimaginable' - Tributes paid after woman dies giving birth at University Hospital Galway](https://www.derrynow.com/news/national-news/1682567/unimaginable-tributes-paid-after-woman-dies-giving-birth-at-university-hospital-galway.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Throwback Tuesday: Out and About with the County Derry Post (2014)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About with the County Derry Post (2014)")](https://www.derrynow.com/story-telling/pictures---videos/1681642/throwback-tuesday-out-and-about-with-the-county-derry-post-2014.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[Throwback Tuesday: Out and About with the County Derry Post (2014)](https://www.derrynow.com/story-telling/pictures---videos/1681642/throwback-tuesday-out-and-about-with-the-county-derry-post-2014.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![PROPERTY: Spacious five bedroom home in rural Derry hits the market at great price](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PROPERTY: Spacious five bedroom home in rural Derry hits the market at great price")](https://www.derrynow.com/news/property/1681916/property-spacious-five-bedroom-home-in-rural-derry-hits-the-market-at-great-price.html)
 
 [Property](https://www.derrynow.com/section/1232/property)
 
 [PROPERTY: Spacious five bedroom home in rural Derry hits the market at great price](https://www.derrynow.com/news/property/1681916/property-spacious-five-bedroom-home-in-rural-derry-hits-the-market-at-great-price.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1681643/derry-death-notices-tuesday-december-17-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Tuesday, December 17, 2024](https://www.derrynow.com/news/deaths/1681643/derry-death-notices-tuesday-december-17-2024.html)
---------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry member of Irish Defence Forces to be sentenced later for rape of a fellow officer](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry member of Irish Defence Forces to be sentenced later for rape of a fellow officer")](https://www.derrynow.com/news/local-news/1682815/derry-member-of-irish-defence-forces-to-be-sentenced-later-for-rape-of-a-fellow-officer.html)
 
@@ -294,14 +287,12 @@ Most Popular
 [Derry member of Irish Defence Forces to be sentenced later for rape of a fellow officer](https://www.derrynow.com/news/local-news/1682815/derry-member-of-irish-defence-forces-to-be-sentenced-later-for-rape-of-a-fellow-officer.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Suspended sentence for elderly Derry man charged with assault](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for elderly Derry man charged with assault")](https://www.derrynow.com/news/local-news/1682675/suspended-sentence-for-elderly-derry-man-charged-with-assault.html)
+[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1681643/derry-death-notices-tuesday-december-17-2024.html)
 
-Derry Magistrates' Court
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Suspended sentence for elderly Derry man charged with assault](https://www.derrynow.com/news/local-news/1682675/suspended-sentence-for-elderly-derry-man-charged-with-assault.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Death Notices - Tuesday, December 17, 2024](https://www.derrynow.com/news/deaths/1681643/derry-death-notices-tuesday-december-17-2024.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Man described in court as 'a violent offender' charged with series of motoring and burglary offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man described in court as 'a violent offender' charged with series of motoring and burglary offences")](https://www.derrynow.com/news/local-news/1682546/man-described-in-court-as-a-violent-offender-charged-with-series-of-motoring-and-burglary-offences.html)
 
@@ -312,6 +303,22 @@ Derry Magistrates' Court
 [Man described in court as 'a violent offender' charged with series of motoring and burglary offences](https://www.derrynow.com/news/local-news/1682546/man-described-in-court-as-a-violent-offender-charged-with-series-of-motoring-and-burglary-offences.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Suspended sentence for elderly Derry man charged with assault](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for elderly Derry man charged with assault")](https://www.derrynow.com/news/local-news/1682675/suspended-sentence-for-elderly-derry-man-charged-with-assault.html)
+
+Derry Magistrates' Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Suspended sentence for elderly Derry man charged with assault](https://www.derrynow.com/news/local-news/1682675/suspended-sentence-for-elderly-derry-man-charged-with-assault.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Festive cheer at Derry Credit Union 'Santa Saturday'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Festive cheer at Derry Credit Union 'Santa Saturday'")](https://www.derrynow.com/story-telling/pictures---videos/1681851/in-pictures-festive-cheer-at-derry-credit-union-santa-saturday.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Festive cheer at Derry Credit Union 'Santa Saturday'](https://www.derrynow.com/story-telling/pictures---videos/1681851/in-pictures-festive-cheer-at-derry-credit-union-santa-saturday.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![ALERT: Urgent recall notice for dessert following possible presence of Listeria](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "ALERT: Urgent recall notice for dessert following possible presence of Listeria")](https://www.derrynow.com/news/national-news/1682621/alert-urgent-recall-notice-for-dessert-following-possible-presence-of-listeria.html)
 
 Photo: Pixabay
@@ -320,15 +327,6 @@ Photo: Pixabay
 
 [ALERT: Urgent recall notice for dessert following possible presence of Listeria](https://www.derrynow.com/news/national-news/1682621/alert-urgent-recall-notice-for-dessert-following-possible-presence-of-listeria.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man who posted messages about Derry mayor branded 'a right wing, racist conspiracy theorist'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man who posted messages about Derry mayor branded 'a right wing, racist conspiracy theorist'")](https://www.derrynow.com/news/local-news/1682638/man-who-posted-messages-about-derry-mayor-branded-a-right-wing-racist-conspiracy-theorist.html)
-
-Mayor of Derry and Strabane, Cllr Lilian Seenoi Barr.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man who posted messages about Derry mayor branded 'a right wing, racist conspiracy theorist'](https://www.derrynow.com/news/local-news/1682638/man-who-posted-messages-about-derry-mayor-branded-a-right-wing-racist-conspiracy-theorist.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Police in Derry investigating after masked men attempt to force entry into van](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police in Derry investigating after masked men attempt to force entry into van")](https://www.derrynow.com/news/local-news/1682753/police-in-derry-investigating-after-masked-men-attempt-to-force-entry-into-van.html)
 
@@ -513,16 +511,23 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Rappers Kneecap among Irish talent shortlisted for Oscars](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Rappers Kneecap among Irish talent shortlisted for Oscars")](https://www.derrynow.com/news/local-news/1683153/rappers-kneecap-among-irish-talent-shortlisted-for-oscars.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Rappers Kneecap among Irish talent shortlisted for Oscars](https://www.derrynow.com/news/local-news/1683153/rappers-kneecap-among-irish-talent-shortlisted-for-oscars.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [!['no place in our city for these kind of racist, fascist threats' - Foyle MP](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'no place in our city for these kind of racist, fascist threats' - Foyle MP")](https://www.derrynow.com/news/local-news/1683055/no-place-in-our-city-for-these-kind-of-racist-fascist-threats-foyle-mp.html)
 
 Foyle MP Colum Eastwood.
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-['no place in our city for these kind of racist, fascist threats' - Foyle MP](https://www.derrynow.com/news/local-news/1683055/no-place-in-our-city-for-these-kind-of-racist-fascist-threats-foyle-mp.html)
+['No place in our city for these kind of racist, fascist threats' - Foyle MP](https://www.derrynow.com/news/local-news/1683055/no-place-in-our-city-for-these-kind-of-racist-fascist-threats-foyle-mp.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Police in Derry charge 30-year-old man with burglary](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police in Derry charge 30-year-old man with burglary")](https://www.derrynow.com/news/local-news/1683054/police-in-derry-charge-30-year-old-man-with-burglary.html)
+[![Police in Derry charge 30-year-old man with burglary](https://www.derrynow.com/resizer/165/93/true/2024_02_26/75d09668-969e-11ed-a6c5-0210609a3fe2-1685351040715.jpg---1708952493894.jpg--.jpg?1708952493928 "Police in Derry charge 30-year-old man with burglary")](https://www.derrynow.com/news/local-news/1683054/police-in-derry-charge-30-year-old-man-with-burglary.html)
 
 PSNI
 
@@ -555,13 +560,6 @@ PSNI
 
 [Police in Derry investigating after masked men attempt to force entry into van](https://www.derrynow.com/news/local-news/1682753/police-in-derry-investigating-after-masked-men-attempt-to-force-entry-into-van.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Third Electrical Switchgear Academy with Derry-based Vertiv welcomed](https://www.derrynow.com/resizer/165/93/true/2024_12_17/capture34-1698922592699.JPG--massive_jobs_boost_as_vertiv_to_expand_derry_operation_with_200_new_jobs-1734445766940.jpg--.jpg?1734445766974 "Third Electrical Switchgear Academy with Derry-based Vertiv welcomed")](https://www.derrynow.com/news/local-news/1682727/third-electrical-switchgear-academy-with-derry-based-vertiv-welcomed.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Third Electrical Switchgear Academy with Derry-based Vertiv welcomed](https://www.derrynow.com/news/local-news/1682727/third-electrical-switchgear-academy-with-derry-based-vertiv-welcomed.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
