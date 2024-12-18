@@ -325,7 +325,6 @@ Advertise
 
 ### [A workaholic’s guide to successfully unwinding on holiday](https://www.afr.com/life-and-luxury/health-and-wellness/a-workaholic-s-guide-to-successfully-unwinding-on-holiday-20241211-p5kxhi)
 
-* 56 mins ago
 * Luke Benedictus
 
 * ### [Hottest new places to dine around the country right now](https://www.afr.com/life-and-luxury/food-and-wine/hottest-new-places-to-dine-around-the-country-right-now-20241210-p5kx7q)
@@ -340,7 +339,6 @@ Advertise
 
 ### [Meet the $3b Aussie wealth manager you’ve never heard of](https://www.afr.com/wealth/investing/meet-the-3b-aussie-wealth-manager-you-ve-never-heard-of-20241210-p5kx90)
 
-* 56 mins ago
 * Yolanda Redrup
 
 * ### [‘A man is not a plan’: How Naomi Simson created an experiences empire](https://www.afr.com/wealth/people/a-man-is-not-a-plan-how-naomi-simson-created-an-experiences-empire-20241119-p5krvm)
