@@ -1,10 +1,10 @@
-[![The StoryGraph logo](https://assets.thestorygraph.com/assets/logo-no-text-c3a7cffbba42f20433ebbc3633e2d49e6216a790a717288872ae30f671a531a1.png)](https://thestorygraph.com/)
+[![The StoryGraph logo](https://assets.thestorygraph.com/assets/logo-no-text-6e4b5a0b239e88ee9bd83498dd94e6c7f70ab8bf55a6235242969c00a6dafa9e.png)](https://thestorygraph.com/)
 
-[![The StoryGraph logo](https://assets.thestorygraph.com/assets/logo-no-text-dark-mode-4f601a9bd3dd9c21bc187aa6cd0e5f59bb7abfdf7bf401ecdf56d507a91e52dd.png)](https://thestorygraph.com/)
+[![The StoryGraph logo](https://assets.thestorygraph.com/assets/logo-no-text-dark-mode-9315f9b5c6597a284b8c47b5fa2d2e489570e97a05cc5ec69caa5258c93d08d6.png)](https://thestorygraph.com/)
 
 Go back
 
-[Explore](https://app.thestorygraph.com/browse) [Challenges](https://app.thestorygraph.com/reading_challenges) [Community](https://app.thestorygraph.com/news-feed) [Giveaways](https://app.thestorygraph.com/giveaways) [Sign in](https://app.thestorygraph.com/users/sign_in)
+[Explore](https://app.thestorygraph.com/browse?sort_order=Last+updated) [Challenges](https://app.thestorygraph.com/reading_challenges) [Community](https://app.thestorygraph.com/news-feed) [Giveaways](https://app.thestorygraph.com/giveaways) [Sign in](https://app.thestorygraph.com/users/sign_in)
 
 Search
 
@@ -12,7 +12,7 @@ Clear search input
 
 Open main menu
 
-[Explore](https://app.thestorygraph.com/browse) [Challenges](https://app.thestorygraph.com/reading_challenges) [Community](https://app.thestorygraph.com/news-feed) [Giveaways](https://app.thestorygraph.com/giveaways) [Sign in](https://app.thestorygraph.com/users/sign_in)
+[Explore](https://app.thestorygraph.com/browse?sort_order=Last+updated) [Challenges](https://app.thestorygraph.com/reading_challenges) [Community](https://app.thestorygraph.com/news-feed) [Giveaways](https://app.thestorygraph.com/giveaways) [Sign in](https://app.thestorygraph.com/users/sign_in)
 
 [Contact us](https://app.thestorygraph.com/contact-us)
 
