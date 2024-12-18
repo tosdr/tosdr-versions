@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/bed48906-d5de-407a-ae0b-5aadaccd1a7e/20241218T202347/bed48906-d5de-407a-ae0b-5aadaccd1a7e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/bed48906-d5de-407a-ae0b-5aadaccd1a7e/20241218T202347/bed48906-d5de-407a-ae0b-5aadaccd1a7e_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/current-reads-muscatine-musser-public-library-bookish-bingo-3-popular-reads-books/526-cc62dfb4-e01d-4d0a-870b-30b97f21b1ec)
         
-        #### [Boil orders in the Quad Cities region](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
+        #### [Current Reads: Cozy up with 3 reads from Muscatine's Musser Public Library](https://www.wqad.com/article/news/local/the-current/current-reads-muscatine-musser-public-library-bookish-bingo-3-popular-reads-books/526-cc62dfb4-e01d-4d0a-870b-30b97f21b1ec)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/ed4d3b26-ac2c-4384-b1a3-a8e4579b4604/20241218T042545/ed4d3b26-ac2c-4384-b1a3-a8e4579b4604_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ed4d3b26-ac2c-4384-b1a3-a8e4579b4604/20241218T042545/ed4d3b26-ac2c-4384-b1a3-a8e4579b4604_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/new-scott-county-youth-justice-rehabilitation-center/526-8a3a98f9-2532-45a2-adc8-c7d100b2264b)
+    *  [![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/1-dead-1-injured-davenport-crash/526-d3a2a11c-f3a2-42e5-a724-c82963960bdb)
         
-        #### [Take a look inside the new Scott County Youth Justice and Rehabilitation Center](https://www.wqad.com/article/news/local/public-safety/new-scott-county-youth-justice-rehabilitation-center/526-8a3a98f9-2532-45a2-adc8-c7d100b2264b)
+        #### [1 dead, 1 injured in Davenport crash on River Drive](https://www.wqad.com/article/news/local/public-safety/1-dead-1-injured-davenport-crash/526-d3a2a11c-f3a2-42e5-a724-c82963960bdb)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,9 +56,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/4c172076-9936-4548-8d80-c7034f9426fb/20241218T105040/4c172076-9936-4548-8d80-c7034f9426fb_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/4c172076-9936-4548-8d80-c7034f9426fb/20241218T105040/4c172076-9936-4548-8d80-c7034f9426fb_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/cfdaa694-5e94-4fee-9602-a8ede7b79e45/20241218T222340/cfdaa694-5e94-4fee-9602-a8ede7b79e45_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/cfdaa694-5e94-4fee-9602-a8ede7b79e45/20241218T222340/cfdaa694-5e94-4fee-9602-a8ede7b79e45_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Dry, but cooler afternoon](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Tracking our next clipper system for parts of the area](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/CCT/images/ab6d23a8-62f5-4a08-8169-d57b365d4875/20241217T202445/ab6d23a8-62f5-4a08-8169-d57b365d4875_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/ab6d23a8-62f5-4a08-8169-d57b365d4875/20241217T202445/ab6d23a8-62f5-4a08-8169-d57b365d4875_360x203.jpg)](https://www.wqad.com/article/news/nation-world/winter-solstice-2024-northern-hemisphere/507-dc38b5c6-b1b0-4062-87f3-88523eb33351)
         
@@ -97,9 +97,9 @@ Navigation
 
 Davenport, IA »
 
-30°
+29°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
