@@ -72,11 +72,11 @@ MENUMENU
                 * [Activities to Improve Smooth Visual Pursuits](https://www.theottoolbox.com/activities-smooth-pursuits/)
                 * [What is Visual Scanning](https://www.theottoolbox.com/what-is-visual-scanning/)
                 * [Classroom Accommodations for Visual Impairments](https://www.theottoolbox.com/visual-impairment-accommodations/)
-        * * [![Juguetes para agarrar el lápiz](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        * * [![Image lists types of chaining as occupational therapy strategies: backward chaining, forward chaining, and total task teaching](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
                 
-                ![Juguetes para agarrar el lápiz](https://www.theottoolbox.com/wp-content/uploads/2021/11/pencil-grasp-toys.jpg)](https://www.theottoolbox.com/gift-guide-toys-to-improve-pencil-grasp/)
+                ![Image lists types of chaining as occupational therapy strategies: backward chaining, forward chaining, and total task teaching](https://www.theottoolbox.com/wp-content/uploads/2024/12/backward-chaining-forward-chaining-total-task-chaining.png)](https://www.theottoolbox.com/backward-chaining-in-teaching-kids-skills/)
                 
-                #### [Toys to Improve Pencil Grasp](https://www.theottoolbox.com/gift-guide-toys-to-improve-pencil-grasp/)
+                #### [Backward Chaining in Teaching Kids Skills](https://www.theottoolbox.com/backward-chaining-in-teaching-kids-skills/)
                 
 * [Free Resources](https://www.theottoolbox.com/category/free-resources/)
 * [The Shop](https://www.theottoolbox.com/shop/)
