@@ -56,19 +56,7 @@
     
     By Madison Emily Whisenand [Read More](https://www.women.com/1740546/best-dressed-stars-2024-ranked/)
     
-* *  [![](https://www.women.com/img/gallery/every-type-of-pedicure-explained/intro-1733419200.jpg)](https://www.women.com/1730467/every-type-pedicure-explained/)
-        
-        [Beauty](https://www.women.com/category/beauty/)
-        
-        [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
-        
-        ### [Every Type Of Pedicure, Explained](https://www.women.com/1730467/every-type-pedicure-explained/)
-        
-        As beneficial as pedicures can be for the mind and body, rolling into a salon and trying to figure out which pedicure to get can sometimes be overwhelming.
-        
-        By Amanda Chatel [Read More](https://www.women.com/1730467/every-type-pedicure-explained/)
-        
-    *  [![ariana grande at a wicked premiere](https://www.women.com/img/gallery/ariana-grande-is-stunning-without-makeup/intro-1733955439.jpg)](https://www.women.com/1735909/ariana-grande-stunning-without-makeup/)
+* *  [![ariana grande at a wicked premiere](https://www.women.com/img/gallery/ariana-grande-is-stunning-without-makeup/intro-1733955439.jpg)](https://www.women.com/1735909/ariana-grande-stunning-without-makeup/)
         
         [Beauty](https://www.women.com/category/beauty/)
         
@@ -80,21 +68,33 @@
         
         By Amanda Chatel [Read More](https://www.women.com/1735909/ariana-grande-stunning-without-makeup/)
         
+    *  [![Barry Keoghan with Sabrina Carpenter](https://www.women.com/img/gallery/all-the-red-flags-we-noticed-in-sabrina-carpenter-and-barry-keoghans-relationship/intro-1733859839.jpg)](https://www.women.com/1734369/sabrina-carpenter-barry-keoghan-red-flags-relationship/)
+        
+        [Relationships](https://www.women.com/category/relationships/)
+        
+        [Relationships](https://www.women.com/category/relationships/) By Emily Hutchinson
+        
+        ### [All The Red Flags We Noticed In Sabrina Carpenter And Barry Keoghan's Relationship](https://www.women.com/1734369/sabrina-carpenter-barry-keoghan-red-flags-relationship/)
+        
+        Sabrina Carpenter and Barry Keoghan called off their relationship in December 2024, but there were plenty of red flags before they broke up.
+        
+        By Emily Hutchinson [Read More](https://www.women.com/1734369/sabrina-carpenter-barry-keoghan-red-flags-relationship/)
+        
 
 More Stories
 ------------
 
-*  [![Barry Keoghan with Sabrina Carpenter](https://www.women.com/img/gallery/all-the-red-flags-we-noticed-in-sabrina-carpenter-and-barry-keoghans-relationship/intro-1733859839.jpg)](https://www.women.com/1734369/sabrina-carpenter-barry-keoghan-red-flags-relationship/)
+*  [![Close up of feet getting a pedicure](https://www.women.com/img/gallery/every-type-of-pedicure-explained/intro-1733419200.jpg)](https://www.women.com/1730467/every-type-pedicure-explained/)
     
-    [Relationships](https://www.women.com/category/relationships/)
+    [Beauty](https://www.women.com/category/beauty/)
     
-    [Relationships](https://www.women.com/category/relationships/) By Emily Hutchinson
+    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
     
-    ### [All The Red Flags We Noticed In Sabrina Carpenter And Barry Keoghan's Relationship](https://www.women.com/1734369/sabrina-carpenter-barry-keoghan-red-flags-relationship/)
+    ### [Every Type Of Pedicure, Explained](https://www.women.com/1730467/every-type-pedicure-explained/)
     
-    Sabrina Carpenter and Barry Keoghan called off their relationship in December 2024, but there were plenty of red flags before they broke up.
+    As beneficial as pedicures can be for the mind and body, rolling into a salon and trying to figure out which pedicure to get can sometimes be overwhelming.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1734369/sabrina-carpenter-barry-keoghan-red-flags-relationship/)
+    By Amanda Chatel [Read More](https://www.women.com/1730467/every-type-pedicure-explained/)
     
 *  [![Dakota Fanning posing at Cannes](https://www.women.com/img/gallery/dakota-fannings-stunning-style-transformation-through-the-years/intro-1733427041.jpg)](https://www.women.com/1730627/dakota-fanning-stunning-style-transformation/)
     
