@@ -84,7 +84,6 @@ Anzeigen
 * [Das ZEIT Campus Festival 2024](https://www.zeit.de/campus/angebote/zeit-campus-festival/index)
 * [Verantwortungsvollste Arbeitgeber 2025](https://www.zeit.de/angebote/most-responsible-employer-2025/index)
 * [Feier dein Geschmack](https://www.zeit.de/angebote/zeit-magazin/vomfass/index)
-* [Jens Bisky, Die Entscheidung](https://www.zeit.de/angebote/biskydieentscheidung/index)
 * [congstar Fairnessheld\*innen](https://www.zeit.de/campus/angebote/congstar/fairnessheldinnen/index)
 * [ZEIT LEO Weltretter-Mission](https://zeitleo.de/weltretter-mission/)
 * [How it works: Studium und Job](https://www.zeit.de/campus/angebote/howitworks/index)
