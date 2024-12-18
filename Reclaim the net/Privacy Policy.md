@@ -153,7 +153,7 @@ Updated September 10, 2019.
 
 ![](https://reclaimthenet.org/wp-content/uploads/2023/08/ORIGINAL-LOGO-good-variation-1024x363-1.png)
 
-Search  Search
+Search 
 
 * [Home](https://reclaimthenet.org/)
 * [Subscribe](https://reclaimthenet.org/go/subscribe-menu)
