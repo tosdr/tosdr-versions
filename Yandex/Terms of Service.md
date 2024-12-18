@@ -188,15 +188,15 @@ Yandex Terms of Service
 
 English
 
+Eesti keel
+
 Polski
 
 English
 
-Latviešu valoda
-
 Lietuvių
 
-Eesti keel
+Latviešu valoda
 
 Yandex Terms of Service
 =======================
@@ -333,15 +333,15 @@ Yandex ID Privacy Policy](https://yandex.com/legal/id_privacy_policy/en)
 
 English
 
+Eesti keel
+
 Polski
 
 English
 
-Latviešu valoda
-
 Lietuvių
 
-Eesti keel
+Latviešu valoda
 
 [Next
 
@@ -349,15 +349,15 @@ Yandex ID Privacy Policy](https://yandex.com/legal/id_privacy_policy/en)
 
 English
 
+Eesti keel
+
 Polski
 
 English
 
-Latviešu valoda
-
 Lietuvių
 
-Eesti keel
+Latviešu valoda
 
 [Yandex.Support homepage](https://yandex.com/legal)
 
