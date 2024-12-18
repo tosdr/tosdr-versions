@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**December 17, 2024**
+**December 18, 2024**
 
 * * *
 
@@ -208,6 +208,7 @@ this hour
 
 * * *
 
+* [How to Print a Car](https://www.sciencedaily.com/releases/2024/12/241217201520.htm)
 * [Redefining Magnetism](https://www.sciencedaily.com/releases/2024/12/241217131006.htm)
 * [Taxi Drivers: Lower Death Rates from Alzheimer's](https://www.sciencedaily.com/releases/2024/12/241216184729.htm)
 * [Prehistoric Rock and Ocean Anoxic Event](https://www.sciencedaily.com/releases/2024/12/241217141022.htm)
@@ -217,7 +218,6 @@ this hour
 * [Exoplanet Trappist-1 B: Atmosphere?](https://www.sciencedaily.com/releases/2024/12/241216130034.htm)
 * [Naughty or Nice? Many Parents Rely On Threats](https://www.sciencedaily.com/releases/2024/12/241216130304.htm)
 * [Violence of the Early Bronze Age](https://www.sciencedaily.com/releases/2024/12/241216000434.htm)
-* [Anglerfish's Fishing Rod: Unique Motor Control](https://www.sciencedaily.com/releases/2024/12/241212120224.htm)
 
 Trending Topics
 ---------------
@@ -228,27 +228,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
+[Genes](https://www.sciencedaily.com/news/health_medicine/genes/)
+
 [Prostate Cancer](https://www.sciencedaily.com/news/health_medicine/prostate_cancer/)
 
-[Hypertension](https://www.sciencedaily.com/news/health_medicine/hypertension/)
-
-[Genes](https://www.sciencedaily.com/news/health_medicine/genes/)
+[Depression](https://www.sciencedaily.com/news/mind_brain/depression/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
-
-[Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
-
 [Detectors](https://www.sciencedaily.com/news/matter_energy/detectors/)
+
+[Nature of Water](https://www.sciencedaily.com/news/matter_energy/nature_of_water/)
+
+[Galaxies](https://www.sciencedaily.com/news/space_time/galaxies/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
 [Fish](https://www.sciencedaily.com/news/plants_animals/fish/)
 
-[Bacteria](https://www.sciencedaily.com/news/plants_animals/bacteria/)
-
 [Pollution](https://www.sciencedaily.com/news/earth_climate/pollution/)
+
+[Marine Biology](https://www.sciencedaily.com/news/plants_animals/marine_biology/)
 
   
 
