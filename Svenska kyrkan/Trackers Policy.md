@@ -836,9 +836,11 @@ Sök Meny
             
             * [Guds vägar - judendom och kristendom](https://www.svenskakyrkan.se/guds-vagar---ett-inomkyrkligt-samtalsdokument)
                 
+            * [Islamic Relief och Ibn Rushd](https://www.svenskakyrkan.se/svenska-kyrkans-samarbete-med-muslimska-organisationer-)
+                
             * [Arbete mot antisemitism](https://www.svenskakyrkan.se/svenska-kyrkans-ataganden-och-arbete-mot-antisemitism)
                 
-            * [Islamic Relief och Ibn Rushd](https://www.svenskakyrkan.se/svenska-kyrkans-samarbete-med-muslimska-organisationer-)
+            * [Råg i ryggen – en utställning](https://www.svenskakyrkan.se/migration/envarldavgrannar/rag-i-ryggen)
                 
         * [Stipendier för studier](https://www.svenskakyrkan.se/ekumeniska-stipendier)
             
