@@ -457,7 +457,7 @@ FR
         
         2% Cash Back](https://www.rakuten.ca/lululemon)[Under Armour Canada
         
-        4% Cash Back](https://www.rakuten.ca/under-armour-canada)[Adidas
+        8% Cash Back](https://www.rakuten.ca/under-armour-canada)[Adidas
         
         2% Cash Back](https://www.rakuten.ca/adidas)[tentree
         
