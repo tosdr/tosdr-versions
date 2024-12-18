@@ -40,7 +40,7 @@
         * [BBN Radio Station Public Files](https://docs.google.com/document/d/1CAvkNrLfXo7_T07TWmcI5s0Fy2SgsWJlYhAbfy6Cyw8/edit)
         * [BBN FCC Applications](https://docs.google.com/document/d/1Rk0NPvoFwGKl65cZVdVtFArdQZZbx2fYJgvxckaZmCQ)
     * [Our Announcers](https://bbn1.bbnradio.org/english/about-bbn/bbn-announcers/)
-* [Bible Institute](https://bbn1.bbnradio.org/bbnbienglish/?PHPSESSID=mW4y3X6g3pE35wxoeYLy670hzWDTtO4w)
+* [Bible Institute](https://bbn1.bbnradio.org/bbnbienglish/?PHPSESSID=p8bfgpzJ3yn-3Zg-SZ4y167e%2ClIV8V%2Ch)
 * [Chat](https://bbn1.bbnradio.org/english/chat/ "Chat live with a staff member or trained volunteer to learn how to place your faith in Jesus for salvation or to ask a spiritual question.")
 * [Resources](https://bbn1.bbnradio.org/english/tools-home/)
     * [How to Get to Heaven](https://bbn1.bbnradio.org/english/how-to-get-to-heaven-3/)
@@ -61,7 +61,7 @@
         * [Share the BBN video on social media](https://bbn1.bbnradio.org/english/about-bbn/50th-anniversary-video/)
         * [Tell a friend about BBN by email](https://bbn1.bbnradio.org/english/sharing-tools/tell-a-friend-about-bbn/)
         * [Tell a friend how to be saved by email](https://bbn1.bbnradio.org/english/sharing-tools/tell-a-friend-how-to-be-saved/)
-    * [Other Language Sites](https://bbn1.bbnradio.org/?PHPSESSID=mW4y3X6g3pE35wxoeYLy670hzWDTtO4w)
+    * [Other Language Sites](https://bbn1.bbnradio.org/?PHPSESSID=p8bfgpzJ3yn-3Zg-SZ4y167e%2ClIV8V%2Ch)
     * [About BBN](https://bbn1.bbnradio.org/english/about-bbn/)
         * [History](https://bbn1.bbnradio.org/english/about-bbn/history/)
         * [Purpose](https://bbn1.bbnradio.org/english/about-bbn/purpose/)
@@ -99,8 +99,8 @@
         * [On Demand Problem](https://bbn1.bbnradio.org/english/contact-us/report/on-demand-problem/)
         * [Web Page Problem](https://bbn1.bbnradio.org/english/contact-us/report/web-page-problem/)
 * [Donate](https://bbn1.bbnradio.org/english/donate/)
-* [Search](https://bbn1.bbnradio.org/english/about-bbn/privacy-policy/?s=&PHPSESSID=mW4y3X6g3pE35wxoeYLy670hzWDTtO4w)
-* [**Menu** Menu](#/?PHPSESSID=mW4y3X6g3pE35wxoeYLy670hzWDTtO4w)
+* [Search](https://bbn1.bbnradio.org/english/about-bbn/privacy-policy/?s=&PHPSESSID=p8bfgpzJ3yn-3Zg-SZ4y167e%2ClIV8V%2Ch)
+* [**Menu** Menu](#/?PHPSESSID=p8bfgpzJ3yn-3Zg-SZ4y167e%2ClIV8V%2Ch)
 
 [Privacy Policy](https://bbn1.bbnradio.org/english/about-bbn/privacy-policy/ "Permanent Link: Privacy Policy")
 ==============================================================================================================
@@ -171,7 +171,7 @@ How we use information we collect
 
 ### How to Get to Heaven
 
-[Click here to learn how!](https://bbn1.bbnradio.org/english/how-to-get-to-heaven/?PHPSESSID=mW4y3X6g3pE35wxoeYLy670hzWDTtO4w)  
+[Click here to learn how!](https://bbn1.bbnradio.org/english/how-to-get-to-heaven/?PHPSESSID=p8bfgpzJ3yn-3Zg-SZ4y167e%2ClIV8V%2Ch)  
 
 © Copyright - Bible Broadcasting Network
 
