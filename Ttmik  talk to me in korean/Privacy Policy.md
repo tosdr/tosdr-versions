@@ -4,11 +4,11 @@ X
 
 [![We’ve Moved to a Brand-new Site. Learn Why.](https://cdn.talktomeinkorean.com/wp-content/themes/ttmik/assets/images/240930-move-to-kajabi-pc.svg)](https://ttmik.me/3ZDFfiY)
 
-[![Create Your Own Hangeul Face for Hangeul Day!](https://cdn.talktomeinkorean.com/wp-content/themes/ttmik/assets/images/240930-hangeulday-pc.svg)](https://ttmik.me/47Jz2nC)
+[![10% OFF on All Books with Coupon Code BOOK2024](https://cdn.talktomeinkorean.com/wp-content/themes/ttmik/assets/images/241218-booksale-PC.svg)](https://ttmik.me/4fjY3Z4)
 
 [![We’ve Moved to a Brand-new Site. Learn Why.](https://cdn.talktomeinkorean.com/wp-content/themes/ttmik/assets/images/240930-move-to-kajabi-mo.svg)](https://ttmik.me/3ZDFfiY)
 
-[![Create Your Own Hangeul Face for Hangeul Day!](https://cdn.talktomeinkorean.com/wp-content/themes/ttmik/assets/images/240930-hangeulday-mo.svg)](https://ttmik.me/47Jz2nC)
+[![10% OFF on All Books with Coupon Code BOOK2024](https://cdn.talktomeinkorean.com/wp-content/themes/ttmik/assets/images/241218-booksale-MO.svg)](https://ttmik.me/4fjY3Z4)
 
 * [Sign in](https://talktomeinkorean.com/wp-login.php?redirect_to=https%3A%2F%2Ftalktomeinkorean.com%2Fprivacy-policy-of-talktomeinkorean-com%2F&isSign=1)
 * [Support](https://talktomeinkorean.freshdesk.com/support/home)
