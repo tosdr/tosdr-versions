@@ -289,6 +289,14 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Бюджет, поддержка участников СВО, социальные гарантии: «Единая Россия» подвела итоги работы в осеннюю сессию](https://cdn.er.ru/media/news/December2024/cMXZYvCJYyRA9Uco2sAC-small.jpg)](https://er.ru/activity/news/byudzhet-podderzhka-uchastnikov-svo-socialnye-garantii-edinaya-rossiya-podvela-itogi-raboty-v-osennyuyu-sessiyu)
+
+[Бюджет, поддержка участников СВО, социальные гарантии: «Единая Россия» подвела итоги работы в осеннюю сессию](https://er.ru/activity/news/byudzhet-podderzhka-uchastnikov-svo-socialnye-garantii-edinaya-rossiya-podvela-itogi-raboty-v-osennyuyu-sessiyu)
+
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Васильев](https://er.ru/activity/news?tags%5B0%5D=947) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#помощьучастникамСВО](https://er.ru/activity/news?tags%5B0%5D=1093584) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#XXIIСъездЕР](https://er.ru/activity/news?tags%5B0%5D=1095999) [#Путин](https://er.ru/activity/news?tags%5B0%5D=60)
+
+Сегодня 13:18
+
 [![Владимир Якушев подвёл итоги работы «Единой России» в осеннюю сессию](https://cdn.er.ru/media/news/December2024/vTAZT9qXyQLhdm06v8jA-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-podvyol-itogi-raboty-edinoj-rossii-v-osennyuyu-sessiyu)
 
 [Владимир Якушев подвёл итоги работы «Единой России» в осеннюю сессию](https://er.ru/activity/news/vladimir-yakushev-podvyol-itogi-raboty-edinoj-rossii-v-osennyuyu-sessiyu)
@@ -321,21 +329,13 @@
 
 Сегодня 11:14
 
-[![Александр Жуков: Все поправки «Единой России» были приняты при доработке бюджета, что позволит добиться поставленных Президентом целей](https://cdn.er.ru/media/news/December2024/qNStJWthhGGAeyLjKVzf-small.jpg)](https://er.ru/activity/news/aleksandr-zhukov-vse-popravki-edinoj-rossii-byli-prinyaty-pri-dorabotke-byudzheta-chto-pozvolit-dobitsya-postavlennyh-prezidentom-celej)
+[![Александр Жуков: Все поправки «Единой России» были приняты при доработке бюджета, что позволит добиться поставленных Президентом целей](https://cdn.er.ru/media/news/December2024/HY6sdtfAxa4FvfL5JRAJ-small.jpg)](https://er.ru/activity/news/aleksandr-zhukov-vse-popravki-edinoj-rossii-byli-prinyaty-pri-dorabotke-byudzheta-chto-pozvolit-dobitsya-postavlennyh-prezidentom-celej)
 
 [Александр Жуков: Все поправки «Единой России» были приняты при доработке бюджета, что позволит добиться поставленных Президентом целей](https://er.ru/activity/news/aleksandr-zhukov-vse-popravki-edinoj-rossii-byli-prinyaty-pri-dorabotke-byudzheta-chto-pozvolit-dobitsya-postavlennyh-prezidentom-celej)
 
 [#Жуков](https://er.ru/activity/news?tags%5B0%5D=824) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#осенняясессия](https://er.ru/activity/news?tags%5B0%5D=121119) [#итоги](https://er.ru/activity/news?tags%5B0%5D=1184) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#ФракцияЕР](https://er.ru/activity/news?tags%5B0%5D=1090016) [#итогиработы](https://er.ru/activity/news?tags%5B0%5D=111531) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327)
 
 Сегодня 09:35
-
-[![Ирина Яровая: «Единая Россия» продолжит реализовывать законодательные решения, обеспечивающие единство общества](https://cdn.er.ru/media/news/December2024/OwhK6haLJeovXO3y3b6k-small.jpg)](https://er.ru/activity/news/irina-yarovaya-edinaya-rossiya-prodolzhit-realizovyvat-zakonodatelnye-resheniya-obespechivayushie-edinstvo-obshestva)
-
-[Ирина Яровая: «Единая Россия» продолжит реализовывать законодательные решения, обеспечивающие единство общества](https://er.ru/activity/news/irina-yarovaya-edinaya-rossiya-prodolzhit-realizovyvat-zakonodatelnye-resheniya-obespechivayushie-edinstvo-obshestva)
-
-[#Яровая](https://er.ru/activity/news?tags%5B0%5D=131) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#осенняясессия](https://er.ru/activity/news?tags%5B0%5D=121119) [#единствонарода](https://er.ru/activity/news?tags%5B0%5D=1095290) [#ФракцияЕР](https://er.ru/activity/news?tags%5B0%5D=1090016) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#итогиработы](https://er.ru/activity/news?tags%5B0%5D=111531)
-
-Сегодня 09:33
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
