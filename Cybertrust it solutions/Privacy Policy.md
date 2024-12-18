@@ -186,7 +186,7 @@ To protect your privacy and security, we will also take reasonable steps to veri
     This field is for validation purposes and should be left unchanged.
     
 
-        
+           
 
 Δ
 
@@ -210,12 +210,12 @@ To protect your privacy and security, we will also take reasonable steps to veri
     
 * CAPTCHA
     
-* Comments
+* Name
     
     This field is for validation purposes and should be left unchanged.
     
 
-        
+           
 
 Δ
 
@@ -259,7 +259,7 @@ Rancho Santa Margarita, CA 92688**
     This field is for validation purposes and should be left unchanged.
     
 
-       
+          
 
 Δ
 
@@ -297,12 +297,12 @@ All Rights Reserved.
     
 * CAPTCHA
     
-* Email
+* Name
     
     This field is for validation purposes and should be left unchanged.
     
 
-       
+          
 
 Δ
 
