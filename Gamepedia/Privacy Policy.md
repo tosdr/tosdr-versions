@@ -64,7 +64,7 @@ Privacy Policy
 
 [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.fandom.com%2Fprivacy-policy "Facebook")[](https://twitter.com/share?url=https%3A%2F%2Fwww.fandom.com%2Fprivacy-policy "Twitter")[](http://www.reddit.com/submit?url=https%3A%2F%2Fwww.fandom.com%2Fprivacy-policy "Reddit")
 
-**Date of Last Revision: November 16, 2024**
+**Date of Last Revision: November 1, 2023**
 
 Fandom, Inc. (“**Fandom**” “**we**,” “**us**,” and “**our**”) provides a home to explore, contribute to, and celebrate the world of pop culture. Our Privacy Policy (“**Privacy Policy**”) is designed to help you understand how we collect, use, and share your personal information, and to assist you in exercising the privacy rights available to you.
 
@@ -452,7 +452,6 @@ Last updated: July 1, 2023
 
 #### Previous Privacy Policy
 
-* [November 1, 2023](https://www.fandom.com/privacy-policy-previous-version-november-1-2023-november-16-2024)
 * [July 1, 2023](https://www.fandom.com/privacy-policy-previous-version-2-11-2023-6-30-2023)
 * [February 11, 2023](https://www.fandom.com/privacy-policy-previous-version-2-11-2023-6-30-2023)
 * [August 11, 2022](https://www.fandom.com/privacy-policy-previous-version-8-11-2022-2-11-2023)
