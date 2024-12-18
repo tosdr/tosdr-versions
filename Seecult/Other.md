@@ -294,11 +294,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/galerija-talenata/perspektive-art-klinike/perspektive-9/ziriranje1.jpg?itok=Zt0LDX_C)](http://seecult.org/galerija/galerija-umetnika/galerija-talenata/perspektive-art-klinike/perspektive-9)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/vladimir-peric-talent/vladimir-peric-sporedno-usporedno/vesalica-prve-klase.jpg?itok=vI0qwA_z)](http://seecult.org/galerija/galerija-umetnika/vladimir-peric-talent/vladimir-peric-sporedno-usporedno)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/partibrejkers-sloboda-ili-nista.jpg?itok=2FS0Ctbq)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/enduring-innocence.jpg?itok=O9VRU88o)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -311,8 +311,8 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [A1 Kinoteka letnji bioskop ponovo na krovu Doma Vojske](http://seecult.org/vest/a1-kinoteka-letnji-bioskop-ponovo-na-krovu-doma-vojske)
 * [Uži izbor za Politikinu nagradu za 2023.](http://seecult.org/vest/uzi-izbor-za-politikinu-nagradu-za-2023)
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
-* [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 * [Nadežda Petrović u Narodnom muzeju](http://seecult.org/vest/nadezda-petrovic-u-narodnom-muzeju)
+* [Megdan u bioskopima](http://seecult.org/vest/megdan-u-bioskopima)
 
 * [Od AI do nove osećajnosti](http://seecult.org/vest/od-ai-do-nove-osecajnosti)
 * [Mister Dolar ponovo na Terazijama](http://seecult.org/vest/mister-dolar-ponovo-na-terazijama)
