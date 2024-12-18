@@ -202,10 +202,10 @@ If you are domiciled in the EU and you think your privacy rights were breached, 
 
 #### Featured in our Blog
 
-* [24 Best Kanban Tools of 2024](https://teamhood.com/kanban/best-kanban-board-tools/)
-* [20 Best MS Project Alternatives 2024](https://teamhood.com/project-management/microsoft-project-alternatives/)
-* [21 Best Workload Management Tools](https://teamhood.com/project-management/workload-management-tools/)
-* [Best Resource Management Tools 2024](https://teamhood.com/project-management/best-resource-management-tools/)
+* [Best Kanban Tools of 2025](https://teamhood.com/kanban/best-kanban-board-tools/)
+* [Best MS Project Alternatives 2025](https://teamhood.com/project-management/microsoft-project-alternatives/)
+* [Best Workload Management Tools](https://teamhood.com/project-management/workload-management-tools/)
+* [Best Resource Management Tools 2025](https://teamhood.com/project-management/best-resource-management-tools/)
 * [Digital Kanban Board](https://teamhood.com/kanban/physical-to-digital-kanban-board-in-2020/)
 * [Compare Kanban, Scrum and Scrumban](https://teamhood.com/agile/scrum-vs-kanban-vs-scrumban-how-do-they-compare/)
 * [Kanban Gantt Chart](https://teamhood.com/kanban/kanban-gantt-chart/)
