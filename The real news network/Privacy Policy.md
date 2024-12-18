@@ -75,14 +75,14 @@ Trending Posts
 --------------
 
 * [Deny, Defend, Depose: Elites recoil at public support for UnitedHealthcare CEO assassin](https://therealnews.com/deny-defend-depose-unitedhealthcare-ceo-killed)
-* ['We are destroying entire worlds': A West Bank rabbi's fight against Israeli Occupation](https://therealnews.com/we-are-destroying-entire-worlds-a-west-bank-rabbis-fight-against-israeli-occupation)
 * [‘Everytime we come back, we all get sick’: GA residents affected by September BioLab fire are still going through hell](https://therealnews.com/ga-residents-affected-by-september-biolab-fire-are-still-going-through-hell)
+* ['We are destroying entire worlds': A West Bank rabbi's fight against Israeli Occupation](https://therealnews.com/we-are-destroying-entire-worlds-a-west-bank-rabbis-fight-against-israeli-occupation)
 * [Robert Reich predicted the death of the US middle class 30 years ago. We asked him how to save it.](https://therealnews.com/robert-reich-predicted-the-death-of-the-us-middle-class)
-* [Alabama prisoners sued to stop forced labor—a court dismissed their case](https://therealnews.com/alabama-prisoners-sued-to-stop-forced-labor-a-court-dismissed-their-case)
-* [10 ways to be prepared and grounded now that Trump has won](https://therealnews.com/10-ways-to-be-prepared-and-grounded-now-that-trump-has-won)
 * ['Incredibly hypocritical': Hunter Biden's pardon and his father's mass incarceration legacy](https://therealnews.com/incredibly-hypocritical-hunter-bidens-pardon-and-his-fathers-mass-incarceration-legacy)
-* [Assad government falls after nearly 14 years of civil war as rebels seize capital](https://therealnews.com/assad-government-falls-after-nearly-14-years-of-civil-war-as-rebels-seize-capital)
+* [10 ways to be prepared and grounded now that Trump has won](https://therealnews.com/10-ways-to-be-prepared-and-grounded-now-that-trump-has-won)
 * ['The people will save the people': Rage and solidarity in the wake of Spain's floods](https://therealnews.com/rage-and-solidarity-in-the-wake-of-spains-floods)
+* [Everything you've heard about this election is wrong. Dr. Richard Wolff explains why.](https://therealnews.com/everything-youve-heard-about-this-election-is-wrong-dr-richard-wolff-explains-why)
+* [Alabama prisoners sued to stop forced labor—a court dismissed their case](https://therealnews.com/alabama-prisoners-sued-to-stop-forced-labor-a-court-dismissed-their-case)
 * [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
 
 Close
@@ -139,14 +139,14 @@ Trending Posts
 --------------
 
 * [Deny, Defend, Depose: Elites recoil at public support for UnitedHealthcare CEO assassin](https://therealnews.com/deny-defend-depose-unitedhealthcare-ceo-killed)
-* ['We are destroying entire worlds': A West Bank rabbi's fight against Israeli Occupation](https://therealnews.com/we-are-destroying-entire-worlds-a-west-bank-rabbis-fight-against-israeli-occupation)
 * [‘Everytime we come back, we all get sick’: GA residents affected by September BioLab fire are still going through hell](https://therealnews.com/ga-residents-affected-by-september-biolab-fire-are-still-going-through-hell)
+* ['We are destroying entire worlds': A West Bank rabbi's fight against Israeli Occupation](https://therealnews.com/we-are-destroying-entire-worlds-a-west-bank-rabbis-fight-against-israeli-occupation)
 * [Robert Reich predicted the death of the US middle class 30 years ago. We asked him how to save it.](https://therealnews.com/robert-reich-predicted-the-death-of-the-us-middle-class)
-* [Alabama prisoners sued to stop forced labor—a court dismissed their case](https://therealnews.com/alabama-prisoners-sued-to-stop-forced-labor-a-court-dismissed-their-case)
-* [10 ways to be prepared and grounded now that Trump has won](https://therealnews.com/10-ways-to-be-prepared-and-grounded-now-that-trump-has-won)
 * ['Incredibly hypocritical': Hunter Biden's pardon and his father's mass incarceration legacy](https://therealnews.com/incredibly-hypocritical-hunter-bidens-pardon-and-his-fathers-mass-incarceration-legacy)
-* [Assad government falls after nearly 14 years of civil war as rebels seize capital](https://therealnews.com/assad-government-falls-after-nearly-14-years-of-civil-war-as-rebels-seize-capital)
+* [10 ways to be prepared and grounded now that Trump has won](https://therealnews.com/10-ways-to-be-prepared-and-grounded-now-that-trump-has-won)
 * ['The people will save the people': Rage and solidarity in the wake of Spain's floods](https://therealnews.com/rage-and-solidarity-in-the-wake-of-spains-floods)
+* [Everything you've heard about this election is wrong. Dr. Richard Wolff explains why.](https://therealnews.com/everything-youve-heard-about-this-election-is-wrong-dr-richard-wolff-explains-why)
+* [Alabama prisoners sued to stop forced labor—a court dismissed their case](https://therealnews.com/alabama-prisoners-sued-to-stop-forced-labor-a-court-dismissed-their-case)
 * [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
 
 [Skip to content](#main)
