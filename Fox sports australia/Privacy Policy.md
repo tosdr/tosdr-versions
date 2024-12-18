@@ -26,16 +26,6 @@ FOX SCORES
     | IND | 260 & 0 /8 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250503)
-* [Men's ODI
-    
-    PAK won by 3 wkts
-    
-    |     |     |
-    | --- | --- |
-    | RSA | 9 /239 |
-    | PAK | 7 /242 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODI2024-251101)
 * [Men's T20I
     
     BAN won by 27 runs
@@ -68,26 +58,26 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WNCL2024-250116)
 * [Big Bash League
     
-    18/12 19:15 AEST
+    BRI won by 8 wkts
     
     |     |     |
     | --- | --- |
-    | MELS | –   |
-    | BRI | –   |
+    | MELS | 6 /162 |
+    | BRI | 2 /163 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/BBL2024-250104)
 * Basketball
     
 * [WNBL
     
-    18/12 20:00 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | TWN | –   |
-    | SYD | –   |
+    | TWN | 98  |
+    | SYD | 73  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/wnbl/match-centre/WNBL2024-25080001)
+    Match Centre](https://www.foxsports.com.au/basketball/wnbl/match-centre/WNBL2024-25080001/play-by-play)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
