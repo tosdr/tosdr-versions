@@ -250,9 +250,9 @@ Sales & CRM
 
 Marketing
 
- [![wazzup](/upload/optimizer/converted/images/content_en/icons/menu/wazzup.png.webp?1734361375668)Wazzup](https://www.bitrix24.com/apps/app/wazzup.app/)
+ [![wazzup](/upload/optimizer/converted/images/content_en/icons/menu/wazzup.png.webp?1734361375668)Wazzup](https://www.bitrix24.com/apps/app/wazzup.apps/)
 
- [![whatsapp-business-api](/upload/optimizer/converted/images/content_en/icons/menu/whatsapp-business-api.png.webp?1734361375668)WhatsApp Business API](https://www.bitrix24.com/apps/app/polyakov.ofitsialnoe_whatsapp_business_api/)
+ [![whatsapp-business-api](/upload/optimizer/converted/images/content_en/icons/menu/whatsapp-business-api.png.webp?1734361375668)WhatsApp Business API](https://www.bitrix24.com/apps/)
 
  [![plivo-sms](/upload/optimizer/converted/images/content_en/icons/menu/plivo-sms.png.webp?1734361375668)Plivo SMS](https://www.bitrix24.com/apps/app/integrations24.plivosms/)
 
