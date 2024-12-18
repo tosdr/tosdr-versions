@@ -8,7 +8,7 @@ To find out whether your browser supports Javascript, or to allow scripts, see t
 
 [![](//img.wlresources.com/modelmanager/marketing/logo-xlovecam.png)](https://www.xlovecam.com/en/)
 
-* [Free Sex Cams (412)](https://www.xlovecam.com/en/)
+* [Free Sex Cams (485)](https://www.xlovecam.com/en/)
 * [Media](#)
     
     * [Pictures](https://www.xlovecam.com/en/photos/)
@@ -507,8 +507,8 @@ b. ACW BV is obligated by law for example, when the provision of the E-Wallet to
 
 + [Agreement between ACW and Independent Performer regarding the provision of Payment Services](#)
 
-AGREEMENT BETWEEN ACW AND INDEPENDENT PERFORMER REGARDING THE PROVISION OF PAYMENT SERVICES (February 13 2024)
-==============================================================================================================
+AGREEMENT BETWEEN ACW AND INDEPENDENT PERFORMER REGARDING THE PROVISION OF PAYMENT SERVICES (20-11-2024)
+========================================================================================================
 
 Agreement between ACW and Performer regarding the Provision of Payment Services
 ===============================================================================
@@ -525,15 +525,15 @@ Before you can make use of the Payment Services you need to carefully read and a
 
 1.1 This Agreement replaces all previous agreements between the Performer and a company of the AC Group.  
 1.2 In the case of questions about this Agreement the Performer can consult the FAQ page (Frequently Asked Questions) or contact ACW BV via the online contact form of ACW BV.  
-1.3 ACW BV has the right to make changes to this Agreement. ACW BV will notify the Performer of such changes by means of placing the new, amended Agreement on the SNV Platform, by means of an e¬mail to the registered Performer by other means. The changes take effect on the date specified in the notification. If the Performer is unable to agree with the changes this Agreement will terminate.  
+1.3 ACW BV has the right to make changes to this Agreement. ACW BV will notify the Performer of such changes by means of placing the new, amended Agreement on the SNV Platform. The changes take effect within 14 days after the placing of the new amended Agreement on the Platform.If the Performer is unable to agree with the changes this Agreement will terminate.  
 1.4 This Performer Agreement is drawn up in the English language. In the event of a conflict between the English version and a version in another language the English version will prevail.
 
 ### 2\. Definitions
 
-2.1 ACW BV:refers to registered to a limited liability company (BV) with the Chamber of Commerce under number 52306054 with its offices at Zuid-Hollandlaan 7, 2596 AL in The Hague (hereinafter: ACW BV).  
-2.2 AC Group: companies which are directly and indirectly held by AC Media Connect Holding BV, AC Media Connect Holding BV.  
+2.1 ACW BV:refers to registered to a limited liability company (BV) with the Chamber of Commerce under number 52306054 with its offices at , , , , (hereinafter: ACW BV).  
+2.2 AC Group: companies which are directly and indirectly held by AC Media Connect BV, AC Media Connect Holding BV.  
   
-2.3 AC Media Connect Holding BV: a company registered in the commercial registry under number 68636628, having its offices at Beursplein 37, 3011 AA, Rotterdam.  
+2.3 AC Media Connect BV: a company registered in the commercial registry under number 68636628, having its offices at Beursplein 37, 3011 AA, Rotterdam.  
 2.4 : a company having its offices at , , , , , registered under number 12276  
 2.5 Affiliates: third parties with whom has concluded agreements to provide and offer marketing services through the Affiliate Program of ACW NV.  
 2.6 Entertainment Webcam Service: a service offered and sold by the Performer to the User.  
@@ -559,8 +559,9 @@ Before you can make use of the Payment Services you need to carefully read and a
 2.25 Performer's Profile: the full personal and physical description of the Performer.  
 2.26 Policy Rules: documents prepared by the AC Group and published on the SNV Platform containing mandatory or non-mandatory rules which apply to the relationship between the Performer and any member of the AC Group as a result of any agreement concluded between the two including but not limited to Privacy/ GDPR rules, Code of Conduct, KYC rules and AML rules.  
 2.27 Reservation Requirement: the amount that ACW BV reserves temporarily in accordance with the General Platform Services Agreementto cover possible payment cancellations by Users.  
-2.28 SNV refers to , registered with the Chamber of Commerce under number 122760, with its offices at , , , , and to the companies and Partners affiliated with  
-2.29 SNV Platform: the technical platform exploited by SNV that enables the Performer to provide and sell Entertainment Webcam Services anonymously and enables the User to purchase Entertainment Webcam Services anonymously.  
+2.28 SNV refers to , registered with the Chamber of Commerce under number 122760, with its offices at , , , , and to the companies and Partners affiliated with except for ACW NV and ACW BV.  
+2.29 SNV Platform: the technical platform exploited by SNV operating under various trade names owned by SNV (XLove, XLovecam, XXXLove, XLovegay) that enables the Service Provider to provide and sell Entertainment Webcam Services anonymously and enables the User to purchase Entertainment Webcam Services anonymously. Via a number of domain names and white labels one is redirected to this platform. The domain names or white labels are either owned by the AC Group or by Affiliates of the AC Group.
+
 2.30 Third Party: any party except the Performer and ACW BV.  
 2.31 Transaction Fees: the costs associated with the Payment Transaction.  
 2.32 User: a person who purchases Entertainment Webcam Services from the Performer via a Website connected to the technical Platform of SNV and who uses the User Payment Service (E-Wallet) in order to make the discharge payment of the Entertainment Webcam Services the Performer has provided and sold to the User.  
@@ -717,8 +718,8 @@ b. ACW BV is legally obliged to do so.
 
 + [Agreement between SNV and ACW NV as the one party and the Independant Performer as the other party regarding the provision of General Platform Services](#)
 
-AGREEMENT BETWEEN SNV AND ACW NV AS THE ONE PARTY AND THE INDEPENDENT PERFORMER AS THE OTHER PARTY REGARDING THE PROVISION OF GENERAL PLATFORM SERVICES BY SNV AND ACW NV TO THE INDEPENDENT PERFORMER (GENERAL PLATFORM SERVICES AGREEMENT) (February 13 2024)
-===============================================================================================================================================================================================================================================================
+AGREEMENT BETWEEN SNV AND ACW NV AS THE ONE PARTY AND THE INDEPENDENT PERFORMER AS THE OTHER PARTY REGARDING THE PROVISION OF GENERAL PLATFORM SERVICES BY SNV AND ACW NV TO THE INDEPENDENT PERFORMER (GENERAL PLATFORM SERVICES AGREEMENT) 22-11-2024
+=======================================================================================================================================================================================================================================================
 
 If you are a provider of Entertainment Webcam Services on this Platform and if you use the ‘Payment Services (billing) provided by AC Webconnecting BV (ACW BV) and/or General Platform services’ provided by (hereinafter: SNV NV) and (hereinafter: ACW NV) please consult this Agreement.
 ============================================================================================================================================================================================================================================================================================
@@ -731,14 +732,14 @@ Before you can offer and sell your services on the Platform you need to carefull
 
 1.1 This Agreement replaces all previous agreements between the Performer and a company of the AC Group.  
 1.2 In the case of questions about this Agreement the Performer can consult the FAQ page (Frequently Asked Questions) or contact the General Platform Services Provider via the online contact form of the General Platform Services Provider.  
-1.3 The General Platform Services Provider has the right to make changes to this Agreement. The General Platform Services Provider will notify the Performer of such changes by means of placing the new, amended Agreement on the Platform, by means of an e¬mail to the registered Performer upon request, or by other means. The changes take effect on the date specified in the notification. If the Performer is unable to agree with the changes the Agreement will terminate.  
+1.3 The General Platform Services Provider has the right to make changes to this Agreement. The General Platform Services Provider will notify the Performer of such changes by means of placing the new, amended Agreement on the Platform. The changes take effect within 14 days after the placing of the new amended Agreement on the Platform. If the Performer is unable to agree with the changes the Agreement will terminate.  
 1.4 By signing this Agreement the Performer accepts that the General Platform Services Provider can use third parties (internal or external) to provide the General Platform Services.
 
 ### 2\. Definitions
 
-2.1 ACW BV: refers to registered with the Chamber of Commerce under number 52306054 with its offices at Zuid-Hollandlaan 7, 2596 AL in The Hague its offices .  
-2.2 AC Group: companies which are directly and indirectly held by AC Media Connect Holding BV, AC Media Connect Holding BV.  
-2.3 AC Media Connect Holding BV: a company registered in the commercial registry under number 6863636628, having its offices at Beursplein 37, 3011 AA, Rotterdam.  
+2.1 ACW BV: refers to registered with the Chamber of Commerce under number 52306054 with its offices at , , , , .  
+2.2 AC Group: companies which are directly and indirectly held by AC Media Connect BV.  
+2.3 AC Media Connect BV: a company registered in the commercial registry under number 6863636628, having its offices at Beursplein 37, 3011 AA, Rotterdam.  
 2.4 : a company having its offices at , , , , , registered under number 12276  
 2.5 Affiliates: third parties with whom has concluded agreements to provide and offer marketing services through the Affiliate Program of ACW NV.  
 2.6 Entertainment Webcam Service: a service offered and sold by the Performer to the User.  
@@ -764,8 +765,8 @@ Before you can offer and sell your services on the Platform you need to carefull
 2.25 Performer's Profile: the full personal and physical description of the Performer.  
 2.26 Policy Rules: documents prepared by the AC Group and published on the SNV Platform containing mandatory or non-mandatory rules which apply to the relationship between the Performer and any member of the AC Group as a result of any agreement concluded between the two including but not limited to Privacy/ GDPR rules, Code of Conduct, KYC rules and AML rules.  
 2.27 Reservation Requirement: the amount that ACW BV reserves temporarily in accordance with the General Platform Services Agreement to cover possible payment cancellations by Users.  
-2.28 SNV refers to , registered with the Chamber of Commerce under number 122760, with its offices at , , , , and to the companies and Partners affiliated with  
-2.29 SNV Platform: the technical platform exploited by SNV that enables the Performer to provide and sell Entertainment Webcam Services anonymously and enables the User to purchase Entertainment Webcam Services anonymously.  
+2.28 SNV refers to , registered with the Chamber of Commerce under number 122760, with its offices at , , , , and to the companies and Partners affiliated with except for ACW NV and ACW BV.  
+2.29 SNV Platform: the technical platform exploited by SNV operating under various trade names owned by SNV (XLove, XLovecam, XXXLove, XLovegay) that enables the Service Provider to provide and sell Entertainment Webcam Services anonymously and enables the User to purchase Entertainment Webcam Services anonymously. Via a number of domain names and white labels one is redirected to this platform. The domain names or white labels are either owned by the AC Group or by Affiliates of the AC Group.  
 2.30 Third Party: any party except the Performer and the General Platform Services Provider.  
 2.31 Transaction Fees: the costs associated with the Payment Transaction.  
 2.32 User: a person who purchases Entertainment Webcam Services from the Performer via a Website connected to the technical Platform of SNV and who may or may not use the User Payment Service (E-Wallet) in order to make the discharge payment of the Entertainment Webcam Services the Performer has provided and sold to the User.  
@@ -777,7 +778,7 @@ Before you can offer and sell your services on the Platform you need to carefull
 
 ### 3\. Conditions Performer
 
-3.1 The Performer must be a person who is legally competent and authorized to sign binding agreements and must be at least 18. If the legislation in the country of the Performer differs from this rule the Performer must be at least 21. For this purpose the Performer will supply a copy of a valid ID of the Performer together with his photograph.  
+3.1 The Performer must be a person who is legally competent and authorized to sign binding agreements and of majority age in his country of residence. For this purpose the Performer will supply a copy of a valid ID of the Performer together with his photograph.  
 3.2 The Performer cannot be a person whose Performer’s Account has been temporarily or permanently suspended for legal reason.  
 3.3. The Performer Account is not transferable, in any form whatsoever.  
 3.4 The Performer is obliged to make a Performer Account by completing and sending the applicable on-line registration form and upload all forms as requested during the registration process.  
@@ -820,7 +821,8 @@ Before you can offer and sell your services on the Platform you need to carefull
 7.3 Only a registered Performer can offer and sell his Entertainment Webcam Services on the Platform.  
 7.4 The Performer is responsible for the choice of classification under which the Entertainment Webcam Services are offered.  
 7.5 Actions and transactions are not approved and/or validated by the General Platform Services Provider. The Performer is personally responsible for the legality of his/her actions and offered Entertainment Webcam Services.  
-7.6 You are supplying the Entertainment Webcam Services to the Users, who are your customers. If you and the User are based in the EU, aArticle 54 of the EU VAT Directive 2006/112 is applicable. SNV is only a Platform and supplies you General Platform Services together with ACW NV. If you are based in the EU article 44 and article 196 of the EU VAT Directive 2006/112 are applicable.  
+7.6 You are supplying the Entertainment Webcam Services to the Users, who are your customers. SNV is only a Platform and supplies you General Platform Services together with ACW NV.
+
 7.7 By selling your Entertainment Webcam Services via the Platform you are considered to be an entrepreneur. Depending on the applicable rules of your country of residence, you may or may not be obliged to charge VAT over your Entertainment Webcam Services rendered to the Users. We advise you to consult your local accountant to inform yourself about your particular VAT status in this respect. If your Entertainment Webcam Services are subject to VAT, you are personally responsible for your VAT declarations in this respect.
 
 ### 8\. General Platform Fee
@@ -864,10 +866,12 @@ b. be insulting, threatening, damaging or defamatory;
 c. infringe copyrights, privacy or other rights;  
 d. break the law or violate any other regulations;  
 e. breach public order and/or public morals;  
-f. be obscene or inappropriate or contain child pornography;  
-g. create liability for  
-or cause the (full or partial) loss of its services;  
-h. cause the SNV technical platform to suffer interruptions or damage, function less efficiently or be influenced in such a way that its effectiveness or functionality is in any way diminished.  
+f. be obscene or inappropriate or contain child pornography, contain children, child sexual abuse material, age-play, incest, rape or non-consensual sex, hypnosis, intoxication, sexual assault, extreme violence, non-consensual pain, blood, cutting, erotic asphyxiation, torture, necrophilia, sadomasochistic abuse, hardcore bondage, extreme sting, genital mutilation, bestiality, urine or water sports, scat or excrement-related material, enema play, vomiting, menstrual bleeding, or any other matter that is illegal;  
+g. promote violence or discrimination based on race, sex, religion, nationality, disability, sexual orientation, or age;  
+h. promote or depict rearms (excluding obvious toys), weapons (excluding obvious toys), or any goods whose sale, possession, or use is subject to prohibitions or restrictions;  
+i. Promote or depict alcohol or drugs or drug paraphernalia;  
+j. create liability for the General Platform Services Provider or cause the (full or partial) loss of its services;  
+k. cause the SNV technical platform to suffer interruptions or damage, function less efficiently or be influenced in such a way that its effectiveness or functionality is in any way diminished.  
 12.3 The Performer gives the General Platform Services Provider a non-exclusive, worldwide, uninterrupted, irrevocable, royalty-free and transferable (via several third parties) license to exercise the copyrights, trademarks, publicity and database rights with respect to the Information (always including pictures, videos and online images) the Performer has placed on known and as of yet unknown media, to the extent that this is necessary to provide its General Platform Service to the Performer.  
 12.5 Any claim that a Performer may have, by a right in law or statute, by the Performer's failure of execution under this Performer Agreement, shall be safeguarded against the General Platform Services Provider and the Performer shall indemnify against all costs of such claims.  
 12.6 The Performer is not allowed to provide any personal information (including name, address, telephone number, e-mail address, social media accounts, etc.) of the Performers to Third Parties or to attempt to obtain such information from Third Parties in any way.
@@ -917,7 +921,7 @@ b. the General Platform Services Provider is legally obliged to do so.
 
 ### 19\. Applicable law
 
-19.1 Netherlands Antilles law applies to this Agreement. Any disputes that arise or may arise between the Performer and the General Platform Services Provider as a result of this Agreement or subsequent agreements or other actions in relation to this Agreement will be settled by the competent courts in Curacao.  
+19.1 Curaçao law applies to this Agreement. Any disputes that arise or may arise between the Performer and the General Platform Services Provider as a result of this Agreement or subsequent agreements or other actions in relation to this Agreement will be settled by the competent courts in Curacao.  
 19.2 This Agreement is drawn up in the English language. In the event of a conflict between the English version of this Agreement and a version in another language, the English version will prevail.
 
 ### 20\. Other
@@ -930,8 +934,7 @@ the General Platform Services Provider or by a third party (internal or external
 20.5 If the General Platform Services Provider does not exercise or enforce a legal right or legal remedy referred to in this Agreement (or to which the General Platform Services Provider is entitled in accordance with the applicable law) this cannot be considered a waiver of the rights of the General Platform Services Provider. Neither can it be considered a waiver of the right to act in respect of later or similar violations. The General Platform Services Provider can and may always use its rights or legal remedies.  
 20.6 The provisions in the following articles: ‘10. Announcements and notification’, ‘12. Information and actions on the part of the Performer’, ‘15. Limitation of liability of  
 the General Platform Services Provider, ‘16. Indemnity’, ‘19. Applicable law’ and ‘ 20. Other’ and any other provision insofar as applicable continue to exist after the termination or expiry of this Agreement.  
-20.7 This Agreement, accompanied by the documents and Policy Rules included for reference purposes, constitutes the entire agreement between the Performer and the General Platform Services Provider.  
-.
+20.7 This Agreement, accompanied by the documents and Policy Rules included for reference purposes, constitutes the entire agreement between the Performer and the General Platform Services Provider.
 
 + [Privacy policy](#infoPrivacy)
 
