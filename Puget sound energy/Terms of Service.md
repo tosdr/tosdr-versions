@@ -359,20 +359,20 @@
 *    [![EN](/-/media/Project/PSE/Portal/Icons/Language_icon.png?rev=6227f24f84234f0583eab7768827d362&modified=20220704095934&h=26&w=22&la=en&hash=951D374340D6D9C905ED9854E64AAF39) ![EN](/-/media/Project/PSE/Portal/Icons/Language_icon_fill.png?rev=04d9d5ac09b243b8930bcae27bc28178&modified=20221013170138&h=27&w=23&la=en&hash=F9F88C61EA0DFBFD42365B5FDA83DED0) ![EN](/-/media/Project/PSE/Portal/Icons/Language_mobile_icon.png?rev=6893de0879434b1dbe13f2ca17990c66&modified=20220714074900&h=27&w=22&la=en&hash=99D70EAEF69ADAA4010E9F3BE9725496) ![EN](/-/media/Project/PSE/Portal/Icons/Language_mobile_icon_fill.png?rev=1ea89ae8f7d54ad08d582eb69df53d40&modified=20221013170150&h=27&w=23&la=en&hash=144CDA651D943198CB42F9B6F8002978)](#)
     
 
-[Weather alert Updated Dec 17, 4:00 PM](#collapseOne)  
+[Storm Alert Updated Dec 18, 12:00 PM](#collapseOne)  
 
- 
+December Wind Storm
+-------------------
 
-The National Weather Service has issued a wind advisory for areas in our service area from Tuesday evening to Wednesday morning, with damaging winds forecasted.
+#### Damage assessment and restoration efforts continue
 
-Our local storm bases are ready and crews will deploy with assignments as soon as it’s safe to do so.
+Damaging winds have caused outages in our service area, with major impacts in King, Pierce and Thurston counties. Our Emergency Coordination Center and local storm bases are open to support restoration efforts and crews are deploying with assignments as it’s safe to do so. We are also bringing in additional crews from around the area.
 
-  
-  
+Our first step in restoring power is damage assessment: getting a look at what’s been done to the system and determining the extent of repairs that are needed. The process takes time, especially if weather remains an issue. Unsafe weather conditions and the inability to access areas due to damage caused by the storm can slow these efforts.
+
+We have temporarily disabled outage notifications via email, text and automated calls, as we work to make improvements to our outage map experience. Please continue to report outages on our map and app, as those reports are captured in our system.
 
 [Read more](https://www.pse.com/en/outage/alerts-and-advisories)
-
-  
 
 ![alert](/-/media/Feature/PSE/Customer-Service/alert-active.png?rev=337ff3f6d24c41a2bc9dfc9658e05c97&sc_lang=en&modified=20200402191019&hash=58D121F47C9A99127D614F80BFA76756) 
 
@@ -380,10 +380,11 @@ Safety first. Never touch or go within 35 feet of downed power lines because the
 
 Report and track power outages online
 
-* For storm safety tips: [pse.com/storm](https://www.pse.com/en/outage/outage-resources)
 * Online outage reporting: [pse.com/outage](https://www.pse.com/en/outage)
 * Outage map: [pse.com/outagemap](https://www.pse.com/en/outage/outage-map)
 * myPSE mobile app: [pse.com/app](https://www.pse.com/en/pages/get-the-pse-app)
+* For general outage information, see: [pse.com/advisories](https://www.pse.com/en/outage/alerts-and-advisories) 
+* For outage preparedness tips, see: [pse.com/storm](https://www.pse.com/en/outage/outage-resources)
 
 Terms & Conditions
 ------------------
