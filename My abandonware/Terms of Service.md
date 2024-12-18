@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
+* [Cooking Dash: DinerTown Studios](https://www.myabandonware.com/game/cooking-dash-dinertown-studios-qgd)
+* [Pet Shop Hop](https://www.myabandonware.com/game/pet-shop-hop-qg9)
 * [Yu-Gi-Oh! Virtual Desktop](https://www.myabandonware.com/game/yu-gi-oh-virtual-desktop-txg)
 * [Parking Dash](https://www.myabandonware.com/game/parking-dash-qgl)
 * [Soap Opera Dash](https://www.myabandonware.com/game/soap-opera-dash-qga)
-* [Garden Dash](https://www.myabandonware.com/game/garden-dash-qg7)
-* [Fashion Dash](https://www.myabandonware.com/game/fashion-dash-qg6)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
