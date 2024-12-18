@@ -90,7 +90,7 @@ If you work with ecommerce businesses, partner to offer Clearco funding.](https:
 
 Enterprise Sales
 
-Learn more about our enterprise solution and get a demo from our sales team.](https://clear.co/demo)
+Learn more about our enterprise solution and get a demo from our sales team.](https://clear.co/events/lunch-on-clearco)
 
 **Read our latest content**
 
