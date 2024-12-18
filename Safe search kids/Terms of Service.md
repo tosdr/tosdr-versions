@@ -375,6 +375,7 @@ Share This Article
 * [What is The Fediverse? Is it Safe?](https://www.safesearchkids.com/the-fediverse-and-its-relatiionship-with-social-media/)
 * [Ransomware Protection](https://www.safesearchkids.com/ransomware-protection/)
 * [How to be an Internet Skeptic](https://www.safesearchkids.com/how-to-be-an-internet-skeptic/)
+* [Security and Safety Technologies School Should Have](https://www.safesearchkids.com/security-and-safety-technologies-that-your-childs-school-should-have/)
 
 ### Parental Controls
 
