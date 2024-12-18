@@ -403,6 +403,14 @@ What You Should Know
 
 [View all](https://www.rangextd.com/blogs/news) 
 
+* ![Australian Millionaire Finds Ancient Japanese Secret That Ends Foot and Back Pain in Hours!](//savvysmartdeals.com/cdn/shop/articles/mindinsole.jpg?v=1734432250)
+    
+    ### Australian Millionaire Finds Ancient Japanese Secret That Ends Foot and Back Pain in Hours!
+    
+    Bruce M. was a handsome, wealthy, self-made multi-millionaire businessman who most people would think had it all. He trained as an attorney in Australia, graduating...
+    
+    [Read more](https://www.rangextd.com/blogs/news/misole-acupuncture-insoles-really-works) 
+    
 * ![ChargeCard: The Lifesaver That Saved My Trip](//savvysmartdeals.com/cdn/shop/articles/pre-2-cc.gif?v=1734431283)
     
     ### ChargeCard: The Lifesaver That Saved My Trip
@@ -426,14 +434,6 @@ What You Should Know
     I’ve always been the type of person with a curious mind—whether it’s exploring the great outdoors or hunting for treasures at second-hand markets. I could...
     
     [Read more](https://www.rangextd.com/blogs/news/starscope-nano-your-pocket-sized-magnifier) 
-    
-* ![Laundry Masher Pineapple: The Ultimate Hack to Save BIG on Laundry Costs](//savvysmartdeals.com/cdn/shop/articles/Laundry_Masher.jpg?v=1728296302)
-    
-    ### Laundry Masher Pineapple: The Ultimate Hack to Save BIG on Laundry Costs
-    
-    Let’s face it—everything is getting more expensive, the cost of living is getting higher all the time and I'm constantly on the lookout for ways...
-    
-    [Read more](https://www.rangextd.com/blogs/news/laundry-masher-pineapple-the-ultimate-hack-to-save-big-on-laundry-costs) 
     
 
 [View all](https://www.rangextd.com/blogs/news) 
