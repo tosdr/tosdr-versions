@@ -205,24 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Tales from the Mental Hospital](https://www.somethingawful.com/comedy-goldmine/tales-from-mental/1/)
-* [Celebrity Speakers Cut from the 2016 Republican National Convention](https://www.somethingawful.com/news/rnc-celebrity-guests/)
-* [Dredd; The Words; \[REC\]³ Génesis; Robot & Frank; Branded; The Oogieloves in the Big Balloon Adventure](https://www.somethingawful.com/current-movie-reviews/dredd-words-oogieloves/1/)
-* [Dragon Ball: The Magic Begins](https://www.somethingawful.com/movie-reviews/dragon-ball-magic/1/)
-* [Minion Memes for Your Social Media Feeds](https://www.somethingawful.com/news/minion-memes/)
+* [Make Poverty History - Part One](https://www.somethingawful.com/comedy-goldmine/make-poverty-history/1/)
+* [Awful Propaganda Part 2](https://www.somethingawful.com/photoshop-phriday/awful-propaganda-2/)
+* [Clips4Sale!](https://www.somethingawful.com/photoshop-phriday/amateur-porn-descriptions/)
+* [Animal Anomalies](https://www.somethingawful.com/photoshop-phriday/animal-anomalies/1/)
+* [Animal Anomalies 6](https://www.somethingawful.com/photoshop-phriday/animal-anomalies6/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [Permabanhands](http://forums.somethingawful.com/showthread.php?threadid=4077683 "Permabanhands")
 * ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [Are you afraid of dying?](http://forums.somethingawful.com/showthread.php?threadid=4077689 "Are you afraid of dying?")
+* ![](https://fi.somethingawful.com/forums/posticons/fyad-sandwich.gif) [What's the best sour candy?](http://forums.somethingawful.com/showthread.php?threadid=4077714 "What's the best sour candy?")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/fruity.png) [House shoes and slippers](http://forums.somethingawful.com/showthread.php?threadid=4077708 "House shoes and slippers")
 
 ### Random Articles
 
-* [Outdated GPS Devices: Where Are They Now?](https://www.somethingawful.com/news/gps-where-now/)
-* [Perhaps Some Animes Are in Order?](https://www.somethingawful.com/news/anime-convention/1/)
-* [Nils & Beauregard's USA Tour: Trapped Beneath New York](https://www.somethingawful.com/news/nils-beauregard-nyc/1/)
-* [The Laundromat Ecosystem](https://www.somethingawful.com/news/the-laundromat-ecosystem/)
-* [ScatterShots: Chronomaster and King's Quest: Mask of Eternity](https://www.somethingawful.com/video-game-article/scatter-shots-chronomaster/)
+* [The Alf N' Willie Show](https://www.somethingawful.com/flash-tub/alf-show-cartoon/)
+* [You are now entering <P> Baron Orlav's Crypt! <P> BE](https://www.somethingawful.com/awful-links/awful-link-906/)
+* [Rate My Instructor: Professor X](https://www.somethingawful.com/news/professor-x-review/)
+* [Blog like you mean it, son](https://www.somethingawful.com/mooflogs/blog-like-you/)
+* [Other Jobs Video Game Baddies Could Do](https://www.somethingawful.com/comedy-goldmine/other-jobs-video/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
