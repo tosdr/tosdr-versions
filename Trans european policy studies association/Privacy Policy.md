@@ -66,7 +66,7 @@ To receive the TEPSA newsletter direct to your inbox, subscribe today!
 
 _TEPSA will use the information you provide on this form to share with you by email updates on TEPSA’s activities. Tick the box ‘I agree’ if you give your consent to receiving emails from TEPSA. Learn more about our newsletter privacy terms in our Privacy Policy._
 
-   
+  
 
  I agree
 
