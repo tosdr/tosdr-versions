@@ -50,13 +50,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.kagstv.com/assets/CCT/images/ab6d23a8-62f5-4a08-8169-d57b365d4875/20241217T202445/ab6d23a8-62f5-4a08-8169-d57b365d4875_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/ab6d23a8-62f5-4a08-8169-d57b365d4875/20241217T202445/ab6d23a8-62f5-4a08-8169-d57b365d4875_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/winter-solstice-2024-northern-hemisphere/507-dc38b5c6-b1b0-4062-87f3-88523eb33351)
+        
+        #### [The winter solstice is almost here, the Northern Hemisphere's darkest day](https://www.kagstv.com/article/news/nation-world/winter-solstice-2024-northern-hemisphere/507-dc38b5c6-b1b0-4062-87f3-88523eb33351)
+        
     *  [![](https://media.kagstv.com/assets/CCT/images/a6a79638-65d3-46fc-a550-d1d6da26d69b/a6a79638-65d3-46fc-a550-d1d6da26d69b_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/a6a79638-65d3-46fc-a550-d1d6da26d69b/a6a79638-65d3-46fc-a550-d1d6da26d69b_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/winter-solstice-shortest-day-of-the-year-2024/507-18e8fd4e-8808-496d-bda3-cfcc289778a2)
         
         #### [Winter solstice 2024: What it means and why it's the shortest day of the year](https://www.kagstv.com/article/news/nation-world/winter-solstice-shortest-day-of-the-year-2024/507-18e8fd4e-8808-496d-bda3-cfcc289778a2)
-        
-    *  [![](https://media.kagstv.com/assets/CCT/images/fad0fab5-244c-46a0-b557-991936b12207/20241205T231747/fad0fab5-244c-46a0-b557-991936b12207_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/fad0fab5-244c-46a0-b557-991936b12207/20241205T231747/fad0fab5-244c-46a0-b557-991936b12207_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/earthquake-california-prompts-tsunami-warning/507-1de66eb6-f453-4657-a6c5-4fb15ee78368)
-        
-        #### [7.0 earthquake off Northern California prompts brief tsunami warning](https://www.kagstv.com/article/news/nation-world/earthquake-california-prompts-tsunami-warning/507-1de66eb6-f453-4657-a6c5-4fb15ee78368)
         
     
 * [Sports](https://www.kagstv.com/sports)
@@ -97,9 +97,9 @@ Navigation
 
 Bryan, TX »
 
-78°
+71°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
