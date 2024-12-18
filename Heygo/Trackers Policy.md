@@ -46,7 +46,6 @@
         * [Pension news](https://restless.co.uk/pensions-retirement-planning/pension-news/)
         * [Pension calculator](https://restless.co.uk/pensions-retirement-planning/pension-calculator/)
     * [Everyday finance](https://restless.co.uk/money/everyday-finance/)
-        * [Save on your household bills](https://restless.co.uk/money/money-saving-comparison-tools/)
         * [Everyday finance](https://restless.co.uk/money/everyday-finance/)
         * [Ways to save money](https://restless.co.uk/money/everyday-finance/#waysToSave)
         * [Income-boosting ideas​](https://restless.co.uk/money/everyday-finance/#incomeBoostingIdeas)
@@ -89,11 +88,6 @@
         * [Alternatives to equity release](https://restless.co.uk/money/equity-release/#equityreleasealternatives)
         * [Calculator: how much can I borrow](https://restless.co.uk/mortgages/equity-release/equity-release-calculator/)
         * [Calculator: lifetime mortgage repayments](https://restless.co.uk/mortgages/equity-release/lifetime-mortgage-calculator/)
-    * [Money saving tools](https://restless.co.uk/money/money-saving-comparison-tools/)
-        * [See all money saving tools](https://restless.co.uk/money/money-saving-comparison-tools/)
-        * [Travel insurance](https://restless.co.uk/money/insurance/staysure-travel-insurance/)
-        * [Get expert mortgage advice\*](https://restless.co.uk/mortgages/mortgage-advice/)
-        * [Equity release calculator](https://restless.co.uk/mortgages/equity-release/equity-release-calculator/)
     * [Government benefits](https://restless.co.uk/money/government-benefits/)
         * [Government benefits](https://restless.co.uk/money/government-benefits/)
         * [Government benefits: the basics​](https://restless.co.uk/money/government-benefits/#governmentBenefitsBasics)
@@ -524,6 +518,12 @@ Where to travel abroad by month...
 New in travel
 -------------
 
+[![25 of the best travel destinations for 2025](https://media.restless.co.uk/uploads/2024/10/9-of-the-best-travel-destinations-for-2025-768x575.jpg)](https://restless.co.uk/travel/the-best-travel-destinations-for-2025/)
+
+### [25 of the best travel destinations for 2025](https://restless.co.uk/travel/the-best-travel-destinations-for-2025/)
+
+[Read More »](https://restless.co.uk/travel/the-best-travel-destinations-for-2025/)
+
 [![12 last-minute sunshine holidays](https://media.restless.co.uk/uploads/2023/08/last-minute-sunshine-holidays-768x384.jpg)](https://restless.co.uk/travel/last-minute-sunshine-holidays/)
 
 ### [12 last-minute sunshine holidays](https://restless.co.uk/travel/last-minute-sunshine-holidays/)
@@ -553,12 +553,6 @@ New in travel
 ### [7 of the cheapest Caribbean islands to visit on a budget](https://restless.co.uk/travel/the-cheapest-caribbean-islands-to-visit-on-a-budget/)
 
 [Read More »](https://restless.co.uk/travel/the-cheapest-caribbean-islands-to-visit-on-a-budget/)
-
-[![Group tours of the UK – 10 lesser-known places to visit in 2025](https://media.restless.co.uk/uploads/2024/11/group-tours-of-the-uk-10-lesser-known-places-to-visit-in-2025-768x508.jpg)](https://restless.co.uk/travel/group-tours-of-the-uk-lesser-known-places-to-visit-in-2025/)
-
-### [Group tours of the UK – 10 lesser-known places to visit in 2025](https://restless.co.uk/travel/group-tours-of-the-uk-lesser-known-places-to-visit-in-2025/)
-
-[Read More »](https://restless.co.uk/travel/group-tours-of-the-uk-lesser-known-places-to-visit-in-2025/)
 
 Popular travel guides
 ---------------------
