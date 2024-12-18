@@ -4,7 +4,7 @@
 * [Rewards](https://gamerhash.com/en/shop)
 * [News](https://medium.com/we-are-the-gamerhash)
 
-* [Download](https://gamerhash.com/en/app-download)
+* [Apps](https://gamerhash.com/en/app-download)
     
     [GamerHash AI
     
@@ -241,8 +241,8 @@ Site Language ![flag](https://gamerhash.com/images/en.svg)
 
  [![en](https://gamerhash.com/images/en.svg) English](https://gamerhash.com/en/privacy)[![pl](https://gamerhash.com/images/pl.svg) Polski](https://gamerhash.com/pl/privacy)[![ru](https://gamerhash.com/images/ru.svg) Русский](https://gamerhash.com/ru/privacy)[![pt](https://gamerhash.com/images/pt.svg) Português](https://gamerhash.com/pt/privacy)[![ch](https://gamerhash.com/images/ch.svg) 官话](https://gamerhash.com/ch/privacy)[![jp](https://gamerhash.com/images/jp.svg) 日本語](https://gamerhash.com/jp/privacy)[![kr](https://gamerhash.com/images/kr.svg) 한국어](https://gamerhash.com/kr/privacy)
 
-© 2024 CoinAxe sp. z o.o.
+© Copyright 2024 CoinAxe Limited
 
-[](https://gamerhash.com/en/l/l9Nb9)[](https://www.facebook.com/GamerHashApp/)[](https://www.youtube.com/channel/UCv6axnIN6jczLcLraH4cK6g)[](https://twitter.com/GamerHashCom)[](https://medium.com/we-are-the-gamerhash)[ONLINE: 92](https://gamerhash.com/en/l/Myw09)
+[](https://gamerhash.com/en/l/l9Nb9)[](https://www.facebook.com/GamerHashApp/)[](https://www.youtube.com/channel/UCv6axnIN6jczLcLraH4cK6g)[](https://twitter.com/GamerHashCom)[](https://medium.com/we-are-the-gamerhash)[ONLINE: 0](https://gamerhash.com/en/l/Myw09)
 
-All product and company names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.
+website.footer.clause
