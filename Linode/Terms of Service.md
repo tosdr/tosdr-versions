@@ -1,3 +1,11 @@
+Twitter LinkedIn Email
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+ip1sAAAAASUVORK5CYII=)
+
+[](javascript:void(0);)
+
+Close
+
 * [Search](https://www.linode.com/search/)
 * [Partners](https://www.linode.com/partners/)
 * [Docs](https://www.linode.com/docs/)
@@ -46,6 +54,7 @@ English
         * [Premium CPU](https://www.linode.com/products/premium-cpu/)
         * [GPU](https://www.linode.com/products/gpu/)
         * [Kubernetes](https://www.linode.com/products/kubernetes/)
+        * [App Platform](https://www.linode.com/products/app-platform/)
     * Storage
         * [Block Storage](https://www.linode.com/products/block-storage/)
         * [Object Storage](https://www.linode.com/products/object-storage/)
@@ -163,6 +172,7 @@ Learn More](https://www.linode.com/free-bundled-services/)
 * [Premium CPU](https://www.linode.com/products/premium-cpu/)
 * [GPU](https://www.linode.com/products/gpu/)
 * [Kubernetes](https://www.linode.com/products/kubernetes/)
+* [App Platform](https://www.linode.com/products/app-platform/)
 
 ###### Storage
 
@@ -276,35 +286,25 @@ Master Services Agreement
 
 -----------------------------
 
-[View now](https://www.linode.com/legal-msa/)
-
 Data Processing Addendum
 
 
 ----------------------------
-
-[View now](https://www.akamai.com/site/en/documents/akamai/akamai-data-protection-addendum.pdf)
 
 Acceptable Use Policy
 
 
 -------------------------
 
-[View now](https://www.linode.com/legal-aup/)
-
 Cookie Policy
 
 
 -----------------
 
-[View now](https://www.linode.com/legal-cookies)
-
 Privacy Policy
 
 
 ------------------
-
-[View now](https://www.linode.com/legal-privacy/)
 
 Submit a Trust & Safety Request  
 
@@ -315,21 +315,15 @@ Report Abuse
 
 ----------------
 
-[View now](https://www.linode.com/legal-abuse/)
-
 Data & Privacy Requests
 
 
 ---------------------------
 
-[View now](https://www.linode.com/legal-dpr)
-
 Law Enforcement & Regulatory Agencies
 
 
 -----------------------------------------
-
-[View now](https://www.linode.com/legal-lera/)
 
 ### Program Policies
 
@@ -402,6 +396,7 @@ Cookie Preferences
 * [Premium CPU](https://www.linode.com/products/premium-cpu/)
 * [GPU](https://www.linode.com/products/gpu/)
 * [Kubernetes](https://www.linode.com/products/kubernetes/)
+* [App Platform](https://www.linode.com/products/app-platform/)
 * [Block Storage](https://www.linode.com/products/block-storage/)
 * [Object Storage](https://www.linode.com/products/object-storage/)
 * [Backups](https://www.linode.com/products/backups/)
