@@ -391,22 +391,25 @@ This Agreement was last modified on 4, December 2012.
 
 ### Featured Articles
 
+[![Invest in Yourself](https://www.wikihow.com/images/thumb/d/d0/Invest-in-Yourself-Step-14.jpg/-crop-126-120-126px-Invest-in-Yourself-Step-14.jpg)
+
+How to  
+Invest in Yourself](https://www.wikihow.com/Invest-in-Yourself)
+
+[![See Who Views Your Facebook Profile](https://www.wikihow.com/images/thumb/a/ab/See-Who-Views-Your-Facebook-Profile-Step-1-Version-4.jpg/-crop-126-120-126px-See-Who-Views-Your-Facebook-Profile-Step-1-Version-4.jpg)
+
+How to  
+See Who Views Your Facebook Profile](https://www.wikihow.com/See-Who-Views-Your-Facebook-Profile)
+
+[![Make a Meme](https://www.wikihow.com/images/thumb/4/48/Make-a-Meme-Step-8-Version-10.jpg/-crop-126-120-126px-Make-a-Meme-Step-8-Version-10.jpg)
+
+How to  
+Make a Meme](https://www.wikihow.com/Make-a-Meme)
+
 [![Impress a Girl with Words](https://www.wikihow.com/images/thumb/1/19/Impress-a-Girl-with-Words-Step-14-Version-2.jpg/-crop-126-120-126px-Impress-a-Girl-with-Words-Step-14-Version-2.jpg)
 
 How to  
 Impress a Girl with Words](https://www.wikihow.com/Impress-a-Girl-with-Words)
-
-[![Flirty Knock Knock Jokes](https://www.wikihow.com/images/thumb/c/c7/Flirty-Knock-Knock-Jokes-Step-50.jpg/-crop-126-120-126px-Flirty-Knock-Knock-Jokes-Step-50.jpg)
-
-50 Cute & Flirty Knock-Knock Jokes to Make Them Smile](https://www.wikihow.com/Flirty-Knock-Knock-Jokes)
-
-[![Have a Sense of Humor](https://www.wikihow.com/images/thumb/2/2f/Have-a-Sense-of-Humor-Step-23.jpg/-crop-126-120-126px-Have-a-Sense-of-Humor-Step-23.jpg)
-
-Sense of Humor: Definition, Benefits, & How to Get One Yourself](https://www.wikihow.com/Have-a-Sense-of-Humor)
-
-[![Maturity Test](https://www.wikihow.com/images/thumb/e/e4/Maturity-quiz.png/-crop-126-120-126px-Maturity-quiz.png)
-
-Am I Mature Quiz](https://www.wikihow.com/Maturity-Test)
 
   
 
@@ -449,4 +452,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-243
+219
