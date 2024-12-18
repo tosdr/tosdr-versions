@@ -32,6 +32,7 @@ United Kingdom
         
         * [Primary Educators](https://www.pearson.com/en-gb/schools/primary/primary-educators.html)
         * [Secondary Educators](https://www.pearson.com/en-gb/schools/secondary/educators.html)
+        * [Online Schools](https://www.pearson.com/international-schools/why-choose-pearson/online-schools.html)
         * [Explore Subject Resources](https://www.pearson.com/en-gb/schools/subject-resources.html)
         
         ### Products & Services
