@@ -36,6 +36,7 @@ NBCU Privacy Center
 * [Cookie Notice](https://www.nbcuniversal.com/privacy/cookies)
 * [California Notice](https://www.nbcuniversal.com/privacy/california-consumer-privacy-act)
 * [Privacy FAQs](https://www.nbcuniversal.com/privacy/privacy-faqs)
+* [Fandango Privacy Policy](https://www.nbcuniversal.com/fandango-privacy-policy)
 
 Last Updated: September 18, 2024
 
@@ -64,7 +65,7 @@ Last Updated: September 18, 2024
 
 English
 
-[![Printer Friendly, PDF & Email](//cdn.printfriendly.com/buttons/printfriendly-pdf-button-nobg.png)](https://www.printfriendly.com/print?url=https://www.nbcuniversal.com/taxonomy/term/200 "Printer Friendly, PDF & Email")
+[![Printer Friendly, PDF & Email](//cdn.printfriendly.com/buttons/printfriendly-pdf-button-nobg.png)](https://www.printfriendly.com/print?url=https://www.nbcuniversal.com/taxonomy/term/59 "Printer Friendly, PDF & Email")
 
 Cookie Notice
 =============
