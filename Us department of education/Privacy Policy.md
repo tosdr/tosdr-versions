@@ -322,23 +322,23 @@ October 1, 2024
 Related Content
 ---------------
 
-### [Site Security & Intrusion Detection](https://www2.ed.gov/node/7417)
+### [Internships and Fellowships](https://www2.ed.gov/node/7443)
 
-For security purposes, we use special software programs for monitoring network traffic to identify unauthorized attempts to upload or change information, or otherwise to cause damage to this government computer system.
+White House Initiative on Advancing Educational Equity, Excellence, and Economic Opportunity for Native Americans and Strengthening Tribal Colleges and Universities Interships and Fellowships
 
-December 11, 2024
+December 18, 2024
 
-### [Texas State Regulations](https://www2.ed.gov/node/7374)
+### [Invitations and Speaking Requests](https://www2.ed.gov/node/7442)
 
-Texas State Regulations as they relate to private schools and homeschooling.
+White House Initiative on Advancing Educational Equity, Excellence, and Economic Opportunity for Native Americans and Strengthening Tribal Colleges and Universities Invitations and Speaking Requests
 
-December 4, 2024
+December 18, 2024
 
-### [Borrower Defense and Financial Responsibility](https://www2.ed.gov/node/7236)
+### [WHIAIANE Stakeholders](https://www2.ed.gov/node/7441)
 
-This Web page contains information about our rulemaking efforts on borrower defenses and financial responsibility.
+White House Initiative on Advancing Educational Equity, Excellence, and Economic Opportunity for Native Americans and Strengthening Tribal Colleges and Universities Our Stakeholders
 
-November 6, 2024
+December 18, 2024
 
 [Return to top](#)
 
