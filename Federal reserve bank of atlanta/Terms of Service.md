@@ -14,7 +14,7 @@
     
 * [Banking & Payments](https://www.atlantafed.org/banking-and-payments)
     
-    [Banking Supervision](https://www.atlantafed.org/banking-and-payments/banking-supervision) [Business Continuity](https://www.atlantafed.org/banking-and-payments/business-continuity) [Consumer Payments](https://www.atlantafed.org/banking-and-payments/consumer-payments) [Lending](https://www.atlantafed.org/banking-and-payments/lending) [Payments Inclusion](https://www.atlantafed.org/banking-and-payments/payments-inclusion) [Payments Forum](https://www.atlantafed.org/payments-forum) [Publications](https://www.atlantafed.org/banking-and-payments/publications) [Reporting](https://www.atlantafed.org/banking-and-payments/reporting)
+    [Banking Supervision](https://www.atlantafed.org/banking-and-payments/banking-supervision) [Business Continuity](https://www.atlantafed.org/banking-and-payments/business-continuity) [Consumer Payments](https://www.atlantafed.org/banking-and-payments/consumer-payments) [Lending](https://www.atlantafed.org/banking-and-payments/lending) [Payments Inclusion](https://www.atlantafed.org/banking-and-payments/payments-inclusion) [Payments Forum](https://www.atlantafed.org/payments-forum) [Publications](https://www.atlantafed.org/banking-and-payments/publications) [Reporting](https://www.atlantafed.org/banking-and-payments/consumer-payments)
     
 * [News & Events](https://www.atlantafed.org/news)
     
