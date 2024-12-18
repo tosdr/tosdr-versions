@@ -230,11 +230,11 @@ Skip to main content
         
         * [Community Overview](https://www.fnbo.com/community "Community Overview")
             
-        * [Request Support](https://www.fnbo.com/community/request-support "Request Support")
+        * [Request Support](https://www.fnbo.com/community#support "Request Support")
             
         * [Impact Report](https://www.fnbo.com/community/impact-report "Impact Report")
             
-        * [Commitment to Community Impact](https://www.fnbo.com/impact "Commitment to Community Impact")
+        * [Commitment to Community Impact](https://www.fnbo.com/community#commitment "Commitment to Community Impact")
             
         * [CRA](https://www.fnbo.com/community/community-reinvestment-act "CRA")
             
