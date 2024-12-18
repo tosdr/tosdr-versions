@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Say a random sentence (10,039)](https://forum.nationstates.net/viewtopic.php?t=514647&f=25&view=unread#unread ""Say a random sentence" (10,039 posts)")
-* [Using the AN's flag, how do they deal… (9,498)](https://forum.nationstates.net/viewtopic.php?t=508055&f=25&view=unread#unread ""Using the AN's flag, how do they deal with traitors? III" (9,498 posts)")
-* [Jesus Vs Communism (65)](https://forum.nationstates.net/viewtopic.php?t=559796&f=20&view=unread#unread ""Jesus Vs Communism" (65 posts)")
-* [Broken Stoplights(A German Election T… (48)](https://forum.nationstates.net/viewtopic.php?t=558283&f=20&view=unread#unread ""Broken Stoplights(A German Election Thread)" (48 posts)")
-* [UnitedHealthcare CEO Assassinated (1,821)](https://forum.nationstates.net/viewtopic.php?t=559227&f=20&view=unread#unread ""UnitedHealthcare CEO Assassinated" (1,821 posts)")
+* [Jesus Vs Communism (170)](https://forum.nationstates.net/viewtopic.php?t=559796&f=20&view=unread#unread ""Jesus Vs Communism" (170 posts)")
+* [Brotherhood Beef shop (6)](https://forum.nationstates.net/viewtopic.php?t=559814&f=23&view=unread#unread ""Brotherhood Beef shop" (6 posts)")
+* [Guess Who BN Is! (9,192)](https://forum.nationstates.net/viewtopic.php?t=553505&f=25&view=unread#unread ""Guess Who BN Is!" (9,192 posts)")
+* [Flamebait in AmPol (1)](https://forum.nationstates.net/viewtopic.php?t=559831&f=16&view=unread#unread ""Flamebait in AmPol" (1 post)")
+* [Tiami's Endless Tortillas (3,303)](https://forum.nationstates.net/viewtopic.php?t=558437&f=20&view=unread#unread ""Tiami's Endless Tortillas" (3,303 posts)")
 
 Advertisement
 
