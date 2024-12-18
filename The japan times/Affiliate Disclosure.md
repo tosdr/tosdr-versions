@@ -143,13 +143,13 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Flowers and offerings are placed outside a McDonald's restaurant in Kitakyushu, Fukuoka Prefecture, where two junior high school students were stabbed by a man on Saturday, one fatally.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/16/440394.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Flowers and offerings are placed outside a McDonald's restaurant in Kitakyushu, Fukuoka Prefecture, where two junior high school students were stabbed by a man on Saturday, one fatally.")](https://www.japantimes.co.jp/news/2024/12/16/japan/crime-legal/japan-student-stabbing/ "Fatal knife attack in Kitakyushu McDonald’s took less than 30 seconds")
 
-[Schoolgirl stabbed to death in Kitakyushu](https://www.japantimes.co.jp/news/2024/12/15/japan/crime-legal/fukuoka-mcdonalds-stabbing/ "Schoolgirl stabbed to death in Kitakyushu")
+[New fencing installed to help manage tourists at Mount Fuji photo spot](https://www.japantimes.co.jp/news/2024/12/17/japan/mount-fuji-fence/ "New fencing installed to help manage tourists at Mount Fuji photo spot")
 
-  [![A McDonald's in Kitakyushu where a junior high school student was stabbed to death on Saturday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/15/440205.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A McDonald's in Kitakyushu where a junior high school student was stabbed to death on Saturday")](https://www.japantimes.co.jp/news/2024/12/15/japan/crime-legal/fukuoka-mcdonalds-stabbing/ "Schoolgirl stabbed to death in Kitakyushu")
+  [![New fencing was installed along the sidewalk near a convenience store in Fujikawaguchiko, Yamanashi Prefecture, on Monday to prevent tourists from jaywalking and to improve safety.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/17/440622.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "New fencing was installed along the sidewalk near a convenience store in Fujikawaguchiko, Yamanashi Prefecture, on Monday to prevent tourists from jaywalking and to improve safety.")](https://www.japantimes.co.jp/news/2024/12/17/japan/mount-fuji-fence/ "New fencing installed to help manage tourists at Mount Fuji photo spot")
 
-[MUFG Bank apologizes for theft of ¥1 billion in valuables from deposit boxes](https://www.japantimes.co.jp/news/2024/12/16/japan/crime-legal/mufg-hanzawa-safe/ "MUFG Bank apologizes for theft of ¥1 billion in valuables from deposit boxes")
+[Japan to let investigators go undercover to crack down on _yami baito_](https://www.japantimes.co.jp/news/2024/12/17/japan/crime-legal/yamibaito-first-ministerial-meeting/ "Japan to let investigators go undercover to crack down on yami baito")
 
-  [![MUFG Bank CEO Junichi Hanzawa (left) and other senior officials bow in apology at a news conference in Tokyo's Chiyoda Ward on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/16/440537.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "MUFG Bank CEO Junichi Hanzawa (left) and other senior officials bow in apology at a news conference in Tokyo's Chiyoda Ward on Monday.")](https://www.japantimes.co.jp/news/2024/12/16/japan/crime-legal/mufg-hanzawa-safe/ "MUFG Bank apologizes for theft of ¥1 billion in valuables from deposit boxes")
+  [![A flyer created by the Metropolitan Police Department to warn people about <i>yami baito</i>, or "dark" part-time jobs](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/17/440673.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A flyer created by the Metropolitan Police Department to warn people about <i>yami baito</i>, or "dark" part-time jobs")](https://www.japantimes.co.jp/news/2024/12/17/japan/crime-legal/yamibaito-first-ministerial-meeting/ "Japan to let investigators go undercover to crack down on yami baito")
 
 Editors' Picks
 --------------
@@ -178,17 +178,19 @@ By [Kazuaki Nagata](https://www.japantimes.co.jp/author/142/kazuaki-nagata/ "Kaz
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Schoolgirl stabbed to death in Kitakyushu](https://www.japantimes.co.jp/news/2024/12/15/japan/crime-legal/fukuoka-mcdonalds-stabbing/ "Schoolgirl stabbed to death in Kitakyushu")
-
-  [![A McDonald's in Kitakyushu where a junior high school student was stabbed to death on Saturday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/15/440205.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A McDonald's in Kitakyushu where a junior high school student was stabbed to death on Saturday")](https://www.japantimes.co.jp/news/2024/12/15/japan/crime-legal/fukuoka-mcdonalds-stabbing/ "Schoolgirl stabbed to death in Kitakyushu")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[MUFG Bank apologizes for theft of ¥1 billion in valuables from deposit boxes](https://www.japantimes.co.jp/news/2024/12/16/japan/crime-legal/mufg-hanzawa-safe/ "MUFG Bank apologizes for theft of ¥1 billion in valuables from deposit boxes")
+[New fencing installed to help manage tourists at Mount Fuji photo spot](https://www.japantimes.co.jp/news/2024/12/17/japan/mount-fuji-fence/ "New fencing installed to help manage tourists at Mount Fuji photo spot")
 
 By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
 
-  [![MUFG Bank CEO Junichi Hanzawa (left) and other senior officials bow in apology at a news conference in Tokyo's Chiyoda Ward on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/16/440537.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "MUFG Bank CEO Junichi Hanzawa (left) and other senior officials bow in apology at a news conference in Tokyo's Chiyoda Ward on Monday.")](https://www.japantimes.co.jp/news/2024/12/16/japan/crime-legal/mufg-hanzawa-safe/ "MUFG Bank apologizes for theft of ¥1 billion in valuables from deposit boxes")
+  [![New fencing was installed along the sidewalk near a convenience store in Fujikawaguchiko, Yamanashi Prefecture, on Monday to prevent tourists from jaywalking and to improve safety.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/17/440622.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "New fencing was installed along the sidewalk near a convenience store in Fujikawaguchiko, Yamanashi Prefecture, on Monday to prevent tourists from jaywalking and to improve safety.")](https://www.japantimes.co.jp/news/2024/12/17/japan/mount-fuji-fence/ "New fencing installed to help manage tourists at Mount Fuji photo spot")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Japan to let investigators go undercover to crack down on _yami baito_](https://www.japantimes.co.jp/news/2024/12/17/japan/crime-legal/yamibaito-first-ministerial-meeting/ "Japan to let investigators go undercover to crack down on yami baito")
+
+By [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin Kaneko") and [Francis Tang](https://www.japantimes.co.jp/author/5450/francis-tang/ "Francis Tang")  
+
+  [![A flyer created by the Metropolitan Police Department to warn people about <i>yami baito</i>, or "dark" part-time jobs](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/17/440673.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A flyer created by the Metropolitan Police Department to warn people about <i>yami baito</i>, or "dark" part-time jobs")](https://www.japantimes.co.jp/news/2024/12/17/japan/crime-legal/yamibaito-first-ministerial-meeting/ "Japan to let investigators go undercover to crack down on yami baito")
 
 Podcast
 -------
@@ -209,9 +211,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -251,25 +253,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Weak yen helps Japan’s exports rise ahead of BOJ meet](https://www.japantimes.co.jp/business/2024/12/18/economy/november-exports-rise/ "Weak yen helps Japan’s exports rise ahead of BOJ meet")
+[Iran's Revolutionary Guards extend control of oil exports, sources say](https://www.japantimes.co.jp/news/2024/12/18/world/politics/iran-revolutionary-guards-oil/ "Iran's Revolutionary Guards extend control of oil exports, sources say")
 
-29 mins ago
+8 mins ago
 
-[For Waltz, advising isolationist Trump is a Taiwan-sized challenge](https://www.japantimes.co.jp/news/2024/12/18/world/politics/waltz-trump-taiwan-challenge/ "For Waltz, advising isolationist Trump is a Taiwan-sized challenge")
+[Russia detains suspect in killing of chemical weapons chief Igor Kirillov](https://www.japantimes.co.jp/news/2024/12/18/world/crime-legal/russia-detains-suspect/ "Russia detains suspect in killing of chemical weapons chief Igor Kirillov")
 
-46 mins ago
+33 mins ago
 
-[Tokyo startup's second satellite launch attempt ends in failure](https://www.japantimes.co.jp/news/2024/12/18/japan/science-health/space-one-second-launch-failure/ "Tokyo startup's second satellite launch attempt ends in failure")
+[Honda and Nissan might combine to form world’s No. 3 auto group](https://www.japantimes.co.jp/business/2024/12/18/companies/honda-nissan-merger/ "Honda and Nissan might combine to form world’s No. 3 auto group")
 
-1 hour ago
+55 mins ago
 
-[Ukraine has inflicted casualties on North Korean forces, U.S. says](https://www.japantimes.co.jp/news/2024/12/18/world/ukrainians-north-korean-forces-us/ "Ukraine has inflicted casualties on North Korean forces, U.S. says")
-
-1 hour ago
-
-[Dutch eyeing F-35 Indo-Pacific deployment in 2026, Japan envoy says](https://www.japantimes.co.jp/news/2024/12/18/japan/politics/netherlands-ambassador-japan-interview/ "Dutch eyeing F-35 Indo-Pacific deployment in 2026, Japan envoy says")
+[Government not liable for nuclear evacuations, Osaka High Court rules](https://www.japantimes.co.jp/news/2024/12/18/japan/crime-legal/fukushima-nuclear-plant-evacuees/ "Government not liable for nuclear evacuations, Osaka High Court rules")
 
 1 hour ago
+
+[Japan breaks annual visitor record with 33.4 million in just 11 months](https://www.japantimes.co.jp/news/2024/12/18/japan/annual-visitor-record/ "Japan breaks annual visitor record with 33.4 million in just 11 months")
+
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
