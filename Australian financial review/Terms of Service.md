@@ -321,15 +321,15 @@ Advertise
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.1511%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/03f2cad2a56965049d242e64011a08599573653a)](https://www.afr.com/life-and-luxury/health-and-wellness/a-workaholic-s-guide-to-successfully-unwinding-on-holiday-20241211-p5kxhi)
+[![BBC Studios and The Walt Disney Company announced the first-ever animated feature film for “Bluey”.](https://static.ffx.io/images/$zoom_0.9819%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_118/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/79e02561c3f66d294f97787661150eabcdbe4033)](https://www.afr.com/life-and-luxury/arts-and-culture/bluey-heads-for-the-big-screens-with-global-release-20241218-p5kzdi)
 
-### [A workaholic’s guide to successfully unwinding on holiday](https://www.afr.com/life-and-luxury/health-and-wellness/a-workaholic-s-guide-to-successfully-unwinding-on-holiday-20241211-p5kxhi)
+### [Bluey heads to the big screen in global release](https://www.afr.com/life-and-luxury/arts-and-culture/bluey-heads-for-the-big-screens-with-global-release-20241218-p5kzdi)
 
-* Luke Benedictus
+* Brooks Barnes
 
-* ### [Hottest new places to dine around the country right now](https://www.afr.com/life-and-luxury/food-and-wine/hottest-new-places-to-dine-around-the-country-right-now-20241210-p5kx7q)
+* ### [A workaholic’s guide to successfully unwinding on holiday](https://www.afr.com/life-and-luxury/health-and-wellness/a-workaholic-s-guide-to-successfully-unwinding-on-holiday-20241211-p5kxhi)
     
-* ### [Forget cruises, the only way to see Antarctica is to go ‘deep field’](https://www.afr.com/life-and-luxury/travel/forget-cruises-the-only-way-to-see-antarctica-is-to-go-deep-field-20241118-p5krnx)
+* ### [Hottest new places to dine around the country right now](https://www.afr.com/life-and-luxury/food-and-wine/hottest-new-places-to-dine-around-the-country-right-now-20241210-p5kx7q)
     
 
 [Rich List](https://www.afr.com/rich-list)
