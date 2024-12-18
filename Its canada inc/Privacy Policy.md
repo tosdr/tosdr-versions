@@ -13,8 +13,6 @@
     * [IT](https://its-can.com/category/news/it/)
 * [Shop](https://store.its-can.com/)
 
-Menu
-
 * [Home](https://its-can.com/)
 * [Solutions](https://its-can.com/solutions/)
 * [Company](https://its-can.com/about/)
@@ -48,8 +46,6 @@ Menu
     * [Business](https://its-can.com/category/news/business/)
     * [IT](https://its-can.com/category/news/it/)
 * [Shop](https://store.its-can.com/)
-
-Menu
 
 * [Home](https://its-can.com/)
 * [Solutions](https://its-can.com/solutions/)
@@ -100,8 +96,6 @@ Menu
 * [Schedule a Consultation](https://its-can.com/contact/)
 * [Contact](https://its-can.com/contact/)
 * [Client Support](https://its-can.itclientportal.com/)
-
-Menu
 
 * [Home](https://its-can.com/)
 * [Solutions](https://its-can.com/solutions/)
