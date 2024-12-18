@@ -230,12 +230,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-Want more news before we break it? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-See what's behind the green door  
-and help keep the tap flowing
+The next best thing to UltraFark
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -335,16 +334,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [How to turn your holiday blues into holiday cheer. Tell everyone to fark the hell off and leave you alone? \*scans TFA\* OK, that one's not in there but you should try that, too](https://www.fark.com/goto/13496712) ( [apnews.com](https://www.fark.com/goto/13496712) ) » [(0 comments)](https://www.fark.com/comments/13496712/How-to-turn-your-holiday-blues-into-holiday-cheer-Tell-everyone-to-fark-hell-off-leave-you-alone-scans-TFA-OK-that-ones-not-in-there-but-you-should-try-that-too) |
-| [Discussion](https://www.fark.com/discussion/) | [All the things you have to do to clear the decks after a breakup](https://www.fark.com/goto/13497378) ( [mashable.com](https://www.fark.com/goto/13497378) ) » [(5 comments)](https://www.fark.com/comments/13497378/All-things-you-have-to-do-to-clear-decks-after-a-breakup) |
-| [Sports](https://www.fark.com/sports/) | [Tennessee Titans put the mayonnaise on the shelf](https://www.fark.com/goto/13497288) ( [espn.com](https://www.fark.com/goto/13497288) ) » [(8 comments)](https://www.fark.com/comments/13497288/Tennessee-Titans-put-mayonnaise-on-shelf) |
-| [Business](https://www.fark.com/business/) | [Cryptocurrency platform MicroStrategy to be joining the NASDAQ](https://www.fark.com/goto/13496898) ( [wtop.com](https://www.fark.com/goto/13496898) ) » [(14 comments)](https://www.fark.com/comments/13496898/Cryptocurrency-platform-MicroStrategy-to-be-joining-NASDAQ) |
-| [STEM](https://www.fark.com/stem/) | [Suni and Butch's return to Earth gets pushed back at least another month. Kingston Trio head into studio to record new single "I.S.S." updating their classic "M.T.A"](https://www.fark.com/goto/13497592) ( [nbcnews.com](https://www.fark.com/goto/13497592) ) » [(3 comments)](https://www.fark.com/comments/13497592/Suni-Butchs-return-to-Earth-gets-pushed-back-at-least-another-month-Kingston-Trio-head-into-studio-to-record-new-single-ISS-updating-their-classic-MTA) |
-| [Entertainment](https://www.fark.com/entertainment/) | ["Star Trek II: The Wrath of Khan," "The Texas Chainsaw Massacre," "Dirty Dancing," and "Up in Smoke" among the 25 films selected for the National Film Registry this year. List to the left, snubs to the right](https://www.fark.com/goto/13497398) ( [newsroom.loc.gov](https://www.fark.com/goto/13497398) ) » [(0 comments)](https://www.fark.com/comments/13497398/Star-Trek-II-The-Wrath-of-Khan-The-Texas-Chainsaw-Massacre-Dirty-Dancing-Up-in-Smoke-among-25-films-selected-for-National-Film-Registry-this-year-List-to-left-snubs-to-right) |
-| [Fandom](https://www.fark.com/fandom/) | [The crew is on the move again, and they're not alone. Let's see if they take that left turn at Tatooine. Episode 4 of "Star Wars: Skeleton Crew" drops on D+ at 9 PM ET](https://www.fark.com/goto/13496960) ( [msn.com](https://www.fark.com/goto/13496960) ) » [(6 comments)](https://www.fark.com/comments/13496960/The-crew-is-on-move-again-theyre-not-alone-Lets-see-if-they-take-that-left-turn-at-Tatooine-Episode-4-of-Star-Wars-Skeleton-Crew-drops-on-D-at-9-PM-ET) |
-| [D'awww](https://www.fark.com/dawww/) | [Everyone loves birthday cake](https://www.fark.com/goto/13497164) ( [aol.com](https://www.fark.com/goto/13497164) ) » [(3 comments)](https://www.fark.com/comments/13497164/Everyone-loves-birthday-cake) |
-| [Food](https://www.fark.com/food/) | [Puke your wine in style: The skull aerator that's dying to pour](https://www.fark.com/goto/13497330) ( [geeksaresexy.net](https://www.fark.com/goto/13497330) ) » [(10 comments)](https://www.fark.com/comments/13497330/Puke-your-wine-in-style-The-skull-aerator-thats-dying-to-pour) |
-| [Politics](https://www.fark.com/politics/) | [Let's cut to the chase. Republican absolute number one concern about pending spending bill is (c.) what the other side got](https://www.fark.com/goto/13497130) ( [cnn.com](https://www.fark.com/goto/13497130) ) » [(2 comments)](https://www.fark.com/comments/13497130/Lets-cut-to-chase-Republican-absolute-number-one-concern-about-pending-spending-bill-is-c-what-other-side-got) |
+| [Main](https://www.fark.com/) | [Absolutely nothing interesting going on here, folks. Please go about your business and pay this no mind. Not one single person in this situation has done a single suspicious thing](https://www.fark.com/goto/13497672) ( [ktvz.com](https://www.fark.com/goto/13497672) ) » [(10 comments)](https://www.fark.com/comments/13497672/Absolutely-nothing-interesting-going-on-here-folks-Please-go-about-your-business-pay-this-no-mind-Not-one-single-person-in-this-situation-has-done-a-single-suspicious-thing) |
+| [Discussion](https://www.fark.com/discussion/) | [In the last four days, the Rudyard Kipling story "Rikki Tikki Tavi" has come up 13 times. Should I be worried?](https://www.fark.com/goto/13497736) ( [fark.com](https://www.fark.com/goto/13497736) ) » [(7 comments)](https://www.fark.com/comments/13497736/In-last-four-days-Rudyard-Kipling-story-Rikki-Tikki-Tavi-has-come-up-13-times-Should-I-be-worried) |
+| [Sports](https://www.fark.com/sports/) | [Penix goes there](https://www.fark.com/goto/13497558) ( [nypost.com](https://www.fark.com/goto/13497558) ) » [(7 comments)](https://www.fark.com/comments/13497558/Penix-goes-there) |
+| [Business](https://www.fark.com/business/) | [In Dubai, the auto junkyards are .... slightly different](https://www.fark.com/goto/13497554) ( [theautopian.com](https://www.fark.com/goto/13497554) ) » [(7 comments)](https://www.fark.com/comments/13497554/In-Dubai-auto-junkyards-are-slightly-different) |
+| [STEM](https://www.fark.com/stem/) | [California squirrels have developed a taste for blood. Fark squirrel runs far, far away](https://www.fark.com/goto/13497806) ( [phys.org](https://www.fark.com/goto/13497806) ) » [(3 comments)](https://www.fark.com/comments/13497806/California-squirrels-have-developed-a-taste-for-blood-Fark-squirrel-runs-far-far-away) |
+| [Entertainment](https://www.fark.com/entertainment/) | [The Bluey movie is coming out of the Hammerbarn](https://www.fark.com/goto/13497432) ( [cnn.com](https://www.fark.com/goto/13497432) ) » [(3 comments)](https://www.fark.com/comments/13497432/The-Bluey-movie-is-coming-out-of-Hammerbarn) |
+| [Fandom](https://www.fark.com/fandom/) | [Director Shawn Levy confirms that if Hugh Jackman had not called them saying he wanted to be in a Deadpool movie, there was not going to be a Deadpool movie](https://www.fark.com/goto/13497584) ( [cbr.com](https://www.fark.com/goto/13497584) ) » [(5 comments)](https://www.fark.com/comments/13497584/Director-Shawn-Levy-confirms-that-if-Hugh-Jackman-had-not-called-them-saying-he-wanted-to-be-in-a-Deadpool-movie-there-was-not-going-to-be-a-Deadpool-movie) |
+| [D'awww](https://www.fark.com/dawww/) | [A face that only Picasso could love?](https://www.fark.com/goto/13497662) ( [the-sun.com](https://www.fark.com/goto/13497662) ) » [(3 comments)](https://www.fark.com/comments/13497662/A-face-that-only-Picasso-could-love) |
+| [Food](https://www.fark.com/food/) | ["...but we didn't mind the melted M&M's and cinnamon candies-if properly placed, it looked like the snowmen and Santas were bleeding from the eyes"](https://www.fark.com/goto/13497712) ( [177milkstreet.com](https://www.fark.com/goto/13497712) ) » [(0 comments)](https://www.fark.com/comments/13497712/but-we-didnt-mind-melted-MMs-cinnamon-candies-if-properly-placed-it-looked-like-snowmen-Santas-were-bleeding-from-eyes) |
+| [Politics](https://www.fark.com/politics/) | ["These \[e.g., the Selzer suit\] are really pro-wrestling-derived public spectacles and performance art aimed at telegraphing power and demoralizing enemies." Somebody should set up a legal fund to defend against them](https://www.fark.com/goto/13497724) ( [talkingpointsmemo.com](https://www.fark.com/goto/13497724) ) » [(20 comments)](https://www.fark.com/comments/13497724/These-eg-Selzer-suit-are-really-pro-wrestling-derived-public-spectacles-performance-art-aimed-at-telegraphing-power-demoralizing-enemies-Somebody-should-set-up-a-legal-fund-to-defend-against-them) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -354,7 +353,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Dec 18 2024 02:42:51  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Dec 18 2024 08:43:35  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
