@@ -1,34 +1,5 @@
  
 
-* Es noticia:
-* [Raphael](https://www.marca.com/tiramillas/musica/2024/12/17/6761de6446163fac9a8b459f.html)
-* [Vinicius](https://www.marca.com/futbol/premios-the-best/2024/12/17/contundente-mensaje-vinicius-redes-nadie-decirme-debo-comportarme.html)
-* [Zaragoza - Oviedo](https://www.marca.com/futbol/laliga-hypermotion/zaragoza-oviedo/2024/12/17/01_0102_20241217_190_187-directo.html)
-* [Córdoba - Eibar](https://www.marca.com/futbol/laliga-hypermotion/cordoba-eibar/2024/12/17/01_0102_20241217_952_953-directo.html)
-* [Real Madrid baloncesto](https://www.marca.com/baloncesto/euroliga/paris-basketball-real-madrid/2024/12/17/02_0203_20241217_14503_6210-directo.html)
-* [Barcelona - Fenerbahce](https://www.marca.com/baloncesto/euroliga/barcelona-fenerbahce/2024/12/17/02_0203_20241217_6216_8113-directo.html)
-* [Votos The Best](https://www.marca.com/futbol/premios-the-best/2024/12/17/capitan-francia-vota-messi-elige-lamine-yamal-primera-posicion.html)
-* [Premio The Best 2024](https://www.marca.com/futbol/premios-the-best/2024/12/17/6761a636f49425d14dad60d9-directo.html)
-* [Once The Best](https://www.marca.com/futbol/premios-the-best/2024/12/17/rea-madrid-domina-once-the-best-seis-jugadores.html)
-* [Real Madrid - Pachuca horario](https://www.marca.com/futbol/copa-intercontinental/2024/12/16/real-madrid-pachuca-ver-tv-horario-final-copa-intercontinental.html)
-* [Pablo Motos](https://www.marca.com/tiramillas/television/2024/12/17/6761ed6c46163fb3a28b4592.html)
-* [Jordi Cruz](https://www.marca.com/tiramillas/television/2024/12/17/6761aa9c268e3eb1698b45bb.html)
-* [Macarena Gómez](https://www.marca.com/tiramillas/cine/2024/12/17/6761671522601d9b638b45a6.html)
-* [Carmen Lomana](https://www.marca.com/tiramillas/television/2024/12/17/6761d10ce2704edd6e8b45a4.html)
-* [Isabel Rábago](https://www.marca.com/tiramillas/television/2024/12/17/6761a0a246163f29028b457c.html)
-* [Patricia Pardo](https://www.marca.com/tiramillas/television/2024/12/17/6761b3ca268e3eb7608b4587.html)
-* [Dani Mateo](https://www.marca.com/tiramillas/television/2024/12/17/6761421be2704e48668b457b.html)
-* [Federico Jiménez Losantos](https://www.marca.com/tiramillas/actualidad/2024/12/17/6761d5e7ca4741e8018b458d.html)
-* [Hora Lotería de Navidad](https://www.marca.com/loteria/loteria-navidad/2024/12/17/676161aa22601d76618b45a1.html)
-* [Comprobar pedrea Lotería de Navidad](https://www.marca.com/loteria/loteria-navidad/comprobar-pedrea-numeros.html)
-* [Comprobar Lotería Navidad](https://www.marca.com/loteria/loteria-navidad/comprobar-loteria.html)
-* [Lotería de Navidad](https://www.marca.com/loteria/loteria-navidad/2024/12/11/67596e21268e3eab288b4598.html)
-* [Fútbol hoy](https://www.marca.com/tiramillas/actualidad/economia/2024/12/09/6756deec22601df8058b4583.html)
-* [Precio luz hoy](https://www.marca.com/tiramillas/actualidad/economia/2024/12/17/6761848b46163fc4a08b45a8.html)
-* [LaLiga EA Sports](https://www.marca.com/futbol/primera-division.html)
-* [Vinícius Jr](https://www.marca.com/futbol/vinicius-junior.html)
-* [Clasificación Liga](https://www.marca.com/futbol/primera-division/clasificacion.html)
-
 [Portada de Marca](https://www.marca.com/)
 
 Edición seleccionada ES
