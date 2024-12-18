@@ -15,56 +15,64 @@
     
     Trending
     
+    * [EU Policy](https://www.euronews.com/tag/eu-policy)
+    * [Artificial intelligence](https://www.euronews.com/tag/artificial-intelligence)
+    * [Syria](https://www.euronews.com/tag/syria)
+    * [Christmas](https://www.euronews.com/tag/christmas)
+    * [United Kingdom](https://www.euronews.com/tag/united-kingdom)
     * [Russia](https://www.euronews.com/tag/russia)
-    * [France](https://www.euronews.com/tag/france)
-    * [European Union](https://www.euronews.com/tag/european-union)
-    * [Donald Trump](https://www.euronews.com/tag/donald-trump)
-    * [European Commission](https://www.euronews.com/tag/eu-commission)
-    * [Germany](https://www.euronews.com/tag/germany)
     
     * * *
     
     Latest stories
     
-    [![France's newly appointed Prime Minister Francois Bayrou and outgoing Prime minister Michel Barnier speak at Matignon, Paris. 13 December, 2024.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "France's newly appointed Prime Minister Francois Bayrou and outgoing Prime minister Michel Barnier speak at Matignon, Paris. 13 December, 2024.")
+    [![Grant Douglas pauses while evacuating as the Park Fire jumps Highway 36 near Paynes Creek in Tehama County, California.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Grant Douglas pauses while evacuating as the Park Fire jumps Highway 36 near Paynes Creek in Tehama County, California.")
     
-    ![France's newly appointed Prime Minister Francois Bayrou and outgoing Prime minister Michel Barnier speak at Matignon, Paris. 13 December, 2024.](https://static.euronews.com/articles/stories/08/91/65/44/368x207_cmsv2_6cd1cfa2-89c0-5e5a-b364-a0a80e121aca-8916544.jpg "France's newly appointed Prime Minister Francois Bayrou and outgoing Prime minister Michel Barnier speak at Matignon, Paris. 13 December, 2024.")](https://www.euronews.com/business/2024/12/17/french-central-bank-lowers-2025-growth-forecast-after-tumultuous-year)
-    
-    Now playing Next
-    
-    [Economy](https://www.euronews.com/business/economy)
-    
-    ### [French central bank lowers 2025 growth forecast after tumultuous year](https://www.euronews.com/business/2024/12/17/french-central-bank-lowers-2025-growth-forecast-after-tumultuous-year)
-    
-    [![Rescuers clean the coast after oil stains from two Russian tankers washed ashore in the Krasnodar region in Russia, 17 December, 2024.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Rescuers clean the coast after oil stains from two Russian tankers washed ashore in the Krasnodar region in Russia, 17 December, 2024.")
-    
-    ![Rescuers clean the coast after oil stains from two Russian tankers washed ashore in the Krasnodar region in Russia, 17 December, 2024.](https://static.euronews.com/articles/stories/08/91/61/96/368x207_cmsv2_04ccfacd-5430-543e-8b6c-5cb194ae749b-8916196.jpg "Rescuers clean the coast after oil stains from two Russian tankers washed ashore in the Krasnodar region in Russia, 17 December, 2024.")](https://www.euronews.com/2024/12/17/oil-stains-wash-ashore-after-storm-damages-russian-oil-tankers)
+    ![Grant Douglas pauses while evacuating as the Park Fire jumps Highway 36 near Paynes Creek in Tehama County, California.](https://static.euronews.com/articles/stories/08/91/69/04/368x207_cmsv2_4d6a2246-9c9f-531c-a776-c6b41557c486-8916904.jpg "Grant Douglas pauses while evacuating as the Park Fire jumps Highway 36 near Paynes Creek in Tehama County, California.")](https://www.euronews.com/green/2024/12/18/from-destruction-to-deadly-heat-photojournalists-capture-the-reality-of-climate-change-in-)
     
     Now playing Next
     
-    [Russia](https://www.euronews.com/news/europe/russia)
+    [Climate](https://www.euronews.com/green/climate)
     
-    ### [Oil stains wash ashore after storm damages Russian oil tankers](https://www.euronews.com/2024/12/17/oil-stains-wash-ashore-after-storm-damages-russian-oil-tankers)
+    ### [In pictures: The impact of climate change in 2024](https://www.euronews.com/green/2024/12/18/from-destruction-to-deadly-heat-photojournalists-capture-the-reality-of-climate-change-in-)
     
-    [![Portugal's Teresa Anjinho addresses MEPs in a 3 December hearing](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Portugal's Teresa Anjinho addresses MEPs in a 3 December hearing")
+    [![How can the European Union tackle ‘brain drain’?](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "How can the European Union tackle ‘brain drain’?")
     
-    ![Portugal's Teresa Anjinho addresses MEPs in a 3 December hearing](https://static.euronews.com/articles/stories/08/91/61/48/368x207_cmsv2_267d4b82-5e18-576a-9177-563a3e82ee28-8916148.jpg "Portugal's Teresa Anjinho addresses MEPs in a 3 December hearing")](https://www.euronews.com/my-europe/2024/12/17/ex-portuguese-justice-minister-anjinho-elected-to-be-eu-ombudsman)
-    
-    Now playing Next
-    
-    [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
-    
-    ### [Ex-Portuguese Justice Minister Anjinho elected EU ombudsman](https://www.euronews.com/my-europe/2024/12/17/ex-portuguese-justice-minister-anjinho-elected-to-be-eu-ombudsman)
-    
-    [![epublican presidential candidate former President Donald Trump speaks at the Bitcoin 2024 Conference Saturday, July 27, 2024, in Nashville, Tenn. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "epublican presidential candidate former President Donald Trump speaks at the Bitcoin 2024 Conference Saturday, July 27, 2024, in Nashville, Tenn. ")
-    
-    ![epublican presidential candidate former President Donald Trump speaks at the Bitcoin 2024 Conference Saturday, July 27, 2024, in Nashville, Tenn. ](https://static.euronews.com/articles/stories/08/83/47/38/368x207_cmsv2_0743b145-e464-5f75-97dc-c55021dc5a6d-8834738.jpg "epublican presidential candidate former President Donald Trump speaks at the Bitcoin 2024 Conference Saturday, July 27, 2024, in Nashville, Tenn. ")](https://www.euronews.com/business/2024/12/17/bitcoin-reaches-yet-another-all-time-high-what-is-behind-the-rally)
+    ![How can the European Union tackle ‘brain drain’?](https://static.euronews.com/articles/stories/08/88/95/46/368x207_cmsv2_93351e13-725e-5742-9c43-5cfa125f5222-8889546.jpg "How can the European Union tackle ‘brain drain’?")](https://www.euronews.com/my-europe/2024/12/18/how-can-the-european-union-tackle-brain-drain)
     
     Now playing Next
     
-    [Markets](https://www.euronews.com/business/markets)
+    [Europeans' Stories](https://www.euronews.com/my-europe/my-europe-series/europeans-stories)
     
-    ### [Bitcoin hits another all-time high – what's behind the crypto rally?](https://www.euronews.com/business/2024/12/17/bitcoin-reaches-yet-another-all-time-high-what-is-behind-the-rally)
+    ### [How can the European Union tackle ‘brain drain’?](https://www.euronews.com/my-europe/2024/12/18/how-can-the-european-union-tackle-brain-drain)
+    
+    [![Kazakhstan's eGov revolution: How digital services are transforming the economy and society](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Kazakhstan's eGov revolution: How digital services are transforming the economy and society")
+    
+    ![Kazakhstan's eGov revolution: How digital services are transforming the economy and society](https://static.euronews.com/articles/stories/08/90/42/10/368x207_cmsv2_dcc32a7b-8312-52fc-a35e-c64477e85e19-8904210.jpg "Kazakhstan's eGov revolution: How digital services are transforming the economy and society")](https://www.euronews.com/business/2024/12/18/kazakhstans-egov-revolution-how-digital-services-are-transforming-the-economy-and-society)
+    
+    Now playing Next
+    
+    [Business Series](https://www.euronews.com/business/business-series)
+    
+    ### [Kazakhstan's eGov revolution: How digital services are transforming the economy and society](https://www.euronews.com/business/2024/12/18/kazakhstans-egov-revolution-how-digital-services-are-transforming-the-economy-and-society)
+    
+    In partnership with **MDQ**
+    
+    [![From hornets to algae: The growing threat of invasive alien species in Europe](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "From hornets to algae: The growing threat of invasive alien species in Europe")
+    
+    ![From hornets to algae: The growing threat of invasive alien species in Europe](https://static.euronews.com/articles/stories/08/89/56/70/368x207_cmsv2_ed025a3d-daa4-5af8-9333-3940dfb52175-8895670.jpg "From hornets to algae: The growing threat of invasive alien species in Europe")
+    
+    ![Photo Gallery](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2021%2021'%3E%3C/svg%3E)
+    
+    ![Photo Gallery](https://static.euronews.com/website/images/vector/camera.svg)](https://www.euronews.com/green/2024/12/18/from-hornets-to-algae-the-growing-threat-of-invasive-alien-species-in-europe)
+    
+    Now playing Next
+    
+    [The Road To Green](https://www.euronews.com/green/green-series/the-road-to-green)
+    
+    ### [Invasive alien species: Can Europe win the battle?](https://www.euronews.com/green/2024/12/18/from-hornets-to-algae-the-growing-threat-of-invasive-alien-species-in-europe)
+    
+    In partnership with **The European Commission**
     
 * [Europe](https://www.euronews.com/my-europe)
     
@@ -364,62 +372,70 @@ Close menu sidebar
 
 Trending
 
+* [EU Policy](https://www.euronews.com/tag/eu-policy)
+* [Artificial intelligence](https://www.euronews.com/tag/artificial-intelligence)
+* [Syria](https://www.euronews.com/tag/syria)
+* [Christmas](https://www.euronews.com/tag/christmas)
+* [United Kingdom](https://www.euronews.com/tag/united-kingdom)
 * [Russia](https://www.euronews.com/tag/russia)
-* [France](https://www.euronews.com/tag/france)
-* [European Union](https://www.euronews.com/tag/european-union)
-* [Donald Trump](https://www.euronews.com/tag/donald-trump)
-* [European Commission](https://www.euronews.com/tag/eu-commission)
-* [Germany](https://www.euronews.com/tag/germany)
 
 * * *
 
 Latest stories
 
-[![France's newly appointed Prime Minister Francois Bayrou and outgoing Prime minister Michel Barnier speak at Matignon, Paris. 13 December, 2024.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "France's newly appointed Prime Minister Francois Bayrou and outgoing Prime minister Michel Barnier speak at Matignon, Paris. 13 December, 2024.")
+[![Grant Douglas pauses while evacuating as the Park Fire jumps Highway 36 near Paynes Creek in Tehama County, California.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Grant Douglas pauses while evacuating as the Park Fire jumps Highway 36 near Paynes Creek in Tehama County, California.")
 
-![France's newly appointed Prime Minister Francois Bayrou and outgoing Prime minister Michel Barnier speak at Matignon, Paris. 13 December, 2024.](https://static.euronews.com/articles/stories/08/91/65/44/368x207_cmsv2_6cd1cfa2-89c0-5e5a-b364-a0a80e121aca-8916544.jpg "France's newly appointed Prime Minister Francois Bayrou and outgoing Prime minister Michel Barnier speak at Matignon, Paris. 13 December, 2024.")](https://www.euronews.com/business/2024/12/17/french-central-bank-lowers-2025-growth-forecast-after-tumultuous-year)
+![Grant Douglas pauses while evacuating as the Park Fire jumps Highway 36 near Paynes Creek in Tehama County, California.](https://static.euronews.com/articles/stories/08/91/69/04/368x207_cmsv2_4d6a2246-9c9f-531c-a776-c6b41557c486-8916904.jpg "Grant Douglas pauses while evacuating as the Park Fire jumps Highway 36 near Paynes Creek in Tehama County, California.")](https://www.euronews.com/green/2024/12/18/from-destruction-to-deadly-heat-photojournalists-capture-the-reality-of-climate-change-in-)
 
 Now playing Next
 
-[Economy](https://www.euronews.com/business/economy)
+[Climate](https://www.euronews.com/green/climate)
 
-### [French central bank lowers 2025 growth forecast after tumultuous year](https://www.euronews.com/business/2024/12/17/french-central-bank-lowers-2025-growth-forecast-after-tumultuous-year)
+### [In pictures: The impact of climate change in 2024](https://www.euronews.com/green/2024/12/18/from-destruction-to-deadly-heat-photojournalists-capture-the-reality-of-climate-change-in-)
 
 * * *
 
-[![Rescuers clean the coast after oil stains from two Russian tankers washed ashore in the Krasnodar region in Russia, 17 December, 2024.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Rescuers clean the coast after oil stains from two Russian tankers washed ashore in the Krasnodar region in Russia, 17 December, 2024.")
+[![How can the European Union tackle ‘brain drain’?](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "How can the European Union tackle ‘brain drain’?")
 
-![Rescuers clean the coast after oil stains from two Russian tankers washed ashore in the Krasnodar region in Russia, 17 December, 2024.](https://static.euronews.com/articles/stories/08/91/61/96/368x207_cmsv2_04ccfacd-5430-543e-8b6c-5cb194ae749b-8916196.jpg "Rescuers clean the coast after oil stains from two Russian tankers washed ashore in the Krasnodar region in Russia, 17 December, 2024.")](https://www.euronews.com/2024/12/17/oil-stains-wash-ashore-after-storm-damages-russian-oil-tankers)
+![How can the European Union tackle ‘brain drain’?](https://static.euronews.com/articles/stories/08/88/95/46/368x207_cmsv2_93351e13-725e-5742-9c43-5cfa125f5222-8889546.jpg "How can the European Union tackle ‘brain drain’?")](https://www.euronews.com/my-europe/2024/12/18/how-can-the-european-union-tackle-brain-drain)
 
 Now playing Next
 
-[Russia](https://www.euronews.com/news/europe/russia)
+[Europeans' Stories](https://www.euronews.com/my-europe/my-europe-series/europeans-stories)
 
-### [Oil stains wash ashore after storm damages Russian oil tankers](https://www.euronews.com/2024/12/17/oil-stains-wash-ashore-after-storm-damages-russian-oil-tankers)
+### [How can the European Union tackle ‘brain drain’?](https://www.euronews.com/my-europe/2024/12/18/how-can-the-european-union-tackle-brain-drain)
 
 * * *
 
-[![Portugal's Teresa Anjinho addresses MEPs in a 3 December hearing](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Portugal's Teresa Anjinho addresses MEPs in a 3 December hearing")
+[![Kazakhstan's eGov revolution: How digital services are transforming the economy and society](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Kazakhstan's eGov revolution: How digital services are transforming the economy and society")
 
-![Portugal's Teresa Anjinho addresses MEPs in a 3 December hearing](https://static.euronews.com/articles/stories/08/91/61/48/368x207_cmsv2_267d4b82-5e18-576a-9177-563a3e82ee28-8916148.jpg "Portugal's Teresa Anjinho addresses MEPs in a 3 December hearing")](https://www.euronews.com/my-europe/2024/12/17/ex-portuguese-justice-minister-anjinho-elected-to-be-eu-ombudsman)
+![Kazakhstan's eGov revolution: How digital services are transforming the economy and society](https://static.euronews.com/articles/stories/08/90/42/10/368x207_cmsv2_dcc32a7b-8312-52fc-a35e-c64477e85e19-8904210.jpg "Kazakhstan's eGov revolution: How digital services are transforming the economy and society")](https://www.euronews.com/business/2024/12/18/kazakhstans-egov-revolution-how-digital-services-are-transforming-the-economy-and-society)
 
 Now playing Next
 
-[Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
+[Business Series](https://www.euronews.com/business/business-series)
 
-### [Ex-Portuguese Justice Minister Anjinho elected EU ombudsman](https://www.euronews.com/my-europe/2024/12/17/ex-portuguese-justice-minister-anjinho-elected-to-be-eu-ombudsman)
+### [Kazakhstan's eGov revolution: How digital services are transforming the economy and society](https://www.euronews.com/business/2024/12/18/kazakhstans-egov-revolution-how-digital-services-are-transforming-the-economy-and-society)
+
+In partnership with **MDQ**
 
 * * *
 
-[![epublican presidential candidate former President Donald Trump speaks at the Bitcoin 2024 Conference Saturday, July 27, 2024, in Nashville, Tenn. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "epublican presidential candidate former President Donald Trump speaks at the Bitcoin 2024 Conference Saturday, July 27, 2024, in Nashville, Tenn. ")
+[![From hornets to algae: The growing threat of invasive alien species in Europe](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "From hornets to algae: The growing threat of invasive alien species in Europe")
 
-![epublican presidential candidate former President Donald Trump speaks at the Bitcoin 2024 Conference Saturday, July 27, 2024, in Nashville, Tenn. ](https://static.euronews.com/articles/stories/08/83/47/38/368x207_cmsv2_0743b145-e464-5f75-97dc-c55021dc5a6d-8834738.jpg "epublican presidential candidate former President Donald Trump speaks at the Bitcoin 2024 Conference Saturday, July 27, 2024, in Nashville, Tenn. ")](https://www.euronews.com/business/2024/12/17/bitcoin-reaches-yet-another-all-time-high-what-is-behind-the-rally)
+![From hornets to algae: The growing threat of invasive alien species in Europe](https://static.euronews.com/articles/stories/08/89/56/70/368x207_cmsv2_ed025a3d-daa4-5af8-9333-3940dfb52175-8895670.jpg "From hornets to algae: The growing threat of invasive alien species in Europe")
+
+![Photo Gallery](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2021%2021'%3E%3C/svg%3E)
+
+![Photo Gallery](https://static.euronews.com/website/images/vector/camera.svg)](https://www.euronews.com/green/2024/12/18/from-hornets-to-algae-the-growing-threat-of-invasive-alien-species-in-europe)
 
 Now playing Next
 
-[Markets](https://www.euronews.com/business/markets)
+[The Road To Green](https://www.euronews.com/green/green-series/the-road-to-green)
 
-### [Bitcoin hits another all-time high – what's behind the crypto rally?](https://www.euronews.com/business/2024/12/17/bitcoin-reaches-yet-another-all-time-high-what-is-behind-the-rally)
+### [Invasive alien species: Can Europe win the battle?](https://www.euronews.com/green/2024/12/18/from-hornets-to-algae-the-growing-threat-of-invasive-alien-species-in-europe)
+
+In partnership with **The European Commission**
 
 [Europe](https://www.euronews.com/my-europe)
 
