@@ -113,7 +113,7 @@ Menu principal
 
 [](https://twitter.com/radiofrance/ "Radio France sur Twitter - Nouvelle fenêtre")[](https://www.facebook.com/pages/Groupe-Radio-France/225248330547 "Radio France sur Facebook - Nouvelle fenêtre")[](https://www.instagram.com/radiofrance/ "Radio France sur Instagram - Nouvelle fenêtre")[](https://www.linkedin.com/company/radio-france/ "Radio France sur Linkedin - Nouvelle fenêtre")
 
-[![Radio France](/themes/custom/radiofrance/logo.svg?1734512526)](https://www.radiofrance.com/ "Radio France : retour à l'accueil")
+[![Radio France](/themes/custom/radiofrance/logo.svg?1734534604)](https://www.radiofrance.com/ "Radio France : retour à l'accueil")
 
 [](#collapse-menu-ecouter "Écouter")
 
@@ -273,7 +273,7 @@ Pour en savoir plus, l’Utilisateur peut à tout moment consulter le site inter
 Contact
 -------
 
-La Cheffe de la Mission pour la protection des données personnelles (MPPDP) ainsi que le Délégué à la protection des données personnelles (DPDP ou DPO) sont à la disposition des Utilisateurs pour toute question non traitée sur cette page. Contactez-les à l’adresse suivante : [dpdp@radiofrance.com](mailto:dpdp@radiofrance.com "Ecrire à la Mission pour la protection des données personnelles de Radio France - Nouvelle fenêtre"). Ils prennent connaissance de vos messages aux horaires habituels de bureau et s’efforcent de répondre dans les meilleurs délais (en cas d’exercice de droit, tel que mentionné ci-dessus, le traitement de la demande nécessite un délai de 30 jours).​​​​​​​
+La Cheffe de la Mission pour la protection des données personnelles (MPPDP) ainsi que le Délégué à la protection des données personnelles (DPDP ou DPO) sont à la disposition des Utilisateurs pour toute question non traitée sur cette page. Contactez-les à l’adresse suivante : [dpdp@radiofrance.com](mailto:dpdp@radiofrance.com "Ecrire à la Mission pour la protection des données personnelles de Radio France - Nouvelle fenêtre"). Ils prennent connaissance de vos messages aux horaires habituels de bureau et s’efforcent de répondre dans les meilleurs délais (en cas d’exercice de droit, tel que mentionné ci-dessus, le traitement de la demande nécessite un délai de 30 jours).
 
 Cas particulier de YouTube et Google
 ------------------------------------
@@ -281,6 +281,34 @@ Cas particulier de YouTube et Google
 Dans le cadre de l’amélioration continue de ses services, les équipes numériques de Radio France utilisent des API notamment de Google et de YouTube, permettant de programmer et d’enrichir le contenu visible sur les sites et applications de Radio France. Il convient donc de se référer à leur Conditions Générales d’Utilisation, [ici](https://www.youtube.com/t/terms "Conditions Générales d'Utilisation YouTube - Nouvelle fenêtre") et [ici](https://policies.google.com/privacy "Conditions Générales d’Utilisation de Google - Nouvelle fenêtre").
 
 * [voir aussi les informations cookies](https://www.radiofrance.com/informations-cookies "voir aussi les informations cookies")
+
+[Une information de confiance](https://www.radiofrance.com/pour-une-information-de-confiance-radio-france-sengage "Une information de confiance")
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+Les 8 engagements des rédactions de Radio France pour une information de confiance
+
+[![Pour une information de confiance Radio France s'engage](/sites/default/files/styles/format_16_9/public/2023-11/information_confiance_radio_france_banniere_2023_0.jpeg.webp?itok=GOrbaC7B)](https://www.radiofrance.com/pour-une-information-de-confiance-radio-france-sengage "Une information de confiance")
+
+[Charte d'engagements et d'usages de l'IA](https://www.radiofrance.com/mettre-lintelligence-artificielle-au-service-des-missions-de-radio-france "Charte d'engagements et d'usages de l'IA")
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Radio France agit de manière déterminée pour mettre l'intelligence artificielle au service de ses missions de service public
+
+[![Charte d'engagements et d'usages de l'IA à Radio France](/sites/default/files/styles/format_16_9/public/2024-10/charte_engagements_usages_IA_radio_france.jpeg.webp?itok=V3cf4-Wm)](https://www.radiofrance.com/mettre-lintelligence-artificielle-au-service-des-missions-de-radio-france "Charte d'engagements et d'usages de l'IA")
+
+[Nos missions](https://www.radiofrance.com/nos-missions "Nos missions")
+-----------------------------------------------------------------------
+
+Informer, éduquer, cultiver, divertir sont les 4 missions essentielles de service public de Radio France
+
+[![Les missions de Radio France](/sites/default/files/styles/format_16_9/public/2022-04/radio_france_mission_banniere.jpeg.webp?itok=PGd_I3BF)](https://www.radiofrance.com/nos-missions "Nos missions")
+
+[Nos engagements](https://www.radiofrance.com/nos-engagements "Nos engagements")
+--------------------------------------------------------------------------------
+
+Radio France mène une politique active en matière de responsabilité sociétale et environnementale
+
+[![Radio France, entreprise responsable](/sites/default/files/styles/format_16_9/public/2021-01/engagements_radio_france_banniere.jpg.webp?itok=ODZe91ne)](https://www.radiofrance.com/nos-engagements "Nos engagements")
 
 [](#header "Retour en haut de la page")
 
