@@ -185,14 +185,14 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 ###### LATEST VIDEO
 
 * [| Christa](https://video.nhpbs.org/video/christa-ygbur1?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Lost Tombs of Notre Dame** | NOVA](https://video.nhpbs.org/video/lost-tombs-of-notre-dame-ayjw0k?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Trailer Who I Am Not** | POV](https://video.nhpbs.org/video/trailer-who-i-am-not-jqknnr?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Maui's Deadly Firestorm** | FRONTLINE](https://video.nhpbs.org/video/mauis-deadly-firestorm-znte6u?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Inside Look at Season 5** | Miss Scarlet](https://video.nhpbs.org/video/inside-look-at-season-5-gziowe?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**December 17, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/december-17-2024-pbs-news-hour-full-episode-1734411601?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Why Does Water Taste Different?** | Serving Up Science](https://video.nhpbs.org/video/why-does-water-taste-different-gmtpd6?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**December 17, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/december-17-2024-pbs-news-hour-full-episode-1734411601?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Pop Quiz with a Pint** | All Creatures Great and Small](https://video.nhpbs.org/video/pop-quiz-with-a-pint-kft6gs?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Brenda Lee: Rockin' Around (ASL Trailer)** | American Masters](https://video.nhpbs.org/video/brenda-lee-rockin-around-asl-trailer-atb7xw?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Secretary of Energy on Whether Biden's Climate Legacy Will Survive Trump** | Amanpour and Company](https://video.nhpbs.org/video/secretary-of-energy-on-whether-bidens-climate-legacy-will-survive-trump-qmxehp?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Who Can Become American? The History of White People in America, Episode 6** | Independent Lens](https://video.nhpbs.org/video/the-history-of-white-people-in-america-episode-6-6jn2sv?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
