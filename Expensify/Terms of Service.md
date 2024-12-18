@@ -545,8 +545,6 @@ Welcome back,
 
 Copilot access:
 
-NEW! [Product Changes](#)
-
 [Help and Feedback](#)
 
 Use this expense workspace:
