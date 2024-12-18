@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![50 Facts About Scheelite ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22114%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/earth-sciences/50-facts-about-scheelite/)
+[![25 Facts About ErbiumSilver ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22109%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/science/chemistry/25-facts-about-erbium-silver/)
 
-Earth Sciences
+Chemistry
 
-17 Dec 2024
+18 Dec 2024
 
-[50 Facts About Scheelite](https://facts.net/earth-and-life-science/earth-sciences/50-facts-about-scheelite/)
+[25 Facts About ErbiumSilver](https://facts.net/science/chemistry/25-facts-about-erbium-silver/)
 
-[![50 Facts About Parc ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/biology-earth-and-life-science/50-facts-about-parc/)
+[![30 Facts About Bernie Ecclestone ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/30-facts-about-bernie-ecclestone/)
 
-Biology
+People
 
-17 Dec 2024
+18 Dec 2024
 
-[50 Facts About Parc](https://facts.net/earth-and-life-science/biology-earth-and-life-science/50-facts-about-parc/)
+[30 Facts About Bernie Ecclestone](https://facts.net/history/people/30-facts-about-bernie-ecclestone/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
