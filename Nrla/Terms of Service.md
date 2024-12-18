@@ -88,15 +88,15 @@ Media
 
 Campaigns
 
-[Renters' Rights Bill](https://www.nrla.org.uk/campaigns/renters-rights-bill) [Working with Westminster](https://www.nrla.org.uk/campaigns/working-with-westminster) [Adaptations](https://www.nrla.org.uk/campaigns/adaptations) [Energy Efficiency](https://www.nrla.org.uk/campaigns/energy-efficiency) [Homelessness](https://www.nrla.org.uk/campaigns/homelessness)
+[Renters' Rights Bill](https://www.nrla.org.uk/campaigns/renters-rights-bill) [Energy Efficiency](https://www.nrla.org.uk/campaigns/energy-efficiency) [Homelessness](https://www.nrla.org.uk/campaigns/homelessness) [Working with Westminster](https://www.nrla.org.uk/campaigns/working-with-westminster) [Working with the Senedd](https://www.nrla.org.uk/campaigns/working-with-the-senedd) [Our Successes](https://www.nrla.org.uk/campaigns/our-successes)
 
 Key Issues
 
-[Standards & Quality](https://www.nrla.org.uk/campaigns/standards-and-quality) [Justice](https://www.nrla.org.uk/campaigns/justice) [Managing Tenancies](https://www.nrla.org.uk/campaigns/managing-tenancies) [Tax & Finance](https://www.nrla.org.uk/campaigns/tax-and-finance) [Welfare](https://www.nrla.org.uk/campaigns/welfare) [Improving Access to the PRS](https://www.nrla.org.uk/campaigns/improving-access-to-prs) [Our Successes](https://www.nrla.org.uk/campaigns/our-successes) [Local Government](https://www.nrla.org.uk/campaigns/local-government)
+[Standards & Quality](https://www.nrla.org.uk/campaigns/standards-and-quality) [Justice](https://www.nrla.org.uk/campaigns/justice) [Managing Tenancies](https://www.nrla.org.uk/campaigns/managing-tenancies) [Tax & Finance](https://www.nrla.org.uk/campaigns/tax-and-finance) [Welfare](https://www.nrla.org.uk/campaigns/welfare) [Improving Access to the PRS](https://www.nrla.org.uk/campaigns/improving-access-to-prs) [Local Government](https://www.nrla.org.uk/campaigns/local-government) [Adaptations](https://www.nrla.org.uk/campaigns/adaptations)
 
 Data Observatory
 
-[Growth & the PRS](https://www.nrla.org.uk/research/data-observatory-growth-and-the-prs) [Lending & Housebuilding](https://www.nrla.org.uk/research/data-observatory-lending-and-housebuilding) [PRS Households](https://www.nrla.org.uk/research/data-observatory-prs-households) [PRS Rent Levels](https://www.nrla.org.uk/research/data-observatory-prs-rent-levels) [Regional Snapshot](https://www.nrla.org.uk/research/data-observatory-regional-prs-data) [Possession Claims](https://www.nrla.org.uk/research/data-observatory-possession-claims) [Housing Standards](https://www.nrla.org.uk/research/data-observatory-housing-standards)
+[PRS - Context](https://www.nrla.org.uk/research/prs-context) [Possession statistics](https://www.nrla.org.uk/research/possession-statistics) [Housebuilding](https://www.nrla.org.uk/research/housebuilding) [PRS key facts](https://www.nrla.org.uk/research/prs-key-facts)
 
 Confidence Index
 
