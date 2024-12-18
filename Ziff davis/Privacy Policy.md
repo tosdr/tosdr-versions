@@ -2,13 +2,13 @@
 
 [](https://www.ziffdavis.com/ "Ziff Davis Logo")
 
-[**ZD $57.74** ▼\-0.76%](http://investor.ziffdavis.com/)
+[**ZD $55.57** ▼\-4.49%](http://investor.ziffdavis.com/)
 
 Minimum 20 minute delay.
 
 * [ABOUT](https://www.ziffdavis.com/about)
     
-    [About Ziff Davis](https://www.ziffdavis.com/about)[M&A Program](https://www.ziffdavis.com/about/acquisitions)[Leadership](https://www.ziffdavis.com/about/leadership)[2023 ESG Report](https://s28.q4cdn.com/801973343/files/doc_downloads/Library/Ziff-Davis-2023-ESG-Report.pdf)[2023 DEI Report](https://s28.q4cdn.com/801973343/files/doc_downloads/Library/Ziff-Davis-2023-DEI-Report.pdf)[Recent News](https://www.ziffdavis.com/about/news)[Contact Us](https://www.ziffdavis.com/about/contacts)
+    [About Ziff Davis](https://www.ziffdavis.com/about)[M&A Program](https://www.ziffdavis.com/about/acquisitions)[Leadership](https://www.ziffdavis.com/about/leadership)[2023 ESG Report](https://s205.q4cdn.com/689425761/files/doc_downloads/reports/Ziff-Davis-2023-ESG-Report.pdf)[2023 DEI Report](https://s205.q4cdn.com/689425761/files/doc_downloads/reports/Ziff-Davis-2023-DEI-Report.pdf)[Recent News](https://www.ziffdavis.com/about/news)[Contact Us](https://www.ziffdavis.com/about/contacts)
     
 * [OUR BRANDS](https://www.ziffdavis.com/brands)
     
@@ -24,7 +24,7 @@ Minimum 20 minute delay.
     
 * [INVESTORS](http://investor.ziffdavis.com/)
     
-    [Corporate Information](http://investor.ziffdavis.com/Corporate-Information)[Financial Information](https://investor.ziffdavis.com/Financial-Information)[Board & ESG](https://investor.ziffdavis.com/Highlights/Index?KeyGenPage=467125)[Stock Information](https://investor.ziffdavis.com/Stock-Information)[News & Events](https://investor.ziffdavis.com/news-events/news/)[Shareholder Services](https://investor.ziffdavis.com/Online-Investor-Kit/Index?KeyGenPage=467132)
+    [Corporate Information](https://investor.ziffdavis.com/overview/default.aspx)[Financials](https://investor.ziffdavis.com/financials/quarterly-results/default.aspx)[Presentations & Reports](https://investor.ziffdavis.com/presentations-reports/default.aspx)[Governance](https://investor.ziffdavis.com/governance/overview/default.aspx)[News](https://investor.ziffdavis.com/news/default.aspx)[Stock Info](https://investor.ziffdavis.com/resources/stock-info/default.aspx)
     
 
 ZIFF DAVIS, LLC PRIVACY POLICY
