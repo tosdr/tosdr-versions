@@ -5,7 +5,7 @@ Services 
 [Discord](https://redact.dev/services/discord)[Twitter](https://redact.dev/services/twitter)[Facebook](https://redact.dev/services/facebook)[Reddit](https://redact.dev/services/reddit)[All (30+ more)](https://redact.dev/services)
 
 * [Features](https://redact.dev/features)
-* [Pricing](https://redact.dev/pricing-new)
+* [Pricing](https://redact.dev/pricing)
 * [Business](https://redact.dev/business)
 * [Testimonials](https://redact.dev/testimonials)
 * [Contact](https://redact.dev/contact)
@@ -247,7 +247,7 @@ Join our Discord server and we will directly answer your questions in real time!
 
 [Join Redact Discord](https://redact.dev/discord)
 
-[Home](https://redact.dev/)[Download](https://redact.dev/download)[Services](https://redact.dev/services)[Features](https://redact.dev/features)[Pricing](https://redact.dev/pricing-new)[Business](https://redact.dev/business)[Testimonials](https://redact.dev/testimonials)[Contact](https://redact.dev/contact)[How it works](https://redact.dev/how-it-works)[Affiliates](https://redact.dev/affiliates)[Press Kit](https://redact.dev/press-kit)[Terms & Conditions](https://redact.dev/terms)[Privacy](https://redact.dev/privacy)
+[Home](https://redact.dev/)[Download](https://redact.dev/download)[Services](https://redact.dev/services)[Features](https://redact.dev/features)[Pricing](https://redact.dev/pricing)[Business](https://redact.dev/business)[Testimonials](https://redact.dev/testimonials)[Contact](https://redact.dev/contact)[How it works](https://redact.dev/how-it-works)[Affiliates](https://redact.dev/affiliates)[Press Kit](https://redact.dev/press-kit)[Terms & Conditions](https://redact.dev/terms)[Privacy](https://redact.dev/privacy)
 
 Company
 
