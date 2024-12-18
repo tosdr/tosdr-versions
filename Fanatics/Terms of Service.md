@@ -1,4 +1,4 @@
-[](https://www.visible.com/)
+[](https://www.fanatics.com/paze/x-39989646+z-9686474-447583080)
 
 [Skip to Main Content](#main-content)[Skip to Footer](#global-footer)
 
@@ -411,9 +411,9 @@ Follow Us
 * PayPal
 * Apple Pay
 
-rc: e202c15ed912418a
+rc: 95152e93563c3946
 
-vid: a553f0e0-bce1-11ef-aa4f-7301dee43a76
+vid: ea29a200-bd13-11ef-b237-0d039da01e37
 
 version: 1.1.0-rc-20241009-21.102913
 
@@ -422,13 +422,13 @@ version: 1.1.0-rc-20241009-21.102913
 Qualified Experiments #:* 15273:B:1:1
 * 15465:A:0:1
 * 15472:A:0:1
-Namespaces:* 10:3941:0
-* 11:7988:0
-* 2:4621:0
-* 3:648:0
-* 5:268:0
-* 7:3998:0
-* 8:2396:0
-* 9:2562:0
-* 4:4492:0
-* 6:2602:0
+Namespaces:* 3:4690:0
+* 4:2425:0
+* 5:3592:0
+* 11:9679:0
+* 2:3544:0
+* 6:2861:0
+* 7:3269:0
+* 8:3148:0
+* 9:1890:0
+* 10:9703:0
