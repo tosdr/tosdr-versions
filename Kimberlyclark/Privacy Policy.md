@@ -468,7 +468,7 @@ We are committed to earning and maintaining trust by honoring the following prin
 GLOBAL PRIVACY POLICY
 =====================
 
-Last Updated : 11/27/2024
+Last Updated : 12/18/2024
 
 [](javascript:void(0))
 
@@ -1250,6 +1250,61 @@ If you remain dissatisfied, you have the right to contact the Data Protection Su
 
 Read more Read less
 
+European Economic Area, Switzerland the United Kingdom
+------------------------------------------------------
+
+If you are a resident of the EEA (specifically, any country in the European Union, Liechtenstein, Norway, or Iceland), a resident of the United Kingdom (“UK”) or a resident of Switzerland, this section applies to you, and it explains what retention periods for your personal information, international data transfers, automated decision making, and rights you may exercise in relation to your personal information.
+
+  
+
+**Retention Period.** We retain your personal information for as long as necessary to fulfill the purposes for which the personal information was collected as outlined in this Policy. The following retention periods will apply to the processing of your personal information:
+
+* Contractual purposes: retained during the provision of the Site plus a period of 10 years after the termination or withdrawal of such contract, except when the retention of the data is necessary to respond or to file legal actions, upon request of the competent authorities or in compliance with the applicable laws; and
+  
+* Marketing purposes: retained for a period of 24 months after your relationship with us ends or until you withdraw your consent;
+  
+
+**International Data Transfers.** If personal information is transferred between countries, we take commercially reasonable efforts to protect such personal information, such as by entering into Standard Contractual Clauses as approved by the European Commission.
+
+  
+
+**Automated Decision Making.** We do not engage in any automated decision with a legally significant effect with respect to the personal information subject to this Policy without your consent.
+
+  
+
+**Rights Regarding Personal Information.** Certain data protection law gives rights to individuals in respect of personal information that organizations hold about them. In particular, you can exercise the following rights:
+
+* to obtain from us confirmation of the existence of personal information and to be informed of its source, verify its accuracy and request its integration, updating, or amendment;
+  
+* request the erasure, anonymization or restriction of the processing of data processed in breach of the applicable laws;
+  
+* object in whole or in part, on legitimate grounds, to the processing of the data;
+  
+* to withdraw your consent to the processing of the data (if and to the extent such a consent is necessary); and
+  
+* In addition to the above, you will also have the right to request us to limit the processing of your personal information where:  
+    * you contest the accuracy of the personal information until we have taken sufficient steps to correct or verify its accuracy;
+      
+    * the processing is unlawful but you do not want us to erase the data;
+      
+    * we no longer need your data for the purposes of the processing, but you require it for the establishment, exercise or defense of legal claims; or
+      
+    * you objected to processing justified on legitimate interests, pending verification as to whether we have compelling legitimate grounds to continue processing;
+      
+    * you receive an electronic copy of the data, if you would like to port data to yourself or a different provider, when we are relying upon your consent or the fact that the processing is necessary for the provision of the services and the data is processed by automatic means; and/or
+      
+    * you lodge a complaint with the relevant data protection supervisory authority.
+
+  
+
+If you would like to exercise your rights, please contact us using the contact information set out below. Please note that requests to exercise data protection rights will be assessed by Kimberly-Clark on a case-by-case basis. There may be circumstances where we are not legally required to comply with your request because of exemptions provided for in data protection legislation. We do not charge you a fee for exercising any of your rights described above.
+
+  
+
+If you have any questions, please reach out to our Lead EU Data Protection Officer at [\[email protected\]](https://www.kimberly-clark.com/cdn-cgi/l/email-protection). If you are still dissatisfied, you have the right to complain to your Data Protection Authority; however, all complaints should be raised with us in the first instance. Contact details for data protection authorities in the EEA are available [here](https://edpb.europa.eu/about-edpb/about-edpb/members_en); contact details for the data protection authority in the UK are available [here](https://ico.org.uk/); and contact details for the Swiss data protection authority are available [here](https://www.edoeb.admin.ch/edoeb/en/home.html).
+
+Read more Read less
+
 India
 -----
 
@@ -1692,61 +1747,6 @@ San Juan
 Puerto Rico  
 Phone: 787-785-3625  
 Fax: 787-740-2025
-
-Read more Read less
-
-The European Economic Area, Switzerland the United Kingdom
-----------------------------------------------------------
-
-If you are a resident of the EEA (specifically, any country in the European Union, Liechtenstein, Norway, or Iceland), a resident of the United Kingdom (“UK”) or a resident of Switzerland, this section applies to you, and it explains what retention periods for your personal information, international data transfers, automated decision making, and rights you may exercise in relation to your personal information.
-
-  
-
-**Retention Period.** We retain your personal information for as long as necessary to fulfill the purposes for which the personal information was collected as outlined in this Policy. The following retention periods will apply to the processing of your personal information:
-
-* Contractual purposes: retained during the provision of the Site plus a period of 10 years after the termination or withdrawal of such contract, except when the retention of the data is necessary to respond or to file legal actions, upon request of the competent authorities or in compliance with the applicable laws; and
-  
-* Marketing purposes: retained for a period of 24 months after your relationship with us ends or until you withdraw your consent;
-  
-
-**International Data Transfers.** If personal information is transferred between countries, we take commercially reasonable efforts to protect such personal information, such as by entering into Standard Contractual Clauses as approved by the European Commission.
-
-  
-
-**Automated Decision Making.** We do not engage in any automated decision with a legally significant effect with respect to the personal information subject to this Policy without your consent.
-
-  
-
-**Rights Regarding Personal Information.** Certain data protection law gives rights to individuals in respect of personal information that organizations hold about them. In particular, you can exercise the following rights:
-
-* to obtain from us confirmation of the existence of personal information and to be informed of its source, verify its accuracy and request its integration, updating, or amendment;
-  
-* request the erasure, anonymization or restriction of the processing of data processed in breach of the applicable laws;
-  
-* object in whole or in part, on legitimate grounds, to the processing of the data;
-  
-* to withdraw your consent to the processing of the data (if and to the extent such a consent is necessary); and
-  
-* In addition to the above, you will also have the right to request us to limit the processing of your personal information where:  
-    * you contest the accuracy of the personal information until we have taken sufficient steps to correct or verify its accuracy;
-      
-    * the processing is unlawful but you do not want us to erase the data;
-      
-    * we no longer need your data for the purposes of the processing, but you require it for the establishment, exercise or defense of legal claims; or
-      
-    * you objected to processing justified on legitimate interests, pending verification as to whether we have compelling legitimate grounds to continue processing;
-      
-    * you receive an electronic copy of the data, if you would like to port data to yourself or a different provider, when we are relying upon your consent or the fact that the processing is necessary for the provision of the services and the data is processed by automatic means; and/or
-      
-    * you lodge a complaint with the relevant data protection supervisory authority.
-
-  
-
-If you would like to exercise your rights, please contact us using the contact information set out below. Please note that requests to exercise data protection rights will be assessed by Kimberly-Clark on a case-by-case basis. There may be circumstances where we are not legally required to comply with your request because of exemptions provided for in data protection legislation. We do not charge you a fee for exercising any of your rights described above.
-
-  
-
-If you have any questions, please reach out to our Lead EU Data Protection Officer at [\[email protected\]](https://www.kimberly-clark.com/cdn-cgi/l/email-protection). If you are still dissatisfied, you have the right to complain to your Data Protection Authority; however, all complaints should be raised with us in the first instance. Contact details for data protection authorities in the EEA are available [here](https://edpb.europa.eu/about-edpb/about-edpb/members_en); contact details for the data protection authority in the UK are available [here](https://ico.org.uk/); and contact details for the Swiss data protection authority are available [here](https://www.edoeb.admin.ch/edoeb/en/home.html).
 
 Read more Read less
 
