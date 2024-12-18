@@ -1447,8 +1447,8 @@ it
         
         * [Esplora Contatti](https://www.inps.it/it/it/sedi-e-contatti/contatti.html)
         * [PEC](https://www.inps.it/it/it/sedi-e-contatti/contatti/pec.html)
-        * [Contact Center Multicanale](https://www.inps.it/it/it/sedi-e-contatti/contatti/contact-center-multicanale.html)
         * [INPS Risponde](https://www.inps.it/it/it/sedi-e-contatti/contatti/inps-risponde.html)
+        * [Contact Center Multicanale](https://www.inps.it/it/it/sedi-e-contatti/contatti/contact-center-multicanale.html)
         
     
 * [Amministrazione Trasparente](#)
