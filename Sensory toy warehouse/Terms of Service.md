@@ -105,6 +105,11 @@
                 * [Integration Therapy Hammocks & Bean Bags](https://www.sensorytoywarehouse.com/product-category/sensory-integration-therapy/sensory-integration-therapy-hammocks-bean-bags/)
                 * [Integration Therapy Swings](https://www.sensorytoywarehouse.com/product-category/sensory-integration-therapy/sensory-integration-therapy-swings/)
                 * [Integration Therapy Toys](https://www.sensorytoywarehouse.com/product-category/sensory-integration-therapy/sensory-integration-therapy-toys/)
+            * [Sensory Wearables](#)
+                * [Weighted Bands](#)
+                * [Weighted Vests](#)
+                * [Weighted Pads](#)
+                * [Body Stocking](#)
 * [SHOP BY SKILLS](#)
     * [Social Skills](https://www.sensorytoywarehouse.com/shop/?skills_filter=social-skills)
     * [Life Skills](https://www.sensorytoywarehouse.com/shop/?skills_filter=life-skills)
@@ -127,11 +132,10 @@
     * [Speech & Communication Delay](https://www.sensorytoywarehouse.com/shop/?condition_filter=speech-and-communication-delay)
 * [Sensory Rooms](https://www.sensorytoywarehouse.com/product-category/sens-rooms/)
 * [Kits](https://www.sensorytoywarehouse.com/product-category/sensory-toys-kits-collections/)
-* [Pocket Money Toys](https://www.sensorytoywarehouse.com/product-category/pocketmoney/)
 * [Adult](https://www.sensorytoywarehouse.com/product-category/adult-sensory-toys/)
 * [Clearance](https://www.sensorytoywarehouse.com/product-category/clearance/)
 
-🎄 **CHRISTMAS SALE!** Enjoy 20% off all products with code **'XMAS24'**. 🎁 Shop Now!
+**CHRISTMAS SALE!** Enjoy 20% off all products with code **'XMAS24'** Shop Now!
 
 [![](https://www.sensorytoywarehouse.com/wp-content/uploads/2020/11/delivery.gif)
 
@@ -374,6 +378,11 @@ Copyright 2024 © **Sensory Toy Warehouse**
                 * [Integration Therapy Hammocks & Bean Bags](https://www.sensorytoywarehouse.com/product-category/sensory-integration-therapy/sensory-integration-therapy-hammocks-bean-bags/)
                 * [Integration Therapy Swings](https://www.sensorytoywarehouse.com/product-category/sensory-integration-therapy/sensory-integration-therapy-swings/)
                 * [Integration Therapy Toys](https://www.sensorytoywarehouse.com/product-category/sensory-integration-therapy/sensory-integration-therapy-toys/)
+            * [Sensory Wearables](#)
+                * [Weighted Bands](#)
+                * [Weighted Vests](#)
+                * [Weighted Pads](#)
+                * [Body Stocking](#)
 * [SHOP BY SKILLS](#)
     * [Social Skills](https://www.sensorytoywarehouse.com/shop/?skills_filter=social-skills)
     * [Life Skills](https://www.sensorytoywarehouse.com/shop/?skills_filter=life-skills)
@@ -396,7 +405,6 @@ Copyright 2024 © **Sensory Toy Warehouse**
     * [Speech & Communication Delay](https://www.sensorytoywarehouse.com/shop/?condition_filter=speech-and-communication-delay)
 * [Sensory Rooms](https://www.sensorytoywarehouse.com/product-category/sens-rooms/)
 * [Kits](https://www.sensorytoywarehouse.com/product-category/sensory-toys-kits-collections/)
-* [Pocket Money Toys](https://www.sensorytoywarehouse.com/product-category/pocketmoney/)
 * [Adult](https://www.sensorytoywarehouse.com/product-category/adult-sensory-toys/)
 * [Clearance](https://www.sensorytoywarehouse.com/product-category/clearance/)
 
