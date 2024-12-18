@@ -2,7 +2,11 @@
 
 This is a carousel with auto-rotating slides. Use Next and Previous buttons to navigate.
 
+Take 20% off when you enroll in **[Subscribe & Save](https://naturesway.com/collections/subscribe-ave)**. Through 1/31. [Terms apply](https://naturesway.com/pages/legal/#Promotions).
+
 Take up to 20% off **[stocking stuffers](https://naturesway.com/collections/stocking-stuffers)**. Through 12/20. [Terms apply](https://naturesway.com/pages/legal/#Promotions).
+
+[**Bundles**](https://naturesway.com/collections/bundle-save) have landed! Shop curated collections of your favorite products. 
 
 [**Sign up**](#nw-newsletter-subscription-v2) for our mailing list for 20% off your first order. Terms apply.
 
@@ -155,7 +159,7 @@ Nature's Way
 * [FAQs](https://naturesway.com/pages/faqs)
 * [Contact](https://naturesway.com/pages/contact)
 
-[![Nature's Way®](//naturesway.com/cdn/shop/files/New_logo_512x512_5957d901-bb86-49dd-badd-1a59ccf77fad_4.png?v=1716475368&width=70)](https://naturesway.com/)
+[![Nature's Way®](//naturesway.com/cdn/shop/files/New_logo_512x512_5957d901-bb86-49dd-badd-1a59ccf77fad.png?v=1703189843&width=70)](https://naturesway.com/)
 
 * Shop All
     
@@ -290,7 +294,7 @@ Item added to your cart
 
 Check out
 
-Free shipping on US orders $35+ Spend $35.0 to get free shipping! 
+Free shipping on US orders $35+ Spend $35.00 to get free shipping! 
 
 My Wishlist ()
 --------------
@@ -1518,9 +1522,19 @@ More Info
 
 * Choosing a selection results in a full page refresh.
 
-       
+      
 
-Some text goes here Open the Real Chat
+![Nature's Way®](//naturesway.com/cdn/shop/files/New_logo_512x512_5957d901-bb86-49dd-badd-1a59ccf77fad_4.png?v=1716475368&width=70)
+
+#### We're here to help.
+
+Our Customer Care Team is here to assist you with your product questions, Monday - Friday 7:30 AM to 5:00 PM CT.
+
+Outside of these times, please [contact us](https://naturesway.com/pages/contact) and we'll get back to you within 24 hours.
+
+By continuing, you agree and acknowledge that this chat is used for quality and training purposes as per our [Terms of Service](https://naturesway.com/pages/legal/#Terms%20of%20Service) and our [Privacy Policy](https://naturesway.com/pages/legal).
+
+Chat
 
 #### Hello there, looks like you're located in Canada.
 
@@ -1536,13 +1550,13 @@ Cart (0)
 
 [Popular Products](https://naturesway.com/collections/trending-products) [Last Chance](https://naturesway.com/collections/last-chance) [Bundle & Save](https://naturesway.com/collections/bundle-save)
 
-Free shipping on US orders $35+ Spend $35.0 to get free shipping!
+Free shipping on US orders $35+ Spend $35.00 to get free shipping!
 
 Loading...
 
    
 
-Free shipping on US orders $35+ Spend $35.0 to get free shipping!
+Free shipping on US orders $35+ Spend $35.00 to get free shipping!
 
 ### Subtotal
 
