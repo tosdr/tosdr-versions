@@ -178,4 +178,4 @@ F-Droid is powered by your donations!
 * [Verified first-time installs](https://f-droid.org/en/2024/12/11/verified-first-time-installs.html) Dec 11, 2024
 * [Fused news read by an LLM](https://f-droid.org/en/2024/12/05/twif.html) Dec 05, 2024
 
-© 2010-2024 F-Droid Contributors (F-Droid 2024-12-14, fdroid-website [2.306](https://gitlab.com/fdroid/fdroid-website/tree/88c8849252)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
+© 2010-2024 F-Droid Contributors (F-Droid 2024-12-18, fdroid-website [2.306](https://gitlab.com/fdroid/fdroid-website/tree/88c8849252)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
