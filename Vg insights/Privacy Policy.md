@@ -42,8 +42,8 @@ Navigational Information refers to information about your visits to our website 
 
 Cookies are stored on your individual device and you have full control over their use. You may deactivate or restrict the transmission of cookies by changing the settings of your web browser. Cookies that are already stored may be deleted at any time.
 
-How We Use Information We Collect
----------------------------------
+How We Use Information We Collect on the Platform
+-------------------------------------------------
 
 We use the information we collect only in compliance with this Privacy Policy. Registered customers are obligated through our agreements with them to comply with this Privacy Policy. We will NEVER sell your Personal Information to any third party.
 
@@ -63,10 +63,15 @@ Retention of Personal Information
 
 We retain Personal Information that you provide as long as we consider it potentially useful in contacting you about our services, or as needed to comply with our legal obligations, resolve disputes and enforce our agreements, and then we securely delete the information. We will delete this information from the servers at an earlier date if you so request, as described in “Opting Out and Unsubscribing” below.
 
+Use of Publicly Available Player Data
+-------------------------------------
+
+We may collect and process data from publicly accessible player profiles on third party platforms. This data is used exclusively in an aggregated and anonymized manner to analyze game ownership and estimate sales figures. No personally identifiable information is collected, stored, or shared. Our use of this data complies with applicable laws and respects the privacy settings chosen by platform users. If you have any questions about how we use public data, please contact us.
+
 Opting Out and Unsubscribing
 ----------------------------
 
-Upon request, VG Insights will provide you with information about whether we hold any of your Personal Information. You can review, update, or correct this Personal Information by contacting us on twitter - [https://twitter.com/VG\_Insights](https://twitter.com/VG_Insights). To opt-out of receiving our newsletters, you can follow the unsubscribe instructions at the bottom of our emails or contact us at the above email address. We will respond to your request within 30 days, but usually in a day or two. Customers cannot opt out of receiving transactional emails related to their account with us.
+Upon request, VG Insights will provide you with information about whether we hold any of your Personal Information. You can review, update, or correct this Personal Information by contacting us at [support@vginsights.com](mailto:support@vginsights.com). To opt-out of receiving our newsletters, you can follow the unsubscribe instructions at the bottom of our emails or contact us at the above email address. We will respond to your request within 30 days, but usually in a day or two. Customers cannot opt out of receiving transactional emails related to their account with us.
 
 © 2024
 
