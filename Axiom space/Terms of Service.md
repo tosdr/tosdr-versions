@@ -402,7 +402,7 @@ Atlantic Ocean
 
 [![Axiom space logo](https://cdn.prod.website-files.com/671fb31e0ed79c76c93e0fee/671fb31e0ed79c76c93e107b_logo-axiom-white.svg)](https://www.axiomspace.com/)
 
-A thriving home in space that benefits every human, everywhere.
+transcend earth
 
 [Axiom Station](https://www.axiomspace.com/axiom-station)[The Suit](https://www.axiomspace.com/axiom-suit)[Missions](https://www.axiomspace.com/missions)
 
@@ -428,7 +428,7 @@ About
 
 ![arrow](https://cdn.prod.website-files.com/671fb31e0ed79c76c93e0fee/671fb31e0ed79c76c93e12f0_Vector%2010%20(1).svg)
 
-[Team](https://www.axiomspace.com/team)[Partners](https://www.axiomspace.com/partners)[Investors](https://www.axiomspace.com/investors)[Suppliers](https://www.axiomspace.com/suppliers)[Report a Concern](https://www.axiomspace.com/compliance)
+[Careers](https://www.axiomspace.com/careers)[Team](https://www.axiomspace.com/team)[Partners](https://www.axiomspace.com/partners)[Investors](https://www.axiomspace.com/investors)[Suppliers](https://www.axiomspace.com/suppliers)[Report a Concern](https://www.axiomspace.com/compliance)
 
 Image Detail
 
