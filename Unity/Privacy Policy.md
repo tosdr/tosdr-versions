@@ -102,6 +102,18 @@ To the extent you are using the services named herein and absent any other offli
 | Consulting Services<br><br>  <br><br>This is where a customer contracts with Unity to consult with them on their game |
 | * Unity MARS and the Unity AR Companion App |
 
+|     |
+| --- |
+| **Player Services**<br><br>* [LiveOps Solutions](https://unity.com/solutions/gaming-services/player-insights)<br>    * Not including Unity Player Accounts, which is a Controller Service<br>* [Multiplayer Solutions](https://unity.com/solutions/multiplayer)<br>* [Community Solutions](https://unity.com/solutions/community)<br><br>  <br>**Creator Services**<br><br>* Asset Manager<br>* PlasticSCM<br>* SyncSketch<br><br>  <br><br>These were previously referred to as Game Services and Multiplayer Services |
+
+|     |
+| --- |
+| Consulting Services<br><br>  <br><br>This is where a customer contracts with Unity to consult with them on their game |
+
+|     |
+| --- |
+| * Unity MARS and the Unity AR Companion App |
+
 **3.2.2 Aura Platform Services.** When Processing End Users of a Device Manufacturer’s Personal Data, Customer acts as an independent Controller and Unity acts as a Processor on behalf of Device Manufacturer.
 
 **3.3** When personal data is transferred via a Processor Service in conjunction with, and transmitting data to a Controller Service, Unity shall act as both a Controller and a Processor as outlined below. In instances where this includes End User Personal Data, this will be noted in the corresponding documentation or terms for the relevant service.
