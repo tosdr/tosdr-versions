@@ -64,13 +64,13 @@ Search
     
     [Shop All](https://4patriots.com/category/new-arrivals)
     
-    [![](https://assets.catsy.com/catsy.1040/SITE-AD-2409-FRT-TABLESCAPE-704x1000.jpg)](https://4patriots.com/product/endless-orchard-all-fruit-survival-food-kit)[![](https://assets.catsy.com/catsy.1040/SITE-AD-2410-FRT-TABLESCAPE-854x674.jpg)](https://4patriots.com/product/endless-orchard-all-fruit-survival-food-kit)
+    [![](https://assets.catsy.com/catsy.1040/RES-2412-LIFESTYLE-PROMO-DESKTOP-PORCH-704x1000.jpg)](https://4patriots.com/product/endless-orchard-all-fruit-survival-food-kit)[![](https://assets.catsy.com/catsy.1040/SITE-AD-2410-FRT-TABLESCAPE-854x674.jpg)](https://4patriots.com/product/endless-orchard-all-fruit-survival-food-kit)
     
-    ###### Summer-Sweet Fruit Lasts 25 Years
+    ###### "Blackout Heater" Safe to Use Indoors & Outside
     
     ![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
     
-    [Shop Endless Orchard Kit](https://4patriots.com/product/endless-orchard-all-fruit-survival-food-kit)
+    [Shop RescueHeat Heater & Stove](https://4patriots.com/product/rescueheat-emergency-space-heater-stove)
     
     ![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
     
