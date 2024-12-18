@@ -415,7 +415,7 @@ USD $ | United States
         
         DVD
         
-    * [![header icon](//shop.angel.com/cdn/shop/files/Toys-Icon-for-NAV_1024x1024.png?v=1734470040)](https://tuttletwins.store/collections/toys)
+    * [![header icon](//shop.angel.com/cdn/shop/files/Toys-Icon-for-NAV-NoBG_1024x1024.png?v=1734557864)](https://tuttletwins.store/collections/toys)
         
         Toys
         
@@ -431,7 +431,7 @@ USD $ | United States
         
         Posters
         
-    * [![header icon](//shop.angel.com/cdn/shop/files/Goldback-Icon_1024x1024.png?v=1734470040)](https://tuttletwins.store/products/goldback-bundle)
+    * [![header icon](//shop.angel.com/cdn/shop/files/Goldback-Icon-NoBG_1024x1024.png?v=1734557995)](https://tuttletwins.store/products/goldback-bundle)
         
         Goldback
         
