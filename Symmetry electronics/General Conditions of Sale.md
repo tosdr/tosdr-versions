@@ -260,6 +260,7 @@ Back
     * [Gateworks](https://www.symmetryelectronics.com/manufacturers/gateworks/)
     * [GigaDevice](https://www.symmetryelectronics.com/manufacturers/gigadevice/)
     * [GigaIPC](https://www.symmetryelectronics.com/manufacturers/gigaipc/)
+    * [Hirschmann Car Communication, Inc.](https://www.symmetryelectronics.com/manufacturers/hirschmann-car-communication,-inc/)
     * [HT Display](https://www.symmetryelectronics.com/manufacturers/ht-display/)
     * [iBase](https://www.symmetryelectronics.com/manufacturers/ibase/)
     * [iC-Haus](https://www.symmetryelectronics.com/manufacturers/ic-haus/)
