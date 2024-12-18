@@ -31,6 +31,119 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Fiscalía realiza allanamientos por caso Metástasis en dos ciudades
+==================================================================
+
+Las investigaciones giran en torno a un exjuez y un exfiscal involucrados en el caso Metástasis. La Policía recoge pruebas
+--------------------------------------------------------------------------------------------------------------------------
+
+![Fiscalía levanta indicios en un operativo.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-25.jpg)
+
+La **Fiscalía General del Estad**o (FGE) informó sobre las acciones que ejecuta en coordinación con la Policía Nacional en el marco del proceso del **caso Metástasis**.
+
+### Más noticias
+
+* [Procuraduría explicó el monto que pidió como reparación integral en el caso Metástasis](https://www.elcomercio.com/actualidad/seguridad/procuraduria-monto-reparacion-integral-caso-metastasis.html "Procuraduría explicó el monto que pidió como reparación integral en el caso Metástasis")
+* [Caso Metástasis, evidencias que revelaron la red criminal liderada desde prisión](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-evidencias-revelaron-red-criminal-liderada-prision.html "Caso Metástasis, evidencias que revelaron la red criminal liderada desde prisión")
+* [¿Tribunal de la CNJ puede pedir nuevas investigaciones a Fiscalía sobre caso Metástasis?](https://www.elcomercio.com/actualidad/politica/tribunal-cnj-puede-pedir-nuevas-investigaciones-fiscalia-caso-metastasis.html "¿Tribunal de la CNJ puede pedir nuevas investigaciones a Fiscalía sobre caso Metástasis?")
+
+Allanamientos en dos ciudades
+-----------------------------
+
+La mañana de este miércoles 18 de diciembre, la Fiscalía dio a conocer sobre labores investigativas que se realizan en **Quito y en Santo Domingo de los Tsáchilas.**
+
+Se trata de un operativo en el marco de una investigación por el delito de **delincuencia organizada** relacionada con el **exjuex Emerson Curipallo.** Además, se vincula con el exfiscal Víctor Hugo A., alias ‘Pillo Buena Gente’; ambos están vinculados en el **caso Metástasis.**
+
+En este operativo, se realizan **allanamientos en varios inmuebles** para levantar indicios comprobatorios.
+
+La Fiscalía investiga una presunta **estructura delictiva** dedicada al otorgamiento ilegítimo de garantías constitucionales.
+
+_**Noticia en desarrollo…**_
+
+> [#AHORA](https://twitter.com/hashtag/AHORA?src=hash&ref_src=twsrc%5Etfw) | [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw) y [@PoliciaEcuador](https://twitter.com/PoliciaEcuador?ref_src=twsrc%5Etfw) ejecutan un operativo en el marco de una investigación por el delito de [#DelincuenciaOrganizada](https://twitter.com/hashtag/DelincuenciaOrganizada?src=hash&ref_src=twsrc%5Etfw), relacionada con el exjuez Emerson Curipallo y el exfiscal Víctor Hugo A., alias "Pillo buena gente", ambos sentenciados en el [#CasoMetástasis](https://twitter.com/hashtag/CasoMet%C3%A1stasis?src=hash&ref_src=twsrc%5Etfw). [pic.twitter.com/uFVnB0kx8H](https://t.co/uFVnB0kx8H)
+> 
+> — Fiscalía Ecuador (@FiscaliaEcuador) [December 18, 2024](https://twitter.com/FiscaliaEcuador/status/1869324146397921691?ref_src=twsrc%5Etfw)
+
+Caso Metástasis
+---------------
+
+En el **caso Metástasis,** cuya audiencia duró 29 días, la **Fiscalía** presentó pruebas periciales obtenidas de dispositivos electrónicos pertenecientes a **Leandro Norero**.
+
+Entre estas se incluyeron registros de llamadas, conversaciones de **WhatsApp y Threema**, además de **videos y fotografías** que documentan la planificación de **actividades delictivas**.
+
+Los peritos informáticos señalaron que el material extraído suma **76 videos y más de 1 400 imágenes**, además de mensajes que exponen **transacciones y coordinaciones logísticas**.
+
+Entre las evidencias más relevantes se identificaron **videollamadas** que muestran interacciones entre Norero y otros miembros de la red criminal.
+
+En estas grabaciones, se discutían temas como la entrega de dinero, la organización de movimientos logísticos y la gestión de trámites legales. Estas comunicaciones, según la Fiscalía, fortalecieron la **tesis de que la estructura** operaba bajo la dirección de Norero incluso [desde prisión.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+
+Así funciona el Pico y placa en Quito este miércoles 18 de diciembre
+====================================================================
+
+Cuatro contraflujos se realizan en Quito como medidas simultáneas para controlar el flujo vehicular, además del Pico y placa
+----------------------------------------------------------------------------------------------------------------------------
+
+![El Pico y placa se aplica en Quito de lunes a viernes.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-17T141456.737.jpg)
+
+El **Municipio de Quito** implementó la medida de **Pico y placa en Quito** para controlar el flujo vehicular dentro de la ciudad. Este se aplica con un esquema, según el último dígito de la placa.
+
+### Más noticias
+
+* [Recolección de basura en Quito modifica sus horarios](https://www.elcomercio.com/actualidad/quito/recoleccion-de-basura-quito-modifica-horarios.html "Recolección de basura en Quito modifica sus horarios")
+* [Cortes de luz no programados se aplicaron en Quito](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-no-programados-se-aplicaron-en-quito.html "Cortes de luz no programados se aplicaron en Quito")
+* [Últimos días para matriculación y revisión técnica vehicular en Quito](https://www.elcomercio.com/actualidad/quito/ultimos-dias-para-matriculacion-y-revision-tecnica-vehicular-en-quito.html "Últimos días para matriculación y revisión técnica vehicular en Quito")
+
+¿Cómo funciona el Pico y placa?
+-------------------------------
+
+La medida del **Pico y placa** incluye a todos los vehículos y motos del Distrito Metropolitano, a excepción de los conducidos por personas de la tercera edad o con discapacidad.
+
+La restricción vehicular **Pico y placa en Quito** se aplica cinco días a la semana, de **lunes a viernes**, de 06:00 a 09:30 y de **16:00 a 20:00**.
+
+Este **miércoles,** no pueden circular los autos con **placas terminadas en dígitos 5 y 6.**
+
+Contraflujos y Pico y placa en Quito
+------------------------------------
+
+Como medida adicional **al Pico y placa**, para que el tránsito tenga mayor fluidez en horas pico, la Agencia Metropolitana de Tránsito (AMT) también aplica **cuatro contraflujos en Quito**, estos son:
+
+–**Avenida Mariscal Sucre:** desde el cementerio de San Diego hasta la avenida Universitaria.
+
+Mañana: 06:30 a 07:00 y de 07:30 a 08:00
+
+Tarde: 16:30 a 17:00 y 17:30 a 18:00
+
+–**Autopista General Rumiñahui:** desde la av. Pichincha, en El Trébol, hasta el sector de Cuscungo, en la autopista.
+
+Mañana: 06:30 a 07:30 y de 08:00 a 08:30
+
+Tarde: 16:30 a 19:30
+
+–**Avenida Velasco Ibarra** (Oriental): en la mañana desde la avenida Napo hasta la av. Velasco Ibarra (La Tola). En la tarde, desde el coliseo Rumiñahui hasta La Tola.
+
+Mañana: 06:00 a 08:30
+
+Tarde: 17:00 a 19:00
+
+– **Túnel Guayasamín:** desde la av. Guayasamín y av. Simón Bolívar hasta la av. 6 de Diciembre y av. Oswaldo Guayasamín y viceversa en la tarde.
+
+Mañana: 07:00 a 08:30
+
+Tarde: de 16:00 a 19:30
+
+Mantente atento a estos contraflujos y a los **horarios de Pico y placa** en Quito y [evita sanciones.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
+
+> 📢 [#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
+> ⏰ Conoce los horarios y los tramos de los contraflujos que hay en la ciudad.  
+>   
+> 👮‍♂️ Conduce con precaución, respeta las normas y llega seguro a tu destino.  
+>   
+> 🤝 Juntos llegamos sin contratiempos.  
+>   
+> ☀️[#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/nfehiI0uUO](https://t.co/nfehiI0uUO)
+> 
+> — AMTQuito (@AMT\_Quito) [October 22, 2024](https://twitter.com/AMT_Quito/status/1848669582912897155?ref_src=twsrc%5Etfw)
+
 La amenaza de los petroleros obsoletos
 ======================================
 
@@ -55,6 +168,21 @@ La oenegé Razom We Stand ha advertido que no solo está en peligro el **Mar Neg
 
 La tragedia del estrecho de **Kerch** debería servir como una llamada de atención. No se puede permitir que los intereses económicos y geopolíticos sigan eclipsando la **urgencia** de proteger los mares con [petroleros](https://es.wikipedia.org/wiki/Petrolero "https://es.wikipedia.org/wiki/Petrolero") obsoletos. 
 
+Cartas a Quito / 18 de diciembre de 2024
+========================================
+
+Estas son las cartas a Quito de este miércoles 18 de diciembre de 2024
+----------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+No a al engaño y la violencia, y sí a la “paz”
+----------------------------------------------
+
+Lucha entre el “bien” (la paz, la justicia, la libertad, el desarrollo, el servicio, la educación, la verdad…), y el “mal” (la violencia, la corrupción, la injusticia, la esclavitud, el fanatismo, la ambición, el adoctrinamiento, la mentira…). Pero la ambición por el poder, el dinero y el dominio a los demás no tiene fin. Sí, a la paz, pero a veces es necesario defenderla, sin libertad y justicia no hay paz, Papa Francisco que pide diálogo en Cuba, Venezuela, Nicaragua, Ecuador…, y deja a sus Pueblos en manos de lobos criminales vestidos de ovejas. S. Tomás de Aquino: “Si puedes vivir en medio de la injusticia, sin enojo (sin defender la justicia), eres inmoral como injusto”. Jesús sacó con la fuerza a los profanadores de la Casa de Dios. Los mongoles asesinaban, esclavizaban y torturaban a quienes no se sometían a sus edictos, cultura y religión en la India. Y los Santos Maestros Sikhs Hardgobind y Gobind Singh se vieron obligados a enfrentarlos y liberar a la India de sus brutales crímenes y esclavitud. Los obscuros desarman al pueblo para someterlos con su justicia corrupta, la delincuencia, la policía y militares infectados. Antes había justicia, militares y policías los apresaban y nos protegían. Y la delincuencia en el poder y las calles reinan. En el mundo el 90% de ciudadanos los rechazan y son del Estado Global Obscuro. A Trump no le dejaron sacar a Maduro con infiltrados en su gobierno, el SSXXI, Rusia, China y la UE. ¿Ahora, debe caer? Los ciudadanos de América y el mundo exigen la salida de los criminales de Cuba, Nicaragua, Venezuela, Ecuador, Bolivia, etc. S. Bolívar, tomado y prostituido por asesinos-narco-camaradas, enseñó: “Si la tiranía se hace ley, la rebelión es tu derecho”.    
+
+Juan Carlos Cobo Rueda
+
 Salvar la democracia
 ====================
 
@@ -70,21 +198,6 @@ El conflicto al que nos enfrentamos en las elecciones del 9F del 25 es: salvar l
 Con frecuencia, cuando tratamos de recordar el valor de la **democracia**, recurrimos a la conocida frase de Winston Churchill: _«La democracia es el peor sistema de gobierno diseñado por el hombre. Con excepción de todos los demás_». Si la célebre frase de Churchill es insuficiente, agregaría otra parecida, de Norberto Bobbio: «_La democracia no es el mejor de los bienes, pero es el menor de los males»._  Más claro que el agua que nos ha faltado.
 
 La **elección presidencial y legislativa** que se aproxima, más allá de las dieciséis candidaturas que reflejan la **dispersión y degradación del sistema político** y la ausencia de partidos, configura un escenario de **polarización política**: la **democracia y la autocracia**, la libertad o la arbitrariedad, el poder distribuido o concentrado, las instituciones o el desenfreno del odio, La **estabilidad o la turbulencia**. La razón o la perversión.  El **progreso o el retraso**.  La dignidad humana o la manipulación.  La posibilidad de salir adelante o la condena al infierno. Pero mi pronóstico es que el **populismo autoritario** volverá a perder.
-
-Cartas a Quito / 18 de diciembre de 2024
-========================================
-
-Estas son las cartas a Quito de este miércoles 18 de diciembre de 2024
-----------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-No a al engaño y la violencia, y sí a la “paz”
-----------------------------------------------
-
-Lucha entre el “bien” (la paz, la justicia, la libertad, el desarrollo, el servicio, la educación, la verdad…), y el “mal” (la violencia, la corrupción, la injusticia, la esclavitud, el fanatismo, la ambición, el adoctrinamiento, la mentira…). Pero la ambición por el poder, el dinero y el dominio a los demás no tiene fin. Sí, a la paz, pero a veces es necesario defenderla, sin libertad y justicia no hay paz, Papa Francisco que pide diálogo en Cuba, Venezuela, Nicaragua, Ecuador…, y deja a sus Pueblos en manos de lobos criminales vestidos de ovejas. S. Tomás de Aquino: “Si puedes vivir en medio de la injusticia, sin enojo (sin defender la justicia), eres inmoral como injusto”. Jesús sacó con la fuerza a los profanadores de la Casa de Dios. Los mongoles asesinaban, esclavizaban y torturaban a quienes no se sometían a sus edictos, cultura y religión en la India. Y los Santos Maestros Sikhs Hardgobind y Gobind Singh se vieron obligados a enfrentarlos y liberar a la India de sus brutales crímenes y esclavitud. Los obscuros desarman al pueblo para someterlos con su justicia corrupta, la delincuencia, la policía y militares infectados. Antes había justicia, militares y policías los apresaban y nos protegían. Y la delincuencia en el poder y las calles reinan. En el mundo el 90% de ciudadanos los rechazan y son del Estado Global Obscuro. A Trump no le dejaron sacar a Maduro con infiltrados en su gobierno, el SSXXI, Rusia, China y la UE. ¿Ahora, debe caer? Los ciudadanos de América y el mundo exigen la salida de los criminales de Cuba, Nicaragua, Venezuela, Ecuador, Bolivia, etc. S. Bolívar, tomado y prostituido por asesinos-narco-camaradas, enseñó: “Si la tiranía se hace ley, la rebelión es tu derecho”.    
-
-Juan Carlos Cobo Rueda
 
 El precio del cacao sigue al alza, ¿cómo impacta el mercado ecuatoriano?
 ========================================================================
@@ -901,150 +1014,3 @@ Además, se identificó una conversación con **Fabricio C. P.**, quien solicit�
 La Fiscal también expuso pruebas de que varios bienes inmuebles, presuntamente pertenecientes a Lenin V. y Ana M., estaban registrados a nombre de **sus hijos menores de edad**, como una oficina y un departamento en Quito.
 
 Además, se identificó un terreno en **Chimborazo**, cuyo registro estaba a nombre de Martha V.
-
-Mundial de Clubes e Intercontinental: formatos, historia y diferencias
-======================================================================
-
-El Mundial de Clubes y la Copa Intercontinental se han separado y ahora son torneos distintos con formatos renovados.
----------------------------------------------------------------------------------------------------------------------
-
-![Ronaldo con la Copa Intercontinental que ganó con el Real Madrid en 2002.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-17T175811.161.jpg)
-
-Este 2024 marca el regreso de la **Copa Intercontinental**, 20 años después de su última edición en 2004. Por otro lado, el **Mundial de Clubes**, ahora con un nuevo formato, no se disputará esta temporada.
-
-El retorno de la Copa Intercontinental, que en el pasado enfrentaba exclusivamente a los campeones de la Copa **Libertadores** y la **Champions** League, responde al cambio en el calendario del Mundial de Clubes, que ahora se jugará cada cuatro años. Con su reaparición, la Intercontinental también presenta un formato renovado.
-
-### Más noticias:
-
-* [Real Madrid convocó a Kylian Mbappé para la Copa Intercontinental](https://www.elcomercio.com/deportes/futbol/real-madrid-convoco-a-kylian-mbappe-para-la-copa-intercontinental.html "Real Madrid convocó a Kylian Mbappé para la Copa Intercontinental")
-* [El Mundial de Clubes 2025 promete ser histórico para Ecuador](https://www.elcomercio.com/deportes/futbol/elmundial-de-clubes-2025-promete-ser-historico-para-ecuador.html "El Mundial de Clubes 2025 promete ser histórico para Ecuador")
-* [Figuras ecuatorianas buscan hacer historia en la nueva Copa Intercontinental](https://www.elcomercio.com/deportes/copa-intercontinental-ecuatoriano-historia-derby-americas.html "Figuras ecuatorianas buscan hacer historia en la nueva Copa Intercontinental")
-
-Este miércoles 18 de diciembre se definirá al nuevo campeón de la **Copa Intercontinental**. La final se jugará a las 12:00 (hora local) en el Estadio Lusail, en Catar.
-
-Los protagonistas serán el **Real Madrid**, máximo ganador histórico del torneo (compartido con otros clubes), con tres títulos, y el **Pachuca**, representante de la Concacaf, que cuenta con los ecuatorianos **Ángel Mena y Andrés Micolta** en su plantilla.
-
-Historia de la Copa Intercontinental y el Mundial de Clubes
------------------------------------------------------------
-
-La **Copa Intercontinental nació en 1960** y se jugó de manera continua hasta 2004, con solo dos interrupciones por desacuerdos en las fechas. Este torneo enfrentaba a los campeones de la Copa Libertadores y la Champions League.
-
-Inicialmente, se jugaba a partidos de ida y vuelta, pero desde 1980 se adoptó un formato de final única en Japón.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-17T175537.409-1024x683.jpg)
-
-Foto: Conmebol
-
-En el año 2000, la **FIFA presentó el primer Mundial de Clubes**, con un formato más amplio que incluía a campeones de todas las confederaciones, además de un equipo del país anfitrión. Sin embargo, esta primera edición fue una prueba que no se repitió hasta 2005, cuando reemplazó definitivamente a la Intercontinental.
-
-En sus primeras dos ediciones, solo participaban los equipos **campeones de cada una de las confederaciones.**
-
-A partir de 2007 y hasta su última edición en 2023, además de los seis equipos campeones continentales, el **país anfitrión** tenía derecho a incluir un representante en el torneo.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-17T175305.239-1024x683.jpg)
-
-Foto: Real Madrid.
-
-En este formato, los ganadores de la Copa **Libertadores** y la Champions League clasificaban directamente a las **semifinales**, mientras que los campeones de las demás confederaciones debían competir desde rondas previas.
-
-Dos torneos, dos formatos distintos
------------------------------------
-
-A partir de 2024, la Copa Intercontinental y el Mundial de Clubes se consolidaron como torneos completamente distintos.
-
-### Intercontinental
-
-La [Copa Intercontinental](https://es.wikipedia.org/wiki/Copa_Intercontinental#T%C3%ADtulos_por_pa%C3%ADs "https://es.wikipedia.org/wiki/Copa_Intercontinental#T%C3%ADtulos_por_pa%C3%ADs") adoptó un formato similar al antiguo Mundial de Clubes, pero con algunas variantes.
-
-Ahora participan seis equipos, que son los campeones de los torneos continentales correspondientes. Una de las principales diferencias es que el ganador de la **Champions League** obtiene un pase directo a la final. Los otros equipos compiten en rondas previas, hasta llegar a la denominada Copa Challenger. El ganador de esta instancia, en este caso el [Pachuca](https://www.elcomercio.com/deportes/futbol/dos-ecuatorianos-eliminaron-botafogo-de-la-intercontinental.html "Dos ecuatorianos eliminaron a Botafogo de la Intercontinental"), accede a la final.
-
-![El ecuatoriano Andrés Micolta (primero a la izquierda) celebra un gol con el Pachuca.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-11T151225.907-1024x683.jpg)
-
-### Mundial de Clubes
-
-Por otra parte, el **Mundial de Clubes sufrió un cambio radical**, pasando de ser un torneo anual a disputarse cada cuatro años, al igual que la Copa del Mundo de selecciones. Su primera edición bajo este nuevo formato será en 2025.
-
-El nuevo [Mundial de Clubes](https://es.wikipedia.org/wiki/Copa_Mundial_de_Clubes_de_la_FIFA_2025 "https://es.wikipedia.org/wiki/Copa_Mundial_de_Clubes_de_la_FIFA_2025") **contará con 32 equipos** y se jugará con una fase de grupos de cuatro equipos cada uno. Los dos mejores de cada grupo avanzarán a las rondas eliminatorias, siguiendo un formato similar a los antiguos Mundiales de selecciones.
-
-![El Real Madrid será uno de los clubes que estará en el Mundial de Clubes y en el bombo 1.](https://www.elcomercio.com/wp-content/uploads/2024/12/1000180753-1024x576.jpg)
-
-La distribución de cupos también cambió. **UEFA y Conmebol tienen más de cuatro lugares** cada una, asignados a los cuatro campeones de la Champions League y la Copa Libertadores durante los ciclos entre cada Mundial. Los cupos restantes se otorgarán según el ranking de clubes.
-
-Las otras confederaciones, excepto Oceanía, tendrán cuatro cupos cada una, mientras que Oceanía contará con un solo representante. Además, habrá un cupo para un equipo del país anfitrión; en esta edición será el **Inter Miami**.
-
-El Confesionario
-----------------
-
-El legado de los deportistas ecuatorianos inmortalizado en estatuas
-===================================================================
-
-En Ecuador, el único futbolista que cuenta con una estatua es Alberto Spencer.
-------------------------------------------------------------------------------
-
-![Estatua de Neisi Dajomes en el cantón Mera, provincia de Pastaza.](https://www.elcomercio.com/wp-content/uploads/2024/12/estatuas_3.jpg)
-
-**Alexander Domínguez** fue clave en la obtención de los tres últimos títulos de Liga de Quito en las temporadas 2023 y 2024. En total tiene nueve trofeos, entre nacionales e internacionales con los albos.
-
-Finalizado el partido del sábado 14 de diciembre de 2024 ante I**ndependiente del Valle, Domínguez fue entrevistado** y mencionó que hará el pedido para que una estatua en su honor se coloque junto a la de Rodrigo Paz, histórico dirigente de los blancos.
-
-### Más noticias:
-
-* [Alexander Domínguez es el jugador más ganador de Liga de Quito](https://www.elcomercio.com/deportes/futbol/alexander-dominguez-supera-titulos-a-clubes-historicos-de-ecuador.html "Alexander Domínguez es el jugador más ganador de Liga de Quito")
-* [Alexander Domínguez pide estatua junto a Rodrigo Paz](https://www.elcomercio.com/deportes/futbol/alexander-dominguez-estatua-liga-quito.html "Alexander Domínguez pide estatua junto a Rodrigo Paz")
-* [Alexander Domínguez jugó 16 finales con Liga de Quito](https://www.elcomercio.com/deportes/futbol/alexander-dominguez-finales-liga-quito.html "Alexander Domínguez jugó 16 finales con Liga de Quito")
-
-¿Merece Domínguez una estatua?
-------------------------------
-
-“Son nueve títulos con Liga y uno en Deportes Tolima (Colombia). Ojalá no salgan a matarme algunos exfutbolistas. Estoy contengo y orgulloso. Hay que disfrutar con la familia que son los únicos que están en los momentos difíciles”, mencionó el portero.
-
-“Voy a hablar con el doctor (Isaac Álvarez) **para que me hagan una estatua junto a la de don Rodrigo** (Paz). Nadie ha ganado más título que yo en este club”, aseguró en medio de los festejos por el nuevo título en su cuenta personal.
-
-El ‘Dida’, junto a Néicer Reascos, son los dos jugadores que más títulos ganaron con la camiseta de Liga, por delante de nombres como los de **Alfonso Obregón, Paúl Ambrosi y Franklin Salas**, tres de los máximos referentes del equipo en el siglo XXI.
-
-Es el único arquero ecuatoriano que estuvo presente en dos mundiales. En Brasil 2014 fue titular y en Catar 2022 fue el suplente de Hernán Galíndez.
-
-También representó a la Tri en la Copa América Argentina 2011, Chile 2015, Centenario 2016, **Brasil 2019 y 2021, y Estados Unidos 2024**; y en las eliminatorias a los mundiales Brasil 2014, Rusia 2018, Catar 2022 y Canadá, Estados Unidos y México 2026.
-
-En términos estadísticos, [Domínguez **acumula 436 partidos con Liga de Quito**](https://www.elcomercio.com/deportes/futbol/pedro-larrea-retiro-campeon-america.html "Pedro Larrea, campeón de América con Liga de Quito, se retiró")**, en los que ha recibido 343 goles**, con un promedio de 0,79 goles por encuentro. Además, ha dejado su arco invicto en 168 ocasiones, logrando mantener su portería imbatida en el 38 % de sus partidos.
-
-Pese a sus extraordinarios números, parece una tarea difícil de conseguir si tomamos en cuenta que **dentro del país el único futbolista que cuenta con una estatua es Alberto Spencer en Guayaquil**, en las afueras del estadio Modelo que adoptó el nombre del goleador histórico de la Copa Libertadores.
-
-¿Qué deportistas tienen estatuas en Ecuador?
---------------------------------------------
-
-Jefferson Pérez fue el primer medallista olímpico de Ecuador. Alcanzó la medalla de oro en Atlanta 1996 y la de plata en Pekín 2008, siempre en los 20 km marcha.
-
-Estos son solo algunos de los mérito con los que cuenta el azuayo que lo hicieron merecedor no a una, sino a tres estatuas en su honor: una en el Parque de la Madre en Cuenca, **otra en la explanada del estadio Alberto Spencer en Guayaquil**, y una tercera en el Parque la Carolina en Quito.
-
-![Estatua de Jefferson Pérez en el Parque La Carolina, Quito.](https://www.elcomercio.com/wp-content/uploads/2024/12/estatuas_1-1-1024x683.jpg)
-
-Estatua de Jefferson Pérez en el Parque La Carolina, Quito.
-
-**Neisi Dajomes también es doble medallista olímpica** del país y la primera mujer ecuatoriana en lograrlo.
-
-Sus preseas las alcanzó en levantamiento de pesas en **Tokio 2020 con un oro que retumbó todos los rincones de Ecuador**, y en París 2024 una de bronce, que ratificó que se trata de una de las mejores deportistas ecuatorianas de todos los tiempos.
-
-En el 2022 el municipio del cantón **[Mera entregó el monumento de Dajomes](https://www.elcomercio.com/wp-content/uploads/2024/12/estatuas_3.jpg "Estatua de Neisi Dajomes en el cantón Mera, provincia de Pastaza.")** que tiene una altura de seis metros y luce imponente por donde se la mire.
-
-Richard Carapaz **ganó la medalla de oro en Tokio 2020 y el Giro de Italia en 2019**. Es el mejor ciclista de Ecuador de todos los tiempos y ha permanecido en la élite del ciclismo mundial durante los últimos seis años.
-
-La primera estatua se encuentra en el caserío **Playa Alta, provincia de Carchi**, en la casa de sus padres.
-
-En la vía del ciclista está otro monumento. Se encuentra en la **ruta que conecta a la Unidad Educativa Luciano Coral**, El Capote y La Estrellita con una longitud de 5,8 km.
-
-![Estatua de Rchard Carapaz en Playa Alta, Tulcán.](https://www.elcomercio.com/wp-content/uploads/2024/12/estatuas_2-1024x683.jpg)
-
-Estatua de Rchard Carapaz en Playa Alta, Carchi.
-
-El ‘Chucho’ Benítez inmortalizado en México
--------------------------------------------
-
-El 29 de julio de 2013 el país se conmocionó con la muerte de **Christian Benítez. Un problema cardiaco acabó con su vida** en Catar, hasta donde llegó desde el América de México.
-
-Múltiples fueron los homenajes para el goleador. En [**Guayaquil un estadio lleva su nombre**](https://www.elcomercio.com/deportes/futbol/el-nacional-recordo-a-chucho-benitez-con-su-nuevo-titulo-copa-ecuador.html "El Nacional recordó a ‘Chucho’ Benítez con su nuevo título") y en México no dudaron en levantar una estatua en su recuerdo.
-
-El Santos Laguna se encargó de inmortalizar al delantero quiteño en los exteriores del equipo de Torreón.
-
-Confesionario – segunda temporada en proceso
---------------------------------------------
