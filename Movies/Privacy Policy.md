@@ -161,7 +161,7 @@ You may designate an authorized agent to make a request on your behalf. We may r
 
 If you live in a jurisdiction where you have the right to appeal any denials of your requests, you may file your appeal using the above mechanisms.
 
-[About](https://moviestvnetwork.com/about/) | [FAQ](https://moviestvnetwork.com/faq/) | [Press](https://moviestvnetwork.com/press/) | [Contact](https://moviestvnetwork.com/contact/) | [Advertise](https://moviestvnetwork.com/advertise/) | [Privacy Policy](https://moviestvnetwork.com/privacy-policy/) | [Terms of Use](https://moviestvnetwork.com/terms-of-use/) | [Do Not Sell Or Share My Information - CA Residents](https://moviestvnetwork.com/do-not-sell-my-information)
+[About](https://moviestvnetwork.com/about/) | [FAQ](https://moviestvnetwork.com/faq/) | [Press](https://moviestvnetwork.com/press/) | [Contact](https://moviestvnetwork.com/contact/) | [Advertise](https://moviestvnetwork.com/advertise/) | [Privacy Policy](https://moviestvnetwork.com/privacy-policy/) | [Terms of Use](https://moviestvnetwork.com/terms-of-use/) | [Do Not Sell Or Share My Information](https://moviestvnetwork.com/do-not-sell-my-information)
 
 © 2024 Popcorn Entertainment, LLC
 
