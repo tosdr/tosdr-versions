@@ -438,7 +438,7 @@ Exemptions to the Privacy Act can be found near the end of each individual SORN,
 
 #### [IRS Privacy Program Plan](#collapseCollapsible1705618165967_256635)
 
-Ensuring the IRS preserves and enhances public confidence by properly protecting, retaining and disclosing taxpayer information is the main purpose of the [IRS Privacy Program Plan PDF](https://www.irs.gov/pub/irs-pdf/p5499.pdf "0224 Publ 5499                           (PDF)").
+Ensuring the IRS preserves privacy and enhance public trust through proper authentication, access, disclosure, retention and protection, of all data and records is the main purpose of the [IRS Privacy Program Plan PDF](https://www.irs.gov/pub/irs-pdf/p5499.pdf "0224 Publ 5499                           (PDF)").
 
 The plan provides an overview of the:
 
@@ -543,7 +543,7 @@ Washington, DC 20224
 
 [What you should know](https://www.irs.gov/taxpayer-bill-of-rights)
 
-Page Last Reviewed or Updated: 06-Nov-2024
+Page Last Reviewed or Updated: 18-Dec-2024
 
 * [Share](#)
     * Facebook
