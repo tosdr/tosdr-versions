@@ -4,7 +4,7 @@ Auguszta
 
 ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNgYAAAAAMAASsJTYQAAAAASUVORK5CYII= "gyengén felhős")
 
-3°8°
+3°10°
 
 Menü
 
