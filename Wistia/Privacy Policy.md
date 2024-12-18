@@ -47,7 +47,8 @@
     * [Support](https://support.wistia.com/)
     * [Developer Docs](https://docs.wistia.com/)
     * [Customer Stories](https://wistia.com/learn/showcase)
-    * [Events](https://wistia.com/events)
+    * [Webinars](https://wistia.com/events)
+    * [Tutorial Videos](https://wistia.com/watch)
     * [Asset Library](https://wistia.com/resources/free-downloads)
     
     Blog Categories
