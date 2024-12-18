@@ -320,14 +320,7 @@ If you have questions or concerns about our Privacy Policy or any other privacy 
 
 Top articles
 
-* [Accept Credit Cards the Secure, Speedy Way](https://www.sumup.com/en-us/accept-credit-cards/)
-* [Credit Card Machine for Small Businesses | Accept Card Payments, Anytime, Anywhere with SumUp](https://www.sumup.com/en-us/credit-card-machine/)
-* [Credit Card Processing Yesterday, Today, and Tomorrow](https://www.sumup.com/en-us/credit-card-processing/)
-* [EMV chip credit card technology explained | SumUp Card Readers for Small Businesses](https://www.sumup.com/en-us/emv-credit-card-chip/)
-* [How to Leverage Your Credit Card Terminal to Improve Your Point of Sale](https://www.sumup.com/en-us/credit-card-terminal/)
 * [The Credit Card Reader That Fits In Your Pocket and Suits Your Pocket](https://www.sumup.com/en-us/credit-card-reader/)
-* [The USA's Shift to the Brave New World of EMV Card Reader Technology](https://www.sumup.com/en-us/emv-card-reader/)
-* [Understanding Credit Card Payment in an EMV Era](https://www.sumup.com/en-us/credit-card-payment/)
 
 ![](https://circuit.sumup.com/icons/v2/flag_us_16.svg)United States
 
