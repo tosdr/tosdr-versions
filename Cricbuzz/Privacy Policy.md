@@ -38,7 +38,7 @@ More
 
 My Account Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[AUS vs IND - Match drawn](https://www.cricbuzz.com/live-cricket-scores/91796/aus-vs-ind-3rd-test-india-tour-of-australia-2024-25 "Australia v India, 3rd Test - Match drawn")[MLS vs BRH - Preview](https://www.cricbuzz.com/live-cricket-scores/101577/mls-vs-brh-4th-match-big-bash-league-2024-25 "Melbourne Stars v Brisbane Heat, 4th Match - Preview")[BAN vs WI - BAN Won](https://www.cricbuzz.com/live-cricket-scores/95241/ban-vs-wi-2nd-t20i-bangladesh-tour-of-west-indies-2024 "Bangladesh v West Indies, 2nd T20I - BAN Won")[RSA vs PAK - PAK Won](https://www.cricbuzz.com/live-cricket-scores/94345/rsa-vs-pak-1st-odi-pakistan-tour-of-south-africa-2024-25 "South Africa v Pakistan, 1st ODI - PAK Won")[INDW vs WIW - WIW Won](https://www.cricbuzz.com/live-cricket-scores/110021/indw-vs-wiw-2nd-t20i-west-indies-women-tour-of-india-2024 "India Women v West Indies Women, 2nd T20I - WIW Won")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[AUS vs IND - Match drawn](https://www.cricbuzz.com/live-cricket-scores/91796/aus-vs-ind-3rd-test-india-tour-of-australia-2024-25 "Australia v India, 3rd Test - Match drawn")[MLS vs BRH - BRH Won](https://www.cricbuzz.com/live-cricket-scores/101577/mls-vs-brh-4th-match-big-bash-league-2024-25 "Melbourne Stars v Brisbane Heat, 4th Match - BRH Won")[KDB vs GAM - Live](https://www.cricbuzz.com/live-cricket-scores/110281/kdb-vs-gam-eliminator-lanka-t10-super-league-2024 "Kandy Bolts v Galle Marvels, Eliminator - Live")[BAN vs WI - BAN Won](https://www.cricbuzz.com/live-cricket-scores/95241/ban-vs-wi-2nd-t20i-bangladesh-tour-of-west-indies-2024 "Bangladesh v West Indies, 2nd T20I - BAN Won")[ZIM vs AFG - Preview](https://www.cricbuzz.com/live-cricket-scores/109341/zim-vs-afg-2nd-odi-afghanistan-tour-of-zimbabwe-2024-25 "Zimbabwe v Afghanistan, 2nd ODI - Preview")
 
 AllLive NowToday
 
@@ -62,7 +62,7 @@ AllLive NowToday
     
     1st ODI
     
-* [South Africa vs Pakistan](https://www.cricbuzz.com/live-cricket-scores/94354/rsa-vs-pak-2nd-odi-south-africa-vs-pakistan2024-25 "South Africa v Pakistan, 2nd ODI - Upcoming")
+* [South Africa vs Pakistan](https://www.cricbuzz.com/live-cricket-scores/94354/rsa-vs-pak-2nd-odi-south-africa-vs-pakistan2024-25 "South Africa v Pakistan, 2nd ODI - Preview")
     
     2nd ODI
     
@@ -72,21 +72,13 @@ AllLive NowToday
     
     1st ODI
     
-* [Zimbabwe vs Afghanistan](https://www.cricbuzz.com/live-cricket-scores/109341/zim-vs-afg-2nd-odi-afghanistan-tour-of-zimbabwe-2024-25 "Zimbabwe v Afghanistan, 2nd ODI - Upcoming")
+* [Zimbabwe vs Afghanistan](https://www.cricbuzz.com/live-cricket-scores/109341/zim-vs-afg-2nd-odi-afghanistan-tour-of-zimbabwe-2024-25 "Zimbabwe v Afghanistan, 2nd ODI - Preview")
     
     2nd ODI
     
 * Gulf Cricket T20I Championship
     
-    [Saudi Arabia vs Bahrain](https://www.cricbuzz.com/live-cricket-scores/112269/sau-vs-bhr-7th-match-gulf-cricket-t20i-championship "Saudi Arabia v Bahrain, 7th Match - BHR Won")
-    
-    7th Match
-    
-* [United Arab Emirates vs Kuwait](https://www.cricbuzz.com/live-cricket-scores/112273/uae-vs-kuw-8th-match-gulf-cricket-t20i-championship "United Arab Emirates v Kuwait, 8th Match - UAE Won")
-    
-    8th Match
-    
-* [Qatar vs Kuwait](https://www.cricbuzz.com/live-cricket-scores/112281/qat-vs-kuw-9th-match-gulf-cricket-t20i-championship "Qatar v Kuwait, 9th Match - KUW Won")
+    [Qatar vs Kuwait](https://www.cricbuzz.com/live-cricket-scores/112281/qat-vs-kuw-9th-match-gulf-cricket-t20i-championship "Qatar v Kuwait, 9th Match - KUW Won")
     
     9th Match
     
@@ -94,21 +86,25 @@ AllLive NowToday
     
     10th Match
     
-* [Oman vs Saudi Arabia](https://www.cricbuzz.com/live-cricket-scores/112293/oman-vs-sau-11th-match-gulf-cricket-t20i-championship "Oman v Saudi Arabia, 11th Match - Ings Break")
+* [Oman vs Saudi Arabia](https://www.cricbuzz.com/live-cricket-scores/112293/oman-vs-sau-11th-match-gulf-cricket-t20i-championship "Oman v Saudi Arabia, 11th Match - SAU Won")
     
     11th Match
     
-* [Qatar vs United Arab Emirates](https://www.cricbuzz.com/live-cricket-scores/112297/qat-vs-uae-12th-match-gulf-cricket-t20i-championship "Qatar v United Arab Emirates, 12th Match - Preview")
+* [United Arab Emirates vs Qatar](https://www.cricbuzz.com/live-cricket-scores/112297/uae-vs-qat-12th-match-gulf-cricket-t20i-championship "United Arab Emirates v Qatar, 12th Match - Complete")
     
     12th Match
     
-* [United Arab Emirates vs Saudi Arabia](https://www.cricbuzz.com/live-cricket-scores/112301/uae-vs-sau-13th-match-gulf-cricket-t20i-championship "United Arab Emirates v Saudi Arabia, 13th Match - Upcoming")
+* [United Arab Emirates vs Saudi Arabia](https://www.cricbuzz.com/live-cricket-scores/112301/uae-vs-sau-13th-match-gulf-cricket-t20i-championship "United Arab Emirates v Saudi Arabia, 13th Match - Preview")
     
     13th Match
     
 * [Qatar vs Bahrain](https://www.cricbuzz.com/live-cricket-scores/112305/qat-vs-bhr-14th-match-gulf-cricket-t20i-championship "Qatar v Bahrain, 14th Match - Upcoming")
     
     14th Match
+    
+* [Oman vs Kuwait](https://www.cricbuzz.com/live-cricket-scores/112309/oman-vs-kuw-15th-match-gulf-cricket-t20i-championship "Oman v Kuwait, 15th Match - Upcoming")
+    
+    15th Match
     
 * ICC Mens T20 World Cup Americas Sub Regional Qualifier, 2024
     
@@ -142,21 +138,21 @@ AllLive NowToday
     
     BBL 2024-25
     
-    [Melbourne Renegades vs Sydney Sixers](https://www.cricbuzz.com/live-cricket-scores/101570/mlr-vs-sys-2nd-match-bbl-2024-25 "Melbourne Renegades v Sydney Sixers, 2nd Match - SYS Won")
-    
-    2nd Match
-    
-* [Adelaide Strikers vs Sydney Thunder](https://www.cricbuzz.com/live-cricket-scores/101571/ads-vs-syt-3rd-match-bbl-2024-25 "Adelaide Strikers v Sydney Thunder, 3rd Match - SYT Won")
+    [Adelaide Strikers vs Sydney Thunder](https://www.cricbuzz.com/live-cricket-scores/101571/ads-vs-syt-3rd-match-bbl-2024-25 "Adelaide Strikers v Sydney Thunder, 3rd Match - SYT Won")
     
     3rd Match
     
-* [Melbourne Stars vs Brisbane Heat](https://www.cricbuzz.com/live-cricket-scores/101577/mls-vs-brh-4th-match-bbl-2024-25 "Melbourne Stars v Brisbane Heat, 4th Match - Preview")
+* [Melbourne Stars vs Brisbane Heat](https://www.cricbuzz.com/live-cricket-scores/101577/mls-vs-brh-4th-match-bbl-2024-25 "Melbourne Stars v Brisbane Heat, 4th Match - BRH Won")
     
     4th Match
     
-* [Melbourne Renegades vs Hobart Hurricanes](https://www.cricbuzz.com/live-cricket-scores/101581/mlr-vs-hbh-5th-match-bbl-2024-25 "Melbourne Renegades v Hobart Hurricanes, 5th Match - Upcoming")
+* [Melbourne Renegades vs Hobart Hurricanes](https://www.cricbuzz.com/live-cricket-scores/101581/mlr-vs-hbh-5th-match-bbl-2024-25 "Melbourne Renegades v Hobart Hurricanes, 5th Match - Preview")
     
     5th Match
+    
+* [Adelaide Strikers vs Melbourne Stars](https://www.cricbuzz.com/live-cricket-scores/101590/ads-vs-mls-6th-match-bbl-2024-25 "Adelaide Strikers v Melbourne Stars, 6th Match - Upcoming")
+    
+    6th Match
     
 * Lanka T10 Super League, 2024
     
@@ -184,19 +180,19 @@ AllLive NowToday
     
     21st Match
     
-* [Jaffna Titans vs Hambantota Bangla Tigers](https://www.cricbuzz.com/live-cricket-scores/110277/jft-vs-hbt-qualifier-1-lanka-t10-super-league-2024 "Jaffna Titans v Hambantota Bangla Tigers, Qualifier 1 - Preview")
+* [Jaffna Titans vs Hambantota Bangla Tigers](https://www.cricbuzz.com/live-cricket-scores/110277/jft-vs-hbt-qualifier-1-lanka-t10-super-league-2024 "Jaffna Titans v Hambantota Bangla Tigers, Qualifier 1 - Complete")
     
     Qualifier 1
     
-* [Galle Marvels vs Kandy Bolts](https://www.cricbuzz.com/live-cricket-scores/110281/gam-vs-kdb-eliminator-lanka-t10-super-league-2024 "Galle Marvels v Kandy Bolts, Eliminator - Preview")
+* [Kandy Bolts vs Galle Marvels  LIVE](https://www.cricbuzz.com/live-cricket-scores/110281/kdb-vs-gam-eliminator-lanka-t10-super-league-2024 "Kandy Bolts v Galle Marvels, Eliminator - Live")
     
     Eliminator
     
-* [TBC vs TBC](https://www.cricbuzz.com/live-cricket-scores/110289/tbc-vs-tbc-qualifier-2-lanka-t10-super-league-2024 "TBC v TBC, Qualifier 2 - Upcoming")
+* [Hambantota Bangla Tigers vs TBC](https://www.cricbuzz.com/live-cricket-scores/110289/hbt-vs-tbc-qualifier-2-lanka-t10-super-league-2024 "Hambantota Bangla Tigers v TBC, Qualifier 2 - Upcoming")
     
     Qualifier 2
     
-* [TBC vs TBC](https://www.cricbuzz.com/live-cricket-scores/110297/tbc-vs-tbc-final-lanka-t10-super-league-2024 "TBC v TBC, Final - Upcoming")
+* [Jaffna Titans vs TBC](https://www.cricbuzz.com/live-cricket-scores/110297/jft-vs-tbc-final-lanka-t10-super-league-2024 "Jaffna Titans v TBC, Final - Upcoming")
     
     Final
     
@@ -226,7 +222,7 @@ AllLive NowToday
     
 * New Zealand W v Australia W, 2024
     
-    [New Zealand Women vs Australia Women](https://www.cricbuzz.com/live-cricket-scores/102126/nzw-vs-ausw-1st-odi-icc-championship-match-new-zealand-w-v-australia-w-2024 "New Zealand Women v Australia Women, 1st ODI (ICC Championship Match) - Upcoming")
+    [New Zealand Women vs Australia Women](https://www.cricbuzz.com/live-cricket-scores/102126/nzw-vs-ausw-1st-odi-icc-championship-match-new-zealand-w-v-australia-w-2024 "New Zealand Women v Australia Women, 1st ODI (ICC Championship Match) - Preview")
     
     1st ODI (ICC Championship Match)
     
@@ -235,12 +231,6 @@ AllLive NowToday
     [England Women vs South Africa Women](https://www.cricbuzz.com/live-cricket-scores/94478/engw-vs-rsaw-only-test-south-africa-women-v-england-women-2024 "England Women v South Africa Women, Only Test - ENGW Won")
     
     Only Test
-    
-* Gibraltar Women v Jersey Women, 2024
-    
-    [Gibraltar Women vs Jersey Women](https://www.cricbuzz.com/live-cricket-scores/112329/gibw-vs-jerw-2nd-t20i-gibraltar-women-v-jersey-women-2024 "Gibraltar Women v Jersey Women, 2nd T20I - JERW Won")
-    
-    2nd T20I
     
 
 Privacy Policy
@@ -549,41 +539,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
-  [](https://www.cricbuzz.com/cricket-news/132825/rain-has-final-say-in-brisbane-as-both-teams-head-to-melbourne-at-1-1 "Rain has final say in Brisbane as both teams head to Melbourne at 1-1")
+  [](https://www.cricbuzz.com/cricket-news/132834/ashwins-retirement-internally-it-was-no-shock "Ashwin's retirement: Internally, it was no shock")
 
-[Rain has final say in Brisbane as both teams head to Melbourne at 1-1](https://www.cricbuzz.com/cricket-news/132825/rain-has-final-say-in-brisbane-as-both-teams-head-to-melbourne-at-1-1 "Rain has final say in Brisbane as both teams head to Melbourne at 1-1")
+[Ashwin's retirement: Internally, it was no shock](https://www.cricbuzz.com/cricket-news/132834/ashwins-retirement-internally-it-was-no-shock "Ashwin's retirement: Internally, it was no shock")
 
-1h ago
+26m ago
 
-  [](https://www.cricbuzz.com/cricket-news/132824/ravichandran-ashwin-retires-from-international-cricket "Ravichandran Ashwin retires from international cricket")
+  [](https://www.cricbuzz.com/cricket-news/132833/dunith-wellalage-left-out-for-new-zealand-t20is "Dunith Wellalage left out for New Zealand T20Is")
 
-[Ravichandran Ashwin retires from international cricket](https://www.cricbuzz.com/cricket-news/132824/ravichandran-ashwin-retires-from-international-cricket "Ravichandran Ashwin retires from international cricket")
+[Dunith Wellalage left out for New Zealand T20Is](https://www.cricbuzz.com/cricket-news/132833/dunith-wellalage-left-out-for-new-zealand-t20is "Dunith Wellalage left out for New Zealand T20Is")
 
-1h ago
+55m ago
 
-  [](https://www.cricbuzz.com/cricket-news/132823/clinical-bangladesh-seal-t20i-series-win-over-west-indies "Clinical Bangladesh seal T20I series win over West Indies")
+  [](https://www.cricbuzz.com/cricket-news/132832/r-ashwin-retirement-tribute-brisbane-gabba-test-cricket-india-v-australia-border-gavaskar-trophy-bgt "Ashwin always more cerebral than emotional, except on his final day")
 
-[Clinical Bangladesh seal T20I series win over West Indies](https://www.cricbuzz.com/cricket-news/132823/clinical-bangladesh-seal-t20i-series-win-over-west-indies "Clinical Bangladesh seal T20I series win over West Indies")
-
-1h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132822/tea-report "Australia get swinging, set India a target of 275")
-
-[Australia get swinging, set India a target of 275](https://www.cricbuzz.com/cricket-news/132822/tea-report "Australia get swinging, set India a target of 275")
+[Ashwin always more cerebral than emotional, except on his final day](https://www.cricbuzz.com/cricket-news/132832/r-ashwin-retirement-tribute-brisbane-gabba-test-cricket-india-v-australia-border-gavaskar-trophy-bgt "Ashwin always more cerebral than emotional, except on his final day")
 
 2h ago
 
-  [](https://www.cricbuzz.com/cricket-news/132821/rain-washes-out-opening-session-on-day-5-after-india-fold-for-260 "Rain washes out opening session on Day 5 after India fold for 260")
+  [](https://www.cricbuzz.com/cricket-news/132831/maharaj-included-for-pakistan-tests "Maharaj included for Pakistan Tests despite acute groin strain")
 
-[Rain washes out opening session on Day 5 after India fold for 260](https://www.cricbuzz.com/cricket-news/132821/rain-washes-out-opening-session-on-day-5-after-india-fold-for-260 "Rain washes out opening session on Day 5 after India fold for 260")
+[Maharaj included for Pakistan Tests despite acute groin strain](https://www.cricbuzz.com/cricket-news/132831/maharaj-included-for-pakistan-tests "Maharaj included for Pakistan Tests despite acute groin strain")
 
-5h ago
+2h ago
 
-  [](https://www.cricbuzz.com/cricket-news/132820/mitchell-santner-officially-appointed-new-zealands-white-ball-captain "Mitchell Santner officially appointed New Zealand's full-time white-ball captain")
+  [](https://www.cricbuzz.com/cricket-news/132830/the-numbers-story-unpacking-the-greatness-of-r-ashwin "The Numbers Story: Unpacking the greatness of R Ashwin")
 
-[Mitchell Santner officially appointed New Zealand's full-time white-ball captain](https://www.cricbuzz.com/cricket-news/132820/mitchell-santner-officially-appointed-new-zealands-white-ball-captain "Mitchell Santner officially appointed New Zealand's full-time white-ball captain")
+[The Numbers Story: Unpacking the greatness of R Ashwin](https://www.cricbuzz.com/cricket-news/132830/the-numbers-story-unpacking-the-greatness-of-r-ashwin "The Numbers Story: Unpacking the greatness of R Ashwin")
 
-7h ago
+4h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132829/i-always-have-the-positive-thinking-shamim-hossain "I always think positively: Shamim Hossain ")
+
+[I always think positively: Shamim Hossain](https://www.cricbuzz.com/cricket-news/132829/i-always-have-the-positive-thinking-shamim-hossain "I always think positively: Shamim Hossain ")
+
+4h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
