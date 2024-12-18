@@ -127,6 +127,8 @@
                 * [Peer-to-Peer Fundraising](https://www.bonterratech.com/tag/peer-to-peer-fundraising)
         * * [CONNECT](#)
                 * [Contact Support](https://www.bonterratech.com/support)
+* [Login](https://www.everyaction.com/login)
+* [Request a Demo](https://www.everyaction.com/request-a-demo)
 
 [Login](https://www.bonterratech.com/login) ![Search](https://www.bonterratech.com/wp-content/themes/bonterra/_images/search-icon.svg) [Request a demo](https://www.everyaction.com/request-a-demo)
 
