@@ -32,7 +32,7 @@
     * [Wire Free Accessories](https://nightowlsp.com/collections/wire-free-accessories)
     
 * [Accessories](https://nightowlsp.com/collections/accessories)
-* [Sale](https://nightowlsp.com/collections/holiday-savings-event)
+* [Sale](https://nightowlsp.com/collections/end-of-year-sale)
 * [Refurbished](https://nightowlsp.com/collections/refurbished)
 * [Protect Cloud](https://protectcloud.nightowlsp.com/)
 * [Support](https://support.nightowlsp.com/hc/en-us)
@@ -66,7 +66,7 @@
     * [Wire Free Accessories](https://nightowlsp.com/collections/wire-free-accessories)
     
 * [Accessories](https://nightowlsp.com/collections/accessories)
-* [Sale](https://nightowlsp.com/collections/holiday-savings-event)
+* [Sale](https://nightowlsp.com/collections/end-of-year-sale)
 * [Refurbished](https://nightowlsp.com/collections/refurbished)
 * [Protect Cloud](https://protectcloud.nightowlsp.com/)
 * [Support](https://support.nightowlsp.com/hc/en-us)
@@ -324,7 +324,7 @@ Products
 * [Wireless](https://nightowlsp.com/collections/wireless-systems)
 * [Wire Free](https://nightowlsp.com/collections/wire-free-systems)
 * [Accessories](https://nightowlsp.com/collections/accessories)
-* [Sale](https://nightowlsp.com/collections/fall-savings-event)
+* [Sale](https://nightowlsp.com/collections/end-of-year-sale)
 * [Refurb](https://nightowlsp.com/collections/refurbished)
 
 Company
