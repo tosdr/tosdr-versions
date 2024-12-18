@@ -17,7 +17,7 @@
 
 #### メニュー
 
-* [登録](https://www.wikihouse.com/pukiwiki/index.php?%C5%D0%CF%BF "登録 (5791d)")
+* [登録](https://www.wikihouse.com/pukiwiki/index.php?%C5%D0%CF%BF "登録 (5792d)")
 * [利用規約](https://www.wikihouse.com/pukiwiki/index.php?%CD%F8%CD%D1%B5%AC%CC%F3 "利用規約 (652d)")
 * [不具合報告](https://www.wikihouse.com/pukiwiki/index.php?%C9%D4%B6%F1%B9%E7%CA%F3%B9%F0 "不具合報告 (646d)")
 * [はじめてのPukiWiki](http://pukiwiki.sourceforge.jp/?%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%AEPukiWiki)
@@ -27,24 +27,28 @@
 
 #### [最新更新Wikiリスト](https://www.wikihouse.com/pukiwiki/index.php?RecentAll "RecentAll (4231d)")
 
-1. [グルーヴコースター Wiki](https://www.wikihouse.com/groove/index.php)
-2. [頭文字D THE ARCADE／ARCADE STAGE wiki](https://www.wikihouse.com/iniDas/index.php)
-3. [3DS・学タブフィルタリング回避サイト](https://www.wikihouse.com/3DSnGakutab/index.php)
-4. [keyakimajo](https://www.wikihouse.com/keyakimajo/index.php)
-5. [keichiba](https://www.wikihouse.com/keichiba/index.php)
-6. [Kantetsu1931](https://www.wikihouse.com/Kantetsu1931/index.php)
-7. [ginyagura](https://www.wikihouse.com/ginyagura/index.php)
-8. [秘密三国志NET Wiki](https://www.wikihouse.com/may/index.php)
-9. [スマブラwiki](https://www.wikihouse.com/suma/index.php)
-10. [タイコノスピカ](https://www.wikihouse.com/TaikonoSpica/index.php)
+1. [Kantetsu1931](https://www.wikihouse.com/Kantetsu1931/index.php)
+2. [popnwakaba](https://www.wikihouse.com/popnwakaba/index.php)
+3. [sakamichi](https://www.wikihouse.com/sakamichi/index.php)
+4. [グルーヴコースター Wiki](https://www.wikihouse.com/groove/index.php)
+5. [頭文字D THE ARCADE／ARCADE STAGE wiki](https://www.wikihouse.com/iniDas/index.php)
+6. [3DS・学タブフィルタリング回避サイト](https://www.wikihouse.com/3DSnGakutab/index.php)
+7. [keyakimajo](https://www.wikihouse.com/keyakimajo/index.php)
+8. [keichiba](https://www.wikihouse.com/keichiba/index.php)
+9. [ginyagura](https://www.wikihouse.com/ginyagura/index.php)
+10. [秘密三国志NET Wiki](https://www.wikihouse.com/may/index.php)
 
-#### Hot Wiki 5件
+#### Hot Wiki 9件
 
-1. [.punto(72)](https://www.wikihouse.com/punto/index.php)
-2. [三国志大戦wiki(13)](https://www.wikihouse.com/sangokushi/index.php)
-3. [グルーヴコースター Wiki(11)](https://www.wikihouse.com/groove/index.php)
-4. [Kantetsu1931(10)](https://www.wikihouse.com/Kantetsu1931/index.php)
-5. [頭文字D THE ARCADE／ARCADE STAGE wiki(7)](https://www.wikihouse.com/iniDas/index.php)
+1. [.punto(54)](https://www.wikihouse.com/punto/index.php)
+2. [GallopRacer Wiki(31)](https://www.wikihouse.com/gallop/index.php)
+3. [lostmagic(17)](https://www.wikihouse.com/lostmagic/index.php)
+4. [三国志大戦wiki(12)](https://www.wikihouse.com/sangokushi/index.php)
+5. [Kantetsu1931(11)](https://www.wikihouse.com/Kantetsu1931/index.php)
+6. [頭文字D THE ARCADE／ARCADE STAGE wiki(8)](https://www.wikihouse.com/iniDas/index.php)
+7. [ginyagura(5)](https://www.wikihouse.com/ginyagura/index.php)
+8. [ぼくのかいぞうしたさいこうの3.12wiki(5)](https://www.wikihouse.com/bokuno/index.php)
+9. [Game Maker まとめWiki(5)](https://www.wikihouse.com/GameMaker/index.php)
 
 #### 最新の20件
 
@@ -58,7 +62,7 @@
 
 **2024-11-15**
 
-* [不具合報告/442](https://www.wikihouse.com/pukiwiki/index.php?%C9%D4%B6%F1%B9%E7%CA%F3%B9%F0%2F442 "不具合報告/442 (33d)")
+* [不具合報告/442](https://www.wikihouse.com/pukiwiki/index.php?%C9%D4%B6%F1%B9%E7%CA%F3%B9%F0%2F442 "不具合報告/442 (34d)")
 
 **2024-09-27**
 
@@ -92,18 +96,23 @@
 * [不具合報告/263](https://www.wikihouse.com/pukiwiki/index.php?%C9%D4%B6%F1%B9%E7%CA%F3%B9%F0%2F263 "不具合報告/263 (467d)")
 * [不具合報告/295](https://www.wikihouse.com/pukiwiki/index.php?%C9%D4%B6%F1%B9%E7%CA%F3%B9%F0%2F295 "不具合報告/295 (467d)")
 
-#### 今日の5件
+#### 今日の10件
 
-* [FrontPage(183)](https://www.wikihouse.com/pukiwiki/index.php?FrontPage "FrontPage (2837d)")
-* [RecentDeleted(1)](https://www.wikihouse.com/pukiwiki/index.php?RecentDeleted "RecentDeleted (3d)")
-* [追加プラグイン/exlinkプラグイン(1)](https://www.wikihouse.com/pukiwiki/index.php?%C4%C9%B2%C3%A5%D7%A5%E9%A5%B0%A5%A4%A5%F3%2Fexlink%A5%D7%A5%E9%A5%B0%A5%A4%A5%F3 "追加プラグイン/exlinkプラグイン (5975d)")
-* [不具合報告/150(1)](https://www.wikihouse.com/pukiwiki/index.php?%C9%D4%B6%F1%B9%E7%CA%F3%B9%F0%2F150 "不具合報告/150 (534d)")
-* [不具合報告/350(1)](https://www.wikihouse.com/pukiwiki/index.php?%C9%D4%B6%F1%B9%E7%CA%F3%B9%F0%2F350 "不具合報告/350 (467d)")
+* [FrontPage(971)](https://www.wikihouse.com/pukiwiki/index.php?FrontPage "FrontPage (2837d)")
+* [RecentDeleted(3)](https://www.wikihouse.com/pukiwiki/index.php?RecentDeleted "RecentDeleted (3d)")
+* [SandBox(2)](https://www.wikihouse.com/pukiwiki/index.php?SandBox "SandBox (5d)")
+* 利用規約(2)
+* [WikiNews(1)](https://www.wikihouse.com/pukiwiki/index.php?WikiNews "WikiNews (5976d)")
+* [追加プラグイン(1)](https://www.wikihouse.com/pukiwiki/index.php?%C4%C9%B2%C3%A5%D7%A5%E9%A5%B0%A5%A4%A5%F3 "追加プラグイン (648d)")
+* [追加プラグイン/aliasプラグイン(1)](https://www.wikihouse.com/pukiwiki/index.php?%C4%C9%B2%C3%A5%D7%A5%E9%A5%B0%A5%A4%A5%F3%2Falias%A5%D7%A5%E9%A5%B0%A5%A4%A5%F3 "追加プラグイン/aliasプラグイン (5300d)")
+* [PukiWiki/1.4/Manual/Plugin/O-R(1)](https://www.wikihouse.com/pukiwiki/index.php?PukiWiki%2F1.4%2FManual%2FPlugin%2FO-R "PukiWiki/1.4/Manual/Plugin/O-R (6893d)")
+* [PukiWiki/1.4/Manual/Plugin(1)](https://www.wikihouse.com/pukiwiki/index.php?PukiWiki%2F1.4%2FManual%2FPlugin "PukiWiki/1.4/Manual/Plugin (6893d)")
+* [Help(1)](https://www.wikihouse.com/pukiwiki/index.php?Help "Help (5976d)")
 
-* counter: 18257
-* today: 1
+* counter: 18259
+* today: 3
 * yesterday: 6
-* online: 4
+* online: 5
 
 [WikiHouse](https://www.wikihouse.com/pukiwiki/index.php?WikiHouse "WikiHouse (420d)") の Wiki サポートサービスを利用される前に必ずお読みください。
 
@@ -133,7 +142,7 @@
 利用契約 [†](https://www.wikihouse.com/pukiwiki/index.php?%CD%F8%CD%D1%B5%AC%CC%F3#o6a9ee7a "o6a9ee7a")
 ---------------------------------------------------------------------------------------------------
 
-1. メンバーが [WikiHouse](https://www.wikihouse.com/pukiwiki/index.php?WikiHouse "WikiHouse (420d)") に必要事項を通知の上、[登録](https://www.wikihouse.com/pukiwiki/index.php?%C5%D0%CF%BF "登録 (5791d)")申し込みを行い、[WikiHouse](https://www.wikihouse.com/pukiwiki/index.php?WikiHouse "WikiHouse (420d)") が承認してメンバーに開設したWikiの URL を通知し、メンバーがそれを受け取り確定した時点で成立するものとする。
+1. メンバーが [WikiHouse](https://www.wikihouse.com/pukiwiki/index.php?WikiHouse "WikiHouse (420d)") に必要事項を通知の上、[登録](https://www.wikihouse.com/pukiwiki/index.php?%C5%D0%CF%BF "登録 (5792d)")申し込みを行い、[WikiHouse](https://www.wikihouse.com/pukiwiki/index.php?WikiHouse "WikiHouse (420d)") が承認してメンバーに開設したWikiの URL を通知し、メンバーがそれを受け取り確定した時点で成立するものとする。
 2. [WikiHouse](https://www.wikihouse.com/pukiwiki/index.php?WikiHouse "WikiHouse (420d)") の判断によって、申し込みを承諾しない場合があるものとする。この場合、その理由をメンバーに報告する必要はないものとする。
 3. [WikiHouse](https://www.wikihouse.com/pukiwiki/index.php?WikiHouse "WikiHouse (420d)") はメンバーに対し、事前に通知することなく、サービスの変更・廃止をできるものとする。これにより、メンバーが被る一切の損害に対して WikiRoom[?](https://www.wikihouse.com/pukiwiki/index.php?cmd=edit&page=WikiRoom&refer=%CD%F8%CD%D1%B5%AC%CC%F3) は一切の責を負わないものとする。
 4. 本サービスは無料である。ただし、メンバーは [WikiHouse](https://www.wikihouse.com/pukiwiki/index.php?WikiHouse "WikiHouse (420d)") が Wiki の各ページにバナー広告を掲載することを承諾するものとする。
@@ -193,7 +202,7 @@
 
 #### メニュー
 
-* [登録](https://www.wikihouse.com/pukiwiki/index.php?%C5%D0%CF%BF "登録 (5791d)")
+* [登録](https://www.wikihouse.com/pukiwiki/index.php?%C5%D0%CF%BF "登録 (5792d)")
 * [利用規約](https://www.wikihouse.com/pukiwiki/index.php?%CD%F8%CD%D1%B5%AC%CC%F3 "利用規約 (652d)")
 * [不具合報告](https://www.wikihouse.com/pukiwiki/index.php?%C9%D4%B6%F1%B9%E7%CA%F3%B9%F0 "不具合報告 (646d)")
 * [はじめてのPukiWiki](http://pukiwiki.sourceforge.jp/?%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%AEPukiWiki)
@@ -203,24 +212,28 @@
 
 #### [最新更新Wikiリスト](https://www.wikihouse.com/pukiwiki/index.php?RecentAll "RecentAll (4231d)")
 
-1. [グルーヴコースター Wiki](https://www.wikihouse.com/groove/index.php)
-2. [頭文字D THE ARCADE／ARCADE STAGE wiki](https://www.wikihouse.com/iniDas/index.php)
-3. [3DS・学タブフィルタリング回避サイト](https://www.wikihouse.com/3DSnGakutab/index.php)
-4. [keyakimajo](https://www.wikihouse.com/keyakimajo/index.php)
-5. [keichiba](https://www.wikihouse.com/keichiba/index.php)
-6. [Kantetsu1931](https://www.wikihouse.com/Kantetsu1931/index.php)
-7. [ginyagura](https://www.wikihouse.com/ginyagura/index.php)
-8. [秘密三国志NET Wiki](https://www.wikihouse.com/may/index.php)
-9. [スマブラwiki](https://www.wikihouse.com/suma/index.php)
-10. [タイコノスピカ](https://www.wikihouse.com/TaikonoSpica/index.php)
+1. [Kantetsu1931](https://www.wikihouse.com/Kantetsu1931/index.php)
+2. [popnwakaba](https://www.wikihouse.com/popnwakaba/index.php)
+3. [sakamichi](https://www.wikihouse.com/sakamichi/index.php)
+4. [グルーヴコースター Wiki](https://www.wikihouse.com/groove/index.php)
+5. [頭文字D THE ARCADE／ARCADE STAGE wiki](https://www.wikihouse.com/iniDas/index.php)
+6. [3DS・学タブフィルタリング回避サイト](https://www.wikihouse.com/3DSnGakutab/index.php)
+7. [keyakimajo](https://www.wikihouse.com/keyakimajo/index.php)
+8. [keichiba](https://www.wikihouse.com/keichiba/index.php)
+9. [ginyagura](https://www.wikihouse.com/ginyagura/index.php)
+10. [秘密三国志NET Wiki](https://www.wikihouse.com/may/index.php)
 
-#### Hot Wiki 5件
+#### Hot Wiki 9件
 
-1. [.punto(72)](https://www.wikihouse.com/punto/index.php)
-2. [三国志大戦wiki(13)](https://www.wikihouse.com/sangokushi/index.php)
-3. [グルーヴコースター Wiki(11)](https://www.wikihouse.com/groove/index.php)
-4. [Kantetsu1931(10)](https://www.wikihouse.com/Kantetsu1931/index.php)
-5. [頭文字D THE ARCADE／ARCADE STAGE wiki(7)](https://www.wikihouse.com/iniDas/index.php)
+1. [.punto(54)](https://www.wikihouse.com/punto/index.php)
+2. [GallopRacer Wiki(31)](https://www.wikihouse.com/gallop/index.php)
+3. [lostmagic(17)](https://www.wikihouse.com/lostmagic/index.php)
+4. [三国志大戦wiki(12)](https://www.wikihouse.com/sangokushi/index.php)
+5. [Kantetsu1931(11)](https://www.wikihouse.com/Kantetsu1931/index.php)
+6. [頭文字D THE ARCADE／ARCADE STAGE wiki(8)](https://www.wikihouse.com/iniDas/index.php)
+7. [ginyagura(5)](https://www.wikihouse.com/ginyagura/index.php)
+8. [ぼくのかいぞうしたさいこうの3.12wiki(5)](https://www.wikihouse.com/bokuno/index.php)
+9. [Game Maker まとめWiki(5)](https://www.wikihouse.com/GameMaker/index.php)
 
 #### 最新の20件
 
@@ -234,7 +247,7 @@
 
 **2024-11-15**
 
-* [不具合報告/442](https://www.wikihouse.com/pukiwiki/index.php?%C9%D4%B6%F1%B9%E7%CA%F3%B9%F0%2F442 "不具合報告/442 (33d)")
+* [不具合報告/442](https://www.wikihouse.com/pukiwiki/index.php?%C9%D4%B6%F1%B9%E7%CA%F3%B9%F0%2F442 "不具合報告/442 (34d)")
 
 **2024-09-27**
 
@@ -268,19 +281,23 @@
 * [不具合報告/263](https://www.wikihouse.com/pukiwiki/index.php?%C9%D4%B6%F1%B9%E7%CA%F3%B9%F0%2F263 "不具合報告/263 (467d)")
 * [不具合報告/295](https://www.wikihouse.com/pukiwiki/index.php?%C9%D4%B6%F1%B9%E7%CA%F3%B9%F0%2F295 "不具合報告/295 (467d)")
 
-#### 今日の6件
+#### 今日の10件
 
-* [FrontPage(183)](https://www.wikihouse.com/pukiwiki/index.php?FrontPage "FrontPage (2837d)")
-* [RecentDeleted(1)](https://www.wikihouse.com/pukiwiki/index.php?RecentDeleted "RecentDeleted (3d)")
-* [追加プラグイン/exlinkプラグイン(1)](https://www.wikihouse.com/pukiwiki/index.php?%C4%C9%B2%C3%A5%D7%A5%E9%A5%B0%A5%A4%A5%F3%2Fexlink%A5%D7%A5%E9%A5%B0%A5%A4%A5%F3 "追加プラグイン/exlinkプラグイン (5975d)")
-* [不具合報告/150(1)](https://www.wikihouse.com/pukiwiki/index.php?%C9%D4%B6%F1%B9%E7%CA%F3%B9%F0%2F150 "不具合報告/150 (534d)")
-* 利用規約(1)
-* [不具合報告/350(1)](https://www.wikihouse.com/pukiwiki/index.php?%C9%D4%B6%F1%B9%E7%CA%F3%B9%F0%2F350 "不具合報告/350 (467d)")
+* [FrontPage(971)](https://www.wikihouse.com/pukiwiki/index.php?FrontPage "FrontPage (2837d)")
+* [RecentDeleted(3)](https://www.wikihouse.com/pukiwiki/index.php?RecentDeleted "RecentDeleted (3d)")
+* 利用規約(3)
+* [SandBox(2)](https://www.wikihouse.com/pukiwiki/index.php?SandBox "SandBox (5d)")
+* [WikiNews(1)](https://www.wikihouse.com/pukiwiki/index.php?WikiNews "WikiNews (5976d)")
+* [追加プラグイン(1)](https://www.wikihouse.com/pukiwiki/index.php?%C4%C9%B2%C3%A5%D7%A5%E9%A5%B0%A5%A4%A5%F3 "追加プラグイン (648d)")
+* [追加プラグイン/aliasプラグイン(1)](https://www.wikihouse.com/pukiwiki/index.php?%C4%C9%B2%C3%A5%D7%A5%E9%A5%B0%A5%A4%A5%F3%2Falias%A5%D7%A5%E9%A5%B0%A5%A4%A5%F3 "追加プラグイン/aliasプラグイン (5300d)")
+* [PukiWiki/1.4/Manual/Plugin/O-R(1)](https://www.wikihouse.com/pukiwiki/index.php?PukiWiki%2F1.4%2FManual%2FPlugin%2FO-R "PukiWiki/1.4/Manual/Plugin/O-R (6893d)")
+* [PukiWiki/1.4/Manual/Plugin(1)](https://www.wikihouse.com/pukiwiki/index.php?PukiWiki%2F1.4%2FManual%2FPlugin "PukiWiki/1.4/Manual/Plugin (6893d)")
+* [Help(1)](https://www.wikihouse.com/pukiwiki/index.php?Help "Help (5976d)")
 
-* counter: 18257
-* today: 1
+* counter: 18259
+* today: 3
 * yesterday: 6
-* online: 4
+* online: 5
 
 * * *
 
@@ -298,6 +315,6 @@ Last-modified: 2023-03-08 (水) 00:38:20 (652d)
 Site admin: [WikiHouse - 無料レンタルWikiサービス](https://www.wikihouse.com/pukiwiki) : [WikiHouseランキング](https://www.wikihouse.com/pukiwiki/index.php?Wiki%20%A5%E9%A5%F3%A5%AD%A5%F3%A5%B0)
 
 **PukiWiki 1.4.7** Copyright © 2001-2006 [PukiWiki Developers Team](http://pukiwiki.sourceforge.jp/). License is [GPL](http://www.gnu.org/licenses/gpl.html).  
-Based on "PukiWiki" 1.3 by [yu-ji](http://factage.com/yu-ji/). Powered by PHP 5.5.9-1ubuntu4.29. HTML convert time: 0.024 sec.
+Based on "PukiWiki" 1.3 by [yu-ji](http://factage.com/yu-ji/). Powered by PHP 5.5.9-1ubuntu4.29. HTML convert time: 0.026 sec.
 
-counter: 18257, today: 1, yesterday: 6
+counter: 18259, today: 3, yesterday: 6
