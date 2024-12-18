@@ -15,56 +15,64 @@
     
     Trending
     
-    * [France](https://www.euronews.com/tag/france)
-    * [Russia](https://www.euronews.com/tag/russia)
-    * [Mayotte](https://www.euronews.com/tag/mayotte)
     * [EU Policy](https://www.euronews.com/tag/eu-policy)
-    * [Donald Trump](https://www.euronews.com/tag/donald-trump)
-    * [Cyclone](https://www.euronews.com/tag/cyclone)
+    * [Artificial intelligence](https://www.euronews.com/tag/artificial-intelligence)
+    * [Syria](https://www.euronews.com/tag/syria)
+    * [Christmas](https://www.euronews.com/tag/christmas)
+    * [United Kingdom](https://www.euronews.com/tag/united-kingdom)
+    * [Russia](https://www.euronews.com/tag/russia)
     
     * * *
     
     Latest stories
     
-    [!['Kneecap' director Rich Peppiatt talks to Euronews Culture about his film](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "'Kneecap' director Rich Peppiatt talks to Euronews Culture about his film")
+    [![Grant Douglas pauses while evacuating as the Park Fire jumps Highway 36 near Paynes Creek in Tehama County, California.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Grant Douglas pauses while evacuating as the Park Fire jumps Highway 36 near Paynes Creek in Tehama County, California.")
     
-    !['Kneecap' director Rich Peppiatt talks to Euronews Culture about his film](https://static.euronews.com/articles/stories/08/91/41/56/368x207_cmsv2_f74ce69e-8868-5594-b59f-546309a9a2ac-8914156.jpg "'Kneecap' director Rich Peppiatt talks to Euronews Culture about his film")](https://www.euronews.com/culture/2024/12/17/kneecap-director-rich-peppiatt-the-hegemony-of-english-is-making-people-more-monolingual)
-    
-    Now playing Next
-    
-    [Cinema](https://www.prod.euronews.com/culture/culture-series/cinema)
-    
-    ### ['Kneecap' director on hip-hop, drugs and preserving Belfast culture](https://www.euronews.com/culture/2024/12/17/kneecap-director-rich-peppiatt-the-hegemony-of-english-is-making-people-more-monolingual)
-    
-    [![Damaged houses are seen in Mamoudzou, in the French Indian Ocean territory of Mayotte.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Damaged houses are seen in Mamoudzou, in the French Indian Ocean territory of Mayotte.")
-    
-    ![Damaged houses are seen in Mamoudzou, in the French Indian Ocean territory of Mayotte.](https://static.euronews.com/articles/stories/08/91/68/50/368x207_cmsv2_49409769-ed83-5224-baae-9d38ae392d5f-8916850.jpg "Damaged houses are seen in Mamoudzou, in the French Indian Ocean territory of Mayotte.")](https://www.euronews.com/green/2024/12/17/cyclone-chido-are-european-countries-throwing-their-overseas-territories-to-the-climate-wo)
+    ![Grant Douglas pauses while evacuating as the Park Fire jumps Highway 36 near Paynes Creek in Tehama County, California.](https://static.euronews.com/articles/stories/08/91/69/04/368x207_cmsv2_4d6a2246-9c9f-531c-a776-c6b41557c486-8916904.jpg "Grant Douglas pauses while evacuating as the Park Fire jumps Highway 36 near Paynes Creek in Tehama County, California.")](https://www.euronews.com/green/2024/12/18/from-destruction-to-deadly-heat-photojournalists-capture-the-reality-of-climate-change-in-)
     
     Now playing Next
     
-    [Climate](https://www.prod.euronews.com/green/climate)
+    [Climate](https://www.euronews.com/green/climate)
     
-    ### [Is climate change to blame for deadly Cyclone Chido?](https://www.euronews.com/green/2024/12/17/cyclone-chido-are-european-countries-throwing-their-overseas-territories-to-the-climate-wo)
+    ### [In pictures: The impact of climate change in 2024](https://www.euronews.com/green/2024/12/18/from-destruction-to-deadly-heat-photojournalists-capture-the-reality-of-climate-change-in-)
     
-    [![Landslide near an international shipping terminal in Port Vila](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Landslide near an international shipping terminal in Port Vila")
+    [![How can the European Union tackle ‘brain drain’?](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "How can the European Union tackle ‘brain drain’?")
     
-    ![Landslide near an international shipping terminal in Port Vila](https://static.euronews.com/articles/stories/08/91/54/08/368x207_cmsv2_fa037d1e-d50a-5381-a0ba-52042837851f-8915408.jpg "Landslide near an international shipping terminal in Port Vila")](https://www.euronews.com/video/2024/12/17/watch-vanuatu-shaken-by-73-earthquake)
-    
-    Now playing Next
-    
-    [No Comment](https://www.euronews.com/nocomment)
-    
-    ### [Watch: Vanuatu shaken by 7.3 earthquake](https://www.euronews.com/video/2024/12/17/watch-vanuatu-shaken-by-73-earthquake)
-    
-    [![Tom Cruise gets a top US Navy honour for boosting the military with screen roles ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Tom Cruise gets a top US Navy honour for boosting the military with screen roles ")
-    
-    ![Tom Cruise gets a top US Navy honour for boosting the military with screen roles ](https://static.euronews.com/articles/stories/08/91/69/96/368x207_cmsv2_8caef360-2d1d-5927-bd90-4acc16a36b00-8916996.jpg "Tom Cruise gets a top US Navy honour for boosting the military with screen roles ")](https://www.euronews.com/culture/2024/12/17/tom-cruise-gets-top-us-navy-honour-for-boosting-the-military-with-screen-roles)
+    ![How can the European Union tackle ‘brain drain’?](https://static.euronews.com/articles/stories/08/88/95/46/368x207_cmsv2_93351e13-725e-5742-9c43-5cfa125f5222-8889546.jpg "How can the European Union tackle ‘brain drain’?")](https://www.euronews.com/my-europe/2024/12/18/how-can-the-european-union-tackle-brain-drain)
     
     Now playing Next
     
-    [Culture news](https://www.prod.euronews.com/culture/culture-news)
+    [Europeans' Stories](https://www.euronews.com/my-europe/my-europe-series/europeans-stories)
     
-    ### [Tom Cruise gets top US Navy honour in London](https://www.euronews.com/culture/2024/12/17/tom-cruise-gets-top-us-navy-honour-for-boosting-the-military-with-screen-roles)
+    ### [How can the European Union tackle ‘brain drain’?](https://www.euronews.com/my-europe/2024/12/18/how-can-the-european-union-tackle-brain-drain)
+    
+    [![Kazakhstan's eGov revolution: How digital services are transforming the economy and society](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Kazakhstan's eGov revolution: How digital services are transforming the economy and society")
+    
+    ![Kazakhstan's eGov revolution: How digital services are transforming the economy and society](https://static.euronews.com/articles/stories/08/90/42/10/368x207_cmsv2_dcc32a7b-8312-52fc-a35e-c64477e85e19-8904210.jpg "Kazakhstan's eGov revolution: How digital services are transforming the economy and society")](https://www.euronews.com/business/2024/12/18/kazakhstans-egov-revolution-how-digital-services-are-transforming-the-economy-and-society)
+    
+    Now playing Next
+    
+    [Business Series](https://www.euronews.com/business/business-series)
+    
+    ### [Kazakhstan's eGov revolution: How digital services are transforming the economy and society](https://www.euronews.com/business/2024/12/18/kazakhstans-egov-revolution-how-digital-services-are-transforming-the-economy-and-society)
+    
+    In partnership with **MDQ**
+    
+    [![From hornets to algae: The growing threat of invasive alien species in Europe](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "From hornets to algae: The growing threat of invasive alien species in Europe")
+    
+    ![From hornets to algae: The growing threat of invasive alien species in Europe](https://static.euronews.com/articles/stories/08/89/56/70/368x207_cmsv2_ed025a3d-daa4-5af8-9333-3940dfb52175-8895670.jpg "From hornets to algae: The growing threat of invasive alien species in Europe")
+    
+    ![Photo Gallery](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2021%2021'%3E%3C/svg%3E)
+    
+    ![Photo Gallery](https://static.euronews.com/website/images/vector/camera.svg)](https://www.euronews.com/green/2024/12/18/from-hornets-to-algae-the-growing-threat-of-invasive-alien-species-in-europe)
+    
+    Now playing Next
+    
+    [The Road To Green](https://www.euronews.com/green/green-series/the-road-to-green)
+    
+    ### [Invasive alien species: Can Europe win the battle?](https://www.euronews.com/green/2024/12/18/from-hornets-to-algae-the-growing-threat-of-invasive-alien-species-in-europe)
+    
+    In partnership with **The European Commission**
     
 * [Europe](https://www.euronews.com/my-europe)
     
@@ -364,62 +372,70 @@ Close menu sidebar
 
 Trending
 
-* [France](https://www.euronews.com/tag/france)
-* [Russia](https://www.euronews.com/tag/russia)
-* [Mayotte](https://www.euronews.com/tag/mayotte)
 * [EU Policy](https://www.euronews.com/tag/eu-policy)
-* [Donald Trump](https://www.euronews.com/tag/donald-trump)
-* [Cyclone](https://www.euronews.com/tag/cyclone)
+* [Artificial intelligence](https://www.euronews.com/tag/artificial-intelligence)
+* [Syria](https://www.euronews.com/tag/syria)
+* [Christmas](https://www.euronews.com/tag/christmas)
+* [United Kingdom](https://www.euronews.com/tag/united-kingdom)
+* [Russia](https://www.euronews.com/tag/russia)
 
 * * *
 
 Latest stories
 
-[!['Kneecap' director Rich Peppiatt talks to Euronews Culture about his film](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "'Kneecap' director Rich Peppiatt talks to Euronews Culture about his film")
+[![Grant Douglas pauses while evacuating as the Park Fire jumps Highway 36 near Paynes Creek in Tehama County, California.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Grant Douglas pauses while evacuating as the Park Fire jumps Highway 36 near Paynes Creek in Tehama County, California.")
 
-!['Kneecap' director Rich Peppiatt talks to Euronews Culture about his film](https://static.euronews.com/articles/stories/08/91/41/56/368x207_cmsv2_f74ce69e-8868-5594-b59f-546309a9a2ac-8914156.jpg "'Kneecap' director Rich Peppiatt talks to Euronews Culture about his film")](https://www.euronews.com/culture/2024/12/17/kneecap-director-rich-peppiatt-the-hegemony-of-english-is-making-people-more-monolingual)
+![Grant Douglas pauses while evacuating as the Park Fire jumps Highway 36 near Paynes Creek in Tehama County, California.](https://static.euronews.com/articles/stories/08/91/69/04/368x207_cmsv2_4d6a2246-9c9f-531c-a776-c6b41557c486-8916904.jpg "Grant Douglas pauses while evacuating as the Park Fire jumps Highway 36 near Paynes Creek in Tehama County, California.")](https://www.euronews.com/green/2024/12/18/from-destruction-to-deadly-heat-photojournalists-capture-the-reality-of-climate-change-in-)
 
 Now playing Next
 
-[Cinema](https://www.prod.euronews.com/culture/culture-series/cinema)
+[Climate](https://www.euronews.com/green/climate)
 
-### ['Kneecap' director on hip-hop, drugs and preserving Belfast culture](https://www.euronews.com/culture/2024/12/17/kneecap-director-rich-peppiatt-the-hegemony-of-english-is-making-people-more-monolingual)
+### [In pictures: The impact of climate change in 2024](https://www.euronews.com/green/2024/12/18/from-destruction-to-deadly-heat-photojournalists-capture-the-reality-of-climate-change-in-)
 
 * * *
 
-[![Damaged houses are seen in Mamoudzou, in the French Indian Ocean territory of Mayotte.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Damaged houses are seen in Mamoudzou, in the French Indian Ocean territory of Mayotte.")
+[![How can the European Union tackle ‘brain drain’?](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "How can the European Union tackle ‘brain drain’?")
 
-![Damaged houses are seen in Mamoudzou, in the French Indian Ocean territory of Mayotte.](https://static.euronews.com/articles/stories/08/91/68/50/368x207_cmsv2_49409769-ed83-5224-baae-9d38ae392d5f-8916850.jpg "Damaged houses are seen in Mamoudzou, in the French Indian Ocean territory of Mayotte.")](https://www.euronews.com/green/2024/12/17/cyclone-chido-are-european-countries-throwing-their-overseas-territories-to-the-climate-wo)
+![How can the European Union tackle ‘brain drain’?](https://static.euronews.com/articles/stories/08/88/95/46/368x207_cmsv2_93351e13-725e-5742-9c43-5cfa125f5222-8889546.jpg "How can the European Union tackle ‘brain drain’?")](https://www.euronews.com/my-europe/2024/12/18/how-can-the-european-union-tackle-brain-drain)
 
 Now playing Next
 
-[Climate](https://www.prod.euronews.com/green/climate)
+[Europeans' Stories](https://www.euronews.com/my-europe/my-europe-series/europeans-stories)
 
-### [Is climate change to blame for deadly Cyclone Chido?](https://www.euronews.com/green/2024/12/17/cyclone-chido-are-european-countries-throwing-their-overseas-territories-to-the-climate-wo)
+### [How can the European Union tackle ‘brain drain’?](https://www.euronews.com/my-europe/2024/12/18/how-can-the-european-union-tackle-brain-drain)
 
 * * *
 
-[![Landslide near an international shipping terminal in Port Vila](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Landslide near an international shipping terminal in Port Vila")
+[![Kazakhstan's eGov revolution: How digital services are transforming the economy and society](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Kazakhstan's eGov revolution: How digital services are transforming the economy and society")
 
-![Landslide near an international shipping terminal in Port Vila](https://static.euronews.com/articles/stories/08/91/54/08/368x207_cmsv2_fa037d1e-d50a-5381-a0ba-52042837851f-8915408.jpg "Landslide near an international shipping terminal in Port Vila")](https://www.euronews.com/video/2024/12/17/watch-vanuatu-shaken-by-73-earthquake)
+![Kazakhstan's eGov revolution: How digital services are transforming the economy and society](https://static.euronews.com/articles/stories/08/90/42/10/368x207_cmsv2_dcc32a7b-8312-52fc-a35e-c64477e85e19-8904210.jpg "Kazakhstan's eGov revolution: How digital services are transforming the economy and society")](https://www.euronews.com/business/2024/12/18/kazakhstans-egov-revolution-how-digital-services-are-transforming-the-economy-and-society)
 
 Now playing Next
 
-[No Comment](https://www.euronews.com/nocomment)
+[Business Series](https://www.euronews.com/business/business-series)
 
-### [Watch: Vanuatu shaken by 7.3 earthquake](https://www.euronews.com/video/2024/12/17/watch-vanuatu-shaken-by-73-earthquake)
+### [Kazakhstan's eGov revolution: How digital services are transforming the economy and society](https://www.euronews.com/business/2024/12/18/kazakhstans-egov-revolution-how-digital-services-are-transforming-the-economy-and-society)
+
+In partnership with **MDQ**
 
 * * *
 
-[![Tom Cruise gets a top US Navy honour for boosting the military with screen roles ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Tom Cruise gets a top US Navy honour for boosting the military with screen roles ")
+[![From hornets to algae: The growing threat of invasive alien species in Europe](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "From hornets to algae: The growing threat of invasive alien species in Europe")
 
-![Tom Cruise gets a top US Navy honour for boosting the military with screen roles ](https://static.euronews.com/articles/stories/08/91/69/96/368x207_cmsv2_8caef360-2d1d-5927-bd90-4acc16a36b00-8916996.jpg "Tom Cruise gets a top US Navy honour for boosting the military with screen roles ")](https://www.euronews.com/culture/2024/12/17/tom-cruise-gets-top-us-navy-honour-for-boosting-the-military-with-screen-roles)
+![From hornets to algae: The growing threat of invasive alien species in Europe](https://static.euronews.com/articles/stories/08/89/56/70/368x207_cmsv2_ed025a3d-daa4-5af8-9333-3940dfb52175-8895670.jpg "From hornets to algae: The growing threat of invasive alien species in Europe")
+
+![Photo Gallery](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2021%2021'%3E%3C/svg%3E)
+
+![Photo Gallery](https://static.euronews.com/website/images/vector/camera.svg)](https://www.euronews.com/green/2024/12/18/from-hornets-to-algae-the-growing-threat-of-invasive-alien-species-in-europe)
 
 Now playing Next
 
-[Culture news](https://www.prod.euronews.com/culture/culture-news)
+[The Road To Green](https://www.euronews.com/green/green-series/the-road-to-green)
 
-### [Tom Cruise gets top US Navy honour in London](https://www.euronews.com/culture/2024/12/17/tom-cruise-gets-top-us-navy-honour-for-boosting-the-military-with-screen-roles)
+### [Invasive alien species: Can Europe win the battle?](https://www.euronews.com/green/2024/12/18/from-hornets-to-algae-the-growing-threat-of-invasive-alien-species-in-europe)
+
+In partnership with **The European Commission**
 
 [Europe](https://www.euronews.com/my-europe)
 
