@@ -3452,7 +3452,7 @@ If you are experiencing issues with the SMS messages from Plaid or our service p
 
 #### IDV Privacy Statement
 
-Effective Date: November 11, 2024
+Last Updated: December 18, 2024
 
 Plaid Inc. and its subsidiaries, Plaid Financial Ltd. and Plaid, B.V. (collectively, “Plaid”, “we”, “our”, or “us”) offer identity verification, fraud detection, and watchlist screening services (the “IDV Services” or “Services”) globally to companies, firms, and financial institutions (“Customers” or “Customer”).
 
@@ -3464,7 +3464,7 @@ When we provide IDV Services to our Customers, our Customers determine the purpo
 
 You should always check the privacy policies of our Customers and direct any queries and requests to exercise your rights with respect to your Personal Information to them.
 
-Some of the IDV Services may be accessed directly by you, including through our websites that reference this policy (collectively “Sites”). In some instances, for example, if you are a Customer or if you wish to make an inquiry about the IDV Services, or if you visit our website, we may be a data controller. We describe how and why we use personal data in these circumstances in Plaid’s applicable privacy policies at LINK www.plaid.com/legal/.
+Some of the IDV Services may be accessed directly by you, including through our websites that reference this policy (collectively “Sites”). In some instances, for example, if you are a Customer or if you wish to make an inquiry about the IDV Services, or if you visit our website, we may be a data controller. We describe how and why we use personal data in these circumstances in Plaid’s applicable privacy policies at [www.plaid.com/legal/](https://plaid.com/legal/).
 
 Plaid will not ever sell your Personal Information from the IDV Services to third parties. Our Customers decide how we use your Personal Information, control their data retention policies, and may specify how long to retain Personal Information and whether and when we share the information we collect, including your Personal Information, with our Customer.
 
@@ -3503,7 +3503,7 @@ We collect data directly from you through industry-standard techniques such as J
 
 **Information used to verify a phone number**: We also may provide a two-factor authentication feature to our Customers to help provide measures to ensure that the person providing information has possession of the phone number associated with that identity. To provide this feature for our Customers, we may use your Personal Information provided by our Customer or by you to send verification codes to you, such as via text messages, which you can then enter to confirm your identity when you use a Customer Site or create a new account with a Customer.
 
-**Information we automatically collect when you visit Customer Sites**: The IDV Services use certain standard tracking technologies to automatically collect certain information about your device when you interact with and use Customer Sites, including behavioral analytics regarding your interaction with the IDV Services, session replays, and how often a device is used to interact with Customer Sites and the IDV Services. Some of this information includes, for example, your IP address and certain unique identifiers, may identify a particular computer or device and may be considered Personal Information in some jurisdictions, including the EU.
+**Information we automatically collect when you visit Customer Sites**: The IDV Services use certain standard tracking technologies to automatically collect certain information about your device when you interact with and use Customer Sites, including behavioral analytics regarding your interaction with the IDV Services, and how often a device is used to interact with Customer Sites and the IDV Services. Some of this information includes, for example, your IP address and certain unique identifiers, may identify a particular computer or device and may be considered Personal Information in some jurisdictions, including the EU.
 
 The types of information we may collect on behalf of our Customers will depend on whether you visit a Customer Site via an API interface, an app using our SDK, or a webpage, including:
 
