@@ -18,8 +18,6 @@ Enjoy 55M+ real IPs in 195+ locations, any city worldwide, and 50 US states.](ht
 
 [Static Residential Proxies
 
-NEW
-
 Equip ISP proxies and enjoy unbeatable speed and stability.](https://smartproxy.com/proxies/static-residential-proxies)
 
 [Mobile Proxies
@@ -36,14 +34,6 @@ Power up your scraping by accessing real-time data from the most challenging web
 
 [Scrapers](https://smartproxy.com/scraping)
 
-[Social Media Scraping API
-
-Extract structured real-time data from various social media platforms.](https://smartproxy.com/scraping/social-media)
-
-[SERP Scraping API
-
-Enjoy a full-stack scraping solution for Google and more.](https://smartproxy.com/scraping/serp)
-
 [eCommerce Scraping API
 
 NEW
@@ -56,9 +46,19 @@ NEW
 
 Collect relevant data from the World Wide Web at scale with a 100% success.](https://smartproxy.com/scraping/web)
 
+[SERP Scraping API
+
+Enjoy a full-stack scraping solution for Google and more.](https://smartproxy.com/scraping/serp)
+
+[Social Media Scraping API
+
+Extract structured real-time data from various social media platforms.](https://smartproxy.com/scraping/social-media)
+
 [Free Tools](https://smartproxy.com/apps)
 
 [X Browser
+
+UPDATED
 
 Juggle multiple accounts at the same time risk-free.](https://smartproxy.com/apps/x-browser)
 
@@ -71,8 +71,6 @@ Bring essential proxy features right into your browser.](https://smartproxy.com/
 Get proxies to your favorite browser with a few clicks](https://smartproxy.com/apps/firefox-proxy-add-on)
 
 [Proxy Checker
-
-NEW
 
 Test lists of proxies to avoid potential errors.](https://smartproxy.com/apps/proxy-checker)
 
@@ -98,8 +96,6 @@ from$2.2/GB](https://smartproxy.com/proxies/residential-proxies/pricing)
 
 [Static Residential Proxies
 
-NEW
-
 from$0.35/IP](https://smartproxy.com/proxies/isp-proxies/pricing)
 
 [Mobile Proxies
@@ -107,8 +103,6 @@ from$0.35/IP](https://smartproxy.com/proxies/isp-proxies/pricing)
 from$6/GB](https://smartproxy.com/proxies/mobile/pricing)
 
 [Datacenter
-
-DEAL
 
 from$0.026/IP](https://smartproxy.com/proxies/datacenter-proxies/pricing)
 
@@ -118,19 +112,11 @@ from$1.6/1K req](https://smartproxy.com/proxies/site-unblocker/pricing)
 
 [Scrapers](https://smartproxy.com/scraping)
 
-[Social Media Scraping API
-
-from$1.2/1K req](https://smartproxy.com/scraping/social-media/pricing)
-
 [eCommerce Scraping API
 
 NEW
 
 from$0.1/1K req](https://smartproxy.com/scraping/ecommerce/pricing)
-
-[SERP Scraping API
-
-from$1.2/1K req](https://smartproxy.com/scraping/serp/pricing)
 
 [Web Scraping API
 
@@ -138,17 +124,25 @@ NEW
 
 from$0.8/1K req](https://smartproxy.com/scraping/web/pricing)
 
+[SERP Scraping API
+
+from$1.2/1K req](https://smartproxy.com/scraping/serp/pricing)
+
+[Social Media Scraping API
+
+from$1.2/1K req](https://smartproxy.com/scraping/social-media/pricing)
+
 [Free Tools](https://smartproxy.com/apps)
 
-[X Browser](https://smartproxy.com/apps/x-browser)
+[X Browser
+
+UPDATED](https://smartproxy.com/apps/x-browser)
 
 [Chrome Proxy Extension](https://smartproxy.com/apps/proxy-extension)
 
 [Firefox Add-on](https://smartproxy.com/apps/firefox-proxy-add-on)
 
-[Proxy Checker
-
-NEW](https://smartproxy.com/apps/proxy-checker)
+[Proxy Checker](https://smartproxy.com/apps/proxy-checker)
 
 Use cases
 
