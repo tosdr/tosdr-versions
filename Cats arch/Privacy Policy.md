@@ -22,7 +22,7 @@ Instance information
 
 Operated by: [Butter Cat](https://catsarch.com/)
 
-Version: [4.0.0](https://github.com/zyachel/libremdb/tree/v4.0.0)
+Version: [4.1.0](https://github.com/zyachel/libremdb/tree/v4.1.0)
 
 Privacy policy last updated on 31 october, 2022.
 
