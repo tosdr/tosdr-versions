@@ -42,7 +42,15 @@ An international digital games and entertainment company. We develop, publish an
 What's New
 ----------
 
-[![](https://static-prod-web.miniclip.com/assets/news/21_PR_Easybrain.jpg)](https://mobilegamer.biz/miniclip-acquires-easybrain-from-embracer-for-1-2bn/)
+[![](https://static-prod-web.miniclip.com/assets/news/22_PR_BestMobilePublisher2024.jpg)](https://www.linkedin.com/company/miniclip/)
+
+### 'Best Mobile Publisher' Winner
+
+Miniclip wins 'Best Mobile Publisher' at the Pocket Gamer Awards 2024.
+
+[See More](https://www.linkedin.com/company/miniclip/)
+
+[![](https://static-prod-web.miniclip.com/assets/news/21_PR_Easybrain_2.jpg)](https://mobilegamer.biz/miniclip-acquires-easybrain-from-embracer-for-1-2bn/)
 
 ### Easybrain joins Miniclip
 
@@ -113,14 +121,6 @@ Miniclip's Chief Creative Officer, Sérgio Varanda, on lasting success of 8 Ball
 James Russell, Chief Product Officer, on iOS UA environment changes and the volatility of crypto markets.
 
 [See More](https://www.linkedin.com/feed/update/urn:li:activity:6887335363598184448/)
-
-[![](https://static-prod-web.miniclip.com/assets/news/GamesForest/11_PR_Game_Forest_Club.jpg)](https://gamesforest.club/blog/miniclip-joins-with-their-president-rob-small-the-games-forest-club/)
-
-### Miniclip joins the Games Forest Club
-
-"I think the games industry has a responsibility to harness the power of play to tackle climate change." Rob Small, Games Forest Club Ambassador.
-
-[See More](https://gamesforest.club/blog/miniclip-joins-with-their-president-rob-small-the-games-forest-club/)
 
 ### Careers
 
