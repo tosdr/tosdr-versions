@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![assez ensoleillé](https://www.watson.ch/fr/_watsui/static/img/weather/w-55.svg)7°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![assez dégagé](https://www.watson.ch/fr/_watsui/static/img/weather/w-55.svg)5°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,25 +54,25 @@
 
 Thèmes du moment
 
-* [France](https://www.watson.ch/fr/france/)
-* [Immobilier](https://www.watson.ch/fr/immobilier/)
 * [Argent](https://www.watson.ch/fr/argent/)
+* [Conseil national](https://www.watson.ch/fr/conseil-national/)
 * [Police](https://www.watson.ch/fr/police/)
-* [Espace](https://www.watson.ch/fr/espace/)
-* [Vaud](https://www.watson.ch/fr/vaud/)
+* [Chine](https://www.watson.ch/fr/chine/)
+* [famille royale britannique](https://www.watson.ch/fr/famille-royale-britannique/)
+* [Fribourg](https://www.watson.ch/fr/fribourg/)
+* [Royaume-Uni](https://www.watson.ch/fr/royaume-uni/)
 * [Politique](https://www.watson.ch/fr/politique/)
-* [Attentat](https://www.watson.ch/fr/attentat/)
-* [impôt](https://www.watson.ch/fr/impot/)
+* [Animaux](https://www.watson.ch/fr/animaux/)
+* [Zurich](https://www.watson.ch/fr/zurich/)
 * [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
-* [Cinéma](https://www.watson.ch/fr/cinema/)
-* [Médias](https://www.watson.ch/fr/medias/)
-* [Japon](https://www.watson.ch/fr/japon/)
-* [Football](https://www.watson.ch/fr/football/)
+* [Royauté](https://www.watson.ch/fr/royaute/)
+* [Agriculture](https://www.watson.ch/fr/agriculture/)
 * [Noël](https://www.watson.ch/fr/noel/)
+* [Conseil des Etats](https://www.watson.ch/fr/conseil-des-etats/)
 * [Justice](https://www.watson.ch/fr/justice/)
-* [Terrorisme](https://www.watson.ch/fr/terrorisme/)
 * [Russie](https://www.watson.ch/fr/russie/)
-* [Syrie](https://www.watson.ch/fr/syrie/)
+* [Terrorisme](https://www.watson.ch/fr/terrorisme/)
+* [ukraine](https://www.watson.ch/fr/ukraine/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
