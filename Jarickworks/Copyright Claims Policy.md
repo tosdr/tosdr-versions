@@ -85,7 +85,7 @@ Designing where you want to go today
 
 [Donate](#donate)
 
-[![freeblr economics the crackdown on price gouging helps no one except politicians and the media](/freeblr/economics/the-crackdown-on-price-gouging-helps-no-one-except-politicians-and-the-media/card.svg)](https://jarick.works/freeblr/economics/the-crackdown-on-price-gouging-helps-no-one-except-politicians-and-the-media)[![freeblr justice on the need for a final arbiter](/freeblr/justice/on-the-need-for-a-final-arbiter/card.svg)](https://jarick.works/freeblr/justice/on-the-need-for-a-final-arbiter)[![freeblr taxation funding public goods six solutions](/freeblr/taxation/funding-public-goods-six-solutions/card.svg)](https://jarick.works/freeblr/taxation/funding-public-goods-six-solutions)[![spekr what is corporatism](/spekr/what-is-corporatism/card.svg)](https://jarick.works/spekr/what-is-corporatism)
+[![freeblr faq do anarcho capitalists favour chaos](/freeblr/faq/do-anarcho-capitalists-favour-chaos/card.svg)](https://jarick.works/freeblr/faq/do-anarcho-capitalists-favour-chaos)[![freeblr environment how environmentalism disdains the poor](/freeblr/environment/how-environmentalism-disdains-the-poor/card.svg)](https://jarick.works/freeblr/environment/how-environmentalism-disdains-the-poor)[![freeblr money the power in money](/freeblr/money/the-power-in-money/card.svg)](https://jarick.works/freeblr/money/the-power-in-money)[![freeblr borders the libertarian immigration conundrum](/freeblr/borders/the-libertarian-immigration-conundrum/card.svg)](https://jarick.works/freeblr/borders/the-libertarian-immigration-conundrum)
 
 [Follow](#follow)
 
