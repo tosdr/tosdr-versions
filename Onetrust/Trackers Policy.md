@@ -172,9 +172,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
+* [Redefining privacy as a business asset: The value of Privacy Automation](https://www.onetrust.com/resources/redefining-privacy-as-a-business-asset-the-value-of-privacy-automation-webinar/)
 * [OneTrust Consent & Preferences Demo Video](https://www.onetrust.com/resources/consent-and-preferences-demo-video/)
 * [Data Privacy Day 2025](https://www.onetrust.com/resources/data-privacy-day-2025-webinar/)
-* [Automating metadata capture: Future-proofing data management for AI](https://www.onetrust.com/resources/automating-metadata-capture-future-proofing-data-management-for-ai-webinar/)
 
 ### Platform
 
