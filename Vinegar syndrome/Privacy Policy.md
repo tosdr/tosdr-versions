@@ -118,6 +118,7 @@
     * [Careers](https://support.vinegarsyndrome.com/en-US/careers-291136)
     * [Help Center](https://support.vinegarsyndrome.com/en-US)
     * [December Partners Only - FAQ](https://support.vinegarsyndrome.com/en-US/december-2024-partners-only---faq-991035)
+    * [Subscriber Week 2025 - FAQ](https://support.vinegarsyndrome.com/en-US/virtual-insanity-subscriber-week-2025---faq-1012694)
 *    [Log In/Create Account](https://vinegarsyndrome.com/account/login)
 
 [Cart 0](https://vinegarsyndrome.com/cart)
@@ -514,6 +515,7 @@
     * [Careers](https://support.vinegarsyndrome.com/en-US/careers-291136)
     * [Help Center](https://support.vinegarsyndrome.com/en-US)
     * [December Partners Only - FAQ](https://support.vinegarsyndrome.com/en-US/december-2024-partners-only---faq-991035)
+    * [Subscriber Week 2025 - FAQ](https://support.vinegarsyndrome.com/en-US/virtual-insanity-subscriber-week-2025---faq-1012694)
 
 Privacy Policy
 ==============
