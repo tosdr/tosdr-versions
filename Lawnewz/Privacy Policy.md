@@ -244,25 +244,25 @@ New York, NY 10001
 Top of Today
 ------------
 
-1. [![Benjamin Cotton and Christina Cotton](https://am24.mediaite.com/lc/cnt/uploads/2024/12/Benjamin-Cotton-and-Christina-Cotton-432x243.jpg)](https://lawandcrime.com/crime/locked-up-for-their-safety-parents-who-insisted-they-caged-their-4-young-children-at-night-for-their-kids-safetyand-well-being-receive-fate/)
+1. [![Left FILE - Associate Justice Samuel Alito joins other members of the Supreme Court as they pose for a new group portrait, at the Supreme Court building in Washington, Oct. 7, 2022. Alito says Congress lacks the power to impose a code of ethics on the Supreme Court, making him the first member of the court to take a public stand against proposals in Congress to toughen ethics rules for justices in response to increased scrutiny of their activities beyond the bench. (AP Photo/J. Scott Applewhite, File); Right:](https://am23.mediaite.com/lc/cnt/uploads/2024/05/Alito-flag-432x243.jpg)](https://lawandcrime.com/supreme-court/corrective-action-has-been-taken-federal-judge-who-called-it-dumb-for-justice-alito-to-fly-upside-down-flag-acted-unethically-court-rules/)
     
-    ### ['Locked up for their safety': Parents who insisted they caged their 4 young children at night for their kids' well-being receive fate](https://lawandcrime.com/crime/locked-up-for-their-safety-parents-who-insisted-they-caged-their-4-young-children-at-night-for-their-kids-safetyand-well-being-receive-fate/)
+    ### ['Corrective action has been taken': Federal judge who called it 'dumb' for Justice Alito to fly upside-down flag acted unethically, court rules](https://lawandcrime.com/supreme-court/corrective-action-has-been-taken-federal-judge-who-called-it-dumb-for-justice-alito-to-fly-upside-down-flag-acted-unethically-court-rules/)
     
-2. [![Teresa Gonzales fell into a manhole cover in Dallas, Texas](https://am21.mediaite.com/lc/cnt/uploads/2024/12/gonzalez-lawsuit-dallas-432x243.jpg)](https://lawandcrime.com/lawsuit/clawing-on-for-her-life-woman-dies-after-falling-in-manhole-as-workers-blame-each-other-for-leaving-cover-off-lawsuit-says/)
+2. [![Inset: Saiy-Yah Allen (Royal Funeral Service, Inc.).](https://am22.mediaite.com/lc/cnt/uploads/2024/12/walmart-432x243.jpg)](https://lawandcrime.com/lawsuit/family-awarded-millions-after-walmart-argues-inattentive-9-year-old-failed-to-use-his-senses-when-he-walked-into-metal-cart-leading-to-his-death/)
     
-    ### ['Clawing on for her life': Woman dies after falling in manhole as workers blame each other for leaving cover off, lawsuit says](https://lawandcrime.com/lawsuit/clawing-on-for-her-life-woman-dies-after-falling-in-manhole-as-workers-blame-each-other-for-leaving-cover-off-lawsuit-says/)
+    ### [Family awarded millions after Walmart argues 'inattentive' 9-year-old 'failed to use his senses' when he walked into metal cart, leading to his death](https://lawandcrime.com/lawsuit/family-awarded-millions-after-walmart-argues-inattentive-9-year-old-failed-to-use-his-senses-when-he-walked-into-metal-cart-leading-to-his-death/)
     
-3. [![Donald Trump, Juan Merchan](https://am22.mediaite.com/lc/cnt/uploads/2024/04/Donald-Trump-Juan-Merchan-432x243.jpg)](https://lawandcrime.com/high-profile/supreme-court-rejects-clarence-thomas-referred-bid-to-lift-donald-trumps-gag-order-in-new-york-hush-money-case/)
+3. [![Joanne Zephir (Office of the State Attorney for the Ninth Judicial Circuit).](https://am22.mediaite.com/lc/cnt/uploads/2024/12/Joanne-Zephir-432x243.png)](https://lawandcrime.com/video/mom-fed-young-daughters-yucky-milk-that-was-actually-bleach-then-strangled-the-3-year-old-when-it-didnt-work-prosecutors/)
     
-    ### [Supreme Court rejects Clarence Thomas-referred bid to lift Donald Trump's gag order in New York hush money case](https://lawandcrime.com/high-profile/supreme-court-rejects-clarence-thomas-referred-bid-to-lift-donald-trumps-gag-order-in-new-york-hush-money-case/)
+    ### [Mom fed young daughters 'yucky' milk that was actually bleach, then strangled the 3-year-old when it didn't work: Prosecutors](https://lawandcrime.com/video/mom-fed-young-daughters-yucky-milk-that-was-actually-bleach-then-strangled-the-3-year-old-when-it-didnt-work-prosecutors/)
     
-4. [![Paul Byron Ferguson (Stranger Stores).](https://am22.mediaite.com/lc/cnt/uploads/2024/12/Paul-Byron-Ferguson-432x243.jpg)](https://lawandcrime.com/video/thought-it-was-just-acting-elder-brother-enforcer-describes-force-feeding-abused-teen-reaper-hot-sauce-leaving-him-to-die-in-small-closet/)
+4. [![Left: U.S. District Judge James Wynn Jr. (NC Newsline/YouTube). Right: President-elect Donald Trump speaking on NBC's ](https://am22.mediaite.com/lc/cnt/uploads/2024/12/wynn-and-trump-432x243.jpg)](https://lawandcrime.com/high-profile/strikes-at-the-heart-of-impartiality-obama-appointed-judge-who-unretired-on-trump-gets-hit-with-judicial-misconduct-complaint-from-gop-group-who-mocks-his-change-of-heart/)
     
-    ### ['Thought it was just acting': Elder brother 'enforcer' describes force-feeding abused teen 'reaper' hot sauce, leaving him to die in small closet](https://lawandcrime.com/video/thought-it-was-just-acting-elder-brother-enforcer-describes-force-feeding-abused-teen-reaper-hot-sauce-leaving-him-to-die-in-small-closet/)
+    ### ['Strikes at the heart of impartiality': Obama-appointed judge who unretired on Trump gets hit with judicial misconduct complaint from GOP group who mocks his 'change of heart'](https://lawandcrime.com/high-profile/strikes-at-the-heart-of-impartiality-obama-appointed-judge-who-unretired-on-trump-gets-hit-with-judicial-misconduct-complaint-from-gop-group-who-mocks-his-change-of-heart/)
     
-5. [![Free speech advocates gather outside of the Supreme Court in Washington, D.C. on March 18, 2024 for the 'rally to reclaim free speech' hosted by Children's Health Defense (Photo by Bryan Olin Dozier/NurPhoto via AP).](https://am21.mediaite.com/lc/cnt/uploads/2024/12/tiktok-pic-432x243.jpg)](https://lawandcrime.com/high-profile/no-legitimate-interest-in-interfering-tiktok-wants-supreme-court-to-block-law-banning-use-in-us/)
+5. [![Background: Charles Himber, circled in yellow. Inset: Himber's selfie inside U.S. Capitol during Jan. 6 riot (DOJ).](https://am24.mediaite.com/lc/cnt/uploads/2024/02/himber-432x243.jpeg)](https://lawandcrime.com/high-profile/youre-not-f-ing-safe-man-who-told-fbi-he-didnt-participate-in-jan-6-riot-but-was-busted-with-selfies-inside-building-headed-to-prison/)
     
-    ### ['No legitimate interest in interfering': TikTok wants Supreme Court to block law banning use in US](https://lawandcrime.com/high-profile/no-legitimate-interest-in-interfering-tiktok-wants-supreme-court-to-block-law-banning-use-in-us/)
+    ### ['You're not f---ing safe': Man who told FBI he didn't participate in Jan. 6 riot but was busted with selfies inside building headed to prison](https://lawandcrime.com/high-profile/youre-not-f-ing-safe-man-who-told-fbi-he-didnt-participate-in-jan-6-riot-but-was-busted-with-selfies-inside-building-headed-to-prison/)
     
 
 [](http://eepurl.com/c89Jdb)
