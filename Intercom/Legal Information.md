@@ -30,7 +30,7 @@ blankblankblankblankblank
     
     Make every agent an instant AI-powered expert.](https://www.intercom.com/support-for-agents/ai-copilot)[Tickets
     
-    Optimized to resolve complex issues efficiently.](https://www.intercom.com/support-for-agents#tickets)
+    Optimized to resolve complex issues efficiently.](https://www.intercom.com/customer-service-platform/tickets)
     
     [For support leaders
     
