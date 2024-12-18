@@ -476,13 +476,21 @@ Revised June 1, 2022
 
   [![Flowers and offerings are placed outside a McDonald's restaurant in Kitakyushu, Fukuoka Prefecture, where two junior high school students were stabbed by a man on Saturday, one fatally.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/16/440394.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Flowers and offerings are placed outside a McDonald's restaurant in Kitakyushu, Fukuoka Prefecture, where two junior high school students were stabbed by a man on Saturday, one fatally.")](https://www.japantimes.co.jp/news/2024/12/16/japan/crime-legal/japan-student-stabbing/ "Fatal knife attack in Kitakyushu McDonald’s took less than 30 seconds")
 
-[Schoolgirl stabbed to death in Kitakyushu](https://www.japantimes.co.jp/news/2024/12/15/japan/crime-legal/fukuoka-mcdonalds-stabbing/ "Schoolgirl stabbed to death in Kitakyushu")
+[New fencing installed to help manage tourists at Mount Fuji photo spot](https://www.japantimes.co.jp/news/2024/12/17/japan/mount-fuji-fence/ "New fencing installed to help manage tourists at Mount Fuji photo spot")
 
-  [![A McDonald's in Kitakyushu where a junior high school student was stabbed to death on Saturday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/15/440205.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A McDonald's in Kitakyushu where a junior high school student was stabbed to death on Saturday")](https://www.japantimes.co.jp/news/2024/12/15/japan/crime-legal/fukuoka-mcdonalds-stabbing/ "Schoolgirl stabbed to death in Kitakyushu")
+  [![New fencing was installed along the sidewalk near a convenience store in Fujikawaguchiko, Yamanashi Prefecture, on Monday to prevent tourists from jaywalking and to improve safety.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/17/440622.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "New fencing was installed along the sidewalk near a convenience store in Fujikawaguchiko, Yamanashi Prefecture, on Monday to prevent tourists from jaywalking and to improve safety.")](https://www.japantimes.co.jp/news/2024/12/17/japan/mount-fuji-fence/ "New fencing installed to help manage tourists at Mount Fuji photo spot")
 
-[MUFG Bank apologizes for theft of ¥1 billion in valuables from deposit boxes](https://www.japantimes.co.jp/news/2024/12/16/japan/crime-legal/mufg-hanzawa-safe/ "MUFG Bank apologizes for theft of ¥1 billion in valuables from deposit boxes")
+[Japan to let investigators go undercover to crack down on _yami baito_](https://www.japantimes.co.jp/news/2024/12/17/japan/crime-legal/yamibaito-first-ministerial-meeting/ "Japan to let investigators go undercover to crack down on yami baito")
 
-  [![MUFG Bank CEO Junichi Hanzawa (left) and other senior officials bow in apology at a news conference in Tokyo's Chiyoda Ward on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/16/440537.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "MUFG Bank CEO Junichi Hanzawa (left) and other senior officials bow in apology at a news conference in Tokyo's Chiyoda Ward on Monday.")](https://www.japantimes.co.jp/news/2024/12/16/japan/crime-legal/mufg-hanzawa-safe/ "MUFG Bank apologizes for theft of ¥1 billion in valuables from deposit boxes")
+  [![A flyer created by the Metropolitan Police Department to warn people about <i>yami baito</i>, or "dark" part-time jobs](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/17/440673.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A flyer created by the Metropolitan Police Department to warn people about <i>yami baito</i>, or "dark" part-time jobs")](https://www.japantimes.co.jp/news/2024/12/17/japan/crime-legal/yamibaito-first-ministerial-meeting/ "Japan to let investigators go undercover to crack down on yami baito")
+
+[Curiosity didn’t kill the meme: Why cats still rule Japanese YouTube](https://www.japantimes.co.jp/life/2024/12/17/digital/youtube-cat-memes-japan/ "Curiosity didn’t kill the meme: Why cats still rule Japanese YouTube")
+
+  [![A screen shot from YouTube user @lagelda shows the simplicity of going viral in Japan in 2024: A cat dancing to EDM in front of a green screen.  ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/17/440431.png?v=3.1&w=400&q=100&f=jpg&t=1.51 "A screen shot from YouTube user @lagelda shows the simplicity of going viral in Japan in 2024: A cat dancing to EDM in front of a green screen.  ")](https://www.japantimes.co.jp/life/2024/12/17/digital/youtube-cat-memes-japan/ "Curiosity didn’t kill the meme: Why cats still rule Japanese YouTube")
+
+[With rare Asia carrier deployment, France seeks greater interoperability](https://www.japantimes.co.jp/news/2024/12/17/asia-pacific/france-navy-indo-pacific/ "With rare Asia carrier deployment, France seeks greater interoperability")
+
+  [![The flight deck of the French Navy's Charles de Gaulle aircraft carrier during a stop at Changi Naval Base in Singapore in May 2019](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/17/440653.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The flight deck of the French Navy's Charles de Gaulle aircraft carrier during a stop at Changi Naval Base in Singapore in May 2019")](https://www.japantimes.co.jp/news/2024/12/17/asia-pacific/france-navy-indo-pacific/ "With rare Asia carrier deployment, France seeks greater interoperability")
 
 [Taiwan’s bullet train a testament to shinkansen’s export potential](https://www.japantimes.co.jp/business/2024/12/17/taiwan-hsr-shinkansen/ "Taiwan’s bullet train a testament to shinkansen’s export potential")
 
@@ -495,14 +503,6 @@ Revised June 1, 2022
 [Women are writing a new chapter in Japanese literature in the 2020s](https://www.japantimes.co.jp/culture/2024/12/15/books/japanese-literature-translation/ "Women are writing a new chapter in Japanese literature in the 2020s")
 
   [!["Butter," Asako Yuzuki’s thrilling novel inspired by a real-life femme fatale, was named the Waterstones Book of the Year in 2024.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/15/440024.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 ""Butter," Asako Yuzuki’s thrilling novel inspired by a real-life femme fatale, was named the Waterstones Book of the Year in 2024.")](https://www.japantimes.co.jp/culture/2024/12/15/books/japanese-literature-translation/ "Women are writing a new chapter in Japanese literature in the 2020s")
-
-[The year that Shohei Ohtani achieved 'yokozuna' status … in the market](https://www.japantimes.co.jp/life/2024/12/13/lifestyle/2024-hit-products-japan/ "The year that Shohei Ohtani achieved 'yokozuna' status … in the market")
-
-  [![Shohei Ohtani's prowress on the diamond translated into an outsized influence on Japan's consumer trends this year.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/13/439307.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Shohei Ohtani's prowress on the diamond translated into an outsized influence on Japan's consumer trends this year.")](https://www.japantimes.co.jp/life/2024/12/13/lifestyle/2024-hit-products-japan/ "The year that Shohei Ohtani achieved 'yokozuna' status … in the market")
-
-[Big franchises and bold voices dominated anime in 2024](https://www.japantimes.co.jp/culture/2024/12/13/film/2024-year-anime-japan/ "Big franchises and bold voices dominated anime in 2024")
-
-  [![In a year of anime hits, Kiyotaka Oshiyama’s “Look Back” stood out from the bunch.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/12/439704.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "In a year of anime hits, Kiyotaka Oshiyama’s “Look Back” stood out from the bunch.")](https://www.japantimes.co.jp/culture/2024/12/13/film/2024-year-anime-japan/ "Big franchises and bold voices dominated anime in 2024")
 
 Podcast
 -------
@@ -565,25 +565,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Weak yen helps Japan’s exports rise ahead of BOJ meet](https://www.japantimes.co.jp/business/2024/12/18/economy/november-exports-rise/ "Weak yen helps Japan’s exports rise ahead of BOJ meet")
+[Iran's Revolutionary Guards extend control of oil exports, sources say](https://www.japantimes.co.jp/news/2024/12/18/world/politics/iran-revolutionary-guards-oil/ "Iran's Revolutionary Guards extend control of oil exports, sources say")
 
-29 mins ago
+8 mins ago
 
-[For Waltz, advising isolationist Trump is a Taiwan-sized challenge](https://www.japantimes.co.jp/news/2024/12/18/world/politics/waltz-trump-taiwan-challenge/ "For Waltz, advising isolationist Trump is a Taiwan-sized challenge")
+[Russia detains suspect in killing of chemical weapons chief Igor Kirillov](https://www.japantimes.co.jp/news/2024/12/18/world/crime-legal/russia-detains-suspect/ "Russia detains suspect in killing of chemical weapons chief Igor Kirillov")
 
-46 mins ago
+33 mins ago
 
-[Tokyo startup's second satellite launch attempt ends in failure](https://www.japantimes.co.jp/news/2024/12/18/japan/science-health/space-one-second-launch-failure/ "Tokyo startup's second satellite launch attempt ends in failure")
+[Honda and Nissan might combine to form world’s No. 3 auto group](https://www.japantimes.co.jp/business/2024/12/18/companies/honda-nissan-merger/ "Honda and Nissan might combine to form world’s No. 3 auto group")
 
-1 hour ago
+55 mins ago
 
-[Ukraine has inflicted casualties on North Korean forces, U.S. says](https://www.japantimes.co.jp/news/2024/12/18/world/ukrainians-north-korean-forces-us/ "Ukraine has inflicted casualties on North Korean forces, U.S. says")
-
-1 hour ago
-
-[Dutch eyeing F-35 Indo-Pacific deployment in 2026, Japan envoy says](https://www.japantimes.co.jp/news/2024/12/18/japan/politics/netherlands-ambassador-japan-interview/ "Dutch eyeing F-35 Indo-Pacific deployment in 2026, Japan envoy says")
+[Government not liable for nuclear evacuations, Osaka High Court rules](https://www.japantimes.co.jp/news/2024/12/18/japan/crime-legal/fukushima-nuclear-plant-evacuees/ "Government not liable for nuclear evacuations, Osaka High Court rules")
 
 1 hour ago
+
+[Japan breaks annual visitor record with 33.4 million in just 11 months](https://www.japantimes.co.jp/news/2024/12/18/japan/annual-visitor-record/ "Japan breaks annual visitor record with 33.4 million in just 11 months")
+
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
