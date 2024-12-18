@@ -32,6 +32,8 @@ Your session has expired due to inactivity.
 
 Welcome
 
+﻿
+
 {{dynamicStrings.Link\_ClearAll}}
 
 * [Job Search](#) Job Search Options expanded Job Search Options collapsed
@@ -70,6 +72,13 @@ Save this search
 
 {{jobsHeading}}
 ---------------
+
+matched for resume
+------------------
+
+{{selectedResume}}
+
+Clear resume match criteria
 
 List Layout Card Layout Table Layout
 
@@ -143,6 +152,10 @@ Featured Job Allows Referral
 Job Details | H&R Block
 =======================
 
+﻿
+
+﻿
+
 {{dynamicStrings.Link\_ClearAll}}
 
 * [Job Search](#) Job Search Options expanded Job Search Options collapsed
@@ -181,6 +194,13 @@ Save this search
 
 {{jobsHeading}}
 ---------------
+
+matched for resume
+------------------
+
+{{selectedResume}}
+
+Clear resume match criteria
 
 List Layout Card Layout Table Layout
 
@@ -226,6 +246,8 @@ Loading
 {{tgSettings.ShowMoreText}}
 
 {{tgSettings.SearchResultsApplyToJobButtonText}} Save {{sendToFriendButtonText}} Refer
+
+﻿
 
 ﻿
 
