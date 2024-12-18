@@ -148,13 +148,13 @@ _This policy was last updated in November 2022 (to expand upon and strengthen cl
 © Letterboxd Limited. Made by [fans](https://letterboxd.com/crew/) in Aotearoa New Zealand. [Film data](https://letterboxd.com/about/film-data/) from [TMDb](https://www.themoviedb.org/). [Mobile site](#).  
 This site is protected by reCAPTCHA and the Google [privacy policy](https://policies.google.com/privacy) and [terms of service](https://policies.google.com/terms) apply.
 
-##### Select your preferred backdrop
+##### Select your preferred poster
 
 Reset poster Reset for item Save changes Save for item
 
 This item only
 
-##### Select your preferred poster
+##### Select your preferred backdrop
 
 Reset poster Reset for item Save changes Save for item
 
