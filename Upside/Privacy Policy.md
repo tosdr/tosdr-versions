@@ -369,4 +369,5 @@ You may contact us as follows:
 
 [![Facebook - Upside](https://cdn.prod.website-files.com/63ff7b678c2b03cb7b788c27/64020535a588fb740382f71c_facebook.svg)](https://www.facebook.com/upside)[![X Logo](https://cdn.prod.website-files.com/63ff7b678c2b03cb7b788c27/64fb8993c68f89dc10c1d218_x-logo.svg)](https://twitter.com/upside)[![Instagram - Upside](https://cdn.prod.website-files.com/63ff7b678c2b03cb7b788c27/6402053583de4f59cb40f1de_instagram.svg)](https://www.instagram.com/upside/)[![Linkedin - Upside](https://cdn.prod.website-files.com/63ff7b678c2b03cb7b788c27/64020535cfe25f11f9e0defb_linkedin.svg)](https://www.linkedin.com/company/upside/)[![Youtube - Upside](https://cdn.prod.website-files.com/63ff7b678c2b03cb7b788c27/6493841e2a733883924eebd0_youtube.svg)](https://www.youtube.com/@upsideapp)
 
-© 2024 Upside Services, Inc — 1701 Rhode Island Ave NW, Washington, DC 20036
+© 2024 Upside Services, Inc — 455 Massachusetts Avenue, NW, Suite 350,  
+Washington, DC 20001
