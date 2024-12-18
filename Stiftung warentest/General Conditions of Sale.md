@@ -635,15 +635,14 @@ Nächste Seite
 
 [Mein Konto](https://www.test.de/Hilfe-5836822-5225600/)
 
-     ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
+     ![](https://cdn.test.de/file/image/66/71/7c8c081d-90e7-4be0-956f-d4b722e530ff-mobile/Chefredaktions_Square;w400.png)
 
 Isabella Eigner  
-Chefredakteurin testMatthias Thieme  
-Chefredakteur Finanztest
+Chefredakteurin
 
 Newsletter Anmeldung: Inside Stiftung Warentest
 
-Jetzt anmelden und vom exklusiven Wissen unserer Chefredakteure profitieren!
+Jetzt anmelden und vom exklusiven Wissen unserer Chefredakteurin profitieren!
 
 Ihre E-Mail-Adresse 
 
@@ -664,12 +663,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Kapital­anleger-Muster­verfahren: Prozess um Schaden­ersatz für Wirecard-Anleger beginnt](https://www.test.de/Kapitalanleger-Musterverfahren-Einer-klagt-fuer-alle-6168143-0/ "Kapitalanleger-Musterverfahren - Prozess um Schadenersatz für Wirecard-Anleger beginnt")
-* [Vorabpauschalen-Rechner: Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds](https://www.test.de/vorabpauschale-rechner-6123332-0/ "Vorabpauschalen-Rechner - Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds")
-* [Fake-Portal: Vorsicht vor der Seite „zins­vergleich“](https://www.test.de/Fake-Portal-Vorsicht-vor-der-Seite-zinsvergleich-6063646-0/ "Fake-Portal - Vorsicht vor der Seite „zinsvergleich“")
-* [Medikamente und Pflege: Was gegen Akne hilft](https://www.test.de/Medikamente-gegen-Akne-6099770-0/ "Medikamente und Pflege - Was gegen Akne hilft")
-* [Rück­ruf Thule Kinder­fahr­radsitz: Schad­stoff im Polster](https://www.test.de/Rueckruf-Thule-Kinderfahrradsitz-Schadstoff-im-Polster-6117327-0/ "Rückruf Thule Kinderfahrradsitz - Schadstoff im Polster")
-* [Back­ofen- und Grill­reiniger im Test: Nur Chemie reicht nicht](https://www.test.de/backofenreiniger-grillreiniger-test-6009513-0/ "Backofen- und Grillreiniger im Test - Nur Chemie reicht nicht")
+* [Rück­ruf Babboe-Lastenfahr­räder: Nun auch Slim Mountain betroffen](https://www.test.de/Lastenfahrraeder-von-Babboe-Verkaufsstopp-und-Rueckruf-wegen-Rahmenbruechen-6098753-0/ "Rückruf Babboe-Lastenfahrräder - Nun auch Slim Mountain betroffen")
+* [Verpackungs­ärger: Kaiser­schmarrn von Bauck­hof](https://www.test.de/Verpackungsaerger-Kaiserschmarrn-von-Bauckhof-5970141-0/ "Verpackungsärger - Kaiserschmarrn von Bauckhof")
+* [Ökobilanz T-Shirts: Lang lebe das T-Shirt!](https://www.test.de/Oekobilanz-T-Shirts-Lang-lebe-das-T-Shirt-5966314-0/ "Ökobilanz T-Shirts - Lang lebe das T-Shirt!")
+* [Kaffee und Gesundheit: So viele Tassen können Sie trinken](https://www.test.de/Wie-gesund-ist-Kaffee-5824772-0/ "Kaffee und Gesundheit - So viele Tassen können Sie trinken")
+* [Kündigung Kfz-Versicherung: Kfz-Versicherung wechseln – so gehts](https://www.test.de/Kfz-Versicherung-wechseln-so-gehts-6160032-0/ "Kündigung Kfz-Versicherung - Kfz-Versicherung wechseln – so gehts")
+* [Sicher­heits­lücke bei Türschloss: Abus muss besser auf Schwach­stelle hinweisen](https://www.test.de/Sicherheitsluecke-bei-Tuerschloss-Gerichtsurteil-Abus-muss-besser-auf-Schwachstelle-hinweisen-6115986-0/ "Sicherheitslücke bei Türschloss - Abus muss besser auf Schwachstelle hinweisen")
 
 Weitere Informationen
 
@@ -3053,15 +3052,14 @@ Nächste Seite
 
 Nächste Seite
 
-     ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
+     ![](https://cdn.test.de/file/image/66/71/7c8c081d-90e7-4be0-956f-d4b722e530ff-mobile/Chefredaktions_Square;w400.png)
 
 Isabella Eigner  
-Chefredakteurin testMatthias Thieme  
-Chefredakteur Finanztest
+Chefredakteurin
 
 Newsletter Anmeldung: Inside Stiftung Warentest
 
-Jetzt anmelden und vom exklusiven Wissen unserer Chefredakteure profitieren!
+Jetzt anmelden und vom exklusiven Wissen unserer Chefredakteurin profitieren!
 
 Ihre E-Mail-Adresse 
 
@@ -3082,22 +3080,21 @@ Neueste Tests
 
 test.de entdecken
 
-* [Kapital­anleger-Muster­verfahren: Prozess um Schaden­ersatz für Wirecard-Anleger beginnt](https://www.test.de/Kapitalanleger-Musterverfahren-Einer-klagt-fuer-alle-6168143-0/ "Kapitalanleger-Musterverfahren - Prozess um Schadenersatz für Wirecard-Anleger beginnt")
-* [Vorabpauschalen-Rechner: Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds](https://www.test.de/vorabpauschale-rechner-6123332-0/ "Vorabpauschalen-Rechner - Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds")
-* [Fake-Portal: Vorsicht vor der Seite „zins­vergleich“](https://www.test.de/Fake-Portal-Vorsicht-vor-der-Seite-zinsvergleich-6063646-0/ "Fake-Portal - Vorsicht vor der Seite „zinsvergleich“")
-* [Medikamente und Pflege: Was gegen Akne hilft](https://www.test.de/Medikamente-gegen-Akne-6099770-0/ "Medikamente und Pflege - Was gegen Akne hilft")
-* [Rück­ruf Thule Kinder­fahr­radsitz: Schad­stoff im Polster](https://www.test.de/Rueckruf-Thule-Kinderfahrradsitz-Schadstoff-im-Polster-6117327-0/ "Rückruf Thule Kinderfahrradsitz - Schadstoff im Polster")
-* [Back­ofen- und Grill­reiniger im Test: Nur Chemie reicht nicht](https://www.test.de/backofenreiniger-grillreiniger-test-6009513-0/ "Backofen- und Grillreiniger im Test - Nur Chemie reicht nicht")
+* [Rück­ruf Babboe-Lastenfahr­räder: Nun auch Slim Mountain betroffen](https://www.test.de/Lastenfahrraeder-von-Babboe-Verkaufsstopp-und-Rueckruf-wegen-Rahmenbruechen-6098753-0/ "Rückruf Babboe-Lastenfahrräder - Nun auch Slim Mountain betroffen")
+* [Verpackungs­ärger: Kaiser­schmarrn von Bauck­hof](https://www.test.de/Verpackungsaerger-Kaiserschmarrn-von-Bauckhof-5970141-0/ "Verpackungsärger - Kaiserschmarrn von Bauckhof")
+* [Ökobilanz T-Shirts: Lang lebe das T-Shirt!](https://www.test.de/Oekobilanz-T-Shirts-Lang-lebe-das-T-Shirt-5966314-0/ "Ökobilanz T-Shirts - Lang lebe das T-Shirt!")
+* [Kaffee und Gesundheit: So viele Tassen können Sie trinken](https://www.test.de/Wie-gesund-ist-Kaffee-5824772-0/ "Kaffee und Gesundheit - So viele Tassen können Sie trinken")
+* [Kündigung Kfz-Versicherung: Kfz-Versicherung wechseln – so gehts](https://www.test.de/Kfz-Versicherung-wechseln-so-gehts-6160032-0/ "Kündigung Kfz-Versicherung - Kfz-Versicherung wechseln – so gehts")
+* [Sicher­heits­lücke bei Türschloss: Abus muss besser auf Schwach­stelle hinweisen](https://www.test.de/Sicherheitsluecke-bei-Tuerschloss-Gerichtsurteil-Abus-muss-besser-auf-Schwachstelle-hinweisen-6115986-0/ "Sicherheitslücke bei Türschloss - Abus muss besser auf Schwachstelle hinweisen")
 
-     ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
+     ![](https://cdn.test.de/file/image/66/71/7c8c081d-90e7-4be0-956f-d4b722e530ff-mobile/Chefredaktions_Square;w400.png)
 
 Isabella Eigner  
-Chefredakteurin testMatthias Thieme  
-Chefredakteur Finanztest
+Chefredakteurin
 
 Newsletter Anmeldung: Inside Stiftung Warentest
 
-Jetzt anmelden und vom exklusiven Wissen unserer Chefredakteure profitieren!
+Jetzt anmelden und vom exklusiven Wissen unserer Chefredakteurin profitieren!
 
 Ihre E-Mail-Adresse 
 
@@ -3105,15 +3102,14 @@ Mobilrufnummer 2  Eltern-Geburtstag  Untertitel 2
 
 Ja, ich möchte diesen und weitere Newsletter der Stiftung Warentest abonnieren und bin mit der Auswertung meiner Newsletternutzung einverstanden. [Informationen zu den Newslettern und zum Datenschutz.](https://www.test.de/datenschutz/#id5105473)
 
-     ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
+     ![](https://cdn.test.de/file/image/66/71/7c8c081d-90e7-4be0-956f-d4b722e530ff-mobile/Chefredaktions_Square;w400.png)
 
 Isabella Eigner  
-Chefredakteurin testMatthias Thieme  
-Chefredakteur Finanztest
+Chefredakteurin
 
 Newsletter Anmeldung: Inside Stiftung Warentest
 
-Jetzt anmelden und vom exklusiven Wissen unserer Chefredakteure profitieren!
+Jetzt anmelden und vom exklusiven Wissen unserer Chefredakteurin profitieren!
 
 Ihre E-Mail-Adresse 
 
@@ -3138,12 +3134,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Kapital­anleger-Muster­verfahren: Prozess um Schaden­ersatz für Wirecard-Anleger beginnt](https://www.test.de/Kapitalanleger-Musterverfahren-Einer-klagt-fuer-alle-6168143-0/ "Kapitalanleger-Musterverfahren - Prozess um Schadenersatz für Wirecard-Anleger beginnt")
-* [Vorabpauschalen-Rechner: Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds](https://www.test.de/vorabpauschale-rechner-6123332-0/ "Vorabpauschalen-Rechner - Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds")
-* [Fake-Portal: Vorsicht vor der Seite „zins­vergleich“](https://www.test.de/Fake-Portal-Vorsicht-vor-der-Seite-zinsvergleich-6063646-0/ "Fake-Portal - Vorsicht vor der Seite „zinsvergleich“")
-* [Medikamente und Pflege: Was gegen Akne hilft](https://www.test.de/Medikamente-gegen-Akne-6099770-0/ "Medikamente und Pflege - Was gegen Akne hilft")
-* [Rück­ruf Thule Kinder­fahr­radsitz: Schad­stoff im Polster](https://www.test.de/Rueckruf-Thule-Kinderfahrradsitz-Schadstoff-im-Polster-6117327-0/ "Rückruf Thule Kinderfahrradsitz - Schadstoff im Polster")
-* [Back­ofen- und Grill­reiniger im Test: Nur Chemie reicht nicht](https://www.test.de/backofenreiniger-grillreiniger-test-6009513-0/ "Backofen- und Grillreiniger im Test - Nur Chemie reicht nicht")
+* [Rück­ruf Babboe-Lastenfahr­räder: Nun auch Slim Mountain betroffen](https://www.test.de/Lastenfahrraeder-von-Babboe-Verkaufsstopp-und-Rueckruf-wegen-Rahmenbruechen-6098753-0/ "Rückruf Babboe-Lastenfahrräder - Nun auch Slim Mountain betroffen")
+* [Verpackungs­ärger: Kaiser­schmarrn von Bauck­hof](https://www.test.de/Verpackungsaerger-Kaiserschmarrn-von-Bauckhof-5970141-0/ "Verpackungsärger - Kaiserschmarrn von Bauckhof")
+* [Ökobilanz T-Shirts: Lang lebe das T-Shirt!](https://www.test.de/Oekobilanz-T-Shirts-Lang-lebe-das-T-Shirt-5966314-0/ "Ökobilanz T-Shirts - Lang lebe das T-Shirt!")
+* [Kaffee und Gesundheit: So viele Tassen können Sie trinken](https://www.test.de/Wie-gesund-ist-Kaffee-5824772-0/ "Kaffee und Gesundheit - So viele Tassen können Sie trinken")
+* [Kündigung Kfz-Versicherung: Kfz-Versicherung wechseln – so gehts](https://www.test.de/Kfz-Versicherung-wechseln-so-gehts-6160032-0/ "Kündigung Kfz-Versicherung - Kfz-Versicherung wechseln – so gehts")
+* [Sicher­heits­lücke bei Türschloss: Abus muss besser auf Schwach­stelle hinweisen](https://www.test.de/Sicherheitsluecke-bei-Tuerschloss-Gerichtsurteil-Abus-muss-besser-auf-Schwachstelle-hinweisen-6115986-0/ "Sicherheitslücke bei Türschloss - Abus muss besser auf Schwachstelle hinweisen")
 
 Neueste Tests
 
@@ -3156,12 +3152,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Kapital­anleger-Muster­verfahren: Prozess um Schaden­ersatz für Wirecard-Anleger beginnt](https://www.test.de/Kapitalanleger-Musterverfahren-Einer-klagt-fuer-alle-6168143-0/ "Kapitalanleger-Musterverfahren - Prozess um Schadenersatz für Wirecard-Anleger beginnt")
-* [Vorabpauschalen-Rechner: Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds](https://www.test.de/vorabpauschale-rechner-6123332-0/ "Vorabpauschalen-Rechner - Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds")
-* [Fake-Portal: Vorsicht vor der Seite „zins­vergleich“](https://www.test.de/Fake-Portal-Vorsicht-vor-der-Seite-zinsvergleich-6063646-0/ "Fake-Portal - Vorsicht vor der Seite „zinsvergleich“")
-* [Medikamente und Pflege: Was gegen Akne hilft](https://www.test.de/Medikamente-gegen-Akne-6099770-0/ "Medikamente und Pflege - Was gegen Akne hilft")
-* [Rück­ruf Thule Kinder­fahr­radsitz: Schad­stoff im Polster](https://www.test.de/Rueckruf-Thule-Kinderfahrradsitz-Schadstoff-im-Polster-6117327-0/ "Rückruf Thule Kinderfahrradsitz - Schadstoff im Polster")
-* [Back­ofen- und Grill­reiniger im Test: Nur Chemie reicht nicht](https://www.test.de/backofenreiniger-grillreiniger-test-6009513-0/ "Backofen- und Grillreiniger im Test - Nur Chemie reicht nicht")
+* [Rück­ruf Babboe-Lastenfahr­räder: Nun auch Slim Mountain betroffen](https://www.test.de/Lastenfahrraeder-von-Babboe-Verkaufsstopp-und-Rueckruf-wegen-Rahmenbruechen-6098753-0/ "Rückruf Babboe-Lastenfahrräder - Nun auch Slim Mountain betroffen")
+* [Verpackungs­ärger: Kaiser­schmarrn von Bauck­hof](https://www.test.de/Verpackungsaerger-Kaiserschmarrn-von-Bauckhof-5970141-0/ "Verpackungsärger - Kaiserschmarrn von Bauckhof")
+* [Ökobilanz T-Shirts: Lang lebe das T-Shirt!](https://www.test.de/Oekobilanz-T-Shirts-Lang-lebe-das-T-Shirt-5966314-0/ "Ökobilanz T-Shirts - Lang lebe das T-Shirt!")
+* [Kaffee und Gesundheit: So viele Tassen können Sie trinken](https://www.test.de/Wie-gesund-ist-Kaffee-5824772-0/ "Kaffee und Gesundheit - So viele Tassen können Sie trinken")
+* [Kündigung Kfz-Versicherung: Kfz-Versicherung wechseln – so gehts](https://www.test.de/Kfz-Versicherung-wechseln-so-gehts-6160032-0/ "Kündigung Kfz-Versicherung - Kfz-Versicherung wechseln – so gehts")
+* [Sicher­heits­lücke bei Türschloss: Abus muss besser auf Schwach­stelle hinweisen](https://www.test.de/Sicherheitsluecke-bei-Tuerschloss-Gerichtsurteil-Abus-muss-besser-auf-Schwachstelle-hinweisen-6115986-0/ "Sicherheitslücke bei Türschloss - Abus muss besser auf Schwachstelle hinweisen")
 
 Stiftung Warentest
 
