@@ -56,13 +56,13 @@ Featured stories
 
 [![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
+![ ](https://images.everydayhealth.com/images/neurology/brain-rot-cognitive-effects-excessive-screen-time-1440x810.jpg)
+
+What Is Brain Rot and How Can You Prevent It?](https://www.everydayhealth.com/healthy-aging/what-is-brain-rot-and-how-can-you-prevent-it/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+
 ![ ](https://images.everydayhealth.com/images/news/this-many-steps-could-ward-off-depression-1440x810.jpg)
 
 Taking as Little as 5,000 Steps per Day Could Ward Off Depression](https://www.everydayhealth.com/mental-health-conditions/five-thousands-steps-per-day-could-ward-off-depression/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
-
-![ ](https://images.everydayhealth.com/images/news/stanley-recalls-travel-mug-several-burn-injuries-1440x810.jpg)
-
-Millions of Stanley Cups Recalled Due to Burn Risk](https://www.everydayhealth.com/general-health/millions-of-stanley-cups-recalled-due-to-burn-risk/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
 ![ ](https://images.everydayhealth.com/images/news/organic-carrots-recalled-for-e-coli-1440x810.jpg)
 
