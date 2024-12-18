@@ -1,14 +1,14 @@
 [Aller au contenu principal](#main-content)
 
-![](pagespeed_static/1.JiBnMqyl6S.gif)
+![](https://cdn-fr.ouigo.com/edito-p-v3-assets/file/T%C3%A9l%C3%A9chargement%20app.png)
 
 Téléchargez l'application OUIGO ! 
 
-* [![](pagespeed_static/1.JiBnMqyl6S.gif)](https://play.google.com/store/apps/details?id=com.sncf.ouigo&hl=fr)
+* [![](https://cdn-fr.ouigo.com/edito-p-v3-assets/file/Android.jpg)](https://play.google.com/store/apps/details?id=com.sncf.ouigo&hl=fr)
 
 [![Accueil](themes/custom/ouigo/logo.svg)](https://www.ouigo.com/ "Accueil")
 
-  [![MY RESERVATIONS](https://cdn-fr.ouigo.com/edito-p-v3-assets/file/atom-assets-icon-48-px-48-ticket%403x.png) ![MY RESERVATIONS](pagespeed_static/1.JiBnMqyl6S.gif) Mes voyages Mes voyages](https://ventes.ouigo.com/fr-FR/after-sale/connection)
+  [![MY RESERVATIONS](https://cdn-fr.ouigo.com/edito-p-v3-assets/file/atom-assets-icon-48-px-48-ticket%403x.png) ![MY RESERVATIONS](https://cdn-fr.ouigo.com/edito-p-v3-assets/file/atom-assets-icon-48-px-48-ticket%403x_1.png) Mes voyages Mes voyages](https://ventes.ouigo.com/fr-FR/after-sale/connection)
 
 [ME CONNECTER ME CONNECTER](https://ventes.ouigo.com/fr-FR/login-compte-client-ouigo)
 
@@ -369,10 +369,10 @@ Renseignez votre email
 
  Ok
 
-* ![OUIGO sur facebook](pagespeed_static/1.JiBnMqyl6S.gif)
-* ![OUIGO sur twitter](pagespeed_static/1.JiBnMqyl6S.gif)
-* ![OUIGO sur youtube](pagespeed_static/1.JiBnMqyl6S.gif)
-* ![OUIGO sur instagram](pagespeed_static/1.JiBnMqyl6S.gif)
+* ![OUIGO sur facebook](https://cdn-fr.ouigo.com/edito-p-v3-assets/styles/social_links/azblob/file/logo%20fb.png?itok=l3lIWmAp)
+* ![OUIGO sur twitter](https://cdn-fr.ouigo.com/edito-p-v3-assets/styles/social_links/azblob/file/logo%20x%20.png?itok=gdmeZ1-W)
+* ![OUIGO sur youtube](https://cdn-fr.ouigo.com/edito-p-v3-assets/styles/social_links/azblob/file/logo%20youtube.png?itok=wBs3e7ns)
+* ![OUIGO sur instagram](https://cdn-fr.ouigo.com/edito-p-v3-assets/styles/social_links/azblob/file/logo%20insta.png?itok=D5tqJF2R)
 
 A DÉCOUVRIR
 
