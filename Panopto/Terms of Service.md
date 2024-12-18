@@ -217,3 +217,7 @@ We believe in the power of learning, and we built an intelligent platform to hel
 Copyright © 2024 Panopto. All Rights reserved.
 
 ![](https://px.ads.linkedin.com/collect/?pid=3246241&fmt=gif)
+
+[![](https://www.panopto.com/wp-content/uploads/2024/12/panopto-pop_up-elai-trial.png)](https://www.panopto.com/elai-trial/?utm_source=homepage&utm_medium=pop_up&utm_campaign=elai-trial&utm_id=1176)
+
+X
