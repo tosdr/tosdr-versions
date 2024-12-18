@@ -103,22 +103,18 @@ Back
     * [Gift Sets](https://www.bose.com/c/sets)
     * [Gift Cards](https://www.bose.com/gift-cards)
     
-    [![](https://assets.bosecreative.com/m/4bd415f0c27b767/webimage-SF_NavFlyout_Holiday_12-Day-Push_UOE-Chilled-Lilac-Situ_Mobile.png)
+    [![](https://assets.bosecreative.com/m/4eef3173abee51fe/webimage-SF_NavFlyout_Holiday_Post-Holiday_New-Years_Mobile.png)
     
-    Ultra Open Earbuds
-    
-    ### Now in Chilled Lilac](https://www.bose.com/ULT-HEADPHONEOPN.html?dwvar_ULT-HEADPHONEOPN_color=CHILLED+LILAC "BUY NOW")
+    ### 48-hour Flash Sale](https://www.bose.com/SLHM-SPEAKERWIRELESS.html?dwvar_SLHM-SPEAKERWIRELESS_color=LIGHT+SILVER "BUY NOW")
     
      
     
-    Exclusive color drop
+    48-hour Flash Sale
+    ------------------
     
-    Hot deal. Chill hue.
-    --------------------
+    Score $40 off the SoundLink Home Speaker, exclusively at Bose.com.
     
-    Enjoy $70 off Ultra Open Earbuds, now in Chilled Lilac.
-    
-    [BUY NOW](https://www.bose.com/ULT-HEADPHONEOPN.html?dwvar_ULT-HEADPHONEOPN_color=CHILLED+LILAC "BUY NOW")
+    [BUY NOW](https://www.bose.com/SLHM-SPEAKERWIRELESS.html?dwvar_SLHM-SPEAKERWIRELESS_color=LIGHT+SILVER "BUY NOW")
     
 
 * [Explore](#)
