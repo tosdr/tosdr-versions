@@ -125,7 +125,7 @@ ExpressVPN Privacy Policy
 
 #### ExpressVPN is committed to protecting your privacy
 
-We want you to understand what information (including Personal Data) we collect in connection with your use of our Services and/or access to our Site; for what purpose such information is collected; how we collect, use, and store such information; to whom it may be disclosed; and how you can exercise your rights and access your information, verify its accuracy, correct it, and/or have it erased. Equally, we want you to know what information we do not collect under any circumstances.
+We want you to understand what information (including Personal Data) we collect in connection with your use of our Services and/or access to our Site; for what purpose such information is collected; how we collect, use, and store such information; to whom it may be disclosed; and how you can exercise your rights and access your information, verify its accuracy, correct it, and/or have it erased. Equally, we want you to know what information we do not collect under any circumstances. This policy does not cover or refer to data collected by holiday.com; please refer to the holiday.com [Privacy Policy](https://holiday.com/privacy-policy) to review the data practices for holiday.com services.
 
 In addition, this Privacy Policy outlines what security measures we take to safeguard your information and who you can contact if you have any queries or complaints about the contents of this Privacy Policy.
 
@@ -536,7 +536,7 @@ You may also refer any questions regarding this Privacy Policy to our Group Data
 * [Blog](https://www.expressvpn.com/blog/)
 * [English](#)
 
-![](https://prod-assets-cms.mtech.xvservice.net/img/frontend/xv/public/thfc-expressvpn-badge.svg?v=13800)
+![](https://prod-assets-cms.mtech.xvservice.net/img/frontend/xv/public/thfc-expressvpn-badge.svg?v=137045)
 
 © 2024 ExpressVPN. All rights reserved
 
