@@ -94,12 +94,12 @@ Hide Main Navigation Menu
 
 ### Featured
 
-* [![](https://www.unc.edu/wp-content/uploads/2024/12/SmartSpaces-250x141.jpg)
+* [![](https://www.unc.edu/wp-content/uploads/2024/12/HolidayVideoHERO-250x141.jpg)
     
-    Data drives Finance and Operations’ smart space study](https://www.unc.edu/posts/2024/12/11/data-drives-finance-and-operations-smart-space-study/)
-* [![](https://www.unc.edu/wp-content/uploads/2024/12/GillingsHERO-250x141.jpg)
+    Happy holidays from Chancellor Lee H. Roberts](https://www.unc.edu/posts/2024/12/17/happy-holidays-from-chancellor-lee-h-roberts/)
+* [![](https://www.unc.edu/wp-content/uploads/2024/12/MarshallScholarship_Hero-250x141.png)
     
-    Gillings students help with Helene recovery](https://www.unc.edu/posts/2024/12/11/gillings-students-help-with-helene-recovery/)
+    Pratyush Seshadri ’25 named Marshall scholar](https://www.unc.edu/posts/2024/12/17/pratyush-seshadri-25-named-marshall-scholar/)
 
 About the University
 
@@ -477,7 +477,7 @@ Please contact [privacy@unc.edu](mailto:privacy@unc.edu) for more information on
 
  [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?mini=true&url=%url%&title=%title%)
 
- [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=5b6d580e38&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
+ [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=ed42e86807&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
 
 ### Share on Mastodon
 
