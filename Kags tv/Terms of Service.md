@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.kagstv.com/assets/KARE/images/d3c483b6-1938-49a1-87f1-c389598a1368/20241203T041436/d3c483b6-1938-49a1-87f1-c389598a1368_16x9.jpg) ![](https://media.kagstv.com/assets/KARE/images/d3c483b6-1938-49a1-87f1-c389598a1368/20241203T041436/d3c483b6-1938-49a1-87f1-c389598a1368_360x203.jpg)](https://www.kagstv.com/article/news/crime/college-station-fox-meadows-apartments-barricaded-suspect-arrest-dec-18-2024/500-56c29def-a191-4bae-a434-da7610c6b839)
+        
+        #### [Police: Suspect in custody after barricading themselves at College Station apartment complex](https://www.kagstv.com/article/news/crime/college-station-fox-meadows-apartments-barricaded-suspect-arrest-dec-18-2024/500-56c29def-a191-4bae-a434-da7610c6b839)
+        
     *  [![](https://media.kagstv.com/assets/KAGS/images/66c1844b-29a1-41e2-bd53-5fc440d5ceea/66c1844b-29a1-41e2-bd53-5fc440d5ceea_16x9.jpg) ![](https://media.kagstv.com/assets/KAGS/images/66c1844b-29a1-41e2-bd53-5fc440d5ceea/66c1844b-29a1-41e2-bd53-5fc440d5ceea_360x203.jpg)](https://www.kagstv.com/article/news/crime/the-cookshack-robbery-college-station-dec-2024/500-d127abd8-25bc-4730-8594-c8e7506c5124)
         
         #### [Suspect unable to be located after College Station Police respond to reported robbery at The Cookshack](https://www.kagstv.com/article/news/crime/the-cookshack-robbery-college-station-dec-2024/500-d127abd8-25bc-4730-8594-c8e7506c5124)
-        
-    *  [![](https://media.kagstv.com/assets/WTSP/images/b6b94ba3-f112-4914-82c1-1a05cfad0756/20241203T203340/b6b94ba3-f112-4914-82c1-1a05cfad0756_16x9.jpg) ![](https://media.kagstv.com/assets/WTSP/images/b6b94ba3-f112-4914-82c1-1a05cfad0756/20241203T203340/b6b94ba3-f112-4914-82c1-1a05cfad0756_360x203.jpg)](https://www.kagstv.com/article/news/local/traffic-stop-college-station-pd-leads-to-recovery-of-stolen-firearms/500-ae5fe217-0b5c-495d-98fe-0669ee6c9ece)
-        
-        #### [Houston man arrested following traffic stop in College Station](https://www.kagstv.com/article/news/local/traffic-stop-college-station-pd-leads-to-recovery-of-stolen-firearms/500-ae5fe217-0b5c-495d-98fe-0669ee6c9ece)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -99,7 +99,7 @@ Bryan, TX »
 
 66°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
