@@ -12,9 +12,9 @@ Menu
     
     TOP STORIES
     
-    * [Russia says suspect detained in the killing of a senior general in Moscow](https://apnews.com/article/russia-ukraine-war-general-killed-suspected-arrested-32e504b029d8db0b8d52474d75efc383)
-    * [A couple hundred North Korean troops killed, wounded in battles with Ukrainian forces](https://apnews.com/article/north-korea-ukraine-casualties-kursk-russia-a1207ba61ded5061f721ffa0f0650851)
-    * [A top Russian general is killed in a Moscow bombing claimed by Ukraine](https://apnews.com/article/russia-explosion-head-of-nuclear-defense-forces-killed-9656bce946a9f552454df9debe5fbd18)
+    * [Cyclone Chido leaves Mayotte reeling. Warmer oceans fueled it](https://apnews.com/article/climate-change-mayotte-cyclone-chido-explainer-1f364f106d8845ea3aca4917b861b185)
+    * [What's known about the brazen bombing that killed a top Russian general in Moscow](https://apnews.com/article/russia-ukraine-war-general-bomb-suspect-arrested-817ba9cd738fb09e673c261f21a4c1ff)
+    * [Russia says it has detained a suspect in the Moscow bombing that killed a senior general](https://apnews.com/article/russia-ukraine-war-general-killed-suspected-arrested-32e504b029d8db0b8d52474d75efc383)
     
     Newsletters
     
@@ -30,9 +30,9 @@ Menu
     
     TOP STORIES
     
-    * [Suspect charged with killing UnitedHealthcare's CEO as an act of terrorism](https://apnews.com/article/unitedhealthcare-ceo-killing-luigi-mangione-fccc9e875e976b9901a122bc15669425)
+    * [What Americans think of Robert F. Kennedy Jr. and his health stances](https://apnews.com/article/rfk-jr-vaccines-food-additives-pharmaceuticals-trump-797750f5f141161778792e84602b57c8)
+    * [Suspect in UnitedHealthcare's CEO killing charged with murder as an act of terrorism](https://apnews.com/article/unitedhealthcare-ceo-killing-luigi-mangione-fccc9e875e976b9901a122bc15669425)
     * [Key details about the man accused of killing UnitedHealthcare's CEO](https://apnews.com/article/unitedhealthcare-ceo-brian-thompson-shooting-79a9710978fc7adbb23d3fed4ea2f70d)
-    * [Community members wrestle with grief in aftermath of Wisconsin school shooting](https://apnews.com/article/wisconsin-school-shooting-vigil-motive-f7596d62f72b6b358add8c35f0e2eee4)
     
     Newsletters
     
@@ -52,9 +52,9 @@ Menu
     
     TOP STORIES
     
-    * [Musk and Trump are viewed roughly the same by Americans, an AP-NORC poll finds](https://apnews.com/article/trump-elon-apnorc-poll-favorability-8506a4eed5ac5dcfe818a277e4adf42a)
-    * [Congress unveils funding deal with more than $100 billion in disaster aid](https://apnews.com/article/congress-budget-government-shutdown-farmers-disaster-relief-4c6ae1e0033637bb6398b00c4799ba0d)
-    * [After investigating Jan. 6, House GOP sides with Trump and goes after Liz Cheney](https://apnews.com/article/trump-cheney-capitol-attack-prosecution-0aaba7a8d011115410c544374dd0d57f)
+    * [House Ethics Committee secretly voted to release Matt Gaetz ethics report, source says](https://apnews.com/article/matt-gaetz-ethics-report-house-committee-vote-4db3ee2d94dbcbfb6ed5e641d455d734)
+    * [Supreme Court will hear arguments over the law that could ban TikTok in the US if it's not sold](https://apnews.com/article/supreme-court-tiktok-china-us-ban-08d6fffdcd2dde5100fcdf8a452dd5cc)
+    * [Senate readies for vote on defense bill to raise troop pay, bar trans care coverage for minors](https://apnews.com/article/congress-senate-defense-spending-transgender-care-troop-pay-9500f2cd2565b57eb85bc60d7cd0ddcb)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
-    * [Giannis, Bucks use 3-point barrage to beat Thunder 97-81 for NBA Cup title](https://apnews.com/article/bucks-thunder-nba-cup-e2192d834aecde6aac04cb2058b7d03e)
-    * [Falcons name rookie Michael Penix Jr. as starting QB, benching veteran Kirk Cousins](https://apnews.com/article/falcons-penix-cousins-32144b1040ecca8b08a89d25554543ec)
-    * [New York Yankees acquire outfielder Cody Bellinger from Cubs for pitcher Cody Poteet](https://apnews.com/article/bellinger-yankees-cubs-trade-poteet-279cb3175eac9177e7ebf39359700af7)
+    * [The darker side of the rise of women’s sports: With more visibility comes more online harassment](https://apnews.com/article/women-sports-wnba-clark-reese-online-abuse-a2cc10a4a5ef6b99769607efd7d8d4a5)
+    * [Donald Trump said he wants to ban trans athletes from competing. The reality is more nuanced](https://apnews.com/article/donald-trump-transgender-athletes-title-ix-eca2303fee01202096348b4186303f8e)
+    * [Ex-teammates expect the best from Lindsey Vonn in return to World Cup ski racing at age 40](https://apnews.com/article/lindsey-vonn-bode-miller-olympics-ski-de426fda26ca7ef9f9ec9a682d668c8c)
     
     Newsletters
     
@@ -94,9 +94,9 @@ Menu
     
     TOP STORIES
     
-    * [Megan Thee Stallion seeks restraining order, says imprisoned Tory Lanez continues to harass her](https://apnews.com/article/megan-thee-stallion-tory-lanez-restraining-order-83e18781439708638a78571b09a070a3)
-    * [Forget soccer and samba. This caramel-colored street dog is Brazil's new national icon](https://apnews.com/article/brazil-rio-film-carnival-parade-movie-caramelo-mutt-dog-netflix-stray-328062e2dcd7fe4eddc650d424dea93b)
-    * [How the Roxies are made: Behind the iconic role in Broadway's megahit 'Chicago'](https://apnews.com/behind-the-iconic-role-roxie-broadway-chicago)
+    * [André 3000's alt-jazz, 'no bars' solo album stunned fans. Now, it's up for Grammys](https://apnews.com/article/andre-3000-outkast-jazz-album-interview-grammys-4f0fb9b3b68fd77d44d06141eecd17c7)
+    * [Mariah Carey's ‘Christmas Time’ comes to an end: See pictures from the holiday tour](https://apnews.com/article/mariah-carey-christmas-concert-photos-8d3a7eaa9aad1802f09d82f705b2b226)
+    * [Movie Review: With 'The Room Next Door,' Pedro Almodóvar makes a lively movie about death](https://apnews.com/article/almodovar-room-next-door-review-tilda-swinton-julianne-moore-ff3c389f78b2d244e2fc130c214677e2)
     
 * [Business](https://apnews.com/business)
     
@@ -106,9 +106,9 @@ Menu
     
     TOP STORIES
     
-    * [Group says New Jersey toxic waste dumping caused $1B in harm, calls settlement inadequate](https://apnews.com/article/toms-river-toxic-waste-cancer-ciba-geigy-90b270b4c3cec258923fb4bb85c816f0)
-    * [UK inflation increase solidifies expectations interest rates will be kept on hold](https://apnews.com/article/britain-economy-inflation-interest-rates-05d118699b71950480206efd92e112a8)
-    * [Musk and Trump are viewed roughly the same by Americans, an AP-NORC poll finds](https://apnews.com/article/trump-elon-apnorc-poll-favorability-8506a4eed5ac5dcfe818a277e4adf42a)
+    * [Supreme Court will hear arguments over the law that could ban TikTok in the US if it's not sold](https://apnews.com/article/supreme-court-tiktok-china-us-ban-08d6fffdcd2dde5100fcdf8a452dd5cc)
+    * [Federal Reserve is set to cut key rate but consumers might not feel much benefit anytime soon](https://apnews.com/article/federal-reserve-inflation-loan-rates-economy-prices-7474747d890c0fdcc87454fd4c80aaa4)
+    * [What a merger between Nissan and Honda could mean for the automakers and the industry](https://apnews.com/article/japan-nissan-honda-merger-evs-56199be5bf5b99b0c739acfb1a9244dd)
     
 * [Science](https://apnews.com/science)
     
@@ -118,11 +118,17 @@ Menu
     
     TOP STORIES
     
+    * [The last meteor shower of the year peaks a few days before Christmas](https://apnews.com/article/how-to-catch-ursid-meteor-shower-f0e02ecaf123b456cb369751821cc711)
     * [A new neutrino detector in China aims to spot mysterious ghost particles lurking around us](https://apnews.com/article/jiangmen-underground-neutrino-observatory-china-6955b6bc37acdace04d8632c2e27f3f9)
     * [NASA's 2 stuck astronauts face more time in space with return delayed until at least late March](https://apnews.com/article/nasa-stuck-astronauts-77e8f0b988e483a793732297cd868490)
-    * [Two stars may be orbiting each other near a supermassive black hole in our Milky Way galaxy](https://apnews.com/article/milky-way-black-hole-binary-star-system-f6b6bdc24742f7bb1fe4dd50ba219aab)
     
 * [Fact Check](https://apnews.com/ap-fact-check)
+    
+    TOP STORIES
+    
+    * [FACT FOCUS: Inspector general’s Jan. 6 report misrepresented as proof of FBI setup](https://apnews.com/article/fact-check-capitol-riot-fbi-justice-department-598b775804bdcef9cb065a67a4236033)
+    * [FACT FOCUS: Vermont ruling does not say schools can vaccinate children without parental consent](https://apnews.com/article/fact-check-vermont-supreme-court-vaccination-ruling-0256fc7ad888230ee8dc51f6fe0d479a)
+    * [FACT FOCUS: Posts misrepresent Biden administration spending on EV charging stations](https://apnews.com/article/fact-check-electric-vehicle-charging-stations-75-billion-buttigieg-1ddcd6ee193fc1847e5401c95c016ec3)
     
 * [Oddities](https://apnews.com/oddities)
     
@@ -163,7 +169,7 @@ Menu
     TOP STORIES
     
     * [Associated Press 100 Photos of 2024: An epic catalog of humanity](https://apnews.com/associated-press-100-photos-of-2024-an-epic-catalog-of-humanity)
-    * [AP photographers capture stunning scenes of nature and wildlife in 2024](https://apnews.com/article/nature-animals-photos-2024-23caa4ff814a9f6e788689daee825461)
+    * [From destruction to deadly heat, Associated Press photographers capture climate change in 2024](https://apnews.com/article/photo-gallery-climate-2024-flooding-heat-928163df24a7a73d619bb138d80ac560)
     * [Joy and wonder: Between the bumps of the world, exuberance shone through in 2024](https://apnews.com/apphotosoftheyearjoywonder2024)
     
     Newsletters
@@ -186,15 +192,15 @@ Menu
     
     * [Global demand spurring Indonesia's mining boom comes at a cost for many communities](https://apnews.com/article/indonesia-nickel-stainless-steel-energy-transition-evs-c7f9e28b3a59f0113e1f96cd9b154067)
     * [From destruction to deadly heat, Associated Press photographers capture climate change in 2024](https://apnews.com/article/photo-gallery-climate-2024-flooding-heat-928163df24a7a73d619bb138d80ac560)
-    * [Can U.N. summits save the planet? A faltering year of talks brings up questions about the process](https://apnews.com/article/united-nations-climate-biodiversity-plastics-drought-summits-failure-64b40bc06287a92d33bcdbfea4f3bf5f)
+    * [Cyclone Chido leaves Mayotte reeling. Warmer oceans fueled it](https://apnews.com/article/climate-change-mayotte-cyclone-chido-explainer-1f364f106d8845ea3aca4917b861b185)
     
 * [Health](https://apnews.com/health)
     
     TOP STORIES
     
+    * [Louisiana patient is first severe bird flu case in US, health officials say](https://apnews.com/article/bird-flu-severe-louisiana-2b4a5f55a05cf8be9b169c15e8b9582d)
     * [Most US teens are abstaining from drinking, smoking and marijuana, survey says](https://apnews.com/article/teen-drug-use-b5e877b4c7eecb5354c3b8214e7d8692)
-    * [Who wants a pig organ? Patients sick and tired of waiting years for a transplant](https://apnews.com/article/pig-organ-transplant-kidney-xenotransplant-revivicor-egenesis-92c378d867f6e1ed8e1587c050daf0f8)
-    * [A transplanted pig kidney has freed her from eight years of dialysis](https://apnews.com/article/pig-kidney-transplant-xenotransplant-revivicor-844b33450a9c228d1138827c1de8549d)
+    * [Tired of long organ waitlists, these patients hope for a pig organ transplant](https://apnews.com/article/pig-organ-transplant-kidney-xenotransplant-revivicor-egenesis-92c378d867f6e1ed8e1587c050daf0f8)
     * [America is trying to fix its maternal mortality crisis with federal, state and local programs](https://apnews.com/article/maternal-mortality-healthy-start-oklahoma-california-new-york-city-0aa1fa2a141ef82607026b384cc14af7)
     * [Europe offers clues for solving America's maternal mortality crisis](https://apnews.com/article/maternal-mortality-rate-us-global-deaths-norway-211218f769e9a5a6e856a485fb31aef3)
     * [Rural communities of color across the US find new ways to get the health care they need](https://apnews.com/article/rural-health-disparities-hospitals-closing-medicaid-961564a03a264812ce60006e416bd3ca)
@@ -207,9 +213,9 @@ Menu
     
     TOP STORIES
     
+    * [China's CATL is planning a major expansion of battery swapping for electric vehicles](https://apnews.com/article/catl-nio-ev-battery-swapping-7f5ec2348621db66532d9284194fe664)
     * [Musk and Trump are viewed roughly the same by Americans, an AP-NORC poll finds](https://apnews.com/article/trump-elon-apnorc-poll-favorability-8506a4eed5ac5dcfe818a277e4adf42a)
-    * [Japanese space startup aborts 2nd satellite launch attempt minutes after liftoff](https://apnews.com/article/japan-space-rocket-satellite-commercial-abort-space-one-52409d53f2c187c0548188d160df03be)
-    * [What does Big Tech hope to gain from warming up to Trump?](https://apnews.com/article/trump-big-tech-ceo-donations-visits-1ddf9464047b519abe5593244be488d9)
+    * [Barcelona subway recycles energy from braking into power to charge electric cars](https://apnews.com/article/spain-climate-subway-electric-cars-barcelona-energy-69cf7212fa8d5e3e4d45d62a2f97c6dd)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -219,17 +225,17 @@ Menu
     
     TOP STORIES
     
-    * [Event promoters, hotels and lodging sites soon will have to disclose extra fees up front](https://apnews.com/article/ftc-junk-fees-rule-hotels-tickets-085606d99f137040e9a86e5b1ac04068)
-    * [Most US teens are abstaining from drinking, smoking and marijuana, survey says](https://apnews.com/article/teen-drug-use-b5e877b4c7eecb5354c3b8214e7d8692)
-    * [A step-by-step guide to renovating a neglected garden](https://apnews.com/article/renovating-a-neglected-garden-046bb40be7e1cdb7dbf5ac478509d9b5)
+    * [This is the holiday season's 'it' animal](https://apnews.com/article/capybara-plush-toys-animals-trend-axolotl-19f872ada729ffed9b05c78ac43242ea)
+    * [Prayerful, playful, mystical: Some of AP's most compelling religion photos of 2024.](https://apnews.com/article/photographs-worldwide-religion-faiths-spirituality-f6eff6b79178dd15d168a54193cbb01f)
+    * [Edmunds: These are the best full-size trucks for daily driving and off-roading](https://apnews.com/article/offroad-vehicle-shopping-trucks-55b40af45446028752d39a80e2473c4e)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
+    * [Prayerful, playful, mystical: Some of AP's most compelling religion photos of 2024.](https://apnews.com/article/photographs-worldwide-religion-faiths-spirituality-f6eff6b79178dd15d168a54193cbb01f)
     * [As wars rage around them, Armenian Christians in Jerusalem's Old City feel the walls closing in](https://apnews.com/article/israel-jerusalem-old-city-armenian-christians-6c1b4d324bd4a657be4836c092077e39)
     * [Community members wrestle with grief in aftermath of Wisconsin school shooting](https://apnews.com/article/wisconsin-school-shooting-vigil-motive-f7596d62f72b6b358add8c35f0e2eee4)
-    * [Deadly violence in Nigeria linked to breakup of United Methodist Church over LGBTQ policies](https://apnews.com/article/africa-nigeria-united-methodists-breakup-lgbtq-c68e8ede6c5199d2ecec381163915dc8)
     
     Newsletters
     
@@ -243,11 +249,11 @@ Menu
     
     TOP STORIES
     
-    * [Rusia anuncia la detención de un sospechoso por el asesinato de un general de alto rango en Moscú](https://apnews.com/article/rusia-explosion-general-kirillov-asesinado-detenido-ucrania-65322a88e4bb1cebbf6362c56b16e13a)
-    * [Olvide el fútbol y la samba. Este perro callejero color caramelo es el nuevo ícono de Brasil](https://apnews.com/article/brasil-caramelo-perro-rio-carnaval-netflix-a0f9a88bab1d73280404064eef1ed098)
-    * [Aumentan ventas de búnkeres nucleares en EEUU, pese a advertencias de expertos de que no protegen](https://apnews.com/article/eeuu-bunker-nuclear-refugios-advertencias-d8a633c2f4465a18b09475f0459c22b7)
-    * [Netanyahu: tropas israelíes ocuparán una zona de contención dentro de Siria por el futuro previsible](https://apnews.com/article/siria-assad-israel-netanyahu-guerra-golan-5a0baebeb54a87b46c92c33d44bdf201)
-    * [Instalaciones fronterizas de EEUU para niños migrantes mejoran, pero se necesita más, dice informe](https://apnews.com/article/migracion-ninos-detencion-migrantes-cf8643f5ae7859071a85edb2221678c0)
+    * [Rusia arresta a uzbeko por el asesinato del general Kirillov en Moscú](https://apnews.com/article/rusia-explosion-general-kirillov-asesinado-detenido-ucrania-65322a88e4bb1cebbf6362c56b16e13a)
+    * [China amplía su arsenal nuclear y refuerza lazos con Rusia, afirma el Pentágono](https://apnews.com/article/china-ejercito-pentagono-informe-f9de3d4b85a089d60fce68c407862466)
+    * [Israel ordena nueva evacuación en Gaza antes de ofensiva](https://apnews.com/article/israel-palestinos-hamas-gaza-208f73bb4570c755eb4df6770144ed67)
+    * [Republicanos arremeten contra Cheney por investigar el asalto al Capitolio](https://apnews.com/article/cheney-capitolio-trump-congreso-0a3c9f0c0d6756a25ebad0e27ef6daeb)
+    * [EEUU repatría a tres detenidos de Guantánamo, uno sin cargos durante 17 años](https://apnews.com/article/guantanamo-detenido-kenia-al-qaeda-11-de-septiembre-3b550edb5b178270363d9684bfc2ef19)
     
 * [Quizzes](https://apnews.com/quizzes)
     
@@ -408,9 +414,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Russia says suspect detained in the killing of a senior general in Moscow](https://apnews.com/article/russia-ukraine-war-general-killed-suspected-arrested-32e504b029d8db0b8d52474d75efc383)
-    * [A couple hundred North Korean troops killed, wounded in battles with Ukrainian forces](https://apnews.com/article/north-korea-ukraine-casualties-kursk-russia-a1207ba61ded5061f721ffa0f0650851)
-    * [A top Russian general is killed in a Moscow bombing claimed by Ukraine](https://apnews.com/article/russia-explosion-head-of-nuclear-defense-forces-killed-9656bce946a9f552454df9debe5fbd18)
+    * [Cyclone Chido leaves Mayotte reeling. Warmer oceans fueled it](https://apnews.com/article/climate-change-mayotte-cyclone-chido-explainer-1f364f106d8845ea3aca4917b861b185)
+    * [What's known about the brazen bombing that killed a top Russian general in Moscow](https://apnews.com/article/russia-ukraine-war-general-bomb-suspect-arrested-817ba9cd738fb09e673c261f21a4c1ff)
+    * [Russia says it has detained a suspect in the Moscow bombing that killed a senior general](https://apnews.com/article/russia-ukraine-war-general-killed-suspected-arrested-32e504b029d8db0b8d52474d75efc383)
     
     Newsletters
     
@@ -426,9 +432,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Suspect charged with killing UnitedHealthcare's CEO as an act of terrorism](https://apnews.com/article/unitedhealthcare-ceo-killing-luigi-mangione-fccc9e875e976b9901a122bc15669425)
+    * [What Americans think of Robert F. Kennedy Jr. and his health stances](https://apnews.com/article/rfk-jr-vaccines-food-additives-pharmaceuticals-trump-797750f5f141161778792e84602b57c8)
+    * [Suspect in UnitedHealthcare's CEO killing charged with murder as an act of terrorism](https://apnews.com/article/unitedhealthcare-ceo-killing-luigi-mangione-fccc9e875e976b9901a122bc15669425)
     * [Key details about the man accused of killing UnitedHealthcare's CEO](https://apnews.com/article/unitedhealthcare-ceo-brian-thompson-shooting-79a9710978fc7adbb23d3fed4ea2f70d)
-    * [Community members wrestle with grief in aftermath of Wisconsin school shooting](https://apnews.com/article/wisconsin-school-shooting-vigil-motive-f7596d62f72b6b358add8c35f0e2eee4)
     
     Newsletters
     
@@ -456,9 +462,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Musk and Trump are viewed roughly the same by Americans, an AP-NORC poll finds](https://apnews.com/article/trump-elon-apnorc-poll-favorability-8506a4eed5ac5dcfe818a277e4adf42a)
-    * [Congress unveils funding deal with more than $100 billion in disaster aid](https://apnews.com/article/congress-budget-government-shutdown-farmers-disaster-relief-4c6ae1e0033637bb6398b00c4799ba0d)
-    * [After investigating Jan. 6, House GOP sides with Trump and goes after Liz Cheney](https://apnews.com/article/trump-cheney-capitol-attack-prosecution-0aaba7a8d011115410c544374dd0d57f)
+    * [House Ethics Committee secretly voted to release Matt Gaetz ethics report, source says](https://apnews.com/article/matt-gaetz-ethics-report-house-committee-vote-4db3ee2d94dbcbfb6ed5e641d455d734)
+    * [Supreme Court will hear arguments over the law that could ban TikTok in the US if it's not sold](https://apnews.com/article/supreme-court-tiktok-china-us-ban-08d6fffdcd2dde5100fcdf8a452dd5cc)
+    * [Senate readies for vote on defense bill to raise troop pay, bar trans care coverage for minors](https://apnews.com/article/congress-senate-defense-spending-transgender-care-troop-pay-9500f2cd2565b57eb85bc60d7cd0ddcb)
     
     Newsletters
     
@@ -486,9 +492,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Giannis, Bucks use 3-point barrage to beat Thunder 97-81 for NBA Cup title](https://apnews.com/article/bucks-thunder-nba-cup-e2192d834aecde6aac04cb2058b7d03e)
-    * [Falcons name rookie Michael Penix Jr. as starting QB, benching veteran Kirk Cousins](https://apnews.com/article/falcons-penix-cousins-32144b1040ecca8b08a89d25554543ec)
-    * [New York Yankees acquire outfielder Cody Bellinger from Cubs for pitcher Cody Poteet](https://apnews.com/article/bellinger-yankees-cubs-trade-poteet-279cb3175eac9177e7ebf39359700af7)
+    * [The darker side of the rise of women’s sports: With more visibility comes more online harassment](https://apnews.com/article/women-sports-wnba-clark-reese-online-abuse-a2cc10a4a5ef6b99769607efd7d8d4a5)
+    * [Donald Trump said he wants to ban trans athletes from competing. The reality is more nuanced](https://apnews.com/article/donald-trump-transgender-athletes-title-ix-eca2303fee01202096348b4186303f8e)
+    * [Ex-teammates expect the best from Lindsey Vonn in return to World Cup ski racing at age 40](https://apnews.com/article/lindsey-vonn-bode-miller-olympics-ski-de426fda26ca7ef9f9ec9a682d668c8c)
     
     Newsletters
     
@@ -515,9 +521,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Megan Thee Stallion seeks restraining order, says imprisoned Tory Lanez continues to harass her](https://apnews.com/article/megan-thee-stallion-tory-lanez-restraining-order-83e18781439708638a78571b09a070a3)
-    * [Forget soccer and samba. This caramel-colored street dog is Brazil's new national icon](https://apnews.com/article/brazil-rio-film-carnival-parade-movie-caramelo-mutt-dog-netflix-stray-328062e2dcd7fe4eddc650d424dea93b)
-    * [How the Roxies are made: Behind the iconic role in Broadway's megahit 'Chicago'](https://apnews.com/behind-the-iconic-role-roxie-broadway-chicago)
+    * [André 3000's alt-jazz, 'no bars' solo album stunned fans. Now, it's up for Grammys](https://apnews.com/article/andre-3000-outkast-jazz-album-interview-grammys-4f0fb9b3b68fd77d44d06141eecd17c7)
+    * [Mariah Carey's ‘Christmas Time’ comes to an end: See pictures from the holiday tour](https://apnews.com/article/mariah-carey-christmas-concert-photos-8d3a7eaa9aad1802f09d82f705b2b226)
+    * [Movie Review: With 'The Room Next Door,' Pedro Almodóvar makes a lively movie about death](https://apnews.com/article/almodovar-room-next-door-review-tilda-swinton-julianne-moore-ff3c389f78b2d244e2fc130c214677e2)
     
 * [Business](https://apnews.com/business)
     
@@ -532,9 +538,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Group says New Jersey toxic waste dumping caused $1B in harm, calls settlement inadequate](https://apnews.com/article/toms-river-toxic-waste-cancer-ciba-geigy-90b270b4c3cec258923fb4bb85c816f0)
-    * [UK inflation increase solidifies expectations interest rates will be kept on hold](https://apnews.com/article/britain-economy-inflation-interest-rates-05d118699b71950480206efd92e112a8)
-    * [Musk and Trump are viewed roughly the same by Americans, an AP-NORC poll finds](https://apnews.com/article/trump-elon-apnorc-poll-favorability-8506a4eed5ac5dcfe818a277e4adf42a)
+    * [Supreme Court will hear arguments over the law that could ban TikTok in the US if it's not sold](https://apnews.com/article/supreme-court-tiktok-china-us-ban-08d6fffdcd2dde5100fcdf8a452dd5cc)
+    * [Federal Reserve is set to cut key rate but consumers might not feel much benefit anytime soon](https://apnews.com/article/federal-reserve-inflation-loan-rates-economy-prices-7474747d890c0fdcc87454fd4c80aaa4)
+    * [What a merger between Nissan and Honda could mean for the automakers and the industry](https://apnews.com/article/japan-nissan-honda-merger-evs-56199be5bf5b99b0c739acfb1a9244dd)
     
 * [Science](https://apnews.com/science)
     
@@ -550,11 +556,17 @@ Submit Search
     
     TOP STORIES
     
+    * [The last meteor shower of the year peaks a few days before Christmas](https://apnews.com/article/how-to-catch-ursid-meteor-shower-f0e02ecaf123b456cb369751821cc711)
     * [A new neutrino detector in China aims to spot mysterious ghost particles lurking around us](https://apnews.com/article/jiangmen-underground-neutrino-observatory-china-6955b6bc37acdace04d8632c2e27f3f9)
     * [NASA's 2 stuck astronauts face more time in space with return delayed until at least late March](https://apnews.com/article/nasa-stuck-astronauts-77e8f0b988e483a793732297cd868490)
-    * [Two stars may be orbiting each other near a supermassive black hole in our Milky Way galaxy](https://apnews.com/article/milky-way-black-hole-binary-star-system-f6b6bdc24742f7bb1fe4dd50ba219aab)
     
 * [Fact Check](https://apnews.com/ap-fact-check)
+    
+    TOP STORIES
+    
+    * [FACT FOCUS: Inspector general’s Jan. 6 report misrepresented as proof of FBI setup](https://apnews.com/article/fact-check-capitol-riot-fbi-justice-department-598b775804bdcef9cb065a67a4236033)
+    * [FACT FOCUS: Vermont ruling does not say schools can vaccinate children without parental consent](https://apnews.com/article/fact-check-vermont-supreme-court-vaccination-ruling-0256fc7ad888230ee8dc51f6fe0d479a)
+    * [FACT FOCUS: Posts misrepresent Biden administration spending on EV charging stations](https://apnews.com/article/fact-check-electric-vehicle-charging-stations-75-billion-buttigieg-1ddcd6ee193fc1847e5401c95c016ec3)
     
 * [Oddities](https://apnews.com/oddities)
     
@@ -600,7 +612,7 @@ Submit Search
     TOP STORIES
     
     * [Associated Press 100 Photos of 2024: An epic catalog of humanity](https://apnews.com/associated-press-100-photos-of-2024-an-epic-catalog-of-humanity)
-    * [AP photographers capture stunning scenes of nature and wildlife in 2024](https://apnews.com/article/nature-animals-photos-2024-23caa4ff814a9f6e788689daee825461)
+    * [From destruction to deadly heat, Associated Press photographers capture climate change in 2024](https://apnews.com/article/photo-gallery-climate-2024-flooding-heat-928163df24a7a73d619bb138d80ac560)
     * [Joy and wonder: Between the bumps of the world, exuberance shone through in 2024](https://apnews.com/apphotosoftheyearjoywonder2024)
     
     Newsletters
@@ -628,15 +640,15 @@ Submit Search
     
     * [Global demand spurring Indonesia's mining boom comes at a cost for many communities](https://apnews.com/article/indonesia-nickel-stainless-steel-energy-transition-evs-c7f9e28b3a59f0113e1f96cd9b154067)
     * [From destruction to deadly heat, Associated Press photographers capture climate change in 2024](https://apnews.com/article/photo-gallery-climate-2024-flooding-heat-928163df24a7a73d619bb138d80ac560)
-    * [Can U.N. summits save the planet? A faltering year of talks brings up questions about the process](https://apnews.com/article/united-nations-climate-biodiversity-plastics-drought-summits-failure-64b40bc06287a92d33bcdbfea4f3bf5f)
+    * [Cyclone Chido leaves Mayotte reeling. Warmer oceans fueled it](https://apnews.com/article/climate-change-mayotte-cyclone-chido-explainer-1f364f106d8845ea3aca4917b861b185)
     
 * [Health](https://apnews.com/health)
     
     TOP STORIES
     
+    * [Louisiana patient is first severe bird flu case in US, health officials say](https://apnews.com/article/bird-flu-severe-louisiana-2b4a5f55a05cf8be9b169c15e8b9582d)
     * [Most US teens are abstaining from drinking, smoking and marijuana, survey says](https://apnews.com/article/teen-drug-use-b5e877b4c7eecb5354c3b8214e7d8692)
-    * [Who wants a pig organ? Patients sick and tired of waiting years for a transplant](https://apnews.com/article/pig-organ-transplant-kidney-xenotransplant-revivicor-egenesis-92c378d867f6e1ed8e1587c050daf0f8)
-    * [A transplanted pig kidney has freed her from eight years of dialysis](https://apnews.com/article/pig-kidney-transplant-xenotransplant-revivicor-844b33450a9c228d1138827c1de8549d)
+    * [Tired of long organ waitlists, these patients hope for a pig organ transplant](https://apnews.com/article/pig-organ-transplant-kidney-xenotransplant-revivicor-egenesis-92c378d867f6e1ed8e1587c050daf0f8)
     * [America is trying to fix its maternal mortality crisis with federal, state and local programs](https://apnews.com/article/maternal-mortality-healthy-start-oklahoma-california-new-york-city-0aa1fa2a141ef82607026b384cc14af7)
     * [Europe offers clues for solving America's maternal mortality crisis](https://apnews.com/article/maternal-mortality-rate-us-global-deaths-norway-211218f769e9a5a6e856a485fb31aef3)
     * [Rural communities of color across the US find new ways to get the health care they need](https://apnews.com/article/rural-health-disparities-hospitals-closing-medicaid-961564a03a264812ce60006e416bd3ca)
@@ -652,9 +664,9 @@ Submit Search
     
     TOP STORIES
     
+    * [China's CATL is planning a major expansion of battery swapping for electric vehicles](https://apnews.com/article/catl-nio-ev-battery-swapping-7f5ec2348621db66532d9284194fe664)
     * [Musk and Trump are viewed roughly the same by Americans, an AP-NORC poll finds](https://apnews.com/article/trump-elon-apnorc-poll-favorability-8506a4eed5ac5dcfe818a277e4adf42a)
-    * [Japanese space startup aborts 2nd satellite launch attempt minutes after liftoff](https://apnews.com/article/japan-space-rocket-satellite-commercial-abort-space-one-52409d53f2c187c0548188d160df03be)
-    * [What does Big Tech hope to gain from warming up to Trump?](https://apnews.com/article/trump-big-tech-ceo-donations-visits-1ddf9464047b519abe5593244be488d9)
+    * [Barcelona subway recycles energy from braking into power to charge electric cars](https://apnews.com/article/spain-climate-subway-electric-cars-barcelona-energy-69cf7212fa8d5e3e4d45d62a2f97c6dd)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -672,17 +684,17 @@ Submit Search
     
     TOP STORIES
     
-    * [Event promoters, hotels and lodging sites soon will have to disclose extra fees up front](https://apnews.com/article/ftc-junk-fees-rule-hotels-tickets-085606d99f137040e9a86e5b1ac04068)
-    * [Most US teens are abstaining from drinking, smoking and marijuana, survey says](https://apnews.com/article/teen-drug-use-b5e877b4c7eecb5354c3b8214e7d8692)
-    * [A step-by-step guide to renovating a neglected garden](https://apnews.com/article/renovating-a-neglected-garden-046bb40be7e1cdb7dbf5ac478509d9b5)
+    * [This is the holiday season's 'it' animal](https://apnews.com/article/capybara-plush-toys-animals-trend-axolotl-19f872ada729ffed9b05c78ac43242ea)
+    * [Prayerful, playful, mystical: Some of AP's most compelling religion photos of 2024.](https://apnews.com/article/photographs-worldwide-religion-faiths-spirituality-f6eff6b79178dd15d168a54193cbb01f)
+    * [Edmunds: These are the best full-size trucks for daily driving and off-roading](https://apnews.com/article/offroad-vehicle-shopping-trucks-55b40af45446028752d39a80e2473c4e)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
+    * [Prayerful, playful, mystical: Some of AP's most compelling religion photos of 2024.](https://apnews.com/article/photographs-worldwide-religion-faiths-spirituality-f6eff6b79178dd15d168a54193cbb01f)
     * [As wars rage around them, Armenian Christians in Jerusalem's Old City feel the walls closing in](https://apnews.com/article/israel-jerusalem-old-city-armenian-christians-6c1b4d324bd4a657be4836c092077e39)
     * [Community members wrestle with grief in aftermath of Wisconsin school shooting](https://apnews.com/article/wisconsin-school-shooting-vigil-motive-f7596d62f72b6b358add8c35f0e2eee4)
-    * [Deadly violence in Nigeria linked to breakup of United Methodist Church over LGBTQ policies](https://apnews.com/article/africa-nigeria-united-methodists-breakup-lgbtq-c68e8ede6c5199d2ecec381163915dc8)
     
     Newsletters
     
@@ -696,11 +708,11 @@ Submit Search
     
     TOP STORIES
     
-    * [Rusia anuncia la detención de un sospechoso por el asesinato de un general de alto rango en Moscú](https://apnews.com/article/rusia-explosion-general-kirillov-asesinado-detenido-ucrania-65322a88e4bb1cebbf6362c56b16e13a)
-    * [Olvide el fútbol y la samba. Este perro callejero color caramelo es el nuevo ícono de Brasil](https://apnews.com/article/brasil-caramelo-perro-rio-carnaval-netflix-a0f9a88bab1d73280404064eef1ed098)
-    * [Aumentan ventas de búnkeres nucleares en EEUU, pese a advertencias de expertos de que no protegen](https://apnews.com/article/eeuu-bunker-nuclear-refugios-advertencias-d8a633c2f4465a18b09475f0459c22b7)
-    * [Netanyahu: tropas israelíes ocuparán una zona de contención dentro de Siria por el futuro previsible](https://apnews.com/article/siria-assad-israel-netanyahu-guerra-golan-5a0baebeb54a87b46c92c33d44bdf201)
-    * [Instalaciones fronterizas de EEUU para niños migrantes mejoran, pero se necesita más, dice informe](https://apnews.com/article/migracion-ninos-detencion-migrantes-cf8643f5ae7859071a85edb2221678c0)
+    * [Rusia arresta a uzbeko por el asesinato del general Kirillov en Moscú](https://apnews.com/article/rusia-explosion-general-kirillov-asesinado-detenido-ucrania-65322a88e4bb1cebbf6362c56b16e13a)
+    * [China amplía su arsenal nuclear y refuerza lazos con Rusia, afirma el Pentágono](https://apnews.com/article/china-ejercito-pentagono-informe-f9de3d4b85a089d60fce68c407862466)
+    * [Israel ordena nueva evacuación en Gaza antes de ofensiva](https://apnews.com/article/israel-palestinos-hamas-gaza-208f73bb4570c755eb4df6770144ed67)
+    * [Republicanos arremeten contra Cheney por investigar el asalto al Capitolio](https://apnews.com/article/cheney-capitolio-trump-congreso-0a3c9f0c0d6756a25ebad0e27ef6daeb)
+    * [EEUU repatría a tres detenidos de Guantánamo, uno sin cargos durante 17 años](https://apnews.com/article/guantanamo-detenido-kenia-al-qaeda-11-de-septiembre-3b550edb5b178270363d9684bfc2ef19)
     
 * [Quizzes](https://apnews.com/quizzes)
     
