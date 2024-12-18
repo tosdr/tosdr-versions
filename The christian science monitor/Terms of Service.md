@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### Why do prosecutors see the killing of UnitedHealthcare’s CEO as an act of terrorism?](https://www.csmonitor.com/USA/2024/1218/luigi-mangione-unitedhealthcare-terrorism "Why do prosecutors see the killing of UnitedHealthcare’s CEO as an act of terrorism?")
+
 [### Elon Musk now calls himself a ‘cultural Christian.’ What does that mean?](https://www.csmonitor.com/USA/Society/2024/1218/elon-musk-cultural-christian-richard-dawkins "Elon Musk now calls himself a ‘cultural Christian.’ What does that mean?")
 
 [### Tracing fentanyl’s path into the US starts at this port. It doesn’t end there.](https://www.csmonitor.com/USA/2024/1217/fentanyl-trump-us-mexico-china "Tracing fentanyl’s path into the US starts at this port. It doesn’t end there.")
-
-[### Teenage girl student identified in Wisconsin Christian school shooting](https://www.csmonitor.com/USA/2024/1217/wisconsin-school-shooting-abundant-life "Teenage girl student identified in Wisconsin Christian school shooting")
 
 * * *
 
