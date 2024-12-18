@@ -69,6 +69,7 @@ This Application uses Trackers to enable basic interactions and functionalities,
     Storage duration:
     
     * \_fbp: 3 months
+    * lastExternalReferrer: duration of the session
     
 * ### Facebook Oauth
     
@@ -81,6 +82,7 @@ This Application uses Trackers to enable basic interactions and functionalities,
     Storage duration:
     
     * \_fbp: 3 months
+    * lastExternalReferrer: duration of the session
     
 
 ### Experience
@@ -955,6 +957,7 @@ This Application uses Trackers to deliver personalized ads or marketing content,
     Storage duration:
     
     * \_fbp: 3 months
+    * lastExternalReferrer: duration of the session
     
 * ### Adobe Audience Manager (Adobe Systems Incorporated)
     
