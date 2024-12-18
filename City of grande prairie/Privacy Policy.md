@@ -532,7 +532,7 @@ Mobile Menu
             * [Joint Appeals Board - Subdivision and Development Appeal Board and General Appeals Board](https://www.cityofgp.com/city-government/mayor-city-council/boards-committees/joint-appeals-board-subdivision-and)
             * [Youth Advisory Council](https://www.cityofgp.com/city-government/mayor-city-council/boards-committees/youth-advisory-council)
         * [2025 Election](https://www.cityofgp.com/city-government/mayor-city-council/2025-election)
-            * [Information for Voters](https://www.cityofgp.com/city-government/mayor-city-council/2022-election/information-voters)
+            * [Information for Voters](https://www.cityofgp.com/city-government/mayor-city-council/2025-election/information-voters)
             * [Candidate Information](https://www.cityofgp.com/city-government/mayor-city-council/2025-election/candidate-information)
             * [Finances & Contributions](https://www.cityofgp.com/city-government/mayor-city-council/2022-election/finances-contributions)
             * [Third Party Advertising](https://www.cityofgp.com/city-government/mayor-city-council/2025-election/third-party-advertising)
