@@ -864,7 +864,7 @@ The personal data we may collect and process about you varies depending on our r
 
 We take privacy, data protection and our legal obligations very seriously. We are committed to being transparent with you about how we use personal data. This Privacy Notice aims to describe our privacy practices in a clear, accessible and easy to understand way and to let you know how you can exercise your rights in relation to your data. 
 
-This Privacy Notice applies where Twilio processes personal data as a **data controller**, in connection with the products and services we provide to our customers (“**Services**”) and the operation of our business, including our websites.  As a data controller, we determine the purpose (why) and means (how) of personal data processing and are ultimately responsible for the correct handling of your data, in accordance with applicable law. 
+This Privacy Notice applies where Twilio processes personal data as a **data controller**, in connection with the products and services we provide to our customers (“**Services**”) and the operation of our business, including our websites.  As a data controller, we determine the purpose (why) and means (how) of personal data processing and are ultimately responsible for the correct handling of your data, in accordance with applicable law.  This Privacy Notice describes our general privacy practices. Depending on how you interact with us or the specific services you use, additional privacy notices may apply. These supplemental notices will be provided to you at or before the time we collect your personal data. These supplemental notices should be read together with this Privacy Notice and are incorporated by reference.
 
 This Notice does not apply to the Personal Data we process in relation to job applicants. This is covered by our [Global Applicant Privacy Notice](https://www.twilio.com/en-us/legal/privacy/Global-Applicant-Privacy-Notice).
 
@@ -1490,7 +1490,7 @@ Our products and services are not directed to or intended to be used by children
 [Automated Decision Making](#how-twilio-processes-your-personal-information)
 ----------------------------------------------------------------------------
 
-Automated decision-making occurs when an electronic system uses personal data to make a decision about you, without human involvement. Twilio uses automated decision-making leveraging a variety of signals derived from records we collect or obtain from third party vendors, to help monitor, identify, and suspend accounts sending spam or engaging in other abusive or fraudulent activity. If your account is suspended under these circumstances you will be notified of the suspension and given an opportunity to request human review of the suspension decision.
+Automated decision-making occurs when an electronic system uses personal data to make a decision about you, without human involvement. Twilio uses automated decision-making leveraging a variety of signals derived from records we collect or obtain from third party vendors, to help monitor, identify, and suspend accounts sending spam or engaging in other abusive or fraudulent activity.  We may also use this information to evaluate your account application and make decisions about whether to approve or decline. If your account is suspended or not approved under these circumstances you will be notified and given an opportunity to request human review of the decision.
 
 We may rely on other automated decision-making where: 
 
