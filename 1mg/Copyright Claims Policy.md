@@ -11,7 +11,7 @@
     NEW](https://www.1mg.com/corporate)
 * [Care Plan](https://www.1mg.com/subscription-plan/subscriptions)
 
-Login | Sign Up
+[Login](#) | [Sign Up](#)
 
 [Offers](https://www.1mg.com/offers)
 
@@ -946,7 +946,7 @@ QUICK BUY! Get 15% off on medicines\*
 
 [Quick order](https://www.1mg.com/order-with-prescription)
 
-* Health Resource Center
+* [Health Resource Center](#)
     
     * [All Diseases](https://www.1mg.com/all-diseases)
     * [All Medicines](https://www.1mg.com/drugs-all-medicines)
