@@ -39,6 +39,8 @@ Color has been recognized by Fast Company as a 2024 Next Big Things in Tech Awar
 
 ### **Last Updated: August 12, 2024**
 
+[Click here for a PDF version of this policy >](https://learn.color.com/rs/878-SLQ-748/images/Color-Health-Terms-of-Service.pdf?version=0)
+
 This content is also available in: [العربية](https://www.color.com/ar/policies/tos) [繁體中文](https://www.color.com/zh-hant/policies/tos) [Filipino](https://www.color.com/fil/policies/tos) [한국어](https://www.color.com/ko/policies/tos) [Русский](https://www.color.com/ru/policies/tos) [Español](https://www.color.com/es/policies/tos) [Tiếng Việt](https://www.color.com/vi/policies/tos) [简体中文](https://www.color.com/zh-hans/policies/%e6%9c%8d%e5%8a%a1%e6%9d%a1%e6%ac%be)
 
 Please read these Terms of Service (the “**Terms**”) and our [Privacy Notice](http://www.color.com/pp-update)  (“**Privacy Notice**”) carefully because they govern your use of Color Health, Inc.’s and its affiliates’ (collectively, “**Color**,” “**we**,” “**us**,” or “**our**”) services, including use and access of our website located at [www.color.com](http://www.color.com/) (the “**Site**”), corresponding mobile applications (“**App**”), our healthcare delivery and technology platform services, available screenings and tests (“**Tests**”) and products (as further described below) accessible via the **Site,** and all other websites and online applications operated by Color or its affiliates that link to or incorporate these Terms (“**Other Services**”).   To make these Terms easier to read, the Site,  services, products, tests, App and Other Services are collectively called the “**Services**.”
