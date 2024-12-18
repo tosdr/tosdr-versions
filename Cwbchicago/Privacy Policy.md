@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/12/Destin-Young-and-suspects-326x245.jpg)](https://cwbchicago.com/2024/12/woman-was-part-of-five-person-mob-that-mugged-red-line-passengers-prosecutors-claim.html "Woman was part of five-person mob that mugged Red Line passengers, prosecutors claim")
+
+CTA
+
+### [Woman was part of five-person mob that mugged Red Line passengers, prosecutors claim](https://cwbchicago.com/2024/12/woman-was-part-of-five-person-mob-that-mugged-red-line-passengers-prosecutors-claim.html "Woman was part of five-person mob that mugged Red Line passengers, prosecutors claim")
+
+[December 14, 2024 9:17 PM](https://cwbchicago.com/2024/12)
+
+Prosecutors say a woman on felony pretrial release was part of a five-person mob that attacked and robbed two men in separate crimes on the Red Line in October.[](https://cwbchicago.com/2024/12/woman-was-part-of-five-person-mob-that-mugged-red-line-passengers-prosecutors-claim.html "Woman was part of five-person mob that mugged Red Line passengers, prosecutors claim")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/12/Naronn-Cain-326x245.jpg)](https://cwbchicago.com/2024/12/10-years-in-federal-prison-for-man-who-carjacked-couple-because-he-needed-to-get-home-quickly.html "10+ years in federal prison for man who carjacked couple because he needed to get home quickly")
+
+West Town
+
+### [10+ years in federal prison for man who carjacked couple because he needed to get home quickly](https://cwbchicago.com/2024/12/10-years-in-federal-prison-for-man-who-carjacked-couple-because-he-needed-to-get-home-quickly.html "10+ years in federal prison for man who carjacked couple because he needed to get home quickly")
+
+[December 14, 2024 1:46 PM](https://cwbchicago.com/2024/12)
+
+The decision to carjack a couple at gunpoint because the driver of his car was going too slow and he wanted to get home has landed a Chicago man in federal prison. Naronn Cain, 27, received a sentence of 10 years and 5 months from U.S. District Judge John Blakey upon pleading guilty to carjacking and using a firearm during the commission of a violent crime.[](https://cwbchicago.com/2024/12/10-years-in-federal-prison-for-man-who-carjacked-couple-because-he-needed-to-get-home-quickly.html "10+ years in federal prison for man who carjacked couple because he needed to get home quickly")
+
 [![](https://cwbchicago.com/wp-content/uploads/2023/12/Generic-red-tape-edited-326x245.jpg)](https://cwbchicago.com/2024/12/gunman-opens-fire-on-car-occupied-by-2-off-duty-cops-on-west-side-police-say.html "Gunman opens fire on car occupied by 2 off-duty cops on West Side, police say")
 
 Austin
@@ -252,27 +272,6 @@ Austin
 [December 14, 2024 12:54 PM](https://cwbchicago.com/2024/12)
 
 Chicago police and COPA are investigating a shooting that involved two off-duty CPD officers on the West Side overnight. A 26-year-old man was injured during the incident.[](https://cwbchicago.com/2024/12/gunman-opens-fire-on-car-occupied-by-2-off-duty-cops-on-west-side-police-say.html "Gunman opens fire on car occupied by 2 off-duty cops on West Side, police say")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/12/BB21-326x245.jpg)](https://cwbchicago.com/2024/12/gunshot-victim-flags-down-passerby-for-help-in-neighborhood-previously-served-by-shotspotter.html "Gunshot victim flags down passerby for help in neighborhood previously served by ShotSpotter")
-
-Back of the Yards
-
-### [Gunshot victim flags down passerby for help in neighborhood previously served by ShotSpotter](https://cwbchicago.com/2024/12/gunshot-victim-flags-down-passerby-for-help-in-neighborhood-previously-served-by-shotspotter.html "Gunshot victim flags down passerby for help in neighborhood previously served by ShotSpotter")
-
-[December 14, 2024 9:17 AM](https://cwbchicago.com/2024/12)
-
-A woman suffering from a gunshot wound flagged down a passerby for help in Back of the Yards last night. Police had received no calls of shots fired in the area, which was monitored by ShotSpotter detectors until the mayor pulled the plug on the system in September.  
-[](https://cwbchicago.com/2024/12/gunshot-victim-flags-down-passerby-for-help-in-neighborhood-previously-served-by-shotspotter.html "Gunshot victim flags down passerby for help in neighborhood previously served by ShotSpotter")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/12/Lamount-Vaughn-326x245.jpg)](https://cwbchicago.com/2024/12/man-charged-with-participating-in-brazen-shootout-near-howard-cta-station.html "Man charged with participating in brazen shootout near Howard CTA station")
-
-Rogers Park
-
-### [Man charged with participating in brazen shootout near Howard CTA station](https://cwbchicago.com/2024/12/man-charged-with-participating-in-brazen-shootout-near-howard-cta-station.html "Man charged with participating in brazen shootout near Howard CTA station")
-
-[December 14, 2024 8:24 AM](https://cwbchicago.com/2024/12)
-
-Prosecutors have charged an Evanston man with participating in a shootout on a busy West Rogers Park street that has seen more than its share of gunfire and murders this year.[](https://cwbchicago.com/2024/12/man-charged-with-participating-in-brazen-shootout-near-howard-cta-station.html "Man charged with participating in brazen shootout near Howard CTA station")
 
 #### Daily email newsletter
 
