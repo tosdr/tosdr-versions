@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_6.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_3.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,7 +148,9 @@
 
 Сейчас читают
 
-* [Блины из шпината с фетой](https://www.russianfood.com/recipes/recipe.php?rid=173606)
+* [Закуска "Ёлочки" из творога и шпината](https://www.russianfood.com/recipes/recipe.php?rid=165275)
+* [Свиная корейка, запечённая в мандариново-соевом соусе](https://www.russianfood.com/recipes/recipe.php?rid=165349)
+* [Кабачковая икра на сковороде](https://www.russianfood.com/recipes/recipe.php?rid=157524)
 
 |     |
 | --- |
@@ -170,6 +172,48 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Макароны с мясным фаршем в томатном соусе](https://www.russianfood.com/recipes/recipe.php?rid=175125) |     |
+
+[![Фото к рецепту: Макароны с мясным фаршем в томатном соусе](//img1.russianfood.com/dycontent/images_upl/760/sm_759629.jpg "Фото к рецепту: Макароны с мясным фаршем в томатном соусе")](https://www.russianfood.com/recipes/recipe.php?rid=175125)
+
+Макароны с мясным соусом из фарша готовятся быстрее, чем из цельных кусочков мяса. Поэтому такое блюдо - отличное решение, когда нужно приготовить вкусный ужин на скорую руку.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=175125)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175125#comments) | 18.12.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Кукурузная каша с брынзой, беконом и яйцом пашот](https://www.russianfood.com/recipes/recipe.php?rid=175110) |     |
+
+[![Фото к рецепту: Кукурузная каша с брынзой, беконом и яйцом пашот](//img1.russianfood.com/dycontent/images_upl/762/sm_761136.jpg "Фото к рецепту: Кукурузная каша с брынзой, беконом и яйцом пашот")](https://www.russianfood.com/recipes/recipe.php?rid=175110)
+
+Простая кукурузная каша может снова заинтересовать, если проявить немного фантазии. В этом блюде каша приобретает новые оттенки благодаря солёной брынзе и хрустящему бекону. Нежности блюду придаёт яйцо с жидким желтком.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=175110)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175110#comments) | 18.12.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Куриные котлеты в беконе (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=174544) |     |
+
+[![Фото к рецепту: Куриные котлеты в беконе (в духовке)](//img1.russianfood.com/dycontent/images_upl/760/sm_759943.jpg "Фото к рецепту: Куриные котлеты в беконе (в духовке)")](https://www.russianfood.com/recipes/recipe.php?rid=174544)
+
+Из куриного фарша формируем небольшие котлеты, оборачиваем их полосками копчёного бекона, а потом запекаем. Такие котлеты-рулетики получаются румяными, очень сочными и нежными, с приятным копчёным ароматом бекона и паприки.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174544)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174544#comments) | 18.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -225,7 +269,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Воскресное блюдоедство](https://www.russianfood.com/blogs/?id=421071) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=172869#comments) | 18.12.24 |     |
+|     | [Воскресное блюдоедство](https://www.russianfood.com/blogs/?id=421071) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=172869#comments) | 18.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -339,48 +383,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Воскресное блюдоедство](https://www.russianfood.com/blogs/?id=421071) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175142#comments) | 17.12.24 |     |
 
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Пельмени с рыбой и салом](https://www.russianfood.com/recipes/recipe.php?rid=175145) |     |
-
-[![Фото к рецепту: Пельмени с рыбой и салом](//img1.russianfood.com/dycontent/images_upl/761/sm_760453.jpg "Фото к рецепту: Пельмени с рыбой и салом")](https://www.russianfood.com/recipes/recipe.php?rid=175145)
-
-Эти пельмени – кулинарная загадка! На вкус милые мешочки с фаршем очень напоминают курицу. Нежное филе речной рыбы становится ещё деликатнее и сочнее, если добавить немного сала. Минимальный набор пряностей позволит наслаждаться натуральным вкусом блюда.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=175145)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Воскресное блюдоедство](https://www.russianfood.com/blogs/?id=421071) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175145#comments) | 17.12.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Куриные сердечки, тушенные с гречкой (в казанке)](https://www.russianfood.com/recipes/recipe.php?rid=175136) |     |
-
-[![Фото к рецепту: Куриные сердечки, тушенные с гречкой (в казанке)](//img1.russianfood.com/dycontent/images_upl/761/sm_760323.jpg "Фото к рецепту: Куриные сердечки, тушенные с гречкой (в казанке)")](https://www.russianfood.com/recipes/recipe.php?rid=175136)
-
-Бюджетное блюдо с минимумом продуктов может быть очень вкусным. Рассыпчатая крупа, питательные кусочки птицы рады видеть на домашнем столу. Куриные сердечки, тушенные с гречкой (в казанке), сможет приготовить даже начинающий кулинар.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=175136)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Воскресное блюдоедство](https://www.russianfood.com/blogs/?id=421071) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175136#comments) | 17.12.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты › [Новогодние рецепты на новогодний стол 2025 - год Змеи](https://www.russianfood.com/themes/?theme_id=30)<br><br>[Салат оливье на Новый год Змеи](https://www.russianfood.com/recipes/recipe.php?rid=175012) |     |
-
-[![Фото к рецепту: Салат оливье на Новый год Змеи](//img1.russianfood.com/dycontent/images_upl/758/sm_757042.jpg "Фото к рецепту: Салат оливье на Новый год Змеи")](https://www.russianfood.com/recipes/recipe.php?rid=175012)
-
-Кого в новом году поцелует удача?..) Новогодний салат оливье, оформленный в виде очень-очень модной Змеи – символа 2025 года, – создаст замечательное праздничное настроение. Оливье готовится с варёной колбасой и с добавлением зелёного лука. Украшается салат преимущественно маринованными огурцами.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=175012)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [КомуДобавки](https://www.russianfood.com/blogs/?id=310652) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175012#comments) | 17.12.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -452,10 +454,10 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/760/alt1_759843.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175019) | [![](//img1.russianfood.com/dycontent/images_upl/753/alt1_752882.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174192) | [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760453.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175145) | [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760735.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174937) | [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760274.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175135) | [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760112.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175092) | [![](//img1.russianfood.com/dycontent/images_upl/714/alt1_713542.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=172869) |
-| [Ленивые голубцы с куриным фаршем (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=175019) | [Салат с ветчиной, сельдереем, кукурузой, сыром и перцем](https://www.russianfood.com/recipes/recipe.php?rid=174192) | [Пельмени с рыбой и салом](https://www.russianfood.com/recipes/recipe.php?rid=175145) | [Творожная запеканка с айвой](https://www.russianfood.com/recipes/recipe.php?rid=174937) | [Капуста, тушенная с беконом, грибами и клюквой](https://www.russianfood.com/recipes/recipe.php?rid=175135) | [Запеканка из макарон с сосисками в томатном соусе](https://www.russianfood.com/recipes/recipe.php?rid=175092) | [Свиные рёбрышки, тушенные с квашеной и свежей капустой](https://www.russianfood.com/recipes/recipe.php?rid=172869) |
-| [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760409.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175142) | [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760933.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175120) | [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760323.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175136) | [![](//img1.russianfood.com/dycontent/images_upl/708/alt1_707066.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=171805) | [![](//img1.russianfood.com/dycontent/images_upl/760/alt1_759976.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175094) | [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744312.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174171) | [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760696.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174932) |
-| [Рыба, запечённая в сметанном соусе с овощами](https://www.russianfood.com/recipes/recipe.php?rid=175142) | [Свинина с картофелем, запечённые в тыкве](https://www.russianfood.com/recipes/recipe.php?rid=175120) | [Куриные сердечки, тушенные с гречкой (в казанке)](https://www.russianfood.com/recipes/recipe.php?rid=175136) | [Ленивые голубцы с цветной и белокочанной капустой (без риса)](https://www.russianfood.com/recipes/recipe.php?rid=171805) | [Картофельный киш с ветчиной и сыром в сливочной заливке](https://www.russianfood.com/recipes/recipe.php?rid=175094) | [Шоколадное печенье с фисташками](https://www.russianfood.com/recipes/recipe.php?rid=174171) | [Слойки с клюквой и бананом](https://www.russianfood.com/recipes/recipe.php?rid=174932) |
+| [![](//img1.russianfood.com/dycontent/images_upl/714/alt1_713542.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=172869) | [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760735.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174937) | [![](//img1.russianfood.com/dycontent/images_upl/762/alt1_761136.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175110) | [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760409.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175142) | [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760696.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174932) | [![](//img1.russianfood.com/dycontent/images_upl/757/alt1_756528.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174462) | [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744312.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174171) |
+| [Свиные рёбрышки, тушенные с квашеной и свежей капустой](https://www.russianfood.com/recipes/recipe.php?rid=172869) | [Творожная запеканка с айвой](https://www.russianfood.com/recipes/recipe.php?rid=174937) | [Кукурузная каша с брынзой, беконом и яйцом пашот](https://www.russianfood.com/recipes/recipe.php?rid=175110) | [Рыба, запечённая в сметанном соусе с овощами](https://www.russianfood.com/recipes/recipe.php?rid=175142) | [Слойки с клюквой и бананом](https://www.russianfood.com/recipes/recipe.php?rid=174932) | [Кукурузное печенье с грушей и овсяными хлопьями](https://www.russianfood.com/recipes/recipe.php?rid=174462) | [Шоколадное печенье с фисташками](https://www.russianfood.com/recipes/recipe.php?rid=174171) |
+| [![](//img1.russianfood.com/dycontent/images_upl/758/alt1_757042.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175012) | [![](//img1.russianfood.com/dycontent/images_upl/753/alt1_752882.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174192) | [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760112.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175092) | [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760453.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175145) | [![](//img1.russianfood.com/dycontent/images_upl/760/alt1_759976.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175094) | [![](//img1.russianfood.com/dycontent/images_upl/760/alt1_759629.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175125) | [![](//img1.russianfood.com/dycontent/images_upl/708/alt1_707066.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=171805) |
+| [Салат оливье на Новый год Змеи](https://www.russianfood.com/recipes/recipe.php?rid=175012) | [Салат с ветчиной, сельдереем, кукурузой, сыром и перцем](https://www.russianfood.com/recipes/recipe.php?rid=174192) | [Запеканка из макарон с сосисками в томатном соусе](https://www.russianfood.com/recipes/recipe.php?rid=175092) | [Пельмени с рыбой и салом](https://www.russianfood.com/recipes/recipe.php?rid=175145) | [Картофельный киш с ветчиной и сыром в сливочной заливке](https://www.russianfood.com/recipes/recipe.php?rid=175094) | [Макароны с мясным фаршем в томатном соусе](https://www.russianfood.com/recipes/recipe.php?rid=175125) | [Ленивые голубцы с цветной и белокочанной капустой (без риса)](https://www.russianfood.com/recipes/recipe.php?rid=171805) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -471,5 +473,3 @@
 [![Рейтинг@Mail.ru](//top-fwz1.mail.ru/counter?id=1447532;t=452;l=1)](http://top.mail.ru/jump?from=1447532)       
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
-
-(125)
