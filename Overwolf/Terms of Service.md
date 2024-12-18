@@ -153,7 +153,7 @@ Overwolf, Ltd.
 **By email:** [support@overwolf.com](mailto:support@overwolf.com).  
 **By mail:** Sapir Tower, 40 Tuval St. Ramat Gan, Israel, 5252247.
 
-Last updated on **Nov 13, 2024**
+Last updated on **Dec 18, 2024**
 
 [Previous
 
