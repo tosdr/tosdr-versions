@@ -32,9 +32,9 @@ Menu
         
     * Fans & Collectors
         
-        [Magnum, p.i. Ferrari](https://www.playmobil.us/en-us/web-shop/magnum_-p.i.-ferrari/ "Magnum, p.i. Ferrari")[Volkswagen](https://www.playmobil.us/en-us/web-shop/volkswagen/ "Volkswagen")[Porsche](https://www.playmobil.us/en-us/web-shop/porsche/ "Porsche")[Ferrari](https://www.playmobil.us/en-us/web-shop/ferrari/ "Ferrari")[Mercedes Benz](https://www.playmobil.us/en-us/web-shop/mercedes-benz/ "Mercedes Benz")
+        [Magnum, p.i. Ferrari](https://www.playmobil.us/en-us/web-shop/magnum_-p.i.-ferrari/ "Magnum, p.i. Ferrari")[Citroen](https://www.playmobil.us/en-us/web-shop/citroen/ "Citroen")[Volkswagen](https://www.playmobil.us/en-us/web-shop/volkswagen/ "Volkswagen")[Porsche](https://www.playmobil.us/en-us/web-shop/porsche/ "Porsche")[Ferrari](https://www.playmobil.us/en-us/web-shop/ferrari/ "Ferrari")[Mercedes Benz](https://www.playmobil.us/en-us/web-shop/mercedes-benz/ "Mercedes Benz")
         
-        [Mini Cooper](https://www.playmobil.us/en-us/web-shop/mini-cooper/ "Mini Cooper")[A-Team](https://www.playmobil.us/en-us/web-shop/a-team/ "A-Team")[Aston Martin](https://www.playmobil.us/en-us/web-shop/aston-martin/ "Aston Martin")[Knight Rider](https://www.playmobil.us/en-us/web-shop/knight-rider/ "Knight Rider")[Naruto](https://www.playmobil.com/en-us/content/naruto_themepage/naruto_themepage.html "Naruto")
+        [Mini Cooper](https://www.playmobil.us/en-us/web-shop/mini-cooper/ "Mini Cooper")[A-Team](https://www.playmobil.us/en-us/web-shop/a-team/ "A-Team")[Aston Martin](https://www.playmobil.us/en-us/web-shop/aston-martin/ "Aston Martin")[Knight Rider](https://www.playmobil.us/en-us/web-shop/knight-rider/ "Knight Rider")[Asterix](https://www.playmobil.us/en-us/web-shop/asterix/ "Asterix")[Naruto](https://www.playmobil.com/en-us/content/naruto_themepage/naruto_themepage.html "Naruto")
         
     
     [Discover All](https://www.playmobil.us/en-us/web-shop/)
@@ -62,7 +62,7 @@ Menu
         
     * Exclusive
         
-        [PLAYMOBIL PLUS](https://www.playmobil.us/en-us/web-shop/playmobil-plus/ "PLAYMOBIL PLUS")[Bundles](https://www.playmobil.us/en-us/web-shop/bundles/ "Bundles")
+        [PLAYMOBIL PLUS](https://www.playmobil.us/en-us/web-shop/playmobil-plus/ "PLAYMOBIL PLUS")[Bundles](https://www.playmobil.us/en-us/web-shop/bundles/ "Bundles")[Merchandise](https://www.playmobil.us/en-us/web-shop/merchandise/ "Merchandise")
         
     *       [](https://www.playmobil.com/en-us/web-shop/new/)
         
