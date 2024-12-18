@@ -117,7 +117,7 @@ Follow Us
 © 2024 [ACIUF](https://aciuf.net/)  
 All Rights Reserved
 
-[ACIUF](https://aciuf.net/?blackhole=295c2752f0 "Do NOT follow this link or you will be banned from the site!")
+[ACIUF](https://aciuf.net/?blackhole=3aabb37a8a "Do NOT follow this link or you will be banned from the site!")
 
 Manage Cookie Consent
 
