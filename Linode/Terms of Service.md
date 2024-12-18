@@ -286,25 +286,35 @@ Master Services Agreement
 
 -----------------------------
 
+[View now](https://www.linode.com/legal-msa/)
+
 Data Processing Addendum
 
 
 ----------------------------
+
+[View now](https://www.akamai.com/site/en/documents/akamai/akamai-data-protection-addendum.pdf)
 
 Acceptable Use Policy
 
 
 -------------------------
 
+[View now](https://www.linode.com/legal-aup/)
+
 Cookie Policy
 
 
 -----------------
 
+[View now](https://www.linode.com/legal-cookies/)
+
 Privacy Policy
 
 
 ------------------
+
+[View now](https://www.linode.com/legal-privacy/)
 
 Submit a Trust & Safety Request  
 
@@ -315,15 +325,21 @@ Report Abuse
 
 ----------------
 
+[View now](https://www.linode.com/legal-abuse/)
+
 Data & Privacy Requests
 
 
 ---------------------------
 
+[View now](https://www.linode.com/legal-dpr/)
+
 Law Enforcement & Regulatory Agencies
 
 
 -----------------------------------------
+
+[View now](https://www.linode.com/legal-lera/)
 
 ### Program Policies
 
