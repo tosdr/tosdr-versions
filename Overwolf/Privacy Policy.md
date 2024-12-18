@@ -274,7 +274,7 @@ Under the Utah Consumer Privacy Act (“**UCPA**”) if you are a resident of Ut
 
 Please read the _“Highlights Sections”_ paragraph under the [_CPA Additional Information._](#additional-information-for-colorado-residents)
 
-Last updated on **Nov 13, 2024**
+Last updated on **Dec 18, 2024**
 
 [Previous
 
