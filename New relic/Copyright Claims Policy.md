@@ -171,17 +171,17 @@ Submit
     
     The new paradigm of observability arrives. Join us February 25.](https://newrelic.com/event/new-relic-now-2025)
     
-    [![o11y 2024  icon](/sites/default/files/2024-10/o11y2024-icon.svg)
+    [![DEM eBook icon](/sites/default/files/2024-12/icon_ebook.svg)
     
-    2024 Observability Forecast
+    Put users first.
     
-    Power your decisions with invaluable observability insights! Read the report.](https://newrelic.com/resources/report/observability-forecast/2024)
+    Learn how to stay competitive with AI-powered digital experience monitoring. Read now.](https://newrelic.com/resources/ebooks/does-your-dem-strategy-connect-all-the-dots)
     
-    [![nr now white](/sites/default/files/2024-09/LOGO-white.svg)
+    [![DEM Buyer&#039;s Guide](/sites/default/files/2024-12/icon_NR_DEM%201.svg)
     
-    New Relic Now
+    Lead in digital experience.
     
-    AI meets observability. On-demand access available now.](https://newrelic.com/event/new-relic-now-on-demand)
+    Choose the right AI-powered DEM solution. Get Buyer’s Guide.](https://newrelic.com/resources/guide/ai-powered-dem-bring-greater-intelligence-to-every-digital-experience)
     
     1
     
@@ -304,17 +304,17 @@ Submit
         
         Learn the value of New Relic to your business.](https://newrelic.com/platform/value-calculator)
     
-    [![o11y 2024  icon](/sites/default/files/2024-10/o11y2024-icon.svg)
+    [![DEM eBook icon](/sites/default/files/2024-12/icon_ebook.svg)
     
-    2024 Observability Forecast
+    Drive ROI with AI-powered DEM.
     
-    Stay ahead with essential observability insights! Read the report now.](https://newrelic.com/resources/report/observability-forecast/2024)
+    Great digital experiences demand Intelligent Observability. Read now.](https://newrelic.com/resources/ebooks/does-your-dem-strategy-connect-all-the-dots)
     
-    [![New Relic Now SVG](/sites/default/files/2024-09/LOGO-white_0.svg)
+    [![New Relic Now 2025 Promo Icon](/sites/default/files/2024-12/NRN%2025-promo-icon.svg)
     
-    New Relic Now
+    Observability, transformed.
     
-    See the future of observability. On-demand access available now.](https://newrelic.com/event/new-relic-now-on-demand)
+    Explore Intelligent Observability. RSVP for New Relic Now.](https://newrelic.com/event/new-relic-now-2025)
     
     [![gartner mq 2024 icon](/sites/default/files/2024-10/gartner-report-icon.svg)
     
