@@ -230,12 +230,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-Want more stories with less ads? Try
+Can't get enough Fark in your life? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-It's what the cool kids are doing.  
-It also helps us pay the bills.
+More threads. More community. More Farking.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -335,16 +334,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [The FBI says stop pointing lasers at drones, you might blind a pilot](https://www.fark.com/goto/13496922) ( [nypost.com](https://www.fark.com/goto/13496922) ) » [(14 comments)](https://www.fark.com/comments/13496922/The-FBI-says-stop-pointing-lasers-at-drones-you-might-blind-a-pilot) |
-| [Discussion](https://www.fark.com/discussion/) | ["I'm addicted to living out a risky stepmom fantasy I've seen in certain movies" (possible nsfw content on page)](https://www.fark.com/goto/13496870) ( [thesun.co.uk](https://www.fark.com/goto/13496870) ) » [(0 comments)](https://www.fark.com/comments/13496870/Im-addicted-to-living-out-a-risky-stepmom-fantasy-Ive-seen-in-certain-movies-possible-nsfw-content-on-page) |
-| [Sports](https://www.fark.com/sports/) | [Shaq's daughter misses home during Gators' season. Family group chat now includes daily dunking emojis](https://www.fark.com/goto/13496882) ( [theshadowleague.com](https://www.fark.com/goto/13496882) ) » [(0 comments)](https://www.fark.com/comments/13496882/Shaqs-daughter-misses-home-during-Gators-season-Family-group-chat-now-includes-daily-dunking-emojis) |
-| [Business](https://www.fark.com/business/) | ["Some of the service costs on a McLaren are really quite lumpy"](https://www.fark.com/goto/13497032) ( [jalopnik.com](https://www.fark.com/goto/13497032) ) » [(9 comments)](https://www.fark.com/comments/13497032/Some-of-service-costs-on-a-McLaren-are-really-quite-lumpy) |
-| [STEM](https://www.fark.com/stem/) | [Generative AI finally delivers the feature we have been waiting for: Conversations with school shooters](https://www.fark.com/goto/13496978) ( [futurism.com](https://www.fark.com/goto/13496978) ) » [(1 comment)](https://www.fark.com/comments/13496978/Generative-AI-finally-delivers-feature-we-have-been-waiting-for-Conversations-with-school-shooters) |
-| [Entertainment](https://www.fark.com/entertainment/) | [OK. It's a shiatty flute album](https://www.fark.com/goto/13496988) ( [hollywoodreporter.com](https://www.fark.com/goto/13496988) ) » [(3 comments)](https://www.fark.com/comments/13496988/OK-Its-a-shiatty-flute-album) |
-| [Fandom](https://www.fark.com/fandom/) | [Its about to be 2025. What stupid things still exist in gaming that should have died long ago?](https://www.fark.com/goto/13497050) ( [fark.com](https://www.fark.com/goto/13497050) ) » [(14 comments)](https://www.fark.com/comments/13497050/Its-about-to-be-2025-What-stupid-things-still-exist-in-gaming-that-should-have-died-long-ago) |
-| [D'awww](https://www.fark.com/dawww/) | [A black bear snuggles into its hibernating den for the winter](https://www.fark.com/goto/13496544) ( [yahoo.com](https://www.fark.com/goto/13496544) ) » [(1 comment)](https://www.fark.com/comments/13496544/A-black-bear-snuggles-into-its-hibernating-den-for-winter) |
-| [Food](https://www.fark.com/food/) | [Beware the Food Police of social media](https://www.fark.com/goto/13496972) ( [theguardian.com](https://www.fark.com/goto/13496972) ) » [(2 comments)](https://www.fark.com/comments/13496972/Beware-Food-Police-of-social-media) |
-| [Politics](https://www.fark.com/politics/) | [Perhaps one of the very few advantages of a Senate controlled by old men is the fact tht one of them is old enough to have actually HAD polio, and is none to pleased about attempts to call the vaccine into question](https://www.fark.com/goto/13497010) ( [msn.com](https://www.fark.com/goto/13497010) ) » [(17 comments)](https://www.fark.com/comments/13497010/Perhaps-one-of-very-few-advantages-of-a-Senate-controlled-by-old-men-is-fact-tht-one-of-them-is-old-enough-to-have-actually-HAD-polio-is-none-to-pleased-about-attempts-to-call-vaccine-into-question) |
+| [Main](https://www.fark.com/) | [We've been panicking over strange lights in the sky for more than 100 years](https://www.fark.com/goto/13497334) ( [gizmodo.com](https://www.fark.com/goto/13497334) ) » [(30 comments)](https://www.fark.com/comments/13497334/Weve-been-panicking-over-strange-lights-in-sky-for-more-than-100-years) |
+| [Discussion](https://www.fark.com/discussion/) | [The Tuesday Night Science Channel Discussion Thread, 9PM Eastern](https://www.fark.com/goto/13496984) ( [fark.com](https://www.fark.com/goto/13496984) ) » [(2 comments)](https://www.fark.com/comments/13496984/The-Tuesday-Night-Science-Channel-Discussion-Thread-9PM-Eastern) |
+| [Sports](https://www.fark.com/sports/) | [There is one bowl game for Tuesday Night, as Memphis plays West Virginia in the Scooter's Coffee Frisco Bowl. Will Memphis make the Mountaineers sing the blues? Or will West Virginia hunt down the Tigers? Kickoff is at 9:00 PM ET on ESPN](https://www.fark.com/goto/13496506) ( [espn.com](https://www.fark.com/goto/13496506) ) » [(3 comments)](https://www.fark.com/comments/13496506/There-is-one-bowl-game-for-Tuesday-Night-as-Memphis-plays-West-Virginia-in-Scooters-Coffee-Frisco-Bowl-Will-Memphis-make-Mountaineers-sing-blues-Or-will-West-Virginia-hunt-down-Tigers-Kickoff-is-at-900-PM-ET-on-ESPN) |
+| [Business](https://www.fark.com/business/) | [Cryptocurrency platform MicroStrategy to be joining the NASDAQ](https://www.fark.com/goto/13496898) ( [wtop.com](https://www.fark.com/goto/13496898) ) » [(9 comments)](https://www.fark.com/comments/13496898/Cryptocurrency-platform-MicroStrategy-to-be-joining-NASDAQ) |
+| [STEM](https://www.fark.com/stem/) | [The Tuesday Night Science Channel Discussion Thread, 9PM Eastern](https://www.fark.com/goto/13496984) ( [fark.com](https://www.fark.com/goto/13496984) ) » [(2 comments)](https://www.fark.com/comments/13496984/The-Tuesday-Night-Science-Channel-Discussion-Thread-9PM-Eastern) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Get to the reindea](https://www.fark.com/goto/13497308) ( [dailymail.co.uk](https://www.fark.com/goto/13497308) ) » [(0 comments)](https://www.fark.com/comments/13497308/Get-to-reindea) |
+| [Fandom](https://www.fark.com/fandom/) | [The crew is on the move again, and they're not alone. Let's see if they take that left turn at Tatooine. Episode 4 of "Star Wars: Skeleton Crew" drops on D+ at 9 PM ET](https://www.fark.com/goto/13496960) ( [msn.com](https://www.fark.com/goto/13496960) ) » [(0 comments)](https://www.fark.com/comments/13496960/The-crew-is-on-move-again-theyre-not-alone-Lets-see-if-they-take-that-left-turn-at-Tatooine-Episode-4-of-Star-Wars-Skeleton-Crew-drops-on-D-at-9-PM-ET) |
+| [D'awww](https://www.fark.com/dawww/) | [Everyone loves birthday cake](https://www.fark.com/goto/13497164) ( [aol.com](https://www.fark.com/goto/13497164) ) » [(1 comment)](https://www.fark.com/comments/13497164/Everyone-loves-birthday-cake) |
+| [Food](https://www.fark.com/food/) | [Puke your wine in style: The skull aerator that's dying to pour](https://www.fark.com/goto/13497330) ( [geeksaresexy.net](https://www.fark.com/goto/13497330) ) » [(2 comments)](https://www.fark.com/comments/13497330/Puke-your-wine-in-style-The-skull-aerator-thats-dying-to-pour) |
+| [Politics](https://www.fark.com/politics/) | [In another multiverse today, 312 people across the country are saying, "You know, fark this shiat and fark Stinky & his couchfarking toady"](https://www.fark.com/goto/13497020) ( [cbsnews.com](https://www.fark.com/goto/13497020) ) » [(15 comments)](https://www.fark.com/comments/13497020/In-another-multiverse-today-312-people-across-country-are-saying-You-know-fark-this-shiat-fark-Stinky-his-couchfarking-toady) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -354,7 +353,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Dec 17 2024 14:43:37  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Dec 17 2024 20:43:17  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
