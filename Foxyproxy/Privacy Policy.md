@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Perfect. Thank you very much. Classy of you to check for confirmation. Kudos.
+I have renewed my subscription!
 
-Patrick Z.
+Annemiek Wegman
