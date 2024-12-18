@@ -143,7 +143,7 @@
 
 ![B2B inquiry form](https://p1-ofp.static.pub/MOTO/assets/masthead/b2b_enquiry.ec0d5d7d54fc69bf.png)
 
-B2B Inquiry
+B2B INQUIRY
 
 [![](https://p4-ofp.static.pub/MOTO/assets/masthead/logo_moto.6676278b2f6d8e48.svg)](https://www.motorola.com/us/en/homepage.html)
 
