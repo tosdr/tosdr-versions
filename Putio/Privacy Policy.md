@@ -73,4 +73,4 @@ If you have any questions regarding this privacy policy or information that you 
 
 [![put.io Logo](/images/nav-logo.png)](https://put.io/)© 2024
 
-[About Us](https://put.io/about/)[Terms](https://put.io/terms-of-service/)[Privacy](https://put.io/privacy-policy/)[DMCA](https://put.io/dmca/)[Refund Policy](https://put.io/refund-policy/)[FAQ](https://help.put.io/)[API](https://api.put.io/v2/docs)[Hero Animation](https://github.com/atesgoral/put.io.starry.night)[Twitter](https://twitter.com/putdotio)
+[About Us](https://put.io/about/)[Terms](https://put.io/terms-of-service/)[Privacy](https://put.io/privacy-policy/)[DMCA](https://put.io/dmca/)[Refund Policy](https://put.io/refund-policy/)[KVKK](https://put.io/kvkk/)[FAQ](https://help.put.io/)[API](https://api.put.io/v2/docs)[Hero Animation](https://github.com/atesgoral/put.io.starry.night)[Twitter](https://twitter.com/putdotio)
