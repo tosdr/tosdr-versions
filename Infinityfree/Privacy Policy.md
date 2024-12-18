@@ -1,6 +1,6 @@
 Please enable JavaScript in your browser to load website properly.  
   
-Click [**here**](https://www.enable-javascript.com/) if you'd like to learn how.                   
+Click [**here**](https://www.enable-javascript.com/) if you'd like to learn how.                    
 
  [![Privacy Policy](/images/logo-purple.png "Privacy Policy")InfinityFree](https://infinityfree.net/)
 
