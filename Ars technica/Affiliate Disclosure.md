@@ -90,11 +90,11 @@ Most Read
     
 2. 2. [Trump FCC chair wants to revoke broadcast licenses—the 1st Amendment might stop him](https://arstechnica.com/tech-policy/2024/12/trumps-fcc-chair-can-hassle-the-living-daylights-out-of-news-broadcasters/)
     
-3. 3. [Trump to block the government and military from buying EVs](https://arstechnica.com/cars/2024/12/on-trumps-chopping-block-evs-charger-funding-californias-emissions/)
+3. 3. [After decades of talk, Seagate seems ready to actually drop the HAMR hard drives](https://arstechnica.com/gadgets/2024/12/after-decades-of-talk-seagate-seems-ready-to-actually-drop-the-hamr-hard-drives/)
     
-4. 4. [After decades of talk, Seagate seems ready to actually drop the HAMR hard drives](https://arstechnica.com/gadgets/2024/12/after-decades-of-talk-seagate-seems-ready-to-actually-drop-the-hamr-hard-drives/)
+4. 4. [Big loss for ISPs as Supreme Court won’t hear challenge to $15 broadband law](https://arstechnica.com/tech-policy/2024/12/big-loss-for-isps-as-supreme-court-wont-hear-challenge-to-15-broadband-law/)
     
-5. 5. [Big loss for ISPs as Supreme Court won’t hear challenge to $15 broadband law](https://arstechnica.com/tech-policy/2024/12/big-loss-for-isps-as-supreme-court-wont-hear-challenge-to-15-broadband-law/)
+5. 5. [Report: Elon Musk failed to report movement required by security clearance](https://arstechnica.com/space/2024/12/report-elon-musk-failed-to-report-movement-required-by-security-clearance/)
     
 
 Customize
