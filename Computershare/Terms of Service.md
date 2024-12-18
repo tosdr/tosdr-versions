@@ -11,7 +11,7 @@ Here are the [instructions how to enable JavaScript in your web browser](https:/
     * I am a shareholder
         * [Shortcut to most common transactions](https://www-us.computershare.com/QuickAccessHub)
         * [Log in to Investor Center](https://www-us.computershare.com/Investor)
-        * [Transfer my stock](https://transferstock.computershare.com/)
+        * [Transfer my stock](http://cshare.us/corpshwebdt)
         * [Make a stock purchase](https://www-us.computershare.com/Investor/DirectStock/Index)
         * [Access your tax forms](https://www-us.computershare.com/SMS/#Statements/Statements)
         * [Help for shareholders](https://www-us.computershare.com/Investor/#Help/Index)
