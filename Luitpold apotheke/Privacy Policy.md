@@ -349,26 +349,25 @@ Mo-Fr 8:00 - 17:00
 
 Klick des Tages
 
-[Iberogast® ADVANCE bei funktionellen Magen-Darm-Beschwerden](https://www.medikamente-per-klick.de/product?artnr=16507600&simpleContentAttachmentId=14183&wochenklick)**  
-100ml + 20ml Iberogast Advance  
-**Sonderangebot  
-[![Sonderangebot](/images/products/medikamenteperklick/mittel/16507600_m.jpg "Sonderangebot")](https://www.medikamente-per-klick.de/product?artnr=16507600&simpleContentAttachmentId=14183&wochenklick)
+[NUROFEN 200mg Ibuprofen Schmelztabletten Lemon bei Kopfschmerzen 200mg 24St.](https://www.medikamente-per-klick.de/product?artnr=11550548&simpleContentAttachmentId=14183&wochenklick)**  
+Sonderangebot**  
+[![Sonderangebot](/images/products/medikamenteperklick/mittel/11550548_m.jpg "Sonderangebot")](https://www.medikamente-per-klick.de/product?artnr=11550548&simpleContentAttachmentId=14183&wochenklick)
 
 VK1:
 
-61,77 €\*
+19,71 €\*
 
 Ihr Preis:
 
-32,68 €\*
+11,98 €\*
 
 Sie sparen:
 
-5,56 € \-53%
+7,73 € \-39%
 
-2024-12-18 10:00:00
+2024-12-25 09:00:00
 
-[Jetzt sichern](https://www.medikamente-per-klick.de/quickAddProductsToCart?pzn=16507600&quantity=1&simpleContentAttachmentId=14183&Wochenklick)
+[Jetzt sichern](https://www.medikamente-per-klick.de/quickAddProductsToCart?pzn=11550548&quantity=1&simpleContentAttachmentId=14183&Wochenklick)
 
 layoutStyle2
 
@@ -666,4 +665,4 @@ Haben Sie bitte auch dafür Verständnis, dass wir aus Datenschutzgründen Ausk�
 
 ![](https://www.facebook.com/tr?id=338982736604254&ev=PageView&noscript=1)
 
-![](https://c.paypal.com/v1/r/d/b/ns?f=ddtwamkmppjeldqzplistbezzhqjegfb&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
+![](https://c.paypal.com/v1/r/d/b/ns?f=qqqonngddeclewlecbimhbltuqafxcir&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
