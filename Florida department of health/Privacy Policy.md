@@ -160,9 +160,6 @@ Search    Submit
 
  [Home](https://www.floridahealth.gov/)
 
-[For information on States of Emergency declared during the 2024 hurricane season.](https://www.floridahealth.gov/about/emergency.html)
-=======================================================================================================================================
-
 [![Florida Health](/_new/_files/images/DOH_logo.png)](https://www.floridahealth.gov/index.html)
 
      
