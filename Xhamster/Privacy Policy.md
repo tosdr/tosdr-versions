@@ -28,7 +28,7 @@ Sign in with Google](https://xhamster.com/login-google?source=base)
 
 [Videos](https://xhamster.com/)
 
-[Live Sex](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&p1=cold&xhStatsUid=67625221849110.38071705e44&xhSessionToken=13af4876e753a008dbdb2fece36bd4acb4e3344f&xhSessionStartedAt=1734496801)
+[Live Sex](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&p1=cold&xhStatsUid=6762a30e103967.896755032c1&xhSessionToken=cc9f17b8334f0982bf50b318e3890e2f93931c9e&xhSessionStartedAt=1734517518)
 
 [Categories](https://xhamster.com/categories)
 
@@ -49,8 +49,6 @@ Sex Chat](https://xhamster.com/ff/out?utm_source=xhamster&utm_medium=menu&utm_ca
 Premium
 
 Sale](https://faphouse.com/?utm_source=xhamster&utm_medium=button&utm_campaign=guest&utm_content=landingpage)
-
-[🔥AI Jerk Off](https://tsyndicate.com/api/v1/direct/82b7126ec17b4b8c8814dd0067da91ef)
 
 [Dating](https://xhamster.com/dating)
 
@@ -387,7 +385,7 @@ Last Modified: January 04, 2024
 
 ### Start making money with us
 
-* [Camgirls Wanted](https://join.flirtify.com/?utm_source=xhamster-mobile&utm_medium=footer)
+* [Camgirls Wanted](https://join.flirtify.com/?utm_source=xhamster-desktop&utm_medium=footer)
 * [Creator Contest](https://xhamster.com/creators/contest)
 * [Сontent Creators Program](https://xhamster.com/creator?source=footerCcp)
 
