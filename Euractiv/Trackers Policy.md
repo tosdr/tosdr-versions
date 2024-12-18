@@ -111,6 +111,10 @@ Most recent
 
 [18-12-2024
 
+Macron to head to cyclone-struck Mayotte, miss EU Council meeting](https://www.euractiv.com/section/politics/news/macron-to-head-to-cyclone-struck-mayotte-miss-eu-council-meeting/)[18-12-2024
+
+Europe faces worrying skills shortages, says EU Commission](https://www.euractiv.com/section/economy-jobs/news/europe-faces-worrying-skills-shortages-says-eu-commission/)[18-12-2024
+
 Record year for coal in 2024, world’s hottest year](https://www.euractiv.com/section/eet/news/record-year-for-coal-in-2024-worlds-hottest-year/)[18-12-2024
 
 Meloni: Trump not an ‘enemy’, wants ‘pragmatic’ EU approach](https://www.euractiv.com/section/politics/news/the-capitals-meloni-trump-not-an-enemy-wants-pragmatic-eu-approach/)[18-12-2024
@@ -123,13 +127,9 @@ Madeira regional government collapses after censure motion](https://www.euractiv
 
 EU leaders to pledge closer ties with Western Balkans counterparts](https://www.euractiv.com/section/global-europe/news/eu-leaders-to-pledge-closer-ties-with-western-balkans-counterparts/)[18-12-2024
 
-Tech Pro Brief – fears over TikTok from Strasbourg to Zagreb, and a DSA enforcement matrix](https://www.euractiv.com/section/tech/news/tech-pro-brief-fears-over-tiktok-from-strasbourg-to-zagreb-and-a-dsa-enforcement-matrix/)[18-12-2024
+Fears over TikTok from Strasbourg to Zagreb, and a DSA enforcement matrix](https://www.euractiv.com/section/tech/news/tech-pro-brief-fears-over-tiktok-from-strasbourg-to-zagreb-and-a-dsa-enforcement-matrix/)[18-12-2024
 
-Poland out of EU deep freeze with impending €9.4 billion EU recovery fund tranche](https://www.euractiv.com/section/politics/news/poland-out-of-eu-deep-freeze-with-impending-e9-4-billion-eu-recovery-fund-tranche/)[18-12-2024
-
-Kosovo, Serbia reach agreement implementing search for war missing](https://www.euractiv.com/section/global-europe/news/kosovo-serbia-reach-agreement-implementing-search-for-war-missing/)[18-12-2024
-
-Spanish left halts no-confidence vote against Prime Minister Sánchez](https://www.euractiv.com/section/politics/news/spanish-left-halts-no-confidence-vote-against-prime-minister-sanchez/)
+Poland out of EU deep freeze with impending €9.4 billion EU recovery fund tranche](https://www.euractiv.com/section/politics/news/poland-out-of-eu-deep-freeze-with-impending-e9-4-billion-eu-recovery-fund-tranche/)
 
 ###### Advertisement
 
