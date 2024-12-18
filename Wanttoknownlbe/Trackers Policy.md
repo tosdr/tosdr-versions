@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/china-houdt-8-scheepsladingen-gmo-tegen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/gastcolumns/jochie-gijzelt-nos-nos-gijzelt-journalistiek/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
