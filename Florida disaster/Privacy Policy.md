@@ -223,9 +223,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Tuesday, December 17, 2024**
+**Wednesday, December 18, 2024**
 
-**...Dense Fog This Morning Throughout Northeast Florida and Northern Peninsula...Patchy to Widespread Fog Throughout North and Central Florida; Foggy Conditions to Lift and Dissipate By Mid-Morning Hours...Mostly Dry Conditions to Continue Across Panhandle and Big Bend; Possible Late Morning and Afternoon Showers...Scattered Showers With Embedded Thunderstorms to Develop Throughout the Day Along East Florida...Instances of Localized Flash Flooding Possible Along Space and Treasure Coasts With Slow-Moving Showers and Thunderstorms...High Temperatures Trending Above Normal For This Time of Year Statewide...Shower and Thunderstorm Activity to Continue Overnight Throughout East Florida and Possibly Drifting Further Inland...Another Round of Patchy to Widespread Fog Throughout North and Central Florida Early Wednesday Morning; Locally Dense Fog Possible...High Risk for Rip Currents for All East Coast Beaches; Moderate Risk for Rip Currents Continues for Numerous Panhandle Beaches...**
+**...Widespread Dense Fog this Morning Throughout North and Central Florida; Dense Fog Advisories Through Mid-to-late Morning Hours...Additional Areas of Patchy to Locally Dense Fog Throughout Peninsula...Approaching Cold Front to Increase Shower and Possible Thunderstorm Activity Statewide...Active Weather Pattern Continues Along Eastern Peninsula With Scattered to Numerous Showers and Embedded Thunderstorms...Localized Flooding Possible Within Heavy Downpours or Multiple Rounds of Activity Along Treasure Coast and Southeast Florida...Above Normal Temperatures for the Year Continue Statewide...Lingering Showers to Continue Overnight As Cold Front Moves In...Widespread Fog Development Likely Overnight and Early Thursday Morning Statewide; Locally Dense Fog Likely...High Risk for Rip Currents Persists Along East-Central and Southeast Florida Beaches; Moderate Risk Across North Florida Beaches...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
