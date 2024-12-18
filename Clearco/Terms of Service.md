@@ -94,11 +94,11 @@ Learn more about our enterprise solution and get a demo from our sales team.](ht
 
 **Read our latest content**
 
-![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/67609d53e3c80c7f84be52fd_ecommerce-advertising-trends-for-2025.png)
+![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/676305f3ecc720550bbfadd1_startup-siblings-ray-justin-kim-health-revolution-the-plug.png)
 
-###### Top Advertising Trends for Ecommerce Brands in 2025
+###### How Ray and Justin Kim Are Transforming the Health Industry with The Plug
 
-[Read now >](https://clear.co/blog/ecommerce-advertising-trends-for-2025)
+[Read now >](https://clear.co/blog/startup-siblings-ray-justin-kim-health-revolution-the-plug)
 
 [Sign In](http://my.clearbanc.com/login)[Get Funding](http://my.clearbanc.com/signup)
 
