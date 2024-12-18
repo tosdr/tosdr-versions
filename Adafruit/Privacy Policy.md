@@ -1,6 +1,6 @@
 Due to high demand USPS orders may not ship for up to 3-4 business days.
 
-🎁📦🚚 [Holiday Shipping](https://www.adafruit.com/Holiday): Only Two options left! Place UPS 2 Day orders by 11 am ET Wednesday, December 18🎄⛄❄️
+🎁📦🚚 [Holiday Shipping](https://www.adafruit.com/Holiday): LAST CHANCE! Place UPS NEXT Day orders by 11 am ET Thursday, December 18🎄⛄❄️
 
 Glitch your gift list! Use code [gibson15](https://blog.adafruit.com/2024/12/09/gibson15/) for 15% off the [2024 Adafruit Holiday Gift Guide](https://www.adafruit.com/explore/holiday-gift-guide-2024)!
 
@@ -81,21 +81,21 @@ Search
     
     New Products[view all](https://www.adafruit.com/new)
     
-    ![Demo Shot of the Skull shaped filament lights 2.8~3.2V Powered On.](https://cdn-shop.adafruit.com/310x233/6095-00.jpg)[Skull LED Filament
+    ![Angled shot of panel mount USB-A to 2 wire cable.](https://cdn-shop.adafruit.com/310x233/6072-01.jpg)[Snap-In Panel Mount Cable - USB-A Socket to 2 Wires
     
-    $4.95](https://www.adafruit.com/product/6095)
+    $2.50](https://www.adafruit.com/product/6072)
     
-    ![Demo Shot of the Unicorn LED Filament Powered On.](https://cdn-shop.adafruit.com/310x233/6094-00.jpg)[Unicorn LED Filament
+    ![Angled shot of snap-in, USB-A panel mount cable with four wires.](https://cdn-shop.adafruit.com/310x233/6073-04.jpg)[Snap-In Panel Mount Cable - USB Type A Socket to 4 Wires
     
-    $2.95](https://www.adafruit.com/product/6094)
+    $2.50](https://www.adafruit.com/product/6073)
     
-    ![Angled shot of solar charger PCB in enclosure with lid off.](https://cdn-shop.adafruit.com/310x233/6114-00.jpg)[Snap-on Enclosure for Adafruit USB / DC / Solar Lithium Charger
+    ![Angled shot of a screw mount USB-C to 4-pin JST PH adapter cable.](https://cdn-shop.adafruit.com/310x233/6071-02.jpg)[USB-C Screw Panel Mount to 4pin JST PH Cable
     
-    $4.50](https://www.adafruit.com/product/6114)
+    $2.50](https://www.adafruit.com/product/6071)
     
-    ![Video of a motor stepper driver board driving a stepper motor connected to a microcontroller.](https://cdn-shop.adafruit.com/product-videos/320x240/6109-07.jpg)[Adafruit A4988 Stepper Motor Driver Breakout Board
+    ![Angled shot of a panel mount TF socket cable.](https://cdn-shop.adafruit.com/310x233/6070-01.jpg)[Round Panel Mount Micro SD Card Extender
     
-    $6.95](https://www.adafruit.com/product/6109)
+    $9.50](https://www.adafruit.com/product/6070)
     
     Featured Products[view all](https://www.adafruit.com/featured)
     
@@ -410,9 +410,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Human history becomes more and more a race between education and catastrophe”
+“ Any path that narrows future possibilities may become a lethal trap”
 
-[H. G. Wells](http://en.wikipedia.org/wiki/H._G._Wells)
+[The Spacing Guild Handbook](http://en.wikiquote.org/wiki/Dune)
 
 [](https://www.adafruit.com/about)
 
