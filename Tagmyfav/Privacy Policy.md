@@ -19,8 +19,6 @@
 * [Contact](https://tagmyfav.com/contact/)
 * [Get Started](#)
 
-Menu
-
 * [About](https://tagmyfav.com/about/)
 * [M365 Apps](https://tagmyfav.com/microsoft-365-apps/)
 * [Use Cases](https://tagmyfav.com/use-cases/)
@@ -141,8 +139,6 @@ A bookmarking solution for next generation collaborative platform Microsoft365. 
    
 
 Email 
-
-Submit
 
 © TagmyFav 2024
 ---------------
