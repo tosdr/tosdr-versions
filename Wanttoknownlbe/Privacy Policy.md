@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/valse-vlag-operaties/waarschuwing-voor-nepnieuws-mh17/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/obamas-geboorte-akte-met-zekerheid-vervalst/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
