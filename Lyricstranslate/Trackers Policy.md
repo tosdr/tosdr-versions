@@ -137,65 +137,69 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Speed up Clips](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/speed-clips "Speed up Clips")
-
-New translation
-
-[Hozier - Take Me to Church](https://lyricstranslate.com/en/hozier-take-me-church-ukrainian-0)
-
-English → Ukrainian
-
-[![Merlot](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1426285-1733560633.jpg)](https://lyricstranslate.com/en/translator/merlot "Merlot")
-
-New translation
-
-[Bruno Filippini - La felicità (1999 version)](https://lyricstranslate.com/en/bruno-filippini-la-felicita-1999-version-english)
-
-Italian → English
-
-[![Merlot](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1426285-1733560633.jpg)](https://lyricstranslate.com/en/translator/merlot "Merlot")
+[![Salve a Selva](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1198192-1665650219.png)](https://lyricstranslate.com/en/translator/salve-selva "Salve a Selva")
 
 New song
 
-[Bruno Filippini - La felicità (1999 version)](https://lyricstranslate.com/en/bruno-filippini-la-felicita-1999-version-lyrics)
+[Richard Anthony - En écoutant la pluie](https://lyricstranslate.com/en/richard-anthony-en-ecoutant-la-pluie-lyrics)
 
-Italian
+French
 
-[![FrostNova7122](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1627717-1728405694.jpg)](https://lyricstranslate.com/en/translator/frostnova7122 "FrostNova7122")
+[![Sozen Gozael](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1370182-1524606812.jpg)](https://lyricstranslate.com/en/translator/sozen-gozael "Sozen Gozael")
 
 New song
 
-[Vadim Kazachenko - Судьба](https://lyricstranslate.com/en/vadim-kazachenko-sudba-lyrics)
+[Eddin - Allô](https://lyricstranslate.com/en/eddin-allo-lyrics)
 
-Russian
+German
 
 [![Silverblue](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1418394-1706209641.jpg)](https://lyricstranslate.com/en/translator/silverblue "Silverblue")
 
 New song
 
-[Blood on the Dance Floor - Revenge Will Have It's Day](https://lyricstranslate.com/en/blood-dance-floor-revenge-will-have-its-da-lyrics)
+[Blood on the Dance Floor - Star Power](https://lyricstranslate.com/en/blood-dance-floor-star-power-lyrics)
 
 English
 
-[![Feedeeri☆](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1568446-1726261869.jpg)](https://lyricstranslate.com/en/translator/feedeeri%E2%98%86 "Feedeeri☆")
+[![Minervae](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1530065-1683322566.jpg)](https://lyricstranslate.com/en/translator/minervae "Minervae")
 
-New comment
+New request
 
-/ᐠ. .ᐟ\\ฅ /ᐠ. .ᐟ\\ฅ   [more](https://lyricstranslate.com/en/comment/1181967#comment-1181967)
+[EXO - 마마 (Mama) (mama)](https://lyricstranslate.com/en/request/%EB%A7%88%EB%A7%88-mama)
 
-[![RetroPanda](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1536684-1650612822.jpg)](https://lyricstranslate.com/en/translator/retropanda "RetroPanda")
+English → Japanese
 
-New comment
-
-Kitten!  ฅ^•ﻌ•^ฅ      [more](https://lyricstranslate.com/en/comment/1181966#comment-1181966)
-
-[![Pufflez](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1624906-1730197410.jpg)](https://lyricstranslate.com/en/translator/pufflez "Pufflez")
+[![Salve a Selva](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1198192-1665650219.png)](https://lyricstranslate.com/en/translator/salve-selva "Salve a Selva")
 
 New translation
 
-[Gummibär - Go For The Goal](https://lyricstranslate.com/en/gummibar-go-goal-swahili)
+[Georgie Fame and the Blue Flames - In the meantime](https://lyricstranslate.com/en/georgie-fame-and-meantime-french)
 
-English → Swahili
+English → French
+
+[![All Promete](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1515012-1732980784.jpg)](https://lyricstranslate.com/en/translator/all-promete "All Promete")
+
+New translation
+
+[Kazem Al-Saher - Hold Your Fire](https://lyricstranslate.com/en/kazem-al-saher-hold-your-fire-persian)
+
+English → Persian
+
+[![YaSDrobovikom](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1599456-1700319854.jpg)](https://lyricstranslate.com/en/translator/yasdrobovikom "YaSDrobovikom")
+
+New song
+
+[cosMo (Japan) - 脳内ヲカタヅケ代行サービス](https://lyricstranslate.com/en/cosmo-japan-nonai-o-katazuke-daiko-sa-lyrics)
+
+Japanese
+
+[![Turbonorm](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1620552-1725868199.jpg)](https://lyricstranslate.com/en/translator/turbonorm "Turbonorm")
+
+New song
+
+[Shmiska - DVD](https://lyricstranslate.com/en/shmiska-dvd-lyrics)
+
+Ukrainian
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
