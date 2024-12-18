@@ -81,7 +81,7 @@ You agree that we, in our sole discretion and without prior notice, may terminat
 
 **Class Action Waiver.** You and we each agree that each of us is waiving the right to a trial by jury and may bring claims against the other only in an individual capacity and not in a class action or representative proceeding. All arbitrations shall be conducted on an individual (and not a class-wide) basis and an arbitrator shall have no authority to award class-wide relief. You acknowledge and agree that these terms specifically prohibit you from commencing any legal proceedings as a representative of others or joining in any arbitration proceedings brought by any other person (“class action waiver”).
 
-**Arbitration Procedures.** A party who intends to seek arbitration must first send to the other a written Notice of Dispute describing the nature and basis of the Claim and setting forth the specific relief sought. All notices to us shall be sent to the following address: Frontdoor, Inc., 150 Peabody Place, Memphis, TN 38103, ATTN: Legal Department – Administrator, Alternative Dispute Resolution. All notices to you will be sent to the email or physical address you have provided. Upon receipt of such notice, the other party shall have a sixty (60) day period in which it may satisfy the Claim against it by fully curing the Claim and/or providing all the relief requested in the notice, and/or entering into a settlement to resolve the Claim to the mutual satisfaction of the parties. After the expiration of such sixty-day cure period, you or we may commence an arbitration proceeding. The arbitration of any claim or dispute under this Agreement shall be referred to the American Arbitration Association (“AAA”) under its rules and procedures, including the AAA's Commercial Dispute Resolution Procedures and Supplementary Procedures for Consumer-Related Disputes. These rules and procedures are available by calling the AAA or by visiting its website at [www.adr.org](https://www.adr.org/). The arbitration of any Claim shall be conducted in the State of Tennessee, and for any non-frivolous claim that does not exceed $10,000, Company will: (1) pay all costs of the arbitration; (2) if you prefer, conduct the arbitration by telephone, and (3) will not seek attorney’s fees in the event Company prevails. Each party shall pay the fees and costs of its own counsel, experts and witnesses.
+**Arbitration Procedures.** A party who intends to seek arbitration must first send to the other a written Notice of Dispute describing the nature and basis of the Claim and setting forth the specific relief sought. All notices to us shall be sent to the following address: Frontdoor, Inc., 3400 Players Club Parkway, Suite 300, Memphis, TN 38125, ATTN: Legal Department – Administrator, Alternative Dispute Resolution. All notices to you will be sent to the email or physical address you have provided. Upon receipt of such notice, the other party shall have a sixty (60) day period in which it may satisfy the Claim against it by fully curing the Claim and/or providing all the relief requested in the notice, and/or entering into a settlement to resolve the Claim to the mutual satisfaction of the parties. After the expiration of such sixty-day cure period, you or we may commence an arbitration proceeding. The arbitration of any claim or dispute under this Agreement shall be referred to the American Arbitration Association (“AAA”) under its rules and procedures, including the AAA's Commercial Dispute Resolution Procedures and Supplementary Procedures for Consumer-Related Disputes. These rules and procedures are available by calling the AAA or by visiting its website at [www.adr.org](https://www.adr.org/). The arbitration of any Claim shall be conducted in the State of Tennessee, and for any non-frivolous claim that does not exceed $10,000, Company will: (1) pay all costs of the arbitration; (2) if you prefer, conduct the arbitration by telephone, and (3) will not seek attorney’s fees in the event Company prevails. Each party shall pay the fees and costs of its own counsel, experts and witnesses.
 
 **Choice of Law.** This Agreement concerns a transaction in interstate commerce, and therefore shall be governed by the United States Federal Arbitration Act, 9 U.S.C. Â§ 1 et seq. The FAA’s provisions, not state law, govern all questions of whether a dispute is subject to arbitration.
 
@@ -98,12 +98,11 @@ These Terms of Use constitute the entire agreement between you and us regarding 
 **Address of Record**
 
 Frontdoor, Inc.  
-150 Peabody Place, Suite 300  
-Memphis, TN 38103  
-United States of America
+3400 Players Club Parkway  
+Suite 300, Memphis, TN 38125
 
   
-Last Updated:  5/1/2020
+Last Updated:  12/18/2024
 
 * [About](https://www.frontdoorhome.com/about/)
 * [Brands](https://www.frontdoorhome.com/brands/)
