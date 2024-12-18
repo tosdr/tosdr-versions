@@ -38,6 +38,8 @@ Portales de Red.es
 
 Buscar
 
+MENU CERRAR
+
 You must have JavaScript enabled to use this form.
 
 **¿Quieres descubrir todo lo que te ofrecemos en red.es?** [Explorar todo el contenido](http://red.es/buscador)
@@ -100,15 +102,7 @@ Accede a los bonos de asesoramiento digital especializado para pymes de Kit Cons
 
 [Accede a los bonos de asesoramiento digital especializado para pymes de Kit Consulting](http://red.es/es/actualidad/noticias/accede-los-bonos-de-asesoramiento-digital-especializado-para-pymes-de-kit "Ir al contenido de: Accede a los bonos de asesoramiento digital especializado para pymes de Kit Consulting")
 
-![premios ehealth](/sites/redes/files/styles/ratio_1_1/public/media/images/Premios%20EHEALTH.png?h=0f97f620&itok=uXKEsppk)
-
-Noticia
-
-Sanidad y Servicios Sociales
-
-Un modelo de seguimiento de pacientes crónicos impulsado por Red.es recibe el premio Ennova Health
-
-[Un modelo de seguimiento de pacientes crónicos impulsado por Red.es recibe el premio Ennova Health](http://red.es/es/actualidad/noticias/modelo-seguimiento-pacientes-cronicos-impulsado-por-redes-recibe-premio-ennova-health "Ir al contenido de: Un modelo de seguimiento de pacientes crónicos impulsado por Red.es recibe el premio Ennova Health")
+![Descubre a las empresas del Pabellón de España MWC 2025](/sites/redes/files/styles/ratio_1_1/public/media/images/Anuncio%20empresas%20MWC%20RRSS%20%2B%20Web%20v6B_800%20x%20442_web.png?h=96281f56&itok=yfdzvKKB)
 
 Noticia
 
@@ -125,6 +119,14 @@ Transformación Digital PYMES
 El Plan de Impulso de Espacios de Datos Sectoriales contará con una ampliación de 300 millones para acelerar la economía del dato en la industria española
 
 [El Plan de Impulso de Espacios de Datos Sectoriales contará con una ampliación de 300 millones para acelerar la economía del dato en la industria española](http://red.es/es/actualidad/noticias/arranca-plan-de-impulso-espacios-datos-sectoriales "Ir al contenido de: El Plan de Impulso de Espacios de Datos Sectoriales contará con una ampliación de 300 millones para acelerar la economía del dato en la industria española")
+
+Noticia
+
+Transformación Digital PYMES
+
+Kit Consulting incorpora la IA al proceso de revisión de justificación para agilizar las comprobaciones y reforzar la seguridad
+
+[Kit Consulting incorpora la IA al proceso de revisión de justificación para agilizar las comprobaciones y reforzar la seguridad](http://red.es/es/actualidad/noticias/kit-consulting-incorporacion-ia-justificacion-ayudas "Ir al contenido de:  Kit Consulting incorpora la IA al proceso de revisión de justificación para agilizar las comprobaciones y reforzar la seguridad")
 
 ¿Conoces nuestras iniciativas?
 ------------------------------
@@ -189,7 +191,7 @@ Nuestros Portales
 * [Transparencia y Buen Gobierno](http://red.es/es/sobre-nosotros/transparencia-y-buen-gobierno)
 * [Protección de Datos](http://red.es/es/proteccion-de-datos)
 * [Reutilización de la Información del Sector Público](https://sede.red.gob.es/datos-abiertos)
-* [Canal de denuncias](http://red.es/canal-de-denuncias)
+* [Canal de denuncias](http://red.es/es/canal-de-denuncias)
 
 Páginas de Interés
 
