@@ -1,6 +1,6 @@
 [Zum Inhalt wechseln](#content)
 
-[![](https://unternehmen.geizhals.at/wp-content/uploads/2020/07/geizhalslogo_light.png)](https://unternehmen.geizhals.at/)
+[![Geizhals](https://unternehmen.geizhals.at/wp-content/uploads/2020/07/geizhalslogo_light.png)](https://unternehmen.geizhals.at/)
 
 * [Über Geizhals](https://unternehmen.geizhals.at/)
 * [Das Team](https://unternehmen.geizhals.at/das-team/)
@@ -10,18 +10,8 @@
 * [Geizhals Shopsystem](https://unternehmen.geizhals.at/haendler/geizhalsshop/)
 * [Jobs](https://unternehmen.geizhals.at/jobs/)
 
-Menü
-
-* [Über Geizhals](https://unternehmen.geizhals.at/)
-* [Das Team](https://unternehmen.geizhals.at/das-team/)
-* [Händler](https://unternehmen.geizhals.at/haendler/)
-* [Werbung](https://unternehmen.geizhals.at/werbung/)
-* [Marketing](https://unternehmen.geizhals.at/marketing-kommunikation/)
-* [Geizhals Shopsystem](https://unternehmen.geizhals.at/haendler/geizhalsshop/)
-* [Jobs](https://unternehmen.geizhals.at/jobs/)
-
-Privacy Policy
-==============
+Unser Partnernetzwerk für Ihren Erfolg.
+=======================================
 
 1\. General
 -----------
@@ -546,52 +536,3 @@ The controller shall communicate any rectification or erasure of personal data o
 ----------------
 
 We reserve the right to amend the Privacy Policy and Conditions of Use at any time, if the technical conditions or the legal requirements change.
-
-[![](https://unternehmen.geizhals.at/wp-content/uploads/2020/07/apple-appstore-badge-300x116.png)](https://apps.apple.com/at/app/geizhals-preisvergleich/id440214693)
-
-[![](https://unternehmen.geizhals.at/wp-content/uploads/2020/07/google-play-badge-300x116.png)](https://play.google.com/store/apps/details?id=at.geizhals.pv)
-
-[![](https://unternehmen.geizhals.at/wp-content/uploads/2020/07/Badge-Black-300x90.png)](https://appgallery.huawei.com/#/app/C101191757)
-
-[![](https://unternehmen.geizhals.at/wp-content/uploads/2020/07/geizhalslogo_light.png)](https://unternehmen.geizhals.at/)
-
-Geizhals ist ein unabhängiges Preis- und Produktvergleichs-Portal, das mittels detaillierter Filter und vielfältiger Features eine optimale Hilfestellung bei der Kaufentscheidung bietet.
-
-[Linkedin](https://www.linkedin.com/company/geizhalspreisvergleich/) [Twitter](https://twitter.com/geizhals) [Facebook-f](https://www.facebook.com/geizhals.at/) [Youtube](https://www.youtube.com/channel/UCFiNt7bWHrc0RY0uhIuiRnQ)
-
-Informationen
--------------
-
-* [Impressum](https://unternehmen.geizhals.at/impressum)
-* [Datenschutz](https://unternehmen.geizhals.at/datenschutzerklaerung)
-* [AGB](https://unternehmen.geizhals.at/allgemeine-geschaeftsbedingungen)
-
-Weitere Services
-----------------
-
-* [Blog](https://blog.geizhals.at/)
-* [Geizhals Shop System](https://www.geizhalsshop.at/)
-* [Affiliate Partner werden](https://unternehmen.geizhals.at/publisher/)
-
-Geizhals Netzwerk
------------------
-
-* [geizhals.at](https://geizhals.at/)
-* [geizhals.de](https://geizhals.de/)
-* [geizhals.eu](https://geizhals.eu/)
-* [cenowarka.pl](https://cenowarka.pl/)
-* [skinflint.co.uk](https://skinflint.co.uk/)
-
-Partnerseiten
--------------
-
-* [tarife.at](https://www.tarife.at/)
-* [heise online](https://www.heise.de/)
-* [ComputerBase](https://www.computerbase.de/)
-* [PCGH](https://www.pcgameshardware.de/)
-* [WinFuture](https://winfuture.de/)
-* [Golem.de](https://www.golem.de/)
-
-### © Preisvergleich Internet Services AG
-
-### Made with ❤ by geizhals
