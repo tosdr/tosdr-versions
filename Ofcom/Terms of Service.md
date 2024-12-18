@@ -157,7 +157,7 @@
 
 13 December 2024](https://www.ofcom.org.uk/post/royal-mail/ofcom-fines-royal-mail-10.5m-for-poor-delivery-performance)
 
- [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/terms-of-use/)
+ [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/terms-of-use/?language=cy)
 
 1. [Home](https://www.ofcom.org.uk/)
 2. [About Ofcom](https://www.ofcom.org.uk/about-ofcom/)
