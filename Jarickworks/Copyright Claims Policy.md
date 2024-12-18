@@ -85,7 +85,7 @@ Designing where you want to go today
 
 [Donate](#donate)
 
-[![freeblr environment anarchy and the problem of the commons](/freeblr/environment/anarchy-and-the-problem-of-the-commons/card.svg)](https://jarick.works/freeblr/environment/anarchy-and-the-problem-of-the-commons)[![spekr what is authoritarian socialism](/spekr/what-is-authoritarian-socialism/card.svg)](https://jarick.works/spekr/what-is-authoritarian-socialism)[![freeblr justice the rule of law without the state](/freeblr/justice/the-rule-of-law-without-the-state/card.svg)](https://jarick.works/freeblr/justice/the-rule-of-law-without-the-state)[![freeblr borders the libertarian immigration conundrum](/freeblr/borders/the-libertarian-immigration-conundrum/card.svg)](https://jarick.works/freeblr/borders/the-libertarian-immigration-conundrum)
+[![freeblr government the immorality of the state](/freeblr/government/the-immorality-of-the-state/card.svg)](https://jarick.works/freeblr/government/the-immorality-of-the-state)[![freeblr faq what are the major debates between anarchists what are the recurring arguments](/freeblr/faq/what-are-the-major-debates-between-anarchists-what-are-the-recurring-arguments/card.svg)](https://jarick.works/freeblr/faq/what-are-the-major-debates-between-anarchists-what-are-the-recurring-arguments)[![freeblr limited government roads to serfdom](/freeblr/limited-government/roads-to-serfdom/card.svg)](https://jarick.works/freeblr/limited-government/roads-to-serfdom)[![freeblr faq have there been any anarcho capitalist societies](/freeblr/faq/have-there-been-any-anarcho-capitalist-societies/card.svg)](https://jarick.works/freeblr/faq/have-there-been-any-anarcho-capitalist-societies)
 
 [Follow](#follow)
 
