@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I am so impressed with your support and I recommend you to everybody.
+Outstanding, however sometimes slow (rarely).
 
-Mark Latham
+Mohammad Jabr
