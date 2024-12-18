@@ -106,7 +106,7 @@ When you establish your Account, we want to leave the big decisions to you. You 
 
 ### Requests to Remove Your Seller Data
 
-You may, at any time, request to delete the data uploaded, recorded, or downloaded to the Platform from third-party sources by you or on your behalf by visiting [https://source.tartle.co/sellers/account\_settings](https://source.tartle.co/sellers/account_settings) and clicking on the button to "Delete Account". On deleting your account, we will destroy all seller data you have stored on the Platform, and retain only limited profile data to comply with legal requirements in reference to your account and activities on the Platform. You may also send account deletion requests to [help@tartle.co](mailto:help@tartle.co). You may be asked to provide additional identity verification when requesting account deletion via email.
+You may, at any time, request to delete the data uploaded, recorded, or downloaded to the Platform from third-party sources by you or on your behalf by visiting [https://source.tartle.co/sellers/account\_settings](https://source.tartle.co/sellers/account_settings) and clicking on the button to "Delete Account". On deleting your account, we will destroy all seller data you have stored on the Platform, and retain only limited profile data to comply with legal requirements in reference to your account and activities on the Platform. You may also send account deletion requests to [\[email protected\]](https://tartle.co/cdn-cgi/l/email-protection). You may be asked to provide additional identity verification when requesting account deletion via email.
 
 ### Payment Information
 
@@ -180,21 +180,21 @@ We are required to disclose personal information in response to lawful requests 
 OPT-OUT FOR DIRECT MARKETING; EMAIL MANAGEMENT
 ----------------------------------------------
 
-You may opt out at any time from the use of your personal information for direct marketing purposes by emailing the instructions to [help@tartle.co](mailto:help@tartle.co) or by clicking on the "Unsubscribe" link located on the bottom of any TARTLE marketing email and following the instructions found on the page to which the link takes you. Please allow us a reasonable time to process your request. You cannot opt out of receiving transactional e-mails related to the Digital Properties.
+You may opt out at any time from the use of your personal information for direct marketing purposes by emailing the instructions to [\[email protected\]](https://tartle.co/cdn-cgi/l/email-protection) or by clicking on the "Unsubscribe" link located on the bottom of any TARTLE marketing email and following the instructions found on the page to which the link takes you. Please allow us a reasonable time to process your request. You cannot opt out of receiving transactional e-mails related to the Digital Properties.
 
 HOW WE PROTECT YOUR INFORMATION; THIRD PARTY
 --------------------------------------------
 
 TARTLE is responsible for the processing of personal data it receives, under each Data Privacy Framework, and subsequently transfers to a third party acting as an agent on its behalf. TARTLE complies with the principles of each Data Privacy Framework for all onward transfers of personal data from the EU, UK, and Switzerland, including the onward transfer liability provisions regarding transferring to a third party. With respect to personal data received or transferred pursuant to the Data Privacy Frameworks, TARTLE is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.
 
-We encourage individuals from the EU member countries, UK, and Switzerland who have questions or complaints about how we process their personal data under either Data Privacy Framework to first contact us directly at [privacy@tartle.co](mailto:privacy@tartle.co). We will work to resolve your issue without undue delay. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at [https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request).
+We encourage individuals from the EU member countries, UK, and Switzerland who have questions or complaints about how we process their personal data under either Data Privacy Framework to first contact us directly at [\[email protected\]](https://tartle.co/cdn-cgi/l/email-protection). We will work to resolve your issue without undue delay. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at [https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request).
 
 Under certain conditions, more fully described on the [Data Privacy Framework website](https://www.dataprivacyframework.gov/) , you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
 1. **Limiting the Use of Personal Data**  
 TARTLE respects your right to control the use of your personal data. In addition to the option to opt out of direct marketing, you have the following choices regarding the use of your personal data:
 
-* **Data Sharing with Third Parties**: You can choose to limit or prohibit the sharing of your personal data with third parties. To exercise this option, you can visit your account settings and adjust your preferences under the "Data Sharing" section. Alternatively, you can contact us at [help@tartle.co](mailto:help@tartle.co) with the subject line "Limit Data Sharing" to request that your data not be shared with third parties.
+* **Data Sharing with Third Parties**: You can choose to limit or prohibit the sharing of your personal data with third parties. To exercise this option, you can visit your account settings and adjust your preferences under the "Data Sharing" section. Alternatively, you can contact us at [\[email protected\]](https://tartle.co/cdn-cgi/l/email-protection) with the subject line "Limit Data Sharing" to request that your data not be shared with third parties.
 * **Use of Data for Analytics**: If you do not wish for your data to be used for analytics or similar purposes, you may opt out by adjusting your preferences in your account settings or by contacting us directly. Please note that opting out of certain analytics may limit the functionality and personalization of the Digital Properties.
 * **Personalized Advertising**: You may opt out of personalized advertising and tracking technologies that use your data to target ads based on your interests. You can do this by visiting the ad settings of the third-party platforms listed in our privacy policy, or by contacting us directly.
 
@@ -203,13 +203,13 @@ TARTLE provides you with the ability to restrict the disclosure of your personal
 
 * **Account Settings**: You can manage your data disclosure preferences by navigating to the "Privacy Settings" section in your account. Here, you can specify which data, if any, you allow us to share with third parties.
 * **Manual Approval for Data Sharing**: If you wish to have manual control over when your data is shared, you can enable the "Manual Approval" setting in your account. This will require TARTLE to seek your explicit consent before sharing your data with third parties for any purpose other than what is required for the functioning of the platform.
-* **Request to Limit Disclosure**: You can request to limit the disclosure of your personal data by contacting us at [help@tartle.co](mailto:help@tartle.co) with the subject line "Limit Data Disclosure." We will process your request and ensure that your data is not disclosed to third parties beyond what is necessary for the basic operation of our services.
+* **Request to Limit Disclosure**: You can request to limit the disclosure of your personal data by contacting us at [\[email protected\]](https://tartle.co/cdn-cgi/l/email-protection) with the subject line "Limit Data Disclosure." We will process your request and ensure that your data is not disclosed to third parties beyond what is necessary for the basic operation of our services.
 
 3. **Your Data Management Rights**  
 You have full control over your data and can exercise your rights as follows:
 
 * **Access and Correction**: You may access and correct the personal data we hold about you by logging into your account and navigating to the "Account Information" section. If you encounter any issues, please contact us for assistance.
-* **Data Portability**: You can request a copy of your data in a commonly used electronic format to transfer to another service. To initiate this process, please contact us at [help@tartle.co](mailto:help@tartle.co).
+* **Data Portability**: You can request a copy of your data in a commonly used electronic format to transfer to another service. To initiate this process, please contact us at [\[email protected\]](https://tartle.co/cdn-cgi/l/email-protection).
 * **Deletion of Personal Data**: You may request the deletion of your personal data at any time by using the "Delete Account" feature in your account settings or by contacting us directly. We will delete your data in accordance with applicable laws, retaining only what is necessary for legal or operational reasons.
 
 SECURITY RISKS
@@ -222,7 +222,7 @@ As mentioned in our Terms of Use, we disclaim liability for the risks, which may
 CHILDREN
 --------
 
-We do not knowingly collect personal information from children under the age of 13 through the Digital Properties. If you are under 13, please do not give us any personal information. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children to never provide personal information without their permission. If you have reason to believe that a child under the age of 13 has provided personal information to us, please contact us at [help@tartle.co](mailto:help@tartle.co), and we will endeavor to delete that information from our databases.
+We do not knowingly collect personal information from children under the age of 13 through the Digital Properties. If you are under 13, please do not give us any personal information. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children to never provide personal information without their permission. If you have reason to believe that a child under the age of 13 has provided personal information to us, please contact us at [\[email protected\]](https://tartle.co/cdn-cgi/l/email-protection), and we will endeavor to delete that information from our databases.
 
 IMPORTANT NOTICE TO ALL NON-US RESIDENTS
 ----------------------------------------
@@ -232,7 +232,7 @@ Our servers are located in the US. Please be aware that your information may be 
 CALIFORNIA PRIVACY RIGHTS
 -------------------------
 
-Pursuant to Section 1798.83 of the California Civil Code, residents of California have the right to obtain certain information about the types of personal information that companies with whom they have an established business relationship (and that are not otherwise exempt) have shared with third parties for direct marketing purposes during the preceding calendar year, including the names and addresses of those third parties, and examples of the types of services or products marketed by those third parties. If you wish to submit a request pursuant to Section 1798.83, please contact TARTLE via email at [help@tartle.co](mailto:help@tartle.co).
+Pursuant to Section 1798.83 of the California Civil Code, residents of California have the right to obtain certain information about the types of personal information that companies with whom they have an established business relationship (and that are not otherwise exempt) have shared with third parties for direct marketing purposes during the preceding calendar year, including the names and addresses of those third parties, and examples of the types of services or products marketed by those third parties. If you wish to submit a request pursuant to Section 1798.83, please contact TARTLE via email at [\[email protected\]](https://tartle.co/cdn-cgi/l/email-protection).
 
 DO NOT TRACK
 ------------
@@ -242,7 +242,7 @@ Where technically feasible, TARTLE responds to "Do Not Track" settings or other 
 NEVADA PRIVACY RIGHTS
 ---------------------
 
-If you are a resident of Nevada, you have the right to opt-out of the sale of certain personal information to third parties who intend to license or sell that personal information. You can exercise this right by contacting us at [help@tartle.co](mailto:help@tartle.co) with the subject line "Nevada Do Not Sell Request" and providing us with your name and the email address associated with your account. Please note that we do not currently sell your personal information as sales are defined in Nevada Revised Statutes Chapter 603A because TARTLE obtains your consent to sell your information and uses your information for purposes consistent with your reasonable expectations.
+If you are a resident of Nevada, you have the right to opt-out of the sale of certain personal information to third parties who intend to license or sell that personal information. You can exercise this right by contacting us at [\[email protected\]](https://tartle.co/cdn-cgi/l/email-protection) with the subject line "Nevada Do Not Sell Request" and providing us with your name and the email address associated with your account. Please note that we do not currently sell your personal information as sales are defined in Nevada Revised Statutes Chapter 603A because TARTLE obtains your consent to sell your information and uses your information for purposes consistent with your reasonable expectations.
 
 LINKS TO EXTERNAL WEBSITES
 --------------------------
@@ -254,7 +254,7 @@ DISPUTE RESOLUTION
 
 TARTLE is under the jurisdiction of the Federal Trade Commission. Data Privacy Framework
 
-In the event of a complaint or dispute, please contact TARTLE at [privacy@tartle.co](mailto:privacy@tartle.co)
+In the event of a complaint or dispute, please contact TARTLE at [\[email protected\]](https://tartle.co/cdn-cgi/l/email-protection)
 
 In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and/or the Swiss-U.S. DPF, TARTLE commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and/or the Swiss-U.S. DPF to ANA DPF Dispute Resolution, an alternative dispute resolution provider based in the United States. If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit ANA DPF Dispute Resolution for more information or to file a complaint.
 
@@ -268,7 +268,7 @@ This Privacy Policy is effective as of the last updated date stated at the top o
 HOW TO CONTACT US
 -----------------
 
-If you have questions about this Privacy Policy, please e-mail us at [help@tartle.co](mailto:help@tartle.co) with "Privacy Policy" in the subject line.
+If you have questions about this Privacy Policy, please e-mail us at [\[email protected\]](https://tartle.co/cdn-cgi/l/email-protection) with "Privacy Policy" in the subject line.
 
 [GDPR notice](https://source.tartle.co/gdpr)
 
