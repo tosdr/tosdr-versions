@@ -1372,6 +1372,26 @@ Secondary Footer Navigation
 
 [Request Info](#rfi-form)
 
+Secondary Footer Navigation
+
+* [Catalog](https://academics.waldenu.edu/catalog)
+* [Legal & Consumer Info](https://www.waldenu.edu/legal)
+* [Website Terms and Conditions](https://www.waldenu.edu/legal/website-terms-and-conditions)
+* [Cookie Policy](https://www.waldenu.edu/legal/cookie-policy)
+* [Privacy Policy](https://www.waldenu.edu/legal)
+* [Disability Services](https://www.waldenu.edu/disability-services)
+* [Accessibility Statement](https://www.waldenu.edu/legal/accessibility)
+* [Accreditation](https://www.waldenu.edu/about/accreditation)
+* [State Authorization](https://www.waldenu.edu/about/accreditation/state-authorization-and-program-licensure)
+* [Professional Licensure Disclosure](https://www.waldenu.edu/professional-licensure-disclosure)
+* [Walden Gear](https://www.waldengear.com/)
+* [Net Price Calculator](https://www.waldenu.edu/financial-aid/price-calculator)
+* [DATA](https://www.waldenu.edu/about/data)
+* [Facebook Groups](https://www.waldenu.edu/facebook-group-finder)
+* [Contact Us](https://www.waldenu.edu/contact-us)
+* [Cost of Attendance](https://www.waldenu.edu/cost-of-attendance-document-v2)
+* [Office of Equity and Access](https://www.waldenu.edu/oea-the-office-of-equity-and-access)
+
 Walden University is accredited by the Higher Learning Commission [(www.hlcommission.org)](https://www.hlcommission.org/?comm_code=4171900), an institutional accreditation agency recognized by the U.S. Department of Education.
 
 Walden University is a member of Adtalem Global Education, Inc. [www.adtalem.com](https://www.adtalem.com/) | Walden University is certified to operate by SCHEV
