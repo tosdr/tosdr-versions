@@ -175,8 +175,6 @@ Pride Foundation Australia acknowledges the traditional custodians of the land o
 * [News](https://pridefoundation.org.au/news/)
 * [Contact](https://pridefoundation.org.au/contact/)
 
-Menu
-
 * [Home](https://pridefoundation.org.au/)
 * [About Us](https://pridefoundation.org.au/about-pride-foundation-australia/)
 * [Our Impact](https://pridefoundation.org.au/our-impact/)
@@ -192,8 +190,6 @@ Menu
 * [Grant Recipient Login](https://pridefoundation.org.au/grant-recipient-login/)
 * [Publications](https://pridefoundation.org.au/publications/)
 * [Financial Statements](https://pridefoundation.org.au/annual-financial-statements/)
-
-Menu
 
 * [Large Grants](https://pridefoundation.org.au/major-grants/)
 * [Major Grant Recipients](https://pridefoundation.org.au/past-major-grant-recipients/)
