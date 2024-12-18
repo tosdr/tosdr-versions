@@ -87,7 +87,7 @@ Last updated: 30/11/2024
 
 * The third parties described here have no official affiliation with the company unless stated otherwise.
 
-* [About](https://chequered.ink/about/)
+* [About Us](https://chequered.ink/about/)
 * [Contact](https://chequered.ink/contact/)
 * [Terms and Conditions](https://chequered.ink/terms-of-use/)
 * [Privacy Policy](https://chequered.ink/privacy-policy-2/)
