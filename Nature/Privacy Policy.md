@@ -10,7 +10,7 @@ Advertisement
 
 * [View all journals](https://www.nature.com/siteindex)
 * [Search](#search-menu)
-* [Log in](https://idp.nature.com/auth/personal/springernature?redirect_uri=https://www.nature.com/info/privacy?error=cookies_not_supported&code=9da64fc5-b85b-4948-a87b-66412f0d6406)
+* [Log in](https://idp.nature.com/auth/personal/springernature?redirect_uri=https://www.nature.com/info/privacy?error=cookies_not_supported&code=aa9c6b11-d562-4677-a1eb-c20b81c3f5f2)
 
 1. [nature](https://www.nature.com/)
 2. [nature info](https://www.nature.com/info)
@@ -19,7 +19,7 @@ Advertisement
 Privacy Policy
 ==============
 
-This policy was last updated on 22nd  August 2024.
+This policy was last updated on 18th December 2024.
 
 This is the privacy policy (“policy”) for nature.com which is run and provided by Springer Nature Limited (**we, us** and **our**). Springer Nature Limited is located at The Campus, 4 Crinan Street, London N1 9XW.  We can also be contacted at [feedback@nature.com](mailto:feedback@nature.com).
 
@@ -214,6 +214,14 @@ We do not process any sensitive data unless provided by you because you e.g. nee
 We share anonymous, aggregated data within the business. We forward emails internally, or provide access to tickets for other teams to e.g. share positive feedback with a stakeholder, or for review by internal teams seeking to improve the products and services. For this the legal basis is Article 6 sec. 1 sent. 1 lit. f GDPR and represents our legitimate interest to improve our service quality and provide tailored solutions to the customers.
 
 We store your data until completion of the request and, if applicable, as long as required by statutory retention requirements (e.g. for 3 years after completion to prove adequate handling of service requests or subject access requests made under the GDPR).
+
+8**. Researcher Profiles**
+
+Springer Nature may process personal data collected by research data aggregators such as [ORCID](https://orcid.org/) in order to validate or supplement the publication records we hold to support the Researcher Profiles on link.springer.com.  This includes data categories such as:  Identification data (which may include your name and ORCID ID), biographical data (field of study, keywords, country or region) affiliation data (e.g. employment and education or qualifications), and publication data (DOIs, Journal IDs). You can be part of these data collections because of your publication history Springer Nature.
+
+A Researcher Profile may be automatically created for researchers that have a Springer Nature Account with a linked ORCID ID. When a researcher links their ORCID ID to their Springer Nature Account, they authorize Springer Nature to access information in their ORCID record set to **Trusted parties**. For more information on how ORCID processes personal data please see their privacy policy [here](https://info.orcid.org/privacy-policy/).
+
+The use of your personal data in relation to our generation of Researcher Profiles is based on our legitimate interest to develop products and services that benefit the research community by providing them with better discovery experiences of researchers and their attributed research. Article 6 sec. 1 sent. 1 lit. f GDPR. If you don’t want Springer Nature to access this information, you can remove your ORCID ID from your SN Account. Please see the  ‘Linked Accounts’ section in your Account settings: [https://my-profile.springernature.com/linked-accounts](https://my-profile.springernature.com/linked-accounts)
 
 VI. Automated decision making
 -----------------------------
