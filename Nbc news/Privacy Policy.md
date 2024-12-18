@@ -36,6 +36,7 @@ NBCU Privacy Center
 * [Cookie Notice](https://www.nbcuniversal.com/privacy/cookies)
 * [California Notice](https://www.nbcuniversal.com/privacy/california-consumer-privacy-act)
 * [Privacy FAQs](https://www.nbcuniversal.com/privacy/privacy-faqs)
+* [Fandango Privacy Policy](https://www.nbcuniversal.com/fandango-privacy-policy)
 
 Last Updated: December 16, 2024
 
