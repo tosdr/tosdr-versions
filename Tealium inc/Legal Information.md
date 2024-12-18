@@ -247,16 +247,11 @@ You acknowledge that you have read this Policy and agree to all its terms and co
 
 Tealium undertakes to verify compliance with this Policy not less than once per year and in connection with Tealium’s annual review and internal compliance measures. Tealium will use its best commercial efforts to ensure that compliance with this Policy is maintained and that this Policy is accurate, comprehensive, and continues to conform to applicable law. We encourage you to raise and discuss any issues or concerns with Tealium’s Data Privacy Officer directly. Our DPO will address and resolve such complaints regarding the use of data and noncompliance with our Policy.
 
-In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, Tealium commits to cooperate and comply respectively with the advice of the panel established by the EU data protection authorities (DPAs) and the UK Information Commissioner’s Office (ICO) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF.
+In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, Tealium commits to cooperate and comply respectively with the advice of the panel established by the EU data protection authorities (DPAs) and the UK Information Commissioner’s Office (ICO) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF. Tealium is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC)
 
-Tealium provides information regarding the following through policies and trainings:
+If your DPF complaint cannot be resolved through the above channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms. With respect to personal data received or transferred pursuant to the Data Privacy Framework.
 
-* Tealium is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC)
-* The possibility, under certain conditions, for the individual to invoke binding arbitration
-* The requirement for Tealium to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements
-* Tealium’s liability in cases of onward transfers to third parties
-
-With respect to complaints related to this Policy that cannot be resolved through our internal process, we agree to abide by the dispute resolution procedures established by the Data Privacy Framework.
+Tealium may disclose personal data in response to lawful requests from public authorities, including to meet national security or law enforcement requirements.
 
 **Contacting us**
 
