@@ -196,59 +196,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Enjoying Invoices Online
-> ------------------------
+> Saving time, saving money
+> -------------------------
 > 
-> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
-> 
-> I have upgraded to the Gold account in order to support you guys!
+> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
 
-Shaun Gartshore
+Cornel Erasmus - TELA Loss Adjusters & Assessors
 
-![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=ba13c3c47a4a57474777ee53b9f5ca62c84ca2b930aadde56ef1cca876dd5d67&c=153056895)  
-Abandoned Vehicle and Truck Solutions
+![valued client Eruca](https://www.invoicesonline.co.za/scripts/image.php?bid=8439&file=logo_300_100&type=&fe=b5aa5f07044d1cc832675e92821ad3c63e97023cb459ea9b3a3bec9216b4663a&c=213570426)  
+Eruca
 
-![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=ba13c3c47a4a57474777ee53b9f5ca62c84ca2b930aadde56ef1cca876dd5d67&c=156178360)  
-Prosper Park
+![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=b5aa5f07044d1cc832675e92821ad3c63e97023cb459ea9b3a3bec9216b4663a&c=25843357)  
+Well Hung Art
 
-![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=ba13c3c47a4a57474777ee53b9f5ca62c84ca2b930aadde56ef1cca876dd5d67&c=15278389)  
+![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=b5aa5f07044d1cc832675e92821ad3c63e97023cb459ea9b3a3bec9216b4663a&c=12850179)  
+BD Maintenance
+
+![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=b5aa5f07044d1cc832675e92821ad3c63e97023cb459ea9b3a3bec9216b4663a&c=63566763)  
+NIMAWELL
+
+![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=b5aa5f07044d1cc832675e92821ad3c63e97023cb459ea9b3a3bec9216b4663a&c=173490777)  
 Redlum Group (Pty) Ltd
 
-![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=ba13c3c47a4a57474777ee53b9f5ca62c84ca2b930aadde56ef1cca876dd5d67&c=143617839)  
-Vplay Letsheng Mall
+![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=b5aa5f07044d1cc832675e92821ad3c63e97023cb459ea9b3a3bec9216b4663a&c=207775917)  
+Brilliant Roof Products
 
-![valued client High Point Marketing CC t/a Leads For Africa](https://www.invoicesonline.co.za/scripts/image.php?bid=6845&file=logo_300_100&type=&fe=ba13c3c47a4a57474777ee53b9f5ca62c84ca2b930aadde56ef1cca876dd5d67&c=154359963)  
-High Point Marketing CC t/a Leads For Africa
+![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=b5aa5f07044d1cc832675e92821ad3c63e97023cb459ea9b3a3bec9216b4663a&c=35646706)  
+MONSTER SECURITY SERVICES
 
-![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=ba13c3c47a4a57474777ee53b9f5ca62c84ca2b930aadde56ef1cca876dd5d67&c=58117638)  
-Camp 4 Africa (Pty) Ltd
+![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=b5aa5f07044d1cc832675e92821ad3c63e97023cb459ea9b3a3bec9216b4663a&c=5728533)  
+Oukraal Merino's
 
-![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=ba13c3c47a4a57474777ee53b9f5ca62c84ca2b930aadde56ef1cca876dd5d67&c=80716663)  
-Forgotten Goods (Pty) Ltd
+![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=b5aa5f07044d1cc832675e92821ad3c63e97023cb459ea9b3a3bec9216b4663a&c=182783052)  
+Blue Bulls Rugby Coaches Association
 
-![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=ba13c3c47a4a57474777ee53b9f5ca62c84ca2b930aadde56ef1cca876dd5d67&c=38944624)  
-Printo
+![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=b5aa5f07044d1cc832675e92821ad3c63e97023cb459ea9b3a3bec9216b4663a&c=12240980)  
+Sonic Electrical Services PTY Ltd
 
-![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=ba13c3c47a4a57474777ee53b9f5ca62c84ca2b930aadde56ef1cca876dd5d67&c=20259276)  
-Safe-Train Consulting (PTY) Ltd
+![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=b5aa5f07044d1cc832675e92821ad3c63e97023cb459ea9b3a3bec9216b4663a&c=158712583)  
+LEONARD
 
-![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=ba13c3c47a4a57474777ee53b9f5ca62c84ca2b930aadde56ef1cca876dd5d67&c=36415285)  
-Bloem Rugby Academy PTY (Ltd)
+![valued client NC Labour Hire](https://www.invoicesonline.co.za/scripts/image.php?bid=8545&file=logo_300_100&type=&fe=b5aa5f07044d1cc832675e92821ad3c63e97023cb459ea9b3a3bec9216b4663a&c=120637525)  
+NC Labour Hire
 
-![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=ba13c3c47a4a57474777ee53b9f5ca62c84ca2b930aadde56ef1cca876dd5d67&c=117710873)  
-United Paintball Federation
+![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=b5aa5f07044d1cc832675e92821ad3c63e97023cb459ea9b3a3bec9216b4663a&c=192375008)  
+TRACKFORCE (Pty) Ltd
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=ba13c3c47a4a57474777ee53b9f5ca62c84ca2b930aadde56ef1cca876dd5d67&c=172447564)  
-VIV'S TRUCKS (Pty) Ltd. (117)
+![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=b5aa5f07044d1cc832675e92821ad3c63e97023cb459ea9b3a3bec9216b4663a&c=170348541)  
+Cpower Projects t/a Pro Pure Water
 
-![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=ba13c3c47a4a57474777ee53b9f5ca62c84ca2b930aadde56ef1cca876dd5d67&c=4220018)  
-WIP Digital Solutions
-
-![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=ba13c3c47a4a57474777ee53b9f5ca62c84ca2b930aadde56ef1cca876dd5d67&c=92126035)  
-Digifax Pty) Ltd t/a Findfish
-
-![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=ba13c3c47a4a57474777ee53b9f5ca62c84ca2b930aadde56ef1cca876dd5d67&c=93503496)  
-Goju-Ryu Pretoria East
+![valued client SafeTclip](https://www.invoicesonline.co.za/scripts/image.php?bid=8368&file=logo_300_100&type=&fe=b5aa5f07044d1cc832675e92821ad3c63e97023cb459ea9b3a3bec9216b4663a&c=58224770)  
+SafeTclip
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
