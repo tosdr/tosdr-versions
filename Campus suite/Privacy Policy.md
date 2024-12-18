@@ -208,13 +208,17 @@ Ridgeland, Mississippi 39157
 
 ![Black badge, winner 2023, Top Ed Tech Products.](https://www.schoolstatus.com/wp-content/uploads/image-23-1.webp)
 
+![GSV 150 Most Transformational Growth Companies In Digital Learning Logo](https://www.schoolstatus.com/wp-content/uploads/GSV150_2025-Award-300x363.png)
+
+![Excellence in Equity Industry Impact Award 2024](https://www.schoolstatus.com/wp-content/uploads/EIE-Industry-Impact-Award-2024-300x363.png)
+
+![1EdTech Trusted Education App Certified Badge](https://www.schoolstatus.com/wp-content/uploads/1EdTech_TrustEd-Apps-Certified-485x520-BW-300x322.webp)
+
 ![EdTech Trendsetter Awards Finalist](https://www.schoolstatus.com/wp-content/uploads/edtech-trendsetter-award-finalist-BW-300x424.webp)
 
 ![Codie 2021 Siia Codie Winner](https://www.schoolstatus.com/wp-content/uploads/codie.svg)
 
 ![Top 100](https://www.schoolstatus.com/wp-content/uploads/MostFlexibleEmployer-Top-100-Badge-BW-300x418.webp)
-
-![1EdTech Trusted Education App Certified Badge](https://www.schoolstatus.com/wp-content/uploads/1EdTech_TrustEd-Apps-Certified-485x520-BW-300x322.webp)
 
 ![Users Love Us Summer 2024](https://www.schoolstatus.com/wp-content/uploads/users-love-us-2-300x389.webp)
 
