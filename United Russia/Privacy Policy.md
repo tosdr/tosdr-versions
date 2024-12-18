@@ -289,53 +289,53 @@
 
 [Все новости](https://er.ru/activity/news)
 
-[![«Единая Россия» провела в штабах общественной поддержки мероприятия, посвящённые самбо](https://cdn.er.ru/media/news/December2024/oNpDflQ9zjDIxxxKEFzj-small.png)](https://er.ru/activity/news/edinaya-rossiya-provela-v-shtabah-obshestvennoj-podderzhki-meropriyatiya-posvyashyonnye-sambo)
+[![Владимир Якушев подвёл итоги работы «Единой России» в осеннюю сессию](https://cdn.er.ru/media/news/December2024/vTAZT9qXyQLhdm06v8jA-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-podvyol-itogi-raboty-edinoj-rossii-v-osennyuyu-sessiyu)
 
-[«Единая Россия» провела в штабах общественной поддержки мероприятия, посвящённые самбо](https://er.ru/activity/news/edinaya-rossiya-provela-v-shtabah-obshestvennoj-podderzhki-meropriyatiya-posvyashyonnye-sambo)
+[Владимир Якушев подвёл итоги работы «Единой России» в осеннюю сессию](https://er.ru/activity/news/vladimir-yakushev-podvyol-itogi-raboty-edinoj-rossii-v-osennyuyu-sessiyu)
 
-[#Елисеев](https://er.ru/activity/news?tags%5B0%5D=25667) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#zасамбо](https://er.ru/activity/news?tags%5B0%5D=1093193) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#штабобщественнойподдержки](https://er.ru/activity/news?tags%5B0%5D=1092101) [#спорт](https://er.ru/activity/news?tags%5B0%5D=380)
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#Путин](https://er.ru/activity/news?tags%5B0%5D=60) [#ДАМедведев](https://er.ru/activity/news?tags%5B0%5D=1095750) [#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152) [#поддержкасемейвоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1093581) [#первичныеотделения](https://er.ru/activity/news?tags%5B0%5D=113123)
 
-17.12.24
+Сегодня 12:08
 
-[![«Единая Россия» усилила защиту прав врачей](https://cdn.er.ru/media/news/December2024/EA21hmpK8yNk52PdoYpN-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-usilila-zashitu-prav-vrachej)
+[![Госдума приняла инициированный «Единой Россией» законопроект об усилении ответственности за продажу вейпов детям](https://cdn.er.ru/media/news/December2024/ZMOFjHFZTFXpB87RNxr5-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-iniciirovannyj-edinoj-rossiej-zakonoproekt-ob-usilenii-otvetstvennosti-za-prodazhu-vejpov-detyam)
 
-[«Единая Россия» усилила защиту прав врачей](https://er.ru/activity/news/edinaya-rossiya-usilila-zashitu-prav-vrachej)
+[Госдума приняла инициированный «Единой Россией» законопроект об усилении ответственности за продажу вейпов детям](https://er.ru/activity/news/gosduma-prinyala-iniciirovannyj-edinoj-rossiej-zakonoproekt-ob-usilenii-otvetstvennosti-za-prodazhu-vejpov-detyam)
 
-[#Башанкаев](https://er.ru/activity/news?tags%5B0%5D=114445) [#медики](https://er.ru/activity/news?tags%5B0%5D=648) [#декриминализация](https://er.ru/activity/news?tags%5B0%5D=85386) [#медицина](https://er.ru/activity/news?tags%5B0%5D=273) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692)
+[#Метелев](https://er.ru/activity/news?tags%5B0%5D=133170) [#никотин](https://er.ru/activity/news?tags%5B0%5D=142863) [#никотиносодержащаяпродукция](https://er.ru/activity/news?tags%5B0%5D=143416) [#вейпы](https://er.ru/activity/news?tags%5B0%5D=96999) [#несовершеннолетние](https://er.ru/activity/news?tags%5B0%5D=4501) [#штрафы](https://er.ru/activity/news?tags%5B0%5D=1198)
 
-17.12.24
+Сегодня 11:50
 
-[![«Единая Россия» определила планы работы Экспертного совета постоянного комитета Форума сторонников борьбы с современными практиками неоколониализма «За свободу наций!»](https://cdn.er.ru/media/news/December2024/Jfg8aoCIO7Ok3daHOKwo-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-opredelila-plany-raboty-ekspertnogo-soveta-postoyannogo-komiteta-foruma-storonnikov-borby-s-sovremennymi-praktikami-neokolonializma-za-svobodu-nacij)
+[![«Единая Россия» и МГЕР помогают в ликвидации последствий разлива нефтепродуктов в Анапе и Темрюкском районе Краснодарского края](https://cdn.er.ru/media/news/December2024/hWoQkWiREd5FXy4IVWHO-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-i-mger-pomogayut-v-likvidacii-posledstvij-razliva-nefteproduktov-v-anape-i-temryukskom-rajone-krasnodarskogo-kraya)
 
-[«Единая Россия» определила планы работы Экспертного совета постоянного комитета Форума сторонников борьбы с современными практиками неоколониализма «За свободу наций!»](https://er.ru/activity/news/edinaya-rossiya-opredelila-plany-raboty-ekspertnogo-soveta-postoyannogo-komiteta-foruma-storonnikov-borby-s-sovremennymi-praktikami-neokolonializma-za-svobodu-nacij)
+[«Единая Россия» и МГЕР помогают в ликвидации последствий разлива нефтепродуктов в Анапе и Темрюкском районе Краснодарского края](https://er.ru/activity/news/edinaya-rossiya-i-mger-pomogayut-v-likvidacii-posledstvij-razliva-nefteproduktov-v-anape-i-temryukskom-rajone-krasnodarskogo-kraya)
 
-[#Климов](https://er.ru/activity/news?tags%5B0%5D=1872) [#международноесотрудничество](https://er.ru/activity/news?tags%5B0%5D=119742) [#неоколониализм](https://er.ru/activity/news?tags%5B0%5D=1094202) [#форум](https://er.ru/activity/news?tags%5B0%5D=19)
+[#Краснодарский край](https://er.ru/activity/news?tags%5B0%5D=1282) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#МолодаяГвардияЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094676) [#первичныеотделения](https://er.ru/activity/news?tags%5B0%5D=113123) [#поддержка](https://er.ru/activity/news?tags%5B0%5D=519)
 
-17.12.24
+Сегодня 11:25
 
-[![Владимир Якушев: «Единая Россия» поддержит лучшие гражданские инициативы](https://cdn.er.ru/media/news/December2024/IeRMwh9MMVShxZN2G2Gt-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-edinaya-rossiya-podderzhit-luchshie-grazhdanskie-iniciativy)
+[![«Единая Россия» проведёт лекции о финансовом планировании в Луганске, Мелитополе и Донецке](https://cdn.er.ru/media/news/December2024/2bPxXenL7XZbQRHDDeIO-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-provedyot-lekcii-o-finansovom-planirovanii-v-luganske-melitopole-i-donecke)
 
-[Владимир Якушев: «Единая Россия» поддержит лучшие гражданские инициативы](https://er.ru/activity/news/vladimir-yakushev-edinaya-rossiya-podderzhit-luchshie-grazhdanskie-iniciativy)
+[«Единая Россия» проведёт лекции о финансовом планировании в Луганске, Мелитополе и Донецке](https://er.ru/activity/news/edinaya-rossiya-provedyot-lekcii-o-finansovom-planirovanii-v-luganske-melitopole-i-donecke)
 
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#НКО](https://er.ru/activity/news?tags%5B0%5D=1394) [#гражданскиеинициативы](https://er.ru/activity/news?tags%5B0%5D=121730) [#конкурс](https://er.ru/activity/news?tags%5B0%5D=360) [#финансоваяподдержка](https://er.ru/activity/news?tags%5B0%5D=139419)
+[#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#приемныепартии](https://er.ru/activity/news?tags%5B0%5D=125195) [#штабобщественнойподдержки](https://er.ru/activity/news?tags%5B0%5D=1092101) [#финансоваяграмотность](https://er.ru/activity/news?tags%5B0%5D=113290) [#лекции](https://er.ru/activity/news?tags%5B0%5D=18064)
 
-17.12.24
+Сегодня 11:14
 
-[![Госдума приняла инициированный «Единой Россией» закон о молодёжной политике](https://cdn.er.ru/media/news/December2024/xvzmxAwVSeGVtYdbOrt8-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-iniciirovannyj-edinoj-rossiej-zakon-o-molodyozhnoj-politike)
+[![Александр Жуков: Все поправки «Единой России» были приняты при доработке бюджета, что позволит добиться поставленных Президентом целей](https://cdn.er.ru/media/news/December2024/qNStJWthhGGAeyLjKVzf-small.jpg)](https://er.ru/activity/news/aleksandr-zhukov-vse-popravki-edinoj-rossii-byli-prinyaty-pri-dorabotke-byudzheta-chto-pozvolit-dobitsya-postavlennyh-prezidentom-celej)
 
-[Госдума приняла инициированный «Единой Россией» закон о молодёжной политике](https://er.ru/activity/news/gosduma-prinyala-iniciirovannyj-edinoj-rossiej-zakon-o-molodyozhnoj-politike)
+[Александр Жуков: Все поправки «Единой России» были приняты при доработке бюджета, что позволит добиться поставленных Президентом целей](https://er.ru/activity/news/aleksandr-zhukov-vse-popravki-edinoj-rossii-byli-prinyaty-pri-dorabotke-byudzheta-chto-pozvolit-dobitsya-postavlennyh-prezidentom-celej)
 
-[#Метелев](https://er.ru/activity/news?tags%5B0%5D=133170) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#молодежнаяполитика](https://er.ru/activity/news?tags%5B0%5D=109512) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692)
+[#Жуков](https://er.ru/activity/news?tags%5B0%5D=824) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#осенняясессия](https://er.ru/activity/news?tags%5B0%5D=121119) [#итоги](https://er.ru/activity/news?tags%5B0%5D=1184) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#ФракцияЕР](https://er.ru/activity/news?tags%5B0%5D=1090016) [#итогиработы](https://er.ru/activity/news?tags%5B0%5D=111531) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327)
 
-17.12.24
+Сегодня 09:35
 
-[![Госдума приняла закон «Единой России» о дополнительной поддержке донорства](https://cdn.er.ru/media/news/December2024/VrUBnV7oIVvkoP2DbJal-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-zakon-edinoj-rossii-o-dopolnitelnoj-podderzhke-donorstva)
+[![Ирина Яровая: «Единая Россия» продолжит реализовывать законодательные решения, обеспечивающие единство общества](https://cdn.er.ru/media/news/December2024/OwhK6haLJeovXO3y3b6k-small.jpg)](https://er.ru/activity/news/irina-yarovaya-edinaya-rossiya-prodolzhit-realizovyvat-zakonodatelnye-resheniya-obespechivayushie-edinstvo-obshestva)
 
-[Госдума приняла закон «Единой России» о дополнительной поддержке донорства](https://er.ru/activity/news/gosduma-prinyala-zakon-edinoj-rossii-o-dopolnitelnoj-podderzhke-donorstva)
+[Ирина Яровая: «Единая Россия» продолжит реализовывать законодательные решения, обеспечивающие единство общества](https://er.ru/activity/news/irina-yarovaya-edinaya-rossiya-prodolzhit-realizovyvat-zakonodatelnye-resheniya-obespechivayushie-edinstvo-obshestva)
 
-[#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#донорство](https://er.ru/activity/news?tags%5B0%5D=127509) [#сдачакрови](https://er.ru/activity/news?tags%5B0%5D=117217) [#благотворительнаядеятельность](https://er.ru/activity/news?tags%5B0%5D=149228) [#волонтерство](https://er.ru/activity/news?tags%5B0%5D=19443) [#добровольчество](https://er.ru/activity/news?tags%5B0%5D=19819)
+[#Яровая](https://er.ru/activity/news?tags%5B0%5D=131) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#осенняясессия](https://er.ru/activity/news?tags%5B0%5D=121119) [#единствонарода](https://er.ru/activity/news?tags%5B0%5D=1095290) [#ФракцияЕР](https://er.ru/activity/news?tags%5B0%5D=1090016) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#итогиработы](https://er.ru/activity/news?tags%5B0%5D=111531)
 
-17.12.24
+Сегодня 09:33
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
