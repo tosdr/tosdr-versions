@@ -25,6 +25,16 @@ Email
 
 Get 10% off
 
+[UNUM](https://sumo.com/products/unum/)
+
+Use this social media co-pilot tool to create, schedule, and track social content in one place
+
+##### UNUM
+
+$49/lifetime$72
+
+![UNUM](https://appsumo2-cdn.appsumo.com/media/deals/images/as-web-UNUM-_16_9.png?width=504&height=284&aspect_ratio=16:9)
+
 [Acumbamail](https://sumo.com/products/acumbamail/)
 
 Grow your business with high-converting email campaigns and landing pages
@@ -46,21 +56,11 @@ Create customized interactive content in minutes using this feature-packed AI bu
 
 $59/lifetime$468
 
-28%claimed
+30%claimed
 
-28%claimed
+30%claimed
 
 ![Meiro](https://appsumo2-cdn.appsumo.com/media/deals/images/as-web-Meiro_-_16_9_uuid_447c510d-70ba-4152-ae07-9ea47523501d.png?width=504&height=284&aspect_ratio=16:9)
-
-[UNUM](https://sumo.com/products/unum/)
-
-Use this social media co-pilot tool to create, schedule, and track social content in one place
-
-##### UNUM
-
-$49/lifetime$72
-
-![UNUM](https://appsumo2-cdn.appsumo.com/media/deals/images/as-web-UNUM-_16_9.png?width=504&height=284&aspect_ratio=16:9)
 
 [Robotalp](https://sumo.com/products/robotalp/)
 
@@ -113,7 +113,7 @@ PreviousNext
 
 ![SMS-iT CRM](https://appsumo2-cdn.appsumo.com/media/deals/images/as-web-SMS-iTs_AI-Powered_Marketing__Sales_CRM_System__-_16_9_Du61ZxJ_uuid_0c725d9b-ca44-40fa-a394-5e06bba86012.png?width=387&height=218&aspect_ratio=16:9)
 
-Deal ends in 8 hours
+Deal ends in 2 hours
 
 ![AppSumo Select](https://appsumo2next-cdn.appsumo.com/_next/static/media/appsumo-select.fa569648.svg)
 
@@ -133,7 +133,7 @@ $79/lifetime$1,500
 
 ![Bind AI](https://appsumo2-cdn.appsumo.com/media/deals/images/as-web-Bind_AI_-_16_9.png?width=387&height=218&aspect_ratio=16:9)
 
-Price increases in 8 hours
+Price increases in 2 hours
 
 ![AppSumo Select](https://appsumo2next-cdn.appsumo.com/_next/static/media/appsumo-select.fa569648.svg)
 
@@ -225,6 +225,24 @@ Purchase protection on all Select tools. [Learn more](https://help.appsumo.com/a
 
 [### What's hot](https://sumo.com/collections/whats-hot)[View all](https://sumo.com/collections/whats-hot)
 
+[Ad Alchemy](https://sumo.com/products/ad-alchemy-ai/)
+
+![Ad Alchemy](https://appsumo2-cdn.appsumo.com/media/deals/images/as-web-Ad_Alchemy_-_16_9_uuid_8c722d84-e184-4484-86f0-3f349500c670.png?width=387&height=218&aspect_ratio=16:9)
+
+![AppSumo Select](https://appsumo2next-cdn.appsumo.com/_next/static/media/appsumo-select.fa569648.svg)
+
+Ad Alchemyin [Lead generation](https://sumo.com/software/marketing-sales/lead-generation/)
+
+Build and scale Google Ads with this AI-powered digital marketing toolkit
+
+![4.73 stars](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOQAAAAkCAYAAACZv5Y5AAAACXBIWXMAACE4AAAhOAFFljFgAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAQpSURBVHgB7ZxbbttGFIbPkFQjAX3QEvhYFwFipVfXKCCtoM0KbK8g3oHtFdhegd0VuFmBBRSFekEgBQngPDI7YJ4sJ+KcnKElhzZkmfchkP8DBEpDSfOBwFzOnCGJAAAAAAAAAACAdCiqiNFo7OuvWn0mp6uIu0wqZB1NvvZmk16vF1LDgb9dvlT/UhvkaHzhy2FLXtvE5NP9tZ7SlA42NtYCahDwtwv8S2qQf//3Zt1puYci0c/yO1bqqEOXB7Z7PPjDvwhl+hdqkOPxuHtFnT1m3l1yeijlr+QYmOHa0RRox/Qa2lfkPpGa+2YoV6Qmj9TlwMZFhT/8i1CFv0c5+ev/1/0peyfSzv07Ei86ztVpmgs0enmxzYq3prp9KB93qEbgD/8iVOWfa4T8Z/z28E6vMKRI5sQ/rA0pB0aMPtCwrpgA/reBfzaq9M/UIE3QqlidMfH6vCgQkZ1lIqYHaXmt3+Stn/y+DNFhpGcvnA/usO6gHP7wL0Id/qkbZBy4eu6ZqSAuYOkRvlvbT37HzKmn1H7OrHbN/HjV/5l5tVJ81KbpcR3zf/jfBv7ZqMs/VYM0rd11W2fzSgI9i55t/vh4cldEatmn7AR0RYMqezv4rwT+D1Cn/4MN8t/xxZZmyZuQadX0R0dNd5MtWubTz+X8/kM9QhapMoF/KuB/D3X7e2ll5HiwmRii50nQEwlu+yUkM316RLJiRQMqEfinBv5LsOGv0shI17Aj8+XTxTkzhHuuWfJdsRshB7OIBr/mXKm6C/yzA//P2PJ3aIWMCTxlvtxLypghWmTOy5YxuO7SBGtm4J8P+F9j09+5T4bMDoPZbJAMXuf5lyOqCFkSfkIFgX9+4G/f/1YMaZZ2FzImyNzceByY8vkqkpHZpmrxqQDwL4xPBYB/YfybBmmCVMmfyFDMt1as4v163DHl69Rg4G8X+JeDs5CRwPU8Llkiw/VdzIByAP/SCCgH8C+NwFnISADbNXNmizKxEGUE/qUSUEbgXyqBJyKHktT0VcSDX+YBrCUZMjvlKSPwLw/42/d3FPPvcZ4lkb+51J0TtjDnZ0cPKSPwLw/4X2PT33M0P/vp+2//XBTKEH5CRrJuGVKTzd7nJea0wL8c4H+NbX8nKSM5mD05s00WkJ7qmHIA/3KAfzP8VVJG59utXlxGeoefn37TowLAPz/wb45/nPZY7FgnC0gge2yeKUIFgH9+4N8sf29euEsVEd+ISRxK0nWiHA611u+kHwhkiA477tWw97T4zaXwX/Hf8H+4jgb5e+eyxLvyGZKrCUyF8vuASL+TlanQVGaesEUzCtrtaVj13dzwh38RmuYfx5Cjlxf78m5vWWVK8YQ1v7+pPIomTuSGTXpILfztAv/yuFnUMTsW9Meo27SLlRb42wX+AAAAAAAAAABAvXwC0lzOE+POX8sAAAAASUVORK5CYII=)
+
+![4.73 stars](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOQAAAAlCAYAAABS40WcAAAACXBIWXMAACE4AAAhOAFFljFgAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAOgSURBVHgB7ZxhTtswGIZfZ7BfA3EEdgN2goE2Ju0X9ASDE4ydYHACxgkoJ2D8msRA9AaDE6w7wSLBj2kFss9OmqYstEnsxEF9H6k0JG38pJI/25/jAIQQQgghhBBCSDEUaib6hmWz8Qeh6iDEE4P+fpk1f+cVMvqOVQR4jUjegRV5LWUOa6Ee7nGi3qGLFkJ/v8y6v7MKaUQUPsvmasGv9EV6W62LYAugv1/oH2NdIaeIhKbg+KW3lxFHjJWMwa56gz14gv70t8G1f+UKGR3LiRdFJMLOg0M92XeCW3xV741I/ncX5ALusSnN+wf5/CeJFF/QIPSnvw11+VeqkElUOASSAauu/fc4kveu9I0vUQIz6H0mFzUvkWKtmUE7/TPnon9p6vQvXSGjM3yUt2w06mKAvbxoYAp7biLBMobiEOEbXD7MOOmo0UQWjf70t6Fu/1IVMjrHfqaJ7ucNSpMs04Yc28J4hmkcJRfyN/9C6oL+Gehfmib8C1VI0+d9gQv59Eqy6wDX0sRmanmFLNPQoPZBOf0nQP+pNOk/tUKaZndeZOL+cig1v5ONCsngdj+JCNWQaCFS26gB+heA/o/StH+AojKR9H0HeDUmcyYZogX8tJIxJ8KW6Q44hv5FC6J/7mk9+KtCMpAM0jV2hk30hJSvHRHWXE300r9KofRPT+XJfw7TZQ7U21HB6bEozRy5Q8m8DOx/UPpXhP4Gn/7BRJlIskBZmVMZ1M7jB1CDTCy0AUvobwH9vfsHE2XWsZse0/3lwMgsoS4sow79LaG/d/+0Qpp+8RyOc2XOTTq3ixZDf7/Q3w2jFnIRh2aeJU8mGv1fM9XvtKC/C+jv2T9ICtXzKJueZTSXqAD9nUF/z/5BUuhOC2Q0VygJ/Z1C//H9u2iWqyCZSzlqgQxwVyFlTX930D/e5dFfSfboWFK7neE+k03yMwDvi8dLlIT+zqA//PsHYzKn5ubZLvzQQwXo74weKkB/Z/T0n9G0h56DCcwcjA/6ek0ZLKC/FfRviX+QysQTovVNej6OXm3dsVnXRn8r6N8i//he1tF9e/WjzMLOPuIFnle4Qdd6pTf9i0P//2mRv4ouJCrc4TfsCaWw0CxTideN/ZL2VxeqI0BfygjrWN1N/xT6V6Bt/mb5lWSWdIRYnVhY9nF22cIGIuD5qdL0p78NbfKPu6wDbJsnX2l0kxoktfpWUrENPrOkMvT3C/0JIYQQQgghhBBCyCzzD2ypYwvXNpXXAAAAAElFTkSuQmCC)
+
+[55 reviews](https://sumo.com/products/ad-alchemy-ai/#reviews)
+
+$79/lifetime$1,188
+
 [Merlin](https://sumo.com/products/merlin/)
 
 ![Merlin](https://appsumo2-cdn.appsumo.com/media/deals/images/as-web-Merlin_-_16_9_P15KpDU_uuid_e72c5531-b200-4f32-bd39-70fbb40bedf8.png?width=387&height=218&aspect_ratio=16:9)
@@ -244,24 +262,6 @@ Use this 26-in-one Chrome extension to research, summarize, and write content fr
 [215 reviews](https://sumo.com/products/merlin/#reviews)
 
 $79/lifetime$212
-
-[Ad Alchemy](https://sumo.com/products/ad-alchemy-ai/)
-
-![Ad Alchemy](https://appsumo2-cdn.appsumo.com/media/deals/images/as-web-Ad_Alchemy_-_16_9_uuid_8c722d84-e184-4484-86f0-3f349500c670.png?width=387&height=218&aspect_ratio=16:9)
-
-![AppSumo Select](https://appsumo2next-cdn.appsumo.com/_next/static/media/appsumo-select.fa569648.svg)
-
-Ad Alchemyin [Lead generation](https://sumo.com/software/marketing-sales/lead-generation/)
-
-Build and scale Google Ads with this AI-powered digital marketing toolkit
-
-![4.73 stars](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOQAAAAkCAYAAACZv5Y5AAAACXBIWXMAACE4AAAhOAFFljFgAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAQpSURBVHgB7ZxbbttGFIbPkFQjAX3QEvhYFwFipVfXKCCtoM0KbK8g3oHtFdhegd0VuFmBBRSFekEgBQngPDI7YJ4sJ+KcnKElhzZkmfchkP8DBEpDSfOBwFzOnCGJAAAAAAAAAACAdCiqiNFo7OuvWn0mp6uIu0wqZB1NvvZmk16vF1LDgb9dvlT/UhvkaHzhy2FLXtvE5NP9tZ7SlA42NtYCahDwtwv8S2qQf//3Zt1puYci0c/yO1bqqEOXB7Z7PPjDvwhl+hdqkOPxuHtFnT1m3l1yeijlr+QYmOHa0RRox/Qa2lfkPpGa+2YoV6Qmj9TlwMZFhT/8i1CFv0c5+ev/1/0peyfSzv07Ei86ztVpmgs0enmxzYq3prp9KB93qEbgD/8iVOWfa4T8Z/z28E6vMKRI5sQ/rA0pB0aMPtCwrpgA/reBfzaq9M/UIE3QqlidMfH6vCgQkZ1lIqYHaXmt3+Stn/y+DNFhpGcvnA/usO6gHP7wL0Id/qkbZBy4eu6ZqSAuYOkRvlvbT37HzKmn1H7OrHbN/HjV/5l5tVJ81KbpcR3zf/jfBv7ZqMs/VYM0rd11W2fzSgI9i55t/vh4cldEatmn7AR0RYMqezv4rwT+D1Cn/4MN8t/xxZZmyZuQadX0R0dNd5MtWubTz+X8/kM9QhapMoF/KuB/D3X7e2ll5HiwmRii50nQEwlu+yUkM316RLJiRQMqEfinBv5LsOGv0shI17Aj8+XTxTkzhHuuWfJdsRshB7OIBr/mXKm6C/yzA//P2PJ3aIWMCTxlvtxLypghWmTOy5YxuO7SBGtm4J8P+F9j09+5T4bMDoPZbJAMXuf5lyOqCFkSfkIFgX9+4G/f/1YMaZZ2FzImyNzceByY8vkqkpHZpmrxqQDwL4xPBYB/YfybBmmCVMmfyFDMt1as4v163DHl69Rg4G8X+JeDs5CRwPU8Llkiw/VdzIByAP/SCCgH8C+NwFnISADbNXNmizKxEGUE/qUSUEbgXyqBJyKHktT0VcSDX+YBrCUZMjvlKSPwLw/42/d3FPPvcZ4lkb+51J0TtjDnZ0cPKSPwLw/4X2PT33M0P/vp+2//XBTKEH5CRrJuGVKTzd7nJea0wL8c4H+NbX8nKSM5mD05s00WkJ7qmHIA/3KAfzP8VVJG59utXlxGeoefn37TowLAPz/wb45/nPZY7FgnC0gge2yeKUIFgH9+4N8sf29euEsVEd+ISRxK0nWiHA611u+kHwhkiA477tWw97T4zaXwX/Hf8H+4jgb5e+eyxLvyGZKrCUyF8vuASL+TlanQVGaesEUzCtrtaVj13dzwh38RmuYfx5Cjlxf78m5vWWVK8YQ1v7+pPIomTuSGTXpILfztAv/yuFnUMTsW9Meo27SLlRb42wX+AAAAAAAAAABAvXwC0lzOE+POX8sAAAAASUVORK5CYII=)
-
-![4.73 stars](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOQAAAAlCAYAAABS40WcAAAACXBIWXMAACE4AAAhOAFFljFgAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAOgSURBVHgB7ZxhTtswGIZfZ7BfA3EEdgN2goE2Ju0X9ASDE4ydYHACxgkoJ2D8msRA9AaDE6w7wSLBj2kFss9OmqYstEnsxEF9H6k0JG38pJI/25/jAIQQQgghhBBCSDEUaib6hmWz8Qeh6iDEE4P+fpk1f+cVMvqOVQR4jUjegRV5LWUOa6Ee7nGi3qGLFkJ/v8y6v7MKaUQUPsvmasGv9EV6W62LYAugv1/oH2NdIaeIhKbg+KW3lxFHjJWMwa56gz14gv70t8G1f+UKGR3LiRdFJMLOg0M92XeCW3xV741I/ncX5ALusSnN+wf5/CeJFF/QIPSnvw11+VeqkElUOASSAauu/fc4kveu9I0vUQIz6H0mFzUvkWKtmUE7/TPnon9p6vQvXSGjM3yUt2w06mKAvbxoYAp7biLBMobiEOEbXD7MOOmo0UQWjf70t6Fu/1IVMjrHfqaJ7ucNSpMs04Yc28J4hmkcJRfyN/9C6oL+Gehfmib8C1VI0+d9gQv59Eqy6wDX0sRmanmFLNPQoPZBOf0nQP+pNOk/tUKaZndeZOL+cig1v5ONCsngdj+JCNWQaCFS26gB+heA/o/StH+AojKR9H0HeDUmcyYZogX8tJIxJ8KW6Q44hv5FC6J/7mk9+KtCMpAM0jV2hk30hJSvHRHWXE300r9KofRPT+XJfw7TZQ7U21HB6bEozRy5Q8m8DOx/UPpXhP4Gn/7BRJlIskBZmVMZ1M7jB1CDTCy0AUvobwH9vfsHE2XWsZse0/3lwMgsoS4sow79LaG/d/+0Qpp+8RyOc2XOTTq3ixZDf7/Q3w2jFnIRh2aeJU8mGv1fM9XvtKC/C+jv2T9ICtXzKJueZTSXqAD9nUF/z/5BUuhOC2Q0VygJ/Z1C//H9u2iWqyCZSzlqgQxwVyFlTX930D/e5dFfSfboWFK7neE+k03yMwDvi8dLlIT+zqA//PsHYzKn5ubZLvzQQwXo74weKkB/Z/T0n9G0h56DCcwcjA/6ek0ZLKC/FfRviX+QysQTovVNej6OXm3dsVnXRn8r6N8i//he1tF9e/WjzMLOPuIFnle4Qdd6pTf9i0P//2mRv4ouJCrc4TfsCaWw0CxTideN/ZL2VxeqI0BfygjrWN1N/xT6V6Bt/mb5lWSWdIRYnVhY9nF22cIGIuD5qdL0p78NbfKPu6wDbJsnX2l0kxoktfpWUrENPrOkMvT3C/0JIYQQQgghhBBCyCzzD2ypYwvXNpXXAAAAAElFTkSuQmCC)
-
-[55 reviews](https://sumo.com/products/ad-alchemy-ai/#reviews)
-
-$79/lifetime$1,188
 
 [Brizy Cloud](https://sumo.com/products/brizy/)
 
