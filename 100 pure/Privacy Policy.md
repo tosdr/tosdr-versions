@@ -1,4 +1,4 @@
-![](https://px.ads.linkedin.com/collect/?pid=6473260&fmt=gif)                                  100% PURE Privacy Policy                                                                                                     
+![](https://px.ads.linkedin.com/collect/?pid=6473260&fmt=gif)                                  100% PURE Privacy Policy                                                                                                         
 
 My Tote
 -------
@@ -123,7 +123,7 @@ CHOOSE Size
 
 ### [Collagen Boost Sheet Mask](https://www.100percentpure.com/products/sheet-mask-collagen-boost-masks)
 
-39 reviews (39)
+218 reviews (218)
 
 $7.00 $28.00
 
@@ -143,7 +143,7 @@ CHOOSE Size
 
 ### [Deep Hydration Sheet Mask](https://www.100percentpure.com/products/sheet-mask-deep-hydration-masks)
 
-375 reviews (375)
+376 reviews (376)
 
 $7.00
 
@@ -193,7 +193,7 @@ ADD TO TOTE
 
 ### [Does It All Sheet Mask](https://www.100percentpure.com/products/sheet-mask-does-it-all-masks)
 
-372 reviews (372)
+373 reviews (373)
 
 $7.00 $32.00
 
@@ -459,7 +459,7 @@ ADD TO TOTE
 
 ### [Apple Enzyme Exfoliating Cleanser](https://www.100percentpure.com/products/apple-enzyme-exfoliating-cleanser)
 
-83 reviews (83)
+84 reviews (84)
 
 $32.00
 
@@ -489,7 +489,7 @@ ADD TO TOTE
 
 ### [Bright Eyes Masks](https://www.100percentpure.com/products/bright-eyes-masks)
 
-977 reviews (977)
+978 reviews (978)
 
 $7.00 $30.00
 
