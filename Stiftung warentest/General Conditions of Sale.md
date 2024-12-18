@@ -664,12 +664,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Gold als Depotbei­mischung: Mehr Stabilität, aber auch weniger Rendite](https://www.test.de/Gold-als-Depotbeimischung-Mehr-Stabilitaet-aber-auch-weniger-Rendite-6159011-0/ "Gold als Depotbeimischung - Mehr Stabilität, aber auch weniger Rendite")
-* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
-* [Smartwatches: Uhren täuschen Blut­zucker-Messung vor](https://www.test.de/Smartwatches-Uhren-taeuschen-Blutzucker-Messung-vor-6124003-0/ "Smartwatches - Uhren täuschen Blutzucker-Messung vor")
-* [Teekannen im Test: Pannen bei den Kannen](https://www.test.de/Teekannen-im-Test-Pannen-bei-den-Kannen-5953366-0/ "Teekannen im Test - Pannen bei den Kannen")
-* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
-* [PC-Anschlüsse: Die 10 wichtigsten Laptop-Anschlüsse](https://www.test.de/PC-Anschluesse-Die-10-wichtigsten-Laptop-Anschluesse-5974253-0/ "PC-Anschlüsse - Die 10 wichtigsten Laptop-Anschlüsse")
+* [Kapital­anleger-Muster­verfahren: Prozess um Schaden­ersatz für Wirecard-Anleger beginnt](https://www.test.de/Kapitalanleger-Musterverfahren-Einer-klagt-fuer-alle-6168143-0/ "Kapitalanleger-Musterverfahren - Prozess um Schadenersatz für Wirecard-Anleger beginnt")
+* [Vorabpauschalen-Rechner: Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds](https://www.test.de/vorabpauschale-rechner-6123332-0/ "Vorabpauschalen-Rechner - Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds")
+* [Fake-Portal: Vorsicht vor der Seite „zins­vergleich“](https://www.test.de/Fake-Portal-Vorsicht-vor-der-Seite-zinsvergleich-6063646-0/ "Fake-Portal - Vorsicht vor der Seite „zinsvergleich“")
+* [Medikamente und Pflege: Was gegen Akne hilft](https://www.test.de/Medikamente-gegen-Akne-6099770-0/ "Medikamente und Pflege - Was gegen Akne hilft")
+* [Rück­ruf Thule Kinder­fahr­radsitz: Schad­stoff im Polster](https://www.test.de/Rueckruf-Thule-Kinderfahrradsitz-Schadstoff-im-Polster-6117327-0/ "Rückruf Thule Kinderfahrradsitz - Schadstoff im Polster")
+* [Back­ofen- und Grill­reiniger im Test: Nur Chemie reicht nicht](https://www.test.de/backofenreiniger-grillreiniger-test-6009513-0/ "Backofen- und Grillreiniger im Test - Nur Chemie reicht nicht")
 
 Weitere Informationen
 
@@ -3082,12 +3082,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Gold als Depotbei­mischung: Mehr Stabilität, aber auch weniger Rendite](https://www.test.de/Gold-als-Depotbeimischung-Mehr-Stabilitaet-aber-auch-weniger-Rendite-6159011-0/ "Gold als Depotbeimischung - Mehr Stabilität, aber auch weniger Rendite")
-* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
-* [Smartwatches: Uhren täuschen Blut­zucker-Messung vor](https://www.test.de/Smartwatches-Uhren-taeuschen-Blutzucker-Messung-vor-6124003-0/ "Smartwatches - Uhren täuschen Blutzucker-Messung vor")
-* [Teekannen im Test: Pannen bei den Kannen](https://www.test.de/Teekannen-im-Test-Pannen-bei-den-Kannen-5953366-0/ "Teekannen im Test - Pannen bei den Kannen")
-* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
-* [PC-Anschlüsse: Die 10 wichtigsten Laptop-Anschlüsse](https://www.test.de/PC-Anschluesse-Die-10-wichtigsten-Laptop-Anschluesse-5974253-0/ "PC-Anschlüsse - Die 10 wichtigsten Laptop-Anschlüsse")
+* [Kapital­anleger-Muster­verfahren: Prozess um Schaden­ersatz für Wirecard-Anleger beginnt](https://www.test.de/Kapitalanleger-Musterverfahren-Einer-klagt-fuer-alle-6168143-0/ "Kapitalanleger-Musterverfahren - Prozess um Schadenersatz für Wirecard-Anleger beginnt")
+* [Vorabpauschalen-Rechner: Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds](https://www.test.de/vorabpauschale-rechner-6123332-0/ "Vorabpauschalen-Rechner - Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds")
+* [Fake-Portal: Vorsicht vor der Seite „zins­vergleich“](https://www.test.de/Fake-Portal-Vorsicht-vor-der-Seite-zinsvergleich-6063646-0/ "Fake-Portal - Vorsicht vor der Seite „zinsvergleich“")
+* [Medikamente und Pflege: Was gegen Akne hilft](https://www.test.de/Medikamente-gegen-Akne-6099770-0/ "Medikamente und Pflege - Was gegen Akne hilft")
+* [Rück­ruf Thule Kinder­fahr­radsitz: Schad­stoff im Polster](https://www.test.de/Rueckruf-Thule-Kinderfahrradsitz-Schadstoff-im-Polster-6117327-0/ "Rückruf Thule Kinderfahrradsitz - Schadstoff im Polster")
+* [Back­ofen- und Grill­reiniger im Test: Nur Chemie reicht nicht](https://www.test.de/backofenreiniger-grillreiniger-test-6009513-0/ "Backofen- und Grillreiniger im Test - Nur Chemie reicht nicht")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -3138,12 +3138,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Gold als Depotbei­mischung: Mehr Stabilität, aber auch weniger Rendite](https://www.test.de/Gold-als-Depotbeimischung-Mehr-Stabilitaet-aber-auch-weniger-Rendite-6159011-0/ "Gold als Depotbeimischung - Mehr Stabilität, aber auch weniger Rendite")
-* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
-* [Smartwatches: Uhren täuschen Blut­zucker-Messung vor](https://www.test.de/Smartwatches-Uhren-taeuschen-Blutzucker-Messung-vor-6124003-0/ "Smartwatches - Uhren täuschen Blutzucker-Messung vor")
-* [Teekannen im Test: Pannen bei den Kannen](https://www.test.de/Teekannen-im-Test-Pannen-bei-den-Kannen-5953366-0/ "Teekannen im Test - Pannen bei den Kannen")
-* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
-* [PC-Anschlüsse: Die 10 wichtigsten Laptop-Anschlüsse](https://www.test.de/PC-Anschluesse-Die-10-wichtigsten-Laptop-Anschluesse-5974253-0/ "PC-Anschlüsse - Die 10 wichtigsten Laptop-Anschlüsse")
+* [Kapital­anleger-Muster­verfahren: Prozess um Schaden­ersatz für Wirecard-Anleger beginnt](https://www.test.de/Kapitalanleger-Musterverfahren-Einer-klagt-fuer-alle-6168143-0/ "Kapitalanleger-Musterverfahren - Prozess um Schadenersatz für Wirecard-Anleger beginnt")
+* [Vorabpauschalen-Rechner: Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds](https://www.test.de/vorabpauschale-rechner-6123332-0/ "Vorabpauschalen-Rechner - Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds")
+* [Fake-Portal: Vorsicht vor der Seite „zins­vergleich“](https://www.test.de/Fake-Portal-Vorsicht-vor-der-Seite-zinsvergleich-6063646-0/ "Fake-Portal - Vorsicht vor der Seite „zinsvergleich“")
+* [Medikamente und Pflege: Was gegen Akne hilft](https://www.test.de/Medikamente-gegen-Akne-6099770-0/ "Medikamente und Pflege - Was gegen Akne hilft")
+* [Rück­ruf Thule Kinder­fahr­radsitz: Schad­stoff im Polster](https://www.test.de/Rueckruf-Thule-Kinderfahrradsitz-Schadstoff-im-Polster-6117327-0/ "Rückruf Thule Kinderfahrradsitz - Schadstoff im Polster")
+* [Back­ofen- und Grill­reiniger im Test: Nur Chemie reicht nicht](https://www.test.de/backofenreiniger-grillreiniger-test-6009513-0/ "Backofen- und Grillreiniger im Test - Nur Chemie reicht nicht")
 
 Neueste Tests
 
@@ -3156,12 +3156,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Gold als Depotbei­mischung: Mehr Stabilität, aber auch weniger Rendite](https://www.test.de/Gold-als-Depotbeimischung-Mehr-Stabilitaet-aber-auch-weniger-Rendite-6159011-0/ "Gold als Depotbeimischung - Mehr Stabilität, aber auch weniger Rendite")
-* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
-* [Smartwatches: Uhren täuschen Blut­zucker-Messung vor](https://www.test.de/Smartwatches-Uhren-taeuschen-Blutzucker-Messung-vor-6124003-0/ "Smartwatches - Uhren täuschen Blutzucker-Messung vor")
-* [Teekannen im Test: Pannen bei den Kannen](https://www.test.de/Teekannen-im-Test-Pannen-bei-den-Kannen-5953366-0/ "Teekannen im Test - Pannen bei den Kannen")
-* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
-* [PC-Anschlüsse: Die 10 wichtigsten Laptop-Anschlüsse](https://www.test.de/PC-Anschluesse-Die-10-wichtigsten-Laptop-Anschluesse-5974253-0/ "PC-Anschlüsse - Die 10 wichtigsten Laptop-Anschlüsse")
+* [Kapital­anleger-Muster­verfahren: Prozess um Schaden­ersatz für Wirecard-Anleger beginnt](https://www.test.de/Kapitalanleger-Musterverfahren-Einer-klagt-fuer-alle-6168143-0/ "Kapitalanleger-Musterverfahren - Prozess um Schadenersatz für Wirecard-Anleger beginnt")
+* [Vorabpauschalen-Rechner: Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds](https://www.test.de/vorabpauschale-rechner-6123332-0/ "Vorabpauschalen-Rechner - Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds")
+* [Fake-Portal: Vorsicht vor der Seite „zins­vergleich“](https://www.test.de/Fake-Portal-Vorsicht-vor-der-Seite-zinsvergleich-6063646-0/ "Fake-Portal - Vorsicht vor der Seite „zinsvergleich“")
+* [Medikamente und Pflege: Was gegen Akne hilft](https://www.test.de/Medikamente-gegen-Akne-6099770-0/ "Medikamente und Pflege - Was gegen Akne hilft")
+* [Rück­ruf Thule Kinder­fahr­radsitz: Schad­stoff im Polster](https://www.test.de/Rueckruf-Thule-Kinderfahrradsitz-Schadstoff-im-Polster-6117327-0/ "Rückruf Thule Kinderfahrradsitz - Schadstoff im Polster")
+* [Back­ofen- und Grill­reiniger im Test: Nur Chemie reicht nicht](https://www.test.de/backofenreiniger-grillreiniger-test-6009513-0/ "Backofen- und Grillreiniger im Test - Nur Chemie reicht nicht")
 
 Stiftung Warentest
 
