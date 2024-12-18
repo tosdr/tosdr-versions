@@ -352,15 +352,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-“Harry Potter and the Chamber of Secrets” was once called “Harry Potter and the Half-Blood Prince”.
+The Hogwarts grounds were mapped out during the writing of Harry Potter and the Sorcerer’s Stone. The map includes instructions to get to Hogsmeade: “To reach the school by stagecoach, go right around lake to front entrance at North.”
 
 ### Potter History
 
-July 15, 2009 – Harry Potter and the Half-Blood Prince is released in theaters.
+November 16, 2010 – The Harry Potter and the Deathly Hallows – Part 1 video game is released in North America.
 
 ### Potter Quote
 
-“Do you know why I admire you, Newt? More, perhaps, than any man I know? You don’t seek power or popularity. You simply ask, is the thing right in itself? If it is, then I must do it, no matter the cost.”
+“Alas! Ear wax!”
 
 [](#)
 
