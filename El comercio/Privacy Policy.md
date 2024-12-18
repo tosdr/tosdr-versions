@@ -31,986 +31,1106 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Fiscalía realiza allanamientos por caso Metástasis en dos ciudades
-==================================================================
+Impuesto a la salida de divisas en 2025, lo que debe saber de los cambios en Ecuador
+====================================================================================
 
-Las investigaciones giran en torno a un exjuez y un exfiscal involucrados en el caso Metástasis. La Policía recoge pruebas
---------------------------------------------------------------------------------------------------------------------------
+El Impuesto a la Salida de Divisas tendrá modificaciones en 2025. Se reducirá temporalmente al 0% para materias primas industriales específicas
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
-![Fiscalía levanta indicios en un operativo.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-25.jpg)
+![Las compras realizadas con tarjeta de crédito o débito en el exterior tienen un límite anual de 5 109,8 dólares sin ISD.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-49.jpg)
 
-La **Fiscalía General del Estad**o (FGE) informó sobre las acciones que ejecuta en coordinación con la Policía Nacional en el marco del proceso del **caso Metástasis**.
-
-### Más noticias
-
-* [Procuraduría explicó el monto que pidió como reparación integral en el caso Metástasis](https://www.elcomercio.com/actualidad/seguridad/procuraduria-monto-reparacion-integral-caso-metastasis.html "Procuraduría explicó el monto que pidió como reparación integral en el caso Metástasis")
-* [Caso Metástasis, evidencias que revelaron la red criminal liderada desde prisión](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-evidencias-revelaron-red-criminal-liderada-prision.html "Caso Metástasis, evidencias que revelaron la red criminal liderada desde prisión")
-* [¿Tribunal de la CNJ puede pedir nuevas investigaciones a Fiscalía sobre caso Metástasis?](https://www.elcomercio.com/actualidad/politica/tribunal-cnj-puede-pedir-nuevas-investigaciones-fiscalia-caso-metastasis.html "¿Tribunal de la CNJ puede pedir nuevas investigaciones a Fiscalía sobre caso Metástasis?")
-
-Allanamientos en dos ciudades
------------------------------
-
-La mañana de este miércoles 18 de diciembre, la Fiscalía dio a conocer sobre labores investigativas que se realizan en **Quito y en Santo Domingo de los Tsáchilas.**
-
-Se trata de un operativo en el marco de una investigación por el delito de **delincuencia organizada** relacionada con el **exjuex Emerson Curipallo.** Además, se vincula con el exfiscal Víctor Hugo A., alias ‘Pillo Buena Gente’; ambos están vinculados en el **caso Metástasis.**
-
-En este operativo, se realizan **allanamientos en varios inmuebles** para levantar indicios comprobatorios.
-
-La Fiscalía investiga una presunta **estructura delictiva** dedicada al otorgamiento ilegítimo de garantías constitucionales.
-
-_**Noticia en desarrollo…**_
-
-> [#AHORA](https://twitter.com/hashtag/AHORA?src=hash&ref_src=twsrc%5Etfw) | [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw) y [@PoliciaEcuador](https://twitter.com/PoliciaEcuador?ref_src=twsrc%5Etfw) ejecutan un operativo en el marco de una investigación por el delito de [#DelincuenciaOrganizada](https://twitter.com/hashtag/DelincuenciaOrganizada?src=hash&ref_src=twsrc%5Etfw), relacionada con el exjuez Emerson Curipallo y el exfiscal Víctor Hugo A., alias "Pillo buena gente", ambos sentenciados en el [#CasoMetástasis](https://twitter.com/hashtag/CasoMet%C3%A1stasis?src=hash&ref_src=twsrc%5Etfw). [pic.twitter.com/uFVnB0kx8H](https://t.co/uFVnB0kx8H)
-> 
-> — Fiscalía Ecuador (@FiscaliaEcuador) [December 18, 2024](https://twitter.com/FiscaliaEcuador/status/1869324146397921691?ref_src=twsrc%5Etfw)
-
-Caso Metástasis
----------------
-
-En el **caso Metástasis,** cuya audiencia duró 29 días, la **Fiscalía** presentó pruebas periciales obtenidas de dispositivos electrónicos pertenecientes a **Leandro Norero**.
-
-Entre estas se incluyeron registros de llamadas, conversaciones de **WhatsApp y Threema**, además de **videos y fotografías** que documentan la planificación de **actividades delictivas**.
-
-Los peritos informáticos señalaron que el material extraído suma **76 videos y más de 1 400 imágenes**, además de mensajes que exponen **transacciones y coordinaciones logísticas**.
-
-Entre las evidencias más relevantes se identificaron **videollamadas** que muestran interacciones entre Norero y otros miembros de la red criminal.
-
-En estas grabaciones, se discutían temas como la entrega de dinero, la organización de movimientos logísticos y la gestión de trámites legales. Estas comunicaciones, según la Fiscalía, fortalecieron la **tesis de que la estructura** operaba bajo la dirección de Norero incluso [desde prisión.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-Así funciona el Pico y placa en Quito este miércoles 18 de diciembre
-====================================================================
-
-Cuatro contraflujos se realizan en Quito como medidas simultáneas para controlar el flujo vehicular, además del Pico y placa
-----------------------------------------------------------------------------------------------------------------------------
-
-![El Pico y placa se aplica en Quito de lunes a viernes.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-17T141456.737.jpg)
-
-El **Municipio de Quito** implementó la medida de **Pico y placa en Quito** para controlar el flujo vehicular dentro de la ciudad. Este se aplica con un esquema, según el último dígito de la placa.
+La **tarifa** del **impuesto a la salida de divisas (ISD**) tendrá modificaciones en 2025 en Ecuador. Los importadores de algunas **materias primas** para el **sector industrial** tendrán una tarifa, mientras que el resto de la población o **contribuyentes** tendrá otra[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
 
 ### Más noticias
 
-* [Recolección de basura en Quito modifica sus horarios](https://www.elcomercio.com/actualidad/quito/recoleccion-de-basura-quito-modifica-horarios.html "Recolección de basura en Quito modifica sus horarios")
-* [Cortes de luz no programados se aplicaron en Quito](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-no-programados-se-aplicaron-en-quito.html "Cortes de luz no programados se aplicaron en Quito")
-* [Últimos días para matriculación y revisión técnica vehicular en Quito](https://www.elcomercio.com/actualidad/quito/ultimos-dias-para-matriculacion-y-revision-tecnica-vehicular-en-quito.html "Últimos días para matriculación y revisión técnica vehicular en Quito")
+* [Ley de alivio financiero en Ecuador: puntos clave y fecha de acceso a los más de 20 beneficios](https://www.elcomercio.com/actualidad/negocios/ley-de-alivio-financiero-en-ecuador-puntos-clave-y-fecha-de-acceso-a-los-mas-de-20-beneficios.html "Ley de alivio financiero en Ecuador: puntos clave y fecha de acceso a los más de 20 beneficios")
+* [Daniel Noboa reduce el IVA para feriados de Navidad y Año Nuevo](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-redujo-el-iva-8-durante-feriados-navidad-ano-nuevo.html "Daniel Noboa reduce el IVA para feriados de Navidad y Año Nuevo")
+* [Daniel Noboa emitió un decreto sobre la reducción de tarifas del ISD para 2025](https://www.elcomercio.com/actualidad/politica/daniel-noboa-decreto-reduccion-tarifas-isd-2025.html "Daniel Noboa emitió un decreto sobre la reducción de tarifas del ISD para 2025")
 
-¿Cómo funciona el Pico y placa?
--------------------------------
+El ISD para el sector industrial en 2025
+----------------------------------------
 
-La medida del **Pico y placa** incluye a todos los vehículos y motos del Distrito Metropolitano, a excepción de los conducidos por personas de la tercera edad o con discapacidad.
+La modificación del **Impuesto a la Salida de Divisas** se da tras un dictamen de la **Corte Constitucional**, que declaró inconstitucional la Ley de Fomento Ambiental. Así, desde el 1 de enero del 2025 se revertirán varias disposiciones de esta norma, vigente desde 2012.
 
-La restricción vehicular **Pico y placa en Quito** se aplica cinco días a la semana, de **lunes a viernes**, de 06:00 a 09:30 y de **16:00 a 20:00**.
+Entre ellos, la **Corte Constitucional** aclaró que el **ISD** no puede ser considerado como **crédito tributario** para el pago del **Impuesto a la Renta (IR)**.
 
-Este **miércoles,** no pueden circular los autos con **placas terminadas en dígitos 5 y 6.**
+Esto **significa que las empresas ya no podrán compensar el ISD** pagado en la compra de bienes de capital y materias primas, con sus obligaciones del **Impuesto a la Renta**, una medida que impactará en los costos de producción, según explicó el experto tributario **Adrián Estrella**.
 
-Contraflujos y Pico y placa en Quito
-------------------------------------
+Esta decisión obliga a los contribuyentes a cargar el **ISD** directamente como un gasto en sus estados financieros, lo que incrementa el costo de los productos finales. En respuesta, el Gobierno implementó un **alivio temporal** mediante el **Decreto 468**, que establece una reducción del ISD para ciertos sectores productivos. Entre las medidas anunciadas destacan:
 
-Como medida adicional **al Pico y placa**, para que el tránsito tenga mayor fluidez en horas pico, la Agencia Metropolitana de Tránsito (AMT) también aplica **cuatro contraflujos en Quito**, estos son:
+* **Tasa del 0% entre y marzo de 2025** para ciertas subpartidas arancelarias específicas, principalmente relacionadas con **materias primas e insumos industriales.**
+* **Tasa del 2,5% de ISD a partir de abril de 2025** para estas mismas subpartidas. Excepto las partidas arancelarias del sector farmacéutico, que mantendrán 0% de ISD.
 
-–**Avenida Mariscal Sucre:** desde el cementerio de San Diego hasta la avenida Universitaria.
+El listado de subpartidas arancelarias para el pago del **ISD 2025 en Ecuador** debe ser publicado antes de que termine el 2024.
 
-Mañana: 06:30 a 07:00 y de 07:30 a 08:00
+ISD 2025 en Ecuador para el resto de contribuyentes
+---------------------------------------------------
 
-Tarde: 16:30 a 17:00 y 17:30 a 18:00
+Estrella aclaró que el **ISD** para 2025 en Ecuador para el resto de **contribuyentes** se mantiene sin modificaciones. Desde abril de 2024, la tarifa de este tributo está en 5%,
 
-–**Autopista General Rumiñahui:** desde la av. Pichincha, en El Trébol, hasta el sector de Cuscungo, en la autopista.
+El ISD se aplica en todas las **transferencias al exterior** a través de medios bancarios, en **traslados de divisas** por puertos, aeropuertos o pasos fronterizos del país y envíos de dinero a través de empresas de Courier.
 
-Mañana: 06:30 a 07:30 y de 08:00 a 08:30
+Algunos aspectos a tener en cuenta en el ISD en Ecuador son:
+------------------------------------------------------------
 
-Tarde: 16:30 a 19:30
+* Los viajeros que salen de Ecuador con menos de tres salarios básico en efectivo (1 380 para 2024) están exentos del pago del **ISD**.
+* Las compras realizadas con tarjeta de crédito o débito en el exterior tienen un límite anual de 5 109,8 dólares sin **ISD**.
+* Las remesas enviadas al exterior están sujetas al pago de **ISD** si superan los tres salarios básicos cada 15 días.  
+    
 
-–**Avenida Velasco Ibarra** (Oriental): en la mañana desde la avenida Napo hasta la av. Velasco Ibarra (La Tola). En la tarde, desde el coliseo Rumiñahui hasta La Tola.
+Recaudación del ISD
+-------------------
 
-Mañana: 06:00 a 08:30
-
-Tarde: 17:00 a 19:00
-
-– **Túnel Guayasamín:** desde la av. Guayasamín y av. Simón Bolívar hasta la av. 6 de Diciembre y av. Oswaldo Guayasamín y viceversa en la tarde.
-
-Mañana: 07:00 a 08:30
-
-Tarde: de 16:00 a 19:30
-
-Mantente atento a estos contraflujos y a los **horarios de Pico y placa** en Quito y [evita sanciones.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
-
-> 📢 [#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
-> ⏰ Conoce los horarios y los tramos de los contraflujos que hay en la ciudad.  
->   
-> 👮‍♂️ Conduce con precaución, respeta las normas y llega seguro a tu destino.  
->   
-> 🤝 Juntos llegamos sin contratiempos.  
->   
-> ☀️[#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/nfehiI0uUO](https://t.co/nfehiI0uUO)
-> 
-> — AMTQuito (@AMT\_Quito) [October 22, 2024](https://twitter.com/AMT_Quito/status/1848669582912897155?ref_src=twsrc%5Etfw)
-
-La amenaza de los petroleros obsoletos
-======================================
-
-Los barcos petroleros obsoletos son una amenaza para el medioambiente.
-----------------------------------------------------------------------
-
-![Imagen del petrolero Volgoneft 212.](https://www.elcomercio.com/wp-content/uploads/2024/12/naufragio-rusos-petroleo-1-1024x576-1.jpeg)
-
-En medio de la ya devastadora **invasión rusa** a **Ucrania**, el derrame de más de 8 000 toneladas de petróleo en el Mar Negro, en Europa, surge como un trágico recordatorio de la **negligencia** y el desdén hacia el **medioambiente** que acompaña a los conflictos humanos.
-
-Este desastre ecológico, resultado del **naufragio** de dos petroleros rusos junto al puerto de Kerch el pasado domingo 15 de diciembre de 2024, amenaza no solo a las frágiles aguas del **Mar Negro**, sino también a los principios internacionales de seguridad y **sostenibilidad ambiental.**
-
-> La comunidad internacional enfrenta un dilema ético y práctico. Por un lado, está la urgencia de endurecer las sanciones y los controles sobre las exportaciones rusas de crudo
-
-El Gobierno de Ucrania no ha dudado en calificar el incidente como una **tragedia, y subraya los daños irreversibles** a ecosistemas vitales. El plancton, las aves marinas y las poblaciones de peces, elementos esenciales de la biodiversidad marina, están en peligro. Sin embargo, lo más alarmante no es solo el **impacto** inmediato, sino también la evidencia de una práctica que se ha vuelto demasiado común: el uso de e**mbarcaciones antiguas** y mal preparadas para enfrentar condiciones adversas, para multiplicar las ganancias económicas.
-
-Los petroleros implicados, Volgoneft-212 y Volgoneft-239, tienen más de **medio siglo de antigüedad**. Diseñados para ríos y no para mares abiertos, su presencia en el estrecho de Kerch durante una tormenta refleja una clara negligencia. Esas flotas deberían estar **fuera de circulación**.
-
-La comunidad internacional enfrenta un dilema ético y práctico. Por un lado, está la urgencia de endurecer las sanciones y los controles sobre las **exportaciones rusas de crudo**, una medida que la Unión Europea ha adoptado parcialmente. Por otro, está la necesidad de abordar la problemática de los llamados “barcos fantasma”. Estas embarcaciones no solo eluden **sanciones** al desactivar sus sistemas GPS, sino que también representan un **riesgo ambiental constante**.
-
-La oenegé Razom We Stand ha advertido que no solo está en peligro el **Mar Negro**, sino también al **Báltico**, el **Mediterráneo** y otras rutas marítimas internacionales. Cada tonelada de crudo que se [derrama](https://www.elcomercio.com/actualidad/mundo/ucrania-alerta-desastre-ambiental-mar-negro-vertido-petroleo-ruso.html "https://www.elcomercio.com/actualidad/mundo/ucrania-alerta-desastre-ambiental-mar-negro-vertido-petroleo-ruso.html") representa una carga que trasciende fronteras, que afecta a comunidades y ecosistemas en todo el mundo.
-
-La tragedia del estrecho de **Kerch** debería servir como una llamada de atención. No se puede permitir que los intereses económicos y geopolíticos sigan eclipsando la **urgencia** de proteger los mares con [petroleros](https://es.wikipedia.org/wiki/Petrolero "https://es.wikipedia.org/wiki/Petrolero") obsoletos. 
-
-Cartas a Quito / 18 de diciembre de 2024
-========================================
-
-Estas son las cartas a Quito de este miércoles 18 de diciembre de 2024
-----------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-No a al engaño y la violencia, y sí a la “paz”
-----------------------------------------------
-
-Lucha entre el “bien” (la paz, la justicia, la libertad, el desarrollo, el servicio, la educación, la verdad…), y el “mal” (la violencia, la corrupción, la injusticia, la esclavitud, el fanatismo, la ambición, el adoctrinamiento, la mentira…). Pero la ambición por el poder, el dinero y el dominio a los demás no tiene fin. Sí, a la paz, pero a veces es necesario defenderla, sin libertad y justicia no hay paz, Papa Francisco que pide diálogo en Cuba, Venezuela, Nicaragua, Ecuador…, y deja a sus Pueblos en manos de lobos criminales vestidos de ovejas. S. Tomás de Aquino: “Si puedes vivir en medio de la injusticia, sin enojo (sin defender la justicia), eres inmoral como injusto”. Jesús sacó con la fuerza a los profanadores de la Casa de Dios. Los mongoles asesinaban, esclavizaban y torturaban a quienes no se sometían a sus edictos, cultura y religión en la India. Y los Santos Maestros Sikhs Hardgobind y Gobind Singh se vieron obligados a enfrentarlos y liberar a la India de sus brutales crímenes y esclavitud. Los obscuros desarman al pueblo para someterlos con su justicia corrupta, la delincuencia, la policía y militares infectados. Antes había justicia, militares y policías los apresaban y nos protegían. Y la delincuencia en el poder y las calles reinan. En el mundo el 90% de ciudadanos los rechazan y son del Estado Global Obscuro. A Trump no le dejaron sacar a Maduro con infiltrados en su gobierno, el SSXXI, Rusia, China y la UE. ¿Ahora, debe caer? Los ciudadanos de América y el mundo exigen la salida de los criminales de Cuba, Nicaragua, Venezuela, Ecuador, Bolivia, etc. S. Bolívar, tomado y prostituido por asesinos-narco-camaradas, enseñó: “Si la tiranía se hace ley, la rebelión es tu derecho”.    
-
-Juan Carlos Cobo Rueda
-
-Salvar la democracia
-====================
-
-Creciente desencanto ciudadano con la democracia en América Latina debido a su desgaste, la corrupción y la influencia del narcotráfico.
-----------------------------------------------------------------------------------------------------------------------------------------
-
-![Ramiro Rivera Molina, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Ramiro-Rivera-Molina.jpg)
-
-Es cierto que la democracia no goza del apoyo y afecto en los ciudadanos. La Corporación Latinobarómetro, anualmente realiza mediciones que incluyen más de veinte mil entrevistas en dieciocho países que representa a 600 millones de habitantes. La conclusión es el desencanto y encono ante la **democracia**, precisamente por su **desgaste y desprestigio**. Una **democracia** carcomida y en desintegración, a lo que se agrega el contagio con la corrupción, el narcotráfico y la economía criminal. Vivimos una **recesión democrática**, tan vulnerable puede ser atrapada por el **populismo autoritario**.
-
-El conflicto al que nos enfrentamos en las elecciones del 9F del 25 es: salvar la **democracia** o perderla si esta es devorada con el retorno de quienes la hicieron tanto daño en la **década autoritaria**; en manos de un **caudillo sin escrúpulos**, de odio crónico y resentimiento sin remedio. Hasta hace poco, sabíamos que lideraba una organización que hizo de la política una maquinaria de **corrupción**. Gracias a la fiscal Diana Salazar y al presidente Daniel Noboa, estamos al tanto que se trata de una **organización con vínculos irrefutables** con las organizaciones terroristas y los más feroces carteles del narcotráfico.  Pero se pavonean con un cinismo sin límite.
-
-Con frecuencia, cuando tratamos de recordar el valor de la **democracia**, recurrimos a la conocida frase de Winston Churchill: _«La democracia es el peor sistema de gobierno diseñado por el hombre. Con excepción de todos los demás_». Si la célebre frase de Churchill es insuficiente, agregaría otra parecida, de Norberto Bobbio: «_La democracia no es el mejor de los bienes, pero es el menor de los males»._  Más claro que el agua que nos ha faltado.
-
-La **elección presidencial y legislativa** que se aproxima, más allá de las dieciséis candidaturas que reflejan la **dispersión y degradación del sistema político** y la ausencia de partidos, configura un escenario de **polarización política**: la **democracia y la autocracia**, la libertad o la arbitrariedad, el poder distribuido o concentrado, las instituciones o el desenfreno del odio, La **estabilidad o la turbulencia**. La razón o la perversión.  El **progreso o el retraso**.  La dignidad humana o la manipulación.  La posibilidad de salir adelante o la condena al infierno. Pero mi pronóstico es que el **populismo autoritario** volverá a perder.
-
-El precio del cacao sigue al alza, ¿cómo impacta el mercado ecuatoriano?
-========================================================================
-
-El precio mundial del cacao alcanzó los 11 819 dólares por tonelada, un aumento del 177% en un año. Hay mucha especulación en el mercado.
------------------------------------------------------------------------------------------------------------------------------------------
-
-![El cacao está entre los principales productos de exportación ecuatoriano, con ventas superiores a 2 500 millones de dólares entre enero y octubre del 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/cacao-122024.jpg)
-
-En los últimos doce meses, el **mercado mundial del cacao** ha registrado una **volatilidad** sin precedentes. Este lunes 16 de diciembre de 2024, el precio de la fruta llegó a 11 819 dólares la tonelada.
-
-### Más noticias
-
-* [Boom de precio del cacao ¿Es buen momento para sembrar de esta fruta?](https://www.elcomercio.com/actualidad/boom-precio-cacao-momento-sembrar-ecuador-produccion.html "https://www.elcomercio.com/actualidad/boom-precio-cacao-momento-sembrar-ecuador-produccion.html")
-* [Venta de cacao sostuvo a las exportaciones de Ecuador en primeros meses de 2024](https://www.elcomercio.com/actualidad/negocios/venta-de-cacao-sostuvo-a-las-exportaciones-de-ecuador-en-primeros-meses-de-2024.html "https://www.elcomercio.com/actualidad/negocios/venta-de-cacao-sostuvo-a-las-exportaciones-de-ecuador-en-primeros-meses-de-2024.html")
-* [Ecuador y Canadá finalizaron quinta negociación para acuerdo comercial](https://www.elcomercio.com/actualidad/negocios/ecuador-canada-negociaciones-acuerdo-comercial.html "Ecuador y Canadá finalizaron quinta negociación para acuerdo comercial")
-
-La cifra representa un incremento del 177% en comparación con el precio de hace un año. Ya que el 16 de diciembre de 2023, el precio de la tonelada del cacao fue de 4 268 tonelada, según [investing.com](https://es.investing.com/commodities/us-cocoa-historical-data "https://es.investing.com/commodities/us-cocoa-historical-data").
-
-El precio de este lunes está muy cerca al valor más alto registrado este año, que fue 11 878 el 19 de abril de 2024.
-
-La volatilidad del precio de esta materia prima ha generado incertidumbre entre productores, exportadores y demás actores de la cadena cacaotera ecuatoriana, según la Asociación Nacional de Exportadores de Cacao del Ecuador (Anecacao). Comprender las dinámicas globales es esencial para entender que el exportador ecuatoriano no tiene injerencia en la fijación de precios, agregó.
-
-Factores globales en los precios del cacao y su impacto en Ecuador
-------------------------------------------------------------------
-
-Según Anecacao, dos factores determinan el precio del cacao a nivel internacional:
-
-**1\. La Bolsa de Nueva York (NYC).** Alrededor del 85% de las operaciones en este mercado son manejadas por fondos de **inversión especulativos**, generando movimientos bruscos e impredecibles. Actualmente, los precios superan los **11 000 dólares por tonelada**, debido al déficit productivo en Costa de Marfil y Ghana, principales productores mundiales. La escasez ha provocado especulación, afectando los mercados de futuros y físicos, y propagando inestabilidad a nivel global.
-
-**2\. Los diferenciales de cacao.** Estos son establecidos por la industria mundial que compra el  
-cacao ecuatoriano. Estos diferenciales reflejan la calidad del grano y las condiciones de oferta y demanda. Sin embargo, una baja demanda global, problemas financieros en la industria chocolatera y la disminución del consumo han impactado negativamente. Esto ha generado iliquidez y volatilidad en el mercado.
-
-Problemática del mercado internacional del cacao
-------------------------------------------------
-
-Toda esta problemática que enfrentan compradores y vendedores es provocada por una disminución en las moliendas de cacao y una **caída en el consumo de chocolate internacionalmente**.
-
-La reducción en las moliendas de cacao y en las ventas de chocolate a escala internacional ha provocado una caída del **30% en la demanda global de cacao**, lo que se traduce en menores ingresos para mercados de origen, como **Ecuador**.
-
-En el contexto local, **el productor ecuatoriano** de [cacao](https://es.wikipedia.org/wiki/Grano_de_cacao "https://es.wikipedia.org/wiki/Grano_de_cacao") recibió un promedio de **370 dólares por quintal** en 2024, posicionando al país como el origen que mejor paga a sus productores. Sin embargo, la situación global sigue siendo compleja y requiere esfuerzos conjuntos para proteger la cadena cacaotera.
-
-El sector ecuatoriano enfrenta grandes desafíos, pero mantiene su compromiso de apoyar a todos los actores involucrados en esta vital actividad económica del país.
+Según el reporte del **Servicio de Rentas Internas** (SRI), entre enero y noviembre de 2024 se recaudaron 1 149 millones de dólares por ISD. Este es el tercer impuesto en importancia de recaudación.
 
 * * *
 
-Venezuela pidió salvoconducto para Jorge Glas
-=============================================
+Municipio de Quito entregó más de 1 000 contenedores de basura en La Mariscal
+=============================================================================
 
-El canciller de Colombia reveló el pedido de Venezuela sobre Jorge Glas.
-------------------------------------------------------------------------
+Emaseo fortalece la flota de camiones recolectores de basura con seis nuevas unidades, las cuales serán conducidos por mujeres.
+-------------------------------------------------------------------------------------------------------------------------------
 
-![Jorge Glas está preso en la cárcel La Roca y Venezuela pide un salvoconducto a su favor.](https://www.elcomercio.com/wp-content/uploads/2024/05/Jorge-Glas-2.jpg)
+![Seis camiones de recolección de basura se integran a la flota de Emaseo.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-32.jpg)
 
-El régimen de **Nicolás Maduro** en **Venezuela** pidió salvoconducto para el exvicepresidente **Jorge Glas**, según informó el canciller de **Colombia**, **Luis Gilberto Murillo**, este martes 17 de diciembre.
-
-Según el funcionario colombiano, este es uno de los pedidos que hace Venezuela a cambio de otorgar salvoconductos a **seis opositores** al gobierno de Maduro, refugiados en la **embajada de Argentina**, en **Caracas**.
-
-### Más noticias:
-
-* [Noboa tilda de “absurdo” el rechazo a la Cumbre Iberoamericana del Comité que apoya a Glas](https://www.elcomercio.com/actualidad/noboa-tilda-de-absurdo-el-rechazo-a-la-cumbre-iberoamericana-del-comite-que-apoya-a-glas.html "Noboa tilda de “absurdo” el rechazo a la Cumbre Iberoamericana del Comité que apoya a Glas")
-* [Caso Odebrecht: Gustavo Massuh pagará una reparación integral al Estado ¿Cuál es el monto?](https://www.elcomercio.com/actualidad/seguridad/caso-odebrecht-gustavo-massuh-pagara-una-reparacion-integral-al-estado-cual-es-el-monto.html "Caso Odebrecht: Gustavo Massuh pagará una reparación integral al Estado ¿Cuál es el monto?")
-
-Pedido de Venezuela para que se le otorgue un salvoconducto a Jorge Glas
-------------------------------------------------------------------------
-
-El **canciller de Colombia, Luis Gilberto Murillo**, afirmó este martes que el Gobierno colombiano lleva a cabo gestiones ante el Gobierno de Venezuela para que dé salvoconductos a los **seis antichavistas**.
-
-Ellos están refugiados, desde marzo, en la residencia de la **Embajada de Argentina en Caracas**, custodiada por Brasil.
-
-“Estamos viendo la situación de la embajada de **Argentina** en **Venezuela,** que ahora la custodia la tiene **Brasil**, seis venezolanos que están en esa embajada”, dijo Murillo.
-
-El canciller se refirió a la crisis venezolana en **San Andrés**, durante la clausura de la ‘**Cumbre de Pueblos Afrodescendientes del Caribe Occidental**‘.
-
-“Yo fui a Brasil personalmente, por instrucción del presidente (Gustavo) **Petro**, porque logramos, en nuestra conversación con el **Gobierno de Venezuela**, que se dieran los salvoconductos a estas seis personas (…) ellos pedían que Argentina liberara una persona muy cercana al Gobierno de Venezuela y que también **se le diera salvoconducto a Jorge Glas, en Ecuador**“, continuó el canciller.
-
-Glas, exvicepresidente de **Rafael Correa** (2007-2017), fue detenido en la **Embajada de México en Quito**, en abril de este año.
-
-Jorge Glas recibió **asilo diplomático** por parte de **México**. Sin embargo, tenía orden de prisión por otro caso de corrupción en **Ecuador**.
-
-La justicia de Ecuador procesa y sentenció al exvicepresidente por varios **casos de corrupción**.
-
-Está preso en la cárcel de máxima seguridad de **La Roca.**
-
-A raíz de la incursión policial en la Embajada de México en Quito, ese país también exige el salvoconducto para **Jorge Glas**.
-
-Los fracasos de Gandolfi e Independiente del Valle en 2025
-==========================================================
-
-Independiente del Valle sumó una serie de decepciones internacionales y nacionales en 2025 de la mano del DT Javier Gandolfi.
------------------------------------------------------------------------------------------------------------------------------
-
-![Jeison Medina de Independiente del Valle encara un rival en la final de la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/12/20241207140876-fbl-ligapro-primera-final-liga-independiente-scaled.jpg)
-
-El entrenador argentino **Javier Gandolfi** dejó el cargo en Independiente del Valle tras haber perdido la final de **Liga Pro** con Liga de Quito y la de la **Copa Ecuador** ante El Nacional.
-
-“**Javier Gandolfi y su cuerpo técnico no continuarán en el club y se da por terminada la relación contractual de mutuo acuerdo**. Gracias por su aporte y profesionalismo, suerte en sus próximos retos”, anunció el club del Valle en su cuenta de la red social X.
-
-### Más noticias:
-
-* [Liga de Quito, IDV y una recordada final de Liga Pro](https://www.elcomercio.com/deportes/liga-pro-final-independiente-liga-2023-2024.html "Liga de Quito, IDV y una recordada final de Liga Pro")
-* [Javier Gandolfi fue despedido por Independiente del Valle](https://www.elcomercio.com/deportes/futbol/javier-gandolfi-independiente-valle-entrenador.html "Javier Gandolfi fue despedido por Independiente del Valle")
-* [Liga de Quito se proclamó como bicampeón de la Liga Pro](https://www.elcomercio.com/deportes/futbol/independiente-valle-liga-quito-marcador.html "Liga de Quito se proclamó como bicampeón de la Liga Pro")
-
-Gandolfi se vinculó con Independiente del Valle en diciembre del año pasado con un contrato hasta diciembre de 2025, pero su salida se anticipó con los **decepcionantes resultados** en la Copa Libertadores y la Copa Sudamericana, la mala campaña en la segunda etapa de la Liga Pro, así como con las finales perdidas.
-
-Gandolfi e Independiente desilusionaron internacionalmente
-----------------------------------------------------------
-
-![Edinson Cavani (centro) de Boca Juniors al momento en que anota el gol ante Independiente del Valle en la Copa Sudamericana.](https://www.elcomercio.com/wp-content/uploads/2024/07/1000091136.jpg)
-
-Edinson Cavani (centro) de Boca Juniors al momento en que anota el gol ante Independiente del Valle en la Copa Sudamericana. Foto: Agencia EFE.
-
-Con Gandolfi en el banquillo Independiente del Valle ganó la primera fase de la Liga Pro, de manera invicta, con diez triunfos y cinco empates, pero quedó **eliminado en la fase de grupos de la Libertadores**.
-
-También perdió la fase de repesca para seguir en la **Copa Sudamericana**, donde fue eliminado por Boca Juniors[.](https://en.wikipedia.org/wiki/Independiente_del_Valle "https://en.wikipedia.org/wiki/Independiente_del_Valle")
-
-IDV se cayó en las finales
---------------------------
-
-El equipo negriazul, posteriormente, alcanzó la final de la **Copa Ecuador** con el objetivo de revalidar el título obtenido en 2022, pero perdió por 0-1 ante **El Nacional**, que se hizo con el título para acabar con una sequía de dieciocho años sin trofeos, pese a la crisis económica que atraviesa.
-
-![Jugadores de El Nacional festejando el título de la Copa Ecuador 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-27T180951.623-1024x683.jpg)
-
-Jugadores de El Nacional festejando el título de la Copa Ecuador 2024. Foto: API.
-
-La goleada por 3-0 sufrida ante **Liga de Quito** en el partido de ida de la final de la Liga Pro dejó una discreta imagen en su funcionamiento, complicó más la posibilidad para continuar, pues no le alcanzó el triunfo por 1-0 en el partido de vuelta. Peor aún, Liga de Quito dio la **vuelta olímpica** en el estadio de su propiedad.
-
-![Jugadores de Liga de Quito celebran el título 13 del campeonato nacional.](https://www.elcomercio.com/wp-content/uploads/2024/12/plamares_ecuador_1-1024x683.jpg)
-
-Jugadores de Liga de Quito celebran el título 13 del campeonato nacional. Foto: API.
-
-Los títulos de Independiente
-----------------------------
-
-Independiente del Valle disputó en 2016 la final de la **Libertadores**, ganó en 2019 y 2022 la **Copa Sudamericana, la Recopa Sudamericana** en 2023 y la Liga Pro en 2021. A su vez, también tiene una Copa y una Supercopa Ecuador de 2022 y 2023.
-
-La intención de los directivos del club, ha sido tener como base a jugadores formados en su cantera los que, incluso; han potenciado a las selecciones juveniles y también a la absoluta de **Ecuador**.
-
-No te pierdas San Viernes y El Confesionario
---------------------------------------------
-
-Segundo Castillo agradece tras ser ratificado en Barcelona SC
-=============================================================
-
-Segundo Alejandro Castillo, DT de Barcelona SC, se pronunció por medio de sus redes sociales tras ser ratificado en el equipo.
-------------------------------------------------------------------------------------------------------------------------------
-
-![Segundo Alejandro Castillo, DT de Barcelona SC, en uno de sus partidos.](https://www.elcomercio.com/wp-content/uploads/2024/12/1000189936.jpg)
-
-**Segundo Alejandro Castillo**, DT de Barcelona SC, mostró su agradecimiento tras ser ratificado en el cargo y anunciado para disputar la temporada 2025 con la institución. El estratega se pronunció por medio de sus redes sociales.
-
-La mañana de este martes 17 de diciembre del 2024, el ‘**Ídolo**‘ dio a conocer de manera oficial que Castillo se mantendría en el cargo después de que se especulase con respecto a su continuidad. Allí, el equipo hizo Hincapié en que el ecuatoriano [será el técnico en su año de centenario](https://www.elcomercio.com/deportes/futbol/segundo-castillo-mortero-dt-barcelona.html "https://www.elcomercio.com/deportes/futbol/segundo-castillo-mortero-dt-barcelona.html").
-
-### Más noticias:
-
-* [Barcelona SC celebra su centenario con camisetas conmemorativas](https://www.elcomercio.com/deportes/futbol/barcelona-camisetas-centenario-precio-modelo.html "Barcelona SC celebra su centenario con camisetas conmemorativas")
-* [Segundo Castillo tuvo un ciclo invicto con Barcelona SC](https://www.elcomercio.com/deportes/futbol/segundo-castillo-barcelona-sc-invicto-renovacion.html "Segundo Castillo tuvo un ciclo invicto con Barcelona SC")
-* [Segundo Castillo, ratificado por Barcelona Sporting Club](https://www.elcomercio.com/deportes/futbol/segundo-castillo-ratificado-barcelona-guayaquil.html "Segundo Castillo ratificado por Barcelona Sporting Club")
-
-Horas después de que se hiciese el anuncio para la **hinchada amarilla**, Castillo realizó la publicación de **gratitud** en su cuenta de instagram. Aunque en el video de su presentación ya había dicho unas palabras en voz en off, estas solamente anunciaban que se quedaría y el aniversario del club.
-
-Dentro de su nueva interacción, este agregó una foto suya con una cita bíblica, seguida de un fragmento del **cómo se grabó su presentación**. El audio de fondo fue una melodía cuya voz cantante agradecía por distintos motivos.
-
-“**Gracias al más grande**“, puso Castillo como descripción de su publicación, junto a tres emoticones de manos juntadas y balones de fútbol. El nuevo video, a su vez, finalizaba con otra frase religiosa.
-
-Segundo Castillo en Barcelona SC
---------------------------------
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DDsxnWapt3s/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de Sir Second Castle (@elmortero\_puro\_chocolate)](https://www.instagram.com/reel/DDsxnWapt3s/?utm_source=ig_embed&utm_campaign=loading)
-
-**Segundo Castillo** continuará en Barcelona SC después de tomar las riendas del equipo durante la recta final de la Liga Pro 2024. El entrenador ecuatoriano se hizo cargo del club tras la salida del argentino **Ariel Holan**, quien había sustituido al uruguayo **Diego López**.
-
-Con el equipo torero, el estratega, que también vistió sus colores, consiguió finalizar la temporada **invicto** tras lograr tres victorias y tres empates en **Liga Pro** y ganar un torneo amistoso. A su vez, esta fue la primera vez que dirigió el club sin que aquello se tratase de un interinato, pues antes lo había hecho en dos ocasiones de manera temporal[.](https://en.wikipedia.org/wiki/Barcelona_S.C. "https://en.wikipedia.org/wiki/Barcelona_S.C.")
-
-Al momento en que **Castillo** tomó Barcelona SC, la escuadra se encontraba en la quinta posición de la segunda etapa y él la elevó hacia la cuarta. A su vez, aseguró la presencia en la Copa Libertadores 2025, donde los toreros iniciarán desde la segunda fase.
-
-Barcelona SC también lanzó su nueva indumentaria
-------------------------------------------------
-
-![Marathon Sports.](https://www.elcomercio.com/wp-content/uploads/2024/12/camisetas_cien_4-1024x683.jpg)
-
-Camiseta principal de Barcelona SC para el 2025. Foto: Marathon Sports.
-
-**Barcelona SC** también aprovechó la fecha de presentación de su entrenador de 2025 para mostrar las prendas que utilizará en aquel año. Al tratarse de su centenario, el equipo torero y su auspiciante textil lanzaron tres modelos de camisetas.
-
-La primera es **amarilla** y cuenta con detalles del mismo color, pero de distinta tonalidad, de manera que estos evocan a un sol. Sus detalles son negros y, bajo el escudo al costado izquierdo superior, están el año de fundación y el del centenario: **1925 y 2025.**
-
-La blusa alterna del equipo será totalmente **negra** con detalles blancos en el cuello y al borde de las mangas y hace referencia a la primera blusa del club. A su vez, cuenta con un diseño retro al impregnar cordones para ajustar la parte superior de la prenda.
-
-La última casaca para el ‘Ídolo’ será **blanca y roja**. El primer color, predominante en la prenda, se fusionará con el segundo, que presenta detalles en diagonal.
-
-No te pierdas San Viernes y El Confesionario
---------------------------------------------
-
-Justicia de Brasil ordena el retiro mundial de canción de Adele por plagio
-==========================================================================
-
-Un Juez de Brasil ordenó a la cantante Adele que retire de todas las plataformas una de sus canciones por un presunto plagio.
------------------------------------------------------------------------------------------------------------------------------
-
-![La cantante británica Adele es una de las artistas más influyentes y reconocidas del siglo XXI](https://www.elcomercio.com/wp-content/uploads/2024/12/adele-cancion-plagio.jpg)
-
-Un **Juez Mercantil** de **Río de Janeiro** ordenó a la reconocida cantante **Adele** que retire su canción **‘Million Years Ago’** por un presunto **plagio**.
+El **Municipio de Quito i**nformó este miércoles 18 de diciembre sobre los recursos entregados a la ciudad para el correcto **manejo de desechos.** Estos incluyen contenedores de basura y camiones recolectores.
 
 ### Más noticias
 
-* [El cantante Raphael, hospitalizado de urgencia tras sufrir accidente cerebrovascular](https://www.elcomercio.com/tendencias/entretenimiento/cantante-rapahel-accidente-cerebrovascular-hospital.html "El cantante Raphael, hospitalizado de urgencia tras sufrir accidente cerebrovascular")
-* [Karol G y Feid arrasan con su química física y musical](https://www.elcomercio.com/tendencias/entretenimiento/karol-g-feid-fans-amor-complicidad-pareja-ano.html "Karol G y Feid arrasan con su química física y musical")
-* [¿Qué ofrece Spotify además de música?](https://www.elcomercio.com/tendencias/entretenimiento/spotify-tesoros-poco-explorados-plataforma-streaming.html "¿Qué ofrece Spotify además de música?")
+* [Cortes de luz en Quito este miércoles 18 de diciembre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-18-diciembre.html "Cortes de luz en Quito este miércoles 18 de diciembre")
+* [Así funciona el Pico y placa en Quito este miércoles 18 de diciembre](https://www.elcomercio.com/actualidad/asi-funciona-el-pico-y-placa-en-quito-este-miercoles-18-de-diciembre.html "Así funciona el Pico y placa en Quito este miércoles 18 de diciembre")
+* [Niño con autismo experimentó supuesta discriminación en una escuela de Quito](https://www.elcomercio.com/actualidad/quito/nino-autismo-discriminacion-escuela-quito.html "Niño con autismo experimentó supuesta discriminación en una escuela de Quito")
 
-El veto se dio a través de una **medida cautelar** tomada el viernes **13 de diciembre de 2024**. Cuatro días después, este martes **17**, la discográfica **Universal Music** presentó una **petición de reconsideración**.
+Recolección de basura se fortalece en Quito
+-------------------------------------------
 
-Denuncia por presunto plagio en canción de Adele
-------------------------------------------------
+El alcalde de Quito, **Pabel Muñoz,** participó en la entrega oficial de estos recursos en un acto realizado en el sector La Mariscal.
 
-La denuncia fue presentada por el compositor brasileño **Toninho Geraes**, quien aduce que la canción de Adele **‘Million Years Ago’**, de **2015**, es similar a su canción **‘Mulheres’**, de **1995**.
+En él, el Distrito Metropolitano de Quito recibió **seis camiones recolectores de carga** posterior y **1 024 nuevos contenedores** que se sumarán a los equipos repotenciados. Esto marcó un cambio en la gestión de residuos de la ciudad.
 
-El **Tribunal Mercantil** resolvió que “la emisión continuada” de la canción **anglosajona** causó un daño significativo “a la carrera y al patrimonio” de **Toninho Geraes**.
+El Alcalde comprometió a los **estudiantes de Quito** para que se conviertan en embajadores del reciclaje, del ahorro de consumo de agua y del ahorro de energía. De esa manera, se busca crear conciencia en los hogares quiteños.
 
-Por eso, ordenó que los demandados se abstengan “de **utilizar**, **reproducir**, **editar**, **distribuir** o **comercializar**” la canción **‘Million Years Ago’** de forma “**inmediata** y **global**” sin expresa autorización de **Geraes**.
-
-De no cumplir, se aplicará una **multa** de **50 000 reales**, **8 202 dólares**, por reproducción.
-
-El documento oficial, también, solicitó a las plataformas digitales de **audio** y **video**, como **Spotify** y **YouTube**, que retiren la canción de Adele de sus colecciones en **Brasil** y “en cualquier otro país”.
-
-Universal Music presentó solicitud de reconsideración
------------------------------------------------------
-
-**Universal Music** presentó una solicitud ante el **Tribunal Mercantil de Brasil** para que la decisión sea reconsiderada.
-
-La discográfica considera como **“desproporcionada”** la decisión y afirma que “causará un importante perjuicio **económico**” a los demandados.
-
-Asimismo, señala que la retirada de la canción de las plataformas representa un daño al “**interés público**” por su “importante valor **cultural** y **artístico**” para las audiencias.
-
-En el documento, el estudio de abogados que representa a **Universal Music** afirmó que “el principal fundamento de la **medida cautelar** es una **similitud melódica**” entre ambas canciones y aclaró que “**similitud melódica** y **plagio** son conceptos diferentes en la música”.
-
-Los defensores alegaron que las “**similitudes** entre las dos canciones, y decenas de otras, se deben a un ‘**cliché musical**‘ propio de la **industria**“[.](https://es.wikipedia.org/wiki/Adele "https://es.wikipedia.org/wiki/Adele")
-
-Compositor pide ser reconocido como coautor de la canción
----------------------------------------------------------
-
-Una de las abogadas denunciantes, **Deborah Sztajnberg**, afirmó a **EFE** que la discográfica “está en un problema” y que no va a ser fácil que contrarreste las pruebas, que son “**millones**“.
-
-“Hemos puesto a disposición pruebas, **partituras**, **grabaciones**, **videos**, **audios**. Pusimos a una banda a ejecutar las dos músicas al mismo tiempo. Cualquiera que escucha las dos se da cuenta de que es exactamente la misma música”, comentó la abogada.
-
-El compositor **Geraes** pide ser reconocido como **coautor**, así como un porcentaje de las **regalías** recibidas por **Adele** y las grabadoras y una **indemnización** por daños **morales**.
-
-En sus redes sociales, **Toninho Geraes** celebró la decisión del juez y afirmó que, aunque queda “un largo camino”, sigue “firme, con **esperanza** y creyendo en la fuerza de la **samba** y la **justicia**“.
-
-Hasta el cierre de esta nota, la canción de **Adele** continúa disponible en las plataformas de **música** y de **video**.
-
-Ministerio de Energía impuso sanción económica a Progen por incumplimientos ¿Cuál es el monto?
-==============================================================================================
-
-La sanción económica anunciada por el Ministerio de Energía a Progen es por incumplimientos.
---------------------------------------------------------------------------------------------
-
-![El Ministerio de Energía impuso una sanción económica a Progen por incumplimientos.](https://www.elcomercio.com/wp-content/uploads/2024/12/ministerio-energia-progen.jpg)
-
-El **Ministerio de Energía** impuso una sanción económica a la **empresa Progen**, informó este martes 17 de diciembre de 2024[.](https://es.wikipedia.org/wiki/Ministerio_de_Energ%C3%ADa_y_Minas_(Ecuador))
-
-La **empresa Progen** fue contratada para suministrar generadores eléctricos en dos proyectos térmicos necesarios para solventar la **crisis energética** del **Ecuador**.
-
-### Más noticias:
-
-* [Gobierno toma acciones contra Progen por retrasos en generadores eléctricos](https://www.elcomercio.com/actualidad/negocios/gobierno-toma-acciones-contra-progen-retrasos-entrega-generadores.html "Gobierno toma acciones contra Progen por retrasos en generadores eléctricos")
-* [Contraloría investigará la contratación de generadores eléctricos](https://www.elcomercio.com/actualidad/ecuador/generadores-electricos-contraloria-investigara-celec.html "Contraloría investigará la contratación de generadores eléctricos")
-
-Medidas del Ministerio de Energía sobre incumplimientos de Progen
------------------------------------------------------------------
-
-El **Ministerio de Energía y Minas** informó que ejecuta varias acciones para garantizar el cumplimiento de los contratos de adquisición de **equipos de generación** para **Salitral y Quevedo**.
-
-El **Gobierno** actúa con entidades de control y en estricto apego a las leyes vigentes.
-
-El Ministerio informó que Progen fue notificada por diversos **incumplimientos** en los plazos de entrega e instalación de las unidades de generación.
-
-Por esta razón, hasta el momento, se ha impuesto a Progen una **penalización de 900 000 dólares**, por infracciones.
-
-Esta cartera de Estado tomó la decisión de **retirar de sus cargos a funcionarios**, incluidos el **gerente de CELEC Termopichincha** y los administradores del contrato, que habrían incurrido en prácticas que entorpecieron el proceso.
-
-Además, estarán sujeto a las **investigaciones** que correspondan.
-
-El Gobierno solicitó a la **Contraloría General del Estado** un **examen especial**.
-
-El **examen especial inicio el 13 de diciembre de 2024** y abarca las fases preparatoria, precontractual, contractual, de ejecución y pago de los contratos emergentes.
-
-“Esta cartera de Estado mantiene un seguimiento exhaustivo de todos los procedimientos, asegurando que las **garantías contractuales** se mantengan vigentes”, aseguró el Ministerio de Energía, en un comunicado.
-
-### Las constataciones
-
-Al momento, se ha constatado el avance de las obras civiles en Quevedo y Salitral, y que han llegado al país **23 equipos** electrógenos de Progen, que generarán alrededor de **83 MW.**
-
-En reuniones de trabajo, se han presentado los cronogramas de envíos de los **equipos auxiliares y transformadores**, los cuales se prevé que arriben al país.
-
-Estos llegarían entre el **24 de diciembre de 2024 y el 15 de enero de 2025**, señaló el Ministerio de Energía.
-
-“El **Ministerio** reafirma su compromiso con la transparencia, la ejecución eficiente de los proyectos y la protección de los recursos del país”, aseguró la institución.
-
-### La Contraloría
-
-La **Contraloría General del Estado** inició una verificación preliminar en la **Empresa Pública Estratégica Corporación Eléctrica del Ecuador (Celec)**.
-
-Esto, por los procesos de contratación efectuados en el marco de la **declaratoria de emergencia** del sector eléctrico.
-
-El resultado de ese informe determinó la acción de control a la compra de **los generadores** a **Progen**.
-
-Adicional, Contraloría realiza un segundo examen especial al contrato **CELEC-EP-EGU-ESMERALDAS-002**.
-
-Este contrato es para la “**Adquisición, instalación, puesta en marcha y asistencia en operación y mantenimiento de generadores termoeléctricos terrestres (90 – 150 MW)**”.
-
-Este se ubicará en la provincia de Esmeraldas, de la Unidad de Negocio **ELECTROGUAYAS**, con la **empresa ATM (Austral Technical Managment).**
-
-Este examen inició el **16 de diciembre** de 2024, con orden de trabajo No. 0009-DNA4-2024-I.
-
-El **período de análisis** de estas acciones de control comprende entre el 1 de enero de 2023 y el 13 de diciembre de 2024.
-
-ANT suspendió el pago de infracciones de tránsito de forma temporal
-===================================================================
-
-La ANT suspendió temporalmente el pago de los valores pendientes por infracciones de tránsito en Ecuador.
----------------------------------------------------------------------------------------------------------
-
-![El pago de infracciones de tránsito se suspenden por más de seis meses](https://www.elcomercio.com/wp-content/uploads/2024/12/infracciones-transito-ant-suspension.jpg)
-
-La **Agencia Nacional de Tránsito** (ANT) suspendió temporalmente el **pago de los valores** pendientes por **infracciones de tránsito** en Ecuador.
-
-### Más noticias
-
-* [CTE implementa cámaras ‘bodycam’ en sus agentes, ¿qué pasa si no las encienden?](https://www.elcomercio.com/actualidad/guayaquil/agentes-cte-camaras-bodycam-obligados.html "CTE implementa cámaras ‘bodycam’ en sus agentes, ¿qué pasa si no las encienden?")
-* [Diciembre, un mes propicio para la prevención los siniestros de tránsito](https://www.elcomercio.com/opinion/editorial/diciembre-mes-propicio-prevencion-siniestros-transito.html "Diciembre, un mes propicio para la prevención los siniestros de tránsito")
-* [¿Cómo afectan los siniestros de tránsito por consumo de alcohol a Quito?](https://www.elcomercio.com/actualidad/quito/como-afectan-los-siniestros-de-transito-por-consumo-de-alcohol-a-quito.html "¿Cómo afectan los siniestros de tránsito por consumo de alcohol a Quito?")
-
-Esta medida, que obedece a la disposición dada por el ministro de Transporte, **Roberto Luque**, se aplica a nivel nacional a partir del **viernes 13 de diciembre** de 2024 y se extenderá hasta el 30 de junio de 2025.
-
-Según detalló la entidad, la verificación de los valores pendientes de pago por sanciones estipuladas en el Código Orgánico Integral Penal (**COIP**) se suspende para que los ciudadanos puedan realizar **trámites administrativos** en este tiempo.
-
-“Esta medida permitirá al ciudadano realizar diversos trámites como la **matriculación** de sus vehículos, compraventa de automotores y **renovación de licencias**, sin tener que pagar valores pendientes por multas relacionadas con radares”, detalló Luque.
-
-Medida no condona deudas
-------------------------
-
-Sin embargo, el Ministro aclaró que esta decisión no es una **condonación de deudas**, sino un alivio temporal[.](https://www.ant.gob.ec/ "https://www.ant.gob.ec/")
-
-“Esto no significa que las deudas serán **perdonadas**, esto es temporal, hasta ver cómo solucionamos este tema que es un grave problema, pero representa un alivio a los ciudadanos hoy en día”, explicó el funcionario.
-
-> 📢ATENCIÓN  
->   
-> Suspendimos la verificación de valores pendientes de pago por infracciones de tránsito, hasta el 30 de junio de 2025.  
->   
-> Esta NO es una condonación de deudas, es una disposición temporal para garantizar la continuidad de trámites administrativos.[#LaNuevaANTEnAcción](https://twitter.com/hashtag/LaNuevaANTEnAcci%C3%B3n?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/gkua3XGbFT](https://t.co/gkua3XGbFT)
-> 
-> — ANT Ecuador (@ANT\_ECUADOR) [December 17, 2024](https://twitter.com/ANT_ECUADOR/status/1869167746816332277?ref_src=twsrc%5Etfw)
-
-Agentes de tránsito recibieron cámaras ‘bodycam’
-------------------------------------------------
-
-El Ministró también se refirió a las nuevas cámaras ‘bodycam’ entregadas a la **Comisión de Tránsito del Ecuador** (CTE).
-
-La entidad implementó la nueva regulación para sus **agentes** a partir del martes 10 de diciembre.
-
-Los agentes de tránsito están obligados a utilizar los **dispositivos de videograbación**, conocidos como ‘**bodycam**‘, todo el tiempo, mientras cumplen con su jornada laboral.
-
-Según explicó Roberto Luque, el objetivo de la implementación de las más de **2 100 ‘bodycam’** es garantizar la **transparencia** en los procedimientos viales y reducir los casos de **corrupción** o mala aplicación de la ley.
-
-### Sanciones para los agentes que utilicen las cámaras
-
-En caso de que los ciudadanos detecten que **no estén prendidos** mientras se realiza una intervención, la CTE recomendó a los usuarios que le exijan al agente el respectivo encendido.
-
-De no utilizarlos, los agentes recibirán una sanción por falta grave. Según el Código Orgánico de Entidades de Seguridad Ciudadana y Orden Público (Coescop) se sancionará con el **8 %** de la remuneración mensual que percibe el servidor.
-
-CTE suspendió operativos de control
------------------------------------
-
-Asimismo, la CTE suspendió los operativos de control desde el 6 de diciembre de 2024, “sin excepción alguna”[.](https://www.comisiontransito.gob.ec/ "https://www.comisiontransito.gob.ec/")
-
-Esto, porque sus agentes se sumaron a los Controles de Armas, Municiones y Explosivos (**Camex**), junto a la **Policía Nacional** y las **Fuerzas Armadas**.
-
-La Comisión de Tránsito del Ecuador **opera en siete provincias**: Guayas, Santa Elena, Los Ríos, Azuay, El Oro, Manabí y Santo Domingo de los Tsáchilas.
-
-Sebastián Beccacece revela su lado personal con la Selección de Ecuador
-=======================================================================
-
-Sebastián Beccacece, DT de la Selección de Ecuador mostró su lado personal y brindó su imagen fuera del fútbol.
----------------------------------------------------------------------------------------------------------------
-
-![Sebastián Beccacece durante una rueda de prensa de la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/12/20241108136199-gye-sebastian-beccacece-scaled.jpg)
-
-El **DT Sebastián Beccacece** arribó al país en agosto de este 2024 para hacerse cargo de la Selección de Ecuador y reemplazar a Félix Sánchez Bas. Tras casi seis meses en el cargo, este mostró su lado personal y contó cuáles son sus gustos fuera de la cancha, así como aspectos personales vinculados al país y a su rol.
-
-La llegada de la Beccacece al combinado nacional se produjo después de la Copa América y con el fin de que este disputase las eliminatorias rumbo al **Mundial 2026**. A pesar de que Sánchez Bas estaba en zona de clasificación y llegó a los cuartos de final del máximo torneo de selecciones del continente, él y la **Federación Ecuatoriana de Fútbol** (FEF) rompieron su vínculo.
-
-### Más noticias:
-
-* [Sebastián Beccacece ha nombrado seis capitanes en la Selección de Ecuador](https://www.elcomercio.com/deportes/seleccion-ecuador-capitanes-sebastian-beccacece.html "Sebastián Beccacece ha nombrado seis capitanes en la Selección de Ecuador")
-* [¿Cuál es el esquema de juego de Beccacece con la Selección de Ecuador?](https://www.elcomercio.com/deportes/futbol/esquema-sebastian-beccacece-seleccion-ecuador.html "¿Cuál es el esquema de juego de Beccacece con la Selección de Ecuador?")
-* [La Selección de Ecuador fue top mundial, ¿qué pasó con sus jugadores?](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-top-ranking-fifa.html "La Selección de Ecuador fue top mundial, ¿qué pasó con sus jugadores?")
-
-A partir de su arribo, Beccacece debió centrarse en los seis partidos de eliminatorias que le restaban a 2024, en los cuales obtuvo un **[balance favorecedor](https://www.elcomercio.com/deportes/sebastian-beccacece-seleccion-ecuador-fortalezas-colombia.html "https://www.elcomercio.com/deportes/sebastian-beccacece-seleccion-ecuador-fortalezas-colombia.html")**. Estable en el cargo y con el equipo en una mejor posición que en la que lo encontró, este se dio tiempo para relatar parte de su intimidad[.](https://en.wikipedia.org/wiki/Ecuador_national_football_team "https://en.wikipedia.org/wiki/Ecuador_national_football_team")
-
-Por medio de sus redes sociales, la **FEF** hizo pública una entrevista con el estratega argentino. Allí, este hizo revelaciones desde su plato favorito en el país hasta cuál es su equipo de fútbol y su futbolista favorito.
-
-Messi, Newell’s y el ceviche, entre las preferencias de Beccacece
------------------------------------------------------------------
-
-> 🏓 Ping Pong con nuestro DT de la Selección Mayor, [@SebaBecca](https://twitter.com/SebaBecca?ref_src=twsrc%5Etfw). [pic.twitter.com/Ynp9Xy36Xb](https://t.co/Ynp9Xy36Xb)
-> 
-> — La Tri 🇪🇨 (@LaTri) [December 17, 2024](https://twitter.com/LaTri/status/1869140672978055263?ref_src=twsrc%5Etfw)
-
-En el video en el cual contesta las incógnitas sobre sí, este empieza por narrar sus gustos futbolísticos personales. Allí pone a **Lionel Messi** como su ídolo y al Estadio Marcelo Bielsa y Newell’s All Boys como su reducto y club preferidos.
-
-La influencia de su equipo también se ve presente en torno a su libro favorito: _Lo Suficientemente loco._ Un texto sobre **Bielsa**, sobre quien se declaró admirador.
-
-Con respecto a su personalidad y al país, Beccacece señaló que su plato de preferencia es el **ceviche** y cuando no está en la cancha opta por **el teatro o el cine**. Asimismo, agregó que ahora su meta es llegar al Mundial y previo a los partidos suele escuchar rock de su país.
-
-Sebastián Beccacece y la Selección de Ecuador
+Sistema de recolección de basura diferenciada
 ---------------------------------------------
 
-Con la Selección de Ecuador y dentro de lo deportivo, Sebastián Beccacece ha tenido éxito a pesar de su flojo arranque. El combinado nacional se ubica en el tercer puesto de las eliminatorias al Mundial con **19 puntos**, a seis del líder Argentina.
+El gerente de Emaseo, Jorge Jaramillo, señaló que la **inversión total** en estos recursos es de 2 700 000 dólares en el fortalecimiento del sistema. Una inversión de 700 000 dólares en los camiones recolectores permitirá ayudar a **repotenciar la recolección de basura diferenciada** en Quito.
 
-Desde su llegada, este ha conseguido vencer en tres oportunidades, empatar en dos y ser derrotado tan solo en una. En la más reciente fecha doble de eliminatorias, este consiguió seis puntos de seis posibles al golear de local a **Bolivia** e imponerse ante **Colombia** de visita.
+En cuanto a los nuevos contenedores, **150 de ellos se destinarán** para implementar la recolección diferenciada de residuos inorgánicos. Este sistema arrancará con una fase inicial entre diciembre de 2024 y enero de 2025.
 
-Para concretar o no su objetivo de llegar al **Mundial** con la Tri, el entrenador deberá enfrentarse a otros seis compromisos. Todos los duelos venideros se jugarán en el 2025.
+El nuevo sistema incluirá **11 rutas de recolección** en el norte, centro y sur de Quito y se instalarán los recolectores de manera progresiva.
 
-No te pierdas San Viernes y El Confesionario
---------------------------------------------
+¿Qué pasará con los contenedores deteriorados?
+----------------------------------------------
 
-Cosede explica proceso de pagos a clientes de Cooperativa Cámara de Comercio de Ambato
-======================================================================================
+Los contenedores deteriorados **serán reemplazados** por completo en ocho rutas críticas. En ellas, **874 contenedores nuevos** se instalarán en estos sectores:
 
-Los pagos a los clientes de la Cooperativa Cámara de Comercio de Ambato están por iniciar, la Cosede informó el proceso y los requisitos.
------------------------------------------------------------------------------------------------------------------------------------------
+* Turubamba Alto y Bajo
+* Quitumbe Quicentro y Las Cuadras
+* Solanda 1, La Mariscal, San José – Sierra Hermosa, Calderón Centro – San Camilo
 
-![La Cosede estableció el mecanismo de pago a los clientes de la cooperativa de Ambato en liquidación forzosa.](https://www.elcomercio.com/wp-content/uploads/2024/12/cooperativa-ambato-pagos.jpg)
+Además, Emaseo recuperó 287 contenedores que se instalarán en rutas adicionales como Carapungo, Chillogallo, Ciudadela Ibarra, y Martha Bucaram. Esta acción beneficiará a 236 155 personas y sumará **1 311 contenedores** al sistema de contenedores.
 
-La **Corporación del Seguro de Depósitos, Fondo de Liquidez y Fondo de Seguros Privados (Cosede)** explicó a los clientes de la **Cooperativa de Ahorro y Crédito Cámara de Comercio de Ambato Ltda**. en liquidación forzosa el mecanismo de **pagos** que utilizará.
+Los nuevos contenedores son de metal y están diseñados para resistir el desgaste; sin embargo se pide la colaboración ciudadana para mantenerlos en buen estado.
 
-El pasado 2 de diciembre, la **Superintendencia de Economía Popular y Solidaria (SEPS)** declaró en liquidación forzosa a dicha cooperativa.
+Recolección de basura a pie de vereda en Quito
+----------------------------------------------
 
-### Más noticias:
+El servicio de recolección diferenciada **a pie de vereda** seguirá operando en 36 rutas de Quito y beneficia a más de 313 000 personas. En este sistema de recolección, los residuos recogidos con clasificados en las estaciones de transferencia.
 
-* [Así se devolverán los depósitos en la cooperativa Cámara de Comercio de Ambato](https://www.elcomercio.com/actualidad/negocios/devolveran-depositos-cooperativa-camara-comercio-ambato.html "Así se devolverán los depósitos en la cooperativa Cámara de Comercio de Ambato")
-* [15 miembros de banda criminal, sentenciados por terrorismo en Ambato](https://www.elcomercio.com/actualidad/seguridad/miembros-lobos-terrorismo-ambato.html "15 miembros de banda criminal, sentenciados por terrorismo en Ambato")
+Las rutas en las que se aplicará son:
 
-Proceso de pagos a clientes de cooperativa de Ambato en liquidación forzosa
----------------------------------------------------------------------------
+* **Eugenio Espejo**: 9 rutas
+* **Los Chillos**: 10 rutas
+* **Tumbaco**: 11 rutas
 
-La **Cosede** explicó a los clientes el proceso para la recuperación de sus fondos.
+Este equipamiento es parte del fortalecimiento de la **Empresa Pública Metropolitana de Aseo** (Emaseo EP), gracias a una alianza estratégica entre la Empresa de Aseo de Quito y el Programa de las Naciones Unidas [para el Desarrollo](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador") (PNUD)
 
-Informó que el liquidador ha entregado la base de datos de beneficiarios, “que es de su absoluta responsabilidad”, en la cual consta un total de **71 827 beneficiarios** a nivel nacional.
+> ♻️ [#QuitoSostenible](https://twitter.com/hashtag/QuitoSostenible?src=hash&ref_src=twsrc%5Etfw) | Sigue en vivo 🔴 la entrega de nuevos camiones recolectores y contenedores para La Mariscal. [https://t.co/7MwNbUdg3h](https://t.co/7MwNbUdg3h)
+> 
+> — Municipio de Quito (@MunicipioQuito) [December 18, 2024](https://twitter.com/MunicipioQuito/status/1869385931427336403?ref_src=twsrc%5Etfw)
 
-Esto representa un valor a pagar por el seguro de depósitos de **45,5 millones de dólares**, dado que la cooperativa pertenece al segmento 1 de entidades financieras.
+Gabriela Sommerfeld habló sobre el salvoconducto de Jorge Glas
+==============================================================
 
-### Pagos: Montos, fecha y lugares
+Ecuador rechaza propuesta de Venezuela para liberar a Jorge Glas a cambio de salvoconductos para opositores refugiados.
+-----------------------------------------------------------------------------------------------------------------------
 
-Así, cada socio tendrá una cobertura máxima de **hasta 32 000 dólares**.
+![Jorge Glas en una rueda de prensa el pasado 26 de octubre de 2023.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-18T134419.664.jpg)
 
-Una vez que el liquidador entregó a COSEDE la base de depositantes el 16 de diciembre, se emitió la **Resolución del Pago del Seguro de Depósitos el 17 de diciembre**.
-
-Allí, se establece el **inicio de los pagos a partir del 19 de diciembre** a través de dos agentes de pago:
-
-* La **Cooperativa de Ahorro y Crédito San Francisco Ltda.**, para los beneficiarios que tienen registrado su domicilio que constan en la base de datos, en la provincia de Tungurahua.
-* **BanEcuador** para el resto de beneficiarios con domicilios distintos a la provincia de Tungurahua. 
-
-Los agentes pagadores están en capacidad de ofrecer el **pago en efectivo**, **transferencia** bancaria, **cheque** certificado de gerencia o la posibilidad de aperturar una cuenta de acuerdo a lo que cada beneficiario lo decida. 
-
-Los beneficiarios pueden acudir a cualquiera de las agencias para realizar el cobro, de acuerdo con el cronograma de pago, establecido por fechas por el **último dígito de su cédula.**
-
-### Documentos a presentar
-
-Los beneficiarios de la cooperativa en liquidación deberán presentar su **cédula de identidad** vigente.
-
-Además, una **copia legible** de la misma en las ventanillas designadas en cada agencia del agente de pago.
-
-El trámite es inmediato y garantiza la **recuperación de los fondos** de manera segura, sin costo.
-
-A partir del **9 de enero** puede cobrar sin restricción del último dígito.
-
-Superintendencia presentó el expediente de la cooperativa de Ambato a la Fiscalía
----------------------------------------------------------------------------------
-
-La **Superintendencia de Economía Popular y Solidaria (SEPS)** presentó el expediente de la **Cooperativa Cámara de Comercio de Ambato** a la Fiscalía.
-
-El lunes 2 de diciembre de 2024 la Cooperativa Cámara de Comercio de Ambato entró en liquidación forzosa.
-
-El liquidador, **José Miguel Acuña**, informó que se tomó posesión de la entidad financiera.
-
-La **SEPS** tomó esta decisión tras varios meses en que los socios de la entidad mostraban molestia e incertidumbre por el estado de sus depósitos.
-
-Ese día, **Freddy Monge**, intendente general técnico de la SEPS, señaló que la liquidación forzosa fue por varias causales.
-
-Este martes 17 de diciembre, Monge acudió a la **Fiscalía de Ambato**, en Tungurahua, para presentar el expediente completo.
-
-“Estamos entregando el día de hoy un expediente completo de la C**ooperativa Cámara de Comercio de Ambato** a la Fiscalía General del Estado a fin de que se establezcan las responsabilidades penales”, señaló Monge.
-
-Con esto, dijo, se quiere evitar “que **posibles irregularidades** queden en la impunidad”.
-
-Real Madrid intentará ser el máximo ganador de la Intercontinental
-==================================================================
-
-El Real Madrid tiene una cita con la historia en el regreso de la Copa Intercontinental.
-----------------------------------------------------------------------------------------
-
-![Raúl González y Roberto Carlos fueron parte de la última Copa Intercontinental que ganó el Real Madrid en el 2002.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-17T191828.953.jpg)
-
-Antes de ser reemplazada por el Mundial de Clubes, el **Real Madrid** era uno de los equipos con más títulos de la **Copa** **Intercontinental**, junto a otros cuatro clubes. Ahora, con el regreso del torneo y su participación en la final, tiene la oportunidad histórica de convertirse en el equipo con más títulos de esta competencia.
-
-Este miércoles 18 de diciembre, el conjunto español se enfrenta al **Pachuca** de México, donde juegan los ecuatorianos **Ángel** **Mena** y Andrés Micolta, por la final de la Copa Intercontinental, 20 años después de su última edición.
-
-### Más noticias:
-
-* [Real Madrid convocó a Kylian Mbappé para la Copa Intercontinental](https://www.elcomercio.com/deportes/futbol/real-madrid-convoco-a-kylian-mbappe-para-la-copa-intercontinental.html "Real Madrid convocó a Kylian Mbappé para la Copa Intercontinental")
-* [Mundial de Clubes e Intercontinental: formatos, historia y diferencias](https://www.elcomercio.com/deportes/futbol/mundial-de-clubes-intercontinental-formatos-historia-actualidad-diferencias.html "Mundial de Clubes e Intercontinental: formatos, historia y diferencias")
-* [Figuras ecuatorianas buscan hacer historia en la nueva Copa Intercontinental](https://www.elcomercio.com/deportes/copa-intercontinental-ecuatoriano-historia-derby-americas.html "Figuras ecuatorianas buscan hacer historia en la nueva Copa Intercontinental")
-
-Este juego **es histórico para ambos equipos**. Si el Pachuca se impone, se convertiría en el primer club de Concacaf en ganar el trofeo. Mientras tanto, si el Real Madrid vence, se coronaría como el máximo ganador de la **Copa Intercontinental**.
-
-La gran final se jugará a las 12:00 (hora local) en el Estadio Lusail, en Doha, Catar, el mismo escenario que acogió la final del Mundial 2022 entre Argentina y Francia.
-
-Real Madrid a punto de hacer historia
--------------------------------------
-
-El Real Madrid es el club más laureado en competiciones internacionales. En Europa, lidera la lista de la Champions League con 15 títulos, y en la Supercopa de Europa tiene seis trofeos.
-
-En el Mundial de Clubes, el equipo español también ostenta el récord con cinco títulos en cinco participaciones. Ahora, su siguiente objetivo es la Copa Intercontinental, que regresa en 2024 después de una ausencia de 20 años.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-17T191818.600-1024x683.jpg)
-
-Ronaldo con la Copa Intercontinental de 2002. Foto: Real Madrid.
-
-En esta competencia, el Real Madrid ha ganado tres veces el trofeo, lo que lo coloca junto a otros grandes clubes como Peñarol, Boca Juniors, AC Milan y Nacional, todos con tres títulos. Sin embargo, en el regreso de la Copa Intercontinental, el conjunto de la ‘Casa Blanca’ tiene la oportunidad histórica de convertirse en el primer equipo en levantar cuatro trofeos.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-17T191838.532-1024x683.jpg)
-
-Real Madrid con la Copa Intercontinental de 1960. Foto: Real Madrid.
-
-Los títulos de la Intercontinental
-----------------------------------
-
-El Real Madrid ganó la primera edición del torneo en 1960, al derrotar 5-1 en el global al Peñarol de Alberto Spencer, recordando que en las primeras ediciones el formato era de ida y vuelta.
-
-El club sufrió una larga sequía hasta 1998, cuando ganó 2-1 al Vasco da Gama en un partido único. Su última conquista llegó en 2002, cuando derrotó 2-0 al Olimpia de Paraguay en Tokio.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-17T191859.085-1024x683.jpg)
-
-Real Madrid festejando la Copa Intercontinental de 2002. Foto: Real Madrid.
-
-Los merengues también fueron subcampeones en dos ocasiones: en 1966, cuando Peñarol se vengó y le arrebató el título, y en el año 2000, cuando Boca Juniors lo derrotó 2-1.
-
-El Confesionario
-----------------
-
-Ecuador presentó sus nuevos mapas oficiales: geográfico y físico
-================================================================
-
-El Gobierno presentó dos nuevos mapas oficiales de Ecuador, que incluyen límites continentales y marítimos.
------------------------------------------------------------------------------------------------------------
-
-![Los nuevos mapas reflejan una perspectiva real del Ecuador Continental y Marítimo](https://www.elcomercio.com/wp-content/uploads/2024/12/mapas-oficiales-ecuador.jpg)
-
-El Gobierno presentó dos **nuevos mapas** del **Ecuador**, uno geográfico y otro físico. En el **evento simbólico** de este martes 17 de diciembre de 2024 participaron ministros y representantes de entidades a cargo del **proyecto**.
+La canciller de Ecuador, **Gabriela Sommerfeld**, se pronunció en Democracia TV tras las declaraciones del canciller colombiano, **Luis Gilberto Murillo**, respecto a la propuesta de salvoconductos para seis opositores venezolanos refugiados en la **Embajada de Argentina en Caracas** y el sentenciado **Jorge Glas**.
 
 ### Más noticias
 
-* [Corte Constitucional se pronunció sobre propuesta de Daniel Noboa respecto a presos](https://www.elcomercio.com/actualidad/seguridad/corte-constitucional-pronuncio-propuesta-daniel-noboa-presos.html "Corte Constitucional se pronunció sobre propuesta de Daniel Noboa respecto a presos")
+* [Venezuela pidió salvoconducto para Jorge Glas](https://www.elcomercio.com/actualidad/politica/venezuela-pidio-salvoconducto-para-jorge-glas.html "Venezuela pidió salvoconducto para Jorge Glas")
+* [Verónica Abad habló sobre Rafael Correa y Jorge Glas](https://www.elcomercio.com/actualidad/politica/veronica-abad-hablo-sobre-rafael-correa-y-jorge-glas.html "Verónica Abad habló sobre Rafael Correa y Jorge Glas")
 * [Noboa y Petro acuerdan en Galápagos fortalecer cooperación en frontera Ecuador y Colombia](https://www.elcomercio.com/actualidad/daniel-noboa-gustavo-petro.html "Noboa y Petro acuerdan en Galápagos fortalecer cooperación en frontera Ecuador y Colombia")
-* [Gobierno anuncia decisión final sobre la construcción de cárcel de Archidona](https://www.elcomercio.com/actualidad/ecuador/gobierno-anuncia-decision-carcel-archidona-ecuador.html "Gobierno anuncia decisión final sobre la construcción de cárcel de Archidona")
 
-Región Insular ahora tiene una perspectiva real
------------------------------------------------
+Estas declaraciones fueron emitidas en el marco de la clausura de la ‘**Cumbre de Pueblos Afrodescendientes del Caribe Occidental**‘, celebrada en **San Andrés, Colombia**.
 
-Según detalló la ministra de Relaciones Exteriores, **Gabriela Sommerfeld**, la actualización de estos mapas, luego de **12 años**, permite visualizar en su totalidad el **territorio continental** del país y la región Insular. La principal diferencia es que ahora la **perspectiva** es **real**.
+Murillo reveló que el **Gobierno de Venezuela** condicionó la entrega de los salvoconductos al otorgamiento de uno para el exvicepresidente ecuatoriano **Jorge Glas**, detenido en la cárcel La Roca. Además, indicó que se solicitó la **liberación de una persona cercana al régimen venezolano**, actualmente detenida en Argentina.
 
-“La idea es mostrar la perspectiva real de lo que Ecuador es; normalmente se le veía a la región Insular en una pequeña esquina, pero no se apreciaba la **soberanía** que teníamos en el **mar**, que es bastante grande”, comentó la funcionaria, en una entrevista con DNews.
+> 🚨La información la dio el canciller de [#Colombia](https://twitter.com/hashtag/Colombia?src=hash&ref_src=twsrc%5Etfw), Luis Gilberto Murillo, este martes. Los detalles👉[https://t.co/LUyGOdpy2u](https://t.co/LUyGOdpy2u)[#JorgeGlas](https://twitter.com/hashtag/JorgeGlas?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/NIOGpDDye4](https://t.co/NIOGpDDye4)
+> 
+> — El Comercio (@elcomerciocom) [December 18, 2024](https://twitter.com/elcomerciocom/status/1869233196983783854?ref_src=twsrc%5Etfw)
 
-Asimismo, los **nuevos planos** incluyen los espacios marítimos nacionales y la distancia que existe entre el territorio continental y las **Islas Galápagos**; además de las áreas potenciales de extensión de la plataforma continental.
+Ecuador exige respeto a los derechos de los asilados
+----------------------------------------------------
 
-> Ecuador ya cuenta con sus nuevos mapas oficiales.  
+La canciller ecuatoriana, **Gabriela Sommerfeld,** confirmó la **existencia de la solicitud durante una entrevista en Democracia TV**. Sommerfeld reveló que tanto Brasil como Colombia actuaron como intermediarios para transmitir la **propuesta de Venezuela**.
+
+> [#EsNoticia](https://twitter.com/hashtag/EsNoticia?src=hash&ref_src=twsrc%5Etfw) 🇪🇨🇻🇪 Ecuador confirma negociación de Maduro sobre salvoconductos y Jorge Glas  
 >   
-> La canciller [@gabisommerfeld](https://twitter.com/gabisommerfeld?ref_src=twsrc%5Etfw), en conjunto con el ministro de Gobierno, José de la Gasca, firmaron los mapas oficiales, marcando un hito histórico para el país. [pic.twitter.com/Ayq5NvP5ve](https://t.co/Ayq5NvP5ve)
+> Las declaraciones del canciller colombiano, [@LuisGMurillo](https://twitter.com/LuisGMurillo?ref_src=twsrc%5Etfw), fueron confirmadas por su par de Ecuador, Gabriela Sommerfeld ([@gabisommerfeld](https://twitter.com/gabisommerfeld?ref_src=twsrc%5Etfw)), sobre la intención del dictador Nicolás Maduro de… [pic.twitter.com/NVhCtITWgK](https://t.co/NVhCtITWgK)
 > 
-> — Cancillería del Ecuador 🇪🇨 (@CancilleriaEc) [December 17, 2024](https://twitter.com/CancilleriaEc/status/1869151174328451336?ref_src=twsrc%5Etfw)
+> — EVTV (@EVTVMiami) [December 18, 2024](https://twitter.com/EVTVMiami/status/1869423649570308361?ref_src=twsrc%5Etfw)
 
-Límites marítimos con Colombia, Perú y Costa Rica
--------------------------------------------------
+“Hubo llamadas a finales de agosto y durante septiembre desde ambos países, y mantuve conversaciones con los **cancilleres Murillo y Mondino**. Sin embargo, el presidente **Daniel Noboa** fue claro: Ecuador no será cómplice de impunidad ni corrupción, ni respaldará al régimen de Maduro”, declaró.
 
-En los mapas también se destacan los límites marítimos con **Colombia, Perú y Costa Rica**; algo que no reflejaban planos anteriores.
+La Canciller ecuatoriana expresó también su **preocupación por la seguridad de los refugiados** en la Embajada Argentina.
 
-Sobre este tema, Sommerfeld explicó: “Hemos trabajado con **alta tecnología** para marcar los límites y hemos tenido conversaciones exitosas previamente con los gobiernos vecinos”.
+Argentina y Ecuador rechazan la propuesta
+-----------------------------------------
 
-El proyecto fue elaborado durante **varios meses** de forma conjunta, con la colaboración de: **Instituto Geográfico Militar**, Instituto Oceanográfico y Antártico de la Armada del Ecuador (**Inocar**), Ministerio de Relaciones Exteriores y Ministerio de Gobierno.
+Ambos países descartaron el intercambio planteado. Sommerfeld subrayó que la posición ecuatoriana está fundamentada en **principios de justicia y transparencia**.
 
-> Quito | José de la Gasca, ministro de Gobierno y presidente del Directorio de [#CONALI](https://twitter.com/hashtag/CONALI?src=hash&ref_src=twsrc%5Etfw), junto a la canciller [@gabisommerfeld](https://twitter.com/gabisommerfeld?ref_src=twsrc%5Etfw), firmaron la autorización para la publicación del nuevo Mapa Geográfico del Ecuador, elaborado por el Instituto Geográfico Militar. [pic.twitter.com/6uTC0HIIus](https://t.co/6uTC0HIIus)
-> 
-> — Ministerio de Gobierno Ecuador (@MinGobiernoEc) [December 17, 2024](https://twitter.com/MinGobiernoEc/status/1869101508010422761?ref_src=twsrc%5Etfw)
+“Ecuador no aceptará presiones para liberar a [Jorge Glas](https://es.wikipedia.org/wiki/Jorge_Glas "https://es.wikipedia.org/wiki/Jorge_Glas") ni para favorecer intereses de un régimen que no respeta los derechos humanos”, sostuvo.
 
-Según las autoridades, los planos permitirán “**definir límites**, prevenir conflictos y registrar el progreso de todas las regiones, contribuyendo así a la actualización de la cartografía nacional”.
+* * *
 
-Los nuevos **mapas oficiales de Ecuador** fue suscrito por los ministros, Gabriela Sommerfeld, y José de la Casca, encargado de la Cartera de Gobierno.
-
-Mapas geográfico y físico del Ecuador
--------------------------------------
-
-El mapa geográfico tiene una escala de **1:500 000**; mientras que el mapa físico una medida de **1:1 000 000**.
-
-> La muestra ofrece un recorrido a través de catorce paneles y una línea de tiempo que abarca dos siglos de historia, desde 1824 hasta los mapas firmados el 17 de diciembre de 2024. [pic.twitter.com/dZXgIRfuTv](https://t.co/dZXgIRfuTv)
-> 
-> — Cancillería del Ecuador 🇪🇨 (@CancilleriaEc) [December 17, 2024](https://twitter.com/CancilleriaEc/status/1869138855032701139?ref_src=twsrc%5Etfw)
-
-Esto significa que, cualquier medida tomada en el mapa debe multiplicarse por 500 000 o por un millón, respectivamente, para obtener la **distancia real**.
-
-Por ejemplo, si dos puntos en el mapa se distancian entre 10 milímetros, en la realidad esa distancia es de 10 millones de milímetros, o sea, **10 kilómetros**.
-
-Los primeros mapas de Ecuador
------------------------------
-
-Con la llegada de los españoles en el **siglo XVI**, los primeros mapas comenzaron a dibujarse. Durante este período, Ecuador formó parte del Virreinato del Perú y más tarde del Virreinato de Nueva Granada. Los mapas elaborados por los colonizadores mostraban las principales ciudades, como **Quito y Guayaquil**, y las rutas comerciales hacia la costa.
-
-Un hito importante fue la **Primera Misión Geodésica Francesa** en 1736, liderada por científicos como Charles Marie de La Condamine. Este equipo realizó mediciones cerca de la ciudad de Quito para determinar la forma exacta de la Tierra, contribuyendo a la identificación de la línea ecuatorial.
-
-### Pedro Vicente Maldonado
-
-El primer mapa de Ecuador fue realizado por **Pedro Vicente Maldonado**, un cartógrafo riobambeño que también participó de esta Misión.
-
-El mapa más avanzado y completo de la **Real Audiencia de Quito**, para la época, se terminó de elaborar en **1750,** tras años de investigación, observación y recopilación de estudios.
-
-El primer mapa de la nación ecuatoriana después de su separación de la Gran Colombia fue la Carta Corográfica de la República del Ecuador, realizada en **1858** por el médico y geógrafo **Manuel Villavicencio y Montúfar**.
-
-Crisis en Emelec desata éxodo de jugadores y su DT está en duda
+Real Madrid no permitió sorpresas y es campeón Intercontinental
 ===============================================================
 
-Emelec finalizó la temporada 2024 en medio de una crisis, sufre un éxodo de jugadores y la permanencia del DT Leonel Álvarez está en duda.
-------------------------------------------------------------------------------------------------------------------------------------------
+El Real Madrid ganó la Copa Intercontinental en 1960, 1998, 2002 y 2024.
+------------------------------------------------------------------------
 
-![Leonel Álvarez, DT de Emelec, en un partido de la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-17T184226.441.jpg)
+![Kylian Mbappé, jugador del Real Madrid en la Copa Intercontinental 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/intercontiental_1.jpg)
 
-La continuidad en el **Emelec** del técnico colombiano **Leonel Álvarez** y de varios jugadores se complica cada vez más debido a la crisis administrativa y económica que afectan a la entidad, según señaló uno de los últimos jugadores en dejar el club.
+El **Real Madrid** de España no dejó espacio para las sorpresas y se proclamó campeón de la Copa Intercontinental. En la final única derrotó por 3-0 a un aguerrido, pero inofensivo Pachuca de México.
 
-Álvarez se vinculó al **Emelec** en junio pasado con un contrato hasta 2026 tras la [salida de su compatriota Hernán Torres](https://www.elcomercio.com/deportes/emelec-salida-hernan-torres-dt.html "https://www.elcomercio.com/deportes/emelec-salida-hernan-torres-dt.html").
+El partido entre **el Real Madrid y el Pachuca se realizó este miércoles 18** de diciembre de 2024, desde las 12:00 de Ecuador, en el estadio Lusail de Catar, el mismo escenario de la final de la Copa del Mundo 2022.
 
 ### Más noticias:
 
-* [Cristian Erbes rechazó a Emelec por la B de Argentina](https://www.elcomercio.com/deportes/futbol/cristian-erbes-emelec-argentina-ligapro.html "Cristian Erbes rechazó a Emelec por la B de Argentina")
-* [Histórico de Ecuador se ofrece a dirigir a Emelec](https://www.elcomercio.com/deportes/futbol/historico-de-ecuador-se-ofrece-a-dirigir-a-emelec.html "Histórico de Ecuador se ofrece a dirigir a Emelec")
-* [Pedro Ortiz, arquero de Emelec, se sometió a operación quirúrgica](https://www.elcomercio.com/deportes/pedro-ortiz-cirugia-emelec.html "Pedro Ortiz, arquero de Emelec, se sometió a operación quirúrgica")
+* [Alberto Spencer es el único ecuatoriano que conquistó la Intercontinental](https://www.elcomercio.com/deportes/futbol/alberto-spencer-es-el-unico-ecuatoriano-que-conquisto-la-intercontinental.html "Alberto Spencer es el único ecuatoriano que conquistó la Intercontinental")
+* [Mundial de Clubes e Intercontinental: formatos, historia y diferencias](https://www.elcomercio.com/deportes/futbol/mundial-de-clubes-intercontinental-formatos-historia-actualidad-diferencias.html "Mundial de Clubes e Intercontinental: formatos, historia y diferencias")
+* [Vinícius Júnior confes](https://www.elcomercio.com/deportes/futbol/vinicius-junior-racismo-camino-correcto.html "Vinícius Júnior confesó que ‘sufre’ por los actos de racismo")[ó que ‘sufre’ por los actos de racismo](https://www.elcomercio.com/deportes/futbol/vinicius-junior-racismo-camino-correcto.html "Vinícius Júnior confesó que ‘sufre’ por los actos de racismo")
 
-Apenas asumió el colombiano la dirección técnica del equipo, los [inconvenientes](https://www.elcomercio.com/deportes/futbol/crisis-emelec-deudas-embargo-banco-estadio.html "https://www.elcomercio.com/deportes/futbol/crisis-emelec-deudas-embargo-banco-estadio.html") se fueron desgranando uno tras otro. Allí se dio una suspensión de la **FIFA**, que prohibió al club contratar jugadores por demandas ante la falta de cumplimiento de deudas[.](https://en.wikipedia.org/wiki/C.S._Emelec "https://en.wikipedia.org/wiki/C.S._Emelec")
+Real Madrid ganó sin problemas
+------------------------------
 
-El exmundialista con la selección de Colombia también afrontó lesiones de jugadores en una limitada plantilla, **la reducción de 3 puntos al equipo** por deudas a exjugadores y la paralización de la plantilla por falta de pago, que ahora se agrava con la salida de varios de los futbolistas.
+El Madrid fue de menos a más para imponer sus condiciones en la final de la Intercontinental. Poco a poco la línea de ataque lidera por **Rodrygo, Vinícius Junior, Jude Bellingham** y Kylian Mbappé se impusieron.
 
-Las salidas de jugadores de Emelec
-----------------------------------
+A los 37 minutos del primer tiempo una jugada entre Vinícius, **recientemente proclamado como el ganador del premio The Best** que otorga la Federación Internacional de Fútbol Asociado (FIFA), orquestó una espectacular jugada por la banda izquierda.
 
-![](https://www.elcomercio.com/wp-content/uploads/2024/08/Diseno-sin-titulo-2024-08-19T101810.497.jpg)
+El brasileño en velocidad ejecutó una precisa bicicleta para dejar en el camino al portero Carlos Moreno. El pase al centro del área encontró solo a **Mbappé que se encargó de empujar el esférico al fondo** del arco sin defensa alguna.
 
-El defensa Alexander González tampoco seguirá en Emelec. Foto: API.
+> ¡GOLAZO DE REAL MADRID! 🔥  
+>   
+> ⚽ Un show de pases, la gambeta de Vinícius al arquero, y Mbappé solo la tuvo que empujar para marcar el 1-0 ante Pachuca en la final.  
+>   
+> 🏆 [#FIFAIntercontinentalCupEnDSPORTS](https://twitter.com/hashtag/FIFAIntercontinentalCupEnDSPORTS?src=hash&ref_src=twsrc%5Etfw) | [#FIFAIntercontinentalCup](https://twitter.com/hashtag/FIFAIntercontinentalCup?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/iyFAP8gwli](https://t.co/iyFAP8gwli)
+> 
+> — DSPORTS (@DSports) [December 18, 2024](https://twitter.com/DSports/status/1869438080073007437?ref_src=twsrc%5Etfw)
 
-“**Las posibilidades para continuar en el club cada vez son menos, hice todo lo posible por quedarme, las ganas para continuar fueron muchas.** Esperé hasta lo último una respuesta de los directivos, como no ha sucedido nada, me tengo que ir”, señaló el argentino Juan Ruiz.
+A los 53 minutos el brasileño **Rodrygo se encargó de poner el 2-0.** Para estar en la misma sintonía del tanto del francés, el habilidoso jugador sacó un remate desde cerca del área grande para marcar un tanto digno de esta clase de partidos.
 
-Ruiz se convirtió en uno de los jugadores destacados en el equipo, pero su préstamo y el de su compatriota **Facundo Castelli**, desde el club argentino Estudiantes de Caseros, concluirá en los próximos días.
+> ¡GOLAZO DE REAL MADRID PARA ESTIRAR LA VENTAJA! ⚽  
+>   
+> 🇧🇷 Rodrygo, tras una gran secuencia de pases, sacó un formidable remate para marcar el 2-0 ante Pachuca en la final.  
+>   
+> 🏆 [#FIFAIntercontinentalCupEnDSPORTS](https://twitter.com/hashtag/FIFAIntercontinentalCupEnDSPORTS?src=hash&ref_src=twsrc%5Etfw) | [#FIFAIntercontinentalCup](https://twitter.com/hashtag/FIFAIntercontinentalCup?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/Mi1oDogQFk](https://t.co/Mi1oDogQFk)
+> 
+> — DSPORTS (@DSports) [December 18, 2024](https://twitter.com/DSports/status/1869446529733296597?ref_src=twsrc%5Etfw)
 
-También se fue del equipo el ecuatoriano **Gustavo Cortéz**, por la falta de soluciones a los problemas que se le presentaron. Según el jugador, por la **falta de pago de su sueldo** tuvo inconvenientes hasta con el arriendo del departamento donde vivía en Guayaquil.
+El 3-0 tuvo la firma de Vinícius a los 88 minutos. Lo hizo desde el punto penal para sentencias el juego.
 
-Otro de los jugadores que se fue es el venezolano **Alexander González**.
+La dinámica del resto del partido tuvo a un **Madrid que controló el balón y fue peligroso** cuando se lanzaba al ataque, mientras que Pachuca tuvo opciones de gol, pero la poca puntería de sus delanteros y la actuación del belga Thibaut Courtois los privaron del descuento.
 
-La crisis administrativa y económica en el **Emelec** ocasionó la renuncia el pasado 29 de octubre de su presidente José Pileggi y quienes quedaron en su lugar no han comunicado las soluciones de las demandas ante la FIFA de sus exjugadores. 
+![EFE.](https://www.elcomercio.com/wp-content/uploads/2024/12/intercontinental_2-1024x683.jpg)
 
-No te pierdas San Viernes y El Confesionario
+EFE.
+
+Los ecuatorianos en la final
+----------------------------
+
+**Andrés Micolta** saltó en el equipo titular y jugó los 90 minutos. El exdefensor de El Nacional cumplió con un buen encuentro, pero nada pudo hacer ante el talento de las superestrellas de los españoles.
+
+**Ángel Mena**, el otro ecuatoriano, ingresó a los 75 minutos del segundo tiempo por Alán Bautista. El deportista formado en Emelec anotó un gol en el tiempo de descuento, pero al encontrarse en posición adelantada no subió al marcador.
+
+Para llegar a la final, Pachuca derrotó a **Botafogo por 3-0 en el estadio 974**, y en las semifinales venció a Al-Ahly de Egipto por 6-5 en la tanda de penales. En los 90 minutos el marcador terminó empatado 0-0 en el mismo escenario.
+
+En todos estos partidos **Micolta fue titular, y Mena siempre ingresó e**n el desarrollo del segundo tiempo al cambio, por disposición del entrenador uruguayo Guillermo Almada
+
+Confesionario – segunda temporada en proceso
 --------------------------------------------
 
-No te pierdas San Viernes y El Confesionario
+Hallazgo en Sicilia revela restos de comida intacta de hace 20 siglos: ¿Cómo se preservaron? 
+=============================================================================================
 
-Gobierno de Ecuador fijó nuevo salario básico para 2025
-=======================================================
+Este hallazgo en Sicilia revela secretos sobre la alimentación antigua.
+-----------------------------------------------------------------------
 
-El Ministerio de Trabajo fijó el nuevo Salario Básico Unificado (SBU) que tendrán los ecuatorianos a partir del 1 de enero de 2025.
------------------------------------------------------------------------------------------------------------------------------------
+![Las técnicas de conservación antiguas y el sellado eficaz ayudaron a preservar los alimentos (imagen referencial). Foto: Pixabay.](https://www.elcomercio.com/wp-content/uploads/2024/12/Sicilia-alimentos.jpg)
 
-![El Salario Básico Unificado en Ecuador, en 2024, es de 460 dólares](https://www.elcomercio.com/wp-content/uploads/2024/12/nuevo-salario-basico-2025-ecuador.jpg)
-
-El Gobierno de **Ecuador**, a través del **Ministerio de Trabajo**, dispuso un incremento en el **Salario Básico Unificado** (SBU) para el **2025**.
+Arqueólogos han descubierto **restos de comida** intacta de hace más de 20 siglos en **Sicilia**. Este hallazgo se realizó en la **antigua ciudad de Finziade**, y ha revelado información valiosa sobre **la alimentación en la antigüedad**. Los investigadores quedaron asombrados por el **estado de conservación** de los alimentos, que incluye restos de pescado y carne. Este hallazgo abre una ventana al pasado y a los **hábitos alimenticios** de hace más de 2 000 años. 
 
 ### Más noticias
 
-* [Gobierno anuncia decisión final sobre la construcción de cárcel de Archidona](https://www.elcomercio.com/actualidad/ecuador/gobierno-anuncia-decision-carcel-archidona-ecuador.html "Gobierno anuncia decisión final sobre la construcción de cárcel de Archidona")
-* [Ecuador refinancia deuda por 1 530 millones de dólares y asegura fondos para la Amazonía](https://www.elcomercio.com/actualidad/negocios/ecuador-refinancia-deuda-por-1-530-millones-de-dolares-y-asegura-fondos-para-la-amazonia.html "Ecuador refinancia deuda por 1 530 millones de dólares y asegura fondos para la Amazonía")
-* [Daniel Noboa reduce el IVA para feriados de Navidad y Año Nuevo](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-redujo-el-iva-8-durante-feriados-navidad-ano-nuevo.html "Daniel Noboa reduce el IVA para feriados de Navidad y Año Nuevo")
+* [Nueva tecnología revela pistas sobre el tesoro inca de Atahualpa](https://www.elcomercio.com/tendencias/cultura/tesoro-atahualpa-ruminahui-incas.html "https://www.elcomercio.com/tendencias/cultura/tesoro-atahualpa-ruminahui-incas.html") 
+* [Santa Elena alberga tesoros de antiguos galeones españoles, según investigador sueco](https://www.elcomercio.com/tendencias/curiosidades/santa-elena-galeones-espanoles-historia.html "https://www.elcomercio.com/tendencias/curiosidades/santa-elena-galeones-espanoles-historia.html") 
 
-Según detalla el documento oficial firmado este martes 17 de diciembre de 2024, por la ministra **Ivonne Núñez**, el nuevo SBU será de **470 dólares mensuales**.
+**Un descubrimiento sorprendente en Finziade-Sicilia** 
+-------------------------------------------------------
 
-Comparado con el valor fijado de **460 dólares** para 2024, existe un incremento del **2,17 %**, es decir, **10 dólares**.
+En diciembre de 2024, un equipo de arqueólogos italianos realizó un descubrimiento excepcional en el **yacimiento arqueológico de Finziade**, ubicado en **Sicilia**. Este sitio, que fue una ciudad griega antes de convertirse en parte del **Imperio Romano**, ha sido objeto de investigaciones desde 2023. El proyecto está bajo el marco del programa “Agrigento capital de la cultura italiana 2025”, liderado por los arqueólogos Alessio Toscano y María Concetta Parello, según informa [Semana](https://www.semana.com/mundo/articulo/hallan-restos-de-comida-intacta-de-hace-20-siglos-bajo-una-casa-en-sicilia/202421/ "https://www.semana.com/mundo/articulo/hallan-restos-de-comida-intacta-de-hace-20-siglos-bajo-una-casa-en-sicilia/202421/").  
 
-Los ecuatorianos percibirán este nuevo Salario Básico Unificado desde el **1 de enero** de 2025.
+Durante las excavaciones, los investigadores **encontraron un ánfora** que contenía **restos de pescado y carne**, con una datación aproximada de hace 2 300 años. Este hallazgo es notable no solo por la antigüedad, sino también por el estado “intacto” en que se encontraban los alimentos, a decir del [Huffingtonpost](https://www.huffingtonpost.es/sociedad/arqueologo-vacia-anfora-recien-descubierta-2300-anos-repleta-comida-alta-calidad.html "https://www.huffingtonpost.es/sociedad/arqueologo-vacia-anfora-recien-descubierta-2300-anos-repleta-comida-alta-calidad.html"). El ánfora estaba sellada, lo que ayudó a **preservar su contenido** durante siglos. 
 
-A partir de los 470 dólares mensuales, se aplicará la fijación de los **salarios mínimos sectoriales**.
+**Condiciones ideales para la conservación** 
+---------------------------------------------
 
-Consejo Nacional de Trabajo y Salarios no llegó a un acuerdo
-------------------------------------------------------------
+Las **condiciones climáticas** y el **sellado efectivo** del recipiente jugaron un papel crucial en la **preservación de los alimentos**. La técnica utilizada por los antiguos pescadores incluía **salar y aromatizar el pescado** antes de colocarlo en el ánfora. Este método no solo **prolongaba la vida útil del alimento**, sino que también permitía su transporte a largas distancias, de acuerdo con [La Nación](https://www.lanacion.com.ar/lifestyle/en-las-redes/descubren-debajo-de-una-casa-en-sicilia-restos-de-comida-intacta-de-hace-mas-de-20-siglos-nid16122024/ "https://www.lanacion.com.ar/lifestyle/en-las-redes/descubren-debajo-de-una-casa-en-sicilia-restos-de-comida-intacta-de-hace-mas-de-20-siglos-nid16122024/").  
 
-La decisión del nuevo valor del SBU se tomó luego que el **Consejo Nacional de Trabajo y Salarios** (CNTS) no llegara a un acuerdo[.](https://www.trabajo.gob.ec/ "https://www.trabajo.gob.ec/")
+Los expertos han señalado que **este tipo de conservación** era común entre los **pueblos del Mediterráneo antiguo**. La presencia de **sal** entre las capas del pescado ayudó a ralentizar la degradación, al mantener los componentes casi intactos hasta el presente, siguiendo con el Huffingtonpost. 
 
-El organismo se reunió entre el **5 y 12 de diciembre**, sin lograr un consenso. En los encuentros participaron representantes de la pequeña industria, agrícolas, trabajadoras del hogar, artesanos y la empresa privada.
+**Un vistazo a la alimentación antigua** 
+-----------------------------------------
 
-Salario Básico Unificado en Ecuador
------------------------------------
+Los restos encontrados incluyen **espinas y pedazos de carne** que podrían estar relacionados con la producción de **‘garum’ o ‘liquamen’**, dos condimentos populares en la antigüedad, según [Infobae](https://www.infobae.com/espana/2024/12/12/garum-o-una-conserva-de-pescado-en-sal-una-excavacion-arqueologica-se-topa-con-un-anfora-llena-de-restos-de-comida-con-2000-anos-de-antiguedad/ "https://www.infobae.com/espana/2024/12/12/garum-o-una-conserva-de-pescado-en-sal-una-excavacion-arqueologica-se-topa-con-un-anfora-llena-de-restos-de-comida-con-2000-anos-de-antiguedad/"). 
 
-El SBU es la remuneración mínima que un trabajador puede recibir por su **jornada laboral ordinaria** en Ecuador y se ajusta anualmente considerando **varios factores**, entre ellos: la inflación, la productividad laboral y el costo de la canasta básica familiar.
+Estos productos se elaboraban mediante un **proceso de fermentación** que involucraba **vísceras y hierbas aromáticas**. La calidad del **‘garum’** era alta y se exportaba ampliamente, mientras que el **‘liquamen’** era una alternativa más económica. 
 
-La entidad a cargo de fijarlo es el **Consejo Nacional de Trabajo y Salarios** (CNTS), que está compuesto por representantes de empleadores y trabajadores.
+Este hallazgo no solo proporciona información sobre las **técnicas culinarias antiguas**, sino que también ofrece una ventana a los **hábitos alimenticios** de los habitantes de Finziade. Los arqueólogos creen que estos métodos eran utilizados por otras comunidades mediterráneas, lo que sugiere un **intercambio cultural** significativo entre las civilizaciones antiguas, conlcuye Semana.  
 
-Si las partes no logran un acuerdo antes de una fecha límite, el **Ministro de Trabajo** toma la decisión final y fija el nuevo SBU mediante un **acuerdo ministerial**.
+**Importancia del hallazgo** 
+-----------------------------
 
-SBU en años anteriores
-----------------------
+La importancia del descubrimiento radica en su potencial para profundizar nuestro entendimiento sobre la **historia alimentaria** y las **técnicas de conservación** utilizadas en la antigüedad. Los investigadores planean realizar estudios adicionales, que incluyen **análisis químicos y arqueozoológicos**, para determinar con mayor precisión los métodos utilizados para conservar estos alimentos, informa La Nación.  
 
-El Salario Básico Unificado en Ecuador para el año 2024 se estableció en **460 dólares mensuales**, con un incremento similar al que habrá el próximo año.
+Este hallazgo se suma a una serie reciente de **descubrimientos arqueológicos en Italia**, donde se han encontrado otros tesoros históricos que iluminan aspectos olvidados del pasado. 
 
-En **2023**, los ecuatorianos ganaban un mínimo de **450 dólares**.
+La comunidad arqueológica espera que estos estudios no solo revelen más sobre los antiguos **métodos culinarios**, sino que también contribuyan al conocimiento general sobre las **prácticas culturales y comerciales del Mediterráneo**. 
 
-¿Cuándo pagan el décimo tercer sueldo a jubilados y pensionistas del IESS?
-==========================================================================
+### Te recomendamos:
 
-Más de 700 000 jubilados del IESS recibirán el bono navideño junto con su pensión mensual. El Gobierno asegura recursos para cubrir pagos de sueldos y décimos.
----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Policía detiene a nueve miembros del grupo armado Los Lobos
+===========================================================
 
-![El monto de la décima tercera pensión equivale al promedio de la suma de las rentas percibidas durante los doce meses del año.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-48.jpg)
+Esta red criminal operaba en coordinación con dos personas recluidas en un centro de rehabilitación social de Guayas
+--------------------------------------------------------------------------------------------------------------------
 
-Más de 700 000 jubilados y pensionistas del Instituto Ecuatoriano de Seguridad Social (IESS) se alistan para recibir la décima tercera remuneración o bono navideño este diciembre del 2024[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+![La Policía detuvo a miembros del grupo armado Los Lobos.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-31.jpg)
+
+La **Policía Nacional** informó este miércoles 18 de diciembre de 2024 sobre un operativo ejecutado en Guayas en el marco de la lucha contra la delincuencia organizada. Como resultado a este trabajo se logró la detención de miembros del grupo armado **Los Lobos.**
 
 ### Más noticias
 
-* [¿Cómo calcular el decimotercer sueldo?](https://www.elcomercio.com/actualidad/negocios/como-calcular-decimo-tercer-sueldo.html "¿Cómo calcular el decimotercer sueldo?")
-* [¿Cuándo se paga el decimotercer sueldo?](https://www.elcomercio.com/actualidad/negocios/hasta-cuando-se-paga-decimo-tercer-sueldo.html "¿Cuándo se paga el decimotercer sueldo?")
-* [Pago de sueldos y décimos de diciembre estarían asegurados por parte del Gobierno](https://www.elcomercio.com/actualidad/negocios/pago-sueldo-decimos-diciembre-asegurado-gobierno.html "Pago de sueldos y décimos de diciembre estarían asegurados por parte del Gobierno")
+* [Policía se pronuncia tras muerte de joven en audiencia, en Guayaquil](https://www.elcomercio.com/actualidad/seguridad/policia-version-muerte-joven-audiencia-guayaquil.html "Policía se pronuncia tras muerte de joven en audiencia, en Guayaquil")
+* [Fiscalía realiza allanamientos por caso Metástasis en dos ciudades](https://www.elcomercio.com/actualidad/seguridad/fiscalia-allanamientos-caso-metastasis-en-dos-ciudades.html "Fiscalía realiza allanamientos por caso Metástasis en dos ciudades")
+* [Ecuador registra 16,5% de reducción de crímenes, según Bloque de Seguridad](https://www.elcomercio.com/actualidad/seguridad/ecuador-registra-reduccion-de-crimenes-segun-bloque-de-seguridad.html "Ecuador registra 16,5% de reducción de crímenes, según Bloque de Seguridad")
 
-El décimo para jubilados y pensionistas
----------------------------------------
+Operativo Gran Fénix 415
+------------------------
 
-El IESS informó, a través de redes sociales, que el pago de esta décima tercera pensión se realizará el 20 de diciembre de 2024. El bono navideño lo entregarán junto a la **renta mensual** de los jubilados y pensionistas o beneficiarios de **montepío**.
+Durante la madrugada de este miércoles 18 de diciembre, personal policial ejecutó un **operativo antidelincuencial en Guayas y Milagro.** Por ello, se realizó el **allanamiento de siete inmuebles**, en coordinación con la Fiscalía General y el Departamento de Seguridad de los EE.UU.
 
-El monto de la décima tercera pensión equivale al promedio de la **suma de las renta**s percibidas durante los doce meses del año. El monto está destinado a aliviar los **gastos** de las fiestas navideñas.
+Los allanamientos se hicieron en **domicilios de los sectores Cristo del Consuelo**, Guasmo Sur y el barrio Centenario.
 
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DDj8-DbOUTG/?utm_source=ig_embed&utm_campaign=loading)
+De ese modo, los uniformados **detuvieron a nueve personas** por el delito de delincuencia organizada, quienes operarían con el grupo armado organizado **Los Lobos.**
+
+Según arrojaron las investigaciones, **este grupo operaba mediante la extorsión** a locales comerciales y servidores públicos de diferentes localidades. Los antisociales pedían dinero a través de mensajes y uso de armas de fuego.
+
+Además, estarían involucrados en **tráfico ilícito de sustancias sujetas** a fiscalización, secuestro y tráfico de armas, municiones y explosivos.
+
+Entre los detenidos se habría movido medio millón de dólares en actividades ilícitas.
+
+El operativo **Gran Fénix 415** se realizó como un seguimiento al **operativo Renacer 27,** en cual se aprehendió a Annabel M., a quien se le encontró con dos armas y 20 000 cartuchos.
+
+Algunos de los detenidos tienen antecedentes penales por tráfico de sustancias y armas.
+
+* **Kevin S.,** con antecedentes por asesinato, homicidio, robo, tenencia y porte de armas. Él sería el líder desde el interior de la Penitenciaría.
+* **Pedro S.,** alias ‘Colada’, con antecedentes por tentativa de asesinato, tráfico de drogas, tenencia de arma de fuego, hermano de alias ‘Cholo’. Pedro S. también participaba desde la prisión.
+* **Annabel M.,** alias ‘Tefa’, quien tiene antecedentes por falsificación de documentos y firmas, delincuencia organizada, quien se dedicaba al tráfico de drogas y armas.
+
+Los detenidos son puestos a órdenes de las [autoridades competentes](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador").
+
+> [#IMPORTANTE](https://twitter.com/hashtag/IMPORTANTE?src=hash&ref_src=twsrc%5Etfw) ||  
+>   
+> 9 DETENIDOS DEL GRUPO ARMADO ORGANIZADO 'LOS LOBOS' POR EL DELITO DE DELINCUENCIA ORGANIZADA  
+>   
+> Esta madrugada se ejecutaron 07 allanamientos a inmuebles y en el [#CRS](https://twitter.com/hashtag/CRS?src=hash&ref_src=twsrc%5Etfw) N° 1 en [#GUAYAS](https://twitter.com/hashtag/GUAYAS?src=hash&ref_src=twsrc%5Etfw), en coordinación con [@FiscaliaEcuador](https://twitter.com/FiscaliaEcuador?ref_src=twsrc%5Etfw) y [@HSI\_HQ](https://twitter.com/HSI_HQ?ref_src=twsrc%5Etfw), deteniendo a 09 presuntos… [pic.twitter.com/jYY7huMjej](https://t.co/jYY7huMjej)
 > 
-> [Una publicación compartida por IESS (@iess.ec)](https://www.instagram.com/p/DDj8-DbOUTG/?utm_source=ig_embed&utm_campaign=loading)
+> — Policía Ecuador (@PoliciaEcuador) [December 18, 2024](https://twitter.com/PoliciaEcuador/status/1869400208775246154?ref_src=twsrc%5Etfw)
 
-El detalle de la **pensión mensual** de cada pensionista está registrado en su rol de pago. También se puede descargar en el portal web www.iess.gob.ec/Pensionistas, ingresando con el número de cédula y clave personal.
+Liga de Quito recibió un inesperado saludo por el bicampeonato
+==============================================================
 
-Muchos jubilados y pensionistas del IESS se admiraron de la decisión de cancelar esta décima tercera remuneración el 20 de diciembre, ya que, aseguran, que en años anteriores lo recibían entre el 15 y 16 de diciembre.
+Liga de Quito alcanzó los 13 títulos del campeonato nacional ante Independiente del Valle.
+------------------------------------------------------------------------------------------
 
-Pago de décimos y sueldos de diciembre por parte del Gobierno
--------------------------------------------------------------
+![Lisandro Alzugaray (i) y Bryan Ramírez en el estadio Bellavista de Ambato.](https://www.elcomercio.com/wp-content/uploads/2024/12/saludo_paz_1.jpg)
 
-El ministro de Economía y Finanzas**, Juan Carlos Vega**, aseguró que la situación fiscal del país permite cumplir con los compromisos de sueldos y décimos para diciembre sin inconvenientes. Explicó que, a diferencia del año pasado (2023), cuando la situación era crítica, ahora se cuenta con los recursos necesarios para cubrir las obligaciones.
+**Liga de Quito** es el mejor equipo que tiene el fútbol de Ecuador en los dos últimos años. En el 2023 fue campeón de la Liga Pro y de la Copa Sudamericana, y en el 2024 retuvo el trofeo de la Liga Pro y se convirtió en el primer bicampeón.
 
-En términos específicos, indicó que para **diciembre** se deberán desembolsar aproximadamente 1 600 millones de dólares, que incluyen los sueldos y el pago del décimo tercer sueldo en el sector público.  
-
-Lenin V., vinculado a Los Lobos y procesado en el caso Plaga, fue sentenciado por lavado de activos
-===================================================================================================
-
-Lenin V., vinculado a Los Lobos y procesado en el caso Plaga, obtuvo una sentencia reducida por lavado de activos.
-------------------------------------------------------------------------------------------------------------------
-
-![El abogado Lenin V. está vinculado a Los Lobos y es procesado en el caso Plaga.](https://www.elcomercio.com/wp-content/uploads/2024/12/lenin-v-lobos-plaga.jpg)
-
-El abogado **Lenín V.**, vinculado a **Los Lobos** y procesado en el **caso Plaga**, fue sentenciado por el delito de **lavado de activos**, este martes 17 de diciembre de 2024.
-
-El caso estuvo a cargo del **Tribunal de Garantías Penales Especializado para el Juzgamiento de Delitos Relacionados con Corrupción y Crimen Organizado** de Pichincha.
+Para obtener los dos títulos de la Liga Pro, **Liga de Quito derrotó a Independiente del Valle**. En el 2023 fue en la tanda de penales por un contundente 3-0, y en el 2024 un claro 3-1 en el marcador global.
 
 ### Más noticias:
 
-* [Diana Salazar estuvo presente en la audiencia del caso Plaga](https://www.elcomercio.com/actualidad/seguridad/diana-salazar-estuvo-presente-en-la-audiencia-del-caso-plaga.html)
-* [CJ destituyó a juez que habría favorecido a Los Lobos y está implicado en el caso Plaga](https://www.elcomercio.com/actualidad/seguridad/cj-destituyo-juez-habria-favorecido-los-lobos-vinculado-caso-plaga.html)
+* [Liga de Quito recibió mimos de sus rivales de la Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-quito-felicitaciones-equipo-liga-pro.html "Liga de Quito recibió mimos de sus rivales de la Liga Pro")
+* [Liga](https://www.elcomercio.com/deportes/futbol/liga-quito-titulo-marco-angulo.html "Liga de Quito dedicó el título al fallecido Marco Angulo") [de Quito dedicó el título](https://www.elcomercio.com/deportes/futbol/liga-quito-titulo-marco-angulo.html "Liga de Quito dedicó el título al fallecido Marco Angulo") [al fallecido Marco Angulo](https://www.elcomercio.com/deportes/futbol/liga-quito-titulo-marco-angulo.html "Liga de Quito dedicó el título al fallecido Marco Angulo")
+* [Liga de Quito tuvo apoyo de su afición desde su casa en Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-quito-hinchas-estadio-campeon-ligapro.html "Liga de Quito tuvo apoyo de su afición desde su casa en Liga Pro")
 
-La sentencia contra Lenin V., vinculado a Los Lobos y procesado en el caso Plaga
---------------------------------------------------------------------------------
+Las figuras de Liga de Quito
+----------------------------
 
-Según la **Unidad Antilavado de Activos de Fiscalía**, Lenin V. lideró un grupo delictivo dedicado al **lavado de activos.**
+La temporada de Liga de Quito se dividió en dos etapas claramente diferenciadas. Hasta mayo el proyecto deportivo **estuvo a cargo del [desconocido entrenador español Josep Alcácer](https://www.elcomercio.com/wp-content/uploads/2024/08/ENDRICK-PALMEIRAS-2024-08-06T182226.059.jpg "Josep Alcácer, ex DT de Liga de Quito, ahora como comentarista deportivo en España.")**, un debutante absoluto en el fútbol de Ecuador.
 
-El grupo familiar estaba compuesto también por **Martha V. y Ana M.**.
+Bajo su dirección técnica, Liga perdió el título de la Recopa Sudamericana ante Fluminense de Brasil, quedó eliminado de la fase de grupos de la Copa Sudamericana y perdió todas la opciones de ganar la primera etapa de la Liga Pro.
 
-Los ingresos involucrados en este delito estaban relacionados con actividades ilícitas de una facción del grupo de delincuencia organizada **Los Lobos**, dirigida por **Fabricio C. P..**
+El 23 de mayo, a través de un comunicado oficial, **LDU anunció que el español no era más su director técnico** y entregaba, provisionalmente, el cargo a Patricio Hurtado, autor de uno de los primeros goles en la inauguración del Rodrigo Paz Delgado en marzo de 1997.
 
-El monto total del lavado asciende a **158 412 dólares**, que fueron blanqueados a través de operaciones financieras.
+El 20 de junio se anunció oficialmente a Pablo ‘Vitamina’ Sánchez como el nuevo timonel. El día de su presentación dio un mensaje esperanzador para los hinchas universitarios y secundó el discurso de Isaac Álvarez, presidente de la institución, sobre que el objetivo era ganar un título al final del año.
 
-Adquisición de bienes **muebles e inmuebles, inversiones y viajes** al exterior sin respaldo económico legítimo, entre otras transacciones.
+Con ‘Vitamina’ el rumbo del equipo cambió y fue el protagonista de la Liga Pro, ganó la segunda etapa y luego se proclamó campeón, aunque en el camino **quedó eliminado de la Copa Sudamericana y de la Copa Ecuador.**
 
-Durante la **instrucción fiscal**, Lenin V. se acogió a la figura de cooperación eficaz, proporcionando información que fue corroborada y verificada.
+Jugadores como el boliviano Gabriel Villamil, el chileno Fernando Cornejo, pedido por el argentino, y el paraguayo Álex Arce, goleador del torneo con 28 tantos, tuvieron un segundo semestre con un nivel que destacaba por el resto de sus compañeros.
 
-Esta información derivó en la investigación del **caso Plaga**.
+Una mención especial para **[Bryan Ramírez, la revelación del torneo y uno de los aciertos](https://www.elcomercio.com/deportes/futbol/bryan-ramirez-liga-quito-figura.html "Bryan Ramírez, de descartado a figura de Liga de Quito")** de Sánchez desde que llegó a la conducción técnica de los de la capital de los ecuatorianos.
 
-Por ello, obtuvo una sentencias reducida de **un año y cuatro meses de prisión** como autor del delito de lavado de activos.
+Los festejos por la nueva corona no solo se condesaron en la cancha del estadio de Independiente del Valle, sino que se extendió a otros puntos. La instituciones deportivas no dejaron pasar el momento para saludar y felicitar a los bicampeones.
 
-El Tribunal condenó a Martha V. y Ana M. a **un año de prisión** en calidad de coautoras.
+![API.](https://www.elcomercio.com/wp-content/uploads/2024/12/saludo_paz_2-1024x683.jpg)
 
-Las pruebas contra Lenin V., vinculado a Los Lobos y procesado en el caso Plaga, por lavado de activos
-------------------------------------------------------------------------------------------------------
+API.
 
-En la **audiencia de juzgamiento**, la Fiscal del caso presentó las pruebas que demostraron la responsabilidad y el grado de participación de los imputados.
+Las felicitaciones para Liga
+----------------------------
 
-La pericia de extracción de datos del teléfono celular de Lenin V., que demostró que gestionó **habeas corpus y acciones de protección** con varios funcionarios judiciales, por los cuales recibió depósitos de 10 000 a 25 000 dólares, por trámite.
+Una vez que se concretó el título de Liga en el torneo nacional empezaron a llegar las felicitaciones de parte de otros equipos de la Liga Pro.
 
-Este dinero ingresó al **sistema financiero nacional** como producto de actividades ilícitas ejecutadas por grupos criminales, tanto en Ecuador como en **México**.
+Emelec, **Barcelona Sporting Club, Orense** e Independiente del Valle fueron los equipos que utilizaron sus redes sociales para enviar mensajes a los albos, reconociéndolo como el mejor de la temporada.
 
-Los chats obtenidos en la pericia también evidenciaron que Lenin V. recibió dinero para gestionar una acción constitucional a favor de un **ciudadano** mexicano condenado en **Ecuador** por **tráfico de drogas**.
+Sin embargo, los hinchas de Liga que hacen presencia en X se encargaron de **hacer tendencia e exdirigente Rodrigo Paz**, parte de las institución hasta enero de 2024, pero se alejó una vez que no se renovó el vínculo que lo unía al equipo por intermedio de la Comisión de Fútbol.
 
-El extranjero salió del país tras haber obtenido su **boleta de excarcelación**.
+El saludo de Paz nunca llegó, o al menos no de forma pública y menos en redes sociales, pero Leones FC, nuevo proyecto del referido dirigente, colgó en sus redes sociales un video y dedicó una palabras para los flamantes monarcas.
 
-Además, se identificó una conversación con **Fabricio C. P.**, quien solicitó un certificado laboral y una captura de pantalla de una boleta de excarcelación firmada por un Juez que ya fue sentenciado en el **caso Metástasis.**
+“[¡Salud Bicampeones!](https://x.com/leonesfc_ec/status/1869175981862420582)“, fue el mensaje que estaba **acompañado de un emoticón de dos manos entrelazadas** y que se publicó el 17 de diciembre, tres días después de la consagración..
 
-La Fiscal también expuso pruebas de que varios bienes inmuebles, presuntamente pertenecientes a Lenin V. y Ana M., estaban registrados a nombre de **sus hijos menores de edad**, como una oficina y un departamento en Quito.
+Indirectamente, los hinchas de los blancos **[asociaron esta publicación a Esteban Paz](https://www.elcomercio.com/deportes/esteba-paz-liga-quito-campeon-2024.html "Aficionados recuerdan a Esteban Paz tras título de Liga de Quito")**, que decidió mantenerse en silencio en sus redes sociales, en las que era activo para comentar temas de Liga o de su nuevo equipo.
 
-Además, se identificó un terreno en **Chimborazo**, cuyo registro estaba a nombre de Martha V.
+> ¡Salud Bicampeones [@LDU\_Oficial](https://twitter.com/LDU_Oficial?ref_src=twsrc%5Etfw)! 🤝🦁 [pic.twitter.com/Zx0b9kY3j4](https://t.co/Zx0b9kY3j4)
+> 
+> — Leones FC (@leonesfc\_ec) [December 18, 2024](https://twitter.com/leonesfc_ec/status/1869175981862420582?ref_src=twsrc%5Etfw)
+
+Confesionario – segunda temporada en proceso
+--------------------------------------------
+
+Más de 1000 niños separados de sus padres en la frontera de EE. UU.
+===================================================================
+
+Entre 2017 y 2021, durante la presidencia de Donald Trump, el gobierno de EE. UU. separó a más de 4600 niños de sus padres.
+---------------------------------------------------------------------------------------------------------------------------
+
+![Una familia de migrantes, que incluye a dos niños, espera en la frontera de EE.UU. con México, en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/12/migracion-ninos-frontera-efe.jpg)
+
+Un informe de la **organización Human Rights Watch (HRW),** publicado por IPS Agencia de Noticias, denuncia que más de **1300 niños** que **fueron separados de sus padres** en la frontera de EE. UU. nunca se reunieron con sus familias.
+
+### Más noticias
+
+* [Embajada hizo una aclaración sobre leyes de inmigración a Estados Unidos](https://www.elcomercio.com/actualidad/ecuador/embajada-aclaracion-leyes-inmigracion-estados-unidos.html "Embajada hizo una aclaración sobre leyes de inmigración a Estados Unidos")
+* [La caravana migrante se topa con el bloqueo de las autoridades en el sur de México](https://www.elcomercio.com/actualidad/mundo/caravana-migrante-topa-bloqueo-autoridades-sur-mexico.html "La caravana migrante se topa con el bloqueo de las autoridades en el sur de México")
+* [La caravana migrante se estanca en el sur de México](https://www.elcomercio.com/actualidad/mundo/caravana-migrante-estanca-sur-mexico.html "La caravana migrante se estanca en el sur de México ")
+
+6 años después de la implementación de esta polémica política, los esfuerzos para **reunificar a las familias** aún no son efectivos, y el daño causado persiste, según IPS Agencia de Noticias.
+
+Entre 2017 y 2021, **durante la presidencia de Donald Trump**, el gobierno de EE. UU. separó a más de **4600 niños de sus padres** como parte de un programa diseñado para **disuadir la migración irregular**.
+
+El informe sostiene que esta política constituye una **desaparición forzada** y, en muchos casos, podría ser considerada **tortura según las leyes internacionales.** En varios casos, los padres fueron mantenidos en la ignorancia sobre el paradero de sus hijos. Esto agrava aún más la situación, de acuerdo con IPS Agencia de Noticias.
+
+Falta de justicia y reparación para familias separadas
+------------------------------------------------------
+
+A pesar de que el gobierno de EE. UU. implementó un programa para **reunificar a las familias** a partir de 2018, aún persisten **miles de casos de separación**. Las autoridades fueron acusadas de actuar con la intención de **separar a las familia**s como medida disuasoria, y no como un efecto secundario de la política migratoria, indica IPS Agencia de Noticia.
+
+En respuesta, el informe de HRW y otras organizaciones, como el **Texas Civil Rights Project**, exige rendición de cuentas y una **reparación efectiva** para las víctimas de esta política.
+
+El informe concluye que se necesita una **acción más decidida** para abordar las violaciones graves de derechos humanos.
+
+Un universo Beatle en el cine: Paul Mescal y Sam Mendes buscan revivir la Beatlemanía
+=====================================================================================
+
+Sam Mendes dirigirá ‘biopics’ sobre The Beatles con elenco destacado.
+---------------------------------------------------------------------
+
+![Paul Mescal lidera elenco en ‘biopics’ de The Beatles. Foto: Instagram @thebeatles y de los actores.](https://www.elcomercio.com/wp-content/uploads/2024/12/The-Beatles.jpg)
+
+El anuncio de un nuevo **‘universo Beatle’** ha generado gran expectación en el mundo del cine y la música. **Sony Pictures**  trabaja en la producción de cuatro películas **‘biopics’** sobre la icónica banda The Beatles, dirigidas por el aclamado cineasta **Sam Mendes**, conocido por sus obras premiadas como ‘1917’ y ‘Belleza Americana’, según recoge [Infobae](https://www.infobae.com/entretenimiento/2024/06/06/los-actores-que-podrian-interpretar-a-the-beatles-en-las-peliculas-biograficas/ "https://www.infobae.com/entretenimiento/2024/06/06/los-actores-que-podrian-interpretar-a-the-beatles-en-las-peliculas-biograficas/").  
+
+### Más noticias
+
+* [‘Gladiador 2’ tiene a una estrella con apellido irlandés, porte romano y futuro en Hollywood](https://www.elcomercio.com/tendencias/gladiador-paul-mescal.html "https://www.elcomercio.com/tendencias/gladiador-paul-mescal.html")
+* [The Beatles regresan a los Grammy tras 27 años con un tema que utiliza IA](https://www.elcomercio.com/tendencias/entretenimiento/the-beatles-grammy-regreso-nueva-cancion-inteligencia-artificial.html "https://www.elcomercio.com/tendencias/entretenimiento/the-beatles-grammy-regreso-nueva-cancion-inteligencia-artificial.html")
+
+Este proyecto busca no solo **rendir homenaje a la banda**, sino también **crear un universo narrativo** similar al exitoso **modelo de Marvel**, que ha revolucionado la forma de contar historias en el cine contemporáneo, a decir de [Xataka](https://www.xataka.com/musica/sony-anuncia-universo-cinematico-beatles-modelo-marvel-se-extiende-industria-extremos-insolitos "https://www.xataka.com/musica/sony-anuncia-universo-cinematico-beatles-modelo-marvel-se-extiende-industria-extremos-insolitos").
+
+**Marvel** combina **personajes icónicos** con **historias interconectadas**, humor, acción y efectos visuales impresionantes, para crear un **universo cinematográfico expansivo** que engancha a los fans y genera una gran expectativa por lo que viene a continuación. 
+
+**El elenco que dará vida a las ‘biopics’ de The Beatles**  
+------------------------------------------------------------
+
+Entre los actores de los que se habla, destaca **Paul Mescal**, quien interpretará a **Paul McCartney**. Mescal, conocido por su reciente actuación en ‘Gladiador II’ como Jano, se une a un elenco que incluye a **Harris Dickinson** como **John Lennon** y **Barry Keoghan** como **George Harrison**, siguiendo con la misma fuente.  
+
+La **elección de estos actores** refleja una intención de **conectar con una nueva generación de fanáticos**, al mismo tiempo que se respeta la esencia de los icónicos personajes que interpretan. 
+
+**Un enfoque narrativo innovador** 
+-----------------------------------
+
+La propuesta de Mendes resulta ambiciosa: cada miembro de **The Beatles** tendrá su propia **película individual**. Esto permitirá explorar no solo la música y el legado del grupo, sino también sus **vidas personales** y las dinámicas que los llevaron a convertirse en leyendas, de acuerdo con [Antena 3](https://www.antena3.com/objetivotv/cine/paul-mescal-barry-keoghan-actores-que-interpretaran-beatles-4-peliculas-banda_202406076662f2128fd52100010af7df.html "https://www.antena3.com/objetivotv/cine/paul-mescal-barry-keoghan-actores-que-interpretaran-beatles-4-peliculas-banda_202406076662f2128fd52100010af7df.html"). 
+
+Este **enfoque narrativo** busca satisfacer la demanda actual por **historias más profundas** y complejas, que ofrezcan una visión integral de la banda. 
+
+**La historia y el legado de The Beatles** 
+-------------------------------------------
+
+**The Beatles**, formados en Liverpool en 1960, **revolucionaron la música popular** con su estilo innovador y sus letras poéticas. A lo largo de su carrera, lanzaron álbumes icónicos como ‘Abbey Road’, ‘Sgt. Pepper’s Lonely Hearts Club Band’ y ‘Revolver’, que siguen siendo influyentes en la música actual, a decir de [Biografías y Vidas](https://www.biografiasyvidas.com/biografia/b/beatles.htm "https://www.biografiasyvidas.com/biografia/b/beatles.htm").  
+
+La **beatlemanía** ha perdurado a lo largo de las décadas, y ha mantenido viva la pasión por su música. 
+
+**Producciones destacadas** 
+----------------------------
+
+La historia del **cine relacionado con The Beatles** incluye varios documentales y películas biográficas. Uno de los más conocidos es ‘A Hard Day’s Night’, una **comedia musical** que captura la esencia del grupo durante su apogeo en los años 60. Además, el documental ‘The Beatles: Get Back’, dirigido por **Peter Jackson**, ofrece una mirada íntima a la creación del álbum ‘Let It Be’. Recientemente, la película **‘Yesterday’ (2019)**, dirigida por **Danny Boyle**, aportó un toque fresco de nostalgia hacia la banda. 
+
+**Beatlemanía en Ecuador** 
+---------------------------
+
+La influencia de **The Beatles** se extiende hasta Ecuador, donde su música ha resonado profundamente entre varias generaciones. La visita de **Paul McCartney** al país en 2014 fue un evento histórico que atrajo a miles de fanáticos. Este concierto no solo celebró el legado musical del grupo, sino que también reafirmó el impacto cultural que The Beatles han tenido en todo el mundo. En el país, el ‘fandom’ es sólido; recientemente, se han organizado exposiciones y ferias en honor a la banda. 
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/C72bhD-PAtG/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de Plaza Las Américas (@plazalasamericasec)](https://www.instagram.com/reel/C72bhD-PAtG/?utm_source=ig_embed&utm_campaign=loading)
+
+### Te recomendamos:
+
+Álex Arce nominado a ‘mejor futbolista paraguayo’ de 2024
+=========================================================
+
+Álex Arce jugó en su país en Cerro Porteño, Rubio Ñu y Sportivo Ameliano.
+-------------------------------------------------------------------------
+
+![Álex Arce, jugador de Liga de Quito en el estadio Rodrigo Paz Delgado.](https://www.elcomercio.com/wp-content/uploads/2024/12/arce_votacion_1.jpg)
+
+**Álex Arce** no podrá olvidar el resto de su vida el 2024, el mejor año de su carrera, que ha hecho que equipos de Turquía, México y Brasil estén competiendo para contratarlo para la siguiente temporada.
+
+Los goles de Álex Arce lo convirtieron en el goleador de la Liga, en el campeón de la Liga Pro, **lo hicieron debutar en la Selección de Paraguay**, jugó la Copa América de Estados Unidos y las eliminatorias al Mundial que en el 2026 lo organizarán Canadá, Estados Unidos y México.
+
+### Más noticias:
+
+* [Kendry Páez y Álex Arce finalizan como los más caros de Liga Pro](https://www.elcomercio.com/deportes/kendry-paez-alex-arce-valores-liga-pro.html "Kendry Páez y Álex Arce finalizan como los más caros de Liga Pro")
+* [Agente de Álex Arce no descarta su continuidad en Liga de Quito](https://www.elcomercio.com/deportes/futbol/alex-arce-transferencia-liga-brasil.html "Agente de Álex Arce no descarta su continuidad en Liga de Quito")
+* [Alex Arce, el delantero de Liga de Quito que rompió varios récords](https://www.elcomercio.com/deportes/futbol/alex-arce-delantero-de-liga-de-quito-que-rompio-varios-records.html "Alex Arce, el delantero de Liga de Quito que rompió varios récords")
+
+Álex Arce se revalorizó en Liga
+-------------------------------
+
+Arce fue contratado por **Liga de Quito en febrero de 2024**. La negociación se hizo con Independiente Rivadavia de Argentina. Ahí anotó 28 goles y dio cuatro asistencias en 37 partidos.
+
+Cuando arribó a Ecuador, según Trasnfermarkt, el valor de mercado del delantero **era de un poco más de dos millones de dólares**. Con esa valoración llegó a la Liga Pro y se presentó como un prometedor goleador que venía con una importante racha.
+
+Defendiendo a LDU anotó en la Liga Pro, **Copa Ecuador, Recopa Sudamericana, Copa Libertadores** y Sudamericana, es decir, en todas las competencias que disputó. Fueron 35 goles y cuatro asistencias en 46 presencias.
+
+Sus buenas actuaciones hicieron que su valoración se dispare. El 16 de diciembre el referido sitio especializado hizo una actualización. El paraguayo ahora tiene un **valor de mercado de 5,2 millones de dólares**.
+
+Ese valor lo convierte en el más caro de Liga de Quito, en el segundo de la Liga Pro (Kendry Páez es el primero con 12,5 millones) y en el décimo de Paraguay.
+
+![Instagram del jugador.](https://www.elcomercio.com/wp-content/uploads/2024/12/arce_votacion_2-1024x683.jpg)
+
+Instagram del jugador.
+
+La nominación de Arce
+---------------------
+
+El diario ABC de Paraguay anunció este miércoles 18 de diciembre de 2024 que **Álex Arce es uno de los nominados a “Mejor futbolista paraguayo”** de 2024, galardón que lo organiza el referido medio de comunicación desde 1997.
+
+Nombres ilustres del fútbol de Paraguay como Carlos Gamarra, Roque Santa Cruz, José Saturnino Cardozo, Roberto Acuña, Justo Villar, **Julio dos Santos, Óscar Cardozo, Salvador Cabañas**, Claudio Morel Rodríguez, y Lucas Barrios lo ganaron en su momento.
+
+También lo hicieron Pablo Zeballos, Pablo Aguilar, Ángel Romero, Fernando Fernández, Derlis González, Rodrigo Rojas, Miguel Almirón, Gustavo Gómez y Mathías Villasanti.
+
+En relación al fútbol ecuatoriano, Z**eballos, ganador de 2011, tuvo un breve paso por Emelec** en el primer semestre de 2013, pero no fue el aporte esperado y solo pudo marcar un gol en 19 participaciones.
+
+Arce consta junto a otros 15 candidatos: Miguel Almirón (Newcastle), Gustavo Gómez (Palmeiras), **Omar Alderete (Getafe), Tony Sanabria (Torino)**, Mathías Villasanti (Gremio), Diego Gómez (Inter Miami), Julio Enciso (Brighton) y Junior Fernández (Botafogo).
+
+Óscar Romero (Botafogo), Ramón Sosa (Nottingham Forest), Andrés Cubas (Vancouver Whitecaps), Ángel Romero (Corinthians), **Damián Bobadilla (Sao Paulo), Rodney Redes (Olimpia) y Richard Ortiz (Olimpia)** son todos los nombres nominados.
+
+¿Cómo votar por Arce?
+---------------------
+
+La votación estará habilitada hasta la medianoche del miércoles 25 de diciembre. Entre los participantes habrá el sorteo de una camiseta de la Selección de Paraguay.
+
+[Vota aquí por el goleador de la Liga Pro](https://www.abc.com.py/deportes/futbol/2024/12/18/vota-por-el-mejor-futbolista-paraguayo-del-2024/).
+
+![Instagram del jugador.](https://www.elcomercio.com/wp-content/uploads/2024/12/arce_votacion_3-1024x683.jpg)
+
+Instagram del jugador.
+
+Confesionario – segunda temporada en proceso
+--------------------------------------------
+
+Policía se pronuncia tras muerte de joven en audiencia, en Guayaquil
+====================================================================
+
+Según la Policía, el aprehendido habría realizado una maniobra evasiva que puso en riesgo la vida de los uniformados
+--------------------------------------------------------------------------------------------------------------------
+
+![Imagen referencial. La Policía Nacional realiza operativos de seguridad.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-30.jpg)
+
+Un joven, de 28 años, f**alleció en una sala del Cuartel Modelo** en la audiencia que se realizaba en su contra por el delito de ataque y resistencia, el domingo 15 de diciembre de 2024.
+
+### Más noticias
+
+* [Investigan muerte de joven en plena audiencia por extralimitación policial](https://www.elcomercio.com/actualidad/seguridad/investigan-muerte-joven-audiencia-extralimitacion-policial-guayaquil.html "Investigan muerte de joven en plena audiencia por extralimitación policial")
+* [Conmoción tras la muerte de una mujer en el baño de pizzería, en Guayaquil](https://www.elcomercio.com/actualidad/seguridad/conmocion-tras-muerte-mujer-bano-pizzeria-guayaquil.html "Conmoción tras la muerte de una mujer en el baño de pizzería, en Guayaquil")
+* [Consulado de Ecuador en Bogotá se pronuncia por muerte de niña](https://www.elcomercio.com/actualidad/mundo/consulado-ecuador-bogota-pronuncia-muerte-nina.html "Consulado de Ecuador en Bogotá se pronuncia por muerte de niña")
+
+Las versiones iniciales
+-----------------------
+
+**Hugo Armando Zambrano Alvarado,** de 28 años, tuvo una detención en las afueras del Parque Samanes, en Guayaquil. Supuestamente, los policías lo sorprendieron teniendo relaciones sexuales con su pareja y lo abordaron.
+
+Según los testimonios, el joven, al verse rodeado de policías**, sintió temor** de que se tratara de un secuestro e **intentó huir.**
+
+Luego, los policías le habrían disparado para evitar que huyera y el joven resultó herido en una pierna. Hugo Zambrano perdió sangre hasta que recibió atención médica, cuando lo trasladaron a un hospital. Posteriormente, de inmediato lo trasladaron a la Fiscalía, aún afectado por su herida.
+
+Los uniformados llevaron a Zambrano a su audiencia en el **Cuartel Modelo de Guayaquil,** donde se lo procesaría por el delito de ataque y resistencia a la autoridad. Sin embargo, en plena audiencia, el joven siguió sangrando, se desvaneció y murió.
+
+Sus familiares presentaron la **denuncia en Fiscalía** para que se investigue el caso por presunto abuso policial. **Hugo Zambrano** fue trasladado a su vivienda en Vergeles, en donde la familia levantó una capilla ardiente para velarlo.
+
+La versión de la policía Nacional
+---------------------------------
+
+La Policía Nacional informó, mediante un comunicado**, cómo ocurrieron los hechos.** Según el documento, en la madrugada del sábado 14 de diciembre, los uniformados realizaban un operativo de control en la av. Paseo del Parque, ciudadela Samanes. Esta es una zona identificada por antecedentes de secuestros extorsivos, robos y agresiones.
+
+En este operativo, el personal de Policía del Distrito Modelo **identificó a un vehículo** con dos ocupantes “en actitud sospechosa”.
+
+La Policía señala que, al realizar el control de identificación, “el conductor ignoró las órdenes de detención e **inició una maniobra evasiva** que puso en riesgo la vida de los servidores policiales”.
+
+Ante la amenaza, los uniformados **la neutralizaron en pleno uso legítimo de la fuerza** y procedió con la aprehensión de Hugo Zambrano, “presunto implicado en el delito de ataque y resistencia”.
+
+Durante la intervención policial, se constató que **el detenido tenía una herida** e inmediatamente se lo trasladó a una casa de salud. En el hospital, recibió atención médica y los médicos le dieron el alta, con el certificado médico correspondiente.
+
+Posteriormente fue ingresado al Centro de Aseguramiento Transitorio a cargo de la SNAI, quienes fueron los encargados de su **traslado a la audiencia**.
+
+La Policía Nacional señaló que brindará todas las **facilidades a las investigaciones** que lleva a cabo la Fiscalía en relación a este caso.
+
+> [#COMUNICADO](https://twitter.com/hashtag/COMUNICADO?src=hash&ref_src=twsrc%5Etfw) ||  
+>   
+> Ante el fallecimiento de un aprehendido en la sala de audiencia de [#GYE](https://twitter.com/hashtag/GYE?src=hash&ref_src=twsrc%5Etfw), [#PolicíaEcuador](https://twitter.com/hashtag/Polic%C3%ADaEcuador?src=hash&ref_src=twsrc%5Etfw) informa: [pic.twitter.com/2PnZXxYeiM](https://t.co/2PnZXxYeiM)
+> 
+> — @PolicíaDMGZona8 (@PoliciaDMGZona8) [December 17, 2024](https://twitter.com/PoliciaDMGZona8/status/1869160297094902044?ref_src=twsrc%5Etfw)
+
+Fiscalía investiga el hecho
+---------------------------
+
+La **Fiscalía General del Estado** informó que investiga una **presunta extralimitación** en la ejecución de un acto de servicio.
+
+Esto tras **la muerte de un ciudadano** en una de las salas de **audiencia de la Unidad Judicial C**uartel Modelo, en Guayaquil.
+
+E**l joven falleció** durante la madrugada del [domingo 15 de diciembre.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+
+> [#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw) | [#Guayas](https://twitter.com/hashtag/Guayas?src=hash&ref_src=twsrc%5Etfw): [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw) investiga una presunta [#Extralimitación](https://twitter.com/hashtag/Extralimitaci%C3%B3n?src=hash&ref_src=twsrc%5Etfw) en la ejecución de un acto de servicio, tras la muerte de un ciudadano –la madrugada del domingo 15 de diciembre– en una de la salas de audiencia de la Unidad Judicial Cuartel Modelo, en [#Guayaquil](https://twitter.com/hashtag/Guayaquil?src=hash&ref_src=twsrc%5Etfw). [pic.twitter.com/YtZr39WUiz](https://t.co/YtZr39WUiz)
+> 
+> — Fiscalía Ecuador (@FiscaliaEcuador) [December 16, 2024](https://twitter.com/FiscaliaEcuador/status/1868692149635854550?ref_src=twsrc%5Etfw)
+
+Diana Salazar debe ir a la Asamblea por supuestos chats de Fernando Villavicencio
+=================================================================================
+
+La fiscal Diana Salazar fue convocada a la Comisión de Fiscalización, para este 18 de diciembre.
+------------------------------------------------------------------------------------------------
+
+![Comisión de Fiscalización convocó a Diana Salazar.](https://www.elcomercio.com/wp-content/uploads/2024/12/Ciudadana-de-Seleccion-y-Designacion-de-la-Primera-Autoridad-de-la-Defensoria-Publica-33.jpg)
+
+La fiscal **Diana Salazar** fue convocada por la Comisión de Fiscalización de la **Asamblea Nacional**. La funcionaria debe comparecer a las 15:00 de este miércoles, 18 de diciembre de 2024[.](https://es.wikipedia.org/wiki/Diana_Salazar_M%C3%A9ndez)
+
+La filtración de los supuestos chats del excandidato a la Presidencia, **Fernando Villavicencio**, es la causa del llamado de la delegación legislativa.
+
+### Más noticias
+
+* [Diana Salazar entre las 100 personas más influyentes de 2024, según la revista Time](https://www.elcomercio.com/actualidad/politica/diana-salazar-entre-100-personas-mas-influyentes-2024-time.html "Diana Salazar entre las 100 personas más influyentes de 2024, según la revista Time")
+* [Diana Salazar estuvo presente en el caso Purga este 26 de noviembre](https://www.elcomercio.com/actualidad/seguridad/diana-salazar-estuvo-presente-caso-purga.html "Diana Salazar estuvo presente en el caso Purga este 26 de noviembre")
+* [Colón Pico recibió otra sentencia en su contra ¿Cuáles son el delito y la pena?](https://www.elcomercio.com/actualidad/seguridad/colon-pico-sentencia-delito-pena.html "Colón Pico recibió otra sentencia en su contra ¿Cuáles son el delito y la pena?")
+* [Asambleísta del correísmo hizo un pedido sobre los supuestos chats de Fernando Villavicencio](https://www.elcomercio.com/actualidad/politica/asambleista-correismo-pedido-chats-fernando-villavicencio.html "Asambleísta del correísmo hizo un pedido sobre los supuestos chats de Fernando Villavicencio")
+
+Diana Salazar y Fernando Villavicencio
+--------------------------------------
+
+La fiscal **Diana Salazar** debe responder a la convocatoria de la Comisión en la sesión que está prevista en el salón Tránsito Amaguaña, en el segundo piso del Legislativo.
+
+Lo propio deben hacer el fiscal subrogante, **Wilson Toaínga**; el exdefensor del Pueblo, Freddy Carrión; dos legisladoras de la Revolución Ciudadana; el periodista Andersson Boscán y Priscila Schettini, candidata a la Asamblea.
+
+Pedidos previos de fiscalización de los chats
+---------------------------------------------
+
+La legisladora **Pamela Aguirre**, presidenta de la Comisión de Fiscalización, hizo el llamado. Y ya en noviembre de 2024, la asambleísta Sofía Espín pidió la fiscalización del proceso relacionado con los chats.
+
+Según lo dicho por la Fiscalía, el celular del excandidato se encuentra en cadena de custodia. Por su parte, las hijas de **Fernando Villavicencio**, asesinado en 2023, denunciaron a seis personas por presunta violación a la intimidad.
+
+> [#URGENTE](https://twitter.com/hashtag/URGENTE?src=hash&ref_src=twsrc%5Etfw)| 🚨🚨🚨🚨  
+> Ante la gravedad de la información revelada en los chats del teléfono del ex candidato Presidencial, Fernando Villavicencio, hemos solicitado a la Presidenta de la comisión de [@FiscalizacionAN](https://twitter.com/FiscalizacionAN?ref_src=twsrc%5Etfw), [@pameaguirre1](https://twitter.com/pameaguirre1?ref_src=twsrc%5Etfw), se inicie un inmediato PROCESO DE FISCALIZACIÓN.… [pic.twitter.com/2hqH2WpL9q](https://t.co/2hqH2WpL9q)
+> 
+> — Sofía Espín Reyes (@SofiaEspinRC) [November 25, 2024](https://twitter.com/SofiaEspinRC/status/1861042912072507774?ref_src=twsrc%5Etfw)
+
+La asambleísta Espín argumentó que “ante la gravedad de la información revelada en los chats del teléfono del ex candidato Presidencial, Fernando Villavicencio, hemos solicitado a la Presidenta de la Comisión de Fiscalización, Pamela Aguirre, se inicie un inmediato proceso de fiscalización”.
+
+Respuesta en la Comisión de Fiscalización
+-----------------------------------------
+
+Pamela Aguirre indicó que la **Comisión de Fiscalización** pidió información sobre si **Diana Salazar** se encuentra en Ecuador.
+
+En caso de que la **Fiscal** no esté en el país, la Legisladora agregó que requieren saber el tipo de licencia con la que cuenta. Además, de ser así, conocer quién está a la cabeza de las distintas diligencias.
+
+“La **licencia** no permite seguir a la cabeza de la institución y debería dejar las causas al fiscal subrogante”. Pero, dijo Aguirre, esperan que acuda a la convocatoria.
+
+La presidenta de la delegación, además, se refirió a **Wilson Toaínga**. “De manera irrespetuosa con la Asamblea Nacional, burlándose del primer poder del Estado, ha dicho que no va a comparecer. Tiene que venir, lo volveremos a convocar”.
+
+* * *
+
+¿Cuándo se paga el decimotercer sueldo?
+=======================================
+
+El décimo tercer sueldo es un derecho laboral que debe cumplirse hasta finales de diciembre.
+--------------------------------------------------------------------------------------------
+
+![El décimo tercer sueldo tiene una fecha límite para su pago.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-72-1.jpg)
+
+Los trabajadores en Ecuador tienen derecho a recibir el **decimotercer sueldo**, conocido como bono navideño, como parte de las disposiciones establecidas en el **Código del Trabajo**.
+
+### Más noticias
+
+* [Pago de sueldos y décimos de diciembre estarían asegurados por parte del Gobierno](https://www.elcomercio.com/actualidad/negocios/pago-sueldo-decimos-diciembre-asegurado-gobierno.html "Pago de sueldos y décimos de diciembre estarían asegurados por parte del Gobierno")
+* [Daniel Noboa reducirá Impuesto a la Salida de Divisas](https://www.elcomercio.com/actualidad/politica/daniel-noboa-reduce-impuesto-de-salida-de-divisas.html "Daniel Noboa reducirá Impuesto a la Salida de Divisas")
+* [Gobierno afirma que pagó 2 628 millones de dólares al IESS por deudas en 2024](https://www.elcomercio.com/actualidad/ecuador/gobierno-deuda-iess-pagos-2024.html "Gobierno afirma que pagó 2 628 millones de dólares al IESS por deudas en 2024")
+
+Este pago, equivalente a la **doceava parte de las remuneraciones** percibidas **durante el año calendario**, debe ser realizado por los empleadores hasta el **24 de diciembre** de cada año.
+
+Asimismo, la presentación del formulario correspondiente debe efectuarse hasta el **8 de enero** del año siguiente.
+
+Según lo dispuesto en el **artículo 111 del Código del Trabajo**[,](https://es.wikipedia.org/wiki/C%C3%B3digo_del_Trabajo "https://es.wikipedia.org/wiki/C%C3%B3digo_del_Trabajo") el cálculo de esta remuneración se basa en lo estipulado en el **artículo 95**, el cual establece que se considera como remuneración todo ingreso recibido por el trabajador en **dinero, servicios o especies que tenga carácter habitua**l.
+
+Esto incluye, por ejemplo, i**ngresos por horas extraordinarias, comisiones y participación en beneficios**.
+
+Sin embargo, se excluyen ciertos componentes, como el **porcentaje de utilidades legales, viáticos ocasionales y otros beneficios específicos** que no forman parte del cálculo del decimotercer sueldo.
+
+Sanciones por incumplimiento en el decimotercer sueldo
+------------------------------------------------------
+
+En caso de incumplimiento de las normas laborales, las sanciones están reguladas en el artículo 628 del Código del Trabajo.
+
+Hay dos formas formales de actuar frente al incumplimiento del pago del **decimotercer sueldo**. La primera implica presentar una **queja formal ante el Ministerio de Trabajo**.
+
+Los trabajadores deben completar un formulario para solicitar la emisión de una boleta única de notificación. Con esta se cita al empleador a comparecer ante las **autoridades y explicar las razones** del incumplimiento.
+
+Si el empleador no se presenta o no justifica adecuadamente el impago, las autoridades pueden imponer multas de hasta 20 salarios básicos unificados (SBU), que en 2024 **equivale a $460,** según lo establece el director regional del **Ministerio de Trabajo**.
+
+Adicionalmente, las disposiciones incluyen a los **trabajadores del servicio doméstic**o, quienes también tienen derecho a recibir esta remuneración conforme a las mismas reglas aplicadas al resto de los trabajadores.
+
+Recomendaciones para empleadores y trabajadores
+-----------------------------------------------
+
+Es importante que los empleadores **cumplan con las disposiciones legales** para evitar sanciones y garantizar el bienestar de sus colaboradores.
+
+Por su parte, los trabajadores deben estar informados sobre sus **derechos para exigir el cumplimiento de estos beneficios**. Esto se realiza en particular en una época del año en que el **bono navideño** representa un ingreso significativo para las **familias ecuatorianas**.
+
+El Kremlin dice que asesinato de general ruso prueba que Rusia tiene la razón en Ucrania
+========================================================================================
+
+El Servicio Federal de Seguridad (FSB) de Rusia informó de la detención del autor material del atentado con bomba que mató a Kirílov y su ayudante.
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Vladímir Putin en una fotografía de archivo durante una rueda de prensa.](https://www.elcomercio.com/wp-content/uploads/2024/12/Vladimir-putin-efe-ok-.jpg)
+
+El **Kremlin** aseguró este miércoles, 18 de diciembre de 2024, que el **asesinato ayer en Moscú** del teniente general **Igor Kirillov**, **jefe de la defensa radiológica, química y biológica de Rusia,** prueba que a Moscú le asiste la razón en el **conflicto en Ucrania.**
+
+Más noticias
+------------
+
+* [Ucrania reivindica el asesinato del jefe de la defensa química de Rusia con una bomba oculta](https://www.elcomercio.com/actualidad/mundo/ucrania-reivindica-asesinato-jefe-defensa-quimica-rusia-bomba-oculta.html "https://www.elcomercio.com/actualidad/mundo/ucrania-reivindica-asesinato-jefe-defensa-quimica-rusia-bomba-oculta.html")
+* [La invasión de Ucrania sigue dividiendo a Rusia y Occidente](https://www.elcomercio.com/actualidad/mundo/invasion-ucrania-sigue-dividiendo-rusia-occidente.html "La invasión de Ucrania sigue dividiendo a Rusia y Occidente ")
+* [Zelenski sugiere que podría poner fin a la guerra en Ucrania a cambio de unirse a la OTAN](https://www.elcomercio.com/actualidad/mundo/zelenski-sugiere-podria-poner-fin-guerra-ucrania-cambio-unirse-otan.html "Zelenski sugiere que podría poner fin a la guerra en Ucrania a cambio de unirse a la OTAN")
+
+“Entendemos perfectamente quién es nuestro enemigo y eso (el asesinato de Igor Kirillov) solo demuestra que nos asiste la razón en el marco de la operación militar especial”, dijo el portavoz de la Presidencia rusa, Dmitri Peskov, en su rueda de prensa telefónica diaria.
+
+Agregó que el presidente ruso, [Vladímir Putin](https://es.wikipedia.org/wiki/Vlad%C3%ADmir_Putin "https://es.wikipedia.org/wiki/Vlad%C3%ADmir_Putin"), presentó sus condolencias por la muerte de Igor Kirillov y se congratuló de la buena labor de los servicios secretos rusos.
+
+“En este caso, **nuestros servicios especiales y las fuerzas del orden** trabajaron con eficacia y rapidez”, aseveró.
+
+Horas antes, el **Servicio Federal de Seguridad (FSB)** de Rusia informó de la detención del autor material del atentado con bomba que mató a Igor Kirillov y su ayudante.
+
+Según el comunicado del FSB difundido por las agencias rusas, el detenido es un **ciudadano de Uzbekistán nacido en 1995, cuya identidad no fue revelada,** que confesó ser reclutado por los servicios secretos de Ucrania.
+
+El detenido viajó a Moscú por **encargo de sus patrones**, recibió una artefacto explosivo de alta potencia y lo ocultó en un **patinete eléctrico** que aparcó junto a la entrada del edificio donde vivía Kirílov, añade la nota de prensa.
+
+Para vigilar el domicilio del general, alquiló un coche compartido en el que instaló una cámara de vídeo wifi que transmitía imágenes en **directo a los organizadores del atentado,** situados en la ciudad ucraniana de Dnipró.
+
+El FSB añadió que una vez que el **detenido vio la imagen de los militares saliendo** del portal del edificio detonó a distancia la bomba que mató a Igor Kirillov y a su ayudante.
+
+Al detenido, según el comunicado, los **servicios secretos ucranianos** le prometieron **100 000 dólares** y la posibilidad de instalarse en un país de la Unión Europea.
+
+El Ministerio de Interior agregó a su vez que el **ciudadano uzbeko** fue detenido en una aldea a 30 kilómetros al este de Moscú.
+
+En tanto, el canal de Telegram Baza, considerado **próximo a los servicios especiales rusos**, difundió un vídeo presuntamente del **interrogatorio del ejecutor** del atentado en el que un hombre joven confiesa que fue reclutado por los servicios especiales de **Ucrania para asesinar al general ruso**.
+
+Ecuador registra 16,5% de reducción de crímenes, según Bloque de Seguridad
+==========================================================================
+
+El Ministro de Defensa se refirió a un acuerdo de cooperación internacional que operará en Galápagos para reducir ilícitos
+--------------------------------------------------------------------------------------------------------------------------
+
+![El Bloque de Seguridad informó de los resultados de los operativos de seguridad.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-29.jpg)
+
+El **Bloque de Seguridad** informó sobre los **resultados** de las operaciones realizadas por la Policía Nacional y las Fuerzas Armadas en territorio nacional.
+
+### Más noticias
+
+* [Bloque de Seguridad asegura que hay una reducción del 17% de crímenes en Ecuador](https://www.elcomercio.com/actualidad/seguridad/bloque-de-seguridad-asegura-reduccion-de-crimenes-ecuador.html "Bloque de Seguridad asegura que hay una reducción del 17% de crímenes en Ecuador")
+* [Bloque de Seguridad interviene ciudadelas privadas de la vía a Daule](https://www.elcomercio.com/actualidad/seguridad/bloque-de-seguridad-interviene-ciudadelas-privadas-via-a-daule.html "Bloque de Seguridad interviene ciudadelas privadas de la vía a Daule")
+* [Fiscalía realiza allanamientos por caso Metástasis en dos ciudades](https://www.elcomercio.com/actualidad/seguridad/fiscalia-allanamientos-caso-metastasis-en-dos-ciudades.html "Fiscalía realiza allanamientos por caso Metástasis en dos ciudades")
+
+Resultados obtenidos
+--------------------
+
+El **Bloque de Seguridad** dio una rueda de prensa la mañana de este miércoles 18 de diciembre de 2024 desde la Comandancia General de la Policía, en Quito.
+
+La ministra del Interior, **Mónica Palencia,** inició el informe al señalar que, en un comparativo entre el 1 de enero y el 15 de diciembre de 2023 y el mismo período de 2024, existe una reducción del 16,5% de crímenes intencionales a escala nacional.
+
+Esto es de 7 838 a **6 547 crímenes registrados** por la Policía Nacional.
+
+En cuanto a la **droga decomisad**a, Palencia informó que del 1 de enero al 15 de diciembre de 2024 se decomisaron 282,61 toneladas. Esto es un 29% más en relación con las 219,1 toneladas incautadas en el mismo período de 2023.
+
+**En Quito,** en una comparación entre los mismos períodos, existe una reducción del 14,8% de homicidios intencionales. Esto es 270 a 230 homicidios en 2024.
+
+Así mismo, **en Manta,** luego de la intervención del Bloque de Seguridad dispuesta por el Gobierno de Daniel Noboa, del 6 de junio al 15 de diciembre de 2024, se registra una reducción del 29% en homicidios intencionales.
+
+Mayor equipamiento
+------------------
+
+El ministro de Defensa, **Giancarlo Loffredo,** se refirió a la dotación de equipamiento que reciben las fuerzas del orden por parte del Gobierno. “Mientras más equipados estemos, mejor defenderemos a las familias ecuatorianas”, agregó.
+
+Por ello, se va a realizar la entrega de más de **30 000 cascos y chalecos** de protección balística para los soldados ecuatorianos, quienes están en la primera línea de “esta guerra”.
+
+Este equipamiento es de **tecnología de punta,** con alta resistencia balística y más livianos, lo que hará un uso más confortable para los soldados.
+
+Loffredo señaló que la **Fuerza Aérea inhabilitó una pista clandestina** la semana pasada. Con ello, son 39 pistas las inhabilitadas este año.
+
+Agregó que se ha reforzado el **control en las carreteras del país** y se continuará haciendo registros de viviendas en lugares conflictivos en la provincia de El Oro.
+
+En cuanto a la posibilidad de que **existan embarcaciones militares extranjeras en Galápagos**, señaló que se aprobó un proyecto de cooperación internacional entre las FF.AA. ecuatorianas e internacionales para reducir actividades ilícitas.
+
+Según Víctor Zárate, comandante General de la Policía Nacional, el 83% de los niveles de violencia se concentran en Manabí, Los Rios, Guayas y El Oro.
+
+> 🔴📽️ [#AHORA](https://twitter.com/hashtag/AHORA?src=hash&ref_src=twsrc%5Etfw) ||  
+>   
+> En [#RuedaDePrensa](https://twitter.com/hashtag/RuedaDePrensa?src=hash&ref_src=twsrc%5Etfw) informamos sobre los resultados obtenidos por el [#BloqueDeSeguridad](https://twitter.com/hashtag/BloqueDeSeguridad?src=hash&ref_src=twsrc%5Etfw) en el país.  
+>   
+> Participan: Ministra del Interior, [@Palencia3Monica](https://twitter.com/Palencia3Monica?ref_src=twsrc%5Etfw),  
+> Ministro de Defensa [#GianCarloLoffredo](https://twitter.com/hashtag/GianCarloLoffredo?src=hash&ref_src=twsrc%5Etfw)[@CmdtPoliciaEc](https://twitter.com/CmdtPoliciaEc?ref_src=twsrc%5Etfw)  
+> [#GraDVíctorZárate](https://twitter.com/hashtag/GraDV%C3%ADctorZ%C3%A1rate?src=hash&ref_src=twsrc%5Etfw) y Jefe del Comando Conjunto de… [pic.twitter.com/Y17ZLuNQQz](https://t.co/Y17ZLuNQQz)
+> 
+> — Policía Ecuador (@PoliciaEcuador) [December 18, 2024](https://twitter.com/PoliciaEcuador/status/1869387229413449880?ref_src=twsrc%5Etfw)
+
+Verónica Abad ya tiene fecha para conocer el efecto de su acción de protección
+==============================================================================
+
+Verónica Abad busca revertir su suspensión en audiencia judicial mediante una acción de protección.
+---------------------------------------------------------------------------------------------------
+
+![Verónica Abad en su audiencia de acción de protección este miércoles 18 de diciembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-18T100349.524.jpg)
+
+Este 18 de diciembre de 2024, la **Unidad Judicial Especializada en la Niñez, Familia y Adolescencia**, ubicada al norte de Quito, fue escenario de la continuación de la audiencia de **acción de protección** presentada por la vicepresidenta suspendida, **Verónica Abad.**
+
+### Más noticias
+
+* [Verónica Abad aún no conocerá la decisión de su acción de protección](https://www.elcomercio.com/actualidad/politica/veronica-abad-aun-no-conocera-decision-accion-proteccion-nueva-fecha.html "Verónica Abad aún no conocerá la decisión de su acción de protección")
+* [Verónica Abad tiene tres escenarios para su acción de protección](https://www.elcomercio.com/actualidad/politica/veronica-abad-tiene-tres-escenarios-para-accion-proteccion.html "Verónica Abad tiene tres escenarios para su acción de protección")
+* [Verónica Abad tiene nueva fecha de audiencia sobre su acción de protección](https://www.elcomercio.com/actualidad/politica/veronica-abad-enfrenta-decision-judicial-accion-proteccion.html "Verónica Abad tiene nueva fecha de audiencia sobre su acción de protección")
+
+Bajo estrictas medidas de seguridad, la funcionaria llegó a las instalaciones para buscar revertir la suspensión emitida en su contra por el **Ministerio de Trabajo**.
+
+La **jueza Nubia Vera**, a cargo del caso, suspendió la audiencia para que se incorporaran **documentos relacionados con una acción de protección anterior**. Esta primera acción fue solicitada por Abad cuando el Ministerio de Trabajo inició un sumario administrativo en su contra, aunque en esa ocasión no prosperó.
+
+> [#AHORA](https://twitter.com/hashtag/AHORA?src=hash&ref_src=twsrc%5Etfw) | Se reinstala la audiencia de acción de protección en el caso de la vicepresidenta, Verónica Abad ([@veroniabad](https://twitter.com/veroniabad?ref_src=twsrc%5Etfw)), para proceder a la réplica y contrarréplica de las partes procesales. Aunque la jueza les dio 10 minutos a cada uno, los abogados pidieron 60 minutos, lo que… [pic.twitter.com/yrM16LAcRX](https://t.co/yrM16LAcRX)
+> 
+> — Ecuador Chequea (@ECUADORCHEQUEA) [December 18, 2024](https://twitter.com/ECUADORCHEQUEA/status/1869391727187853774?ref_src=twsrc%5Etfw)
+
+Al arribar este miércoles a la unidad judicial, Verónica Abad expresó su confianza en el sistema judicial ecuatoriano. También manifestó su esperanza de que la jueza emita un fallo apegado a derecho que, según sus palabras, beneficiara no solo a su situación personal, sino también a todos los ecuatorianos.
+
+Verónica Abad y tres escenarios para su acción de protección
+------------------------------------------------------------
+
+Verónica Abad se encuentra en un **proceso legal relacionado con su acción de protección** contra la sanción administrativa impuesta por el Ministerio de Trabajo.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DDp_SkcOAbm/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DDp_SkcOAbm/?utm_source=ig_embed&utm_campaign=loading)
+
+Los tres escenarios, según Esteban Ron, experto en derecho constitucional
+-------------------------------------------------------------------------
+
+1. **Escenario favorable**: Si la jueza falla a favor de Abad, se declararía nulo el sumario administrativo. La sanción quedaría anulada, lo que restituiría a Abad como servidora pública y vicepresidenta. Sin embargo, quedaría pendiente si el presidente Daniel Noboa decide ratificar su delegación como embajadora.
+2. **Escenario intermedio**: La jueza podría optar por declarar una nulidad parcial, es decir, no acatar el procedimiento en su totalidad, sino cuestionar el fondo del asunto. En este caso, podría determinar que la sanción impuesta es desproporcionada y reducir el período de suspensión a menos de 150 días.
+3. **Escenario desfavorable**: Si la acción de protección es negada, la sanción de 150 días se mantendría vigente. En este escenario, ambas partes tendrían la opción de apelar la decisión ante la Corte Provincial.
+
+Inicio de la acción de protección de Verónica Abad
+--------------------------------------------------
+
+La **diligencia se reinstaló cerca de las 09:30**, momento en que la defensa de [Verónica Abad](https://es.wikipedia.org/wiki/Ver%C3%B3nica_Abad "https://es.wikipedia.org/wiki/Ver%C3%B3nica_Abad") y los delegados del Ministerio de Trabajo presentaron sus respectivos argumentos.
+
+Los abogados solicitaron un lapso adicional para exponer sus puntos, aunque la **jueza Vera** estableció un límite de **10 minutos para cada intervención**.
+
+Defensa de Abad insiste en la vulneración de derechos
+-----------------------------------------------------
+
+La defensa de Verónica Abad cuestionó la legalidad de la sanción de 150 días impuesta por el Ministerio de Trabajo, calificándola como una violación a sus derechos políticos.
+
+Dominique Ávila destacó que la Constitución prohíbe que funcionarios sancionen a dignidades elegidas por voto popular. También criticó la exposición del Ministerio, calificándola de confusa y carente de fundamentos legales claros.
+
+Damián Armijos, abogado de Abad, afirmó que el caso refleja una actuación arbitraria e insistió en que se acepte la acción de protección. La defensa reiteró su pedido de capacitación a las autoridades del Ministerio en garantías constitucionales y debido proceso.
+
+Ministerio de Trabajo argumentó la sanción a Verónica Abad
+----------------------------------------------------------
+
+La **ministra de Trabajo, Ivonne Núñez**, defendió la sanción argumentando que se fundamenta en el artículo 42 de la LOSEP, que permite suspensiones por **faltas graves como el abandono injustificado del trabajo**. Sin embargo, **no logró justificar la extensión de 150 días**, lo que generó cuestionamientos de la jueza sobre la legalidad de esta decisión.
+
+La ministra sostuvo que la acción de **protección es improcedente**, afirmando que la sanción responde a la aplicación de normas abiertas. A pesar de ello, la defensa de Abad mantuvo que se vulneró la seguridad jurídica, y la jueza dio paso a la intervención de la vicepresidenta.
+
+Audiencia fue diferida
+----------------------
+
+La **jueza Nubia Vera** indicó que el próximo lunes 23 de diciembre será la última audiencia donde dará a conocer su resolución sobre la acción de protección de Verónica Abad. La **audiencia se realizará a las 11:00** y mencionó que será la última vez que se difiere este proceso.
+
+* * *
+
+Ucrania reivindica el asesinato del jefe de la defensa química de Rusia con una bomba oculta
+============================================================================================
+
+Los investigadores determinaron que el artefacto explosivo, tenía una potencia equivalente a 300 gramos de trilita.
+-------------------------------------------------------------------------------------------------------------------
+
+![Foto de archivo del teniente general Ígor Kirílov, jefe de la defensa radiológica, química y biológica rusa.](https://www.elcomercio.com/wp-content/uploads/2024/12/igor-rusia-efe.jpg)
+
+El teniente general **Igor Kirillov**, **jefe de la defensa radiológica, química y biológica** de Rusia murió el, 17 de diciembre de 2024, en Moscú en un atentado con bomba reivindicado posteriormente por Ucrania.
+
+### Más noticias
+
+* [Ucrania alerta desastre ambiental en el Mar Negro por vertido de petróleo ruso](https://www.elcomercio.com/actualidad/mundo/ucrania-alerta-desastre-ambiental-mar-negro-vertido-petroleo-ruso.html "Ucrania alerta desastre ambiental en el Mar Negro por vertido de petróleo ruso")
+* [La invasión de Ucrania sigue dividiendo a Rusia y Occidente](https://www.elcomercio.com/actualidad/mundo/invasion-ucrania-sigue-dividiendo-rusia-occidente.html "La invasión de Ucrania sigue dividiendo a Rusia y Occidente ")
+* [Rusia fortalece su potencial bélico con la renovación del 95% de su triada nuclear](https://www.elcomercio.com/actualidad/mundo/rusia-fortalece-potencial-belico-renovacion-del-95-de-triada-nuclear.html "Rusia fortalece su potencial bélico con la renovación del 95% de su triada nuclear")
+
+Según el **Comité de Instrucción de Rusia (CIR)**, la bomba se hallaba en un patinete eléctrico que estaba colocado junto al portal de su vivienda y fue accionada cuando **Igor Kirillov**, de 54 años, salía de su domicilio acompañado de su ayudante, que también murió en el atentado.
+
+Los investigadores determinaron que el **artefacto explosivo**, tenía una potencia equivalente a 300 gramos de trilita.
+
+Ucrania reivindica la autoría del asesinato de Kirílov
+------------------------------------------------------
+
+**Igor Kirillov**, al frente de **defensa radiológica, química y biológica** de Rusia desde 2017, ofrecía regularmente comparecencias de prensa en las entre otros asuntos aludía a «**laboratorios biológicos estadounidenses»** en Ucrania.
+
+El teniente general, que ostentaba el **título de Héroe de Rusia**, tenía previsto reunirse hoy con un grupo de periodistas.
+
+Ucrania reivindicó el asesinato el martes, 17 de diciembre de 2024, en Moscú a través de una fuente anónima del **Servicio de Seguridad ucraniano (SBU)** a la agencia pública de noticias **Ukrinform.**
+
+El propio SBU declaró un día antes a ****Igor Kirillov**** sospechoso de **crímenes de guerra** por ordenar el uso de **armas químicas** contra el Ejército ucraniano en el frente.
+
+Según la fuente del SBU contactada por Ukrinform, el atentado es una **operación especial** de ese servicio secreto ucraniano.
+
+Kiev: Kirílov aprobó miles de ataques con armas químicas
+--------------------------------------------------------
+
+En el comunicado sobre su investigación contra **Igor Kirillov**, publicado este lunes, el SBU dice haber documentado más de **4 800 casos** en los que las **fuerzas rusas** utilizaron por orden de este militar armas químicas prohibidas en los **frentes este y sur de Ucrania**.
+
+“En particular hablamos de **granadas de combate K-1**, que están equipadas con irritantes tóxicos”, dice el comunicado, que agrega que el uso de estas sustancias está prohibido por la **legislación internacional**.
+
+El comunicado dice también que más de **2 000 militares ucranianos** sufrieron los efectos del armamento químico utilizado por Rusia. Las fuerzas del Kremlin, añade el texto del SBU, **lanzan las sustancias tóxicas** con drones contra las defensas ucranianas para obligar a las **tropas de Kiev** a abandonar sus posiciones.
+
+“Cuando las granadas con carga química se activan, sus **componentes tóxicos** afectan a las membranas mucosas de la persona, sobre todo en los **ojos y en las vías respiratorias**”, explica el servicio secreto ucraniano.
+
+Kiev reinvindicó de forma directa o indirecta varios **atentados en Rusia** o en los territorios ucranianos ocupados por Rusia contra militares y otras personalidades rusas implicadas en la **agresión militar contra Ucrania.**
+
+Hija de Pastor López, en su lucha contra el cáncer, denuncia ataque con ácido: esto contó
+=========================================================================================
+
+Yarkely López, la hija de Pastor López, ha vivido el cáncer de mama y otras vicisitudes
+---------------------------------------------------------------------------------------
+
+![En el 2023, le detectaron cáncer de seno.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-13-1.jpg)
+
+Hace cinco años, uno de los cantantes más queridos en Colombia y Latinoamérica, **Pástor López**, falleció dejando un legado musical que no solo se recuerda en la época navideña. **Sus hijos han heredado su talento musical,** sin embargo, su hija, Yaykely, ha tenido que pasar por difíciles pruebas en la vida, como el cáncer, y que ha podido ir superando por su entereza.
+
+### Más noticias:
+
+* [Dave Coulier, el tío Joey de ‘Un hogar casi perfecto’, padece cáncer](https://www.elcomercio.com/afull/dave-coulier-cancer-tio-joey-full-house.html "Dave Coulier, el tío Joey de ‘Un hogar casi perfecto’, padece cáncer")
+* [¿Cuál es el cáncer más agresivo? Síntomas tempranos y cómo prevenirlo, según la medicina](https://www.elcomercio.com/tendencias/salud/cancer-agresivo-sintomas-prevenirlo-medicina.html "¿Cuál es el cáncer más agresivo? Síntomas tempranos y cómo prevenirlo, según la medicina")
+* [Entre música y lágrimas, despiden en Cúcuta al ídolo venezolano Pastor López](https://www.elcomercio.com/tendencias/entretenimiento/musica-lagrimas-despiden-pastor-lopez.html "https://www.elcomercio.com/tendencias/entretenimiento/musica-lagrimas-despiden-pastor-lopez.html")
+
+La hija de Pastor López y el cáncer
+-----------------------------------
+
+En el 2023, le fue diagnosticado **cáncer de seno** y por ello ha tenido que someterse a varios tratamientos, entre ellos la **quimioterapia**.
+
+Sin embargo, aunque esta ha sido una prueba que, a pesar de su **fortaleza,** ha sido muy difícil de llevar, el pasado 2 de noviembre de 2024 en Estados Unidos, **Yaykely fue víctima de un ataque premeditado tras recibir múltiples amenazas a inicios del 2024.**
+
+A través de redes sociales, **la hija del cantante venezolano contó que las amenazas** contra su vida iniciaron en febrero del 2024, pero que decidió no darles importancia a las mismas.
+
+“Me mandaban mensajes diciendo que mi madre tendrían que venir a Estados Unidos a recogerme en un ataúd”, contó López, quien también manifestó que el **ataque que recibió** sucedió luego de un accidente en su vehículo.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DCK1KiYx55A/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por Yaykely Lopez (@yaykely.lopez)](https://www.instagram.com/reel/DCK1KiYx55A/?utm_source=ig_embed&utm_campaign=loading)
+
+¿Cómo fue el ataque con ácido?
+------------------------------
+
+Al bajar del carro para verificar cómo había quedado el vehículo después del choque, un hombre bajó del otro automóvil, **la acorraló contra una pared y le arrojó ácido mientras la insultaba**.
+
+En ese momento, la mujer no pensó que sería ácido a pesar de que sentía dolor en la parte de su cuerpo a la que había caído dicha sustancia.
+
+Tuvo la fuerza de volver a su casa, **despojarse** de la **ropa contaminada** y ducharse para de esta forma tratar de minimizar los daños que le causó este líquido en su cuerpo.
+
+Luego, se dirigió al **hospital** y, una vez llegó allí, se desmayó y **permaneció inconsciente** durante algunos días, lo que preocupó a su familia y a sus fans.  
+  
+Los **médicos** tuvieron que actuar rápidamente, pues dicha **sustancia** le ocasionó problemas graves, incluso su corazón se detuvo por un momento, por lo que los galenos le suministraron adrenalina para salvarle la vida.
+
+A pesar de que pudo mejorar y ahora se encuentra bien de salud, ha seguido recibiendo **amenazas**: “Han seguido tomándole fotos a mi familia, incluso dijeron que fueron al **hospital** para intimidarme. **No entiendo por qué me atacan ni qué buscan estas personas”, puntualizó López.**
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/CwMF4YZKa8P/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por Yaykely Lopez (@yaykely.lopez)](https://www.instagram.com/reel/CwMF4YZKa8P/?utm_source=ig_embed&utm_campaign=loading)
+
+Las luchas de Yaykely López, el cáncer de mama
+----------------------------------------------
+
+Además de este **ataque** con **ácido**, **López ha continuado en su lucha contra el cáncer de mama** y a través de sus redes sociales, le ha advertido a sus seguidores que es importante estar alerta ante los perfiles falsos que abundan en redes y que **quieren extorsionar o amenazar.**
+
+Hasta el momento no se conoce desde dónde vienen estas amenazas, pues Yaykely asegura que no tiene enemigos como para que atenten de esta forma contra su vida. Así entonces, transcurre la vida de la hija de [Pastor López](https://es.wikipedia.org/wiki/Pastor_L%C3%B3pez "https://es.wikipedia.org/wiki/Pastor_L%C3%B3pez").
+
+Aitana Bonmatí domina el fútbol femenino hace dos años
+======================================================
+
+Aitana Bonmatí tiene en su palmarés personal haber ganado dos veces el Balón de Oro y el The Best.
+--------------------------------------------------------------------------------------------------
+
+![Aitana Bonmatí con el FC Barcelona en la Champions League Femenina.](https://www.elcomercio.com/wp-content/uploads/2024/12/aitana_the_best_1.jpg)
+
+Aitana Bonmatí tiene 26 años de edad, nació en San Pedro de Ribas en Barcelona y **toda su carrera ha estado vinculada al FC Barcelona**, desde el fútbol base hasta llegar a debutar en el primer plantel con 18 años en el 2016.
+
+Son 10 años de Aitana Bonmatí el el fútbol de élite de España y los **últimos dos años su nombre domina el fútbol femenino de su país** y del mundo, con reconocimientos que la colocan en lo más alto del pedestal deportivo.
+
+### Más noticias:
+
+* [¿Cómo votó Ecuador en los Premios The Best 2024 de la FIFA?](https://www.elcomercio.com/deportes/votos-ecuador-premios-the-best-2024.html "¿Cómo votó Ecuador en los Premios The Best 2024 de la FIFA?")
+* [¿Cómo se vota en los premios The Best y Balón de Oro?](https://www.elcomercio.com/deportes/futbol/como-se-vota-en-los-premios-the-best-balon-de-oro.html "¿Cómo se vota en los premios The Best y Balón de Oro?")
+* [Premios The Best 2024: Estos fueron los ganadores](https://www.elcomercio.com/deportes/premios-the-best-2024-estos-fueron-los-ganadores.html "Premios The Best 2024: Estos fueron los ganadores")
+
+Aitana Bonmatí y su segundo The Best
+------------------------------------
+
+ La española Aitana Bonmatí, centrocampista del Barcelona, fue galardonada el martes 17 de diciembre de 2024 **en Doha con el premio The Best que concede la FIFA** a la mejor jugadora del mundo por segundo año consecutivo.
+
+Bonmatí, que también **recibió hace unas semanas su segundo Balón de Oro**, ganó este año todos los títulos posibles con el conjunto español, entre ellos la Liga de Campeones y la Liga F, así como la Liga de Naciones femenina con la selección española.
+
+“Acabamos de entrenar en Barcelona y [mañana tenemos un gran partido ante el City de Champions](https://aitanabonmati.weboficial.net/PerfilWeb/DetailSeccion/521), muy importante para nosotras”, señaló Aitana en un vídeo que se emitió en la gala en Doha justificando su ausencia.
+
+A continuación recordó **figuras importantes en su día a día para extender su crecimiento** como futbolista y seguir ganando premios individuales como la jugadora del momento.
+
+“Agradecida por un nuevo premio. Es trabajo de equipo, recuerdo la temporada pasada lo conseguimos todo con el, **Barça también la Nations League con la selección.** Fue un gran año, muy difícil de repetir”, destacó.
+
+“Agradecida a toda la gente que me hace ser mejor cada día en el club, al staff, a las compañeras que me hacen ser mejor en el campo siempre. **[Sin ellas no sería la futbolista que soy hoy](https://www.elcomercio.com/deportes/futbol/nayely-bolanos-pumas-debut-brasil.html "Dragonas IDV despidió a Nayely Bolaños con emotivo video").** A por más títulos colectivos que te hacen estar aquí y para mi los más importantes”, sentenció.
+
+![EFE.](https://www.elcomercio.com/wp-content/uploads/2024/12/aitana_the_best_2-1024x683.jpg)
+
+EFE.
+
+El Barça domina el XI ideal
+---------------------------
+
+Las jugadoras del [Barcelona Aita](https://www.fcbarcelona.es/es/#)[n](https://www.fcbarcelona.es/es/#)[a Bonmatí](https://www.fcbarcelona.es/es/#), ganadora de su segundo premio The Best consecutivo, **Irene Paredes, Ona Batlle, Patri Guijarro,** Caroline Graham Hansen y Salma Paralluelo coparon el mejor once de la temporada 2023-24 en los premios The Best de la FIFA.
+
+El Barcelona, ganador la pasada temporada de un póker de títulos, vio reconocida su gran temporada con la presencia de seis de sus futbolistas en el mejor once del año.
+
+Arquera: Alyssa Naeher (Estados Unidos-Chicago Red Stars).
+
+Defensas: Irene Paredes (España-Barcelona), Ona Batlle (España-Barcelona), **Lucy Bronze (Inglaterra – Barcelona/Chelsea)** y Naomi Girma (Estados Unidos-San Diego Wave).
+
+Mediocampistas: **Aitana Bonmati (España-Barcelona)**, Lindsey Horan (Estados Unidos- Olympique de Lyon), Gabi Portilho (Brasil-Corinthians) y Patri Guijarro (España-Barcelona).
+
+Delanteras: **Caroline Graham Hansen (Noruega-Barcelona)** y Salma Paralluelo (España-Barcelona). 
+
+Confesionario – segunda temporada en proceso
+--------------------------------------------
+
+Día del Migrante y en Ecuador una de cada tres personas en movilidad es menor de edad
+=====================================================================================
+
+El flujo migratorio disminuyó, pero el panorama no es más sencillo para quienes salen de Ecuador y otros puntos.
+----------------------------------------------------------------------------------------------------------------
+
+![Migrantes atraviesan rutas con menores de edad.](https://www.elcomercio.com/wp-content/uploads/2024/12/migracion.jpg)
+
+Durante 2024, las cifras de personas en movilidad humana reflejan una disminución de ecuatorianos en tránsito en las rutas centrales para llegar a los **Estados Unidos**. Sin embargo, en el **Día Internacional del Migrante**, hay problemáticas cruciales.
+
+La Selva del Darién es una de las vías más usadas por los viajeros. La Cancillería indicó que el **Servicio Nacional de Migración de Panamá**, en el período de enero a octubre del 2024, detalló una baja del 70% en el flujo de migrantes ecuatorianos. Esa cifra es respecto del mismo período de 2023.
+
+### Más noticias
+
+* [La migración irregular de ecuatorianos disminuyó, según Cancillería](https://www.elcomercio.com/actualidad/ecuador/migracion-irregular-ecuatorianos-disminuyo-segun-cancilleria.html "La migración irregular de ecuatorianos disminuyó, según Cancillería")
+* [Claudia Sheinbaum habló con Donald Trump sobre migración y aranceles](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-hablo-con-donald-trump-sobre-migracion-y-aranceles.html "Claudia Sheinbaum habló con Donald Trump sobre migración y aranceles")
+* [Embajada hizo una aclaración sobre leyes de inmigración a Estados Unidos](https://www.elcomercio.com/actualidad/ecuador/embajada-aclaracion-leyes-inmigracion-estados-unidos.html "Embajada hizo una aclaración sobre leyes de inmigración a Estados Unidos")
+
+> 1 de cada 4 migrantes en América Latina es un niño, niña o adolescente. Muchos viajan solos, enfrentándose a riesgos inimaginables como violencia, abuso y explotación.  
+>   
+> Unicef insta a los gobiernos a garantizar los derechos [#ParaCadaInfancia](https://twitter.com/hashtag/ParaCadaInfancia?src=hash&ref_src=twsrc%5Etfw).[#DíaInternacionalDelMigrante](https://twitter.com/hashtag/D%C3%ADaInternacionalDelMigrante?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/NihEa13lP5](https://t.co/NihEa13lP5)
+> 
+> — UNICEF en español (@unicefenespanol) [December 18, 2024](https://twitter.com/unicefenespanol/status/1869382117731471684?ref_src=twsrc%5Etfw)
+
+Día del Migrante y la realidad de niños y adolescentes
+------------------------------------------------------
+
+En la **migración**, los rostros son variados y los de los menores de edad son los más afectados en las largas travesías.
+
+Unicef reportó que una de cada cuatro personas en movilidad humana en América Latina y el Caribe corresponde a una niña, niño o adolescente. Muchos viajan solos, enfrentándose a riesgos como violencia, abuso y explotación.
+
+Esa es la cifra más alta a escala mundial. Muchos de ellos viajan solos y algunos no llegan a destino. En ese grupo, además de ecuatorianos, hay personas de otras procedencias, como de **Venezuela**.
+
+En **Ecuador**, se estima que una de cada tres personas en movilidad humana es menor de edad.
+
+Unicef, en el marco del Día Internacional del Migrante, este 18 de diciembre de 2024, lanza el documental: ‘**¿Por qué tenemos que pasar por eso? Historias de niñas y niños migrantes en Ecuador**‘.
+
+Realidades latentes sobre migración
+-----------------------------------
+
+Según Cancillería, la **Patrulla Fronteriza de los Estados Unidos** reportó que hay una disminución de ecuatorianos en situación irregular. Esta baja corresponde al 80%, en lo que va del 2024, respecto del pico de 15 921 encuentros registrados en abril de 2024.
+
+En cambio, según el **Instituto Nacional de Migración mexicano**, hay una caída del 35% en la cantidad de ecuatorianos que transitaban en situación irregular por ese país desde marzo de 2024.
+
+Dinámicas de migración ecuatoriana
+----------------------------------
+
+**Santiago Carranco Paredes**, experto en Estudios Internacionales, explicó que, si bien las cifras apuntan a un menor volumen de tránsito, también reflejan la creciente complejidad y peligrosidad de las rutas migratorias.
+
+Lo propio pasa con el impacto de políticas restrictivas tanto en **Panamá como en Estados Unidos**.
+
+El docente universitario agregó que se han fortalecido los controles fronterizos y endurecido las **políticas de deportación**.
+
+Por otra parte, el cierre de pasos críticos, como los utilizados en el **Darién**, obliga a los migrantes ecuatorianos a explorar rutas alternativas.
+
+Las mafias aprovechan la migración
+----------------------------------
+
+Esos caminos incluyen el tránsito por **El Salvador y Guatemala**. Si bien son menos monitoreados, implican altos riesgos debido al control que ejercen **redes criminales**, como las mafias mexicanas.
+
+Las organizaciones transnacionales adaptaron sus operaciones para capturar a los flujos migrantes en las nuevas rutas. Eso aumentan la explotación, el **tráfico de personas** y los costos asociados al tránsito irregular.
+
+**Santiago Carranco Paredes**, además, apunta que la crisis política y económica en Ecuador contribuye a los cambios en la dinámica migratoria[.](https://es.wikipedia.org/wiki/Ecuador)[](https://es.wikipedia.org/wiki/Ecuador)
+
+“La migración no solo debe abordarse desde una perspectiva restrictiva, sino también desde una estrategia regional integral que incluya cooperación internacional y el fortalecimiento de políticas nacionales de desarrollo y estabilidad”.
+
+* * *
