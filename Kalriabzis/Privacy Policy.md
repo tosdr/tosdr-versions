@@ -483,7 +483,7 @@ Az adatkezelő a hatóságok részére – amennyiben a hatóság a pontos célt
   
   
 
-2024.12.17
+2024.12.18
 
 [KALÓRIATÁBLÁZAT](https://kaloriabazis.hu/kaloriatablazat)
 
