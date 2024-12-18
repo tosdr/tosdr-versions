@@ -321,15 +321,16 @@ Advertise
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![BBC Studios and The Walt Disney Company announced the first-ever animated feature film for “Bluey”.](https://static.ffx.io/images/$zoom_0.9819%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_118/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/79e02561c3f66d294f97787661150eabcdbe4033)](https://www.afr.com/life-and-luxury/arts-and-culture/bluey-heads-for-the-big-screens-with-global-release-20241218-p5kzdi)
+[![ ](https://static.ffx.io/images/$zoom_0.5047%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_796%2C$y_206/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/b8f79f4b201f2e59b2c209d4975d4212cd14c261)](https://www.afr.com/life-and-luxury/health-and-wellness/legends-line-up-to-be-the-real-winner-of-the-sydney-to-hobart-20241205-p5kw95)
 
-### [Bluey heads to the big screen in global release](https://www.afr.com/life-and-luxury/arts-and-culture/bluey-heads-for-the-big-screens-with-global-release-20241218-p5kzdi)
+### [Legends line up to be the ‘real’ winner of the Sydney to Hobart](https://www.afr.com/life-and-luxury/health-and-wellness/legends-line-up-to-be-the-real-winner-of-the-sydney-to-hobart-20241205-p5kw95)
 
-* Brooks Barnes
+* 54 mins ago
+* Steve Meacham
 
-* ### [A workaholic’s guide to successfully unwinding on holiday](https://www.afr.com/life-and-luxury/health-and-wellness/a-workaholic-s-guide-to-successfully-unwinding-on-holiday-20241211-p5kxhi)
+* ### [This year’s highs and lows in motoring](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/this-year-s-highs-and-lows-in-motoring-20241204-p5kvtp)
     
-* ### [Hottest new places to dine around the country right now](https://www.afr.com/life-and-luxury/food-and-wine/hottest-new-places-to-dine-around-the-country-right-now-20241210-p5kx7q)
+* ### [Bluey heads to the big screen in global release](https://www.afr.com/life-and-luxury/arts-and-culture/bluey-heads-for-the-big-screens-with-global-release-20241218-p5kzdi)
     
 
 [Rich List](https://www.afr.com/rich-list)
