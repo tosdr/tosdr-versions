@@ -243,6 +243,16 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/12/Ahmod-Johnsonb-326x245.jpg)](https://cwbchicago.com/2024/12/mcdonalds-patrons-tackled-and-beat-an-armed-robber-until-cops-arrived-chicago-police-report-says.html "McDonald’s patrons tackled and beat an armed robber until cops arrived, Chicago police report says")
+
+Austin
+
+### [McDonald’s patrons tackled and beat an armed robber until cops arrived, Chicago police report says](https://cwbchicago.com/2024/12/mcdonalds-patrons-tackled-and-beat-an-armed-robber-until-cops-arrived-chicago-police-report-says.html "McDonald’s patrons tackled and beat an armed robber until cops arrived, Chicago police report says")
+
+[December 15, 2024 7:54 AM](https://cwbchicago.com/2024/12)
+
+A man who robbed a McDonald’s customer at gunpoint on the West Side was hospitalized after the restaurant’s patrons ganged up on him and beat him until Chicago police arrived, officials said. And, prosecutors claim, it was the second time in ten days that the gunman had robbed the same victim inside the same restaurant.[](https://cwbchicago.com/2024/12/mcdonalds-patrons-tackled-and-beat-an-armed-robber-until-cops-arrived-chicago-police-report-says.html "McDonald’s patrons tackled and beat an armed robber until cops arrived, Chicago police report says")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/12/Destin-Young-and-suspects-326x245.jpg)](https://cwbchicago.com/2024/12/woman-was-part-of-five-person-mob-that-mugged-red-line-passengers-prosecutors-claim.html "Woman was part of five-person mob that mugged Red Line passengers, prosecutors claim")
 
 CTA
@@ -262,16 +272,6 @@ West Town
 [December 14, 2024 1:46 PM](https://cwbchicago.com/2024/12)
 
 The decision to carjack a couple at gunpoint because the driver of his car was going too slow and he wanted to get home has landed a Chicago man in federal prison. Naronn Cain, 27, received a sentence of 10 years and 5 months from U.S. District Judge John Blakey upon pleading guilty to carjacking and using a firearm during the commission of a violent crime.[](https://cwbchicago.com/2024/12/10-years-in-federal-prison-for-man-who-carjacked-couple-because-he-needed-to-get-home-quickly.html "10+ years in federal prison for man who carjacked couple because he needed to get home quickly")
-
-[![](https://cwbchicago.com/wp-content/uploads/2023/12/Generic-red-tape-edited-326x245.jpg)](https://cwbchicago.com/2024/12/gunman-opens-fire-on-car-occupied-by-2-off-duty-cops-on-west-side-police-say.html "Gunman opens fire on car occupied by 2 off-duty cops on West Side, police say")
-
-Austin
-
-### [Gunman opens fire on car occupied by 2 off-duty cops on West Side, police say](https://cwbchicago.com/2024/12/gunman-opens-fire-on-car-occupied-by-2-off-duty-cops-on-west-side-police-say.html "Gunman opens fire on car occupied by 2 off-duty cops on West Side, police say")
-
-[December 14, 2024 12:54 PM](https://cwbchicago.com/2024/12)
-
-Chicago police and COPA are investigating a shooting that involved two off-duty CPD officers on the West Side overnight. A 26-year-old man was injured during the incident.[](https://cwbchicago.com/2024/12/gunman-opens-fire-on-car-occupied-by-2-off-duty-cops-on-west-side-police-say.html "Gunman opens fire on car occupied by 2 off-duty cops on West Side, police say")
 
 #### Daily email newsletter
 
