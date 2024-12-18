@@ -153,11 +153,11 @@ Latest reactions
 
 Latest forum posts
 
-* [Fusion-C / printf and other issues..](https://www.msx.org/forum/msx-talk/development/fusion-c-printf-and-other-issues "Fusion-C / printf and other issues..")
-* [Emulation rendering delays](https://www.msx.org/forum/msx-talk/emulation/emulation-rendering-delays "Emulation rendering delays")
 * [Christmas Quiz 2024](https://www.msx.org/forum/msx-talk/off-topic/christmas-quiz-2024?page=18 "Christmas Quiz 2024")
-* [MANBOW 2 on MegaFlashROM SCC 512 (old model of MFR)](https://www.msx.org/forum/msx-talk/general-discussion/manbow-2-on-megaflashrom-scc-512-old-model-of-mfr "MANBOW 2 on MegaFlashROM SCC 512 (old model of MFR)")
+* [Fusion-C / printf and other issues..](https://www.msx.org/forum/msx-talk/development/fusion-c-printf-and-other-issues "Fusion-C / printf and other issues..")
 * [Just for fun: holiday themed headers for MRC](https://www.msx.org/forum/msx-talk/msx-resource-center/just-for-fun-holiday-themed-headers-for-mrc?page=2 "Just for fun: holiday themed headers for MRC")
+* [Emulation rendering delays](https://www.msx.org/forum/msx-talk/emulation/emulation-rendering-delays "Emulation rendering delays")
+* [MANBOW 2 on MegaFlashROM SCC 512 (old model of MFR)](https://www.msx.org/forum/msx-talk/general-discussion/manbow-2-on-megaflashrom-scc-512-old-model-of-mfr "MANBOW 2 on MegaFlashROM SCC 512 (old model of MFR)")
 * [MSX Goa'uld. Turn an MSX into a MSX 2+?](https://www.msx.org/forum/msx-talk/hardware/msx-goauld-turn-an-msx-into-a-msx-2?page=4 "MSX Goa'uld. Turn an MSX into a MSX 2+?")
 * [keyboard connector for Victor HC-9x DSUB 20-pin from mouser](https://www.msx.org/forum/msx-talk/hardware/keyboard-connector-for-victor-hc-9x-dsub-20-pin-from-mouser "keyboard connector for Victor HC-9x DSUB 20-pin from mouser")
 * [Almost half a screen filled with add](https://www.msx.org/forum/msx-talk/msx-resource-center/almost-half-a-screen-filled-with-add "Almost half a screen filled with add")
