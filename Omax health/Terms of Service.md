@@ -1,6 +1,8 @@
-![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)          
+![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)       
 
-Terms & Conditions – Omax Health - Omax Health                                        
+     
+
+Terms & Conditions – Omax Health - Omax Health                                     
 
 FREE U.S. SHIPPING ON ALL ORDERS
 
@@ -301,13 +303,13 @@ Go to product page
 
 ### Let customers speak for us
 
-[3426 reviews](https://omaxhealth.com/pages/reviews)
+[3427 reviews](https://omaxhealth.com/pages/reviews)
 
 [Write a review](#)
 
 91%
 
-(3103)
+(3104)
 
 5%
 
@@ -325,7 +327,17 @@ Go to product page
 
 (54)
 
-2221
+2222
+
+E
+
+[Omax3® Omega 3 Fish Oil | 750 mg](https://omaxhealth.com/products/omax3-ultra-pure#judgeme_product_reviews)
+
+Elizabeth A.A.
+
+**I love this product.**
+
+It helps me with with my joint pay anytime I use it. I stop having been..
 
 J
 
@@ -347,17 +359,5 @@ C. C.
 **This product helps me keep going.**
 
 This roll on is easy and effective in my painful back. Thanks
-
-R
-
-[CryoFreeze® Hemp CBD Roll-On | Regular](https://omaxhealth.com/products/omax-cryofreeze-cbd-roll-on#judgeme_product_reviews)
-
-Renee M.
-
-**CryoFreeze! THE best!**
-
-I started using this for tight muscles and migraines. Now I’m using for sudden onset arthritis in my lower sacrum and hip. It is the only thing that helps! Love this product!
-
-[](https://judgeme.imgix.net/omax-health/1734142336__img_2548__original.png?auto=format)
 
 Load More
