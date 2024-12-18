@@ -196,14 +196,14 @@ Hi
     * BACK
     * [All Products](https://www.smithbrothersfarms.com/all-products)
         
-    * [New! (49)](https://www.smithbrothersfarms.com/featured-products)
+    * [New! (50)](https://www.smithbrothersfarms.com/featured-products)
         
-    * [On Sale (71)](https://www.smithbrothersfarms.com/on-special)
+    * [On Sale (73)](https://www.smithbrothersfarms.com/on-special)
         
-    * [Holiday (39)](https://www.smithbrothersfarms.com/holiday)
+    * [Holiday (38)](https://www.smithbrothersfarms.com/holiday)
         
         * BACK
-        * [Holiday Treats (16)](https://www.smithbrothersfarms.com/holiday-treats)
+        * [Holiday Treats (15)](https://www.smithbrothersfarms.com/holiday-treats)
             
         
     * [Milk & Cream (54)](https://www.smithbrothersfarms.com/milk-cream)
@@ -268,21 +268,21 @@ Hi
         * [Cottage Cheese (2)](https://www.smithbrothersfarms.com/cottage-cheese)
             
         
-    * [Produce (86)](https://www.smithbrothersfarms.com/produce-3)
+    * [Produce (87)](https://www.smithbrothersfarms.com/produce-3)
         
         * BACK
         * [Harvest Box (1)](https://www.smithbrothersfarms.com/bulk-boxes)
             
-        * [Fruit (27)](https://www.smithbrothersfarms.com/fruit)
+        * [Fruit (29)](https://www.smithbrothersfarms.com/fruit)
             
-        * [Vegetables (28)](https://www.smithbrothersfarms.com/vegetables)
+        * [Vegetables (27)](https://www.smithbrothersfarms.com/vegetables)
             
         * [Salad Kits (25)](https://www.smithbrothersfarms.com/salads)
             
         * [Prepared Produce (5)](https://www.smithbrothersfarms.com/prepped)
             
         
-    * [Bakery (102)](https://www.smithbrothersfarms.com/bakery)
+    * [Bakery (101)](https://www.smithbrothersfarms.com/bakery)
         
         * BACK
         * [Bread & Buns (35)](https://www.smithbrothersfarms.com/bread)
@@ -295,7 +295,7 @@ Hi
             
         * [Muffins & Scones (8)](https://www.smithbrothersfarms.com/muffins)
             
-        * [Treats (17)](https://www.smithbrothersfarms.com/desserts)
+        * [Treats (16)](https://www.smithbrothersfarms.com/desserts)
             
         * [Cookies (4)](https://www.smithbrothersfarms.com/cookie)
             
