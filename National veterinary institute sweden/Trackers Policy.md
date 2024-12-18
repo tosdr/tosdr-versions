@@ -1289,6 +1289,7 @@ Gå direkt till :
             * [Säkerhetschef](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/sakerhetschef/)
             * [Sektionschef för IT drift och support](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/sektionschef-for-it-drift-och-support/)
             * [Junior beredskapshandläggare](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/junior-beredskapshandlaggare/)
+            * [Försöksdjursveterinär](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/forsoksdjursveterinar/)
         * [SVA som arbetsplats](https://www.sva.se/om-oss/arbeta-hos-oss/sva-som-arbetsplats/)
         * [Möt våra medarbetare](https://www.sva.se/om-oss/arbeta-hos-oss/mot-vara-medarbetare/)[](#)
             * [Ylva, mikrobiolog](https://www.sva.se/om-oss/arbeta-hos-oss/mot-vara-medarbetare/ylva-mikrobiolog/)
