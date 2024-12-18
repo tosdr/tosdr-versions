@@ -62,7 +62,7 @@
             * [Proprietary Research](https://www.alienvault.com/2024-futures-report)
             * [Blog](https://www.alienvault.com/blogs)
             
-        * [Threat Intelligence Unlock timely, tactical threat intelligence](https://www.alienvault.com/blueapps)
+        * [Threat Intelligence Unlock timely, tactical threat intelligence](https://www.alienvault.com/levelblue-labs)
             
             * [LevelBlue Labs](https://www.alienvault.com/levelblue-labs)
             * [LevelBlue Labs Open Threat Exchange](https://www.alienvault.com/open-threat-exchange)
@@ -165,9 +165,9 @@
             
             Blog: Security Essentials
             
-            ##### LevelBlue SOC Analysts See Sharp Rise in Cyber Threats: Stay Vigilant
+            ##### Celebrating Our Success in 2024
             
-            [Learn more](https://levelblue.com/blogs/security-essentials/levelblue-soc-analysts-see-sharp-rise-in-cyber-threats-stay-vigilant)
+            [Learn more](https://levelblue.com/blogs/security-essentials/celebrating-our-success-in-2024)
             
             [View all Blog posts](https://www.alienvault.com/blogs)
             
@@ -233,7 +233,7 @@ Mitigate Risk & Innovate
 
 * [Consulting Services](https://www.alienvault.com/consulting-services)
 * [Research](https://www.alienvault.com/2024-futures-report)
-* [Threat Intelligence](https://www.alienvault.com/blueapps)
+* [Threat Intelligence](https://www.alienvault.com/levelblue-labs)
 
 [Back to Products & Services](#)
 
@@ -433,13 +433,13 @@ If you have any queries regarding this Cookie Policy please contact us at [cyber
 
 From the Blog
 
-![Dustin Swening and Kenneth Ng](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
+![Theresa Lanowitz](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
 
-#### Dustin Swening and Kenneth Ng
+#### Theresa Lanowitz
 
-Dec 11, 2024
+Dec 17, 2024
 
-### [LevelBlue SOC Analysts See Sharp Rise in Cyber Threats: Stay Vigilant](https://levelblue.com/blogs/security-essentials/levelblue-soc-analysts-see-sharp-rise-in-cyber-threats-stay-vigilant)
+### [Celebrating Our Success in 2024](https://levelblue.com/blogs/security-essentials/celebrating-our-success-in-2024)
 
 [Explore All Blog Posts ›](https://www.alienvault.com/blogs)
 
