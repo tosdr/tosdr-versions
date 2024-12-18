@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
+        
+        #### [Boil orders in the Quad Cities region](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/ed4d3b26-ac2c-4384-b1a3-a8e4579b4604/20241218T042545/ed4d3b26-ac2c-4384-b1a3-a8e4579b4604_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ed4d3b26-ac2c-4384-b1a3-a8e4579b4604/20241218T042545/ed4d3b26-ac2c-4384-b1a3-a8e4579b4604_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/new-scott-county-youth-justice-rehabilitation-center/526-8a3a98f9-2532-45a2-adc8-c7d100b2264b)
         
         #### [Take a look inside the new Scott County Youth Justice and Rehabilitation Center](https://www.wqad.com/article/news/local/public-safety/new-scott-county-youth-justice-rehabilitation-center/526-8a3a98f9-2532-45a2-adc8-c7d100b2264b)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/25b8d99c-f518-42a7-b525-1dd373a4d666/20241218T000434/25b8d99c-f518-42a7-b525-1dd373a4d666_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/25b8d99c-f518-42a7-b525-1dd373a4d666/20241218T000434/25b8d99c-f518-42a7-b525-1dd373a4d666_360x203.jpg)](https://www.wqad.com/article/news/local/moline-i74-bridge-walkway-pedestrian-crash-dot/526-4f1c2d8d-2eca-40cd-9799-1154823f95b5)
-        
-        #### [City of Moline votes on I-74 pedestrian path upgrades following 2022 tragedy](https://www.wqad.com/article/news/local/moline-i74-bridge-walkway-pedestrian-crash-dot/526-4f1c2d8d-2eca-40cd-9799-1154823f95b5)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,9 +56,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/eeba37f6-e90c-4d70-a4fa-51571ad540bd/20241217T231138/eeba37f6-e90c-4d70-a4fa-51571ad540bd_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/eeba37f6-e90c-4d70-a4fa-51571ad540bd/20241217T231138/eeba37f6-e90c-4d70-a4fa-51571ad540bd_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/4c172076-9936-4548-8d80-c7034f9426fb/20241218T105040/4c172076-9936-4548-8d80-c7034f9426fb_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/4c172076-9936-4548-8d80-c7034f9426fb/20241218T105040/4c172076-9936-4548-8d80-c7034f9426fb_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Snow and rain showers tracking through overnight](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Dry, but cooler afternoon](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/CCT/images/ab6d23a8-62f5-4a08-8169-d57b365d4875/20241217T202445/ab6d23a8-62f5-4a08-8169-d57b365d4875_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/ab6d23a8-62f5-4a08-8169-d57b365d4875/20241217T202445/ab6d23a8-62f5-4a08-8169-d57b365d4875_360x203.jpg)](https://www.wqad.com/article/news/nation-world/winter-solstice-2024-northern-hemisphere/507-dc38b5c6-b1b0-4062-87f3-88523eb33351)
         
@@ -97,9 +97,9 @@ Navigation
 
 Davenport, IA »
 
-32°
+30°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
