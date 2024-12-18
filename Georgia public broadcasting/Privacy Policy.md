@@ -275,6 +275,13 @@ Don't Miss:
 
   [![GPB donate icon](/themes/custom/ga_forest/assets/images/icons/donate/donate--blue-bright.svg) ![GPB donate icon](/themes/custom/ga_forest/assets/images/icons/donate/donate--blue-sky.svg)Donate](https://www.gpb.org/give-now "Donate to Georgia Public Broadcasting")
 
+![](/themes/custom/ga_forest/assets/images/icons/alerts/alert-live.svg)
+
+GHSA Football State Championship Private: Prince Avenue Christian vs Hebron Christian at 1 P.M.
+-----------------------------------------------------------------------------------------------
+
+[WATCH LIVE](https://www.gpb.org/sports/football/match/2024/12/18/2024-ghsa-private-football-championship-prince-avenue-christian-vs)
+
 Messages
 --------
 
