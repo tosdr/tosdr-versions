@@ -23,7 +23,7 @@ Kanalübersicht
 
 | Kanal | Impact | Engagement | Follower |
 | --- | --- | --- | --- |
-| [twitch](https://www.twitch.tv/datenschutz)[Datenschutz](https://nindo.de/datenschutz/stats/8ea0e790c6e89435bab21f9a427b0209458c939d) |     |     | 35  |
+| [twitch](https://www.twitch.tv/datenschutz)[Datenschutz](https://nindo.de/datenschutz/stats/8ea0e790c6e89435bab21f9a427b0209458c939d) |     |     | 34  |
 
 * Plattform
 * [Instagram](https://nindo.de/features/instagram)
