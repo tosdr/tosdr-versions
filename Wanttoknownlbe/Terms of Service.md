@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/universum/juni-2011-de-eclectische-eclips-triade/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/hoe-zijn-we-hier-beland-waar-gaat-het-naar-toe/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
