@@ -558,6 +558,7 @@ Return to [All Legal Notices](https://corporatefinanceinstitute.com/about-cfi/le
     * [Financial Services](https://corporatefinanceinstitute.com/cfi-for-teams/for-financial-services/)
     * [Corporate Finance](https://corporatefinanceinstitute.com/cfi-for-teams/for-finance-teams/)
     * [Professional Services](https://corporatefinanceinstitute.com/cfi-for-teams/for-professional-services/)
+    * [For Employers](https://corporatefinanceinstitute.com/for-employers/)
 * [Support](https://help.corporatefinanceinstitute.com/)
     * [Help | FAQ](https://help.corporatefinanceinstitute.com/)
     * [Legal](https://corporatefinanceinstitute.com/about-cfi/legal/)
