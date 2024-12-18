@@ -185,14 +185,14 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 ###### LATEST VIDEO
 
 * [| Christa](https://video.nhpbs.org/video/christa-ygbur1?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Trailer Who I Am Not** | POV](https://video.nhpbs.org/video/trailer-who-i-am-not-jqknnr?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Maui's Deadly Firestorm** | FRONTLINE](https://video.nhpbs.org/video/mauis-deadly-firestorm-znte6u?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Inside Look at Season 5** | Miss Scarlet](https://video.nhpbs.org/video/inside-look-at-season-5-gziowe?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**December 17, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/december-17-2024-pbs-news-hour-full-episode-1734411601?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Why Does Water Taste Different?** | Serving Up Science](https://video.nhpbs.org/video/why-does-water-taste-different-gmtpd6?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Pop Quiz with a Pint** | All Creatures Great and Small](https://video.nhpbs.org/video/pop-quiz-with-a-pint-kft6gs?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Brenda Lee: Rockin' Around (ASL Trailer)** | American Masters](https://video.nhpbs.org/video/brenda-lee-rockin-around-asl-trailer-atb7xw?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Secretary of Energy on Whether Biden's Climate Legacy Will Survive Trump** | Amanpour and Company](https://video.nhpbs.org/video/secretary-of-energy-on-whether-bidens-climate-legacy-will-survive-trump-qmxehp?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**December 16, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/december-16-2024-pbs-news-hour-full-episode-1734325201?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**2024 Hyundai Palisade Night Edition & 2024 GMC Hummer EV SUV** | MotorWeek](https://video.nhpbs.org/video/2024-hyundai-palisade-night-edition-2024-gmc-hummer-ev-suv-s0cni5?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Rising Star Wrestler overcomes tragedy in Wrangell INDIE ALASKA** | Indie Alaska](https://video.nhpbs.org/video/rising-star-wrestler-overcomes-tragedy-in-wrangell-indie-alaska-gsijwe?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Violent Femmes 40th Anniversary with the Milwaukee Symphony Orchestra** | Milwaukee PBS Specials](https://video.nhpbs.org/video/violent-femmes-40th-anniversary-with-the-milwaukee-symphony-orchestra-gvuwzn?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Appraisal: Abraham Lincoln Hinrichs Group, ca. 1930** | Antiques Roadshow](https://video.nhpbs.org/video/appraisal-abraham-lincoln-hinrichs-group-ca-1930-l6nkzh?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
