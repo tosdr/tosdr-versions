@@ -161,7 +161,7 @@
         * [Fighting Cybercrime](https://www.bitdefender.com/en-us/company/defeat-cybercrime) _New_
         * [Customer Success Stories](https://www.bitdefender.com/en-us/business/our-customers)
         * [Industry Recognition and Awards](https://www.bitdefender.com/en-us/business/awards)
-        * [Technology Alliances](https://www.bitdefender.com/en-us/business/technology-alliances)
+        * [Technology Alliances](https://www.bitdefender.com/en-us/technology-alliances/marketplace/)
         * [Certifications](https://www.bitdefender.com/en-us/business/certifications)
         * [Bitdefender Labs and Research](https://www.bitdefender.com/en-us/business/research)
         
@@ -297,6 +297,12 @@
         
         * [Subscriber Protection Platform](https://www.bitdefender.com/en-us/partners/subscriber-protection-platform)
         * [Resources](https://www.bitdefender.com/en-us/partners/subscriber-protection-platform/resources/)
+        
+    * Technology Alliances
+        
+        Technology Alliances
+        
+        * [Technology Alliances Program](https://www.bitdefender.com/en-us/technology-alliances/marketplace/)
         
     
 * [Company](https://www.bitdefender.com/en-us/company/)
