@@ -139,7 +139,7 @@ Please try searching our site or using the menu to find what you’re looking fo
 
 ##### News and Media
 
-[Media Center](https://nrf.com/media-center/press-releases)[NRF Blog](https://nrf.com/blog)[Retail Gets Real Podcast](https://nrf.com/podcast/retail-gets-real-podcast)
+[Media Center](https://nrf.com/media-center/press-releases)[NRF Blog](https://nrf.com/blog)[Retail Gets Real Podcast](https://nrf.com/podcast)
 
 ##### About Us
 
@@ -159,7 +159,7 @@ Please try searching our site or using the menu to find what you’re looking fo
 
 ##### News and Media
 
-[Media Center](https://nrf.com/media-center/press-releases)[NRF Blog](https://nrf.com/blog)[Retail Gets Real Podcast](https://nrf.com/podcast/retail-gets-real-podcast)
+[Media Center](https://nrf.com/media-center/press-releases)[NRF Blog](https://nrf.com/blog)[Retail Gets Real Podcast](https://nrf.com/podcast)
 
 [![NRF Logo](https://a-us.storyblok.com/f/1020215/300x61/dfd396fe44/nrf-logo.svg)](https://nrf.com/)
 
