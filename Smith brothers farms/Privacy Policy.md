@@ -196,7 +196,7 @@ Hi
     * BACK
     * [All Products](https://www.smithbrothersfarms.com/all-products)
         
-    * [New! (52)](https://www.smithbrothersfarms.com/featured-products)
+    * [New! (49)](https://www.smithbrothersfarms.com/featured-products)
         
     * [On Sale (71)](https://www.smithbrothersfarms.com/on-special)
         
