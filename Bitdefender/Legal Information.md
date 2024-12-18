@@ -298,11 +298,11 @@
         * [Subscriber Protection Platform](https://www.bitdefender.com/en-us/partners/subscriber-protection-platform)
         * [Resources](https://www.bitdefender.com/en-us/partners/subscriber-protection-platform/resources/)
         
-    * Technology Alliances
+    * Technology Partners
         
         Technology Alliances
         
-        * [Technology Alliances Program](https://www.bitdefender.com/en-us/technology-alliances/marketplace/)
+        * [Technology Alliance Partner Program](https://www.bitdefender.com/en-us/technology-alliances/marketplace/)
         
     
 * [Company](https://www.bitdefender.com/en-us/company/)
@@ -321,7 +321,7 @@
     * Latest News
         
         * [Newsroom](https://www.bitdefender.com/en-us/news/)
-        * [Blogs](https://www.bitdefender.com/blog/)
+        * [Blogs](https://www.bitdefender.com/en-us/blog/)
         * [Bitdefender Cyberpedia](https://www.bitdefender.com/en-us/cyberpedia/)
         
     * Resources
