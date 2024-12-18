@@ -34,6 +34,8 @@ EAST AFRICA
 
 [Serengeti National Park](https://www.safari.com/destinations/serengeti-national-park)
 
+[Seychelles](https://www.safari.com/destinations/seychelles)
+
 [Tanzania](https://www.safari.com/destinations/tanzania)
 
 [Uganda](https://www.safari.com/destinations/uganda)
@@ -144,6 +146,20 @@ out of 5 based on
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
+> Dec 18, 2024
+
+> First class assistance and extensive knowledge
+
+> First class assistance and advice for booking my dream safari. Dolan was very knowledgeable and extremely attentive, going above and beyond to provide quotes, guidance and advice and all on a public holiday. Would highly recommend.
+
+Peter Borrie
+
+,
+
+ES
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
 > Dec 17, 2024
 
 > Denise was fantastic in helping us…
@@ -249,20 +265,6 @@ US
 > Anja was knowledgeble, patient prompt with her responses to questions and always very helpful. In addition, it was a pleasure working with her. I would recommend her to anyone without any reservation.
 
 Lewis Warren
-
-,
-
-US
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Dec 10, 2024
-
-> Mel du Toit was the perfect person to…
-
-> Mel du Toit was the perfect person to arrange and organize our trip!! She was on the ball, made sure everything was in place and travel arrangements secured! I highly recommend her!!
-
-JUDITH ANN
 
 ,
 
