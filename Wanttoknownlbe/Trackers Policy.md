@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/hoofdartikelen/de-piramide-van-gizeh-monument-van-de-schepping/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/raadsel-opgelost/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
@@ -114,15 +114,15 @@ Posted in [Boeken](https://www.wanttoknow.nl/dossiers/boeken/) Tagged [Corona](h
 
 #### Meelezen, meeleven
 
-![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/olifant-oversterfte-1.jpg?fit=628%2C440&ssl=1)
+![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/materie-geeft-de-geest-banner.jpg?fit=660%2C440&ssl=1)
 
-### [Eerst toch de oorzaak oversterfte boven water??!!](https://www.wanttoknow.nl/inspiratie/meelezen/eerst-toch-de-oorzaak-oversterfte-boven-water/)
+### [Materie geeft de Geest..](https://www.wanttoknow.nl/inspiratie/meelezen/materie-geeft-de-geest/)
 
-by [GuidoJ.](https://www.wanttoknow.nl/author/guido/) Posted on [9 december 2024](https://www.wanttoknow.nl/inspiratie/meelezen/eerst-toch-de-oorzaak-oversterfte-boven-water/)
+by [GuidoJ.](https://www.wanttoknow.nl/author/guido/) Posted on [18 december 2024](https://www.wanttoknow.nl/inspiratie/meelezen/materie-geeft-de-geest/)
 
-[Dat de ’herhaalprik’-campagne tegen corona in volle gang is, is feitelijk bizar. Ruim 1 miljoen mensen die in de rij gaan staan voor een mRNA-injectie, die feitelijk nog NOOIT is geëvalueerd. Medische wetenschappers en gerenommeerde artsen wereldwijd, delen hun diepe, diepe ongerustheid. Zo ook in Nederland, waar het de artsen Jorine Hammink en Felix van der Wissel grote zorgen baart. Voor hen beginnen we bij het begin: “Een belangrijke vraag hangt immers nog altijd boven de markt, namelijk of er een mogelijke link is tussen de aanhoudende oversterfte en de mRNA-corona-injecties?” Hier hun verhaal/column. …](https://www.wanttoknow.nl/inspiratie/meelezen/eerst-toch-de-oorzaak-oversterfte-boven-water/)
+[Het nieuwe boek van Wido Blokland bevat een centrale stelling, die krachtig wordt onderbouwd De stelling dat de fenomenale wereld zoals we die om ons heen zien, ongelooflijk bezield is – ook wat betreft de voor ons zogenaamd ‘dode dingen’, zoals stenen en rots. Harde materie. Deze wereld beslaat daarbij slechts een fractie van een oneindig, schitterend holoversum. Een introductie van het boek ‘Materie geeft de Geest’ (‘Het einde van materie’).. …](https://www.wanttoknow.nl/inspiratie/meelezen/materie-geeft-de-geest/)
 
-Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/meelezen/) [Laat een reactie achter](https://www.wanttoknow.nl/inspiratie/meelezen/eerst-toch-de-oorzaak-oversterfte-boven-water/#respond)
+Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/meelezen/) [Laat een reactie achter](https://www.wanttoknow.nl/inspiratie/meelezen/materie-geeft-de-geest/#respond)
 
 [![Banner Bookshop WantToKnow](https://www.wanttoknow.nl/wp-content/uploads/banner-bookshop-WantToKnow.png)](https://bookshop.wanttoknow.nl/)
 
