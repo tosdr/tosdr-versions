@@ -275,13 +275,6 @@ Don't Miss:
 
   [![GPB donate icon](/themes/custom/ga_forest/assets/images/icons/donate/donate--blue-bright.svg) ![GPB donate icon](/themes/custom/ga_forest/assets/images/icons/donate/donate--blue-sky.svg)Donate](https://www.gpb.org/give-now "Donate to Georgia Public Broadcasting")
 
-![](/themes/custom/ga_forest/assets/images/icons/alerts/alert-live-grey.svg)
-
-GHSA Football State Championship 5A: Hughes vs Milton at Approx. 7:50 P.M.
---------------------------------------------------------------------------
-
-[WATCH LIVE!](https://www.gpb.org/sports/football/match/2024/12/17/2024-ghsa-5a-football-championship-langston-hughes-vs-milton)
-
 Messages
 --------
 
