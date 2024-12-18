@@ -6,11 +6,9 @@ Zur Erinnerung: Sie können Ihr bevorzugtes Land oder Ihre bevorzugte Sprache je
 
 [Klicken Sie hier, um unsere Erklärung zur Barrierefreiheit anzuzeigen](https://de.iherb.com/info/accessibility)
 
-[Marken der Woche bis zu 20% reduziert](https://de.iherb.com/c/brands-of-the-week)
+ [![](https://s3.images-iherb.com/cms/cms-assets/cms-icon/price-tag.png) Jahresschlussverkauf! Bis zu -50% ‌‌](https://de.iherb.com/specials)
 
-[Das beste Preis-Leistungs-Verhältnis](https://de.iherb.com/info/about)
-
-[Geschenkideen](https://de.iherb.com/c/gifts/store)
+ [![](https://s3.images-iherb.com/cms/cms-assets/cms-icon/price-tag.png) \-20% auf Essentials für den Winter](https://de.iherb.com/cl/seasonal-favorites)
 
 [Kostenloser Versand ab 40,00 €](https://de.iherb.com/shipping)
 
@@ -869,8 +867,6 @@ Themenwelten
 
 [Advanced Clinicals](https://de.iherb.com/c/advanced-clinicals)
 
-SALE
-
 [ALLMAX](https://de.iherb.com/c/allmax)
 
 [Beauty of Joseon](https://de.iherb.com/c/beauty-of-joseon)
@@ -880,8 +876,6 @@ SALE
 [Bluebonnet Nutrition](https://de.iherb.com/c/bluebonnet-nutrition)
 
 [Bob's Red Mill](https://de.iherb.com/c/bobs-red-mill)
-
-SALE
 
 [Carlson](https://de.iherb.com/c/carlson)
 
@@ -899,11 +893,11 @@ SALE
 
 [EVLution Nutrition](https://de.iherb.com/c/evlution-nutrition)
 
+SALE
+
 [Fairhaven Health](https://de.iherb.com/c/fairhaven-health)
 
 [Force Factor](https://de.iherb.com/c/force-factor)
-
-SALE
 
 [Frontier Co-Op](https://de.iherb.com/c/frontier-co-op)
 
@@ -937,9 +931,9 @@ SALE
 
 [Natural Factors](https://de.iherb.com/c/natural-factors)
 
-SALE
-
 [Nature's Bounty](https://de.iherb.com/c/nature-s-bounty)
+
+SALE
 
 [Nature's Way](https://de.iherb.com/c/nature-s-way)
 
@@ -952,8 +946,6 @@ SALE
 [NOW Foods](https://de.iherb.com/c/now-foods)
 
 [Nutricost](https://de.iherb.com/c/nutricost)
-
-SALE
 
 [Optimum Nutrition](https://de.iherb.com/c/optimum-nutrition)
 
@@ -982,6 +974,8 @@ SALE
 [Swanson](https://de.iherb.com/c/swanson)
 
 [Thorne](https://de.iherb.com/c/thorne)
+
+SALE
 
 [Trace](https://de.iherb.com/c/trace)
 
@@ -1015,15 +1009,15 @@ iHerb-Marken
 
 Marken der Woche
 
-[![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/brand/logo/NFS/1652391209.png)](https://de.iherb.com/c/natural-factors)
+[![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/brand/logo/THR/1663708953.png)](https://de.iherb.com/c/thorne)
 
-[![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/brand/logo/NCS/1688669797.png)](https://de.iherb.com/c/nutricost)
+[![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/brand/logo/NRT/1657137456.png)](https://de.iherb.com/c/nature-s-bounty)
 
-[![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/brand/logo/HYB/1682447425.png)](https://de.iherb.com/c/hyperbiotics)
+[![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/brand/logo/HAV/1658454720.png)](https://de.iherb.com/c/havasu-nutrition)
 
-[![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/brand/logo/DRA/1733769067.png)](https://de.iherb.com/c/dragon-herbs)
+[![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/brand/logo/TEO/1652231896.png)](https://de.iherb.com/c/terra-origin)
 
-[![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/brand/logo/DVI/1661530917.png)](https://de.iherb.com/c/davinci-laboratories)
+[![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/brand/logo/QUI/1718315093.png)](https://de.iherb.com/c/qualia)
 
 [Alle anzeigen](https://de.iherb.com/c/brands-of-the-week)
 
@@ -1164,14 +1158,6 @@ Wohlbefinden & Pflege
 [Neu](https://de.iherb.com/new-products)
 
 Mehr
-
-[BIS ZU -50% FESTTAGS-SPECIALS
-
-‌‌Jetzt shoppen‌‌](https://de.iherb.com/specials)
-
-[\-20% auf Essentials für den Winter
-
-‌‌Jetzt shoppen‌‌](https://de.iherb.com/cl/seasonal-favorites)
 
       
 
