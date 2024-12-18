@@ -629,8 +629,6 @@ Colombia
 
 Comoros
 
-Congo
-
 Cook Islands
 
 Costa Rica
