@@ -386,17 +386,17 @@ What Customers Are Saying
 
 Based on 307,016 Carpet Cleaning Services Reviews
 
-The black lite test that finds pet fluids **MD.** - Munster, IN - 12/17/2024
-
-(5.0 Out of 5 stars)
-
-I’ve had two different techs, and both were courteous and knowledgeable. They pay attention to any problem areas I point out. The cleaning itself works well, even on high-traffic areas. It uses a lot less water than other companies, so the carpet is damp instead of wet, and it dries much faster. I like being able to schedule everything online, too — the website is user friendly. Oxi Fresh is a good, reliable service company! **RG.** - Johnson City, TN - 12/17/2024
-
-(5.0 Out of 5 stars)
-
-A great job was done **LS.** - Farmville, VA - 12/15/2024
+The carpet looks great! Israel did a good job and he was polite and professional. I was pleased with the service. I was surprised that a tip option was given on the charge ticket. I have never paid a tip for carpet cleaning in over 25 years. I have never even seen this option. It is my opinion that the tip service is presented to customers on ever increasing businesses. Carpet cleaning is expensive anyway and an added 10-20% tip makes it even more expensive. I would rather you up the price of cleaning and pay better wages than expect tips for your employees. Yes, tipping is optional, but it sure makes it awkward when your employee hands you his phone to pay a $750.00 service and tip options start at 15%. So, say I don't tip--do I get less customer service next time? I am a good tipper--I tip servers, hair salons, nail salons, etc. Now carpet cleaning? Just my opinion! **SH.** - Lubbock, TX - 12/17/2024
 
 (4.5 Out of 5 stars)
+
+Aaron was very knowledgeable about your services and professional. **KL.** - Indianapolis, IN - 12/16/2024
+
+(5.0 Out of 5 stars)
+
+**MG.** - Brandywine, MD - 12/16/2024
+
+(5.0 Out of 5 stars)
 
 [MORE REVIEWS](https://www.oxifresh.com/testimonials)
 
