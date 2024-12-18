@@ -798,131 +798,65 @@ Share your details and we’ll contact you shortly to schedule a custom 25-minut
 
 [Schedule a Demo](https://www.ownbackup.com/request-demo)
 
-![](https://cdn.prod.website-files.com/placeholder.svg)
-
-[![own now from salesforce](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/673221582d07245ba1772054_Own-Logo-Vert-White-RGB%20(1).png)](https://www.ownbackup.com/)
+[![own salesforce logo](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/673bb5da854a7c59851f36ea_Own-Logo-Vert-White-RGB.png)](https://www.ownbackup.com/)
 
 [Office: 646.503.5100](tel:6465035100)[info@owndata.com](mailto:info@owndata.com)[Contact Us](https://www.ownbackup.com/contact-us)
 
-[![linkedin](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d39d804ec083617d226fbe_linken.svg)](https://www.linkedin.com/company/owndata/)[![YouTube](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/651654964df69a09d4296c75_youtube.svg)](https://youtube.com/@Own.Company)
-
-[Data Protection Platform](https://www.ownbackup.com/pricing)
-
-[why own](https://www.ownbackup.com/why-own)[Solutions](https://www.ownbackup.com/solutions-overview)[Business Continuity](https://www.ownbackup.com/solutions/ensuring-business-continuity)[Ensuring Compliance](https://www.ownbackup.com/solutions/compliance)[Securing Access](https://www.ownbackup.com/solutions/securing-acccess)[Lifecycle Management](https://www.ownbackup.com/solutions/life-cycle-management)[On-Platform Development](https://www.ownbackup.com/solutions/on-platform-development)[Off-Platform Analytics](https://www.ownbackup.com/solutions/off-platform-analytics)[FedRAMP™](https://www.ownbackup.com/own-for-the-us-federal-government)[Public Sector](https://www.ownbackup.com/public-sector)
-
-Cloud Solutions
-
-[Salesforce](https://www.ownbackup.com/solutions-salesforce)[Microsoft](https://www.ownbackup.com/solutions-microsoft-dynamics)[ServiceNow](https://www.ownbackup.com/solutions-servicenow)[AWS](https://www.ownbackup.com/solutions-aws)[Veeva](https://www.ownbackup.com/solutions-veeva)[nCino](https://www.ownbackup.com/solutions-ncino)
-
-[Products](https://www.ownbackup.com/product-overview)[Backup & Recovery](https://www.ownbackup.com/products-backup-recovery-salesforce)[Data Security](https://www.ownbackup.com/products-data-security)[Data Seeding](https://www.ownbackup.com/products-sandbox-seeding)[Data Archiving](https://www.ownbackup.com/products-data-archiving)[Data Discovery](https://www.ownbackup.com/products-discover)
-
-Resources
-
-[Blog](https://www.ownbackup.com/blog)[Events](https://www.ownbackup.com/events)[On-Demand](https://www.ownbackup.com/resources/on-demand)[eBooks](https://www.ownbackup.com/resources/ebook)[Data Sheets](https://www.ownbackup.com/resources/data-sheets)[All Resources](https://www.ownbackup.com/resources)
-
-**Company**
-
-[About Us](https://www.ownbackup.com/company)[Careers](https://www.ownbackup.com/careers)[Partners](https://www.ownbackup.com/partners)[Newsroom](https://www.ownbackup.com/newsroom)
-
-**Support**
-
-[Knowledge Base](https://support.owndata.com/s/kb)[Call Back Request](https://support.owndata.com/s/call-back-request)[Submit a Ticket](https://support.owndata.com/s/contactsupport)[Support Policy](https://support.owndata.com/s/article/Customer-Support-Policy-52386)[Support & Services](https://www.ownbackup.com/services)
-
-[Pricing](https://www.ownbackup.com/pricing)[Customers](https://www.ownbackup.com/customer-stories)
-
-[Legal](https://www.ownbackup.com/legal)[Privacy Notice](https://www.ownbackup.com/privacy-policy)[Job Applicant Privacy Policy  
-and Notice at Collection](https://www.ownbackup.com/job-applicant-privacy-policy)[SLA](https://www.ownbackup.com/legal/sla)[Terms of Service](https://www.ownbackup.com/terms-of-service)[Trust](https://www.ownbackup.com/trust)[Vulnerability Disclosure Policy](https://www.ownbackup.com/legal/vulnerability-disclosure-policy)[Environmental Policy](https://www.ownbackup.com/legal/environmental-policy)[Supplemental Notice for  
-California Residents](https://www.owndata.com/privacy-policy#Notice-California)[Do Not Sell or Share My  
-Personal Information](#)
-
-© 2024 Own from Salesforce. All rights reserved.
-
-[why own](https://www.ownbackup.com/why-own)
-
-![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/650b45e9adccdb558c34f609_Rectangle%201210.svg)
+[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d39d804ec083617d226fbe_linken.svg)](https://www.linkedin.com/company/owndata/)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d39d6248496dcb9e0fed71_youtube.svg)](https://www.youtube.com/@Own.Company)
 
 Solutions
 
-[Business Continuity](https://www.ownbackup.com/solutions/ensuring-business-continuity)[Ensuring Compliance](https://www.ownbackup.com/solutions/compliance)[Securing Access](https://www.ownbackup.com/solutions/securing-acccess)[Lifecycle Management](https://www.ownbackup.com/solutions/life-cycle-management)[On-Platform Development](https://www.ownbackup.com/solutions/on-platform-development)[Off-Platform Analytics](https://www.ownbackup.com/solutions/off-platform-analytics)[FedRAMP™](https://www.ownbackup.com/own-for-the-us-federal-government)[Public Sector](https://www.ownbackup.com/public-sector)[Solution Overview](https://www.ownbackup.com/solutions-overview)
+[solutions](https://www.ownbackup.com/solutions-overview)![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/675b07e09010c295e7e83aeb_172458_down_arrow_icon.svg)
 
-![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/650b45e9adccdb558c34f609_Rectangle%201210.svg)
+[Solution Overview](https://www.ownbackup.com/solutions-overview)[Business Continuity](https://www.ownbackup.com/solutions/ensuring-business-continuity)[Securing Access](https://www.ownbackup.com/solutions/securing-acccess)[Lifecycle Management](https://www.ownbackup.com/solutions/life-cycle-management)[On-Platform Development](https://www.ownbackup.com/solutions/on-platform-development)[Off-Platform Analytics](https://www.ownbackup.com/solutions/off-platform-analytics)[FedRAMP™](https://www.ownbackup.com/own-for-the-us-federal-government)[Public Sector](https://www.ownbackup.com/public-sector)[Ensuring Compliance](https://www.ownbackup.com/solutions/compliance)
 
-Cloud Solutions
+products
 
-[Salesforce](https://www.ownbackup.com/solutions-salesforce)[Microsoft](https://www.ownbackup.com/solutions-microsoft-dynamics)[ServiceNow](https://www.ownbackup.com/solutions-servicenow)[AWS](https://www.ownbackup.com/solutions-aws)[Veeva](https://www.ownbackup.com/solutions-veeva)[Cino](https://www.ownbackup.com/solutions-ncino)
+[products](https://www.ownbackup.com/product-overview)![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/675b07e09010c295e7e83aeb_172458_down_arrow_icon.svg)
 
-![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/650b45e9adccdb558c34f609_Rectangle%201210.svg)
+[Full Product Overview](https://www.ownbackup.com/product-overview)[Backup & Recovery](https://www.ownbackup.com/products-backup-recovery-salesforce)[Data Seeding](https://www.ownbackup.com/products-sandbox-seeding)[Data Archiving](https://www.ownbackup.com/products-data-archiving)[Data Discovery](https://www.ownbackup.com/products-discover)[Data Security](https://www.ownbackup.com/products-data-security)
 
-Products
+company
 
-[Backup & Recovery](https://www.ownbackup.com/products-backup-recovery-salesforce)[Data Security](https://www.ownbackup.com/products-data-security)[Data Seeding](https://www.ownbackup.com/products-sandbox-seeding)[Data Archiving](https://www.ownbackup.com/products-data-archiving)[Product Overview](https://www.ownbackup.com/product-overview)[Data Discovery](https://www.ownbackup.com/products-discover)
+company
 
-![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/650b45e9adccdb558c34f609_Rectangle%201210.svg)
+![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/675b07e09010c295e7e83aeb_172458_down_arrow_icon.svg)
 
-Resources
+[About Us](https://www.ownbackup.com/company)[Careers](https://www.ownbackup.com/careers)[Partners](https://www.ownbackup.com/partners)[Newsroom](https://www.ownbackup.com/newsroom)
 
-[Blog](https://www.ownbackup.com/blog)[Events](https://www.ownbackup.com/events)[On-Demand](https://www.ownbackup.com/resources/on-demand)[eBooks](https://www.ownbackup.com/resources/ebook)[Data Sheets](https://www.ownbackup.com/resources/data-sheets)[Podcasts](https://www.ownbackup.com/podcast)[All Resources](https://www.ownbackup.com/resources)
+[why own](https://www.ownbackup.com/why-own)[pricing](https://www.ownbackup.com/pricing)[Customers](https://www.ownbackup.com/customer-stories)
 
-![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/650b45e9adccdb558c34f609_Rectangle%201210.svg)
+cloud solutions
 
-COMPANY
+cloud solutions
 
-[About Us](https://www.ownbackup.com/company)[Careers](https://www.ownbackup.com/open-positions)[Partners](https://www.ownbackup.com/partners)[News Room](https://www.ownbackup.com/newsroom)
+![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/675b07e09010c295e7e83aeb_172458_down_arrow_icon.svg)
 
-![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/650b45e9adccdb558c34f609_Rectangle%201210.svg)
+[Salesforce](https://www.ownbackup.com/solutions-salesforce)[Microsoft](https://www.ownbackup.com/solutions-microsoft-dynamics)[ServiceNow](https://www.ownbackup.com/solutions-servicenow)[AWS](https://www.ownbackup.com/solutions-aws)[Veeva](https://www.ownbackup.com/solutions-veeva)[nCino](https://www.ownbackup.com/solutions-ncino)
+
+resources
+
+resources
+
+![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/675b07e09010c295e7e83aeb_172458_down_arrow_icon.svg)
+
+[Blog](https://www.ownbackup.com/blog)[Events](https://www.ownbackup.com/events)[On-Demand](https://www.ownbackup.com/resources/on-demand)[eBooks](https://www.ownbackup.com/resources/ebook)[Data Sheets](https://www.ownbackup.com/resources/data-sheets)[All Resources](https://www.ownbackup.com/resources)
 
 support
 
+support
+
+![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/675b07e09010c295e7e83aeb_172458_down_arrow_icon.svg)
+
 [Knowledge Base](https://support.owndata.com/s/kb)[Call Back Request](https://support.owndata.com/s/call-back-request)[Submit a Ticket](https://support.owndata.com/s/contactsupport)[Support Policy](https://support.owndata.com/s/article/Customer-Support-Policy-52386)[Support & Services](https://www.ownbackup.com/services)
 
-[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/650b45e9adccdb558c34f609_Rectangle%201210.svg)
+legal
 
-CUSTOMERS](https://www.ownbackup.com/customer-stories)[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/650b45e9adccdb558c34f609_Rectangle%201210.svg)
+[legal](https://www.ownbackup.com/legal)![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/675b07e09010c295e7e83aeb_172458_down_arrow_icon.svg)
 
-pricing](https://www.ownbackup.com/pricing)
-
-![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/650b45e9adccdb558c34f609_Rectangle%201210.svg)
-
-Legal
-
-[Legal](https://www.ownbackup.com/legal)[Privacy Notice](https://www.ownbackup.com/privacy-policy)[Job Applicant Privacy Policy and Notice at Collection](https://www.ownbackup.com/job-applicant-privacy-policy)[SLA](https://www.ownbackup.com/legal/sla)[Terms of Service](https://www.ownbackup.com/terms-of-service)[Trust](https://www.ownbackup.com/trust)[Vulnerability Disclosure Policy](https://www.ownbackup.com/legal/vulnerability-disclosure-policy)[Environmental Policy](https://www.ownbackup.com/legal/environmental-policy)
-
-[![linkedin](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d39d804ec083617d226fbe_linken.svg)](https://www.linkedin.com/company/owndata/)[![YouTube](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/651654964df69a09d4296c75_youtube.svg)](https://youtube.com/@Own.Company)
-
-[![own now from salesforce](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/673221582d07245ba1772054_Own-Logo-Vert-White-RGB%20(1).png)](https://www.ownbackup.com/)
-
-[Office: 646.503.5100](tel:6465035100)[info@owndata.com](mailto:info@owndata.com)[Contact Us](https://www.ownbackup.com/contact-us)
+[Legal](https://www.ownbackup.com/legal)[Privacy Notice](https://www.ownbackup.com/privacy-policy)[Job Applicant Privacy Policy  
+and Notice at Collection](https://www.ownbackup.com/job-applicant-privacy-policy)[SLA](https://www.ownbackup.com/legal/sla)[Terms of Service](https://www.ownbackup.com/terms-of-service)[Trust](https://www.ownbackup.com/trust)[Vulnerability Disclosure Policy](https://www.ownbackup.com/legal/vulnerability-disclosure-policy)[Environmental Policy](https://www.ownbackup.com/legal/environmental-policy)[Supplemental Notice for  
+California Residents](https://www.ownbackup.com/privacy-policy#Notice-California)[Do Not Sell or Share My  
+Personal Information](#)
 
 © 2024 Own from Salesforce. All rights reserved.
-
-Cookie Consent
-
-By clicking **“Accept”**, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. View our [Privacy Policy](https://www.ownbackup.com/privacy-policy) for more information.
-
-[![](https://cdn.prod.website-files.com/651997f300514ac070f75ece/651997f300514ac070f75f52_deny-icon3.svg)
-
-Deny](#)[![](https://cdn.prod.website-files.com/651997f300514ac070f75ece/651997f300514ac070f75f51_allow-icon3.svg)
-
-Accept](#)
-
-[Cookie preferences](#)
-
-Privacy Preferences
-
-Essential cookies
-
-Required
-
-Marketing cookies
-
-Essential
-
-Personalization cookies
-
-Essential
-
-Analytics cookies
-
-Essential
-
-[Reject all cookies](#)[Allow all cookies](#)
