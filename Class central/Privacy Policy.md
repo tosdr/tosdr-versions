@@ -412,11 +412,11 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. python
+1. excel
     
-2. excel
+2. web development
     
-3. web development
+3. trading
     
 
 Popular subjects
@@ -427,21 +427,21 @@ Popular subjects
 2. [Communication Skills
     
     4,494 courses](https://www.classcentral.com/subject/communication-skills)
-3. [Cybersecurity
+3. [Python
     
-    17,350 courses](https://www.classcentral.com/subject/cybersecurity)
+    10,534 courses](https://www.classcentral.com/subject/python)
 
 Popular courses
 
-1. [Education for All: Disability, Diversity and Inclusion
+1. [Multilingual Practices: Tackling Challenges and Creating Opportunities
     
-    University of Cape Town](https://www.classcentral.com/course/education-for-all-5664)
-2. [AI and Big Data in Global Health Improvement
+    University of Groningen](https://www.classcentral.com/course/multilingual-practices-8096)
+2. [Introduction to Linux
     
-    Taipei Medical University](https://www.classcentral.com/course/ai-and-big-data-global-health-improvement-17981)
-3. [Learning How to Learn: Powerful mental tools to help you master tough subjects
+    Linux Foundation](https://www.classcentral.com/course/linux-the-linux-foundation-introduction-to-linux-1857)
+3. [Financial Markets
     
-    Deep Teaching Solutions](https://www.classcentral.com/course/learning-how-to-learn-2161)
+    Yale University](https://www.classcentral.com/course/financialmarkets-912)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
