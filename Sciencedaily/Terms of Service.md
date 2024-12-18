@@ -229,6 +229,7 @@ this hour
 
 * * *
 
+* [Redefining Magnetism](https://www.sciencedaily.com/releases/2024/12/241217131006.htm)
 * [Taxi Drivers: Lower Death Rates from Alzheimer's](https://www.sciencedaily.com/releases/2024/12/241216184729.htm)
 * [Prehistoric Rock and Ocean Anoxic Event](https://www.sciencedaily.com/releases/2024/12/241217141022.htm)
 * [Physicists 'Bootstrap' Validity of String Theory](https://www.sciencedaily.com/releases/2024/12/241217141004.htm)
@@ -238,7 +239,6 @@ this hour
 * [Naughty or Nice? Many Parents Rely On Threats](https://www.sciencedaily.com/releases/2024/12/241216130304.htm)
 * [Violence of the Early Bronze Age](https://www.sciencedaily.com/releases/2024/12/241216000434.htm)
 * [Anglerfish's Fishing Rod: Unique Motor Control](https://www.sciencedaily.com/releases/2024/12/241212120224.htm)
-* [Critical Fertilizer Ingredient from Thin Air](https://www.sciencedaily.com/releases/2024/12/241213140619.htm)
 
 Trending Topics
 ---------------
@@ -253,7 +253,7 @@ this week
 
 [Hypertension](https://www.sciencedaily.com/news/health_medicine/hypertension/)
 
-[Urology](https://www.sciencedaily.com/news/health_medicine/urology/)
+[Genes](https://www.sciencedaily.com/news/health_medicine/genes/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
