@@ -20,6 +20,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![MP Neil Coyle in his constituency office](https://southwarknews.co.uk/wp-content/uploads/2023/04/nc-360x180.png)](https://southwarknews.co.uk/area/rotherhithe/i-will-wont-shy-away-from-challenging-southwark-council-or-transport-for-london-writes-mp-neil-coyle/)
+    
+    ### [‘I will won’t shy away from challenging Southwark Council or Transport for London’, writes MP Neil Coyle](https://southwarknews.co.uk/area/rotherhithe/i-will-wont-shy-away-from-challenging-southwark-council-or-transport-for-london-writes-mp-neil-coyle/)
+    
     [![Left to right: Max Fiddimore, Brian Skipper and Valerie all heaped praise on the Poundland on Lordship Lane](https://southwarknews.co.uk/wp-content/uploads/2024/12/Left-to-right-Max-Fiddimore-Brian-Skipper-and-Valerie-all-heaped-praise-on-the-Poundland-on-Lordship-Lane-360x180.png)](https://southwarknews.co.uk/area/dulwich/fig-biscuits-and-budget-bubbly-how-britains-poshest-poundland-shop-proved-a-surprising-success/)
     
     ### [Fig biscuits and budget bubbly: How Britain’s poshest Poundland shop proved a surprising success](https://southwarknews.co.uk/area/dulwich/fig-biscuits-and-budget-bubbly-how-britains-poshest-poundland-shop-proved-a-surprising-success/)
@@ -51,10 +55,6 @@
     [![The Aylesham Centre's central arcade filled with handcart traders](https://southwarknews.co.uk/wp-content/uploads/2024/12/Screenshot-2024-12-14-at-09.44.12-745x560-1-360x180.png)](https://southwarknews.co.uk/featured/berkeley-drops-aylesham-centre-affordable-housing-offer-to-12-per-cent/)
     
     ### [Berkeley drops Aylesham Centre affordable housing offer to 12 per cent](https://southwarknews.co.uk/featured/berkeley-drops-aylesham-centre-affordable-housing-offer-to-12-per-cent/)
-    
-    [![Police would like to speak to the two men pictured in connection with their investigation. Image: BTP](https://southwarknews.co.uk/wp-content/uploads/2024/12/NCA-360x180.jpg)](https://southwarknews.co.uk/area/south-london/police-release-cctv-images-after-alleged-attempted-knife-point-robbery-at-new-cross-station/)
-    
-    ### [Police release CCTV images after alleged attempted knife-point robbery at New Cross station](https://southwarknews.co.uk/area/south-london/police-release-cctv-images-after-alleged-attempted-knife-point-robbery-at-new-cross-station/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +105,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![MP Neil Coyle in his constituency office](https://southwarknews.co.uk/wp-content/uploads/2023/04/nc-360x180.png)](https://southwarknews.co.uk/area/rotherhithe/i-will-wont-shy-away-from-challenging-southwark-council-or-transport-for-london-writes-mp-neil-coyle/)
+    
+    ### [‘I will won’t shy away from challenging Southwark Council or Transport for London’, writes MP Neil Coyle](https://southwarknews.co.uk/area/rotherhithe/i-will-wont-shy-away-from-challenging-southwark-council-or-transport-for-london-writes-mp-neil-coyle/)
+    
     [![Left to right: Max Fiddimore, Brian Skipper and Valerie all heaped praise on the Poundland on Lordship Lane](https://southwarknews.co.uk/wp-content/uploads/2024/12/Left-to-right-Max-Fiddimore-Brian-Skipper-and-Valerie-all-heaped-praise-on-the-Poundland-on-Lordship-Lane-360x180.png)](https://southwarknews.co.uk/area/dulwich/fig-biscuits-and-budget-bubbly-how-britains-poshest-poundland-shop-proved-a-surprising-success/)
     
     ### [Fig biscuits and budget bubbly: How Britain’s poshest Poundland shop proved a surprising success](https://southwarknews.co.uk/area/dulwich/fig-biscuits-and-budget-bubbly-how-britains-poshest-poundland-shop-proved-a-surprising-success/)
@@ -136,10 +140,6 @@ View All Result
     [![The Aylesham Centre's central arcade filled with handcart traders](https://southwarknews.co.uk/wp-content/uploads/2024/12/Screenshot-2024-12-14-at-09.44.12-745x560-1-360x180.png)](https://southwarknews.co.uk/featured/berkeley-drops-aylesham-centre-affordable-housing-offer-to-12-per-cent/)
     
     ### [Berkeley drops Aylesham Centre affordable housing offer to 12 per cent](https://southwarknews.co.uk/featured/berkeley-drops-aylesham-centre-affordable-housing-offer-to-12-per-cent/)
-    
-    [![Police would like to speak to the two men pictured in connection with their investigation. Image: BTP](https://southwarknews.co.uk/wp-content/uploads/2024/12/NCA-360x180.jpg)](https://southwarknews.co.uk/area/south-london/police-release-cctv-images-after-alleged-attempted-knife-point-robbery-at-new-cross-station/)
-    
-    ### [Police release CCTV images after alleged attempted knife-point robbery at New Cross station](https://southwarknews.co.uk/area/south-london/police-release-cctv-images-after-alleged-attempted-knife-point-robbery-at-new-cross-station/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -201,12 +201,6 @@ This site uses cookies – small text files that are placed on your machine to h
 
 ### Popular Articles
 
-[![The Den. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/12/BAT_4985-2024-11-24T14_41_49.581-120x86.webp)](https://southwarknews.co.uk/sport/football/millwall/mourinho-jokingly-rules-out-becoming-next-millwall-boss-but-surprise-name-among-favourites-to-succeed-harris/)
-
-### [Mourinho jokingly rules out becoming next Millwall boss – but surprise name among favourites to succeed Harris](https://southwarknews.co.uk/sport/football/millwall/mourinho-jokingly-rules-out-becoming-next-millwall-boss-but-surprise-name-among-favourites-to-succeed-harris/)
-
-[11th December 2024](https://southwarknews.co.uk/sport/football/millwall/mourinho-jokingly-rules-out-becoming-next-millwall-boss-but-surprise-name-among-favourites-to-succeed-harris/)
-
 [![Neil Harris speaks to the press. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/12/N-Harris-press-Boro-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/neil-harris-reveals-his-plans-after-stepping-down-as-millwall-head-coach-and-southend-united-are-part-of-them/)
 
 ### [Neil Harris reveals his plans after stepping down as Millwall head coach](https://southwarknews.co.uk/sport/football/millwall/neil-harris-reveals-his-plans-after-stepping-down-as-millwall-head-coach-and-southend-united-are-part-of-them/)
@@ -236,6 +230,12 @@ This site uses cookies – small text files that are placed on your machine to h
 ### [Millwall’s head coach search: clean slate, out-of-contract players, Esse – and was Harris making point not starting ‘club’ signing?](https://southwarknews.co.uk/sport/football/millwall/news-at-den-plus/millwalls-head-coach-search-clean-slate-out-of-contract-players-esse-and-was-harris-making-point-not-starting-club-signing/)
 
 [13th December 2024](https://southwarknews.co.uk/sport/football/millwall/news-at-den-plus/millwalls-head-coach-search-clean-slate-out-of-contract-players-esse-and-was-harris-making-point-not-starting-club-signing/)
+
+[![David Livermore made 302 appearances for Millwall. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/05/D-Livermore-9129282-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/millwall-confirm-caretaker-plans-after-harris-departure/)
+
+### [Millwall confirm caretaker plans after Harris departure](https://southwarknews.co.uk/sport/football/millwall/millwall-confirm-caretaker-plans-after-harris-departure/)
+
+[16th December 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-confirm-caretaker-plans-after-harris-departure/)
 
 ### Featured Articles
 
