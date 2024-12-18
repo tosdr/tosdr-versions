@@ -1,9 +1,5 @@
 [Skip to content](#content)
 
-[![](https://assets.noviams.com/novi-file-uploads/wmfha/Graphics/POP_UP_GRAPHIC.png)](https://www.wmfha.org/products/)
-
-ACKNOWLEDGE
-
 [Cart](https://www.wmfha.org/products/checkout) [Join](#join-modal) [Login](https://www.wmfha.org/login)
 
 [![ Washington Multi-Family Housing Association Logo](https://assets.noviams.com/novi-file-uploads/wmfha/structure/untitled-design-3.png)](https://www.wmfha.org/)
