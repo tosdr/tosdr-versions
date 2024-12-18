@@ -43,6 +43,11 @@
     
     [See All](https://www.coolthings.com/gear/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-ergonomic-seat-cushions-for-more-comfortable-workdays/)
+    
+    [The Best Ergonomic Seat Cushions for More Comfortable Workdays](https://www.coolthings.com/the-best-ergonomic-seat-cushions-for-more-comfortable-workdays/)
+    ------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/imalent-ld35-1200-lumen-edc-flashlight-wireless-charging-case-triple-battery-life/)
     
     [Imalent LD35 EDC Flashlight Comes with a Charging Case to Triple Its Battery Life](https://www.coolthings.com/imalent-ld35-1200-lumen-edc-flashlight-wireless-charging-case-triple-battery-life/)
@@ -52,11 +57,6 @@
     
     [The Best Photography Gifts for Pros and Enthusiasts Alike](https://www.coolthings.com/the-best-photography-gifts-for-pros-and-enthusiasts-alike/)
     --------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/nike-elite-easyon-backpack-paris-2024-paralympic-games-accessibility-features/)
-    
-    [Nike Elite EasyOn Backpack Thoughtfully Redesigns the Backpack with Accessibility in Mind](https://www.coolthings.com/nike-elite-easyon-backpack-paris-2024-paralympic-games-accessibility-features/)
-    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
     * [OUTDOOR GEAR](http://www.coolthings.com/tag/outdoor-gear/)
     * [CAMPING GEAR](http://www.coolthings.com/tag/camping-gear/)
@@ -95,6 +95,11 @@
     
     [See All](https://www.coolthings.com/house/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-ergonomic-seat-cushions-for-more-comfortable-workdays/)
+    
+    [The Best Ergonomic Seat Cushions for More Comfortable Workdays](https://www.coolthings.com/the-best-ergonomic-seat-cushions-for-more-comfortable-workdays/)
+    ------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-smart-thermostats-for-more-energy-efficient-heating-and-cooling/)
     
     [The Best Smart Thermostats for More Energy-Efficient Heating and Cooling](https://www.coolthings.com/the-best-smart-thermostats-for-more-energy-efficient-heating-and-cooling/)
@@ -104,11 +109,6 @@
     
     [The Best Robot Vacuum Mop Combos to Automate All Your Wet and Dry Cleaning Needs](https://www.coolthings.com/the-best-robot-vacuum-mop-combos-to-automate-all-your-wet-and-dry-cleaning-needs/)
     ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-smart-christmas-lights-to-give-your-home-that-festive-holiday-feel/)
-    
-    [The Best Smart Christmas Lights to Give Your Home That Festive Holiday Feel](https://www.coolthings.com/the-best-smart-christmas-lights-to-give-your-home-that-festive-holiday-feel/)
-    --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
     * [FURNITURE](https://www.coolthings.com/house/furniture/)
     * [KITCHEN](https://www.coolthings.com/kitchen-dining/)
