@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/arend-zeevat/splitsing-en-heling-van-het-hoofd-naar-het-hart/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/justitieel-onderzoek-von-der-leyen-en-haar-eu-partij/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
