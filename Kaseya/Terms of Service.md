@@ -414,11 +414,11 @@ Kaseya DattoCon Announcements - Release of Kaseya 365 User & Acquisition of SaaS
     
     Upcoming Events
     
-    ![](https://www.kaseya.com/wp-content/uploads/2024/12/VSA_Webinar-Take-Control-300x200.jpg)
+    ![](https://www.kaseya.com/wp-content/uploads/2024/12/VSA_Webinar-Preparing-1200x800-px-300x200.jpg)
     
-    Take Control: VSA’s Advanced Policy Management for IT Pros
+    Prepare Your IT Environment for 2025 With VSA
     
-    December 17
+    December 19
     
     [View All Events](https://www.kaseya.com/events/)
     
