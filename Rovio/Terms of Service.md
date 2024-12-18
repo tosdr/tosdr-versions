@@ -34,6 +34,7 @@ Close panel
 * [Support](https://www.rovio.com/support/)
 * [Advertise with Rovio](https://www.rovio.com/rovio-ads/)
 * [For Parents](https://roviosupport.helpshift.com/hc/en/5-rovio-entertainment/section/14-rovio-for-parents/)
+* [Investor Archive](https://www.rovio.com/investor-archive/)
 
 Follow us
 
@@ -317,6 +318,7 @@ Teams Powered, Games Driven, Fan Fueled. Teams Powered, Games Driven, Fan Fuele
 * [Support](https://www.rovio.com/support/)
 * [Advertise with Rovio](https://www.rovio.com/rovio-ads/)
 * [For Parents](https://roviosupport.helpshift.com/hc/en/5-rovio-entertainment/section/14-rovio-for-parents/)
+* [Investor Archive](https://www.rovio.com/investor-archive/)
 
 Follow us
 
