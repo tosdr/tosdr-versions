@@ -63,7 +63,7 @@ Nachfolgend finden Nutzer die jeweils für sie geltenden allgemeinen Geschäftsb
 
 2.11 Falls eine Änderung der Dienste nach Ziffer 2.10 deren Zugriffsmöglichkeit oder die Nutzbarkeit beeinträchtigt, kann der Nutzer den Vertrag innerhalb von 30 Tagen unentgeltlich beenden. Die Frist beginnt mit dem Zugang der Information darüber. Erfolgt die Änderung nach dem Zugang der Information, so beginnt die Frist mit dem Zeitpunkt der Änderung. Die Beendigung des Vertrags nach dieser Ziffer 2.11 ist ausgeschlossen, wenn die Beeinträchtigung der Zugriffsmöglichkeit oder der Nutzbarkeit nur unerheblich ist oder dem Nutzer die Zugriffsmöglichkeit auf den unveränderten Dienst und die Nutzbarkeit des unveränderten Dienstes ohne zusätzliche Kosten erhalten bleiben.
 
-**3\. Kurse; Voraussetzungen zur Teilnahme; Zahlung; Laufzeit**
+**3\. Kurse; Voraussetzungen zur Teilnahme; Zahlung; Laufzeit; Preisanpassung**
 
 3.1 Auf der Website werden Informationen bereitgestellt, wie der Nutzer einen Kurs verbindlich buchen kann. Die Buchung von Kursen kann ebenfalls über die Website erfolgen.
 
@@ -75,25 +75,27 @@ Nachfolgend finden Nutzer die jeweils für sie geltenden allgemeinen Geschäftsb
 
 3.3 7Mind informiert den Nutzer über die von 7Mind akzeptierten Zahlungsmittel auf der Website. Die Abwicklung des Bezahlvorgangs erfolgt in der Regel über einen externen Zahlungsdienstanbieter. Hierfür können separate allgemeine Geschäftsbedingungen und Datenschutzerklärungen des Zahlungsdienstanbieters gelten. Kann der Nutzer die Zahlung nicht erfolgreich oder nicht fristgerecht leisten, trägt der Nutzer alle dadurch entstehenden Kosten und Aufwendungen, soweit er das die Kosten veranlassende Ereignis zu vertreten hat. 7Mind ist berechtigt, dem Nutzer den Zugang zu den Kursen erst zu gewähren, wenn 7Mind die Zahlung erhalten hat. 
 
-3.4 Mit Abgabe der Erklärung zur Buchung eines Kurses über die Website gibt der Nutzer ein verbindliches Angebot ab zum Abschluss eines Vertrages über die Bereitstellung des Kurses durch 7Mind und über die Zahlung eines Preises durch den Nutzer an 7Mind. Der Eingang der Buchung bei 7Mind wird dem Nutzer per E-Mail bestätigt. Diese Bestätigungsmail stellt auch die Annahme von 7Mind dar und führt zum Vertragsschluss zwischen 7Mind und dem Nutzer über die Kursteilnahme unter Geltung dieser Web-AGB. 
+3.4 Mit Abgabe der Erklärung zur Buchung eines Kurses über die Website gibt der Nutzer ein verbindliches Angebot ab zum Abschluss eines Vertrages über die Bereitstellung des Kurses durch 7Mind und über die Zahlung eines Preises durch den Nutzer an 7Mind. Der Eingang der Buchung bei 7Mind wird dem Nutzer per E-Mail bestätigt. Diese Bestätigungsmail stellt auch die Annahme von 7Mind dar und führt zum Vertragsschluss zwischen 7Mind und dem Nutzer über die Kursteilnahme unter Geltung dieser Web-AGB.
 
-3.5 Sowohl 7Mind als auch der Nutzer können den Vertrag über die Website jederzeit mit einer Frist von 14 Tagen kündigen. 
+3.5 7Mind berechtigt und im Falle einer Preisreduzierung verpflichtet, die Preise für die Kurse angemessen und zumutbar anzupassen, wenn sich die zur Erbringung der Leistung maßgeblichen Kosten verändert haben und diese Veränderungen bei Vertragsschluss nicht vorhersehbar waren. Zu den maßgeblichen Kosten zählen insbesondere Kosten für Software und IT-Infrastruktur, Verwaltungskosten, Lizenzkosten für Werke Dritter, Kosten des Vertriebs, Personalkosten, Miete, externe Dienstleister sowie Kosten, die sich durch veränderte technische und rechtliche Rahmenbedingungen ergeben. Kostensteigerungen bei einer Kostenart dürfen von 7Mind nur in dem Umfang für eine Erhöhung der Preise herangezogen werden, wie diese nicht durch Kostensenkungen bei einer anderen Kostenart zum Ausgleich gebracht werden. Kostensenkungen müssen von 7Mind nur insoweit in Form von Preissenkungen an die Nutzer weitergeben werden, wie diese nicht durch Kostensteigerungen von anderen Kostenarten ausgeglichen werden. Eine Änderung des Preises kann nur zum Monatsersten erfolgen. 7Mind informiert den Nutzer spätestens sechs (6) Wochen vor der geplanten Preisänderung in Textform über die Preisänderung und den Zeitpunkt ihres Inkrafttretens. Der Nutzer hat das Recht, den Vertrag innerhalb einer Frist von 30 Tagen nach Zugang der Mitteilung über die Preisänderung in Textform zu kündigen. Kündigt der Nutzer nicht oder nicht fristgerecht, wird der Vertrag unter Geltung des geänderten Preises fortgesetzt. 7Mind wird den Nutzer in der Mitteilung über die Preisänderung gesondert auf das Sonderkündigungsrecht und die Folgen seiner Nichtausübung hinweisen. 
 
-3.6 Die Kurse werden für die auf der Website angegebenen Laufzeit angeboten. 
+3.6 Sowohl 7Mind als auch der Nutzer können den Vertrag über die Website jederzeit mit einer Frist von 14 Tagen kündigen. 
 
-3.6.1 Präventionskurse werden für eine einmalige feste Laufzeit ohne automatische Verlängerung angeboten.  
+3.7 Die Kurse werden für die auf der Website angegebenen Laufzeit angeboten. 
 
-3.6.2 Bei Kursen mit einer unbefristeten Laufzeit können 7Mind und der Nutzer die Kurse jederzeit mit einer Frist von einem Monat zum Monatsende kündigen.
+3.7.1 Präventionskurse werden für eine einmalige feste Laufzeit ohne automatische Verlängerung angeboten.  
 
-3.6.3 Bei Kursen mit einer festen anfänglichen Laufzeit können 7Mind und der Nutzer den Kurs mit einer Frist von 14 Tagen zum Ende der Laufzeit kündigen. Erfolgt diese Kündigung nicht, so verlängert sich die Laufzeit auf unbestimmte Zeit. 7Mind und der Nutzer können dann den Kurs mit einer Frist von einem Monat jederzeit kündigen. 
+3.7.2 Bei Kursen mit einer unbefristeten Laufzeit können 7Mind und der Nutzer die Kurse jederzeit mit einer Frist von einem Monat zum Monatsende kündigen.
 
-3.6.4 Die Kündigung aus wichtigem Grund bleibt hiervon unberührt. Ein wichtiger Grund liegt insbesondere dann vor, wenn die Fortsetzung des Vertragsverhältnisses bis zum Ablauf der Laufzeit oder bis zum Ablauf der ordentlichen Kündigungsfrist unter Berücksichtigung aller Umstände des Einzelfalls und der Interessen des Nutzers bzw. von 7Mind unzumutbar ist. 
+3.7.3 Bei Kursen mit einer festen anfänglichen Laufzeit können 7Mind und der Nutzer den Kurs mit einer Frist von 14 Tagen zum Ende der Laufzeit kündigen. Erfolgt diese Kündigung nicht, so verlängert sich die Laufzeit auf unbestimmte Zeit. 7Mind und der Nutzer können dann den Kurs mit einer Frist von einem Monat jederzeit kündigen. 
 
-3.7 Die Kündigung durch den Nutzer kann per E-Mail an [\[email protected\]](https://www.7mind.de/cdn-cgi/l/email-protection) oder im Login-Bereich selbst erklärt werden. 
+3.7.4 Die Kündigung aus wichtigem Grund bleibt hiervon unberührt. Ein wichtiger Grund liegt insbesondere dann vor, wenn die Fortsetzung des Vertragsverhältnisses bis zum Ablauf der Laufzeit oder bis zum Ablauf der ordentlichen Kündigungsfrist unter Berücksichtigung aller Umstände des Einzelfalls und der Interessen des Nutzers bzw. von 7Mind unzumutbar ist. 
 
-3.8 7Mind kann Nutzern kostenpflichtige Kurse für eine gewisse Zeit kostenfrei anbieten. Nach Ablauf der kostenfreien Zeit ist der Nutzer verpflichtet, den auf der Website angegebenen Preis für den Kurs zu zahlen, es sei denn, der Nutzer kündigt den Kurs mindestens 14 Tage vor Ablauf der kostenfreien Zeit wie auf der Website angegeben. Der Nutzer wird hierauf auf der Website hingewiesen und muss dem zustimmen. Es steht im alleinigen Ermessen von 7Mind festzulegen, welcher Nutzer einen solchen vorübergehend kostenfreien Kurs buchen und nutzen kann. 7Mind kann verlangen, dass der Nutzer bei der Bestellung eines solchen Kurse seine Zahlungsdaten angibt. 
+3.8 Die Kündigung durch den Nutzer kann per E-Mail an [\[email protected\]](https://www.7mind.de/cdn-cgi/l/email-protection) oder im Login-Bereich selbst erklärt werden. 
 
-3.9 7Mind ist berechtigt, die über die Website angebotenen Kurse zu ändern oder die Preise für die Kurse zu ändern. Diese Änderungen betreffen jedoch keine Kurse, die von dem Nutzer bereits rechtsverbindlich gebucht wurden.  
+3.9 7Mind kann Nutzern kostenpflichtige Kurse für eine gewisse Zeit kostenfrei anbieten. Nach Ablauf der kostenfreien Zeit ist der Nutzer verpflichtet, den auf der Website angegebenen Preis für den Kurs zu zahlen, es sei denn, der Nutzer kündigt den Kurs mindestens 14 Tage vor Ablauf der kostenfreien Zeit wie auf der Website angegeben. Der Nutzer wird hierauf auf der Website hingewiesen und muss dem zustimmen. Es steht im alleinigen Ermessen von 7Mind festzulegen, welcher Nutzer einen solchen vorübergehend kostenfreien Kurs buchen und nutzen kann. 7Mind kann verlangen, dass der Nutzer bei der Bestellung eines solchen Kurse seine Zahlungsdaten angibt. 
+
+3.10 7Mind ist berechtigt, für Neukunden die über die Website angebotenen Kurse oder die Preise für die Kurse jederzeit zu ändern.  
 
 **4\. Rechte und Pflichten des Nutzers**
 
@@ -373,6 +375,7 @@ Datum
 (\*) Unzutreffendes streichen
 
   
+Stand: 19.12.2024
 
 [](https://www.7mind.de/)
 
