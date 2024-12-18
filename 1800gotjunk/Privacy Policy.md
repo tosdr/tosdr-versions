@@ -621,6 +621,14 @@ Nathan Bauder Calgary 13/12/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Nick and Zach were great today. Quick and friendly service does not go unnoticed thanks for the service guys.
+
+William D Calgary 11/12/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Awesome service and friendly staff. It’s definitely a good option.
 
 Linda Parra Calgary 11/12/2024
@@ -645,22 +653,6 @@ Brandy Gates Calgary 11/12/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Nick and Zach were great today. Quick and friendly service does not go unnoticed thanks for the service guys.
-
-William D Calgary 11/12/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Service was prompt, efficient and friendly. Special thanks to the team of John and Sterling.
-
-Dawn Calgary 10/12/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 They were prompt and professional and got the stuff out quickly.
 
 Cody Jassman Calgary 10/12/2024
@@ -672,6 +664,14 @@ Cody Jassman Calgary 10/12/2024
 The guys that came were polite and careful they were quick and got the job done efficiently. Quite happy a second with the service.
 
 OLDPAT68 Calgary 10/12/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Service was prompt, efficient and friendly. Special thanks to the team of John and Sterling.
+
+Dawn Calgary 10/12/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -885,6 +885,38 @@ tara p Monteregie Metro 15/11/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Steven and Alex were great!! So helpful!!!! And thanks Steven for being nice and professional!! Appreciate you both!
+
+amy hillyer Columbus 14/12/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Quick, friendly and efficient!
+
+Rodney Brandy Columbus 14/12/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Very friendly
+
+Martin Yant Seattle 14/12/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Sky and Daniel were super professional and quick! Helped me out with a reasonable rate, would highly recommend.
+
+Sara Bello LA Metro 14/12/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Jairo and Chaz did an amazing Job today. Cery helpful will recommend again for sure!!!
 
 aamberr.r r Naples 14/12/2024
@@ -941,78 +973,6 @@ River Holley Austin 14/12/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Steven and Alex were great!! So helpful!!!! And thanks Steven for being nice and professional!! Appreciate you both!
-
-amy hillyer Columbus 14/12/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Quick, friendly and efficient!
-
-Rodney Brandy Columbus 14/12/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Very friendly
-
-Martin Yant Seattle 14/12/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Sky and Daniel were super professional and quick! Helped me out with a reasonable rate, would highly recommend.
-
-Sara Bello LA Metro 14/12/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Geo and Patrick are the bomb, quick, polite and on time!
-
-Kathy Burke Naples 13/12/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Professional, courtesy and quick. I’d definitely use again. Thank you Keone and Jared!
-
-Claire Ho Wisconsin 13/12/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-shawn and James were great ! will be using them again
-
-stlegend22 Naples 13/12/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Eithan & Keith
-
-Colton Jose Wisconsin 13/12/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Kegan $ Avron are awesome!
-
-Dan Campione Naples 13/12/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Ian & Nathan did a wonderful job. Quick and friendly
 
 jeremy sears Cincinnati 13/12/2024
@@ -1024,6 +984,46 @@ jeremy sears Cincinnati 13/12/2024
 Gio and Patrick were fast, great and efficient
 
 Mary O'Connor Naples 13/12/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Bobby y Luis did a great job, prompt and professional.
+
+Nathan Ulmer Austin 13/12/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Very professional
+
+Kathy Rupp Cincinnati 13/12/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Kegan and Avron were quick and efficient. Fair price. Highly recommended.
+
+Steve Meredyk Naples 13/12/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Bobby and Luis were very professional and efficient! I got a quote and had my item removed within 20mins.
+
+Nikita Parikh Austin 13/12/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+George Justin and Shaheed did an amazing job. Highly recommend. Deserve a raise. 11/10 stars!
+
+Christina Fox Cincinnati 13/12/2024
 
 ### 
 
