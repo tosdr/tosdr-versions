@@ -615,6 +615,7 @@ All rights reserved.
 
 * [Terms & Conditions](http://www.3plearning.com/terms/)
 * [Privacy Policy](http://www.3plearning.com/privacy/)
+* [Your Privacy Choices](#privacy-choices)
 
 Follow us
 
