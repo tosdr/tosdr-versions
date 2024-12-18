@@ -131,6 +131,22 @@ Last Updated on October 18, 2018 by Media Bias Fact Check
 
 #### Recently Added Sources or Pages
 
+* [Nordkurier – Bias and Credibility](https://mediabiasfactcheck.com/nordkurier-bias-and-credibility/)
+    
+    December 18, 2024
+    
+* [La Tercera – Bias and Credibility](https://mediabiasfactcheck.com/la-tercera-bias-and-credibility/)
+    
+    December 18, 2024
+    
+* [Manchester World – Bias and Credibility](https://mediabiasfactcheck.com/manchester-world-bias/)
+    
+    December 18, 2024
+    
+* [Market News International (MNI) – Bias and Credibility](https://mediabiasfactcheck.com/market-news-international-mni-bias-and-credibility/)
+    
+    December 18, 2024
+    
 * [Jewish Insider – Bias and Credibility](https://mediabiasfactcheck.com/jewish-insider-bias-and-credibility/)
     
     December 18, 2024
@@ -147,26 +163,22 @@ Last Updated on October 18, 2018 by Media Bias Fact Check
     
     December 17, 2024
     
-* [Context – Bias and Credibility](https://mediabiasfactcheck.com/context-bias-and-credibility/)
-    
-    December 17, 2024
-    
-* [Newbury Weekly News – Bias and Credibility](https://mediabiasfactcheck.com/newbury-weekly-news-bias/)
-    
-    December 17, 2024
-    
-* [Anonymous News (AN) – Bias and Credibility](https://mediabiasfactcheck.com/anonymous-news-an-bias-and-credibility/)
-    
-    December 16, 2024
-    
-* [Annual Review of Physical Chemistry – Bias and Credibility](https://mediabiasfactcheck.com/annual-review-of-physical-chemistry-bias/)
-    
-    December 16, 2024
-    
 
 #### Recently Updated Pages
 
+* [MBFC APP](https://mediabiasfactcheck.com/mbfc-app/ "View MBFC APP") - December 18, 2024
+    
 * [Right-Center Bias](https://mediabiasfactcheck.com/right-center/ "View Right-Center Bias") - December 18, 2024
+    
+* [Nordkurier – Bias and Credibility](https://mediabiasfactcheck.com/nordkurier-bias-and-credibility/ "View Nordkurier – Bias and Credibility") - December 18, 2024
+    
+* [La Tercera – Bias and Credibility](https://mediabiasfactcheck.com/la-tercera-bias-and-credibility/ "View La Tercera – Bias and Credibility") - December 18, 2024
+    
+* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - December 18, 2024
+    
+* [Manchester World – Bias and Credibility](https://mediabiasfactcheck.com/manchester-world-bias/ "View Manchester World – Bias and Credibility") - December 18, 2024
+    
+* [Market News International (MNI) – Bias and Credibility](https://mediabiasfactcheck.com/market-news-international-mni-bias-and-credibility/ "View Market News International (MNI) – Bias and Credibility") - December 18, 2024
     
 * [Jewish Insider – Bias and Credibility](https://mediabiasfactcheck.com/jewish-insider-bias-and-credibility/ "View Jewish Insider – Bias and Credibility") - December 18, 2024
     
@@ -174,31 +186,19 @@ Last Updated on October 18, 2018 by Media Bias Fact Check
     
 * [Berliner Morgenpost – Bias and Credibility](https://mediabiasfactcheck.com/berliner-morgenpost-bias-and-credibility/ "View Berliner Morgenpost – Bias and Credibility") - December 17, 2024
     
-* [Pro-Science](https://mediabiasfactcheck.com/pro-science/ "View Pro-Science") - December 17, 2024
-    
-* [Current Oncology Journal – Bias and Credibility](https://mediabiasfactcheck.com/current-oncology-journal-bias/ "View Current Oncology Journal – Bias and Credibility") - December 17, 2024
-    
-* [Questionable Sources](https://mediabiasfactcheck.com/fake-news/ "View Questionable Sources") - December 17, 2024
-    
-* [Kyiv Insider – Bias and Credibility](https://mediabiasfactcheck.com/kyiv-insider-bias-and-credibility/ "View Kyiv Insider – Bias and Credibility") - December 17, 2024
-    
-* [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - December 17, 2024
-    
-* [Context – Bias and Credibility](https://mediabiasfactcheck.com/context-bias-and-credibility/ "View Context – Bias and Credibility") - December 17, 2024
-    
 
 #### Today’s Top Page Views
 
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
 * [Least Biased](https://mediabiasfactcheck.com/center/)
+* [Western Journal - Bias and Credibility](https://mediabiasfactcheck.com/western-journalism/)
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
 * [350.org - Bias and Credibility](https://mediabiasfactcheck.com/350-org-bias-and-credibility/)
-* [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
-* [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
-* [MBFC's Daily Vetted Fact Checks for 12/17/2024](https://mediabiasfactcheck.com/2024/12/17/mbfcs-daily-vetted-fact-checks-for-12-17-2024/)
-* [Byline Times - Bias and Credibility](https://mediabiasfactcheck.com/byline-times/)
 * [NewsNation - Bias and Credibility](https://mediabiasfactcheck.com/newsnation/)
+* [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
+* [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
+* [BBC - Bias and Credibility](https://mediabiasfactcheck.com/bbc/)
 
 #### Subscribe via Email
 
