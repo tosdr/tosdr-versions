@@ -441,27 +441,27 @@ If you have any questions about this Privacy Policy, please contact us:
 Most recent
 -----------
 
-[17-12-2024
+[18-12-2024
 
-Delay CO2 price on gas and fuel past 2027, Czechia-led alliance urges](https://www.euractiv.com/section/eet/news/delay-co2-price-on-gas-and-fuel-past-2027-czechia-led-alliance-urges/)[17-12-2024
+Record year for coal in 2024, world’s hottest year](https://www.euractiv.com/section/eet/news/record-year-for-coal-in-2024-worlds-hottest-year/)[18-12-2024
 
-German parties agree: cut agri-food red tape](https://www.euractiv.com/section/agriculture-food/news/german-parties-agree-cut-agri-food-red-tape/)[17-12-2024
+Meloni: Trump not an ‘enemy’, wants ‘pragmatic’ EU approach](https://www.euractiv.com/section/politics/news/the-capitals-meloni-trump-not-an-enemy-wants-pragmatic-eu-approach/)[18-12-2024
 
-Irish data privacy watchdog fines Meta €251 million for GDPR failure](https://www.euractiv.com/section/tech/news/irish-data-privacy-watchdog-fines-meta-e251-million-for-gdpr-failure/)[17-12-2024
+Romanian convicted of spying for Russia gets five-year prison term](https://www.euractiv.com/section/politics/news/romanian-convicted-of-spying-for-russia-gets-five-year-prison-term/)[18-12-2024
 
-EU to reopen embassy in Damascus to liaise with Syria’s new leadership](https://www.euractiv.com/section/global-europe/news/eu-to-reopen-embassy-in-damascus-to-liaise-with-syrias-new-leadership/)[17-12-2024
+Russia intensifies assaults in Kursk and eastern front, Ukraine says](https://www.euractiv.com/section/global-europe/news/russia-intensifies-assaults-in-kursk-and-eastern-front-ukraine-says/)[18-12-2024
 
-Portugal’s Teresa Anjinho elected EU ethics watchdog](https://www.euractiv.com/section/politics/news/portugals-teresa-anjinho-elected-eu-ethics-watchdog/)[17-12-2024
+Madeira regional government collapses after censure motion](https://www.euractiv.com/section/politics/news/madeira-regional-government-collapses-after-censure-motion/)[18-12-2024
 
-EU plans to use frozen Russian asset profits to buy from Ukraine’s defence industry](https://www.euractiv.com/section/global-europe/news/eu-plans-to-use-frozen-russian-assets-to-buy-from-ukraines-defence-industry/)[17-12-2024
+EU leaders to pledge closer ties with Western Balkans counterparts](https://www.euractiv.com/section/global-europe/news/eu-leaders-to-pledge-closer-ties-with-western-balkans-counterparts/)[18-12-2024
 
-Von der Leyen outlines plans for return hubs before EU leaders’ summit](https://www.euractiv.com/section/politics/news/von-der-leyen-outlines-plans-for-return-hubs-before-eu-leaders-summit/)[17-12-2024
+Tech Pro Brief – fears over TikTok from Strasbourg to Zagreb, and a DSA enforcement matrix](https://www.euractiv.com/section/tech/news/tech-pro-brief-fears-over-tiktok-from-strasbourg-to-zagreb-and-a-dsa-enforcement-matrix/)[18-12-2024
 
-Russia continues to ship oil directly to the EU despite sanctions, investigation finds](https://www.euractiv.com/section/global-europe/news/russia-continues-to-ship-oil-directly-to-the-eu-despite-sanctions-investigation-finds/)[17-12-2024
+Poland out of EU deep freeze with impending €9.4 billion EU recovery fund tranche](https://www.euractiv.com/section/politics/news/poland-out-of-eu-deep-freeze-with-impending-e9-4-billion-eu-recovery-fund-tranche/)[18-12-2024
 
-French PM Bayrou wants to do politics differently – if opposition lets him](https://www.euractiv.com/section/politics/news/french-pm-bayrou-wants-to-do-politics-differently-if-opposition-lets-him/)[17-12-2024
+Kosovo, Serbia reach agreement implementing search for war missing](https://www.euractiv.com/section/global-europe/news/kosovo-serbia-reach-agreement-implementing-search-for-war-missing/)[18-12-2024
 
-Commission opens TikTok investigation over Romanian presidential elections disinformation](https://www.euractiv.com/section/tech/news/commission-opens-tiktok-investigation-over-romanian-presidential-elections-disinformation/) 
+Spanish left halts no-confidence vote against Prime Minister Sánchez](https://www.euractiv.com/section/politics/news/spanish-left-halts-no-confidence-vote-against-prime-minister-sanchez/)
 
 ###### Advertisement
 
