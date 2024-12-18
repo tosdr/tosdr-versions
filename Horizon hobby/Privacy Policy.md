@@ -2,9 +2,9 @@
 
 [Skip to main content](#maincontent) [Skip to footer content](#footercontent)
 
-[LAST DAY TO SHIP GROUND
+[GUARANTEED\* CHRISTMAS DELIVERY
 
-Order **Today** by 12:00 PM CST – Learn More](https://www.horizonhobby.com/shipping-billing-returns-info.html?cp_source=global&cp_medium=tippy-top)
+Ground Ship Cutoff - **Today**, 12/18 @ 12PM CST](https://www.horizonhobby.com/shipping-billing-returns-info.html?cp_source=global&cp_medium=tippy-top)
 
 [Last Minute Deals Ending Soon](https://www.horizonhobby.com/horizon-hobby-rc-sale/last-minute-deals/?cp_source=global&cp_medium=tippy-top)
 
@@ -12,9 +12,9 @@ Order **Today** by 12:00 PM CST – Learn More](https://www.horizonhobby.com/shi
 
 Find The Perfect RC Gift](https://www.horizonhobby.com/holiday-headquarters/?cp_source=global&cp_medium=tippy-top)
 
-[LAST DAY TO SHIP GROUND
+[GUARANTEED\* CHRISTMAS DELIVERY
 
-Order **Today** by 12:00 PM CST – Learn More](https://www.horizonhobby.com/shipping-billing-returns-info.html?cp_source=global&cp_medium=tippy-top)
+Ground Ship Cutoff - **Today**, 12/18 @ 12PM CST](https://www.horizonhobby.com/shipping-billing-returns-info.html?cp_source=global&cp_medium=tippy-top)
 
 [Last Minute Deals Ending Soon](https://www.horizonhobby.com/horizon-hobby-rc-sale/last-minute-deals/?cp_source=global&cp_medium=tippy-top)
 
@@ -104,9 +104,9 @@ My store
 
 [](#)
 
-[LAST DAY TO SHIP GROUND
+[GUARANTEED\* CHRISTMAS DELIVERY
 
-Order **Today** by 12:00 PM CST – Learn More](https://www.horizonhobby.com/shipping-billing-returns-info.html?cp_source=global&cp_medium=tippy-top)
+Ground Ship Cutoff - **Today**, 12/18 @ 12PM CST](https://www.horizonhobby.com/shipping-billing-returns-info.html?cp_source=global&cp_medium=tippy-top)
 
 [Last Minute Deals Ending Soon](https://www.horizonhobby.com/horizon-hobby-rc-sale/last-minute-deals/?cp_source=global&cp_medium=tippy-top)
 
@@ -114,9 +114,9 @@ Order **Today** by 12:00 PM CST – Learn More](https://www.horizonhobby.com/shi
 
 Find The Perfect RC Gift](https://www.horizonhobby.com/holiday-headquarters/?cp_source=global&cp_medium=tippy-top)
 
-[LAST DAY TO SHIP GROUND
+[GUARANTEED\* CHRISTMAS DELIVERY
 
-Order **Today** by 12:00 PM CST – Learn More](https://www.horizonhobby.com/shipping-billing-returns-info.html?cp_source=global&cp_medium=tippy-top)
+Ground Ship Cutoff - **Today**, 12/18 @ 12PM CST](https://www.horizonhobby.com/shipping-billing-returns-info.html?cp_source=global&cp_medium=tippy-top)
 
 [Last Minute Deals Ending Soon](https://www.horizonhobby.com/horizon-hobby-rc-sale/last-minute-deals/?cp_source=global&cp_medium=tippy-top)
 
