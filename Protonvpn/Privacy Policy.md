@@ -303,10 +303,10 @@ Geneva, Switzerland
 * [System status(new window)](https://status.proton.me/)
 * [Report abuse](mailto:abuse@protonvpn.com)
 * [Report a problem](https://protonvpn.com/support/report-a-bug/)
-* [Report a security issue(new window)](https://proton.me/security/response-center?ref=pvpn_support_b2c_vpn_footer)
+* [Report a security issue(new window)](https://proton.me/security/response-center?ref=pvpn_lp_b2c_vpn_footer)
 * [Request a feature(new window)](https://protonmail.uservoice.com/)
 
 * [Privacy Policy](https://protonvpn.com/privacy-policy)
-* [Terms & conditions(new window)](https://proton.me/legal/terms?ref=pvpn_support_b2c_vpn_footer)
+* [Terms & conditions(new window)](https://proton.me/legal/terms?ref=pvpn_lp_b2c_vpn_footer)
 * [Transparency report](https://protonvpn.com/blog/transparency-report)
 * © 2024 Proton AG. All rights reserved.
