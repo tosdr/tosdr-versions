@@ -1,4 +1,4 @@
-             [Skip to content](#MainContent)
+            [Skip to content](#MainContent)
 
 [](https://www.perfectsleepchair.com/products/journey-gift-card)
 
@@ -465,7 +465,7 @@ Sort Most RecentOldestMost HelpfulPhotos & VideosHighest RatingLowest RatingLeas
     
     Was this helpful?
     
-    Yes, this review was helpful 19 people voted yesNo, this review was not helpful 1 person voted no
+    Yes, this review was helpful 20 people voted yesNo, this review was not helpful 1 person voted no
     
     **JH** 
     
