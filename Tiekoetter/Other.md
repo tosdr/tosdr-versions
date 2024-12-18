@@ -4,7 +4,7 @@ To add your instance below please open an issue on [the documentation repository
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [inv.nadeko.net](https://inv.nadeko.net/) | 2024.12.15-336b590 | https | 10555 | ❌   | 🇨🇱 CL | [99.315](https://updown.io/ozfh) | ❌   | ✔   |
 | [yewtu.be](https://yewtu.be/) | 2024.12.18-6e7caaa | https | 1   | ❌   | 🇩🇪 DE | [99.873](https://updown.io/0h16) | ❌   | ❌   |
-| [invidious.jing.rocks](https://invidious.jing.rocks/) | \-  | https | \-  | \-  | 🇯🇵 JP | [86.844](https://updown.io/cfds) | \-  | \-  |
+| [invidious.jing.rocks](https://invidious.jing.rocks/) | \-  | https | \-  | \-  | 🇯🇵 JP | [85.987](https://updown.io/cfds) | \-  | \-  |
 | [zzlsbhhfvwg3...q.b32.i2p](http://zzlsbhhfvwg3oh36tcvx4r7n6jrw7zibvyvfxqlodcwn3mfrvzuq.b32.i2p/) | \-  | i2p | \-  | \-  | 🇨🇱 CL | [\-](https://updown.io/p/resvf) | \-  | \-  |
 | [inv.nadekonw...vyd.onion](http://inv.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion/) | \-  | onion | \-  | \-  | 🇨🇱 CL | [\-](https://updown.io/p/resvf) | \-  | \-  |
 
