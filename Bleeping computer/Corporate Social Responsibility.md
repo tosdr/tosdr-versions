@@ -36,18 +36,18 @@
         
         Clop ransomware claims responsibility for Cleo data theft attacks](https://www.bleepingcomputer.com/news/security/clop-ransomware-claims-responsibility-for-cleo-data-theft-attacks/)
     
-    * [![New critical Apache Struts flaw exploited to find vulnerable servers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![NVIDIA shares fix for game performance issues with new NVIDIA App](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        New critical Apache Struts flaw exploited to find vulnerable servers](https://www.bleepingcomputer.com/news/security/new-critical-apache-struts-flaw-exploited-to-find-vulnerable-servers/)
-    * [![Ireland fines Meta $264 million over 2018 Facebook data breach](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        NVIDIA shares fix for game performance issues with new NVIDIA App](https://www.bleepingcomputer.com/news/software/nvidia-shares-fix-for-game-performance-issues-with-new-nvidia-app/)
+    * [!['Bitter' cyberspies target defense orgs with new MiyaRAT malware](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Ireland fines Meta $264 million over 2018 Facebook data breach](https://www.bleepingcomputer.com/news/security/ireland-fines-meta-264-million-over-2018-facebook-data-breach/)
-    * [![Over 25,000 SonicWall VPN Firewalls exposed to critical flaws](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        'Bitter' cyberspies target defense orgs with new MiyaRAT malware](https://www.bleepingcomputer.com/news/security/bitter-cyberspies-target-defense-orgs-with-new-miyarat-malware/)
+    * [![New fake Ledger data breach emails try to steal crypto wallets ](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Over 25,000 SonicWall VPN Firewalls exposed to critical flaws](https://www.bleepingcomputer.com/news/security/over-25-000-sonicwall-vpn-firewalls-exposed-to-critical-flaws/)
-    * [![Might need a mass password reset one day? Read this first.](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        New fake Ledger data breach emails try to steal crypto wallets](https://www.bleepingcomputer.com/news/security/new-fake-ledger-data-breach-emails-try-to-steal-crypto-wallets/)
+    * [![CISA orders federal agencies to secure Microsoft 365 tenants](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Might need a mass password reset one day? Read this first.](https://www.bleepingcomputer.com/news/security/might-need-a-mass-password-reset-one-day-read-this-first/)
+        CISA orders federal agencies to secure Microsoft 365 tenants](https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-secure-microsoft-365-tenants/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
