@@ -1,6 +1,6 @@
 6.0.12
 
-1734510903857
+1734532858376
 
                                       
 
@@ -12,7 +12,7 @@ en
 
 4.0.1
 
-1734510537019
+1734533299877
 
      Next Terms & Conditions | T&C's | Next Official Site                                  
 
@@ -22,7 +22,7 @@ en
 
 cutaway22
 
-1734510914029
+1734532601658
 
 You need to enable JavaScript to run this app.
 
@@ -663,19 +663,6 @@ Details of the competition winner will be available for 14 days after the compet
 * Discounted price visible on product listing page and product already includes saving.
 * Item will be added to basket at discounted price.
 * Offer available while stocks last.
-
-### Party Makeup (Too Faced) Promotion
-
-* The Party Makeup (Too Faced) Free Gift will be automatically added to bag when you buy any 2 selected Party Makeup products.
-* The Party Makeup (Too Faced) Gift contains:
-    * Hangover 3 in 1 Replenishing Primer & Setting Spray (Worth £30)
-* To get the saving, you must order the qualifying items within the same order at the same time.
-* If you later return one of the items, you will no longer be entitled to the discount.
-* This offer applies to selected indicated items when purchased at full price.
-* The Party Makeup (Too Faced) Gift will be automatically added once 2 qualifying Party Makeup (Too Faced) products have been added to the bag on either the Product or Shopping Bag Pages.
-* The promotion can only be used by the account holder and you must be logged in to your account to view and shop the promotion.
-* This offer is not available to staff.
-* Offer applies while stocks last.
 
 ### L’Occitane Promotion
 
@@ -3550,7 +3537,7 @@ You need to enable JavaScript to run this app.
 
 4.0.1
 
-1734510423824
+1734532132978
 
 ##### Our Social Networks
 
