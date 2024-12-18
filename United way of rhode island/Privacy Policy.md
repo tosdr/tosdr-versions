@@ -202,6 +202,25 @@ UPCOMING EVENTS
 
 [See all events](https://www.unitedwayri.org/get-involved/join-an-event/)
 
+[![Olmstead Community Listening Sessions](https://www.unitedwayri.org/wp-content/uploads/bb-plugin/cache/Olmstead-Community-Listening-Sessions-landscape-cd8e032a4d6ad969dd20168f7209a19d-.png "Olmstead Community Listening Sessions")](https://www.unitedwayri.org/event/ri-olmstead-community-listening-session-1-sesiones-1-de-escucha-communitarias-de-la-ley-olmstead/)
+
+08 Jan
+
+#### [RI Olmstead Community Listening Session 1/ Sesiónes 1 de Escucha Communitarias de la Ley Olmstead](https://www.unitedwayri.org/event/ri-olmstead-community-listening-session-1-sesiones-1-de-escucha-communitarias-de-la-ley-olmstead/ "RI Olmstead Community Listening Session 1/ Sesiónes 1 de Escucha Communitarias de la Ley Olmstead")
+
+Come join us for the RI Olmstead Community Listening Sessions where we will discuss important topics and gather feedback related to disability rights, access and community integration. Your voice and lived experience matters, so come share your thoughts and ideas with us!
+
+Location / Lugar  
+United Way of Rhode Island  
+50 Valley Street Providence, RI 02909  
+RIPTA: 17, 27, 28
+
+[Session 1 Registration](https://uwriweb.org/comm/SinglePageRegEvent.jsp?EventKeyHex=3135333437)
+
+[Session 2 Registration](https://uwriweb.org/comm/SinglePageRegEvent.jsp?EventKeyHex=3135333534)
+
+[(more…)](https://www.unitedwayri.org/event/ri-olmstead-community-listening-session-1-sesiones-1-de-escucha-communitarias-de-la-ley-olmstead/#more-27028)
+
 [![EITC Invitation Graphic](https://www.unitedwayri.org/wp-content/uploads/bb-plugin/cache/EITC-Invitation-Graphic-landscape-fea9ee881d6b0e7d9b9a0b8ac9bd5528-.png "EITC Invitation Graphic")](https://www.unitedwayri.org/event/50th-anniversary-of-the-earned-income-tax-credit-eitc/)
 
 31 Jan
@@ -271,3 +290,7 @@ Mon. - Fri.
 [(401) 444-0600](tel:4014440600)
 
 [50 Valley Street, Providence RI 02909](https://goo.gl/maps/SB1Z16Z6RXx)
+
+Have you been affected by the RIBridges Data Breach?
+
+[CALL 211](https://www.unitedwayri.org/get-help/2-1-1/)
