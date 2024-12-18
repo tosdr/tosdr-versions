@@ -567,23 +567,13 @@ Latest News
 
 [Iran's Revolutionary Guards extend control of oil exports, sources say](https://www.japantimes.co.jp/news/2024/12/18/world/politics/iran-revolutionary-guards-oil/ "Iran's Revolutionary Guards extend control of oil exports, sources say")
 
-6 hours ago
-
 [Russia detains suspect in killing of chemical weapons chief Igor Kirillov](https://www.japantimes.co.jp/news/2024/12/18/world/crime-legal/russia-detains-suspect/ "Russia detains suspect in killing of chemical weapons chief Igor Kirillov")
-
-6 hours ago
 
 [Honda and Nissan might combine to form world’s No. 3 auto group](https://www.japantimes.co.jp/business/2024/12/18/companies/honda-nissan-merger/ "Honda and Nissan might combine to form world’s No. 3 auto group")
 
-6 hours ago
-
 [Nihon Hidankyo members make Nobel visit to Hiroshima cenotaph](https://www.japantimes.co.jp/news/2024/12/18/japan/nihon-hidankyo-hiroshima-visit/ "Nihon Hidankyo members make Nobel visit to Hiroshima cenotaph")
 
-7 hours ago
-
 [Government not liable for nuclear evacuations, Osaka High Court rules](https://www.japantimes.co.jp/news/2024/12/18/japan/crime-legal/fukushima-nuclear-plant-evacuees/ "Government not liable for nuclear evacuations, Osaka High Court rules")
-
-8 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
