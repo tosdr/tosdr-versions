@@ -193,7 +193,7 @@ Close menu
     
     * Curious where your site performance stands today? Get a comprehensive, fully customized report detailing both strengths and actionable opportunities to improve.
         
-        ![](/4a8743/globalassets/media/redesign2024/digital_insights_report.png)
+        ![](/4afbd6/globalassets/media/redesign2024/digital_insights_report.png)
     
 
 [Request a demo](https://siteimprove.com/demo-request/)
