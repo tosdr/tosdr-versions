@@ -247,11 +247,11 @@ We may from time to time post Content regarding our Services or other topics we 
 
 ### 10\. Third-Party Websites
 
-ExpressVPN may provide you with content belonging to third parties or links leading to third-party websites. ExpressVPN is not responsible for the availability of the content provided by third parties as they are not under the control or supervision of ExpressVPN, and they may have different terms of use and policies. Your access through our Services to any website, service, or content provided by third parties does not indicate any relationship between ExpressVPN and such third parties.
+ExpressVPN may provide you with content belonging to or operated by third parties or links leading to third-party websites. ExpressVPN is not responsible for the availability of the content provided by third parties as they are not under the control or supervision of ExpressVPN, and they may have different terms of use and policies. Your access through our Services to any website, service, or content provided by third parties does not indicate any relationship between ExpressVPN and such third parties.
 
 ### 11\. Partner Services
 
-ExpressVPN may from time to time provide access to or promotional offers for partner services, applications, or websites (“**Partner Services**”) as an added benefit to the Services. The Partner Services are not integrated or incorporated with the Services, and your interactions with any Partner Services are governed by their own applicable terms. ExpressVPN will never share your personal information with any provider of Partner Services.
+ExpressVPN may from time to time provide access to or promotional offers for partner services, applications, or websites (“**Partner Services**”) as an added benefit to the Services (e.g., Identity Defender products). The Partner Services are not integrated or incorporated with the Services, and your interactions with any Partner Services are governed by their own applicable terms. Unless otherwise provided in these Partner Services’ Privacy Policies, ExpressVPN will not share your personal information with any provider of Partner Services.
 
 ExpressVPN does not guarantee and is not responsible or liable for the behavior, features, or content of Partner Services or any transaction you may enter into with any provider of Partner Services, nor does ExpressVPN warrant the compatibility or continuing compatibility of the Services with Partner Services. Your use of Partner Services is entirely at your own risk and discretion. Accordingly, any issues arising out of or in connection with your use of Partner Services shall be resolved directly between you and the provider of the Partner Services.
 
@@ -364,7 +364,7 @@ If any provision in the Agreement is held invalid or unenforceable, that provisi
 * [Blog](https://www.expressvpn.com/blog/)
 * [English](#)
 
-![](https://prod-assets-cms.mtech.xvservice.net/img/frontend/xv/public/thfc-expressvpn-badge.svg?v=13800)
+![](https://prod-assets-cms.mtech.xvservice.net/img/frontend/xv/public/thfc-expressvpn-badge.svg?v=137045)
 
 © 2024 ExpressVPN. All rights reserved
 
