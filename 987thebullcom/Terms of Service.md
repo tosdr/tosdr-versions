@@ -212,11 +212,11 @@ Recently Played
 
 |     |
 | --- |
-| Get Me Some Of ThatThomas Rhett<br><br>4:41pm |
-| I'M Gonna Love YouCody Johnson Ft Carrie Underwood<br><br>4:38pm |
-| Wonderful Christmas TimeEli Young Band<br><br>4:34pm |
-| Son Of A SinnerJelly Roll<br><br>4:30pm |
-| Love SomebodyMorgan Wallen<br><br>4:27pm |
+| 4x4xuLainey Wilson<br><br>10:39pm |
+| What My World Spins AroundJordan Davis<br><br>10:36pm |
+| Ain'T No Love In OklahomaLuke Combs<br><br>10:33pm |
+| A Bar Song (Tipsy)Shaboozey<br><br>10:21pm |
+| Wind Up Missing YouTucker Wetmore<br><br>10:19pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -364,13 +364,13 @@ Featured Brands
 
 Sports • Midwest
 
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
-Top 40 • Eastern
+Top 40 • Pacific NW
 
 [![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
