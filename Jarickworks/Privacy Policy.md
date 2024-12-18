@@ -156,7 +156,7 @@ Designing where you want to go today
 
 [Donate](#donate)
 
-[![freeblr family children and the family](/freeblr/family/children-and-the-family/card.svg)](https://jarick.works/freeblr/family/children-and-the-family)[![freeblr education the states education monopoly increases prices and destroys choice](/freeblr/education/the-states-education-monopoly-increases-prices-and-destroys-choice/card.svg)](https://jarick.works/freeblr/education/the-states-education-monopoly-increases-prices-and-destroys-choice)[![freeblr borders the age of the suitcase nuke](/freeblr/borders/the-age-of-the-suitcase-nuke/card.svg)](https://jarick.works/freeblr/borders/the-age-of-the-suitcase-nuke)[![freeblr human nature on human nature](/freeblr/human-nature/on-human-nature/card.svg)](https://jarick.works/freeblr/human-nature/on-human-nature)
+[![spekr what is progressivism](/spekr/what-is-progressivism/card.svg)](https://jarick.works/spekr/what-is-progressivism)[![freeblr human nature ethics human nature and government](/freeblr/human-nature/ethics-human-nature-and-government/card.svg)](https://jarick.works/freeblr/human-nature/ethics-human-nature-and-government)[![spekr what is georgism](/spekr/what-is-georgism/card.svg)](https://jarick.works/spekr/what-is-georgism)[![freeblr education the failure of american public education](/freeblr/education/the-failure-of-american-public-education/card.svg)](https://jarick.works/freeblr/education/the-failure-of-american-public-education)
 
 [Follow](#follow)
 
