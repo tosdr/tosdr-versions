@@ -240,16 +240,23 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-### Get connected with us!
-
-  
-Keep updated with related news and offers.
+### DNSSEC
 
   
 
+#### Our redundant DNS solution is fully supported with DNSSEC
+
   
 
-[Follow @DynuSystems](https://twitter.com/DynuSystems)
+  
+
+[Learn more about DNSSEC](https://www.dynu.com/Resources/DNS-Records/DNSSEC)  
+  
+
+  
+
+[Enable DNSSEC for your domain](https://www.dynu.com/ControlPanel/DDNS)  
+  
 
   
 
