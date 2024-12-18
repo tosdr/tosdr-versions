@@ -1,6 +1,6 @@
-**Patriots:** For over 26 years, your generosity has made it possible to offer The Patriot Post without a subscription fee to military personnel, students, and those with limited means. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us) today.
+**Fellow Patriot:** The voluntary financial generosity of supporters like _you_ keeps our hard-hitting analysis coming. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us) today. Thank you for your support! —Nate Jackson, Managing Editor
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -201,20 +201,23 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34678)
+     [](https://patriotpost.us/cartoons/34684)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
-*      [Stephen Moore To Bring Joy to America, End the Weaponization of the IRS](https://patriotpost.us/opinion/112904-to-bring-joy-to-america-end-the-weaponization-of-the-irs-2024-12-17)
-*      [Salena Zito ‘Feast of the Seven Fishes’ Tradition Still Popular for American Italian Households](https://patriotpost.us/opinion/112903-feast-of-the-seven-fishes-tradition-still-popular-for-american-italian-households-2024-12-17)
-*      [Victor Joecks Vaccine Questions Shouldn’t Be Verboten](https://patriotpost.us/opinion/112902-vaccine-questions-shouldnt-be-verboten-2024-12-17)
-*      [Cal Thomas The Worst Transition Ever](https://patriotpost.us/opinion/112901-the-worst-transition-ever-2024-12-17)
-*      [Gary Bauer Drone Drama Continues](https://patriotpost.us/opinion/112900-drone-drama-continues-2024-12-17)
-*      [Daniel McCarthy Fighting Communism After the Cold War](https://patriotpost.us/opinion/112899-fighting-communism-after-the-cold-war-2024-12-17)
-*      [The Washington Stand Blue State Pill Sharks Ship Abortions Across Red State Lines, Triggering Lawsuit](https://patriotpost.us/opinion/112898-blue-state-pill-sharks-ship-abortions-across-red-state-lines-triggering-lawsuit-2024-12-17)
-*      [The Babylon Bee Joe Biden Pardons Wife Jill for Impersonating a Doctor](https://patriotpost.us/opinion/112897-joe-biden-pardons-wife-jill-for-impersonating-a-doctor-2024-12-17)
+*      [Byron York Trump’s Popularity Is Rising — What Will the Resistance Do?](https://patriotpost.us/opinion/112941-trumps-popularity-is-rising-what-will-the-resistance-do-2024-12-18)
+*      [Tim Graham ABC’s Payment to Trump Creates ‘Chilling Effect’](https://patriotpost.us/opinion/112940-abcs-payment-to-trump-creates-chilling-effect-2024-12-18)
+*      [Star Parker Did Luigi Mangione Murder Because of ‘Emotional Disturbance’?](https://patriotpost.us/opinion/112939-did-luigi-mangione-murder-because-of-emotional-disturbance-2024-12-18)
+*      [Ian Haworth What Drones?](https://patriotpost.us/opinion/112938-what-drones-2024-12-18)
+*      [Betsy McCaughey Who’s to Blame for Your Lousy Insurance Coverage?](https://patriotpost.us/opinion/112937-whos-to-blame-for-your-lousy-insurance-coverage-2024-12-18)
+*      [Rich Lowry Trump’s Fear Factor](https://patriotpost.us/opinion/112935-trumps-fear-factor-2024-12-18)
+*      [Allen West Les Miserables](https://patriotpost.us/opinion/112943-les-miserables-2024-12-18)
+*      [John Stossel The White Pill](https://patriotpost.us/opinion/112942-the-white-pill-2024-12-18)
+*      [Gary Bauer Nothing to See Here](https://patriotpost.us/opinion/112936-nothing-to-see-here-2024-12-18)
+*      [The Washington Stand Senators Demolish NCAA Boss for Trans Policy](https://patriotpost.us/opinion/112934-senators-demolish-ncaa-boss-for-trans-policy-2024-12-18)
+*      [The Babylon Bee 9 Warning Signs an Upcoming Movie Might Be Woke](https://patriotpost.us/opinion/112933-9-warning-signs-an-upcoming-movie-might-be-woke-2024-12-18)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -228,11 +231,15 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J82YASE4QNMY5QGPJZ5PECFM.jpeg)](https://patriotpostshop.com/collections/founders-wisdom-coffee)
+[Wear Your Patriotism on Your Sleeve
+
+ 
+
+Shop Now](https://patriotpostshop.com/)
 
 ### The Foundation
 
-“It should be your care, therefore, and mine, to elevate the minds of our children and exalt their courage; to accelerate and animate their industry and activity; to excite in them an habitual contempt of meanness, abhorrence of injustice and inhumanity, and an ambition to excel in every capacity, faculty, and virtue. If we suffer their minds to grovel and creep in infancy, they will grovel all their lives.” —John Adams (1756)
+“When right, I shall often be thought wrong by those whose positions will not command a view of the whole ground.” —Thomas Jefferson (1805)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
