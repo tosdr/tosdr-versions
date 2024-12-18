@@ -156,7 +156,7 @@ Designing where you want to go today
 
 [Donate](#donate)
 
-[![spekr what is progressivism](/spekr/what-is-progressivism/card.svg)](https://jarick.works/spekr/what-is-progressivism)[![freeblr human nature ethics human nature and government](/freeblr/human-nature/ethics-human-nature-and-government/card.svg)](https://jarick.works/freeblr/human-nature/ethics-human-nature-and-government)[![spekr what is georgism](/spekr/what-is-georgism/card.svg)](https://jarick.works/spekr/what-is-georgism)[![freeblr education the failure of american public education](/freeblr/education/the-failure-of-american-public-education/card.svg)](https://jarick.works/freeblr/education/the-failure-of-american-public-education)
+[![freeblr limited government society without a state](/freeblr/limited-government/society-without-a-state/card.svg)](https://jarick.works/freeblr/limited-government/society-without-a-state)[![freeblr taxation an experiment](/freeblr/taxation/an-experiment/card.svg)](https://jarick.works/freeblr/taxation/an-experiment)[![freeblr limited government no rulers](/freeblr/limited-government/no-rulers/card.svg)](https://jarick.works/freeblr/limited-government/no-rulers)[![freeblr taxation what if charity replaced taxation](/freeblr/taxation/what-if-charity-replaced-taxation/card.svg)](https://jarick.works/freeblr/taxation/what-if-charity-replaced-taxation)
 
 [Follow](#follow)
 
