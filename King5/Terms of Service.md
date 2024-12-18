@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/d295bbe2-2c96-4f8d-bc5c-66f7b04c3a08/20241218T072933/d295bbe2-2c96-4f8d-bc5c-66f7b04c3a08_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d295bbe2-2c96-4f8d-bc5c-66f7b04c3a08/20241218T072933/d295bbe2-2c96-4f8d-bc5c-66f7b04c3a08_360x203.jpg)](https://www.king5.com/article/news/local/public-safety/56-small-business-owners-ne-seattle-demand-action-against-burglaries/281-c5ea5893-d78d-4835-ac25-d94e356a0e59)
+    *  [![](https://media.king5.com/assets/KING/images/ef400364-4751-4697-a03b-10d05aff67cf/20241218T133752/ef400364-4751-4697-a03b-10d05aff67cf_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ef400364-4751-4697-a03b-10d05aff67cf/20241218T133752/ef400364-4751-4697-a03b-10d05aff67cf_360x203.jpg)](https://www.king5.com/article/news/crime/seattle-bus-driver-fatally-stabbed/281-4ee8c92b-8089-405e-9cb3-11c793fab572)
         
-        #### ['I don't feel safe': Seattle mayor urged to act as business, home break-ins persist](https://www.king5.com/article/news/local/public-safety/56-small-business-owners-ne-seattle-demand-action-against-burglaries/281-c5ea5893-d78d-4835-ac25-d94e356a0e59)
+        #### [Metro bus driver stabbed, killed near UW campus](https://www.king5.com/article/news/crime/seattle-bus-driver-fatally-stabbed/281-4ee8c92b-8089-405e-9cb3-11c793fab572)
         
-    *  [![](https://media.king5.com/assets/KING/images/30fe44bf-3f14-48a6-9dee-37b56ea7ccae/20241218T062213/30fe44bf-3f14-48a6-9dee-37b56ea7ccae_16x9.jpg) ![](https://media.king5.com/assets/KING/images/30fe44bf-3f14-48a6-9dee-37b56ea7ccae/20241218T062213/30fe44bf-3f14-48a6-9dee-37b56ea7ccae_360x203.jpg)](https://www.king5.com/article/news/local/school-bus-driver-wont-face-charges-for-fatal-crash-in-tacoma-prosecutor-says/281-086fb2c0-28a4-4f20-88d5-f2ea46f73635)
+    *  [![](https://media.king5.com/assets/KING/images/39e8fbf7-061f-421b-b223-466bb55a99d2/39e8fbf7-061f-421b-b223-466bb55a99d2_16x9.jpg) ![](https://media.king5.com/assets/KING/images/39e8fbf7-061f-421b-b223-466bb55a99d2/39e8fbf7-061f-421b-b223-466bb55a99d2_360x203.jpg)](https://www.king5.com/article/weather/freezing-rain-ice-expected-washington-mountain-passes-tuesday/281-16507188-0ae7-4bb6-947d-2bf3357b54b4)
         
-        #### [Pierce County prosecutors won't charge school bus driver involved in deadly crash](https://www.king5.com/article/news/local/school-bus-driver-wont-face-charges-for-fatal-crash-in-tacoma-prosecutor-says/281-086fb2c0-28a4-4f20-88d5-f2ea46f73635)
+        #### [Mountain snow continues, gusty winds felt around western Washington](https://www.king5.com/article/weather/freezing-rain-ice-expected-washington-mountain-passes-tuesday/281-16507188-0ae7-4bb6-947d-2bf3357b54b4)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -58,9 +58,9 @@ Navigation
     
     *  [![](https://media.king5.com/assets/KING/images/39e8fbf7-061f-421b-b223-466bb55a99d2/39e8fbf7-061f-421b-b223-466bb55a99d2_16x9.jpg) ![](https://media.king5.com/assets/KING/images/39e8fbf7-061f-421b-b223-466bb55a99d2/39e8fbf7-061f-421b-b223-466bb55a99d2_360x203.jpg)](https://www.king5.com/article/weather/freezing-rain-ice-expected-washington-mountain-passes-tuesday/281-16507188-0ae7-4bb6-947d-2bf3357b54b4)
         
-        #### [Heavy rain in the lowlands, ice in Washington's mountain passes expected overnight](https://www.king5.com/article/weather/freezing-rain-ice-expected-washington-mountain-passes-tuesday/281-16507188-0ae7-4bb6-947d-2bf3357b54b4)
+        #### [Mountain snow continues, gusty winds felt around western Washington](https://www.king5.com/article/weather/freezing-rain-ice-expected-washington-mountain-passes-tuesday/281-16507188-0ae7-4bb6-947d-2bf3357b54b4)
         
-    *  [![](https://media.king5.com/assets/KING/images/93bb98b1-c7a6-46de-a3b0-eeac6a5bc1f5/20241217T202359/93bb98b1-c7a6-46de-a3b0-eeac6a5bc1f5_16x9.jpg) ![](https://media.king5.com/assets/KING/images/93bb98b1-c7a6-46de-a3b0-eeac6a5bc1f5/20241217T202359/93bb98b1-c7a6-46de-a3b0-eeac6a5bc1f5_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/72b3b469-b030-41c9-96fa-c99a764919bf/20241218T130322/72b3b469-b030-41c9-96fa-c99a764919bf_16x9.jpg) ![](https://media.king5.com/assets/KING/images/72b3b469-b030-41c9-96fa-c99a764919bf/20241218T130322/72b3b469-b030-41c9-96fa-c99a764919bf_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -105,9 +105,9 @@ Navigation
 
 Seattle, WA »
 
-55°
+53°
 
-![Rain](/assets/shared-images/weather-icons/rain-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
