@@ -219,11 +219,15 @@ The University of South Dakota shall offer equal opportunities in employment and
 Accessibility
 -------------
 
-The University of South Dakota (USD) is committed to ensuring equal access for individuals with disabilities to the programs and services of the university in accordance with the Americans with Disabilities Act of 1990 (ADA), the ADA Amendments Act of 2008, and Section 504/Section 508 of the 1973 Rehabilitation Act as amended. Equal access includes access to electronic and information technology. USD strives to ensure all aspects of electronic and information technology – from procurement and development to online course content and public web pages – are accessible to individuals with disabilities.
+The University of South Dakota is committed to providing a website that is accessible to the widest possible audience, including individuals with disabilities, and that complies with Section 504 of the Rehabilitation Act of 1973 and its implementing regulations, and other applicable federal and state laws and regulations. The University strives to have its website and other electronic resources provided to students, employees and visitors conform to the best practices and criteria defined in the W3C’s Web Content Accessibility Guidelines (WCAG) 2.1 Level AA.
 
-Cheryl Tiahrt, Chief Information Officer, [\[email protected\]](https://www.usd.edu/cdn-cgi/l/email-protection)  605-658-6000
+If you have difficulty accessing information on the University website due to a disability, please contact the Office of Accessibility at [\[email protected\]](https://www.usd.edu/cdn-cgi/l/email-protection). Please let us know the URL (web address) of the material you tried to access, the problem you experienced and your contact information including your name, email address and phone number. The University of South Dakota strives to address any barriers to access in a timely manner.
 
-Office of Accessibillity, [\[email protected\]](https://www.usd.edu/cdn-cgi/l/email-protection) 605-658-3745 
+If you wish to file a formal complaint regarding discrimination based on disability, please contact the Director of EEO/Title IX at [\[email protected\]](https://www.usd.edu/cdn-cgi/l/email-protection). 
+
+Cheryl Tiahrt, Chief Information Officer, [\[email protected\]](https://www.usd.edu/cdn-cgi/l/email-protection) – 605-658-6000
+
+Office of Accessibility, [\[email protected\]](https://www.usd.edu/cdn-cgi/l/email-protection) – 605-658-3745 
 
 [![USD logo in white](/-/media/Themes/USD/DotEdu/DotEdu/images/logo-white.svg?rev=ddd45cabe4fc46f589fdc1ec0cf25745&la=en&hash=CFBA48E4DCD72819E0B921C47486BD67)](https://www.usd.edu/)
 
