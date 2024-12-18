@@ -1,6 +1,4 @@
-  
-
-  
+            
 
 [Skip to main content (Press Enter).](#skip-target)
 
