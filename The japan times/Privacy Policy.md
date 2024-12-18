@@ -484,6 +484,10 @@ Revised June 1, 2022
 
   [![MUFG Bank CEO Junichi Hanzawa (left) and other senior officials bow in apology at a news conference in Tokyo's Chiyoda Ward on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/16/440537.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "MUFG Bank CEO Junichi Hanzawa (left) and other senior officials bow in apology at a news conference in Tokyo's Chiyoda Ward on Monday.")](https://www.japantimes.co.jp/news/2024/12/16/japan/crime-legal/mufg-hanzawa-safe/ "MUFG Bank apologizes for theft of ¥1 billion in valuables from deposit boxes")
 
+[Taiwan’s bullet train a testament to shinkansen’s export potential](https://www.japantimes.co.jp/business/2024/12/17/taiwan-hsr-shinkansen/ "Taiwan’s bullet train a testament to shinkansen’s export potential")
+
+  [![A Taiwan High Speed Rail bullet train arrives at Nangang Station in the city of Taipei.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/16/440420.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Taiwan High Speed Rail bullet train arrives at Nangang Station in the city of Taipei.")](https://www.japantimes.co.jp/business/2024/12/17/taiwan-hsr-shinkansen/ "Taiwan’s bullet train a testament to shinkansen’s export potential")
+
 [Looking for ways to be charitable in Japan? Give the gift of reading.](https://www.japantimes.co.jp/life/2024/12/17/language/christmas-books-charity-japanese/ "Looking for ways to be charitable in Japan? Give the gift of reading.")
 
   [![Book Santa is a program that delivers books to children in need for Christmas, but it also operates year-round. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/16/440423.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Book Santa is a program that delivers books to children in need for Christmas, but it also operates year-round. ")](https://www.japantimes.co.jp/life/2024/12/17/language/christmas-books-charity-japanese/ "Looking for ways to be charitable in Japan? Give the gift of reading.")
@@ -499,10 +503,6 @@ Revised June 1, 2022
 [Big franchises and bold voices dominated anime in 2024](https://www.japantimes.co.jp/culture/2024/12/13/film/2024-year-anime-japan/ "Big franchises and bold voices dominated anime in 2024")
 
   [![In a year of anime hits, Kiyotaka Oshiyama’s “Look Back” stood out from the bunch.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/12/439704.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "In a year of anime hits, Kiyotaka Oshiyama’s “Look Back” stood out from the bunch.")](https://www.japantimes.co.jp/culture/2024/12/13/film/2024-year-anime-japan/ "Big franchises and bold voices dominated anime in 2024")
-
-[Glass half full: Japan’s sake industry celebrates a brighter 2024](https://www.japantimes.co.jp/life/2024/12/15/food-drink/2024-in-review-sake-shochu/ "Glass half full: Japan’s sake industry celebrates a brighter 2024")
-
-  [![Despite ongoing struggles, 2024 had plenty of bright spots for Japan's sake industry.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/13/439230.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Despite ongoing struggles, 2024 had plenty of bright spots for Japan's sake industry.")](https://www.japantimes.co.jp/life/2024/12/15/food-drink/2024-in-review-sake-shochu/ "Glass half full: Japan’s sake industry celebrates a brighter 2024")
 
 Podcast
 -------
@@ -565,19 +565,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Whaling activist freed after Denmark rejects Japan extradition](https://www.japantimes.co.jp/news/2024/12/17/japan/whaling-activist-denmark-free/ "Whaling activist freed after Denmark rejects Japan extradition")
+[Weak yen helps Japan’s exports rise ahead of BOJ meet](https://www.japantimes.co.jp/business/2024/12/18/economy/november-exports-rise/ "Weak yen helps Japan’s exports rise ahead of BOJ meet")
 
-10 hours ago
+29 mins ago
 
-[Japan enacts ¥13.9 trillion extra budget for fiscal 2024](https://www.japantimes.co.jp/news/2024/12/17/japan/japan-budget-ishiba-policy/ "Japan enacts ¥13.9 trillion extra budget for fiscal 2024")
+[For Waltz, advising isolationist Trump is a Taiwan-sized challenge](https://www.japantimes.co.jp/news/2024/12/18/world/politics/waltz-trump-taiwan-challenge/ "For Waltz, advising isolationist Trump is a Taiwan-sized challenge")
 
-10 hours ago
+46 mins ago
 
-[Bill to abolish funds for political activities clears Lower House](https://www.japantimes.co.jp/news/2024/12/17/japan/politics/political-funds-legislation/ "Bill to abolish funds for political activities clears Lower House")
+[Tokyo startup's second satellite launch attempt ends in failure](https://www.japantimes.co.jp/news/2024/12/18/japan/science-health/space-one-second-launch-failure/ "Tokyo startup's second satellite launch attempt ends in failure")
 
-[Major quake crushes buildings in Vanuatu capital, bodies seen](https://www.japantimes.co.jp/news/2024/12/17/asia-pacific/vanuatu-earthquake/ "Major quake crushes buildings in Vanuatu capital, bodies seen")
+1 hour ago
 
-[Taiwan’s bullet train a testament to shinkansen’s export potential](https://www.japantimes.co.jp/business/2024/12/17/taiwan-hsr-shinkansen/ "Taiwan’s bullet train a testament to shinkansen’s export potential")
+[Ukraine has inflicted casualties on North Korean forces, U.S. says](https://www.japantimes.co.jp/news/2024/12/18/world/ukrainians-north-korean-forces-us/ "Ukraine has inflicted casualties on North Korean forces, U.S. says")
+
+1 hour ago
+
+[Dutch eyeing F-35 Indo-Pacific deployment in 2026, Japan envoy says](https://www.japantimes.co.jp/news/2024/12/18/japan/politics/netherlands-ambassador-japan-interview/ "Dutch eyeing F-35 Indo-Pacific deployment in 2026, Japan envoy says")
+
+1 hour ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
