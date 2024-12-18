@@ -38,7 +38,7 @@ More
 
 My Account Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[AUS vs IND - Match drawn](https://www.cricbuzz.com/live-cricket-scores/91796/aus-vs-ind-3rd-test-india-tour-of-australia-2024-25 "Australia v India, 3rd Test - Match drawn")[MLS vs BRH - BRH Won](https://www.cricbuzz.com/live-cricket-scores/101577/mls-vs-brh-4th-match-big-bash-league-2024-25 "Melbourne Stars v Brisbane Heat, 4th Match - BRH Won")[KDB vs GAM - Live](https://www.cricbuzz.com/live-cricket-scores/110281/kdb-vs-gam-eliminator-lanka-t10-super-league-2024 "Kandy Bolts v Galle Marvels, Eliminator - Live")[BAN vs WI - BAN Won](https://www.cricbuzz.com/live-cricket-scores/95241/ban-vs-wi-2nd-t20i-bangladesh-tour-of-west-indies-2024 "Bangladesh v West Indies, 2nd T20I - BAN Won")[ZIM vs AFG - Preview](https://www.cricbuzz.com/live-cricket-scores/109341/zim-vs-afg-2nd-odi-afghanistan-tour-of-zimbabwe-2024-25 "Zimbabwe v Afghanistan, 2nd ODI - Preview")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[AUS vs IND - Match drawn](https://www.cricbuzz.com/live-cricket-scores/91796/aus-vs-ind-3rd-test-india-tour-of-australia-2024-25 "Australia v India, 3rd Test - Match drawn")[MLS vs BRH - BRH Won](https://www.cricbuzz.com/live-cricket-scores/101577/mls-vs-brh-4th-match-big-bash-league-2024-25 "Melbourne Stars v Brisbane Heat, 4th Match - BRH Won")[ZIM vs AFG - Preview](https://www.cricbuzz.com/live-cricket-scores/109341/zim-vs-afg-2nd-odi-afghanistan-tour-of-zimbabwe-2024-25 "Zimbabwe v Afghanistan, 2nd ODI - Preview")[MLR vs HBH - Preview](https://www.cricbuzz.com/live-cricket-scores/101581/mlr-vs-hbh-5th-match-big-bash-league-2024-25 "Melbourne Renegades v Hobart Hurricanes, 5th Match - Preview")[RSA vs PAK - Preview](https://www.cricbuzz.com/live-cricket-scores/94354/rsa-vs-pak-2nd-odi-pakistan-tour-of-south-africa-2024-25 "South Africa v Pakistan, 2nd ODI - Preview")
 
 AllLive NowToday
 
@@ -90,7 +90,7 @@ AllLive NowToday
     
     11th Match
     
-* [United Arab Emirates vs Qatar](https://www.cricbuzz.com/live-cricket-scores/112297/uae-vs-qat-12th-match-gulf-cricket-t20i-championship "United Arab Emirates v Qatar, 12th Match - Complete")
+* [United Arab Emirates vs Qatar](https://www.cricbuzz.com/live-cricket-scores/112297/uae-vs-qat-12th-match-gulf-cricket-t20i-championship "United Arab Emirates v Qatar, 12th Match - UAE Won")
     
     12th Match
     
@@ -108,15 +108,7 @@ AllLive NowToday
     
 * ICC Mens T20 World Cup Americas Sub Regional Qualifier, 2024
     
-    [Bahamas vs Mexico](https://www.cricbuzz.com/live-cricket-scores/111513/bhm-vs-mex-match-34-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Bahamas v Mexico, Match 34 - BHM Won")
-    
-    Match 34
-    
-* [Bermuda vs Cayman Islands](https://www.cricbuzz.com/live-cricket-scores/111505/ber-vs-caym-match-33-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Bermuda v Cayman Islands, Match 33 - BER Won")
-    
-    Match 33
-    
-* [Argentina vs Brazil](https://www.cricbuzz.com/live-cricket-scores/111529/arg-vs-brazil-match-36-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Argentina v Brazil, Match 36 - ARG Won")
+    [Argentina vs Brazil](https://www.cricbuzz.com/live-cricket-scores/111529/arg-vs-brazil-match-36-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Argentina v Brazil, Match 36 - ARG Won")
     
     Match 36
     
@@ -156,19 +148,7 @@ AllLive NowToday
     
 * Lanka T10 Super League, 2024
     
-    [Nuwara Eliya Kings vs Galle Marvels](https://www.cricbuzz.com/live-cricket-scores/110245/nek-vs-gam-16th-match-lanka-t10-super-league-2024 "Nuwara Eliya Kings v Galle Marvels, 16th Match - Abandon")
-    
-    16th Match
-    
-* [Hambantota Bangla Tigers vs Colombo Jaguars](https://www.cricbuzz.com/live-cricket-scores/110253/hbt-vs-cljr-17th-match-lanka-t10-super-league-2024 "Hambantota Bangla Tigers v Colombo Jaguars, 17th Match - Abandon")
-    
-    17th Match
-    
-* [Jaffna Titans vs Kandy Bolts](https://www.cricbuzz.com/live-cricket-scores/110261/jft-vs-kdb-18th-match-lanka-t10-super-league-2024 "Jaffna Titans v Kandy Bolts, 18th Match - Abandon")
-    
-    18th Match
-    
-* [Colombo Jaguars vs Jaffna Titans](https://www.cricbuzz.com/live-cricket-scores/110265/cljr-vs-jft-19th-match-lanka-t10-super-league-2024 "Colombo Jaguars v Jaffna Titans, 19th Match - JFT Won")
+    [Colombo Jaguars vs Jaffna Titans](https://www.cricbuzz.com/live-cricket-scores/110265/cljr-vs-jft-19th-match-lanka-t10-super-league-2024 "Colombo Jaguars v Jaffna Titans, 19th Match - JFT Won")
     
     19th Match
     
@@ -180,19 +160,19 @@ AllLive NowToday
     
     21st Match
     
-* [Jaffna Titans vs Hambantota Bangla Tigers](https://www.cricbuzz.com/live-cricket-scores/110277/jft-vs-hbt-qualifier-1-lanka-t10-super-league-2024 "Jaffna Titans v Hambantota Bangla Tigers, Qualifier 1 - Complete")
+* [Jaffna Titans vs Hambantota Bangla Tigers](https://www.cricbuzz.com/live-cricket-scores/110277/jft-vs-hbt-qualifier-1-lanka-t10-super-league-2024 "Jaffna Titans v Hambantota Bangla Tigers, Qualifier 1 - JFT Won")
     
     Qualifier 1
     
-* [Kandy Bolts vs Galle Marvels  LIVE](https://www.cricbuzz.com/live-cricket-scores/110281/kdb-vs-gam-eliminator-lanka-t10-super-league-2024 "Kandy Bolts v Galle Marvels, Eliminator - Live")
+* [Kandy Bolts vs Galle Marvels](https://www.cricbuzz.com/live-cricket-scores/110281/kdb-vs-gam-eliminator-lanka-t10-super-league-2024 "Kandy Bolts v Galle Marvels, Eliminator - GAM Won")
     
     Eliminator
     
-* [Hambantota Bangla Tigers vs TBC](https://www.cricbuzz.com/live-cricket-scores/110289/hbt-vs-tbc-qualifier-2-lanka-t10-super-league-2024 "Hambantota Bangla Tigers v TBC, Qualifier 2 - Upcoming")
+* [Galle Marvels vs Hambantota Bangla Tigers](https://www.cricbuzz.com/live-cricket-scores/110289/gam-vs-hbt-qualifier-2-lanka-t10-super-league-2024 "Galle Marvels v Hambantota Bangla Tigers, Qualifier 2 - HBT Won")
     
     Qualifier 2
     
-* [Jaffna Titans vs TBC](https://www.cricbuzz.com/live-cricket-scores/110297/jft-vs-tbc-final-lanka-t10-super-league-2024 "Jaffna Titans v TBC, Final - Upcoming")
+* [Jaffna Titans vs Hambantota Bangla Tigers](https://www.cricbuzz.com/live-cricket-scores/110297/jft-vs-hbt-final-lanka-t10-super-league-2024 "Jaffna Titans v Hambantota Bangla Tigers, Final - Preview")
     
     Final
     
@@ -216,7 +196,7 @@ AllLive NowToday
     
     2nd T20I
     
-* [India Women vs West Indies Women](https://www.cricbuzz.com/live-cricket-scores/110029/indw-vs-wiw-3rd-t20i-india-women-v-west-indies-women-2024 "India Women v West Indies Women, 3rd T20I - Upcoming")
+* [India Women vs West Indies Women](https://www.cricbuzz.com/live-cricket-scores/110029/indw-vs-wiw-3rd-t20i-india-women-v-west-indies-women-2024 "India Women v West Indies Women, 3rd T20I - Preview")
     
     3rd T20I
     
@@ -539,41 +519,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/132836/whatever-happened-today-gives-us-confidence-ahead-of-mcg-test-rohit-sharma "Whatever happened today, gives us confidence ahead of MCG Test - Rohit")
+
+[Whatever happened today, gives us confidence ahead of MCG Test - Rohit](https://www.cricbuzz.com/cricket-news/132836/whatever-happened-today-gives-us-confidence-ahead-of-mcg-test-rohit-sharma "Whatever happened today, gives us confidence ahead of MCG Test - Rohit")
+
+1h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132835/peirson-ensures-winning-start-for-heat-in-season-opener "Peirson ensures winning start for Heat in season opener")
+
+[Peirson ensures winning start for Heat in season opener](https://www.cricbuzz.com/cricket-news/132835/peirson-ensures-winning-start-for-heat-in-season-opener "Peirson ensures winning start for Heat in season opener")
+
+4h ago
+
   [](https://www.cricbuzz.com/cricket-news/132834/ashwins-retirement-internally-it-was-no-shock "Ashwin's retirement: Internally, it was no shock")
 
 [Ashwin's retirement: Internally, it was no shock](https://www.cricbuzz.com/cricket-news/132834/ashwins-retirement-internally-it-was-no-shock "Ashwin's retirement: Internally, it was no shock")
 
-26m ago
+6h ago
 
   [](https://www.cricbuzz.com/cricket-news/132833/dunith-wellalage-left-out-for-new-zealand-t20is "Dunith Wellalage left out for New Zealand T20Is")
 
 [Dunith Wellalage left out for New Zealand T20Is](https://www.cricbuzz.com/cricket-news/132833/dunith-wellalage-left-out-for-new-zealand-t20is "Dunith Wellalage left out for New Zealand T20Is")
 
-55m ago
+6h ago
 
   [](https://www.cricbuzz.com/cricket-news/132832/r-ashwin-retirement-tribute-brisbane-gabba-test-cricket-india-v-australia-border-gavaskar-trophy-bgt "Ashwin always more cerebral than emotional, except on his final day")
 
 [Ashwin always more cerebral than emotional, except on his final day](https://www.cricbuzz.com/cricket-news/132832/r-ashwin-retirement-tribute-brisbane-gabba-test-cricket-india-v-australia-border-gavaskar-trophy-bgt "Ashwin always more cerebral than emotional, except on his final day")
 
-2h ago
+8h ago
 
   [](https://www.cricbuzz.com/cricket-news/132831/maharaj-included-for-pakistan-tests "Maharaj included for Pakistan Tests despite acute groin strain")
 
 [Maharaj included for Pakistan Tests despite acute groin strain](https://www.cricbuzz.com/cricket-news/132831/maharaj-included-for-pakistan-tests "Maharaj included for Pakistan Tests despite acute groin strain")
 
-2h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132830/the-numbers-story-unpacking-the-greatness-of-r-ashwin "The Numbers Story: Unpacking the greatness of R Ashwin")
-
-[The Numbers Story: Unpacking the greatness of R Ashwin](https://www.cricbuzz.com/cricket-news/132830/the-numbers-story-unpacking-the-greatness-of-r-ashwin "The Numbers Story: Unpacking the greatness of R Ashwin")
-
-4h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132829/i-always-have-the-positive-thinking-shamim-hossain "I always think positively: Shamim Hossain ")
-
-[I always think positively: Shamim Hossain](https://www.cricbuzz.com/cricket-news/132829/i-always-have-the-positive-thinking-shamim-hossain "I always think positively: Shamim Hossain ")
-
-4h ago
+8h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
