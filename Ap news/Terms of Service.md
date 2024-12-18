@@ -14,7 +14,7 @@ Menu
     
     * [A couple hundred North Korean troops killed, wounded in battles with Ukrainian forces](https://apnews.com/article/north-korea-ukraine-casualties-kursk-russia-a1207ba61ded5061f721ffa0f0650851)
     * [A top Russian general is killed in a Moscow bombing claimed by Ukraine](https://apnews.com/article/russia-explosion-head-of-nuclear-defense-forces-killed-9656bce946a9f552454df9debe5fbd18)
-    * [Netanyahu says Israeli troops will occupy a buffer zone inside Syria for the foreseeable future](https://apnews.com/article/syria-war-assad-israel-news-17-december-2024-4d7f0b35e08d5e853c776193272fb2d6)
+    * [Israel's borders have shifted throughout its history. Action in Syria may reshape them again](https://apnews.com/article/israel-borders-history-syria-gaza-war-golan-5fdf8fdbe2ec2cee7b9cf7f78fbb1c8c)
     
     Newsletters
     
@@ -31,8 +31,8 @@ Menu
     TOP STORIES
     
     * [Suspect charged with killing UnitedHealthcare's CEO as an act of terrorism](https://apnews.com/article/unitedhealthcare-ceo-killing-luigi-mangione-fccc9e875e976b9901a122bc15669425)
-    * [Police chief says motive for Wisconsin school shooting was a 'combination of factors'](https://apnews.com/article/shooting-christian-school-madison-wisconsin-a8e1ee353d7fdab2b86dfb355938d871)
-    * [What to know about the shooting at a Christian school in Wisconsin](https://apnews.com/article/school-shooting-wisconsin-things-to-know-3df4f40327e70aa863c4b5b36fd0a04b)
+    * [Key details about the man accused of killing UnitedHealthcare's CEO](https://apnews.com/article/unitedhealthcare-ceo-brian-thompson-shooting-79a9710978fc7adbb23d3fed4ea2f70d)
+    * [Community members wrestle with grief in aftermath of Wisconsin school shooting](https://apnews.com/article/wisconsin-school-shooting-vigil-motive-f7596d62f72b6b358add8c35f0e2eee4)
     
     Newsletters
     
@@ -52,9 +52,9 @@ Menu
     
     TOP STORIES
     
+    * [Musk and Trump are viewed roughly the same by Americans, an AP-NORC poll finds](https://apnews.com/article/trump-elon-apnorc-poll-favorability-8506a4eed5ac5dcfe818a277e4adf42a)
     * [Congress unveils funding deal with more than $100 billion in disaster aid](https://apnews.com/article/congress-budget-government-shutdown-farmers-disaster-relief-4c6ae1e0033637bb6398b00c4799ba0d)
     * [After investigating Jan. 6, House GOP sides with Trump and goes after Liz Cheney](https://apnews.com/article/trump-cheney-capitol-attack-prosecution-0aaba7a8d011115410c544374dd0d57f)
-    * [A couple hundred North Korean troops killed, wounded in battles with Ukrainian forces](https://apnews.com/article/north-korea-ukraine-casualties-kursk-russia-a1207ba61ded5061f721ffa0f0650851)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
-    * [Yankees agree to acquire Cody Bellinger from Cubs for pitcher Cody Poteet, AP source says](https://apnews.com/article/bellinger-yankees-cubs-trade-poteet-279cb3175eac9177e7ebf39359700af7)
-    * [RFK Stadium site provision included in federal spending bill, a win for the Commanders and NFL](https://apnews.com/article/washington-commanders-rfk-stadium-95c740d398a84e7ca4aa7877b826c0e0)
-    * [NBA announces All-Star tournament plan for this season: 4 teams, 3 games, 1 night](https://apnews.com/article/nba-all-star-game-tournament-fb1717d0e471a10cbfc5406da9c430c3)
+    * [Giannis, Bucks use 3-point barrage to beat Thunder 97-81 for NBA Cup title](https://apnews.com/article/bucks-thunder-nba-cup-e2192d834aecde6aac04cb2058b7d03e)
+    * [Falcons name rookie Michael Penix Jr. as starting QB, benching veteran Kirk Cousins](https://apnews.com/article/falcons-penix-cousins-32144b1040ecca8b08a89d25554543ec)
+    * [New York Yankees acquire outfielder Cody Bellinger from Cubs for pitcher Cody Poteet](https://apnews.com/article/bellinger-yankees-cubs-trade-poteet-279cb3175eac9177e7ebf39359700af7)
     
     Newsletters
     
@@ -94,9 +94,9 @@ Menu
     
     TOP STORIES
     
+    * [Megan Thee Stallion seeks restraining order, says imprisoned Tory Lanez continues to harass her](https://apnews.com/article/megan-thee-stallion-tory-lanez-restraining-order-83e18781439708638a78571b09a070a3)
+    * [Forget soccer and samba. This caramel-colored street dog is Brazil's new national icon](https://apnews.com/article/brazil-rio-film-carnival-parade-movie-caramelo-mutt-dog-netflix-stray-328062e2dcd7fe4eddc650d424dea93b)
     * [How the Roxies are made: Behind the iconic role in Broadway's megahit 'Chicago'](https://apnews.com/behind-the-iconic-role-roxie-broadway-chicago)
-    * ['Emilia Pérez' and 'Wicked' advance in Oscars shortlists](https://apnews.com/article/oscars-2025-shortlists-63190518f01c1bf9a570a5405d3adfad)
-    * ['Vanderpump Rules' star James Kennedy says he's committed to change after domestic violence arrest](https://apnews.com/article/james-kennedy-arrest-ally-lewber-vanderpump-rules-6d378579136cda5e1927c1bbd4c5aadc)
     
 * [Business](https://apnews.com/business)
     
@@ -106,9 +106,9 @@ Menu
     
     TOP STORIES
     
+    * [Musk and Trump are viewed roughly the same by Americans, an AP-NORC poll finds](https://apnews.com/article/trump-elon-apnorc-poll-favorability-8506a4eed5ac5dcfe818a277e4adf42a)
     * [Retail sales rose at healthy pace last month in latest sign of US economy's health](https://apnews.com/article/retail-sales-economy-spending-483d7ee469187253262c5b47442a1988)
     * [Americans end 2024 with grim economic outlook, but Republicans are optimistic for 2025: AP-NORC poll](https://apnews.com/article/economy-trump-biden-election-poll-39af2a837fc35173e13dd0e5d5e5d471)
-    * [Energy chief Granholm warns against 'unfettered exports' of liquefied natural gas](https://apnews.com/article/lng-exports-biden-europe-climate-russia-625e8e2dfa0a98d81267ff2609b132c9)
     
 * [Science](https://apnews.com/science)
     
@@ -118,9 +118,9 @@ Menu
     
     TOP STORIES
     
+    * [A new neutrino detector in China aims to spot mysterious ghost particles lurking around us](https://apnews.com/article/jiangmen-underground-neutrino-observatory-china-6955b6bc37acdace04d8632c2e27f3f9)
     * [NASA's 2 stuck astronauts face more time in space with return delayed until at least late March](https://apnews.com/article/nasa-stuck-astronauts-77e8f0b988e483a793732297cd868490)
     * [Two stars may be orbiting each other near a supermassive black hole in our Milky Way galaxy](https://apnews.com/article/milky-way-black-hole-binary-star-system-f6b6bdc24742f7bb1fe4dd50ba219aab)
-    * [How old are Saturn's rings? Study suggests they could be 4.5 billion years old just like the planet](https://apnews.com/article/rings-of-saturn-age-f4f88140895f146d61f427d1378cd981)
     
 * [Fact Check](https://apnews.com/ap-fact-check)
     
@@ -190,9 +190,9 @@ Menu
     
     TOP STORIES
     
+    * [Global demand spurring Indonesia's mining boom comes at a cost for many communities](https://apnews.com/article/indonesia-nickel-stainless-steel-energy-transition-evs-c7f9e28b3a59f0113e1f96cd9b154067)
     * [From destruction to deadly heat, Associated Press photographers capture climate change in 2024](https://apnews.com/article/photo-gallery-climate-2024-flooding-heat-928163df24a7a73d619bb138d80ac560)
     * [Can U.N. summits save the planet? A faltering year of talks brings up questions about the process](https://apnews.com/article/united-nations-climate-biodiversity-plastics-drought-summits-failure-64b40bc06287a92d33bcdbfea4f3bf5f)
-    * [26 people arrested in crackdown on illegal deforestation along Paraguay, Brazil and Argentina border](https://apnews.com/article/paraguay-brazil-argentina-border-deforestation-interpol-tree-trafficking-92599975a233802e62732a6a4de84a66)
     
 * [Health](https://apnews.com/health)
     
@@ -213,9 +213,9 @@ Menu
     
     TOP STORIES
     
+    * [Musk and Trump are viewed roughly the same by Americans, an AP-NORC poll finds](https://apnews.com/article/trump-elon-apnorc-poll-favorability-8506a4eed5ac5dcfe818a277e4adf42a)
     * [What does Big Tech hope to gain from warming up to Trump?](https://apnews.com/article/trump-big-tech-ceo-donations-visits-1ddf9464047b519abe5593244be488d9)
     * [EU investigates TikTok over Romanian presidential election safeguards](https://apnews.com/article/tiktok-romania-european-union-election-0638e90cb3898fc61619e8aed4731a53)
-    * [Why is tech giant SoftBank investing over $100 billion in the US?](https://apnews.com/article/japan-softbank-masayoshi-trump-ai-d45efad6e48f80579456fe48dba95562)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -233,9 +233,9 @@ Menu
     
     TOP STORIES
     
+    * [As wars rage around them, Armenian Christians in Jerusalem's Old City feel the walls closing in](https://apnews.com/article/israel-jerusalem-old-city-armenian-christians-6c1b4d324bd4a657be4836c092077e39)
+    * [Community members wrestle with grief in aftermath of Wisconsin school shooting](https://apnews.com/article/wisconsin-school-shooting-vigil-motive-f7596d62f72b6b358add8c35f0e2eee4)
     * [Deadly violence in Nigeria linked to breakup of United Methodist Church over LGBTQ policies](https://apnews.com/article/africa-nigeria-united-methodists-breakup-lgbtq-c68e8ede6c5199d2ecec381163915dc8)
-    * [Former Church of England leader resigns as priest after claims he mishandled an abuse case](https://apnews.com/article/church-england-george-carey-david-tudor-186dcf287bbe829cb75be6ddcb2176c9)
-    * [Pakistani air ambulance delivers medicines to violence-hit district as roads remain closed](https://apnews.com/article/pakistan-air-ambulance-kurram-clashes-c842da6c8a8bdaa3999868694242595c)
     
     Newsletters
     
@@ -249,11 +249,11 @@ Menu
     
     TOP STORIES
     
-    * [Netanyahu dice que Israel se quedará en zona de contención en Siria el tiempo que sea necesario](https://apnews.com/article/siria-assad-israel-netanyahu-guerra-golan-5a0baebeb54a87b46c92c33d44bdf201)
+    * [Olvide el fútbol y la samba. Este perro callejero color caramelo es el nuevo ícono de Brasil](https://apnews.com/article/brasil-caramelo-perro-rio-carnaval-netflix-a0f9a88bab1d73280404064eef1ed098)
+    * [Aumentan ventas de búnkeres nucleares en EEUU, pese a advertencias de expertos de que no protegen](https://apnews.com/article/eeuu-bunker-nuclear-refugios-advertencias-d8a633c2f4465a18b09475f0459c22b7)
     * [La UE otorga el premio Sájarov a líderes opositores venezolanos](https://apnews.com/article/europa-ue-venezuela-premio-sajarov-derechos-humanos-e6404ca0b424d9e1a523a84febaec4bf)
+    * [Netanyahu: tropas israelíes ocuparán una zona de contención dentro de Siria por el futuro previsible](https://apnews.com/article/siria-assad-israel-netanyahu-guerra-golan-5a0baebeb54a87b46c92c33d44bdf201)
     * [Instalaciones fronterizas de EEUU para niños migrantes mejoran, pero se necesita más, dice informe](https://apnews.com/article/migracion-ninos-detencion-migrantes-cf8643f5ae7859071a85edb2221678c0)
-    * [Bomba mata a general ruso en Moscú y funcionario de Kiev dice que el servicio secreto estuvo detrás](https://apnews.com/article/rusia-explosion-jefe-fuerzas-de-defensa-nuclear-372d87b34c4ab1c85a624bde596ba158)
-    * [Canadá impone sanciones económicas a funcionarios venezolanos acusándolos de fraude electoral](https://apnews.com/article/venezuela-elecciones-canada-sanciones-maduro-edmundo-5f43de823015e106f1cd6ae0e8a1e0c7)
     
 * [Quizzes](https://apnews.com/quizzes)
     
@@ -416,7 +416,7 @@ Submit Search
     
     * [A couple hundred North Korean troops killed, wounded in battles with Ukrainian forces](https://apnews.com/article/north-korea-ukraine-casualties-kursk-russia-a1207ba61ded5061f721ffa0f0650851)
     * [A top Russian general is killed in a Moscow bombing claimed by Ukraine](https://apnews.com/article/russia-explosion-head-of-nuclear-defense-forces-killed-9656bce946a9f552454df9debe5fbd18)
-    * [Netanyahu says Israeli troops will occupy a buffer zone inside Syria for the foreseeable future](https://apnews.com/article/syria-war-assad-israel-news-17-december-2024-4d7f0b35e08d5e853c776193272fb2d6)
+    * [Israel's borders have shifted throughout its history. Action in Syria may reshape them again](https://apnews.com/article/israel-borders-history-syria-gaza-war-golan-5fdf8fdbe2ec2cee7b9cf7f78fbb1c8c)
     
     Newsletters
     
@@ -433,8 +433,8 @@ Submit Search
     TOP STORIES
     
     * [Suspect charged with killing UnitedHealthcare's CEO as an act of terrorism](https://apnews.com/article/unitedhealthcare-ceo-killing-luigi-mangione-fccc9e875e976b9901a122bc15669425)
-    * [Police chief says motive for Wisconsin school shooting was a 'combination of factors'](https://apnews.com/article/shooting-christian-school-madison-wisconsin-a8e1ee353d7fdab2b86dfb355938d871)
-    * [What to know about the shooting at a Christian school in Wisconsin](https://apnews.com/article/school-shooting-wisconsin-things-to-know-3df4f40327e70aa863c4b5b36fd0a04b)
+    * [Key details about the man accused of killing UnitedHealthcare's CEO](https://apnews.com/article/unitedhealthcare-ceo-brian-thompson-shooting-79a9710978fc7adbb23d3fed4ea2f70d)
+    * [Community members wrestle with grief in aftermath of Wisconsin school shooting](https://apnews.com/article/wisconsin-school-shooting-vigil-motive-f7596d62f72b6b358add8c35f0e2eee4)
     
     Newsletters
     
@@ -462,9 +462,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Musk and Trump are viewed roughly the same by Americans, an AP-NORC poll finds](https://apnews.com/article/trump-elon-apnorc-poll-favorability-8506a4eed5ac5dcfe818a277e4adf42a)
     * [Congress unveils funding deal with more than $100 billion in disaster aid](https://apnews.com/article/congress-budget-government-shutdown-farmers-disaster-relief-4c6ae1e0033637bb6398b00c4799ba0d)
     * [After investigating Jan. 6, House GOP sides with Trump and goes after Liz Cheney](https://apnews.com/article/trump-cheney-capitol-attack-prosecution-0aaba7a8d011115410c544374dd0d57f)
-    * [A couple hundred North Korean troops killed, wounded in battles with Ukrainian forces](https://apnews.com/article/north-korea-ukraine-casualties-kursk-russia-a1207ba61ded5061f721ffa0f0650851)
     
     Newsletters
     
@@ -492,9 +492,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Yankees agree to acquire Cody Bellinger from Cubs for pitcher Cody Poteet, AP source says](https://apnews.com/article/bellinger-yankees-cubs-trade-poteet-279cb3175eac9177e7ebf39359700af7)
-    * [RFK Stadium site provision included in federal spending bill, a win for the Commanders and NFL](https://apnews.com/article/washington-commanders-rfk-stadium-95c740d398a84e7ca4aa7877b826c0e0)
-    * [NBA announces All-Star tournament plan for this season: 4 teams, 3 games, 1 night](https://apnews.com/article/nba-all-star-game-tournament-fb1717d0e471a10cbfc5406da9c430c3)
+    * [Giannis, Bucks use 3-point barrage to beat Thunder 97-81 for NBA Cup title](https://apnews.com/article/bucks-thunder-nba-cup-e2192d834aecde6aac04cb2058b7d03e)
+    * [Falcons name rookie Michael Penix Jr. as starting QB, benching veteran Kirk Cousins](https://apnews.com/article/falcons-penix-cousins-32144b1040ecca8b08a89d25554543ec)
+    * [New York Yankees acquire outfielder Cody Bellinger from Cubs for pitcher Cody Poteet](https://apnews.com/article/bellinger-yankees-cubs-trade-poteet-279cb3175eac9177e7ebf39359700af7)
     
     Newsletters
     
@@ -521,9 +521,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Megan Thee Stallion seeks restraining order, says imprisoned Tory Lanez continues to harass her](https://apnews.com/article/megan-thee-stallion-tory-lanez-restraining-order-83e18781439708638a78571b09a070a3)
+    * [Forget soccer and samba. This caramel-colored street dog is Brazil's new national icon](https://apnews.com/article/brazil-rio-film-carnival-parade-movie-caramelo-mutt-dog-netflix-stray-328062e2dcd7fe4eddc650d424dea93b)
     * [How the Roxies are made: Behind the iconic role in Broadway's megahit 'Chicago'](https://apnews.com/behind-the-iconic-role-roxie-broadway-chicago)
-    * ['Emilia Pérez' and 'Wicked' advance in Oscars shortlists](https://apnews.com/article/oscars-2025-shortlists-63190518f01c1bf9a570a5405d3adfad)
-    * ['Vanderpump Rules' star James Kennedy says he's committed to change after domestic violence arrest](https://apnews.com/article/james-kennedy-arrest-ally-lewber-vanderpump-rules-6d378579136cda5e1927c1bbd4c5aadc)
     
 * [Business](https://apnews.com/business)
     
@@ -538,9 +538,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Musk and Trump are viewed roughly the same by Americans, an AP-NORC poll finds](https://apnews.com/article/trump-elon-apnorc-poll-favorability-8506a4eed5ac5dcfe818a277e4adf42a)
     * [Retail sales rose at healthy pace last month in latest sign of US economy's health](https://apnews.com/article/retail-sales-economy-spending-483d7ee469187253262c5b47442a1988)
     * [Americans end 2024 with grim economic outlook, but Republicans are optimistic for 2025: AP-NORC poll](https://apnews.com/article/economy-trump-biden-election-poll-39af2a837fc35173e13dd0e5d5e5d471)
-    * [Energy chief Granholm warns against 'unfettered exports' of liquefied natural gas](https://apnews.com/article/lng-exports-biden-europe-climate-russia-625e8e2dfa0a98d81267ff2609b132c9)
     
 * [Science](https://apnews.com/science)
     
@@ -556,9 +556,9 @@ Submit Search
     
     TOP STORIES
     
+    * [A new neutrino detector in China aims to spot mysterious ghost particles lurking around us](https://apnews.com/article/jiangmen-underground-neutrino-observatory-china-6955b6bc37acdace04d8632c2e27f3f9)
     * [NASA's 2 stuck astronauts face more time in space with return delayed until at least late March](https://apnews.com/article/nasa-stuck-astronauts-77e8f0b988e483a793732297cd868490)
     * [Two stars may be orbiting each other near a supermassive black hole in our Milky Way galaxy](https://apnews.com/article/milky-way-black-hole-binary-star-system-f6b6bdc24742f7bb1fe4dd50ba219aab)
-    * [How old are Saturn's rings? Study suggests they could be 4.5 billion years old just like the planet](https://apnews.com/article/rings-of-saturn-age-f4f88140895f146d61f427d1378cd981)
     
 * [Fact Check](https://apnews.com/ap-fact-check)
     
@@ -638,9 +638,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Global demand spurring Indonesia's mining boom comes at a cost for many communities](https://apnews.com/article/indonesia-nickel-stainless-steel-energy-transition-evs-c7f9e28b3a59f0113e1f96cd9b154067)
     * [From destruction to deadly heat, Associated Press photographers capture climate change in 2024](https://apnews.com/article/photo-gallery-climate-2024-flooding-heat-928163df24a7a73d619bb138d80ac560)
     * [Can U.N. summits save the planet? A faltering year of talks brings up questions about the process](https://apnews.com/article/united-nations-climate-biodiversity-plastics-drought-summits-failure-64b40bc06287a92d33bcdbfea4f3bf5f)
-    * [26 people arrested in crackdown on illegal deforestation along Paraguay, Brazil and Argentina border](https://apnews.com/article/paraguay-brazil-argentina-border-deforestation-interpol-tree-trafficking-92599975a233802e62732a6a4de84a66)
     
 * [Health](https://apnews.com/health)
     
@@ -664,9 +664,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Musk and Trump are viewed roughly the same by Americans, an AP-NORC poll finds](https://apnews.com/article/trump-elon-apnorc-poll-favorability-8506a4eed5ac5dcfe818a277e4adf42a)
     * [What does Big Tech hope to gain from warming up to Trump?](https://apnews.com/article/trump-big-tech-ceo-donations-visits-1ddf9464047b519abe5593244be488d9)
     * [EU investigates TikTok over Romanian presidential election safeguards](https://apnews.com/article/tiktok-romania-european-union-election-0638e90cb3898fc61619e8aed4731a53)
-    * [Why is tech giant SoftBank investing over $100 billion in the US?](https://apnews.com/article/japan-softbank-masayoshi-trump-ai-d45efad6e48f80579456fe48dba95562)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -692,9 +692,9 @@ Submit Search
     
     TOP STORIES
     
+    * [As wars rage around them, Armenian Christians in Jerusalem's Old City feel the walls closing in](https://apnews.com/article/israel-jerusalem-old-city-armenian-christians-6c1b4d324bd4a657be4836c092077e39)
+    * [Community members wrestle with grief in aftermath of Wisconsin school shooting](https://apnews.com/article/wisconsin-school-shooting-vigil-motive-f7596d62f72b6b358add8c35f0e2eee4)
     * [Deadly violence in Nigeria linked to breakup of United Methodist Church over LGBTQ policies](https://apnews.com/article/africa-nigeria-united-methodists-breakup-lgbtq-c68e8ede6c5199d2ecec381163915dc8)
-    * [Former Church of England leader resigns as priest after claims he mishandled an abuse case](https://apnews.com/article/church-england-george-carey-david-tudor-186dcf287bbe829cb75be6ddcb2176c9)
-    * [Pakistani air ambulance delivers medicines to violence-hit district as roads remain closed](https://apnews.com/article/pakistan-air-ambulance-kurram-clashes-c842da6c8a8bdaa3999868694242595c)
     
     Newsletters
     
@@ -708,11 +708,11 @@ Submit Search
     
     TOP STORIES
     
-    * [Netanyahu dice que Israel se quedará en zona de contención en Siria el tiempo que sea necesario](https://apnews.com/article/siria-assad-israel-netanyahu-guerra-golan-5a0baebeb54a87b46c92c33d44bdf201)
+    * [Olvide el fútbol y la samba. Este perro callejero color caramelo es el nuevo ícono de Brasil](https://apnews.com/article/brasil-caramelo-perro-rio-carnaval-netflix-a0f9a88bab1d73280404064eef1ed098)
+    * [Aumentan ventas de búnkeres nucleares en EEUU, pese a advertencias de expertos de que no protegen](https://apnews.com/article/eeuu-bunker-nuclear-refugios-advertencias-d8a633c2f4465a18b09475f0459c22b7)
     * [La UE otorga el premio Sájarov a líderes opositores venezolanos](https://apnews.com/article/europa-ue-venezuela-premio-sajarov-derechos-humanos-e6404ca0b424d9e1a523a84febaec4bf)
+    * [Netanyahu: tropas israelíes ocuparán una zona de contención dentro de Siria por el futuro previsible](https://apnews.com/article/siria-assad-israel-netanyahu-guerra-golan-5a0baebeb54a87b46c92c33d44bdf201)
     * [Instalaciones fronterizas de EEUU para niños migrantes mejoran, pero se necesita más, dice informe](https://apnews.com/article/migracion-ninos-detencion-migrantes-cf8643f5ae7859071a85edb2221678c0)
-    * [Bomba mata a general ruso en Moscú y funcionario de Kiev dice que el servicio secreto estuvo detrás](https://apnews.com/article/rusia-explosion-jefe-fuerzas-de-defensa-nuclear-372d87b34c4ab1c85a624bde596ba158)
-    * [Canadá impone sanciones económicas a funcionarios venezolanos acusándolos de fraude electoral](https://apnews.com/article/venezuela-elecciones-canada-sanciones-maduro-edmundo-5f43de823015e106f1cd6ae0e8a1e0c7)
     
 * [Quizzes](https://apnews.com/quizzes)
     
