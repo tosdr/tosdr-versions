@@ -123,7 +123,17 @@ Menu
     
     **[In Focus](https://www.harvard.edu/in-focus/)** Explore a curated examination of Harvard's research, scholarly work, and community. Recent topics include:
     
-    1. HIV/AIDS
+    1. What We Learned in 2024
+        
+        In Focus
+        
+        **What We Learned in 2024** We uncovered mysteries of the past, discovered answers to modern problems, and had breakthroughs that point to an exciting future. [Explore the year of scholarship](https://www.harvard.edu/in-focus/what-we-learned-in-2024/)
+        
+        1. **What's inside**
+            1. [**Gene therapy allows congenitally deaf children to hear**](https://news.harvard.edu/gazette/story/2024/01/gene-therapy-breakthrough-allows-congenitally-deaf-children-to-hear/)
+            2. [**An unearthed papyrus contains lost scenes from Euripides’ plays**](https://news.harvard.edu/gazette/story/2024/10/unearthed-papyrus-contains-lost-scenes-from-euripides-plays/)
+        
+    2. HIV/AIDS
         
         In Focus
         
@@ -133,7 +143,7 @@ Menu
             1. [**Beginning of the end of the HIV epidemic?**](https://news.harvard.edu/gazette/story/2024/07/beginning-of-end-of-hiv-epidemic-aids-lenacapavir/)
             2. [**Improving life expectancy for youth with HIV in the U.S.**](https://www.hsph.harvard.edu/news/hsph-in-the-news/improving-life-expectancy-for-youth-with-hiv-in-u-s/)
         
-    2. Food
+    3. Food
         
         In Focus
         
@@ -142,15 +152,6 @@ Menu
         1. **What's inside?**
             1. [**Explore why we crave junk food**](https://news.harvard.edu/gazette/story/2024/09/why-do-we-crave-junk-food-diet-psychology/)
             2. [**Learn the chemistry and physics of cooking**](https://pll.harvard.edu/catalog?keywords=cooking)
-        
-    3. The Enhanced Body
-        
-        In Focus
-        
-        **The Enhanced Body** From glasses and hearing aids to responsive prosthetics and 3D-printed organs, assistive body augmentations have changed the way we live. [Explore the advancements](https://www.harvard.edu/in-focus/prosthetics/)
-        
-        1. 1. [**The progress of dental implants**](https://news.harvard.edu/gazette/story/2024/10/daniel-buser-honored-at-harvard-school-of-dental-medicine/)
-            2. [**The innovation of wearable robotics**](https://gsas.harvard.edu/news/walk-robot)
         
     
 4. Visit
@@ -209,9 +210,9 @@ Menu
         
         [Read more news](http://news.harvard.edu/)
         
-        1. [**Why do gliomas tend to recur in the brain?** First look at the interplay between neurons and tumors sheds light on formation, spread](https://news.harvard.edu/gazette/story/2024/12/why-do-gliomas-tend-to-recur-in-the-brain/)
-        2. [**Probe the gut, protect the brain?** In fight against Parkinson’s and other disorders, two-way connection may someday lead to a breakthrough](https://news.harvard.edu/gazette/story/2024/12/does-parkinsons-start-in-the-gut-brain-microbiome/)
-        3. [**Why be kind? You might live longer.** Take our research-based quiz on biological benefits of being good](https://news.harvard.edu/gazette/story/2024/12/the-biology-of-kindness-quiz/)
+        1. [**Three Harvard students named Marshall Scholars** ‘Chance of a lifetime’ for recipients whose fields include history, genomics, K-12 education](https://news.harvard.edu/gazette/story/2024/12/three-harvard-students-named-marshall-scholars/)
+        2. [**Time for a rethink of colonoscopy guidelines?** Change informed by new findings would help specialists focus on those most at risk, researcher says](https://news.harvard.edu/gazette/story/2024/12/study-opens-door-to-a-rethink-of-colonoscopy-guidelines/)
+        3. [**Why do gliomas tend to recur in the brain?** First look at the interplay between neurons and tumors sheds light on formation, spread](https://news.harvard.edu/gazette/story/2024/12/why-do-gliomas-tend-to-recur-in-the-brain/)
         
     2. [Sign up for the Daily Gazette](https://www.pages01.net/harvard/gazette?email=)
     
