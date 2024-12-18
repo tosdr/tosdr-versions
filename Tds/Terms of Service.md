@@ -883,9 +883,3 @@ Find out for yourself what TDS has to offer for you.
 TDS® is a registered trademark of Telephone and Data Systems, Inc. TDS Telecom® and TDS Metrocom® are the registered trademarks of Telephone and Data Systems, Inc. and licensed to TDS Telecommunications LLC. USLink® is the registered trademark of TDS Telecommunications LLC. Other product and company names mentioned on the Site may be trademarks of those respective owners. All materials are provided for noncommercial personal use only. TDS Broadband Service LLC is a subsidiary of Telephone and Data Systems, Inc.
 
 Copyright © 2024, TDS Telecommunications LLC, All Rights Reserved.
-
-×
-
-Chat is Currently Unavailable
-
-We're not around to chat at the moment, but we'd love to chat another time.
