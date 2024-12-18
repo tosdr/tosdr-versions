@@ -479,7 +479,7 @@ International Sites
 
 Share Post [Donate](https://headlines.peta.org/donate/?en_txn7=Navigation::sticky-footer-donate-button "Donate")
 
-**[Click here](sms:73822?&body=OREO) [to text](sms:73822?&body=OREO) [OREO](sms:73822?&body=OREO) [to](sms:73822?&body=OREO) [73822](sms:73822?&body=OREO) [to tell the maker of Oreo cookies to stop paying for experiments on animals, like force-feeding mice human feces then killing them.](sms:73822?&body=OREO)**
+**[Click here](sms:73822?&body=ELEPHANT) [to text](sms:73822?&body=ELEPHANT) [ELEPHANT](sms:73822?&body=ELEPHANT) [to](sms:73822?&body=ELEPHANT) [73822](sms:73822?&body=ELEPHANT) [to urge event organizers to cancel abusive elephant games at Nepal’s Chitwan Elephant Festival. Elephants were gouged with bullhooks!](sms:73822?&body=ELEPHANT)**
 
 Terms for automated texts/calls from PETA: [http://peta.vg/txt](https://www.peta.org/about-peta/learn-about-peta/website-policies/texting-terms-and-conditions/). Text STOP to end, HELP for more info. Msg/data rates may apply. U.S. only.
 
