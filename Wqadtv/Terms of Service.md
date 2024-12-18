@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/ed4d3b26-ac2c-4384-b1a3-a8e4579b4604/20241218T042545/ed4d3b26-ac2c-4384-b1a3-a8e4579b4604_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ed4d3b26-ac2c-4384-b1a3-a8e4579b4604/20241218T042545/ed4d3b26-ac2c-4384-b1a3-a8e4579b4604_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/new-scott-county-youth-justice-rehabilitation-center/526-8a3a98f9-2532-45a2-adc8-c7d100b2264b)
+        
+        #### [Take a look inside the new Scott County Youth Justice and Rehabilitation Center](https://www.wqad.com/article/news/local/public-safety/new-scott-county-youth-justice-rehabilitation-center/526-8a3a98f9-2532-45a2-adc8-c7d100b2264b)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/25b8d99c-f518-42a7-b525-1dd373a4d666/20241218T000434/25b8d99c-f518-42a7-b525-1dd373a4d666_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/25b8d99c-f518-42a7-b525-1dd373a4d666/20241218T000434/25b8d99c-f518-42a7-b525-1dd373a4d666_360x203.jpg)](https://www.wqad.com/article/news/local/moline-i74-bridge-walkway-pedestrian-crash-dot/526-4f1c2d8d-2eca-40cd-9799-1154823f95b5)
         
         #### [City of Moline votes on I-74 pedestrian path upgrades following 2022 tragedy](https://www.wqad.com/article/news/local/moline-i74-bridge-walkway-pedestrian-crash-dot/526-4f1c2d8d-2eca-40cd-9799-1154823f95b5)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/e102134e-1377-4fe0-88be-661de0fdd482/20241015T233049/e102134e-1377-4fe0-88be-661de0fdd482_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e102134e-1377-4fe0-88be-661de0fdd482/20241015T233049/e102134e-1377-4fe0-88be-661de0fdd482_360x203.jpg)](https://www.wqad.com/article/news/local/rock-island-vape-shop-moratorium-extended-june-2025/526-aa98a3d1-16a5-4cbd-8c39-c0d28feebecf)
-        
-        #### [Rock Island vape shop moratorium extended to June 30, 2025](https://www.wqad.com/article/news/local/rock-island-vape-shop-moratorium-extended-june-2025/526-aa98a3d1-16a5-4cbd-8c39-c0d28feebecf)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -97,7 +97,7 @@ Navigation
 
 Davenport, IA »
 
-33°
+32°
 
 ![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
