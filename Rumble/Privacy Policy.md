@@ -202,123 +202,123 @@ Go Ad-Free
 
 ### Featured Channels Featured
 
-[Redacted News
+[Akademiks
 
-16.2K](https://rumble.com/v60a7xe-emergency-nato-and-cia-assassinate-top-russian-general-putin-vows-immediate.html "Redacted News")
+4.06K](https://rumble.com/v60axe2-jay-z-says-he-aint-never-been-friends-w-diddy-bhad-bhabie-lost-her-man-trav.html "Akademiks")
+
+[Badlands Media
+
+3.52K](https://rumble.com/v604c2q-badlands-story-hour-ep-96-die-hard.html "Badlands Media")
 
 [NEWSMAX
 
-2.08K](https://rumble.com/v60552h-newsmax2-live-real-news-for-real-people.html "NEWSMAX")
+1.56K](https://rumble.com/v60552h-newsmax2-live-real-news-for-real-people.html "NEWSMAX")
 
-[Due Dissidence
+[barstoolsports
 
-1.78K](https://rumble.com/v602v15-jimmy-dore-joins-tyts-post-election-heel-turn-cnns-syria-debacle-uhurus-big.html "Due Dissidence")
+979](https://rumble.com/v60d5jh-pat-bev-pod-live-nba-cup-championship.html "barstoolsports")
 
-[Barry Cunningham
+[Jerry After Dark
 
-727](https://rumble.com/v609i7k-trump-daily-briefing-liz-cheney-caught-trump-right-about-aurora-elon-target.html "Barry Cunningham")
-
-[VSiNLive
-
-344](https://rumble.com/v60avqw-follow-the-money-with-mitch-moss-and-pauly-howard-hour-1.html "VSiNLive")
+883](https://rumble.com/v60c6gz-a-very-merry-jerry-christmas.html "Jerry After Dark")
 
 [Lofi Girl
 
-245](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
+178](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
 
-[Dr Steve Turley
+[The Pat Bev Podcast with Rone
 
-227](https://rumble.com/v60b6gq-libs-are-in-chaos-over-elons-promise.html "Dr Steve Turley")
+110](https://rumble.com/v60d5jh-pat-bev-pod-live-nba-cup-championship.html "The Pat Bev Podcast with Rone")
 
 [World Poker Tour
 
-11](https://rumble.com/v5xyzbw-wpt-live-wpt-prime-championship-2024-day-3-wpt-world-championship.html "World Poker Tour")
+40](https://rumble.com/v5xyzbw-wpt-live-wpt-prime-championship-2024-day-3-wpt-world-championship.html "World Poker Tour")
 
 [Major League Fishing
 
-0](https://rumble.com/v5pak3w-live-general-tire-team-series-summit-cup-day-6.html "Major League Fishing")
+2](https://rumble.com/v5pak3w-live-general-tire-team-series-summit-cup-day-6.html "Major League Fishing")
 
-[Mets Podcast - We Gotta Believe](https://rumble.com/c/wegottabelievemetspodcast "Mets Podcast - We Gotta Believe")
+[The Chris Cuomo Project](https://rumble.com/c/chriscuomo "The Chris Cuomo Project")
 
-[UFC - Ultimate Fighting Championship](https://rumble.com/c/UFC "UFC - Ultimate Fighting Championship")
+[Tucker Carlson](https://rumble.com/c/TuckerCarlson "Tucker Carlson")
 
-[THE SHOW CALEB SHOW](https://rumble.com/c/TheShowCalebShow "THE SHOW CALEB SHOW")
+[Frank the Tank Fleming](https://rumble.com/c/FrankTheTankFleming "Frank the Tank Fleming")
 
-[The Rubin Report](https://rumble.com/c/RubinReport "The Rubin Report")
+[Rico Bosco](https://rumble.com/c/ricobosco "Rico Bosco")
 
-[The Wonton Don](https://rumble.com/c/TheWontonDon "The Wonton Don")
+[After Skool](https://rumble.com/c/AfterSkool "After Skool")
 
-[Pardon My Take](https://rumble.com/c/PardonMyTake "Pardon My Take")
+[Graham Allen](https://rumble.com/c/GrahamAllenOfficial "Graham Allen")
 
-[Vivek Ramaswamy](https://rumble.com/c/VivekRamaswamy "Vivek Ramaswamy")
+[Power Slap](https://rumble.com/c/powerslap "Power Slap")
 
-[Awaken With JP](https://rumble.com/c/AwakenWithJP "Awaken With JP")
+[Twisted History](https://rumble.com/c/TwistedHistory "Twisted History")
 
-[Stool Streams](https://rumble.com/c/stoolstreams "Stool Streams")
+[Danny Polishchuk](https://rumble.com/c/Dannyjokes "Danny Polishchuk")
 
-[Zero Blog Thirty](https://rumble.com/c/ZeroBlogThirty "Zero Blog Thirty")
+[Mountain Rug Cleaning](https://rumble.com/c/MountainRugCleaning "Mountain Rug Cleaning")
 
-[Darkhorse Podcast](https://rumble.com/c/darkhorse "Darkhorse Podcast")
+[Barstool Gambling](https://rumble.com/c/BarstoolGambling "Barstool Gambling")
 
-[Devin Nunes](https://rumble.com/c/DevinNunes "Devin Nunes")
+[The Why Files](https://rumble.com/c/TheWhyFiles "The Why Files")
 
-[Shaun Attwood](https://rumble.com/c/ShaunAttwood "Shaun Attwood")
+[The Dozen Trivia](https://rumble.com/c/TheDozenTrivia "The Dozen Trivia")
 
-[Boho Beautiful Yoga](https://rumble.com/c/BohoBeautiful "Boho Beautiful Yoga")
+[Barry Cunningham](https://rumble.com/c/BarryCunningham "Barry Cunningham")
 
-[Nerdrotic](https://rumble.com/c/Nerdrotic "Nerdrotic")
-
-[Audit the Audit](https://rumble.com/c/JohnLang "Audit the Audit")
-
-[Dani Jackel](https://rumble.com/c/DaniJackel "Dani Jackel")
-
-[Barstool U](https://rumble.com/c/BarstoolU "Barstool U")
-
-[OUT OF ORDER](https://rumble.com/c/OutofOrderrr "OUT OF ORDER")
-
-[Kim Iversen](https://rumble.com/c/KimIversen "Kim Iversen")
-
-[Matt Kim](https://rumble.com/c/FreeMattKim "Matt Kim")
-
-[Barstool Yak](https://rumble.com/c/BarstoolYak "Barstool Yak")
-
-[A New Untold Story](https://rumble.com/c/ANewUntoldStory "A New Untold Story")
-
-[Breaking Points](https://rumble.com/c/BreakingPoints "Breaking Points")
-
-[DanScavino45](https://rumble.com/user/DanScavino45 "DanScavino45")
-
-[Bannons War Room](https://rumble.com/c/BannonsWarRoom "Bannons War Room")
-
-[New York Post](https://rumble.com/c/NYPost "New York Post")
-
-[Hannah Barron](https://rumble.com/c/HannahBarron "Hannah Barron")
-
-[Rough N' Rowdy](https://rumble.com/c/RoughNRowdy "Rough N' Rowdy")
+[Mike Crispi](https://rumble.com/c/crispi "Mike Crispi")
 
 [Medical Medium](https://rumble.com/c/MedicalMedium "Medical Medium")
 
+[Chicks in the Office](https://rumble.com/c/ChicksInTheOffice "Chicks in the Office")
+
+[Dr. Anthony M. Criniti IV (aka “Dr. Finance®”)](https://rumble.com/c/DrFinance "Dr. Anthony M. Criniti IV (aka “Dr. Finance®”)")
+
+[Macrodosing w/ PFT & Arian Foster](https://rumble.com/c/MacrodosingWithPFTAndArianFoster "Macrodosing w/ PFT & Arian Foster")
+
+[Standpoint with Gabe Groisman](https://rumble.com/c/GabeGroisman "Standpoint with Gabe Groisman")
+
+[Mets Podcast - We Gotta Believe](https://rumble.com/c/wegottabelievemetspodcast "Mets Podcast - We Gotta Believe")
+
+[BFFs: Dave Portnoy, Josh Richards & Bri Chickenfry](https://rumble.com/c/BFFsDavePortnoyJoshRichardsAndBriChickenfry "BFFs: Dave Portnoy, Josh Richards & Bri Chickenfry")
+
+[Audit the Audit](https://rumble.com/c/JohnLang "Audit the Audit")
+
+[TalismanTate by Tristan Tate](https://rumble.com/c/TalismanTate "TalismanTate by Tristan Tate")
+
+[Peter Santenello](https://rumble.com/c/PeterSantenello "Peter Santenello")
+
 [Taylor Watch](https://rumble.com/c/TAYLORWATCH "Taylor Watch")
 
-[Glenn Greenwald](https://rumble.com/c/GGreenwald "Glenn Greenwald")
+[Spittin' Chiclets](https://rumble.com/c/SpittinChiclets "Spittin' Chiclets")
 
-[SB Mowing](https://rumble.com/c/SBMowing "SB Mowing")
+[LockPickingLawyer](https://rumble.com/c/LockPickingLawyer "LockPickingLawyer")
 
-[JustPearlyThings](https://rumble.com/c/JustPearlyThings "JustPearlyThings")
+[Nerdrotic](https://rumble.com/c/Nerdrotic "Nerdrotic")
 
-[My Mom's Basement with Robbie Fox](https://rumble.com/c/MyMomsBasementWithRobbieFox "My Mom's Basement with Robbie Fox")
-
-[Jerry After Dark](https://rumble.com/c/JerryAfterDark "Jerry After Dark")
-
-[Dana Beers](https://rumble.com/c/danabeers "Dana Beers")
-
-[Ghosts and Grit With Jack Osbourne Podcast](https://rumble.com/c/JackOsbourne "Ghosts and Grit With Jack Osbourne Podcast")
-
-[Chef Donny](https://rumble.com/c/DonnyEnriquez "Chef Donny")
-
-[Candace Owens Podcast](https://rumble.com/c/CandaceOwensPodcast "Candace Owens Podcast")
+[Awaken With JP](https://rumble.com/c/AwakenWithJP "Awaken With JP")
 
 [Rubbin Is Racing](https://rumble.com/c/rubbinisracing "Rubbin Is Racing")
+
+[WeAreChange](https://rumble.com/c/WeAreChange "WeAreChange")
+
+[A New Untold Story](https://rumble.com/c/ANewUntoldStory "A New Untold Story")
+
+[Redacted News](https://rumble.com/c/Redacted "Redacted News")
+
+[Kim Iversen](https://rumble.com/c/KimIversen "Kim Iversen")
+
+[Taylor Alesia](https://rumble.com/c/TheBibleChick "Taylor Alesia")
+
+[Jack Mac](https://rumble.com/c/JackMacBarstool "Jack Mac")
+
+[OUT OF ORDER](https://rumble.com/c/OutofOrderrr "OUT OF ORDER")
+
+[Tate Speech by Andrew Tate](https://rumble.com/c/TateSpeech "Tate Speech by Andrew Tate")
+
+[Rough N' Rowdy](https://rumble.com/c/RoughNRowdy "Rough N' Rowdy")
+
+[John Burk](https://rumble.com/c/JohnBurk "John Burk")
 
 ### Theme
 
