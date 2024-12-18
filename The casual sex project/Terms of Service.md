@@ -90,19 +90,19 @@ New York, NY 10017
 Spotlight
 ---------
 
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/march-on-billionaires-event.jpg)[](https://admin.mi52siterestore.com/article/correcting-the-top-10-tax-myths/ "Read More")
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/crime-scene-brooklyn.jpg)[](https://admin.mi52siterestore.com/article/crime-in-new-york-dashboard/ "Read More")
 
-Issue Brief Economics Tax & Budget
+Report Public Safety
 
-Dec 12 2024
+Dec 17 2024
 
-Issue Brief Economics Tax & Budget
+Report Public Safety
 
-Dec 12 2024
+Dec 17 2024
 
-### [Correcting the Top 10 Tax Myths](https://admin.mi52siterestore.com/article/correcting-the-top-10-tax-myths/)
+### [Crime in New York Dashboard](https://admin.mi52siterestore.com/article/crime-in-new-york-dashboard/)
 
-By **[Brian Riedl](https://admin.mi52siterestore.com/person/brian-riedl/)** Read time **33 mins** [Read More](https://admin.mi52siterestore.com/article/correcting-the-top-10-tax-myths/)
+By **[Charles Fain Lehman](https://admin.mi52siterestore.com/person/charles-fain-lehman/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/crime-in-new-york-dashboard/)
 
     ![](https://media4.manhattan-institute.org/wp-content/uploads/political-violence-luigi-mangione-trump-jan-6.jpg)[](https://admin.mi52siterestore.com/article/political-violence-happens-because-we-let-it/ "Read More")
 
@@ -124,6 +124,16 @@ Dec 12 2024
 
 By **[Ilya Shapiro](https://admin.mi52siterestore.com/person/ilya-shapiro/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/6-ways-president-trump-can-fight-antisemitism-from-day-1/)
 
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/march-on-billionaires-event.jpg)[](https://admin.mi52siterestore.com/article/correcting-the-top-10-tax-myths/ "Read More")
+
+Issue Brief Economics Tax & Budget
+
+Dec 12 2024
+
+[Correcting the Top 10 Tax Myths](https://admin.mi52siterestore.com/article/correcting-the-top-10-tax-myths/)
+
+By **[Brian Riedl](https://admin.mi52siterestore.com/person/brian-riedl/)** Read time **33 mins** [Read More](https://admin.mi52siterestore.com/article/correcting-the-top-10-tax-myths/)
+
     ![](https://media4.manhattan-institute.org/wp-content/uploads/the-federal-reserve-banks-are-turning-left.jpg)[](https://admin.mi52siterestore.com/article/the-federal-reserve-banks-are-turning-left/ "Read More")
 
 Commentary Economics, Governance
@@ -133,16 +143,6 @@ Dec 11 2024
 [The Federal Reserve Banks Are Turning Left](https://admin.mi52siterestore.com/article/the-federal-reserve-banks-are-turning-left/)
 
 By **[Judge Glock](https://admin.mi52siterestore.com/person/judge-glock/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/the-federal-reserve-banks-are-turning-left/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/the-affirmative-action-fight-comes-to-high-schools.jpg)[](https://admin.mi52siterestore.com/article/the-affirmative-action-fight-comes-to-high-schools/ "Read More")
-
-Commentary Education Pre K-12, Affirmative Action
-
-Dec 10 2024
-
-[The Affirmative Action Fight Comes to High Schools](https://admin.mi52siterestore.com/article/the-affirmative-action-fight-comes-to-high-schools/)
-
-By **[Robert VerBruggen](https://admin.mi52siterestore.com/person/robert-verbruggen/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/the-affirmative-action-fight-comes-to-high-schools/)
 
 Our Policy Areas
 ----------------
