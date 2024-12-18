@@ -305,7 +305,7 @@ Attn: Privacy Officer
 Boca Raton, FL 33431-0835  
 [privacy@adt.com](mailto:privacy@adt.com?Subject=Privacy%20Question)
 
-If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, please contact our U.S.-based third-party dispute resolution provider (free of charge) at [https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request). This third-party dispute resolution provider will then serve as a liaison with ADT to help resolve your concerns.
+In compliance with the EU-U.S. DPF and the Swiss-U.S. DPF, ADT commits to refer unresolved complaints concerning our handling of personal data received in reliance of the EU-U.S. DPF and the Swiss-U.S. DPF to TRUSTe, an alternative dispute resolution provider based in the United States. If you do not receive timely acknowledgement from your DPF Principles-related complaint from us, or if we have not addressed your DPF-Principles-related complaint to your satisfaction please visit [https://feedback-form.trustarc.com/watchdog/request](https://feedback-form.trustarc.com/watchdog/request) for more information or to file a complaint. These dispute resolution services are provided at no cost to you.
 
 ### 9\. Privacy Policy Scope / ADT Entities and Affiliates
 
