@@ -401,37 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Man sentenced for 2022 murder of Arlington car dealership owner](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/screenshot-2024-12-17-134513.png?ve=1&tl=1)
+ [![Fort Worth debuts $40 million renovations of Will Rogers Memorial Center](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/p-dionne-will-rogers-center-updates-530p_00.00.19.00.jpg?ve=1&tl=1)
 
- ![Man sentenced for 2022 murder of Arlington car dealership owner](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/screenshot-2024-12-17-134513.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/man-sentenced-2022-murder-arlington-car-dealership-owner)
+ ![Fort Worth debuts $40 million renovations of Will Rogers Memorial Center](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/p-dionne-will-rogers-center-updates-530p_00.00.19.00.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-debuts-40-million-renovations-will-rogers-memorial-center)
 
-### [Man sentenced for 2022 murder of Arlington car dealership owner](https://www.fox4news.com/news/man-sentenced-2022-murder-arlington-car-dealership-owner)
+### [Fort Worth debuts $40 million renovations of Will Rogers Memorial Center](https://www.fox4news.com/news/fort-worth-debuts-40-million-renovations-will-rogers-memorial-center)
 
- [![Live updates: Wisconsin school shooting: Police to give update Tuesday](https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2024/12/32/18/gettyimages-2190292044.jpg?ve=1&tl=1)
+ [![Man gets probation in 2014 Garland murder case delayed 30 times](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/david-mcdermett.jpg?ve=1&tl=1)
 
- ![Live updates: Wisconsin school shooting: Police to give update Tuesday](https://images.foxtv.com/images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2024/12/32/18/592/333/gettyimages-2190292044.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/madison-wisconsin-school-shooting-latest-dec-17-2024)
+ ![Man gets probation in 2014 Garland murder case delayed 30 times](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/david-mcdermett.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/david-mcdermett-janet-vanderslice-probation-plea-deal)
 
-Live Now
+### [Man gets probation in 2014 Garland murder case delayed 30 times](https://www.fox4news.com/news/david-mcdermett-janet-vanderslice-probation-plea-deal)
 
-### [Live updates: Wisconsin school shooting: Police to give update Tuesday](https://www.fox4news.com/news/madison-wisconsin-school-shooting-latest-dec-17-2024)
+ [![North Texas Walmart employees wearing body cameras](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/gettyimages-2185459806.jpg?ve=1&tl=1)
 
- [![These North Texas cities are among the best in America for the young and wealthy](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/Family-at-the-playground.jpg?ve=1&tl=1)
+ ![North Texas Walmart employees wearing body cameras](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/gettyimages-2185459806.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/north-texas-walmart-employees-body-cameras)
 
- ![These North Texas cities are among the best in America for the young and wealthy](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/Family-at-the-playground.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-best-places-to-live-young-wealthy)
+### [North Texas Walmart employees wearing body cameras](https://www.fox4news.com/news/north-texas-walmart-employees-body-cameras)
 
-### [These North Texas cities are among the best in America for the young and wealthy](https://www.fox4news.com/news/dallas-best-places-to-live-young-wealthy)
+ [![Ellis County detention officer killed after being beaten to death by inmate](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/ellis-county-jailer-killed.jpg?ve=1&tl=1)
 
- [![Funeral held for fallen Terrell police officer Jacob Candanoza](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/terrell-officer-funeral-_-part-2_2024_12_17t1004ct_00.01.15.04.jpg?ve=1&tl=1)
+ ![Ellis County detention officer killed after being beaten to death by inmate](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/ellis-county-jailer-killed.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ellis-county-detention-officer-isaiah-bias-death)
 
- ![Funeral held for fallen Terrell police officer Jacob Candanoza](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/terrell-officer-funeral-_-part-2_2024_12_17t1004ct_00.01.15.04.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/terrell-police-officer-jacob-candanoza-funeral)
+### [Ellis County detention officer killed after being beaten to death by inmate](https://www.fox4news.com/news/ellis-county-detention-officer-isaiah-bias-death)
 
-### [Funeral held for fallen Terrell police officer Jacob Candanoza](https://www.fox4news.com/news/terrell-police-officer-jacob-candanoza-funeral)
+ [![Parents of Mesquite 9-month-old girl who 'starved to death' charged with capital murder](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/mesquite-9-month-old-starved-to-death.png?ve=1&tl=1)
 
- [![Ellis County detention officer dies after being assaulted by inmate](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/ellis-county-jailer-killed.jpg?ve=1&tl=1)
+ ![Parents of Mesquite 9-month-old girl who 'starved to death' charged with capital murder](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/mesquite-9-month-old-starved-to-death.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/destiny-avila-leon-johnson-capital-murder-charges-maliyah-johnson-starved)
 
- ![Ellis County detention officer dies after being assaulted by inmate](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/ellis-county-jailer-killed.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ellis-county-detention-officer-isaiah-bias-death)
-
-### [Ellis County detention officer dies after being assaulted by inmate](https://www.fox4news.com/news/ellis-county-detention-officer-isaiah-bias-death)
+### [Parents of Mesquite 9-month-old girl who 'starved to death' charged with capital murder](https://www.fox4news.com/news/destiny-avila-leon-johnson-capital-murder-charges-maliyah-johnson-starved)
 
 ###### [News](https://www.fox4news.com/news)
 
