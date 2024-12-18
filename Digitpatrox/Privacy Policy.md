@@ -20,16 +20,16 @@ Wednesday, December 18 2024
 
 Latest
 
-* [‘Bitter’ cyberspies target defense orgs with new MiyaRAT malware](https://digitpatrox.com/bitter-cyberspies-target-defense-orgs-with-new-miyarat-malware/)
-* [Intel finally notches a GPU win, confirms Arc B580 is selling out after stellar reviews](https://digitpatrox.com/intel-finally-notches-a-gpu-win-confirms-arc-b580-is-selling-out-after-stellar-reviews/)
-* [How to Get the Nocturnal Rod in Fisch Roblox](https://digitpatrox.com/how-to-get-the-nocturnal-rod-in-fisch-roblox/)
-* [Arctic Wolf to acquire BlackBerry’s Cylance assets for $160 million](https://digitpatrox.com/arctic-wolf-to-acquire-blackberrys-cylance-assets-for-160-million/)
-* [The LG B4 OLED TV Is $400 Off With a $100 Gift Card](https://digitpatrox.com/the-lg-b4-oled-tv-is-400-off-with-a-100-gift-card/)
-* [7 Best Sheets of 2024, Lab-Tested and Reviewed](https://digitpatrox.com/7-best-sheets-of-2024-lab-tested-and-reviewed/)
-* [Everything You Can and Can’t Share with Apple Family Sharing](https://digitpatrox.com/everything-you-can-and-cant-share-with-apple-family-sharing/)
-* [IT leaders fear a repeat of the CrowdStrike outage in 2025](https://digitpatrox.com/it-leaders-fear-a-repeat-of-the-crowdstrike-outage-in-2025/)
-* [Is Your SSD Failing? Learn to Check Its Health on Linux](https://digitpatrox.com/is-your-ssd-failing-learn-to-check-its-health-on-linux/)
-* [Southampton vs Liverpool live stream: watch EFL Cup game online](https://digitpatrox.com/southampton-vs-liverpool-live-stream-watch-efl-cup-game-online/)
+* [Selling on outcomes, not solutions – how the channel can improve sales success in 2025](https://digitpatrox.com/selling-on-outcomes-not-solutions-how-the-channel-can-improve-sales-success-in-2025/)
+* [What Grindy Tasks Can it Get Rid Of?](https://digitpatrox.com/what-grindy-tasks-can-it-get-rid-of/)
+* [Hexgears Immersion A3 TKL review](https://digitpatrox.com/hexgears-immersion-a3-tkl-review/)
+* [New fake Ledger data breach emails try to steal crypto wallets](https://digitpatrox.com/new-fake-ledger-data-breach-emails-try-to-steal-crypto-wallets/)
+* [Apple’s App Store is inviting me to ‘search the way you talk’](https://digitpatrox.com/apples-app-store-is-inviting-me-to-search-the-way-you-talk/)
+* [Where Do FaceTime Photos Go on a Mac?](https://digitpatrox.com/where-do-facetime-photos-go-on-a-mac/)
+* [This Beats Pill Speaker Is $50 Off Right Now, and It’ll Arrive Before Christmas](https://digitpatrox.com/this-beats-pill-speaker-is-50-off-right-now-and-itll-arrive-before-christmas/)
+* [How to watch StackTV from anywhere](https://digitpatrox.com/how-to-watch-stacktv-from-anywhere/)
+* [How to Save $500 on Your Cell Phone Plan](https://digitpatrox.com/how-to-save-500-on-your-cell-phone-plan/)
+* [The Best External Solid State Drives (SSDs) of 2024](https://digitpatrox.com/the-best-external-solid-state-drives-ssds-of-2024/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://www.bleepstatic.com/content/hl-images/2024/06/27/blacksuit-hacker.jpg)](https://digitpatrox.com/bitter-cyberspies-target-defense-orgs-with-new-miyarat-malware/)
+* [![](https://cdn.mos.cms.futurecdn.net/Bhkuofd9LWaGzyt5VwymKH-1200-80.jpg)](https://digitpatrox.com/selling-on-outcomes-not-solutions-how-the-channel-can-improve-sales-success-in-2025/)
     
-    [‘Bitter’ cyberspies target defense orgs with new MiyaRAT malware](https://digitpatrox.com/bitter-cyberspies-target-defense-orgs-with-new-miyarat-malware/)
+    [Selling on outcomes, not solutions – how the channel can improve sales success in 2025](https://digitpatrox.com/selling-on-outcomes-not-solutions-how-the-channel-can-improve-sales-success-in-2025/)
     
-    40 minutes ago
+    26 minutes ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/Rfmy0TJBu0IcjQIZMhIOH2Ui-oE=/0x0:2048x1152/1200x628/filters:focal(1024x576:1025x577)/cdn.vox-cdn.com/uploads/chorus_asset/file/25795274/SMG_24_01_Gaming_Mage_Ultra_Organic_2560x1440_D_2048x1152.png)](https://digitpatrox.com/intel-finally-notches-a-gpu-win-confirms-arc-b580-is-selling-out-after-stellar-reviews/)
+* [![](https://assets.techrepublic.com/uploads/2024/12/rpa-contact-center-featured-image-12162024-min.jpg)](https://digitpatrox.com/what-grindy-tasks-can-it-get-rid-of/)
     
-    [Intel finally notches a GPU win, confirms Arc B580 is selling out after stellar reviews](https://digitpatrox.com/intel-finally-notches-a-gpu-win-confirms-arc-b580-is-selling-out-after-stellar-reviews/)
+    [What Grindy Tasks Can it Get Rid Of?](https://digitpatrox.com/what-grindy-tasks-can-it-get-rid-of/)
     
-    1 hour ago
+    30 minutes ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/12/nocturnal-rod-in-fisch.jpg?w=1250&quality=75)](https://digitpatrox.com/how-to-get-the-nocturnal-rod-in-fisch-roblox/)
+* [![](https://cdn.mos.cms.futurecdn.net/rFL7g25RFLeTcHVnW2nFub-1200-80.jpg)](https://digitpatrox.com/hexgears-immersion-a3-tkl-review/)
     
-    [How to Get the Nocturnal Rod in Fisch Roblox](https://digitpatrox.com/how-to-get-the-nocturnal-rod-in-fisch-roblox/)
+    [Hexgears Immersion A3 TKL review](https://digitpatrox.com/hexgears-immersion-a3-tkl-review/)
     
-    1 hour ago
+    34 minutes ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/E6CWYG29ZoytTeEWF72mcS-1200-80.jpg)](https://digitpatrox.com/arctic-wolf-to-acquire-blackberrys-cylance-assets-for-160-million/)
+* [![](https://www.bleepstatic.com/content/hl-images/2023/12/14/blocks-1.jpg)](https://digitpatrox.com/new-fake-ledger-data-breach-emails-try-to-steal-crypto-wallets/)
     
-    [Arctic Wolf to acquire BlackBerry’s Cylance assets for $160 million](https://digitpatrox.com/arctic-wolf-to-acquire-blackberrys-cylance-assets-for-160-million/)
+    [New fake Ledger data breach emails try to steal crypto wallets](https://digitpatrox.com/new-fake-ledger-data-breach-emails-try-to-steal-crypto-wallets/)
     
-    3 hours ago
+    2 hours ago
     
-* [![](https://lifehacker.com/imagery/articles/01J1DCMM2SSRP1GD0T2MCCS4S2/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/the-lg-b4-oled-tv-is-400-off-with-a-100-gift-card/)
+* [![](https://cdn.vox-cdn.com/thumbor/4Wp1aFVuIz-lAaRsk6d070BFRiA=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/23925968/acastro_STK045_03.jpg)](https://digitpatrox.com/apples-app-store-is-inviting-me-to-search-the-way-you-talk/)
     
-    [The LG B4 OLED TV Is $400 Off With a $100 Gift Card](https://digitpatrox.com/the-lg-b4-oled-tv-is-400-off-with-a-100-gift-card/)
+    [Apple’s App Store is inviting me to ‘search the way you talk’](https://digitpatrox.com/apples-app-store-is-inviting-me-to-search-the-way-you-talk/)
     
-    4 hours ago
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [40 minutes ago
+* [26 minutes ago
     
-    ### ‘Bitter’ cyberspies target defense orgs with new MiyaRAT malware](https://digitpatrox.com/bitter-cyberspies-target-defense-orgs-with-new-miyarat-malware/)
-* [1 hour ago
+    ### Selling on outcomes, not solutions – how the channel can improve sales success in 2025](https://digitpatrox.com/selling-on-outcomes-not-solutions-how-the-channel-can-improve-sales-success-in-2025/)
+* [30 minutes ago
     
-    ### Intel finally notches a GPU win, confirms Arc B580 is selling out after stellar reviews](https://digitpatrox.com/intel-finally-notches-a-gpu-win-confirms-arc-b580-is-selling-out-after-stellar-reviews/)
-* [1 hour ago
+    ### What Grindy Tasks Can it Get Rid Of?](https://digitpatrox.com/what-grindy-tasks-can-it-get-rid-of/)
+* [34 minutes ago
     
-    ### How to Get the Nocturnal Rod in Fisch Roblox](https://digitpatrox.com/how-to-get-the-nocturnal-rod-in-fisch-roblox/)
+    ### Hexgears Immersion A3 TKL review](https://digitpatrox.com/hexgears-immersion-a3-tkl-review/)
 
 Most Popular Topics
 
-* [3 weeks ago
+* [November 16, 2024
     
-    ### Are ‘ghost engineers’ stunting productivity in software development? Researchers claim nearly 10% of engineers do “virtually nothing” and are a drain on enterprises](https://digitpatrox.com/are-ghost-engineers-stunting-productivity-in-software-development-researchers-claim-nearly-10-of-engineers-do-virtually-nothing-and-are-a-drain-on-enterprises/)
-* [3 weeks ago
+    ### Narwal’s Freo X Ultra, the best mopping robot available, is on sale for a new low price](https://digitpatrox.com/narwals-freo-x-ultra-the-best-mopping-robot-available-is-on-sale-for-a-new-low-price/)
+* [4 weeks ago
     
-    ### The biggest IT threat? That seemingly innocuous web browser – Computerworld](https://digitpatrox.com/the-biggest-it-threat-that-seemingly-innocuous-web-browser-computerworld/)
-* [September 10, 2024
+    ### Apple plans for a smarter LLM-based Siri smart assistant – Computerworld](https://digitpatrox.com/apple-plans-for-a-smarter-llm-based-siri-smart-assistant-computerworld/)
+* [October 23, 2024
     
-    ### Is Google a monopoly? US DoJ begins second antitrust trial, this time targeting ad tech – Computerworld](https://digitpatrox.com/is-google-a-monopoly-us-doj-begins-second-antitrust-trial-this-time-targeting-ad-tech-computerworld/)
+    ### SUVs and Minivans With the Best Third-Row Seats](https://digitpatrox.com/suvs-and-minivans-with-the-best-third-row-seats/)
 
 Last Modified Topics
 
-* [4 hours ago
-    
-    ### Everything You Can and Can’t Share with Apple Family Sharing](https://digitpatrox.com/everything-you-can-and-cant-share-with-apple-family-sharing/)
-* [4 hours ago
-    
-    ### IT leaders fear a repeat of the CrowdStrike outage in 2025](https://digitpatrox.com/it-leaders-fear-a-repeat-of-the-crowdstrike-outage-in-2025/)
 * [5 hours ago
     
-    ### Is Your SSD Failing? Learn to Check Its Health on Linux](https://digitpatrox.com/is-your-ssd-failing-learn-to-check-its-health-on-linux/)
+    ### This Beats Pill Speaker Is $50 Off Right Now, and It’ll Arrive Before Christmas](https://digitpatrox.com/this-beats-pill-speaker-is-50-off-right-now-and-itll-arrive-before-christmas/)
+* [5 hours ago
+    
+    ### How to watch StackTV from anywhere](https://digitpatrox.com/how-to-watch-stacktv-from-anywhere/)
+* [5 hours ago
+    
+    ### How to Save $500 on Your Cell Phone Plan](https://digitpatrox.com/how-to-save-500-on-your-cell-phone-plan/)
 
 Most Viewed Topics
 
-* [August 12, 2024
-    
-    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [August 13, 2024
     
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [August 12, 2024
     
     ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
+* [August 11, 2024
+    
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
