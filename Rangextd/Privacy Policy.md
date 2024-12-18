@@ -132,13 +132,13 @@ Discover the hottest items flying off the shelves.
     
     $159.99 $49.99
     
-* Sale -56% [![Kore 2.0 Elite Smart Watch - Health Tracker,](//savvysmartdeals.com/cdn/shop/files/45b73ad83fddd9a705b1795e04ee6fb4.png?v=1721296571&width=465)![Kore 2.0 Elite Smart Watch - Health Tracker,](//savvysmartdeals.com/cdn/shop/files/d4377ec58d44e370d98f033038246f58_89c6a325-b2bc-4e7e-a0cf-76c5d97ce655.png?v=1721296571&width=465)](https://www.rangextd.com/products/kore-2-0)
+*  [![Kore 2.0 Elite Smart Watch - Health Tracker,](//savvysmartdeals.com/cdn/shop/files/45b73ad83fddd9a705b1795e04ee6fb4.png?v=1721296571&width=465)![Kore 2.0 Elite Smart Watch - Health Tracker,](//savvysmartdeals.com/cdn/shop/files/d4377ec58d44e370d98f033038246f58_89c6a325-b2bc-4e7e-a0cf-76c5d97ce655.png?v=1721296571&width=465)](https://www.rangextd.com/products/kore-2-0)
     
     ### [Kore 2.0 Elite Smart Watch - Health Tracker,](https://www.rangextd.com/products/kore-2-0)
     
     Next day delivery
     
-    $179.99 $79.99
+    $79.99
     
 * Sale -68% [![FindZ QR Pet Tag - Lost and Found Solution, Quick and Easy Identification](//savvysmartdeals.com/cdn/shop/files/21ba131ff61860c60a2c3bfbf8df7c5c_16903b1f-bf28-4ae3-89d9-87f8b1a57bfc.png?v=1721296741&width=465)![FindZ QR Pet Tag - Lost and Found Solution, Quick and Easy Identification](//savvysmartdeals.com/cdn/shop/files/7631a224fb1d2d168907c2429956350f.jpg?v=1721296741&width=465)](https://www.rangextd.com/products/smart-pet-qr-tag)
     
