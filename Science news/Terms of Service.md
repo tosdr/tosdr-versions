@@ -1,10 +1,10 @@
 [Skip to content](#content)
 
-**Enjoy unlimited access**
+**Subscribe today**
 
-Only $2.99 a month
+Every print subscription comes with full digital access
 
-[Subscribe now](https://www.sciencenews.org/subscribe1-digital-monthly?key=9MNAVBNB2&utm_source=banner&utm_medium=site&utm_campaign=full_digital_access)
+[Subscribe now](https://www.sciencenews.org/subscribe1?key=9MNAVBNA&utm_source=banner&utm_medium=site&utm_campaign=full_digital_access)
 
 Menu
 
@@ -90,23 +90,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
     * Recent posts in Humans
         ----------------------
         
+        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
+            
+            ### [Here’s how public health fared in 2024](https://www.sciencenews.org/article/public-health-checkup-2024)
+            
+            By [Aimee Cunningham](https://www.sciencenews.org/author/aimee-cunningham "Posts by Aimee Cunningham")4 hours ago
+            
         * [Archaeology](https://www.sciencenews.org/topic/archaeology)
             
             ### [Archaeology’s top discoveries of 2024 include preserved brains and a lost city](https://www.sciencenews.org/article/archaeology-discovery-brains-lost-city)
             
-            By [Maria Temming](https://www.sciencenews.org/author/maria-temming "Posts by Maria Temming")21 hours ago
+            By [Maria Temming](https://www.sciencenews.org/author/maria-temming "Posts by Maria Temming")December 17, 2024
             
         * [Anthropology](https://www.sciencenews.org/topic/anthropology)
             
             ### [Britain’s largest ancient massacre may have included cannibalism](https://www.sciencenews.org/article/britain-ancient-massacre-cannibalism)
             
             By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")December 15, 2024
-            
-        * [Space](https://www.sciencenews.org/topic/space)
-            
-            ### [These discoveries in 2024 could be groundbreaking — if they’re true](https://www.sciencenews.org/article/2024-science-discoveries-could-be-true)
-            
-            By [Maria Temming](https://www.sciencenews.org/author/maria-temming "Posts by Maria Temming")December 13, 2024
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -124,7 +124,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [These are our favorite animal stories of 2024](https://www.sciencenews.org/article/favorite-animal-stories-2024)
             
-            By [Darren Incorvaia](https://www.sciencenews.org/author/darren-incorvaia "Posts by Darren Incorvaia")58 minutes ago
+            By [Darren Incorvaia](https://www.sciencenews.org/author/darren-incorvaia "Posts by Darren Incorvaia")8 hours ago
             
         * [Life](https://www.sciencenews.org/topic/life)
             
@@ -173,6 +173,12 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
     * Recent posts in Physics
         -----------------------
         
+        * [Materials Science](https://www.sciencenews.org/topic/materials-science)
+            
+            ### [Scotch tape is key to creating thin films of diamond](https://www.sciencenews.org/article/scotch-tape-create-diamond-film) 
+            
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")6 hours ago
+            
         * [Life](https://www.sciencenews.org/topic/life)
             
             ### [Here are 8 remarkable scientific firsts of 2024](https://www.sciencenews.org/article/remarkable-scientific-firsts-of-2024)
@@ -185,12 +191,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")December 6, 2024
             
-        * [Materials Science](https://www.sciencenews.org/topic/materials-science)
-            
-            ### [Starchy nanofibers shatter the record for world’s thinnest pasta](https://www.sciencenews.org/article/thinnest-pasta-nanofibers)
-            
-            By [Skyler Ware](https://www.sciencenews.org/author/skyler-ware "Posts by Skyler Ware")December 3, 2024
-            
 * [Space](https://www.sciencenews.org/topic/space)
     * [Space](https://www.sciencenews.org/topic/space)
         * [Astronomy](https://www.sciencenews.org/topic/astronomy)
@@ -199,6 +199,12 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
     * Recent posts in Space
         ---------------------
         
+        * [Space](https://www.sciencenews.org/topic/space)
+            
+            ### [What will space exploration look like under Trump?](https://www.sciencenews.org/article/space-exploration-nasa-trump)
+            
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")2 hours ago
+            
         * [Life](https://www.sciencenews.org/topic/life)
             
             ### [Here are 8 remarkable scientific firsts of 2024](https://www.sciencenews.org/article/remarkable-scientific-firsts-of-2024)
@@ -210,12 +216,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [These discoveries in 2024 could be groundbreaking — if they’re true](https://www.sciencenews.org/article/2024-science-discoveries-could-be-true)
             
             By [Maria Temming](https://www.sciencenews.org/author/maria-temming "Posts by Maria Temming")December 13, 2024
-            
-        * [Space](https://www.sciencenews.org/topic/space)
-            
-            ### [The 2024 eclipse gave a rare view of the sun. Here’s a peek at early data](https://www.sciencenews.org/article/2024-eclipse-sun-early-data-corona)
-            
-            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")December 13, 2024
             
 
 Terms of Service
