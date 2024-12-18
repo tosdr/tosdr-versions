@@ -111,7 +111,7 @@ This agreement will terminate automatically if you fail to comply with any of th
 
 [![HT Vector Logo](images/logo5.png)](https://ht-vector.com/)
 
-© 2007–2024  
+© 2007–2025  
 All rights reserved
 
   
