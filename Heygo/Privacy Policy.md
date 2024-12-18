@@ -518,7 +518,7 @@ Where to travel abroad by month...
 New in travel
 -------------
 
-[![25 of the best travel destinations for 2025](https://media.restless.co.uk/uploads/2024/10/9-of-the-best-travel-destinations-for-2025-768x575.jpg)](https://restless.co.uk/travel/the-best-travel-destinations-for-2025/)
+[![25 of the best travel destinations for 2025](https://media.restless.co.uk/uploads/2024/12/the-best-travel-destinations-for-2025-768x512.jpg)](https://restless.co.uk/travel/the-best-travel-destinations-for-2025/)
 
 ### [25 of the best travel destinations for 2025](https://restless.co.uk/travel/the-best-travel-destinations-for-2025/)
 
@@ -556,6 +556,12 @@ New in travel
 
 Popular travel guides
 ---------------------
+
+[![6 of the cheapest countries to visit in Southeast Asia](https://media.restless.co.uk/uploads/2023/04/the-cheapest-countries-to-visit-in-southeast-asia-1-768x511.jpg)](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-southeast-asia/)
+
+### [6 of the cheapest countries to visit in Southeast Asia](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-southeast-asia/)
+
+[Read More »](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-southeast-asia/)
 
 [![12 of the cheapest countries to visit in Europe](https://media.restless.co.uk/uploads/2022/12/the-cheapest-countries-to-visit-in-europe-768x513.jpg)](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-europe/)
 
@@ -610,12 +616,6 @@ Popular travel guides
 ### [10 places with Viking connections to visit in the UK](https://restless.co.uk/travel/places-with-viking-connections-to-visit-in-the-uk/)
 
 [Read More »](https://restless.co.uk/travel/places-with-viking-connections-to-visit-in-the-uk/)
-
-[![6 of the cheapest countries to visit in Southeast Asia](https://media.restless.co.uk/uploads/2023/04/the-cheapest-countries-to-visit-in-southeast-asia-1-768x511.jpg)](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-southeast-asia/)
-
-### [6 of the cheapest countries to visit in Southeast Asia](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-southeast-asia/)
-
-[Read More »](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-southeast-asia/)
 
 [![10 World War II sites you can visit in Europe](https://media.restless.co.uk/uploads/2023/09/world-war-ii-sites-you-can-visit-in-europe-1-768x512.jpg)](https://restless.co.uk/travel/world-war-ii-sites-you-can-visit-in-europe/)
 
