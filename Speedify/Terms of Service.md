@@ -135,12 +135,6 @@ Speedify is the only app that combines all of your Internet connections to keep 
 Upcoming Events
 ---------------
 
-Dec 18
-
-10:01 am - 11:00 am EST
-
-### [12/18 @ 10am EST – Live Q&A with ALL the Engineers | Ask the CEO your tech questions](https://speedify.com/event/12-18-10am-est-can-one-weaker-connection-slow-you-down-ask-the-ceo-your-tech-questions/ "12/18 @ 10am EST – Live Q&A with ALL the Engineers | Ask the CEO your tech questions")
-
 Jan 2
 
 10:00 am - 11:00 am EST
@@ -205,3 +199,7 @@ Follow us!
 * [Help](https://speedify.com/help/)
 * [Sign In](https://my.speedify.com/)
 * [Download](https://speedify.com/download/)
+
+                          
+
+This website uses cookies. To learn more, visit our [Cookie Policy](https://speedify.com/cookie-policy)[Ok](#)
