@@ -171,7 +171,7 @@ In case you're more into pictures, Telegram has animated [gif search](https://te
 
 Those looking for extra privacy should check out our [advanced settings](https://telegram.org/blog/privacy-revolution) and rather revolutionary [policy](https://telegram.org/privacy). And if you want secrecy, try our device-specific [Secret Chats](#secret-chats) with self-destructing messages, photos, and videos — and lock your app with an additional [passcode](https://telegram.org/blog/photo-editor-and-passcodes).
 
-> We keep evolving — check out our [Brief History of Telegram](https://telegram.org/evolution) and follow us on [twitter](https://twitter.com/telegram) and [Telegram](https://t.me/telegram) to stay in touch.
+> We keep evolving — check out our [Brief History of Telegram](https://telegram.org/evolution) and follow us on [twitter](https://x.com/telegram) and [Telegram](https://t.me/telegram) to stay in touch.
 
 #### [](#q-how-is-telegram-different-from-whatsapp)Q: How is Telegram different from WhatsApp?
 
@@ -951,17 +951,17 @@ If you can't log in to your account, please use [this form](https://telegram.org
 
 ### [](#twitter)Twitter?
 
-Yep. Follow us! [**@telegram**](https://twitter.com/telegram)  
-Our twitter account in Spanish: [@telegram\_es](https://twitter.com/telegram_es)  
-In Italian: [@telegram\_it](https://twitter.com/telegram_it)  
-In Korean: [@Telegram\_kr](https://twitter.com/telegram_kr)  
-In German: [@de\_telegram](https://twitter.com/de_telegram)  
-For users from Brazil: [@Telegram\_br](https://twitter.com/telegram_br)  
-Our Arabic-speaking users may find [@telegram\_arabic](https://twitter.com/telegram_arabic) more interesting.
+Yep. Follow us! [**@telegram**](https://x.com/telegram)  
+Our twitter account in Spanish: [@telegram\_es](https://x.com/telegram_es)  
+In Italian: [@telegram\_it](https://x.com/telegram_it)  
+In Korean: [@Telegram\_kr](https://x.com/telegram_kr)  
+In German: [@de\_telegram](https://x.com/de_telegram)  
+For users from Brazil: [@Telegram\_br](https://x.com/telegram_br)  
+Our Arabic-speaking users may find [@telegram\_arabic](https://x.com/telegram_arabic) more interesting.
 
 ### [](#smstelegram-login-help-on-twitter)@SmsTelegram, login help on Twitter
 
-We have a special account that can help you with login problems, [**@smstelegram**](https://twitter.com/smstelegram). This account is official. Don't be afraid to DM it the number you use for Telegram, we need this info to investigate issues.
+We have a special account that can help you with login problems, [**@smstelegram**](https://x.com/smstelegram). This account is official. Don't be afraid to DM it the number you use for Telegram, we need this info to investigate issues.
 
 Be careful, we don't have any other support accounts on any social media platforms.
 
