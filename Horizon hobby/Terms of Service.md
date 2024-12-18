@@ -4,7 +4,7 @@
 
 [GUARANTEED\* CHRISTMAS DELIVERY
 
-Ground Ship Cutoff - **Today**, 12/18 @ 12PM CST](https://www.horizonhobby.com/shipping-billing-returns-info.html?cp_source=global&cp_medium=tippy-top)
+2-Day Ship Cutoff – Friday, 12/20 @ 12PM CST](https://www.horizonhobby.com/shipping-billing-returns-info.html?cp_source=global&cp_medium=tippy-top)
 
 [Last Minute Deals Ending Soon](https://www.horizonhobby.com/horizon-hobby-rc-sale/last-minute-deals/?cp_source=global&cp_medium=tippy-top)
 
@@ -14,7 +14,7 @@ Find The Perfect RC Gift](https://www.horizonhobby.com/holiday-headquarters/?cp_
 
 [GUARANTEED\* CHRISTMAS DELIVERY
 
-Ground Ship Cutoff - **Today**, 12/18 @ 12PM CST](https://www.horizonhobby.com/shipping-billing-returns-info.html?cp_source=global&cp_medium=tippy-top)
+2-Day Ship Cutoff – Friday, 12/20 @ 12PM CST](https://www.horizonhobby.com/shipping-billing-returns-info.html?cp_source=global&cp_medium=tippy-top)
 
 [Last Minute Deals Ending Soon](https://www.horizonhobby.com/horizon-hobby-rc-sale/last-minute-deals/?cp_source=global&cp_medium=tippy-top)
 
@@ -106,7 +106,7 @@ My store
 
 [GUARANTEED\* CHRISTMAS DELIVERY
 
-Ground Ship Cutoff - **Today**, 12/18 @ 12PM CST](https://www.horizonhobby.com/shipping-billing-returns-info.html?cp_source=global&cp_medium=tippy-top)
+2-Day Ship Cutoff – Friday, 12/20 @ 12PM CST](https://www.horizonhobby.com/shipping-billing-returns-info.html?cp_source=global&cp_medium=tippy-top)
 
 [Last Minute Deals Ending Soon](https://www.horizonhobby.com/horizon-hobby-rc-sale/last-minute-deals/?cp_source=global&cp_medium=tippy-top)
 
@@ -116,7 +116,7 @@ Find The Perfect RC Gift](https://www.horizonhobby.com/holiday-headquarters/?cp_
 
 [GUARANTEED\* CHRISTMAS DELIVERY
 
-Ground Ship Cutoff - **Today**, 12/18 @ 12PM CST](https://www.horizonhobby.com/shipping-billing-returns-info.html?cp_source=global&cp_medium=tippy-top)
+2-Day Ship Cutoff – Friday, 12/20 @ 12PM CST](https://www.horizonhobby.com/shipping-billing-returns-info.html?cp_source=global&cp_medium=tippy-top)
 
 [Last Minute Deals Ending Soon](https://www.horizonhobby.com/horizon-hobby-rc-sale/last-minute-deals/?cp_source=global&cp_medium=tippy-top)
 
