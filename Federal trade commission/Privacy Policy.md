@@ -221,9 +221,9 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC, Illinois Attorney General Take Action Against Grubhub for Harming Diners, Workers, and Small Businesses](https://www.ftc.gov/news-events/news/press-releases/2024/12/ftc-illinois-attorney-general-take-action-against-grubhub-harming-diners-workers-small-businesses)
+    ### [FTC Approves Final Order against Rytr, Seller of an AI “Testimonial & Review” Service, for Providing Subscribers with Means to Generate False and Deceptive Reviews](https://www.ftc.gov/news-events/news/press-releases/2024/12/ftc-approves-final-order-against-rytr-seller-ai-testimonial-review-service-providing-subscribers)
     
-    December 17, 2024
+    December 18, 2024
     
     [View News and Events](https://www.ftc.gov/news-events)
     
@@ -269,11 +269,11 @@ Main Menu Mega
     Feature
     -------
     
-    ![person signing non-compete agreement](/system/files/styles/crop_thumbnail/private/ftc_gov/images/hand-signing-noncompete-agreement-smaller-istock-1455331862.jpg?itok=JSdZeTJk)
+    ![gaming controller illustration](/sites/default/files/styles/crop_thumbnail/public/ftc_gov/images/gaming-controller-hero.jpg?itok=9PjrGCSl)
     
-    ### [Noncompete Rule: What You Should Know](https://www.ftc.gov/news-events/features/noncompetes "Noncompete Rule Feature")
+    ### [Playing it Safe: Explore the FTC's Top Video Game Cases](https://www.ftc.gov/news-events/features/gaming "Playing it Safe: Explore the FTC's Top Video Game Cases feature")
     
-    Visit the Noncompetes feature page for more information, including factsheets featuring stories on how the rule can benefit Americans.
+    Learn about the FTC's notable video game cases and what our agency is doing to keep the public safe.
     
     Latest Data Visualization
     -------------------------
