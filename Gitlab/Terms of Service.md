@@ -1216,7 +1216,6 @@
                     * [ ]  [Scalability Group Project Management](https://handbook.gitlab.com/handbook/engineering/infrastructure/team/scalability/project-management/)
                     * [ ]  [Scalability:Practices Team](https://handbook.gitlab.com/handbook/engineering/infrastructure/team/scalability/practices/)
             * [ ]  [Test Platform Sub-Department](https://handbook.gitlab.com/handbook/engineering/infrastructure/test-platform/)
-                * [ ]  [Blocking end-to-end tests](https://handbook.gitlab.com/handbook/engineering/infrastructure/test-platform/blocking-tests/)
                 * [ ]  [Bug Prioritization](https://handbook.gitlab.com/handbook/engineering/infrastructure/test-platform/bug-prioritization/)
                 * [ ]  [Debugging Failing Tests and Test Pipelines](https://handbook.gitlab.com/handbook/engineering/infrastructure/test-platform/debugging-qa-test-failures/)
                 * [ ]  [GitLab Data Seeder (GDS)](https://handbook.gitlab.com/handbook/engineering/infrastructure/test-platform/gitlab-data-seeder/)
