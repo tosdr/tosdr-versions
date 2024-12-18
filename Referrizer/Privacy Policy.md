@@ -6,19 +6,29 @@
 
 * [Solutions](#) Close Solutions Open Solutions
     
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2040%2040'%3E%3C/svg%3E)
     
-    ![](https://business.referrizer.com/wp-content/uploads/2024/04/reputation-management-icon.svg)
+    ![](https://business.referrizer.com/wp-content/uploads/2024/12/icon-ai-assistant.svg)
     
-    #### Reputation Management
+    #### AI Assistant
     
-    Turn your customers into your salesforce](https://business.referrizer.com/features/reputationmanagement/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2040%2040'%3E%3C/svg%3E)
+    ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2040%2040'%3E%3C/svg%3E)
+    
+    ![](https://business.referrizer.com/wp-content/uploads/2024/12/icon-ai-assistant.svg)
+    
+    Automate interactions and bookings through text](https://business.referrizer.com/features/ai-assistant/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2040%2040'%3E%3C/svg%3E)
     
     ![](https://business.referrizer.com/wp-content/uploads/2024/04/offers-referrals-icon.svg)
     
     #### Offers & Referrals
     
-    Turn your customers into your salesforce](https://business.referrizer.com/features/offersreferrals/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2029'%3E%3C/svg%3E)
+    Turn your customers into your salesforce](https://business.referrizer.com/features/offersreferrals/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
+    
+    ![](https://business.referrizer.com/wp-content/uploads/2024/04/reputation-management-icon.svg)
+    
+    #### Reputation Management
+    
+    Turn your customers into your salesforce](https://business.referrizer.com/features/reputationmanagement/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2029'%3E%3C/svg%3E)
     
     ![](https://business.referrizer.com/wp-content/uploads/2024/04/lead-management-icon.svg)
     
@@ -383,6 +393,7 @@ You agree that these User Terms are binding on you. Your agreement is effective 
 
 ### Solutions
 
+* [AI Assistant](https://business.referrizer.com/features/ai-assistant/)
 * [Email Marketing](https://business.referrizer.com/features/emailmarketing/)
 * [Partner Up Network](https://business.referrizer.com/features/partnerup/)
 * [Smart Line](https://business.referrizer.com/features/smartline/)
@@ -393,6 +404,7 @@ You agree that these User Terms are binding on you. Your agreement is effective 
 * [2-Way Text Messaging](https://business.referrizer.com/features/textmarketing/)
 * [Loyalty Program](https://business.referrizer.com/features/loyalty/)
 
+* [AI Assistant](https://business.referrizer.com/features/ai-assistant/)
 * [Email Marketing](https://business.referrizer.com/features/emailmarketing/)
 * [Partner Up Network](https://business.referrizer.com/features/partnerup/)
 * [Smart Line](https://business.referrizer.com/features/smartline/)
