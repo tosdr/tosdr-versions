@@ -172,9 +172,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
+* [Virtual Lunch & Learn: A deep dive into OneTrust's Third Party Management capabilities](https://www.onetrust.com/resources/virtual-lunch-learn-a-deep-dive-into-onetrusts-third-party-management-capabilities-webinar/)
 * [Deliver hyper-personalized experiences with a privacy-first approach to first-party data](https://www.onetrust.com/resources/deliver-hyper-personalized-experiences-with-a-privacy-first-approach-to-first-party-data-infographic/)
 * [Redefining privacy as a business asset: The value of Privacy Automation](https://www.onetrust.com/resources/redefining-privacy-as-a-business-asset-the-value-of-privacy-automation-webinar/)
-* [OneTrust Consent & Preferences Demo Video](https://www.onetrust.com/resources/consent-and-preferences-demo-video/)
 
 ### Platform
 
