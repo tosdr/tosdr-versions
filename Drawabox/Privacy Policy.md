@@ -24,13 +24,19 @@
 
 [](javascript:ShowNextAnnouncement(false,'next'))
 
-[](https://amzn.to/2Bz3JgN)
-
-[](https://amzn.to/2R8xkYn)
-
 [](https://amzn.to/3KZMtFM)
 
-[](https://drawabox.com/rec/proko/figuredrawing)
+[](https://amzn.to/4cdoFKu)
+
+[](https://drawabox.com/rec/uncomfortable/whattodraw)
+
+USE CODE 12DAYS
+
+FOR 15% OFF
+
+SALE ENDS December 25th
+
+[](https://drawabox.com/rec/proko/drawingbasics)
 
 USE CODE 12DAYS
 
