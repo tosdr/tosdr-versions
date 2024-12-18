@@ -196,14 +196,14 @@ Hi
     * BACK
     * [All Products](https://www.smithbrothersfarms.com/all-products)
         
-    * [New! (57)](https://www.smithbrothersfarms.com/featured-products)
+    * [New! (52)](https://www.smithbrothersfarms.com/featured-products)
         
     * [On Sale (71)](https://www.smithbrothersfarms.com/on-special)
         
-    * [Holiday (38)](https://www.smithbrothersfarms.com/holiday)
+    * [Holiday (39)](https://www.smithbrothersfarms.com/holiday)
         
         * BACK
-        * [Holiday Treats (15)](https://www.smithbrothersfarms.com/holiday-treats)
+        * [Holiday Treats (16)](https://www.smithbrothersfarms.com/holiday-treats)
             
         
     * [Milk & Cream (54)](https://www.smithbrothersfarms.com/milk-cream)
