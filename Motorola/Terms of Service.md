@@ -1,107 +1,311 @@
-[](https://www.motorola.com/us/)
+  
 
-* Shop Phones
+  
+
+[![](https://p4-ofp.static.pub/MOTO/assets/masthead/logo_moto.6676278b2f6d8e48.svg)](https://www.motorola.com/us/en/homepage.html)
+
+* Shop phones
     
-    Family
-    
-    Compare
-    
-    * [* Motorola Razr](https://www.motorola.com/us/smartphones-razr-family "Motorola Razr")
-    * [* Motorola Edge](https://www.motorola.com/us/smartphones-motorola-edge-family "Motorola Edge")
-    * [* Moto G](https://www.motorola.com/us/smartphones-moto-g-family "Moto G")
-    * [* All Smartphones](https://www.motorola.com/us/smartphones "All Smartphones")
-    * [* Switch to Moto](https://www.motorola.com/us/switch "Switch to Moto")
-    * [* Compatibility](https://www.motorola.com/us/carrier-compatibility "Compatibility")
+    * [![](//p3-ofp.static.pub//fes/cms/2024/08/15/jqgb7qtavsvibddj9yl47j873h2f1e043828.png)
+        
+        razr](https://www.motorola.com/us/en/family/razr.html)
+    * [![](//p1-ofp.static.pub//fes/cms/2024/08/15/493ltv4oq23v7sz4kepw5foxa2laby245944.png)
+        
+        Edge](https://www.motorola.com/us/en/family/edge.html)
+    * [![](//p3-ofp.static.pub//fes/cms/2024/08/14/7p5tc54f8hi4w3304ifgrscsdnit6c498502.png)
+        
+        Moto g](https://www.motorola.com/us/en/family/g.html)
+    * [![](//p4-ofp.static.pub//fes/cms/2024/08/15/z9tw4jp6h79nmadbdqovwu3q2gb946283419.png)
+        
+        All Smartphones](https://www.motorola.com/us/en/smartphones/index.html)
+    * [![](//p2-ofp.static.pub//fes/cms/2024/11/27/xomut68b2ygypd9aik1g9ivi1f6vts811456.png)
+        
+        Switch to Moto](https://www.motorola.com/us/en/switch.html)
+    * [![](//p2-ofp.static.pub//fes/cms/2024/08/15/cxjx9fiwzhprgct21urr7ur2085b65135246.png)
+        
+        Compatibilty](https://www.motorola.com/us/en/carrier-compatibility)
+    * [![](//p4-ofp.static.pub//fes/cms/2024/08/15/8910oybzgd1mq6atqoqffro676g0n5450679.png)
+        
+        5G](https://www.motorola.com/us/en/5g/index.html)
     
 * On Sale
     
-    Family
-    
-    Compare
-    
-    * [* razr+ 2024 - $200 off](https://www.motorola.com/us/smartphones-razr-plus-gen-2/p "razr+ 2024 - $200 off")
-    * [* razr 2023 - $350 off](https://www.motorola.com/us/smartphones-razr-gen-3/p?skuId=984 "razr 2023 - $350 off")
-    * [* moto edge+ 2023 - $350 off](https://www.motorola.com/us/smartphones-motorola-edge-plus-gen-2/p "moto edge+ 2023 - $350 off")
-    * [* LAST MINUTE GIFTS SALE](https://www.motorola.com/us/specials "LAST MINUTE GIFTS SALE")
-    * [* Compare phones](https://www.motorola.com/us/compare-smartphones "Compare phones")
-    * [* Tablet](https://www.motorola.com/us/lenovo-tab-p11/p "Tablet")
-    * [](#)
+    * [![](//p1-ofp.static.pub//fes/cms/2024/12/17/pe867nxcbin4x1xw0o89ctwj0x21co255207.png)
+        
+        razr+ 2024 - $200 off](https://www.motorola.com/us/en/p/phones/razr/razr-plus-gen-2/pmipmgs38mh?pn=PB2J0010US)
+    * [![](//p1-ofp.static.pub//fes/cms/2024/12/17/63jf2nvz50ion50a2hf9k5ebfrekqe285587.png)
+        
+        edge+ 2023 - $350 off](https://www.motorola.com/us/en/p/phones/motorola-edge/edge-plus-gen-3/pmipmfo33m2?pn=PAWJ0002US)
+    * [![](//p4-ofp.static.pub//fes/cms/2024/12/17/36kqj9njh7esllrcwi0z2pxgd5slok154278.png)
+        
+        moto g stylus 5g 2024 - $150 off](https://www.motorola.com/us/en/p/phones/moto-g/g-stylus-5g-gen-4/pmipmgr37mo?pn=PB1M0006US)
+    * [![](//p1-ofp.static.pub//fes/cms/2024/08/15/xdqnmnleq0hz6n13kps29re5lyvmbf274949.png)
+        
+        LAST MINUTE GIFTS SALE](https://www.motorola.com/us/en/specials.html)
+    * [![](//p2-ofp.static.pub//fes/cms/2024/08/15/le4sdzsqi7nrs7z0fm0x1q1k3yaztq745802.png)
+        
+        Compare Phones](https://www.motorola.com/us/en/compare/index.html)
+    * [![](//p3-ofp.static.pub//fes/cms/2024/08/15/3wuj0hbbye5dvopwklxwigsk9diq9u362168.png)
+        
+        Tablet](https://www.motorola.com/us/en/p/zzitztatb7j)
     
 * Business
     
-    Family
-    
-    Compare
-    
-    * [* Moto for Business](https://www.motorola.com/us/business "Moto for Business")
-    * [* ThinkShield](https://www.motorola.com/us/thinkshield/p "ThinkShield")
-    * [* ThinkPhone](https://www.motorola.com/us/smartphones-thinkphone/p?skuId=869 "ThinkPhone")
+    * [![](//p4-ofp.static.pub//fes/cms/2024/08/15/74sg53267em2qu881z81oi0vam1oep053784.png)
+        
+        Moto for business](https://www.motorola.com/us/en/business.html)
+    * [![](//p3-ofp.static.pub//fes/cms/2024/08/15/liqrvic0e2wykvo4h5mly5cf4r3pl5670350.png)
+        
+        Thinkshield](https://www.motorola.com/us/en/thinkshield.html)
     
 * Accessories
     
-    Family
-    
-    Compare
-    
-    * [* Moto Tag](https://www.motorola.com/us/moto-tag/p?skuId=1166 "Moto Tag")
-    * [* Cases & Protection](https://www.motorola.com/us/all-cases-and-protection "Cases & Protection")
-    * [* Headphones](https://www.motorola.com/us/headphones "Headphones")
-    * [* Wearables](https://www.motorola.com/us/wearables "Wearables")
-    * [* Power & Charging](https://www.motorola.com/us/power-and-charger "Power & Charging")
-    * [* Portable Speakers](https://www.motorola.com/us/portable-speakers "Portable Speakers")
-    * [* Auto accessories](https://www.motorola.com/us/auto-accessories "Auto accessories")
+    * [![](//p3-ofp.static.pub//fes/cms/2024/08/15/0u6azh87bmdyh9uhocel1l15p0nohe848940.png)
+        
+        Moto tag](https://www.motorola.com/us/en/p/pg38c06068)
+    * [![](//p4-ofp.static.pub//fes/cms/2024/08/15/m3c25y9khtpi2x9j9p98emnqq2gs3p943758.png)
+        
+        Cases & Protection](https://www.motorola.com/us/en/family/all-cases-and-protection.html)
+    * [![](//p2-ofp.static.pub//fes/cms/2024/08/15/bj6xs9vgeuu8alik8zz9nd2ork3sy5567162.png)
+        
+        Headphones](https://www.motorola.com/us/en/family/headphones.html)
+    * [![](//p1-ofp.static.pub//fes/cms/2024/08/15/y67aita2yezrzdkbgpnaiq469vfoda919447.png)
+        
+        Wearables](https://www.motorola.com/us/en/family/wearables.html)
+    * [![](//p1-ofp.static.pub//fes/cms/2024/08/15/pxu7ace8vtlmp413pzbd4zhj3celwh710716.png)
+        
+        Power & Charging](https://www.motorola.com/us/en/family/power-and-charger.html)
+    * [![](//p1-ofp.static.pub//fes/cms/2024/08/15/x6ssz45gq8fsvc0hugbe30x7ga1m7u400451.png)
+        
+        Auto Accessories](https://www.motorola.com/us/en/family/auto-accessories.html)
     
 * Smart Products
     
-    Family
-    
-    Compare
-    
-    * [* Security & Surveillance](https://www.motorola.com/us/security-and-surveillance "Security & Surveillance")
-    * [* Modems + Routers](https://www.motorola.com/us/modems-routers "Modems + Routers")
-    * [* Home & Office Phones](https://www.motorola.com/us/home-and-office-phones "Home & Office Phones")
-    * [* Smart Nursery & Monitors](https://www.motorola.com/us/smart-nursery-and-monitors "Smart Nursery & Monitors")
-    * [* Wearables](https://www.motorola.com/us/wearables "Wearables")
-    * [* Moto Tag](https://www.motorola.com/us/moto-tag/p?skuId=1166 "Moto Tag")
+    * [![](//p4-ofp.static.pub//fes/cms/2024/08/15/43fd05l1lhfdhrio7ap5fu1jssbefs743143.png)
+        
+        Security & Surveillance](https://www.motorola.com/us/en/family/security-surveillance.html)
+    * [![](//p4-ofp.static.pub//fes/cms/2024/09/03/mf1zpf9snm801y5d2ga5t9qhelsdir685218.png)
+        
+        Modems + Routers](https://www.motorola.com/us/en/family/modems-networking.html)
+    * [![](//p4-ofp.static.pub//fes/cms/2024/08/15/4817vxef3g4gs1sjkuwi1rvwvplq47839852.png)
+        
+        Home & Office Phones](https://www.motorola.com/us/en/family/home-office-phones.html)
+    * [![](//p1-ofp.static.pub//fes/cms/2024/08/15/s0flv5lyp7evrb6s82ksawcre04k1z645351.png)
+        
+        Smart Nursery & Monitors](https://www.motorola.com/us/en/family/smart-monitors.html)
+    * [![](//p2-ofp.static.pub//fes/cms/2024/08/15/3i18ljx3hrdvhrkzp8q9n2p6kwyqnt619158.png)
+        
+        Wearables](https://www.motorola.com/us/en/family/wearables.html)
+    * [![](//p2-ofp.static.pub//fes/cms/2024/08/15/paqyufa7yejibep55de7xhajco1fv8629083.png)
+        
+        moto tag](https://www.motorola.com/us/en/p/pg38c06069)
     
 * Software & Support
     
-    Family
-    
-    Compare
-    
-    * [* Support](https://en-us.support.motorola.com/app/home "Support")
-    * [* Software Fix](https://en-us.support.motorola.com/app/rsa "Software Fix")
-    * [* Software Updates](https://motorola-global-portal.custhelp.com/app/software-upgrade/g_id/1949/ "Software Updates")
-    * [* My UX](https://www.motorola.com/us/my-ux/p "My UX")
-    * [* Beta Testing](https://lnv.gy/45GoKSB "Beta Testing")
+    * [![](//p2-ofp.static.pub//fes/cms/2024/08/15/n2wza9ujt2fa65i3b7lseua2bel9m7338984.png)
+        
+        Support](https://en-us.support.motorola.com/app/home)
+    * [![](//p4-ofp.static.pub//fes/cms/2024/12/13/8iof3h7sqhkqumefbcjd80to7u18tb325637.png)
+        
+        Software Fix](https://en-us.support.motorola.com/app/softwarefix)
+    * [![](//p4-ofp.static.pub//fes/cms/2024/08/15/4uw0d42couy58f2f1noyj4j8e617c1040263.png)
+        
+        Software Updates](https://en-us.support.motorola.com/app/software-upgrade/g_id/1949/)
+    * [![](//p1-ofp.static.pub//fes/cms/2024/08/15/0wk88v2q8zoopibcs5yfxapxdniuox456371.png)
+        
+        My UX](https://www.motorola.com/us/en/my-ux/index.html)
+    * [![](//p3-ofp.static.pub//fes/cms/2024/08/15/v3reokbi90oafc6ayce33cy31i4crn241978.png)
+        
+        Beta Testing](https://lnv.gy/45GoKSB)
     
 * Videos
     
-    Family
-    
-    Compare
-    
-    * [* Motorola Videos](https://www.motorola.com/us/content/videos "Motorola Videos")
+    * [![](//p1-ofp.static.pub//fes/cms/2024/08/15/4l8d25gthhew7h5qweks9d7a74c3q4125108.png)
+        
+        Motorola Videos](https://www.motorola.com/us/en/videopage.html)
     
 * Services
     
-    Family
-    
-    Compare
-    
-    * [* Moto Care](https://www.motorola.com/us/moto-care "Moto Care")
-    * [* Screen Protect](https://www.motorola.com/us/motocarescreenprotect/p "Screen Protect")
-    * [* Moto Parts](https://www.motorola.com/us/moto-parts/p "Moto Parts")
+    * [![](//p3-ofp.static.pub//fes/cms/2024/08/15/sar9lotfiw0skww3qcokg9s0aruprp595216.png)
+        
+        Moto Care](https://www.motorola.com/us/en/moto-care/index.html)
+    * [![](//p2-ofp.static.pub//fes/cms/2024/08/15/sh5gbp9qsdxjvrx5s73x8kfm69wx58798106.png)
+        
+        Screen Protect](https://www.motorola.com/us/en/p/motomktpro)
+    * [![](//p3-ofp.static.pub//fes/cms/2024/08/15/zscq8yjizji653b4657hvcpagrdzq5332663.png)
+        
+        Moto Parts](https://www.motorola.com/us/en/p/motomktpat)
     
 
-[](https://www.motorola.com/us/checkout/#/cart)
+[![](//p2-ofp.static.pub//fes/cms/2024/08/19/38477hvan5zug50dvo5f3zre81m3ad222927.svg)](https://www.motorola.com/us/en/cart.html)
 
-Sign In
+![](//p2-ofp.static.pub/MOTO/assets/masthead/ssd3fivfm1inbb39cfarazz2tzvguf049476.f4568cfed41a3745.svg)
+
+![B2B inquiry form](https://p1-ofp.static.pub/MOTO/assets/masthead/b2b_enquiry.ec0d5d7d54fc69bf.png)
 
 B2B Inquiry
 
-B2B Inquiry
+[![](https://p4-ofp.static.pub/MOTO/assets/masthead/logo_moto.6676278b2f6d8e48.svg)](https://www.motorola.com/us/en/homepage.html)
+
+* Shop phones
+    
+    +
+    
+    * [![](//p3-ofp.static.pub//fes/cms/2024/08/15/jqgb7qtavsvibddj9yl47j873h2f1e043828.png)
+        
+        razr](https://www.motorola.com/us/en/family/razr.html)
+    * [![](//p1-ofp.static.pub//fes/cms/2024/08/15/493ltv4oq23v7sz4kepw5foxa2laby245944.png)
+        
+        Edge](https://www.motorola.com/us/en/family/edge.html)
+    * [![](//p3-ofp.static.pub//fes/cms/2024/08/14/7p5tc54f8hi4w3304ifgrscsdnit6c498502.png)
+        
+        Moto g](https://www.motorola.com/us/en/family/g.html)
+    * [![](//p4-ofp.static.pub//fes/cms/2024/08/15/z9tw4jp6h79nmadbdqovwu3q2gb946283419.png)
+        
+        All Smartphones](https://www.motorola.com/us/en/smartphones/index.html)
+    * [![](//p2-ofp.static.pub//fes/cms/2024/11/27/xomut68b2ygypd9aik1g9ivi1f6vts811456.png)
+        
+        Switch to Moto](https://www.motorola.com/us/en/switch.html)
+    * [![](//p2-ofp.static.pub//fes/cms/2024/08/15/cxjx9fiwzhprgct21urr7ur2085b65135246.png)
+        
+        Compatibilty](https://www.motorola.com/us/en/carrier-compatibility)
+    * [![](//p4-ofp.static.pub//fes/cms/2024/08/15/8910oybzgd1mq6atqoqffro676g0n5450679.png)
+        
+        5G](https://www.motorola.com/us/en/5g/index.html)
+    
+* On Sale
+    
+    +
+    
+    * [![](//p1-ofp.static.pub//fes/cms/2024/12/17/pe867nxcbin4x1xw0o89ctwj0x21co255207.png)
+        
+        razr+ 2024 - $200 off](https://www.motorola.com/us/en/p/phones/razr/razr-plus-gen-2/pmipmgs38mh?pn=PB2J0010US)
+    * [![](//p1-ofp.static.pub//fes/cms/2024/12/17/63jf2nvz50ion50a2hf9k5ebfrekqe285587.png)
+        
+        edge+ 2023 - $350 off](https://www.motorola.com/us/en/p/phones/motorola-edge/edge-plus-gen-3/pmipmfo33m2?pn=PAWJ0002US)
+    * [![](//p4-ofp.static.pub//fes/cms/2024/12/17/36kqj9njh7esllrcwi0z2pxgd5slok154278.png)
+        
+        moto g stylus 5g 2024 - $150 off](https://www.motorola.com/us/en/p/phones/moto-g/g-stylus-5g-gen-4/pmipmgr37mo?pn=PB1M0006US)
+    * [![](//p1-ofp.static.pub//fes/cms/2024/08/15/xdqnmnleq0hz6n13kps29re5lyvmbf274949.png)
+        
+        LAST MINUTE GIFTS SALE](https://www.motorola.com/us/en/specials.html)
+    * [![](//p2-ofp.static.pub//fes/cms/2024/08/15/le4sdzsqi7nrs7z0fm0x1q1k3yaztq745802.png)
+        
+        Compare Phones](https://www.motorola.com/us/en/compare/index.html)
+    * [![](//p3-ofp.static.pub//fes/cms/2024/08/15/3wuj0hbbye5dvopwklxwigsk9diq9u362168.png)
+        
+        Tablet](https://www.motorola.com/us/en/p/zzitztatb7j)
+    
+* Business
+    
+    +
+    
+    * [![](//p4-ofp.static.pub//fes/cms/2024/08/15/74sg53267em2qu881z81oi0vam1oep053784.png)
+        
+        Moto for business](https://www.motorola.com/us/en/business.html)
+    * [![](//p3-ofp.static.pub//fes/cms/2024/08/15/liqrvic0e2wykvo4h5mly5cf4r3pl5670350.png)
+        
+        Thinkshield](https://www.motorola.com/us/en/thinkshield.html)
+    
+* Accessories
+    
+    +
+    
+    * [![](//p3-ofp.static.pub//fes/cms/2024/08/15/0u6azh87bmdyh9uhocel1l15p0nohe848940.png)
+        
+        Moto tag](https://www.motorola.com/us/en/p/pg38c06068)
+    * [![](//p4-ofp.static.pub//fes/cms/2024/08/15/m3c25y9khtpi2x9j9p98emnqq2gs3p943758.png)
+        
+        Cases & Protection](https://www.motorola.com/us/en/family/all-cases-and-protection.html)
+    * [![](//p2-ofp.static.pub//fes/cms/2024/08/15/bj6xs9vgeuu8alik8zz9nd2ork3sy5567162.png)
+        
+        Headphones](https://www.motorola.com/us/en/family/headphones.html)
+    * [![](//p1-ofp.static.pub//fes/cms/2024/08/15/y67aita2yezrzdkbgpnaiq469vfoda919447.png)
+        
+        Wearables](https://www.motorola.com/us/en/family/wearables.html)
+    * [![](//p1-ofp.static.pub//fes/cms/2024/08/15/pxu7ace8vtlmp413pzbd4zhj3celwh710716.png)
+        
+        Power & Charging](https://www.motorola.com/us/en/family/power-and-charger.html)
+    * [![](//p1-ofp.static.pub//fes/cms/2024/08/15/x6ssz45gq8fsvc0hugbe30x7ga1m7u400451.png)
+        
+        Auto Accessories](https://www.motorola.com/us/en/family/auto-accessories.html)
+    
+* Smart Products
+    
+    +
+    
+    * [![](//p4-ofp.static.pub//fes/cms/2024/08/15/43fd05l1lhfdhrio7ap5fu1jssbefs743143.png)
+        
+        Security & Surveillance](https://www.motorola.com/us/en/family/security-surveillance.html)
+    * [![](//p4-ofp.static.pub//fes/cms/2024/09/03/mf1zpf9snm801y5d2ga5t9qhelsdir685218.png)
+        
+        Modems + Routers](https://www.motorola.com/us/en/family/modems-networking.html)
+    * [![](//p4-ofp.static.pub//fes/cms/2024/08/15/4817vxef3g4gs1sjkuwi1rvwvplq47839852.png)
+        
+        Home & Office Phones](https://www.motorola.com/us/en/family/home-office-phones.html)
+    * [![](//p1-ofp.static.pub//fes/cms/2024/08/15/s0flv5lyp7evrb6s82ksawcre04k1z645351.png)
+        
+        Smart Nursery & Monitors](https://www.motorola.com/us/en/family/smart-monitors.html)
+    * [![](//p2-ofp.static.pub//fes/cms/2024/08/15/3i18ljx3hrdvhrkzp8q9n2p6kwyqnt619158.png)
+        
+        Wearables](https://www.motorola.com/us/en/family/wearables.html)
+    * [![](//p2-ofp.static.pub//fes/cms/2024/08/15/paqyufa7yejibep55de7xhajco1fv8629083.png)
+        
+        moto tag](https://www.motorola.com/us/en/p/pg38c06069)
+    
+* Software & Support
+    
+    +
+    
+    * [![](//p2-ofp.static.pub//fes/cms/2024/08/15/n2wza9ujt2fa65i3b7lseua2bel9m7338984.png)
+        
+        Support](https://en-us.support.motorola.com/app/home)
+    * [![](//p4-ofp.static.pub//fes/cms/2024/12/13/8iof3h7sqhkqumefbcjd80to7u18tb325637.png)
+        
+        Software Fix](https://en-us.support.motorola.com/app/softwarefix)
+    * [![](//p4-ofp.static.pub//fes/cms/2024/08/15/4uw0d42couy58f2f1noyj4j8e617c1040263.png)
+        
+        Software Updates](https://en-us.support.motorola.com/app/software-upgrade/g_id/1949/)
+    * [![](//p1-ofp.static.pub//fes/cms/2024/08/15/0wk88v2q8zoopibcs5yfxapxdniuox456371.png)
+        
+        My UX](https://www.motorola.com/us/en/my-ux/index.html)
+    * [![](//p3-ofp.static.pub//fes/cms/2024/08/15/v3reokbi90oafc6ayce33cy31i4crn241978.png)
+        
+        Beta Testing](https://lnv.gy/45GoKSB)
+    
+* Videos
+    
+    +
+    
+    * [![](//p1-ofp.static.pub//fes/cms/2024/08/15/4l8d25gthhew7h5qweks9d7a74c3q4125108.png)
+        
+        Motorola Videos](https://www.motorola.com/us/en/videopage.html)
+    
+* Services
+    
+    +
+    
+    * [![](//p3-ofp.static.pub//fes/cms/2024/08/15/sar9lotfiw0skww3qcokg9s0aruprp595216.png)
+        
+        Moto Care](https://www.motorola.com/us/en/moto-care/index.html)
+    * [![](//p2-ofp.static.pub//fes/cms/2024/08/15/sh5gbp9qsdxjvrx5s73x8kfm69wx58798106.png)
+        
+        Screen Protect](https://www.motorola.com/us/en/p/motomktpro)
+    * [![](//p3-ofp.static.pub//fes/cms/2024/08/15/zscq8yjizji653b4657hvcpagrdzq5332663.png)
+        
+        Moto Parts](https://www.motorola.com/us/en/p/motomktpat)
+    
+* Sign in / Create Account
+
+![](https://p4-ofp.static.pub//fes/cms/2024/04/22/uykzd8why5e3opjyv8wezpxt428k71258236.svg)
+
+[![](//p2-ofp.static.pub//fes/cms/2024/08/19/38477hvan5zug50dvo5f3zre81m3ad222927.svg)](https://www.motorola.com/us/en/cart.html)
+
+![](//p2-ofp.static.pub/MOTO/assets/masthead/ssd3fivfm1inbb39cfarazz2tzvguf049476.f4568cfed41a3745.svg)
+
+![B2B inquiry form](https://p1-ofp.static.pub/MOTO/assets/masthead/b2b_enquiry.ec0d5d7d54fc69bf.png)
+
+   Document
 
 Motorola Web Site Terms Of Use
 ==============================
@@ -222,49 +426,49 @@ For phone and e-mail contact information, please [click here](https://motorola-g
 
 These terms are subject to revision without notice. These terms were last updated on November 18, 2014
 
-###### Products
+  
 
-* [Razr Family](https://www.motorola.com/us/smartphones-razr-family)
-* [Motorola Edge Family](https://www.motorola.com/us/smartphones-motorola-edge-family)
-* [Moto G Family](https://www.motorola.com/us/smartphones-moto-g-family)
-* [All Moto phones](https://www.motorola.com/us/smartphones)
-* [Lenovo Tablet](https://www.motorola.com/us/lenovo-smart-tab-m10-fhd-plus-gen-2/p)
-* [Military Discount](https://www.motorola.com/us/military-discount)
+Products
 
-###### Motorola Home
+* [Razr Family](https://www.motorola.com/us/en/family/razr.html)
+* [Motorola Edge Family](https://www.motorola.com/us/en/family/edge.html)
+* [Moto G Family](https://www.motorola.com/us/en/family/g.html)
+* [All Moto phones](https://www.motorola.com/us/en/smartphones/index.html)
+* [Lenovo Tablet](https://www.motorola.com/us/en/p/phones/moto-e/lenovo-tab-p11/zzitztatb7j?pn=ZABF0309US)
+* [Military Discount](https://www.motorola.com/us/en/military-discount.html)
 
-* [Baby monitors](https://www.motorola.com/us/smart-nursery-and-monitors)
-* [Bluetooth headsets](https://www.motorola.com/us/headphones)
-* [All Home Products](https://www.motorola.com/us/all-smart-products)
-* [Home & office phones](https://www.motorola.com/us/home-and-office-phones)
-* [Modems & gateways](https://www.motorola.com/us/modems-routers)
+Motorola Home
 
-###### Support
+* [Baby monitors](https://www.motorola.com/us/legal/family/smart-monitors.html)
+* [Bluetooth headsets](https://www.motorola.com/us/en/family/headphones.html)
+* [All Home Products](https://www.motorola.com/us/en/family/all-accessories.html)
+* [Home & office phones](https://www.motorola.com/us/en/family/home-office-phones.html)
+* [Modems & gateways](https://www.motorola.com/us/en/family/modems-networking.html)
 
-* [Product support](https://motorola-global-portal.custhelp.com/app/home)
-* [Forums](https://forums.lenovo.com/t5/Motorola-Community/ct-p/MotorolaCommunity)
-* [Contact us](https://motorola-global-portal.custhelp.com/app/mcp/contactus)
-* [Financing](https://www.motorola.com/us/financing)
+Support
+
+* [Product support](https://en-us.support.motorola.com/)
+* [Forums](https://forums.lenovo.com/t5/Motorola-Community/ct-p/MotorolaCommunity?source=sso)
+* [Contact us](https://en-us.support.motorola.com/app/mcp/contactus)
+* [Financing](https://www.motorola.com/us/en/financing.html)
 * [Right to repair](https://en-us.support.motorola.com/app/right-to-repair)
-* [Hearing Aid Compatibility](https://www.motorola.com/us/about/hearing-aid-compatibility-us)
+* [Hearing Aid Compatibilty](https://www.motorola.com/us/en/about/hearing-aid-compatibility-us.html)
 
-###### About
+About
 
-* [Motorola](https://www.motorola.com/us/about)
-* [Lenovo](https://www.lenovo.com/us/en/pc/?referer=https%3A%2F%2Fwww.motorola.com%2F)
-* [Licensing](https://www.motorola.com/us/about/licensing)
-* [Do Not Sell or Share My Personal Information](https://www.motorola.com/us/legal/motorola-data-privacy-rights)
-* [Terms Of Sale](https://www.motorola.com/us/legal/terms-of-sale)
-* [Privacy Statement](https://help.motorola.com/hc/apps/privacy/notice/us/en-us/)
-* [Terms Of Use](https://www.motorola.com/us/legal/terms-of-use)
-* [Website Privacy](https://www.motorola.com/us/legal/privacy-policy)
+* [Motorola](https://www.motorola.com/us/en/about)
+* [Lenovo](https://www.lenovo.com/us/en/about/)
+* [Licensing](https://www.motorola.com/us/en/about/licensing.html)
+* [Do Not Sell or Share My Personal Information](https://www.motorola.com/us/en/data-privacy-rights.html)
+* [Terms Of Sale](https://www.motorola.com/us/en/legal/terms-of-sale)
+* [Privacy Statement](https://www.motorola.com/us/en/privacy-statement.html)
+* [Terms Of Use](https://www.motorola.com/us/en/legal/terms-of-use.html)
+* [Website Privacy](https://www.motorola.com/us/en/legal/privacy-policy)
 * [Lenovo Cares](https://www.lenovo.com/us/en/about/foundation/)
-* [Products Privacy](https://www.motorola.com/us/legal/product-privacy)
-* [Executive Team](https://www.motorola.com/us/about/motorola-executive-team)
+* [Products Privacy](https://www.motorola.com/us/en/legal/product-privacy.html)
+* [Executive Team](https://www.motorola.com/us/en/about/motorola-executive-team.html)
 
-* [USA](https://www.motorola.com/country-selector)
-
-© null Motorola Mobility LLC. All Rights Reserved
+© 2024 Motorola Mobility LLC. All Rights Reserved
 
 MOTOROLA, the Stylized M Logo, MOTO and the MOTO family of marks are trademarks of Motorola Trademark Holdings, LLC. LENOVO is a trademark of Lenovo. All other trademarks are the property of their respective owners. © 2017 Motorola Mobility LLC.
 
