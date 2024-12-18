@@ -384,7 +384,7 @@ with Keycard
 
 A secure contactless hardware wallet.
 
-[Learn More](https://status.im/keycard)![](https://res.cloudinary.com/dhgck7ebz/image/upload/f_auto,c_limit,w_384,q_auto/Non%20Beta%20Release/Scribbles%20and%20Notes/02_Keycard)
+[Learn More](https://status.im/keycard)
 
 ### Stay up to date
 
