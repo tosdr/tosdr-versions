@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I have renewed my subscription!
+I was always very happy with your service - I will renew the subscription ASAP. Excellent quality, reliable, no issues whatsoever.
 
-Annemiek Wegman
+Niko Neufeld
