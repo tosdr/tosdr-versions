@@ -437,7 +437,7 @@ Product
 
 Measurement
 
-[AMPscore®](#) [Pubscore®](#) [Open MMM](#)
+[AMPscore™](#)[Pubscore™](#)[Open MMM](#)
 
 Resources
 
