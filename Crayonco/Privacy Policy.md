@@ -19,6 +19,7 @@
     * [Case Studies](https://www.crayon.co/case-studies)
     * [State of Competitive Intelligence](https://www.crayon.co/state-of-competitive-intelligence)
     * [Crayon Academy](https://www.crayon.co/academy)
+    * [AI Toolkit](https://www.crayon.co/ai-toolkit)
 * [Company](javascript:;)
     * [About Us](https://www.crayon.co/about)
     * [Partner Directory](https://www.crayon.co/partners)
