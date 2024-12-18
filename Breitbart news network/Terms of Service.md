@@ -54,9 +54,9 @@
 
 [BREITBART](https://www.breitbart.com/ "Breitbart News Network")
 
+* [Spending Bill Bonanza](https://www.breitbart.com/tag/continuing-resolution/)
 * [Drone Mystery](https://www.breitbart.com/tag/drones/)
 * [Trudeau on Brink](https://www.breitbart.com/tag/justin-trudeau/)
-* [CNN Syria Scandal](https://www.breitbart.com/tag/syria/)
 * [UnitedHealth CEO Killer](https://www.breitbart.com/tag/unitedhealthcare/)
 * [Mass Deport Battle](https://www.breitbart.com/tag/deportation/)
 * [Ukraine War](https://www.breitbart.com/tag/ukraine/)
