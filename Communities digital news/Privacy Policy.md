@@ -26,41 +26,43 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-cnnabbyscott-1200-x-628-1200x630.jpg)](https://americanwirenews.com/scott-jennings-explains-to-rfk-bashers-why-americans-no-longer-trust-the-science-on-vaccines/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-johnson-1200x630.jpg)](https://americanwirenews.com/mike-johnson-takes-major-heat-over-dumpster-fire-budget-bill-opposite-of-what-doges-trying-to-do/)
 
-[Scott Jennings explains to RFK bashers why Americans no longer trust ‘The Science’ on vaccines](https://americanwirenews.com/scott-jennings-explains-to-rfk-bashers-why-americans-no-longer-trust-the-science-on-vaccines/)
+[Mike Johnson takes major heat over ‘dumpster fire’ budget bill: ‘Opposite of what DOGE’s trying to do’](https://americanwirenews.com/mike-johnson-takes-major-heat-over-dumpster-fire-budget-bill-opposite-of-what-doges-trying-to-do/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-djt_121624-1200-x-628-1200x630.jpg)](https://americanwirenews.com/unions-prepare-for-battle-as-trump-vows-to-fight-bidens-outrageous-parting-perk-for-federal-employees/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-soonshiong-1200x630.jpg)](https://americanwirenews.com/la-times-staffers-snap-back-against-owners-directive-to-take-a-break-from-trump-give-two-sides/)
 
-[Unions prepare for battle as Trump vows to fight Biden’s outrageous parting perk for federal employees](https://americanwirenews.com/unions-prepare-for-battle-as-trump-vows-to-fight-bidens-outrageous-parting-perk-for-federal-employees/)
+[LA Times staffers snap back against owner’s directive to take a ‘break’ from Trump, give two sides](https://americanwirenews.com/la-times-staffers-snap-back-against-owners-directive-to-take-a-break-from-trump-give-two-sides/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-crockett-1200x630.png)](https://americanwirenews.com/jasmine-crockett-says-hispanic-trump-voters-have-a-slave-mentality/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-biden-2-1200x630.jpg)](https://americanwirenews.com/unsettling-biden-brazenly-and-falsely-brags-he-got-100-hostages-out-of-gaza/)
 
-[Jasmine Crockett says Hispanic Trump voters have a ‘slave mentality’](https://americanwirenews.com/jasmine-crockett-says-hispanic-trump-voters-have-a-slave-mentality/)
+[‘Unsettling’: Biden brazenly and falsely brags he got 100 hostages out of Gaza](https://americanwirenews.com/unsettling-biden-brazenly-and-falsely-brags-he-got-100-hostages-out-of-gaza/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-aocbigmouth-1200-x-628-1200x630.jpg)](https://americanwirenews.com/aoc-rejected-in-first-vote-for-top-house-leadership-spot/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-biden-speech-1-1200x630.jpg)](https://americanwirenews.com/biden-elicits-loads-of-ridicule-by-claiming-basically-scandal-free-campaign/)
 
-[AOC rejected in first vote for top House leadership spot](https://americanwirenews.com/aoc-rejected-in-first-vote-for-top-house-leadership-spot/)
+[Biden elicits loads of ridicule by claiming ‘basically scandal free’ campaign](https://americanwirenews.com/biden-elicits-loads-of-ridicule-by-claiming-basically-scandal-free-campaign/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-trudeau-trump-1200x630.jpg)](https://americanwirenews.com/canadas-trudeau-could-resign-amid-tariff-tiff-with-trump/)
+[![](https://americanwirenews.com/wp-content/uploads/2022/03/RF-Getty-oops-surprised-delete-shocked-regret-e1622126785748-1200x630.jpg)](https://americanwirenews.com/see-how-that-works-no-calls-for-gun-control-after-murder-of-insurance-ceo-shocking-new-poll-might-explain-why/)
 
-[Canada’s Trudeau could resign amid tariff tiff with Trump](https://americanwirenews.com/canadas-trudeau-could-resign-amid-tariff-tiff-with-trump/)
+Getty Images
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-tapper-1200x630.jpg)](https://americanwirenews.com/jake-tapper-is-furious-at-abc-news-trump-settlement-calls-media-accountability-wildly-ridiculous/)
+[‘See how that works?’ No calls for gun control after murder of insurance CEO, shocking new poll might explain why](https://americanwirenews.com/see-how-that-works-no-calls-for-gun-control-after-murder-of-insurance-ceo-shocking-new-poll-might-explain-why/)
 
-[Jake Tapper is furious at ABC News Trump settlement, calls media accountability ‘wildly ridiculous’](https://americanwirenews.com/jake-tapper-is-furious-at-abc-news-trump-settlement-calls-media-accountability-wildly-ridiculous/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-putin-1200x630.jpg)](https://americanwirenews.com/russia-announces-vaccine-for-cancer-that-will-be-given-to-patients-for-free/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-tim-walz-4-1200x630.jpg)](https://americanwirenews.com/satanists-put-up-christmas-display-in-tim-walzs-state-capitol/)
+[Russia announces vaccine for cancer that will be given to patients for free](https://americanwirenews.com/russia-announces-vaccine-for-cancer-that-will-be-given-to-patients-for-free/)
 
-[Satanists put up Christmas display in Tim Walz’s state capitol](https://americanwirenews.com/satanists-put-up-christmas-display-in-tim-walzs-state-capitol/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-kim-foxx-1200x630.jpg)](https://americanwirenews.com/jussie-smollett-states-attorney-kim-foxx-no-longer-authorized-to-practice-law-in-illinois/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-collins-cornyn-ernst-1200x630.jpg)](https://americanwirenews.com/5-senate-republicans-who-could-face-primaries-in-2026/)
+[Jussie Smollett State’s Attorney Kim Foxx no longer authorized to practice law in Illinois](https://americanwirenews.com/jussie-smollett-states-attorney-kim-foxx-no-longer-authorized-to-practice-law-in-illinois/)
 
-[5 Senate Republicans who could face primaries in 2026](https://americanwirenews.com/5-senate-republicans-who-could-face-primaries-in-2026/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/08/sg-tren-de-aragua-in-aurora-colorado-1200x630.jpg)](https://americanwirenews.com/trump-was-right-again-14-suspected-gang-members-arrested-in-aurora-co-victims-found-beaten-and-bound/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-durbindnc-1200-x-628-1200x630.jpg)
+[‘Trump was right again’: 14 suspected gang members arrested in Aurora, Co., victims found beaten and bound](https://americanwirenews.com/trump-was-right-again-14-suspected-gang-members-arrested-in-aurora-co-victims-found-beaten-and-bound/)
 
-### Senate Dems unveil bill to abolish Electoral College, insist they’re ‘restoring democracy’](https://americanwirenews.com/senate-dems-unveil-bill-to-abolish-electoral-college-insist-theyre-restoring-democracy/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-cheney-1200x630.jpg)
+
+### Liz Cheney accused of witness tampering in J6 show trial, House Oversight demands FBI investigation](https://americanwirenews.com/liz-cheney-accused-of-witness-tampering-in-j6-show-trial-house-oversight-demands-fbi-investigation/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -78,41 +80,19 @@ Search for:
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-johnson-220x180.jpg)](https://americanwirenews.com/mike-johnson-takes-major-heat-over-dumpster-fire-budget-bill-opposite-of-what-doges-trying-to-do/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/getty-f-35-220x180.jpg)](https://americanwirenews.com/exclusive-lockheed-martin-pressures-biden-administration-for-f-35-deal-amidst-looming-trump-transition/)
 
-[Mike Johnson takes major heat over ‘dumpster fire’ budget bill: ‘Opposite of what DOGE’s trying to do’](https://americanwirenews.com/mike-johnson-takes-major-heat-over-dumpster-fire-budget-bill-opposite-of-what-doges-trying-to-do/)
+[Exclusive: Lockheed Martin pressures Biden administration for F-35 deal amidst looming Trump transition](https://americanwirenews.com/exclusive-lockheed-martin-pressures-biden-administration-for-f-35-deal-amidst-looming-trump-transition/)
+
+(Photo by Kevin Carter/Getty Images)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-buttigieg-220x180.jpg)](https://americanwirenews.com/mich-dems-urge-pete-buttigieg-to-run-for-governor-after-top-dem-turns-independent-candidate/)
 
 [Mich Dems urge Pete Buttigieg to run for governor after top Dem turns Independent candidate](https://americanwirenews.com/mich-dems-urge-pete-buttigieg-to-run-for-governor-after-top-dem-turns-independent-candidate/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-kim-foxx-220x180.jpg)](https://americanwirenews.com/jussie-smollett-states-attorney-kim-foxx-no-longer-authorized-to-practice-law-in-illinois/)
-
-[Jussie Smollett State’s Attorney Kim Foxx no longer authorized to practice law in Illinois](https://americanwirenews.com/jussie-smollett-states-attorney-kim-foxx-no-longer-authorized-to-practice-law-in-illinois/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-biden-speech-1-220x180.jpg)](https://americanwirenews.com/biden-elicits-loads-of-ridicule-by-claiming-basically-scandal-free-campaign/)
-
-[Biden elicits loads of ridicule by claiming ‘basically scandal free’ campaign](https://americanwirenews.com/biden-elicits-loads-of-ridicule-by-claiming-basically-scandal-free-campaign/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-cheney-220x180.jpg)](https://americanwirenews.com/liz-cheney-accused-of-witness-tampering-in-j6-show-trial-house-oversight-demands-fbi-investigation/)
-
-[Liz Cheney accused of witness tampering in J6 show trial, House Oversight demands FBI investigation](https://americanwirenews.com/liz-cheney-accused-of-witness-tampering-in-j6-show-trial-house-oversight-demands-fbi-investigation/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-soonshiong-220x180.jpg)](https://americanwirenews.com/la-times-staffers-snap-back-against-owners-directive-to-take-a-break-from-trump-give-two-sides/)
-
-[LA Times staffers snap back against owner’s directive to take a ‘break’ from Trump, give two sides](https://americanwirenews.com/la-times-staffers-snap-back-against-owners-directive-to-take-a-break-from-trump-give-two-sides/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-biden-2-220x180.jpg)](https://americanwirenews.com/unsettling-biden-brazenly-and-falsely-brags-he-got-100-hostages-out-of-gaza/)
-
-[‘Unsettling’: Biden brazenly and falsely brags he got 100 hostages out of Gaza](https://americanwirenews.com/unsettling-biden-brazenly-and-falsely-brags-he-got-100-hostages-out-of-gaza/)
-
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-birth-tourism-220x180.jpg)](https://americanwirenews.com/california-man-convicted-of-birth-tourism-scheme-that-assisted-wealthy-chinese/)
 
 [California man convicted of ‘birth tourism’ scheme that assisted wealthy Chinese](https://americanwirenews.com/california-man-convicted-of-birth-tourism-scheme-that-assisted-wealthy-chinese/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-putin-220x180.jpg)](https://americanwirenews.com/russia-announces-vaccine-for-cancer-that-will-be-given-to-patients-for-free/)
-
-[Russia announces vaccine for cancer that will be given to patients for free](https://americanwirenews.com/russia-announces-vaccine-for-cancer-that-will-be-given-to-patients-for-free/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-doocy-220x180.png)](https://americanwirenews.com/doocy-it-would-not-sit-well-with-a-lot-of-elected-republicans-if-trump-reverses-on-tiktok/)
 
@@ -133,6 +113,42 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-stephanie-ruhle-220x180.jpg)](https://americanwirenews.com/msnbcs-stephanie-ruhle-praises-trumps-response-for-an-interview-he-told-me-to-go-fck-myself-but/)
 
 [MSNBC’s Stephanie Ruhle praises Trump’s response for an interview: ‘He told me to go f\*ck myself,’ but…](https://americanwirenews.com/msnbcs-stephanie-ruhle-praises-trumps-response-for-an-interview-he-told-me-to-go-fck-myself-but/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-collins-cornyn-ernst-220x180.jpg)](https://americanwirenews.com/5-senate-republicans-who-could-face-primaries-in-2026/)
+
+[5 Senate Republicans who could face primaries in 2026](https://americanwirenews.com/5-senate-republicans-who-could-face-primaries-in-2026/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-tim-walz-4-220x180.jpg)](https://americanwirenews.com/satanists-put-up-christmas-display-in-tim-walzs-state-capitol/)
+
+[Satanists put up Christmas display in Tim Walz’s state capitol](https://americanwirenews.com/satanists-put-up-christmas-display-in-tim-walzs-state-capitol/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-tapper-220x180.jpg)](https://americanwirenews.com/jake-tapper-is-furious-at-abc-news-trump-settlement-calls-media-accountability-wildly-ridiculous/)
+
+[Jake Tapper is furious at ABC News Trump settlement, calls media accountability ‘wildly ridiculous’](https://americanwirenews.com/jake-tapper-is-furious-at-abc-news-trump-settlement-calls-media-accountability-wildly-ridiculous/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-trudeau-trump-220x180.jpg)](https://americanwirenews.com/canadas-trudeau-could-resign-amid-tariff-tiff-with-trump/)
+
+[Canada’s Trudeau could resign amid tariff tiff with Trump](https://americanwirenews.com/canadas-trudeau-could-resign-amid-tariff-tiff-with-trump/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-aocbigmouth-1200-x-628-220x180.jpg)](https://americanwirenews.com/aoc-rejected-in-first-vote-for-top-house-leadership-spot/)
+
+[AOC rejected in first vote for top House leadership spot](https://americanwirenews.com/aoc-rejected-in-first-vote-for-top-house-leadership-spot/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-crockett-220x180.png)](https://americanwirenews.com/jasmine-crockett-says-hispanic-trump-voters-have-a-slave-mentality/)
+
+[Jasmine Crockett says Hispanic Trump voters have a ‘slave mentality’](https://americanwirenews.com/jasmine-crockett-says-hispanic-trump-voters-have-a-slave-mentality/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-djt_121624-1200-x-628-220x180.jpg)](https://americanwirenews.com/unions-prepare-for-battle-as-trump-vows-to-fight-bidens-outrageous-parting-perk-for-federal-employees/)
+
+[Unions prepare for battle as Trump vows to fight Biden’s outrageous parting perk for federal employees](https://americanwirenews.com/unions-prepare-for-battle-as-trump-vows-to-fight-bidens-outrageous-parting-perk-for-federal-employees/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-cnnabbyscott-1200-x-628-220x180.jpg)](https://americanwirenews.com/scott-jennings-explains-to-rfk-bashers-why-americans-no-longer-trust-the-science-on-vaccines/)
+
+[Scott Jennings explains to RFK bashers why Americans no longer trust ‘The Science’ on vaccines](https://americanwirenews.com/scott-jennings-explains-to-rfk-bashers-why-americans-no-longer-trust-the-science-on-vaccines/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-durbindnc-1200-x-628-220x180.jpg)](https://americanwirenews.com/senate-dems-unveil-bill-to-abolish-electoral-college-insist-theyre-restoring-democracy/)
+
+[Senate Dems unveil bill to abolish Electoral College, insist they’re ‘restoring democracy’](https://americanwirenews.com/senate-dems-unveil-bill-to-abolish-electoral-college-insist-theyre-restoring-democracy/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-trump-selzer-220x180.jpg)](https://americanwirenews.com/it-was-fraud-trump-announces-lawsuits-against-60-minutes-pollster-ann-selzer/)
 
@@ -161,18 +177,6 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-wright-patterson-air-force-base-220x180.jpg)](https://americanwirenews.com/ohio-air-force-base-shut-down-due-to-unauthorized-drones/)
 
 [Ohio Air Force base shut down due to unauthorized drones](https://americanwirenews.com/ohio-air-force-base-shut-down-due-to-unauthorized-drones/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-rowling-220x180.jpg)](https://americanwirenews.com/we-are-all-mad-murdoch-j-k-rowlings-new-action-series-idea-based-on-non-woke-commando-unit/)
-
-[‘We are all Mad Murdoch’: J.K. Rowling’s new action series idea based on non-woke ‘commando unit’](https://americanwirenews.com/we-are-all-mad-murdoch-j-k-rowlings-new-action-series-idea-based-on-non-woke-commando-unit/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-salama-ward-220x180.jpg)](https://americanwirenews.com/cnn-story-on-freed-syrian-prisoner-debunked-man-was-notorious-assad-henchman-report/)
-
-[CNN story on ‘freed’ Syrian prisoner debunked, man was notorious Assad henchman: report](https://americanwirenews.com/cnn-story-on-freed-syrian-prisoner-debunked-man-was-notorious-assad-henchman-report/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-bowman-address-220x180.jpg)](https://americanwirenews.com/farewell-house-speeches-for-ousted-squad-members-draw-dismal-audience/)
-
-[Farewell House speeches for ousted ‘squad’ members draw dismal audience](https://americanwirenews.com/farewell-house-speeches-for-ousted-squad-members-draw-dismal-audience/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
