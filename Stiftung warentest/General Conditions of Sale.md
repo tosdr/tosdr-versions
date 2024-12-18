@@ -663,12 +663,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Rück­ruf Babboe-Lastenfahr­räder: Nun auch Slim Mountain betroffen](https://www.test.de/Lastenfahrraeder-von-Babboe-Verkaufsstopp-und-Rueckruf-wegen-Rahmenbruechen-6098753-0/ "Rückruf Babboe-Lastenfahrräder - Nun auch Slim Mountain betroffen")
-* [Verpackungs­ärger: Kaiser­schmarrn von Bauck­hof](https://www.test.de/Verpackungsaerger-Kaiserschmarrn-von-Bauckhof-5970141-0/ "Verpackungsärger - Kaiserschmarrn von Bauckhof")
-* [Ökobilanz T-Shirts: Lang lebe das T-Shirt!](https://www.test.de/Oekobilanz-T-Shirts-Lang-lebe-das-T-Shirt-5966314-0/ "Ökobilanz T-Shirts - Lang lebe das T-Shirt!")
-* [Kaffee und Gesundheit: So viele Tassen können Sie trinken](https://www.test.de/Wie-gesund-ist-Kaffee-5824772-0/ "Kaffee und Gesundheit - So viele Tassen können Sie trinken")
-* [Kündigung Kfz-Versicherung: Kfz-Versicherung wechseln – so gehts](https://www.test.de/Kfz-Versicherung-wechseln-so-gehts-6160032-0/ "Kündigung Kfz-Versicherung - Kfz-Versicherung wechseln – so gehts")
-* [Sicher­heits­lücke bei Türschloss: Abus muss besser auf Schwach­stelle hinweisen](https://www.test.de/Sicherheitsluecke-bei-Tuerschloss-Gerichtsurteil-Abus-muss-besser-auf-Schwachstelle-hinweisen-6115986-0/ "Sicherheitslücke bei Türschloss - Abus muss besser auf Schwachstelle hinweisen")
+* [Anla­gepro­dukt Cannabis: Plåntz AG zahlt nicht](https://www.test.de/Anlageprodukt-Cannabis-Plntz-AG-zahlt-nicht-6167394-0/ "Anlageprodukt Cannabis - Plåntz AG zahlt nicht")
+* [Ozempic, Wegovy, Mounjaro: Das steckt hinter dem Hype um die Abnehm­spritzen](https://www.test.de/Ozempic-und-Wegovy-Abnehm-Spritze-gibts-nur-auf-Rezept-5987253-0/ "Ozempic, Wegovy, Mounjaro - Das steckt hinter dem Hype um die Abnehmspritzen")
+* [Gold­berg Capital: Unseriöses Angebot für Starlink-Aktien](https://www.test.de/Goldberg-Capital-Unserioeses-Angebot-fuer-Starlink-Aktien-6135792-0/ "Goldberg Capital - Unseriöses Angebot für Starlink-Aktien")
+* [Gendermedizin: Geschlechts­spezi­fische Behand­lung rettet Frauenleben](https://www.test.de/Gendermedizin-Geschlechtsspezifische-Behandlung-rettet-Frauenleben-5988536-0/ "Gendermedizin - Geschlechtsspezifische Behandlung rettet Frauenleben")
+* [Kern­investment im Portfolio: Muss es immer MSCI World sein?](https://www.test.de/Kerninvestment-im-Portfolio-Muss-es-immer-MSCI-World-sein-6164684-0/ "Kerninvestment im Portfolio - Muss es immer MSCI World sein?")
+* [Gewusst wie: Patienten­daten anfordern](https://www.test.de/Gewusst-wie-Patientendaten-anfordern-6051265-0/ "Gewusst wie - Patientendaten anfordern")
 
 Weitere Informationen
 
@@ -3080,12 +3080,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Rück­ruf Babboe-Lastenfahr­räder: Nun auch Slim Mountain betroffen](https://www.test.de/Lastenfahrraeder-von-Babboe-Verkaufsstopp-und-Rueckruf-wegen-Rahmenbruechen-6098753-0/ "Rückruf Babboe-Lastenfahrräder - Nun auch Slim Mountain betroffen")
-* [Verpackungs­ärger: Kaiser­schmarrn von Bauck­hof](https://www.test.de/Verpackungsaerger-Kaiserschmarrn-von-Bauckhof-5970141-0/ "Verpackungsärger - Kaiserschmarrn von Bauckhof")
-* [Ökobilanz T-Shirts: Lang lebe das T-Shirt!](https://www.test.de/Oekobilanz-T-Shirts-Lang-lebe-das-T-Shirt-5966314-0/ "Ökobilanz T-Shirts - Lang lebe das T-Shirt!")
-* [Kaffee und Gesundheit: So viele Tassen können Sie trinken](https://www.test.de/Wie-gesund-ist-Kaffee-5824772-0/ "Kaffee und Gesundheit - So viele Tassen können Sie trinken")
-* [Kündigung Kfz-Versicherung: Kfz-Versicherung wechseln – so gehts](https://www.test.de/Kfz-Versicherung-wechseln-so-gehts-6160032-0/ "Kündigung Kfz-Versicherung - Kfz-Versicherung wechseln – so gehts")
-* [Sicher­heits­lücke bei Türschloss: Abus muss besser auf Schwach­stelle hinweisen](https://www.test.de/Sicherheitsluecke-bei-Tuerschloss-Gerichtsurteil-Abus-muss-besser-auf-Schwachstelle-hinweisen-6115986-0/ "Sicherheitslücke bei Türschloss - Abus muss besser auf Schwachstelle hinweisen")
+* [Anla­gepro­dukt Cannabis: Plåntz AG zahlt nicht](https://www.test.de/Anlageprodukt-Cannabis-Plntz-AG-zahlt-nicht-6167394-0/ "Anlageprodukt Cannabis - Plåntz AG zahlt nicht")
+* [Ozempic, Wegovy, Mounjaro: Das steckt hinter dem Hype um die Abnehm­spritzen](https://www.test.de/Ozempic-und-Wegovy-Abnehm-Spritze-gibts-nur-auf-Rezept-5987253-0/ "Ozempic, Wegovy, Mounjaro - Das steckt hinter dem Hype um die Abnehmspritzen")
+* [Gold­berg Capital: Unseriöses Angebot für Starlink-Aktien](https://www.test.de/Goldberg-Capital-Unserioeses-Angebot-fuer-Starlink-Aktien-6135792-0/ "Goldberg Capital - Unseriöses Angebot für Starlink-Aktien")
+* [Gendermedizin: Geschlechts­spezi­fische Behand­lung rettet Frauenleben](https://www.test.de/Gendermedizin-Geschlechtsspezifische-Behandlung-rettet-Frauenleben-5988536-0/ "Gendermedizin - Geschlechtsspezifische Behandlung rettet Frauenleben")
+* [Kern­investment im Portfolio: Muss es immer MSCI World sein?](https://www.test.de/Kerninvestment-im-Portfolio-Muss-es-immer-MSCI-World-sein-6164684-0/ "Kerninvestment im Portfolio - Muss es immer MSCI World sein?")
+* [Gewusst wie: Patienten­daten anfordern](https://www.test.de/Gewusst-wie-Patientendaten-anfordern-6051265-0/ "Gewusst wie - Patientendaten anfordern")
 
      ![](https://cdn.test.de/file/image/66/71/7c8c081d-90e7-4be0-956f-d4b722e530ff-mobile/Chefredaktions_Square;w400.png)
 
@@ -3134,12 +3134,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Rück­ruf Babboe-Lastenfahr­räder: Nun auch Slim Mountain betroffen](https://www.test.de/Lastenfahrraeder-von-Babboe-Verkaufsstopp-und-Rueckruf-wegen-Rahmenbruechen-6098753-0/ "Rückruf Babboe-Lastenfahrräder - Nun auch Slim Mountain betroffen")
-* [Verpackungs­ärger: Kaiser­schmarrn von Bauck­hof](https://www.test.de/Verpackungsaerger-Kaiserschmarrn-von-Bauckhof-5970141-0/ "Verpackungsärger - Kaiserschmarrn von Bauckhof")
-* [Ökobilanz T-Shirts: Lang lebe das T-Shirt!](https://www.test.de/Oekobilanz-T-Shirts-Lang-lebe-das-T-Shirt-5966314-0/ "Ökobilanz T-Shirts - Lang lebe das T-Shirt!")
-* [Kaffee und Gesundheit: So viele Tassen können Sie trinken](https://www.test.de/Wie-gesund-ist-Kaffee-5824772-0/ "Kaffee und Gesundheit - So viele Tassen können Sie trinken")
-* [Kündigung Kfz-Versicherung: Kfz-Versicherung wechseln – so gehts](https://www.test.de/Kfz-Versicherung-wechseln-so-gehts-6160032-0/ "Kündigung Kfz-Versicherung - Kfz-Versicherung wechseln – so gehts")
-* [Sicher­heits­lücke bei Türschloss: Abus muss besser auf Schwach­stelle hinweisen](https://www.test.de/Sicherheitsluecke-bei-Tuerschloss-Gerichtsurteil-Abus-muss-besser-auf-Schwachstelle-hinweisen-6115986-0/ "Sicherheitslücke bei Türschloss - Abus muss besser auf Schwachstelle hinweisen")
+* [Anla­gepro­dukt Cannabis: Plåntz AG zahlt nicht](https://www.test.de/Anlageprodukt-Cannabis-Plntz-AG-zahlt-nicht-6167394-0/ "Anlageprodukt Cannabis - Plåntz AG zahlt nicht")
+* [Ozempic, Wegovy, Mounjaro: Das steckt hinter dem Hype um die Abnehm­spritzen](https://www.test.de/Ozempic-und-Wegovy-Abnehm-Spritze-gibts-nur-auf-Rezept-5987253-0/ "Ozempic, Wegovy, Mounjaro - Das steckt hinter dem Hype um die Abnehmspritzen")
+* [Gold­berg Capital: Unseriöses Angebot für Starlink-Aktien](https://www.test.de/Goldberg-Capital-Unserioeses-Angebot-fuer-Starlink-Aktien-6135792-0/ "Goldberg Capital - Unseriöses Angebot für Starlink-Aktien")
+* [Gendermedizin: Geschlechts­spezi­fische Behand­lung rettet Frauenleben](https://www.test.de/Gendermedizin-Geschlechtsspezifische-Behandlung-rettet-Frauenleben-5988536-0/ "Gendermedizin - Geschlechtsspezifische Behandlung rettet Frauenleben")
+* [Kern­investment im Portfolio: Muss es immer MSCI World sein?](https://www.test.de/Kerninvestment-im-Portfolio-Muss-es-immer-MSCI-World-sein-6164684-0/ "Kerninvestment im Portfolio - Muss es immer MSCI World sein?")
+* [Gewusst wie: Patienten­daten anfordern](https://www.test.de/Gewusst-wie-Patientendaten-anfordern-6051265-0/ "Gewusst wie - Patientendaten anfordern")
 
 Neueste Tests
 
@@ -3152,12 +3152,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Rück­ruf Babboe-Lastenfahr­räder: Nun auch Slim Mountain betroffen](https://www.test.de/Lastenfahrraeder-von-Babboe-Verkaufsstopp-und-Rueckruf-wegen-Rahmenbruechen-6098753-0/ "Rückruf Babboe-Lastenfahrräder - Nun auch Slim Mountain betroffen")
-* [Verpackungs­ärger: Kaiser­schmarrn von Bauck­hof](https://www.test.de/Verpackungsaerger-Kaiserschmarrn-von-Bauckhof-5970141-0/ "Verpackungsärger - Kaiserschmarrn von Bauckhof")
-* [Ökobilanz T-Shirts: Lang lebe das T-Shirt!](https://www.test.de/Oekobilanz-T-Shirts-Lang-lebe-das-T-Shirt-5966314-0/ "Ökobilanz T-Shirts - Lang lebe das T-Shirt!")
-* [Kaffee und Gesundheit: So viele Tassen können Sie trinken](https://www.test.de/Wie-gesund-ist-Kaffee-5824772-0/ "Kaffee und Gesundheit - So viele Tassen können Sie trinken")
-* [Kündigung Kfz-Versicherung: Kfz-Versicherung wechseln – so gehts](https://www.test.de/Kfz-Versicherung-wechseln-so-gehts-6160032-0/ "Kündigung Kfz-Versicherung - Kfz-Versicherung wechseln – so gehts")
-* [Sicher­heits­lücke bei Türschloss: Abus muss besser auf Schwach­stelle hinweisen](https://www.test.de/Sicherheitsluecke-bei-Tuerschloss-Gerichtsurteil-Abus-muss-besser-auf-Schwachstelle-hinweisen-6115986-0/ "Sicherheitslücke bei Türschloss - Abus muss besser auf Schwachstelle hinweisen")
+* [Anla­gepro­dukt Cannabis: Plåntz AG zahlt nicht](https://www.test.de/Anlageprodukt-Cannabis-Plntz-AG-zahlt-nicht-6167394-0/ "Anlageprodukt Cannabis - Plåntz AG zahlt nicht")
+* [Ozempic, Wegovy, Mounjaro: Das steckt hinter dem Hype um die Abnehm­spritzen](https://www.test.de/Ozempic-und-Wegovy-Abnehm-Spritze-gibts-nur-auf-Rezept-5987253-0/ "Ozempic, Wegovy, Mounjaro - Das steckt hinter dem Hype um die Abnehmspritzen")
+* [Gold­berg Capital: Unseriöses Angebot für Starlink-Aktien](https://www.test.de/Goldberg-Capital-Unserioeses-Angebot-fuer-Starlink-Aktien-6135792-0/ "Goldberg Capital - Unseriöses Angebot für Starlink-Aktien")
+* [Gendermedizin: Geschlechts­spezi­fische Behand­lung rettet Frauenleben](https://www.test.de/Gendermedizin-Geschlechtsspezifische-Behandlung-rettet-Frauenleben-5988536-0/ "Gendermedizin - Geschlechtsspezifische Behandlung rettet Frauenleben")
+* [Kern­investment im Portfolio: Muss es immer MSCI World sein?](https://www.test.de/Kerninvestment-im-Portfolio-Muss-es-immer-MSCI-World-sein-6164684-0/ "Kerninvestment im Portfolio - Muss es immer MSCI World sein?")
+* [Gewusst wie: Patienten­daten anfordern](https://www.test.de/Gewusst-wie-Patientendaten-anfordern-6051265-0/ "Gewusst wie - Patientendaten anfordern")
 
 Stiftung Warentest
 
