@@ -292,3 +292,5 @@ Please approve the terms to continue
 
 ### When we are able to realize our potential,  
 we light the way for others.
+
+![](https://www.facebook.com/tr?id=526125971692028&ev=PageView&noscript=1&cd%5Bpage_title%5D=Privacy+Policy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=3&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=kai.ai%2Fprivacy-policy%2F)
