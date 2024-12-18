@@ -82,8 +82,8 @@ Trending Posts
 * [10 ways to be prepared and grounded now that Trump has won](https://therealnews.com/10-ways-to-be-prepared-and-grounded-now-that-trump-has-won)
 * ['Incredibly hypocritical': Hunter Biden's pardon and his father's mass incarceration legacy](https://therealnews.com/incredibly-hypocritical-hunter-bidens-pardon-and-his-fathers-mass-incarceration-legacy)
 * [Assad government falls after nearly 14 years of civil war as rebels seize capital](https://therealnews.com/assad-government-falls-after-nearly-14-years-of-civil-war-as-rebels-seize-capital)
+* ['The people will save the people': Rage and solidarity in the wake of Spain's floods](https://therealnews.com/rage-and-solidarity-in-the-wake-of-spains-floods)
 * [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
-* [Everything you've heard about this election is wrong. Dr. Richard Wolff explains why.](https://therealnews.com/everything-youve-heard-about-this-election-is-wrong-dr-richard-wolff-explains-why)
 
 Close
 
@@ -146,8 +146,8 @@ Trending Posts
 * [10 ways to be prepared and grounded now that Trump has won](https://therealnews.com/10-ways-to-be-prepared-and-grounded-now-that-trump-has-won)
 * ['Incredibly hypocritical': Hunter Biden's pardon and his father's mass incarceration legacy](https://therealnews.com/incredibly-hypocritical-hunter-bidens-pardon-and-his-fathers-mass-incarceration-legacy)
 * [Assad government falls after nearly 14 years of civil war as rebels seize capital](https://therealnews.com/assad-government-falls-after-nearly-14-years-of-civil-war-as-rebels-seize-capital)
+* ['The people will save the people': Rage and solidarity in the wake of Spain's floods](https://therealnews.com/rage-and-solidarity-in-the-wake-of-spains-floods)
 * [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
-* [Everything you've heard about this election is wrong. Dr. Richard Wolff explains why.](https://therealnews.com/everything-youve-heard-about-this-election-is-wrong-dr-richard-wolff-explains-why)
 
 [Skip to content](#main)
 
