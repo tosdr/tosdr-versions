@@ -259,17 +259,17 @@ this week
 
 [Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
 
+[Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
+
 [Detectors](https://www.sciencedaily.com/news/matter_energy/detectors/)
 
-[Sun](https://www.sciencedaily.com/news/space_time/sun/)
-
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
+
+[Fish](https://www.sciencedaily.com/news/plants_animals/fish/)
 
 [Bacteria](https://www.sciencedaily.com/news/plants_animals/bacteria/)
 
 [Pollution](https://www.sciencedaily.com/news/earth_climate/pollution/)
-
-[Fish](https://www.sciencedaily.com/news/plants_animals/fish/)
 
   
 
