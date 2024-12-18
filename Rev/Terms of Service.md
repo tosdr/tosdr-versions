@@ -1,4 +1,4 @@
-[Help Center](https://support.rev.com/hc/en-us)[Developers](https://www.rev.ai/)[Security](https://www.rev.com/security)
+[Developers](https://www.rev.ai/)[Security](https://www.rev.com/security)
 
 [Login](https://www.rev.com/app)
 
@@ -56,7 +56,31 @@ Forget meeting fatigue, missed details, and tedious tasks. VoiceHub will change 
 
 [Explore VoiceHub](https://www.rev.com/services/voicehub)
 
-[Services](#)[For Business](#)[Blog](https://www.rev.com/blog)[Pricing](https://www.rev.com/pricing)
+Learn Center
+
+[Blog
+
+Expert insights on AI, productivity, workflow automation, and much more](https://www.rev.com/blog)[Press
+
+Latest news about Rev's speech-to-text technology](https://www.rev.com/press)[Resources
+
+Whitepapers, reports, and guides to inform your business decisions](https://www.rev.com/resources)[Help Center
+
+Guides and tutorials to help you get the most from Rev](https://support.rev.com/hc/en-us)[Transcript Library
+
+Free transcripts from influential moments in politics and media](https://www.rev.com/transcripts)[Customer Stories
+
+Discover how industry leaders put Rev to work](https://www.rev.com/customers)
+
+![](https://cdn.prod.website-files.com/65dd0e80788a2f545d95cd65/671a59a9292987d0e61ba2db_voicehub-promo-image.png)
+
+Ignite Your Productivity
+
+Forget meeting fatigue, missed details, and tedious tasks. VoiceHub will change the way you work.
+
+[Explore VoiceHub](https://www.rev.com/services/voicehub)
+
+[Services](#)[For Business](#)[Learn Center](#)[Pricing](https://www.rev.com/pricing)
 
 [Help Center](https://support.rev.com/hc/en-us)[Developers](https://www.rev.ai/)[Security](https://www.rev.com/security)[Login](https://www.rev.com/app)
 
@@ -105,6 +129,30 @@ Empower Smarter Civic Decisions with AI Insights](https://www.rev.com/solutions/
 Turn Investor Calls into Actionable Intelligence](https://www.rev.com/solutions/industries?fin)[Healthcare
 
 Built for HIPAA Compliance, Capture & Protect Clinical Conversations](https://www.rev.com/solutions/industries?health)
+
+![](https://cdn.prod.website-files.com/65dd0e80788a2f545d95cd65/671a59a9292987d0e61ba2db_voicehub-promo-image.png)
+
+Ignite Your Productivity
+
+Forget meeting fatigue, missed details, and tedious tasks. VoiceHub will change the way you work. Coming soon.
+
+[Explore VoiceHub](https://www.rev.com/services/voicehub)
+
+[Back to menu](#)
+
+[Blog
+
+Expert insights on AI, productivity, workflow automation, and much more](https://www.rev.com/blog)[Resources
+
+Whitepapers, reports, and guides to inform your business decisions](https://www.rev.com/resources)[Transcript Library
+
+Free transcripts from influential moments in politics and media](https://www.rev.com/transcripts)[Press
+
+Latest news about Rev's speech-to-text technology](https://www.rev.com/press)[Help Center
+
+Guides and tutorials to help you get the most from Rev](https://support.rev.com/hc/en-us)[Customer Stories
+
+Discover how industry leaders put Rev to work](https://www.rev.com/customers)
 
 ![](https://cdn.prod.website-files.com/65dd0e80788a2f545d95cd65/671a59a9292987d0e61ba2db_voicehub-promo-image.png)
 
