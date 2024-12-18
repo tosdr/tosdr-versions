@@ -303,11 +303,9 @@ Information Commissioner's Office (ICO) Reg. No. ZA004886
 
 [Children and Young Peoples’ Privacy Policy](https://www.spellzone.com/pages/policies/child-friendly-privacy-policy.cfm)
 
-One of the students has put in a huge amount of effort in completing Spellzone at least 3 times a week since his arrival with us in January. Looking at his scores after the latest GL testing, his standardised score has risen from 99 to 131. This is a truly phenomenal result. I just wanted to share the best result I have ever seen.
+"Fantastic - the most relevant material/resource ever seen for both dyslexia and teaching spelling rules."
 
-**Terrie Penrose-Toms, Casterton College**
-
-[read more...](https://www.spellzone.com/pages/case-studies/casterton-college.cfm)
+**College Lecturer**
 
 ### Curriculum...
 
