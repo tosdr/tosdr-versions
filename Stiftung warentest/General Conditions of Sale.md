@@ -654,21 +654,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Heiß­luft­fritteusen im Test: Auch güns­tige Airfryer liefern knusp­rige Pommes](https://www.test.de/Heissluftfritteusen-im-Test-5115675-0/ "Heißluftfritteusen im Test - Auch günstige Airfryer liefern knusprige Pommes")
 * [Räucherlachs im Test: Lachs ist wieder Luxus](https://www.test.de/Raeucherlachs-im-Test-Lachs-ist-wieder-Luxus-4797142-0/ "Räucherlachs im Test - Lachs ist wieder Luxus")
 * [Giro­konten im Vergleich: Null statt 300 Euro – 10 Konten sind kostenlos](https://www.test.de/Girokonto-im-Test-5069390-0/ "Girokonten im Vergleich - Null statt 300 Euro – 10 Konten sind kostenlos")
 * [Skihelme im Test: Aufprall­schutz mit und ohne Mips](https://www.test.de/Skihelme-mit-und-ohne-Mips-im-Test-1833538-0/ "Skihelme im Test - Aufprallschutz mit und ohne Mips")
 * [Inhaliergeräte im Test: Einatmen – aufatmen](https://www.test.de/Inhaliergeraete-im-Test-1532341-0/ "Inhaliergeräte im Test - Einatmen – aufatmen")
 * [Laptops im Test: Kräftig und kompakt – Notebooks, Ultra­books und Co](https://www.test.de/Tablets-mit-Tastatur-Notebooks-Ultrabooks-Convertibles-im-Test-4734961-0/ "Laptops im Test - Kräftig und kompakt – Notebooks, Ultrabooks und Co")
-* [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 
 test.de entdecken
 
-* [Anla­gepro­dukt Cannabis: Plåntz AG zahlt nicht](https://www.test.de/Anlageprodukt-Cannabis-Plntz-AG-zahlt-nicht-6167394-0/ "Anlageprodukt Cannabis - Plåntz AG zahlt nicht")
-* [Ozempic, Wegovy, Mounjaro: Das steckt hinter dem Hype um die Abnehm­spritzen](https://www.test.de/Ozempic-und-Wegovy-Abnehm-Spritze-gibts-nur-auf-Rezept-5987253-0/ "Ozempic, Wegovy, Mounjaro - Das steckt hinter dem Hype um die Abnehmspritzen")
-* [Gold­berg Capital: Unseriöses Angebot für Starlink-Aktien](https://www.test.de/Goldberg-Capital-Unserioeses-Angebot-fuer-Starlink-Aktien-6135792-0/ "Goldberg Capital - Unseriöses Angebot für Starlink-Aktien")
-* [Gendermedizin: Geschlechts­spezi­fische Behand­lung rettet Frauenleben](https://www.test.de/Gendermedizin-Geschlechtsspezifische-Behandlung-rettet-Frauenleben-5988536-0/ "Gendermedizin - Geschlechtsspezifische Behandlung rettet Frauenleben")
-* [Kern­investment im Portfolio: Muss es immer MSCI World sein?](https://www.test.de/Kerninvestment-im-Portfolio-Muss-es-immer-MSCI-World-sein-6164684-0/ "Kerninvestment im Portfolio - Muss es immer MSCI World sein?")
-* [Gewusst wie: Patienten­daten anfordern](https://www.test.de/Gewusst-wie-Patientendaten-anfordern-6051265-0/ "Gewusst wie - Patientendaten anfordern")
+* [Cehatrol Technology eG: Wenig Einblick in die Zahlen](https://www.test.de/Cehatrol-Technology-eG-Wenig-Einblick-in-die-Zahlen-6051624-0/ "Cehatrol Technology eG - Wenig Einblick in die Zahlen")
+* [Bisphenol A aus der Leitung: Kritische Funde im Warm­wasser](https://www.test.de/Bisphenol-A-aus-der-Leitung-Kritische-Funde-im-Warmwasser-6043958-0/ "Bisphenol A aus der Leitung - Kritische Funde im Warmwasser")
+* [Wunder­sames aus dem Prüf­labor: Knall­körper](https://www.test.de/Wundersames-aus-dem-Prueflabor-Knallkoerper-6111981-0/ "Wundersames aus dem Prüflabor - Knallkörper")
+* [Mikrobiom-Selbst­tests: Teure Analysen ohne Aussagekraft](https://www.test.de/Mikrobiom-Selbstests-Teure-Analysen-ohne-Aussagekraft-6115898-0/ "Mikrobiom-Selbsttests - Teure Analysen ohne Aussagekraft")
+* [Strukturierte Anleihen: Diese beliebten Zins-Zertifikate sollten Sie meiden](https://www.test.de/Strukturierte-Anleihen-Zinszertifikate-mit-Tuecken-6071052-0/ "Strukturierte Anleihen - Diese beliebten Zins-Zertifikate sollten Sie meiden")
+* [Alkohol und Gesundheit: Gesund­heits­risiko steigt mit jedem Glas](https://www.test.de/Alkohol-und-Gesundheit-Gesundheitsrisiko-steigt-mit-jedem-Glas-6152254-0/ "Alkohol und Gesundheit - Gesundheitsrisiko steigt mit jedem Glas")
 
 Weitere Informationen
 
@@ -3071,21 +3071,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Heiß­luft­fritteusen im Test: Auch güns­tige Airfryer liefern knusp­rige Pommes](https://www.test.de/Heissluftfritteusen-im-Test-5115675-0/ "Heißluftfritteusen im Test - Auch günstige Airfryer liefern knusprige Pommes")
 * [Räucherlachs im Test: Lachs ist wieder Luxus](https://www.test.de/Raeucherlachs-im-Test-Lachs-ist-wieder-Luxus-4797142-0/ "Räucherlachs im Test - Lachs ist wieder Luxus")
 * [Giro­konten im Vergleich: Null statt 300 Euro – 10 Konten sind kostenlos](https://www.test.de/Girokonto-im-Test-5069390-0/ "Girokonten im Vergleich - Null statt 300 Euro – 10 Konten sind kostenlos")
 * [Skihelme im Test: Aufprall­schutz mit und ohne Mips](https://www.test.de/Skihelme-mit-und-ohne-Mips-im-Test-1833538-0/ "Skihelme im Test - Aufprallschutz mit und ohne Mips")
 * [Inhaliergeräte im Test: Einatmen – aufatmen](https://www.test.de/Inhaliergeraete-im-Test-1532341-0/ "Inhaliergeräte im Test - Einatmen – aufatmen")
 * [Laptops im Test: Kräftig und kompakt – Notebooks, Ultra­books und Co](https://www.test.de/Tablets-mit-Tastatur-Notebooks-Ultrabooks-Convertibles-im-Test-4734961-0/ "Laptops im Test - Kräftig und kompakt – Notebooks, Ultrabooks und Co")
-* [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 
 test.de entdecken
 
-* [Anla­gepro­dukt Cannabis: Plåntz AG zahlt nicht](https://www.test.de/Anlageprodukt-Cannabis-Plntz-AG-zahlt-nicht-6167394-0/ "Anlageprodukt Cannabis - Plåntz AG zahlt nicht")
-* [Ozempic, Wegovy, Mounjaro: Das steckt hinter dem Hype um die Abnehm­spritzen](https://www.test.de/Ozempic-und-Wegovy-Abnehm-Spritze-gibts-nur-auf-Rezept-5987253-0/ "Ozempic, Wegovy, Mounjaro - Das steckt hinter dem Hype um die Abnehmspritzen")
-* [Gold­berg Capital: Unseriöses Angebot für Starlink-Aktien](https://www.test.de/Goldberg-Capital-Unserioeses-Angebot-fuer-Starlink-Aktien-6135792-0/ "Goldberg Capital - Unseriöses Angebot für Starlink-Aktien")
-* [Gendermedizin: Geschlechts­spezi­fische Behand­lung rettet Frauenleben](https://www.test.de/Gendermedizin-Geschlechtsspezifische-Behandlung-rettet-Frauenleben-5988536-0/ "Gendermedizin - Geschlechtsspezifische Behandlung rettet Frauenleben")
-* [Kern­investment im Portfolio: Muss es immer MSCI World sein?](https://www.test.de/Kerninvestment-im-Portfolio-Muss-es-immer-MSCI-World-sein-6164684-0/ "Kerninvestment im Portfolio - Muss es immer MSCI World sein?")
-* [Gewusst wie: Patienten­daten anfordern](https://www.test.de/Gewusst-wie-Patientendaten-anfordern-6051265-0/ "Gewusst wie - Patientendaten anfordern")
+* [Cehatrol Technology eG: Wenig Einblick in die Zahlen](https://www.test.de/Cehatrol-Technology-eG-Wenig-Einblick-in-die-Zahlen-6051624-0/ "Cehatrol Technology eG - Wenig Einblick in die Zahlen")
+* [Bisphenol A aus der Leitung: Kritische Funde im Warm­wasser](https://www.test.de/Bisphenol-A-aus-der-Leitung-Kritische-Funde-im-Warmwasser-6043958-0/ "Bisphenol A aus der Leitung - Kritische Funde im Warmwasser")
+* [Wunder­sames aus dem Prüf­labor: Knall­körper](https://www.test.de/Wundersames-aus-dem-Prueflabor-Knallkoerper-6111981-0/ "Wundersames aus dem Prüflabor - Knallkörper")
+* [Mikrobiom-Selbst­tests: Teure Analysen ohne Aussagekraft](https://www.test.de/Mikrobiom-Selbstests-Teure-Analysen-ohne-Aussagekraft-6115898-0/ "Mikrobiom-Selbsttests - Teure Analysen ohne Aussagekraft")
+* [Strukturierte Anleihen: Diese beliebten Zins-Zertifikate sollten Sie meiden](https://www.test.de/Strukturierte-Anleihen-Zinszertifikate-mit-Tuecken-6071052-0/ "Strukturierte Anleihen - Diese beliebten Zins-Zertifikate sollten Sie meiden")
+* [Alkohol und Gesundheit: Gesund­heits­risiko steigt mit jedem Glas](https://www.test.de/Alkohol-und-Gesundheit-Gesundheitsrisiko-steigt-mit-jedem-Glas-6152254-0/ "Alkohol und Gesundheit - Gesundheitsrisiko steigt mit jedem Glas")
 
      ![](https://cdn.test.de/file/image/66/71/7c8c081d-90e7-4be0-956f-d4b722e530ff-mobile/Chefredaktions_Square;w400.png)
 
@@ -3125,39 +3125,39 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Heiß­luft­fritteusen im Test: Auch güns­tige Airfryer liefern knusp­rige Pommes](https://www.test.de/Heissluftfritteusen-im-Test-5115675-0/ "Heißluftfritteusen im Test - Auch günstige Airfryer liefern knusprige Pommes")
 * [Räucherlachs im Test: Lachs ist wieder Luxus](https://www.test.de/Raeucherlachs-im-Test-Lachs-ist-wieder-Luxus-4797142-0/ "Räucherlachs im Test - Lachs ist wieder Luxus")
 * [Giro­konten im Vergleich: Null statt 300 Euro – 10 Konten sind kostenlos](https://www.test.de/Girokonto-im-Test-5069390-0/ "Girokonten im Vergleich - Null statt 300 Euro – 10 Konten sind kostenlos")
 * [Skihelme im Test: Aufprall­schutz mit und ohne Mips](https://www.test.de/Skihelme-mit-und-ohne-Mips-im-Test-1833538-0/ "Skihelme im Test - Aufprallschutz mit und ohne Mips")
 * [Inhaliergeräte im Test: Einatmen – aufatmen](https://www.test.de/Inhaliergeraete-im-Test-1532341-0/ "Inhaliergeräte im Test - Einatmen – aufatmen")
 * [Laptops im Test: Kräftig und kompakt – Notebooks, Ultra­books und Co](https://www.test.de/Tablets-mit-Tastatur-Notebooks-Ultrabooks-Convertibles-im-Test-4734961-0/ "Laptops im Test - Kräftig und kompakt – Notebooks, Ultrabooks und Co")
-* [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 
 test.de entdecken
 
-* [Anla­gepro­dukt Cannabis: Plåntz AG zahlt nicht](https://www.test.de/Anlageprodukt-Cannabis-Plntz-AG-zahlt-nicht-6167394-0/ "Anlageprodukt Cannabis - Plåntz AG zahlt nicht")
-* [Ozempic, Wegovy, Mounjaro: Das steckt hinter dem Hype um die Abnehm­spritzen](https://www.test.de/Ozempic-und-Wegovy-Abnehm-Spritze-gibts-nur-auf-Rezept-5987253-0/ "Ozempic, Wegovy, Mounjaro - Das steckt hinter dem Hype um die Abnehmspritzen")
-* [Gold­berg Capital: Unseriöses Angebot für Starlink-Aktien](https://www.test.de/Goldberg-Capital-Unserioeses-Angebot-fuer-Starlink-Aktien-6135792-0/ "Goldberg Capital - Unseriöses Angebot für Starlink-Aktien")
-* [Gendermedizin: Geschlechts­spezi­fische Behand­lung rettet Frauenleben](https://www.test.de/Gendermedizin-Geschlechtsspezifische-Behandlung-rettet-Frauenleben-5988536-0/ "Gendermedizin - Geschlechtsspezifische Behandlung rettet Frauenleben")
-* [Kern­investment im Portfolio: Muss es immer MSCI World sein?](https://www.test.de/Kerninvestment-im-Portfolio-Muss-es-immer-MSCI-World-sein-6164684-0/ "Kerninvestment im Portfolio - Muss es immer MSCI World sein?")
-* [Gewusst wie: Patienten­daten anfordern](https://www.test.de/Gewusst-wie-Patientendaten-anfordern-6051265-0/ "Gewusst wie - Patientendaten anfordern")
+* [Cehatrol Technology eG: Wenig Einblick in die Zahlen](https://www.test.de/Cehatrol-Technology-eG-Wenig-Einblick-in-die-Zahlen-6051624-0/ "Cehatrol Technology eG - Wenig Einblick in die Zahlen")
+* [Bisphenol A aus der Leitung: Kritische Funde im Warm­wasser](https://www.test.de/Bisphenol-A-aus-der-Leitung-Kritische-Funde-im-Warmwasser-6043958-0/ "Bisphenol A aus der Leitung - Kritische Funde im Warmwasser")
+* [Wunder­sames aus dem Prüf­labor: Knall­körper](https://www.test.de/Wundersames-aus-dem-Prueflabor-Knallkoerper-6111981-0/ "Wundersames aus dem Prüflabor - Knallkörper")
+* [Mikrobiom-Selbst­tests: Teure Analysen ohne Aussagekraft](https://www.test.de/Mikrobiom-Selbstests-Teure-Analysen-ohne-Aussagekraft-6115898-0/ "Mikrobiom-Selbsttests - Teure Analysen ohne Aussagekraft")
+* [Strukturierte Anleihen: Diese beliebten Zins-Zertifikate sollten Sie meiden](https://www.test.de/Strukturierte-Anleihen-Zinszertifikate-mit-Tuecken-6071052-0/ "Strukturierte Anleihen - Diese beliebten Zins-Zertifikate sollten Sie meiden")
+* [Alkohol und Gesundheit: Gesund­heits­risiko steigt mit jedem Glas](https://www.test.de/Alkohol-und-Gesundheit-Gesundheitsrisiko-steigt-mit-jedem-Glas-6152254-0/ "Alkohol und Gesundheit - Gesundheitsrisiko steigt mit jedem Glas")
 
 Neueste Tests
 
+* [Heiß­luft­fritteusen im Test: Auch güns­tige Airfryer liefern knusp­rige Pommes](https://www.test.de/Heissluftfritteusen-im-Test-5115675-0/ "Heißluftfritteusen im Test - Auch günstige Airfryer liefern knusprige Pommes")
 * [Räucherlachs im Test: Lachs ist wieder Luxus](https://www.test.de/Raeucherlachs-im-Test-Lachs-ist-wieder-Luxus-4797142-0/ "Räucherlachs im Test - Lachs ist wieder Luxus")
 * [Giro­konten im Vergleich: Null statt 300 Euro – 10 Konten sind kostenlos](https://www.test.de/Girokonto-im-Test-5069390-0/ "Girokonten im Vergleich - Null statt 300 Euro – 10 Konten sind kostenlos")
 * [Skihelme im Test: Aufprall­schutz mit und ohne Mips](https://www.test.de/Skihelme-mit-und-ohne-Mips-im-Test-1833538-0/ "Skihelme im Test - Aufprallschutz mit und ohne Mips")
 * [Inhaliergeräte im Test: Einatmen – aufatmen](https://www.test.de/Inhaliergeraete-im-Test-1532341-0/ "Inhaliergeräte im Test - Einatmen – aufatmen")
 * [Laptops im Test: Kräftig und kompakt – Notebooks, Ultra­books und Co](https://www.test.de/Tablets-mit-Tastatur-Notebooks-Ultrabooks-Convertibles-im-Test-4734961-0/ "Laptops im Test - Kräftig und kompakt – Notebooks, Ultrabooks und Co")
-* [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 
 test.de entdecken
 
-* [Anla­gepro­dukt Cannabis: Plåntz AG zahlt nicht](https://www.test.de/Anlageprodukt-Cannabis-Plntz-AG-zahlt-nicht-6167394-0/ "Anlageprodukt Cannabis - Plåntz AG zahlt nicht")
-* [Ozempic, Wegovy, Mounjaro: Das steckt hinter dem Hype um die Abnehm­spritzen](https://www.test.de/Ozempic-und-Wegovy-Abnehm-Spritze-gibts-nur-auf-Rezept-5987253-0/ "Ozempic, Wegovy, Mounjaro - Das steckt hinter dem Hype um die Abnehmspritzen")
-* [Gold­berg Capital: Unseriöses Angebot für Starlink-Aktien](https://www.test.de/Goldberg-Capital-Unserioeses-Angebot-fuer-Starlink-Aktien-6135792-0/ "Goldberg Capital - Unseriöses Angebot für Starlink-Aktien")
-* [Gendermedizin: Geschlechts­spezi­fische Behand­lung rettet Frauenleben](https://www.test.de/Gendermedizin-Geschlechtsspezifische-Behandlung-rettet-Frauenleben-5988536-0/ "Gendermedizin - Geschlechtsspezifische Behandlung rettet Frauenleben")
-* [Kern­investment im Portfolio: Muss es immer MSCI World sein?](https://www.test.de/Kerninvestment-im-Portfolio-Muss-es-immer-MSCI-World-sein-6164684-0/ "Kerninvestment im Portfolio - Muss es immer MSCI World sein?")
-* [Gewusst wie: Patienten­daten anfordern](https://www.test.de/Gewusst-wie-Patientendaten-anfordern-6051265-0/ "Gewusst wie - Patientendaten anfordern")
+* [Cehatrol Technology eG: Wenig Einblick in die Zahlen](https://www.test.de/Cehatrol-Technology-eG-Wenig-Einblick-in-die-Zahlen-6051624-0/ "Cehatrol Technology eG - Wenig Einblick in die Zahlen")
+* [Bisphenol A aus der Leitung: Kritische Funde im Warm­wasser](https://www.test.de/Bisphenol-A-aus-der-Leitung-Kritische-Funde-im-Warmwasser-6043958-0/ "Bisphenol A aus der Leitung - Kritische Funde im Warmwasser")
+* [Wunder­sames aus dem Prüf­labor: Knall­körper](https://www.test.de/Wundersames-aus-dem-Prueflabor-Knallkoerper-6111981-0/ "Wundersames aus dem Prüflabor - Knallkörper")
+* [Mikrobiom-Selbst­tests: Teure Analysen ohne Aussagekraft](https://www.test.de/Mikrobiom-Selbstests-Teure-Analysen-ohne-Aussagekraft-6115898-0/ "Mikrobiom-Selbsttests - Teure Analysen ohne Aussagekraft")
+* [Strukturierte Anleihen: Diese beliebten Zins-Zertifikate sollten Sie meiden](https://www.test.de/Strukturierte-Anleihen-Zinszertifikate-mit-Tuecken-6071052-0/ "Strukturierte Anleihen - Diese beliebten Zins-Zertifikate sollten Sie meiden")
+* [Alkohol und Gesundheit: Gesund­heits­risiko steigt mit jedem Glas](https://www.test.de/Alkohol-und-Gesundheit-Gesundheitsrisiko-steigt-mit-jedem-Glas-6152254-0/ "Alkohol und Gesundheit - Gesundheitsrisiko steigt mit jedem Glas")
 
 Stiftung Warentest
 
