@@ -415,9 +415,9 @@ USD $ | United States
         
         DVD
         
-    * [![header icon](//shop.angel.com/cdn/shop/files/icon-hoody-80_1024x1024.svg?v=1719497648)](https://tuttletwins.store/collections/hoodies)
+    * [![header icon](//shop.angel.com/cdn/shop/files/Toys-Icon-for-NAV_1024x1024.png?v=1734470040)](https://tuttletwins.store/collections/toys)
         
-        Hoodies
+        Toys
         
     * [![header icon](//shop.angel.com/cdn/shop/files/icon-jewelry-1-80_1024x1024.svg?v=1719497664)](https://tuttletwins.store/collections/jewelry)
         
@@ -431,17 +431,17 @@ USD $ | United States
         
         Posters
         
-    * [![header icon](//shop.angel.com/cdn/shop/files/icon-puzzles-80_1024x1024.svg?v=1719497844)](https://tuttletwins.store/collections/puzzles)
+    * [![header icon](//shop.angel.com/cdn/shop/files/Goldback-Icon_1024x1024.png?v=1734470040)](https://tuttletwins.store/products/goldback-bundle)
         
-        Puzzles
+        Goldback
         
     * [![header icon](//shop.angel.com/cdn/shop/files/icon-stickers-1-80_1024x1024.svg?v=1719497858)](https://tuttletwins.store/collections/stickers)
         
         Stickers
         
-    * [![header icon](//shop.angel.com/cdn/shop/files/icon-toys-1-80_e5517b11-c508-48a6-8562-79dab616ca92_1024x1024.svg?v=1719497877)](https://tuttletwins.store/collections/toys)
+    * [![header icon](//shop.angel.com/cdn/shop/files/icon-toys-1-80_e5517b11-c508-48a6-8562-79dab616ca92_1024x1024.svg?v=1719497877)](https://tuttletwins.store/collections/plushies)
         
-        Toys
+        Plushies
         
     * [![header icon](//shop.angel.com/cdn/shop/files/icon-hats-80_4f189a13-d0b5-4812-acec-8b42f89dc2d6_1024x1024.svg?v=1719497890)](https://tuttletwins.store/collections/hats)
         
