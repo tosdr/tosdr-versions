@@ -354,7 +354,7 @@
     Cloud postal processing for USPS/Canada Post mail.](https://www.melissa.com/service/presort/uploadws.aspx)
     
 * [Data Marketplace](https://www.melissa.com/marketplace)
-* [Pricing](https://www.melissa.com/pricing)
+* [Pricing](https://www.melissa.com/pricing/)
 * [Support](https://www.melissa.com/company/product-support)
 * [More](#)
     
