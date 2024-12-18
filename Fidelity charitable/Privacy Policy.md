@@ -1,9 +1,3 @@
-WEBINAR: Maximize Your Impact: Tax-Savvy Giving With Donor-Advised Funds
-
-[Register now](https://www.fidelitycharitable.org/events/maximize-your-impact.html)
-
-[×](#)
-
    ![](/content/dam/fc-public/site-design-assets/icons/white-banner-icon.png/_jcr_content/renditions/viewport-max-p.png)
 
 **Time is running out to make tax-deductible contributions in 2024. Review our year-end [contribution guidelines](https://www.fidelitycharitable.org/giving-account/what-you-can-donate/charitable-year-end-tax-deadlines.html).**
