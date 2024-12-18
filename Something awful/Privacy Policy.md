@@ -205,27 +205,28 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Variety Pack #15: Photoshops of Photoshop itself! Also: Incidental Markings, Superheroes, and Animals!](https://www.somethingawful.com/photoshop-phriday/variety-pack-splat/1/)
-* [Big Guts](https://www.somethingawful.com/weekend-web/big-guts/1/)
-* [Trading Cards](https://www.somethingawful.com/photoshop-phriday/trading-cards/1/)
-* [The Five-Day Prank](https://www.somethingawful.com/icq-pranks/icq-transcript-fiveday/1/)
-* [Eunuch Archive](https://www.somethingawful.com/weekend-web/eunuch-archive/1/)
+* [Battletech Loves the 80's](https://www.somethingawful.com/dungeons-and-dragons/battletech-art-1980s/1/)
+* [Let's improve landmarks](https://www.somethingawful.com/photoshop-phriday/lets-improve-landmarks/)
+* [Banker.Bmp, Part 2!](https://www.somethingawful.com/photoshop-phriday/photoshop-phriday-banker2/)
+* [Joker Minion, Part II](https://www.somethingawful.com/photoshop-phriday/joker-minion-2/)
+* [Remorseful Hitman Kid: Back For ONE LAST HIT!](https://www.somethingawful.com/photoshop-phriday/boy-hitman-photo/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/cd_classic.gif) [Hooray!](http://forums.somethingawful.com/showthread.php?threadid=4077726 "Hooray!")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [Are you afraid of dying?](http://forums.somethingawful.com/showthread.php?threadid=4077689 "Are you afraid of dying?")
-* ![](https://fi.somethingawful.com/forums/posticons/pi-cock.png) [craft meats](http://forums.somethingawful.com/showthread.php?threadid=4077754 "craft meats")
-* ![](https://fi.somethingawful.com/forums/posticons/fyad-sandwich.gif) [What's the best sour candy?](http://forums.somethingawful.com/showthread.php?threadid=4077714 "What's the best sour candy?")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/video.png) [ITT Brainstorm Youtube/Instagram/TikTok Shorts](http://forums.somethingawful.com/showthread.php?threadid=4077756 "ITT Brainstorm Youtube/Instagram/TikTok Shorts")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/fruity.png) [House shoes and slippers](http://forums.somethingawful.com/showthread.php?threadid=4077708 "House shoes and slippers")
+* ![](https://fi.somethingawful.com/forums/posticons/fyad-sandwich.gif) [What's the best sour candy?](http://forums.somethingawful.com/showthread.php?threadid=4077714 "What's the best sour candy?")
+* ![](https://fi.somethingawful.com/forums/posticons/cd_classic.gif) [Hooray!](http://forums.somethingawful.com/showthread.php?threadid=4077726 "Hooray!")
+* ![](https://fi.somethingawful.com/forums/posticons/pi-cock.png) [craft meats](http://forums.somethingawful.com/showthread.php?threadid=4077754 "craft meats")
+* ![](https://fi.somethingawful.com/forums/posticons/aids.png) [pronouncing words wrong youve only ever read and never said out loud MEGATH](http://forums.somethingawful.com/showthread.php?threadid=4077757 "pronouncing words wrong youve only ever read and never said out loud MEGATH")
 
 ### Random Articles
 
-* [Duamutef's Pit of Iniquity](https://www.somethingawful.com/awful-links/awful-link-3431/)
-* [Deep Hurting Draws Politics](https://www.somethingawful.com/comedy-goldmine/deep-hurting-cartoons/1/)
-* [January 14, 2008](https://www.somethingawful.com/forum-fridays/ff01-14-07/1/)
-* [Blog like you mean it, son](https://www.somethingawful.com/mooflogs/blog-like-you/)
-* [Something Awful vs. the Dog Haired Private Investigator](https://www.somethingawful.com/legal-threats/macnachtan-dog-lawsuit/1/)
+* [The Something Awful Guide To Men’s Fashion, Fall 2016](https://www.somethingawful.com/news/fall-2016-fashion/)
+* [Condoms? Useless!](https://www.somethingawful.com/webcam-ward/condoms/)
+* [Reminder: Netflix is making a movie with Will Smith as a cop with an orc partner](https://www.somethingawful.com/news/landis-shadowrun-ripoff/)
+* [GG ELECTION COVERAGE '08 day three](https://www.somethingawful.com/daily-dirt/gaming-election-3/)
+* [Professor Evaluation](https://www.somethingawful.com/news/professor-evaluation/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
