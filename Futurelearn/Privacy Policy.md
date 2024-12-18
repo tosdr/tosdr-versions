@@ -809,35 +809,34 @@ Study flexibly online as you build to a degree](https://www.futurelearn.com/degr
 
 ### Explore our online degrees
 
-* [MBA Degrees](https://www.futurelearn.com/degrees/mba)
+* [Online MBAs](https://www.futurelearn.com/degrees/mba)
 * [Psychology Degrees](https://www.futurelearn.com/degrees/psychology)
 * [Teaching Degrees](https://www.futurelearn.com/degrees/teaching)
 * [IT & Computer Science Degrees](https://www.futurelearn.com/degrees/it-and-computer-science)
-* [Data Science Degrees](https://www.futurelearn.com/degrees/data-science)
+* [Data Science Degrees](https://www.futurelearn.com/degrees/data-analytics/data-science)
 * [PGCE](https://www.futurelearn.com/degrees/pgce)
-* [Software Engineering Degrees](https://www.futurelearn.com/degrees/software-engineering)
+* [Software Engineering Degrees](https://www.futurelearn.com/degrees/it-and-computer-science/software-engineering)
 * [Business & Management Degrees](https://www.futurelearn.com/degrees/business-and-management)
 
 ### Earn a master's degree online
 
 * [Master's Degrees in Psychology](https://www.futurelearn.com/degrees/masters/psychology)
 * [Master's Degrees in Computer Science](https://www.futurelearn.com/degrees/masters/it-and-computer-science)
-* [Master's Degrees in Data Science](https://www.futurelearn.com/degrees/masters/data-science)
-* [Master's Degrees in Digital Marketing](https://www.futurelearn.com/degrees/masters/digital-marketing)
-* [Master's Degrees in Public Health](https://www.futurelearn.com/degrees/masters/public-health)
-* [Master's Degrees in Finance](https://www.futurelearn.com/degrees/masters/finance)
+* [Master's Degrees in Data Science](https://www.futurelearn.com/degrees/masters/data-analytics/data-science)
+* [Master's Degrees in Digital Marketing](https://www.futurelearn.com/degrees/masters/marketing/digital-marketing)
+* [Master's Degrees in Public Health](https://www.futurelearn.com/degrees/masters/healthcare/public-health)
+* [Master's Degrees in Finance](https://www.futurelearn.com/degrees/masters/accounting-and-finance/finance)
 * [Master's Degrees in Economics](https://www.futurelearn.com/degrees/masters/economics)
-* [Master's Degrees in Artificial Intelligence (AI)](https://www.futurelearn.com/degrees/masters/artificial-intelligence)
+* [Master's Degrees in Artificial Intelligence (AI)](https://www.futurelearn.com/degrees/masters/it-and-computer-science/artificial-intelligence)
 
 ### Earn a bachelor's degree online
 
 * [Bachelor's Degrees in Healthcare](https://www.futurelearn.com/degrees/bachelors/healthcare)
-* [Bachelor's Degrees in Marketing](https://www.futurelearn.com/degrees/bachelors/marketing)
 * [Bachelor's Degrees in Psychology](https://www.futurelearn.com/degrees/bachelors/psychology)
-* [Bachelor's Degrees in Accounting](https://www.futurelearn.com/degrees/bachelors/accounting)
+* [Bachelor's Degrees in Accounting](https://www.futurelearn.com/degrees/bachelors/accounting-and-finance/accounting)
 * [Bachelor's Degrees in Economics](https://www.futurelearn.com/degrees/bachelors/economics)
-* [Bachelor's Degrees in Finance](https://www.futurelearn.com/degrees/bachelors/finance)
-* [Bachelor's Degrees in Project Management](https://www.futurelearn.com/degrees/bachelors/project-management)
+* [Bachelor's Degrees in Finance](https://www.futurelearn.com/degrees/bachelors/accounting-and-finance/finance)
+* [Bachelor's Degrees in Project Management](https://www.futurelearn.com/degrees/bachelors/business-and-management/project-management)
 * [Bachelor's Degrees in Business & Management](https://www.futurelearn.com/degrees/bachelors/business-and-management)
 
 ### About FutureLearn
