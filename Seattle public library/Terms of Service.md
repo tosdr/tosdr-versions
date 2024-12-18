@@ -75,11 +75,12 @@
     * [Interlibrary Loans](https://www.spl.org/books-and-media/interlibrary-loans "Interlibrary Loan")
     * [Movies & TV](https://www.spl.org/books-and-media/movies-and-tv "Movies & TV")
     * [Music](https://www.spl.org/books-and-media/music "Music")
-    * [Recorded Events](https://www.spl.org/books-and-media/recorded-events "Recorded Events")
     * [Shelf Talk Blog](https://shelftalkblog.wordpress.com/)
     * [Suggest a Title](https://www.spl.org/books-and-media/suggest-a-title "Suggest a Title")
+    * [Unique Collections](https://www.spl.org/books-and-media/unique-collections "Unique Collections")
     * [What's New](https://www.spl.org/books-and-media/whats-new "What's New")
     * [What's Popular](https://www.spl.org/books-and-media/whats-popular "What's Popular")
+    * [World Languages Collection](https://www.spl.org/books-and-media/world-languages-collection "World Languages Collection")
     * [A-Z Books & Media](https://www.spl.org/books-and-media/a-z-books-and-media "A-Z Books & Media")
     
 * [Online Resources](#)
@@ -120,6 +121,7 @@
     * [Fun & Games](https://www.spl.org/programs-and-services/fun-and-games "Fun & Games")
     * [Learning](https://www.spl.org/programs-and-services/learning "Learning")
     * [Outreach](https://www.spl.org/programs-and-services/outreach "Outreach")
+    * [Recorded Events](https://www.spl.org/programs-and-services/recorded-events "Recorded Events")
     * [Social Justice](https://www.spl.org/programs-and-services/social-justice "Social Justice")
     * [A-Z Programs & Services](https://www.spl.org/programs-and-services/a-z-programs-and-services "A-Z Programs & Services")
     
