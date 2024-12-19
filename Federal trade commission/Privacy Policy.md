@@ -133,7 +133,7 @@ Main Menu Mega
     Feature
     -------
     
-    ![](/sites/default/files/styles/crop_thumbnail/public/images/images/nov-18-2013-924am/ftc_hq6_400x350.jpg?itok=sO6cBfTu)
+    ![](/sites/default/files/styles/crop_thumbnail/public/images/images/nov-18-2013-924am/ftc_hq6_400x350.jpg?itok=sO6cBfTu)   
     
     ### Vision and Priorities
     
@@ -234,7 +234,7 @@ Main Menu Mega
     
     ### [Competition Snuffed Out: How Predatory Pricing Harms Competition, Consumers, and Innovation](https://www.ftc.gov/news-events/events/2024/12/competition-snuffed-out-how-predatory-pricing-harms-competition-consumers-innovation)
     
-    Wednesday, December 18, 2024 | 9:30AM - 12:30PM
+    Wednesday, December 18, 2024 | 9:30AM \- 12:30PM
     
     [View more Events](https://www.ftc.gov/news-events/events)
     
@@ -269,7 +269,7 @@ Main Menu Mega
     Feature
     -------
     
-    ![gaming controller illustration](/sites/default/files/styles/crop_thumbnail/public/ftc_gov/images/gaming-controller-hero.jpg?itok=9PjrGCSl)
+    ![gaming controller illustration](/sites/default/files/styles/crop_thumbnail/public/ftc_gov/images/gaming-controller-hero.jpg?itok=9PjrGCSl)   
     
     ### [Playing it Safe: Explore the FTC's Top Video Game Cases](https://www.ftc.gov/news-events/features/gaming "Playing it Safe: Explore the FTC's Top Video Game Cases feature")
     
@@ -278,7 +278,7 @@ Main Menu Mega
     Latest Data Visualization
     -------------------------
     
-    ![Visualization of FTC Refunds to Consumers](/system/files/styles/crop_thumbnail/private/ftc_gov/images/refunds-tableau.jpg?itok=uqgwQ2yN)
+    ![Visualization of FTC Refunds to Consumers](/system/files/styles/crop_thumbnail/private/ftc_gov/images/refunds-tableau.jpg?itok=uqgwQ2yN)   
     
     ### [FTC Refunds to Consumers](https://public.tableau.com/app/profile/federal.trade.commission/viz/Refunds_15797958402020/RefundsbyCase)
     
@@ -308,7 +308,7 @@ Main Menu Mega
     Featured
     --------
     
-    ![Lina M. Khan](/sites/default/files/styles/crop_thumbnail/public/ftc_gov/images/khan-220.png?itok=BvIjcyJT)
+    ![Lina M. Khan](/sites/default/files/styles/crop_thumbnail/public/ftc_gov/images/khan-220.png?itok=BvIjcyJT)   
     
     ### Meet the Chair
     
