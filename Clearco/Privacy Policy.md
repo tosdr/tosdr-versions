@@ -94,11 +94,11 @@ Learn more about our enterprise solution and get a demo from our sales team.](ht
 
 **Read our latest content**
 
-![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/676305f3ecc720550bbfadd1_startup-siblings-ray-justin-kim-health-revolution-the-plug.png)
+![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/676344c01a4255e056bf4e4b_launching-new-product-line-2025-guide.png)
 
-###### How Ray and Justin Kim Are Transforming the Health Industry with The Plug
+###### Launching a New Product Line in 2025? Essential Steps for Ecommerce Success
 
-[Read now >](https://clear.co/blog/startup-siblings-ray-justin-kim-health-revolution-the-plug)
+[Read now >](https://clear.co/blog/launching-new-product-line-2025-guide)
 
 [Sign In](http://my.clearbanc.com/login)[Get Funding](http://my.clearbanc.com/signup)
 
