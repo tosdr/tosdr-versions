@@ -205,28 +205,26 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Battletech Loves the 80's](https://www.somethingawful.com/dungeons-and-dragons/battletech-art-1980s/1/)
-* [Let's improve landmarks](https://www.somethingawful.com/photoshop-phriday/lets-improve-landmarks/)
-* [Banker.Bmp, Part 2!](https://www.somethingawful.com/photoshop-phriday/photoshop-phriday-banker2/)
-* [Joker Minion, Part II](https://www.somethingawful.com/photoshop-phriday/joker-minion-2/)
-* [Remorseful Hitman Kid: Back For ONE LAST HIT!](https://www.somethingawful.com/photoshop-phriday/boy-hitman-photo/)
+* [Inappropriate Holiday Cards](https://www.somethingawful.com/comedy-goldmine/inappropriate-holiday-cards/1/)
+* [Help Us Save Synnibarr!](https://www.somethingawful.com/dungeons-and-dragons/save-synnibarr-mccracken/1/)
+* [The Karnov Playset 2](https://www.somethingawful.com/flash-tub/karnov-playset-2/1/)
+* [April 9, 2012](https://www.somethingawful.com/twitter-tuesday/tt04-09-12/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/video.png) [ITT Brainstorm Youtube/Instagram/TikTok Shorts](http://forums.somethingawful.com/showthread.php?threadid=4077756 "ITT Brainstorm Youtube/Instagram/TikTok Shorts")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/fruity.png) [House shoes and slippers](http://forums.somethingawful.com/showthread.php?threadid=4077708 "House shoes and slippers")
-* ![](https://fi.somethingawful.com/forums/posticons/fyad-sandwich.gif) [What's the best sour candy?](http://forums.somethingawful.com/showthread.php?threadid=4077714 "What's the best sour candy?")
 * ![](https://fi.somethingawful.com/forums/posticons/cd_classic.gif) [Hooray!](http://forums.somethingawful.com/showthread.php?threadid=4077726 "Hooray!")
-* ![](https://fi.somethingawful.com/forums/posticons/pi-cock.png) [craft meats](http://forums.somethingawful.com/showthread.php?threadid=4077754 "craft meats")
 * ![](https://fi.somethingawful.com/forums/posticons/aids.png) [pronouncing words wrong youve only ever read and never said out loud MEGATH](http://forums.somethingawful.com/showthread.php?threadid=4077757 "pronouncing words wrong youve only ever read and never said out loud MEGATH")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/video.png) [ITT Brainstorm Youtube/Instagram/TikTok Shorts](http://forums.somethingawful.com/showthread.php?threadid=4077756 "ITT Brainstorm Youtube/Instagram/TikTok Shorts")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/drugs.png) [How has the wasping epidemic affected you?](http://forums.somethingawful.com/showthread.php?threadid=4077779 "How has the wasping epidemic affected you?")
+* ![](https://fi.somethingawful.com/forums/posticons/pi-cock.png) [craft meats](http://forums.somethingawful.com/showthread.php?threadid=4077754 "craft meats")
 
 ### Random Articles
 
-* [The Something Awful Guide To Men’s Fashion, Fall 2016](https://www.somethingawful.com/news/fall-2016-fashion/)
-* [Condoms? Useless!](https://www.somethingawful.com/webcam-ward/condoms/)
-* [Reminder: Netflix is making a movie with Will Smith as a cop with an orc partner](https://www.somethingawful.com/news/landis-shadowrun-ripoff/)
-* [GG ELECTION COVERAGE '08 day three](https://www.somethingawful.com/daily-dirt/gaming-election-3/)
-* [Professor Evaluation](https://www.somethingawful.com/news/professor-evaluation/1/)
+* [eVentPlanner: The Kyung Joon Welcome Home Party](https://www.somethingawful.com/news/event-plan-wrestling/)
+* [SkyMall Product Reviews: Head & Eye Massager](https://www.somethingawful.com/news/skymall-eye-massager/)
+* [Suicide Silence](https://www.somethingawful.com/garbage-day/suicide-silence-deathcore/)
+* [Noclip Mode](https://www.somethingawful.com/news/noclip-mode/)
+* [Sponsored Content part 2](https://www.somethingawful.com/news/sponsored-content-2/)
 
 [Random!](https://www.somethingawful.com/random/)
 
