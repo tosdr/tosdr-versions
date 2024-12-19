@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/de-lichtenergie-vanuit-het-atlantische-bewustzijn/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/meelezen/wetenschap-van-liefde/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
