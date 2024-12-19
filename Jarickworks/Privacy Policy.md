@@ -156,7 +156,7 @@ Designing where you want to go today
 
 [Donate](#donate)
 
-[![freeblr government the state human parasite](/freeblr/government/the-state-human-parasite/card.svg)](https://jarick.works/freeblr/government/the-state-human-parasite)[![freeblr education parents can trust kids to teach themselves](/freeblr/education/parents-can-trust-kids-to-teach-themselves/card.svg)](https://jarick.works/freeblr/education/parents-can-trust-kids-to-teach-themselves)[![freeblr money the value of money](/freeblr/money/the-value-of-money/card.svg)](https://jarick.works/freeblr/money/the-value-of-money)[![freeblr taxation taxes are the price we pay to live in a civilised society or are they](/freeblr/taxation/taxes-are-the-price-we-pay-to-live-in-a-civilised-society-or-are-they/card.svg)](https://jarick.works/freeblr/taxation/taxes-are-the-price-we-pay-to-live-in-a-civilised-society-or-are-they)
+[![freeblr government only cowards vote](/freeblr/government/only-cowards-vote/card.svg)](https://jarick.works/freeblr/government/only-cowards-vote)[![freeblr limited government the anarchism and minarchism blur](/freeblr/limited-government/the-anarchism-and-minarchism-blur/card.svg)](https://jarick.works/freeblr/limited-government/the-anarchism-and-minarchism-blur)[![freeblr government the immorality of the state](/freeblr/government/the-immorality-of-the-state/card.svg)](https://jarick.works/freeblr/government/the-immorality-of-the-state)[![freeblr borders liberty for all means immigrants too](/freeblr/borders/liberty-for-all-means-immigrants-too/card.svg)](https://jarick.works/freeblr/borders/liberty-for-all-means-immigrants-too)
 
 [Follow](#follow)
 
