@@ -35,7 +35,6 @@
         [Learn more](https://reckitt.com/us/sustainability/our-commitment-to-ingredient-transparency/)
         
 * [Coupons & Offers](https://www.finishdishwashing.com/coupons-and-offers/)
-* [Night To Remember Giveaway](https://www.finishdishwashing.com/night-to-remember-giveaway-signup/)
 
 [HELP AND SUPPORT](https://www.finishdishwashing.com/help-and-support/)[SIGN UP](https://www.finishdishwashing.com/sign-up/)
 
