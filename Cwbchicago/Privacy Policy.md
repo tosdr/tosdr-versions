@@ -243,6 +243,16 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/12/Alejandro-Arellano--326x245.jpg)](https://cwbchicago.com/2024/12/man-gets-41-years-for-murdering-his-ex-on-a-downtown-train-platform.html "Man gets 41 years for murdering his ex on a downtown train platform")
+
+CTA
+
+### [Man gets 41 years for murdering his ex on a downtown train platform](https://cwbchicago.com/2024/12/man-gets-41-years-for-murdering-his-ex-on-a-downtown-train-platform.html "Man gets 41 years for murdering his ex on a downtown train platform")
+
+[December 15, 2024 8:40 AM](https://cwbchicago.com/2024/12)
+
+A judge this week sentenced a man to 41 years in prison for stabbing his ex-girlfriend to death on a CTA platform in downtown Chicago. Jurors found Alejandro Arellano, 33, guilty of two counts of murder on Halloween, and Judge Timothy Joyce handed down his sentence Tuesday, court records show. Arellano must serve 100% of the time.[](https://cwbchicago.com/2024/12/man-gets-41-years-for-murdering-his-ex-on-a-downtown-train-platform.html "Man gets 41 years for murdering his ex on a downtown train platform")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/12/Ahmod-Johnsonb-326x245.jpg)](https://cwbchicago.com/2024/12/mcdonalds-patrons-tackled-and-beat-an-armed-robber-until-cops-arrived-chicago-police-report-says.html "McDonald’s patrons tackled and beat an armed robber until cops arrived, Chicago police report says")
 
 Austin
@@ -262,16 +272,6 @@ CTA
 [December 14, 2024 9:17 PM](https://cwbchicago.com/2024/12)
 
 Prosecutors say a woman on felony pretrial release was part of a five-person mob that attacked and robbed two men in separate crimes on the Red Line in October.[](https://cwbchicago.com/2024/12/woman-was-part-of-five-person-mob-that-mugged-red-line-passengers-prosecutors-claim.html "Woman was part of five-person mob that mugged Red Line passengers, prosecutors claim")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/12/Naronn-Cain-326x245.jpg)](https://cwbchicago.com/2024/12/10-years-in-federal-prison-for-man-who-carjacked-couple-because-he-needed-to-get-home-quickly.html "10+ years in federal prison for man who carjacked couple because he needed to get home quickly")
-
-West Town
-
-### [10+ years in federal prison for man who carjacked couple because he needed to get home quickly](https://cwbchicago.com/2024/12/10-years-in-federal-prison-for-man-who-carjacked-couple-because-he-needed-to-get-home-quickly.html "10+ years in federal prison for man who carjacked couple because he needed to get home quickly")
-
-[December 14, 2024 1:46 PM](https://cwbchicago.com/2024/12)
-
-The decision to carjack a couple at gunpoint because the driver of his car was going too slow and he wanted to get home has landed a Chicago man in federal prison. Naronn Cain, 27, received a sentence of 10 years and 5 months from U.S. District Judge John Blakey upon pleading guilty to carjacking and using a firearm during the commission of a violent crime.[](https://cwbchicago.com/2024/12/10-years-in-federal-prison-for-man-who-carjacked-couple-because-he-needed-to-get-home-quickly.html "10+ years in federal prison for man who carjacked couple because he needed to get home quickly")
 
 #### Daily email newsletter
 
