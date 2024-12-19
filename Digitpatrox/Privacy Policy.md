@@ -20,16 +20,16 @@ Thursday, December 19 2024
 
 Latest
 
-* [How to watch Gavin and Stacy Christmas Special 2024 online](https://digitpatrox.com/how-to-watch-gavin-and-stacy-christmas-special-2024-online/)
-* [Machine identity attacks will be top of mind for security leaders in 2025](https://digitpatrox.com/machine-identity-attacks-will-be-top-of-mind-for-security-leaders-in-2025/)
-* [Slack adds Agentforce ‘hub’ for AI agents – Computerworld](https://digitpatrox.com/slack-adds-agentforce-hub-for-ai-agents-computerworld/)
-* [TikTok Influencers Are Wrong About Hackers Stealing Credit Card Information Over AirDrop](https://digitpatrox.com/tiktok-influencers-are-wrong-about-hackers-stealing-credit-card-information-over-airdrop/)
-* [How to watch Squid Game Season 2 online from anywhere](https://digitpatrox.com/how-to-watch-squid-game-season-2-online-from-anywhere/)
-* [Talking Cars 461: Driving the Chevrolet Equinox EV](https://digitpatrox.com/talking-cars-461-driving-the-chevrolet-equinox-ev/)
-* [The TimeCapsule Makes AirTags Last Up to 10 Years](https://digitpatrox.com/the-timecapsule-makes-airtags-last-up-to-10-years/)
-* [Arcserve UDP 10 review | ITPro](https://digitpatrox.com/arcserve-udp-10-review-itpro/)
-* [NVIDIA Releases New Mini Developer Kit for Generative AI](https://digitpatrox.com/nvidia-releases-new-mini-developer-kit-for-generative-ai/)
-* [You can now call 1-800-ChatGPT — here’s everything to know](https://digitpatrox.com/you-can-now-call-1-800-chatgpt-heres-everything-to-know/)
+* [Can You Use Genmoji on Mac? Answered](https://digitpatrox.com/can-you-use-genmoji-on-mac-answered/)
+* [Apple updates its IT training courses for latest OS updates – Computerworld](https://digitpatrox.com/apple-updates-its-it-training-courses-for-latest-os-updates-computerworld/)
+* [What a ‘Fart Walk’ Is, and Why You Should Take One Tonight](https://digitpatrox.com/what-a-fart-walk-is-and-why-you-should-take-one-tonight/)
+* [Most Reliable 3-Year-Old Cars and SUVs](https://digitpatrox.com/most-reliable-3-year-old-cars-and-suvs/)
+* [Live Captions and Auto Translation Is Coming to More Windows PCs](https://digitpatrox.com/live-captions-and-auto-translation-is-coming-to-more-windows-pcs/)
+* [Broadcom records huge growth as CEO Hock Tan hails “successful integration” of VMware](https://digitpatrox.com/broadcom-records-huge-growth-as-ceo-hock-tan-hails-successful-integration-of-vmware/)
+* [Network Definition Made Simple: Here’s the Basics](https://digitpatrox.com/network-definition-made-simple-heres-the-basics/)
+* [Tottenham vs Man Utd live stream: watch EFL Cup game online](https://digitpatrox.com/tottenham-vs-man-utd-live-stream-watch-efl-cup-game-online/)
+* [Ongoing phishing attack abuses Google Calendar to bypass spam filters](https://digitpatrox.com/ongoing-phishing-attack-abuses-google-calendar-to-bypass-spam-filters/)
+* [Balatro’s creator isn’t happy about the game’s 18-plus rating in Europe](https://digitpatrox.com/balatros-creator-isnt-happy-about-the-games-18-plus-rating-in-europe/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/How-to-watch-Gavin-and-Stacy-Christmas-Special-2024-online.jpg)](https://digitpatrox.com/how-to-watch-gavin-and-stacy-christmas-special-2024-online/)
+* [![](https://beebom.com/wp-content/uploads/2024/12/Is-Genmoji-available-on-MacBook.jpeg)](https://digitpatrox.com/can-you-use-genmoji-on-mac-answered/)
     
-    [How to watch Gavin and Stacy Christmas Special 2024 online](https://digitpatrox.com/how-to-watch-gavin-and-stacy-christmas-special-2024-online/)
+    [Can You Use Genmoji on Mac? Answered](https://digitpatrox.com/can-you-use-genmoji-on-mac-answered/)
     
-    15 minutes ago
+    10 minutes ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/44czLjHXb9wstRuFkRhVxK-1200-80.jpg)](https://digitpatrox.com/machine-identity-attacks-will-be-top-of-mind-for-security-leaders-in-2025/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3627489-0-93353300-1734542357-Apple-Fifth-Avenue-New-York-Tim-Cook-with-customers-240920.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/apple-updates-its-it-training-courses-for-latest-os-updates-computerworld/)
     
-    [Machine identity attacks will be top of mind for security leaders in 2025](https://digitpatrox.com/machine-identity-attacks-will-be-top-of-mind-for-security-leaders-in-2025/)
-    
-    44 minutes ago
-    
-* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3627642-0-01099200-1734551239-Slack_Product-Specialist.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/slack-adds-agentforce-hub-for-ai-agents-computerworld/)
-    
-    [Slack adds Agentforce ‘hub’ for AI agents – Computerworld](https://digitpatrox.com/slack-adds-agentforce-hub-for-ai-agents-computerworld/)
-    
-    1 hour ago
-    
-* [![](https://lifehacker.com/imagery/articles/01JFDSVB1A6FXQFD172YZP42AT/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/tiktok-influencers-are-wrong-about-hackers-stealing-credit-card-information-over-airdrop/)
-    
-    [TikTok Influencers Are Wrong About Hackers Stealing Credit Card Information Over AirDrop](https://digitpatrox.com/tiktok-influencers-are-wrong-about-hackers-stealing-credit-card-information-over-airdrop/)
+    [Apple updates its IT training courses for latest OS updates – Computerworld](https://digitpatrox.com/apple-updates-its-it-training-courses-for-latest-os-updates-computerworld/)
     
     2 hours ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/12/How-to-watch-Squid-Game-Season-2-online-from-anywhere.jpg)](https://digitpatrox.com/how-to-watch-squid-game-season-2-online-from-anywhere/)
+* [![](https://lifehacker.com/imagery/articles/01JFDSD1Q8FN31VJSC88TJ0V5A/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/what-a-fart-walk-is-and-why-you-should-take-one-tonight/)
     
-    [How to watch Squid Game Season 2 online from anywhere](https://digitpatrox.com/how-to-watch-squid-game-season-2-online-from-anywhere/)
+    [What a ‘Fart Walk’ Is, and Why You Should Take One Tonight](https://digitpatrox.com/what-a-fart-walk-is-and-why-you-should-take-one-tonight/)
     
-    2 hours ago
+    3 hours ago
+    
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1733344069/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-InlineHero-Most-Reliable-3-Year-Old-Cars-and-SUVs-That-You-Can-Buy-Right-Now-1224)](https://digitpatrox.com/most-reliable-3-year-old-cars-and-suvs/)
+    
+    [Most Reliable 3-Year-Old Cars and SUVs](https://digitpatrox.com/most-reliable-3-year-old-cars-and-suvs/)
+    
+    3 hours ago
+    
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/12/microsoft-windows-translations-live-captions-on-a-video-with-two-researchers-in-lab-coats-1.jpg)](https://digitpatrox.com/live-captions-and-auto-translation-is-coming-to-more-windows-pcs/)
+    
+    [Live Captions and Auto Translation Is Coming to More Windows PCs](https://digitpatrox.com/live-captions-and-auto-translation-is-coming-to-more-windows-pcs/)
+    
+    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [15 minutes ago
+* [10 minutes ago
     
-    ### How to watch Gavin and Stacy Christmas Special 2024 online](https://digitpatrox.com/how-to-watch-gavin-and-stacy-christmas-special-2024-online/)
-* [44 minutes ago
+    ### Can You Use Genmoji on Mac? Answered](https://digitpatrox.com/can-you-use-genmoji-on-mac-answered/)
+* [2 hours ago
     
-    ### Machine identity attacks will be top of mind for security leaders in 2025](https://digitpatrox.com/machine-identity-attacks-will-be-top-of-mind-for-security-leaders-in-2025/)
-* [1 hour ago
+    ### Apple updates its IT training courses for latest OS updates – Computerworld](https://digitpatrox.com/apple-updates-its-it-training-courses-for-latest-os-updates-computerworld/)
+* [3 hours ago
     
-    ### Slack adds Agentforce ‘hub’ for AI agents – Computerworld](https://digitpatrox.com/slack-adds-agentforce-hub-for-ai-agents-computerworld/)
+    ### What a ‘Fart Walk’ Is, and Why You Should Take One Tonight](https://digitpatrox.com/what-a-fart-walk-is-and-why-you-should-take-one-tonight/)
 
 Most Popular Topics
 
-* [November 10, 2024
+* [November 14, 2024
     
-    ### There’s a lot more Red Hulk in the new Captain America: Brave New World trailer](https://digitpatrox.com/theres-a-lot-more-red-hulk-in-the-new-captain-america-brave-new-world-trailer/)
-* [4 weeks ago
+    ### iRobot’s Roomba j9+ is $300 Off During Early Black Friday](https://digitpatrox.com/irobots-roomba-j9-is-300-off-during-early-black-friday/)
+* [September 13, 2024
     
-    ### Windows 11 24H2 update blocked on PCs with Assassin’s Creed, Star Wars Outlaws](https://digitpatrox.com/windows-11-24h2-update-blocked-on-pcs-with-assassins-creed-star-wars-outlaws/)
-* [November 8, 2024
+    ### United Airlines is adding free Starlink Wi-Fi to all of its planes](https://digitpatrox.com/united-airlines-is-adding-free-starlink-wi-fi-to-all-of-its-planes/)
+* [September 25, 2024
     
-    ### Hallmark Christmas movies 2024 — when and where to stream all 47 movies](https://digitpatrox.com/hallmark-christmas-movies-2024-when-and-where-to-stream-all-47-movies/)
+    ### How to Lock Your Ecobee Thermostat with a PIN Code](https://digitpatrox.com/how-to-lock-your-ecobee-thermostat-with-a-pin-code/)
 
 Last Modified Topics
 
-* [2 hours ago
+* [3 hours ago
     
-    ### The TimeCapsule Makes AirTags Last Up to 10 Years](https://digitpatrox.com/the-timecapsule-makes-airtags-last-up-to-10-years/)
-* [2 hours ago
+    ### Network Definition Made Simple: Here’s the Basics](https://digitpatrox.com/network-definition-made-simple-heres-the-basics/)
+* [3 hours ago
     
-    ### Arcserve UDP 10 review | ITPro](https://digitpatrox.com/arcserve-udp-10-review-itpro/)
-* [2 hours ago
+    ### Tottenham vs Man Utd live stream: watch EFL Cup game online](https://digitpatrox.com/tottenham-vs-man-utd-live-stream-watch-efl-cup-game-online/)
+* [5 hours ago
     
-    ### NVIDIA Releases New Mini Developer Kit for Generative AI](https://digitpatrox.com/nvidia-releases-new-mini-developer-kit-for-generative-ai/)
+    ### Ongoing phishing attack abuses Google Calendar to bypass spam filters](https://digitpatrox.com/ongoing-phishing-attack-abuses-google-calendar-to-bypass-spam-filters/)
 
 Most Viewed Topics
 
-* [August 13, 2024
-    
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [August 13, 2024
     
     ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [August 12, 2024
     
     ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
+* [August 11, 2024
+    
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
