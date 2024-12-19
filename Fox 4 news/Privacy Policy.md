@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![North Texas’ supply of O- and B- blood is critically low](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/4196tz-carter-bloodcare-critical-supply-mode_00.00.19.06.jpg?ve=1&tl=1)
+ [![Court rejects Texas doctors' lawsuit against Biden admin over transgender discrimination policies](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/gettyimages-2188236735.jpg?ve=1&tl=1)
 
- ![North Texas’ supply of O- and B- blood is critically low](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/4196tz-carter-bloodcare-critical-supply-mode_00.00.19.06.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/north-texas-blood-supply-o-b-negative-critical-need)
+ ![Court rejects Texas doctors' lawsuit against Biden admin over transgender discrimination policies](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/gettyimages-2188236735.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/court-rejects-texas-doctors-lawsuit-against-biden-admin-over-transgender-policies)
 
-### [North Texas’ supply of O- and B- blood is critically low](https://www.fox4news.com/news/north-texas-blood-supply-o-b-negative-critical-need)
+### [Court rejects Texas doctors' lawsuit against Biden admin over transgender discrimination policies](https://www.fox4news.com/news/court-rejects-texas-doctors-lawsuit-against-biden-admin-over-transgender-policies)
 
- [![Recipe: How to make chicken tamales from Cantina Laredo](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/40153939493043a38d412c7db58ef26d-e1734548106433.jpg?ve=1&tl=1)
+ [![Doctors replace part of McKinney teen's skull after car crash that nearly killed him](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/p-lori-mckinney-student-reconstructed-skull-implan_00.00.40.20.jpg?ve=1&tl=1)
 
- ![Recipe: How to make chicken tamales from Cantina Laredo](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/40153939493043a38d412c7db58ef26d-e1734548106433.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/chicken-tamale-recipe)
+ ![Doctors replace part of McKinney teen's skull after car crash that nearly killed him](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/p-lori-mckinney-student-reconstructed-skull-implan_00.00.40.20.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/north-texas-teen-has-part-his-skull-replaced-after-crash)
 
-### [Recipe: How to make chicken tamales from Cantina Laredo](https://www.fox4news.com/news/chicken-tamale-recipe)
+### [Doctors replace part of McKinney teen's skull after car crash that nearly killed him](https://www.fox4news.com/news/north-texas-teen-has-part-his-skull-replaced-after-crash)
 
- [![Supreme Court agrees to hear arguments over TikTok ban](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/tiktok-logo.jpg?ve=1&tl=1)
+ [![Trackdown: Help find the Carrollton 'GameStop Grinch'](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/trackdown-gamestop-robbery-1.png?ve=1&tl=1)
 
- ![Supreme Court agrees to hear arguments over TikTok ban](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/tiktok-logo.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/supreme-court-hear-arguments-tiktok-ban)
+ ![Trackdown: Help find the Carrollton 'GameStop Grinch'](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/trackdown-gamestop-robbery-1.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trackdown-help-find-carrollton-gamestop-grinch)
 
-### [Supreme Court agrees to hear arguments over TikTok ban](https://www.fox4news.com/news/supreme-court-hear-arguments-tiktok-ban)
+### [Trackdown: Help find the Carrollton 'GameStop Grinch'](https://www.fox4news.com/news/trackdown-help-find-carrollton-gamestop-grinch)
 
- [![Message in a bottle makes it from Florida to Texas - and will keep going](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/foxwx-message-bottle1.jpg?ve=1&tl=1)
+ [![Fort Worth police officer fired for arrest that injured woman](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/GENERIC-FORT-WORTH-POLICE-DEPARTMENT-OFFICER.jpg?ve=1&tl=1)
 
- ![Message in a bottle makes it from Florida to Texas - and will keep going](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/foxwx-message-bottle1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/message-bottle-makes-from-florida-texas-will-keep-going)
+ ![Fort Worth police officer fired for arrest that injured woman](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/592/333/GENERIC-FORT-WORTH-POLICE-DEPARTMENT-OFFICER.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-police-officer-fired-matthew-krueger)
 
-### [Message in a bottle makes it from Florida to Texas - and will keep going](https://www.fox4news.com/news/message-bottle-makes-from-florida-texas-will-keep-going)
+### [Fort Worth police officer fired for arrest that injured woman](https://www.fox4news.com/news/fort-worth-police-officer-fired-matthew-krueger)
 
- [![Weatherford police shoot man who pointed gun at them during domestic response](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/121824-weatherford-ois-kdfweme002_10_42_35_mpg_00.02.48.30.jpg?ve=1&tl=1)
+ [![Texas High School Football State Championship Scores](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/06/32/18/GettyImages-1084725300.jpg?ve=1&tl=1)
 
- ![Weatherford police shoot man who pointed gun at them during domestic response](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/121824-weatherford-ois-kdfweme002_10_42_35_mpg_00.02.48.30.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/weatherford-police-officer-involved-shooting)
+ ![Texas High School Football State Championship Scores](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/06/32/18/592/333/GettyImages-1084725300.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/texas-high-school-football-state-championship-games-wednesday)
 
-### [Weatherford police shoot man who pointed gun at them during domestic response](https://www.fox4news.com/news/weatherford-police-officer-involved-shooting)
+### [Texas High School Football State Championship Scores](https://www.fox4news.com/sports/texas-high-school-football-state-championship-games-wednesday)
 
 ###### [News](https://www.fox4news.com/news)
 
