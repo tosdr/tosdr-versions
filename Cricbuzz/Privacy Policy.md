@@ -38,7 +38,7 @@ More
 
 My Account Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[AUS vs IND - Match drawn](https://www.cricbuzz.com/live-cricket-scores/91796/aus-vs-ind-3rd-test-india-tour-of-australia-2024-25 "Australia v India, 3rd Test - Match drawn")[MLS vs BRH - BRH Won](https://www.cricbuzz.com/live-cricket-scores/101577/mls-vs-brh-4th-match-big-bash-league-2024-25 "Melbourne Stars v Brisbane Heat, 4th Match - BRH Won")[ZIM vs AFG - Preview](https://www.cricbuzz.com/live-cricket-scores/109341/zim-vs-afg-2nd-odi-afghanistan-tour-of-zimbabwe-2024-25 "Zimbabwe v Afghanistan, 2nd ODI - Preview")[MLR vs HBH - Preview](https://www.cricbuzz.com/live-cricket-scores/101581/mlr-vs-hbh-5th-match-big-bash-league-2024-25 "Melbourne Renegades v Hobart Hurricanes, 5th Match - Preview")[RSA vs PAK - Preview](https://www.cricbuzz.com/live-cricket-scores/94354/rsa-vs-pak-2nd-odi-pakistan-tour-of-south-africa-2024-25 "South Africa v Pakistan, 2nd ODI - Preview")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[ZIM vs AFG - Toss](https://www.cricbuzz.com/live-cricket-scores/109341/zim-vs-afg-2nd-odi-afghanistan-tour-of-zimbabwe-2024-25 "Zimbabwe v Afghanistan, 2nd ODI - Toss")[MLR vs HBH - Preview](https://www.cricbuzz.com/live-cricket-scores/101581/mlr-vs-hbh-5th-match-big-bash-league-2024-25 "Melbourne Renegades v Hobart Hurricanes, 5th Match - Preview")[RSA vs PAK - Preview](https://www.cricbuzz.com/live-cricket-scores/94354/rsa-vs-pak-2nd-odi-pakistan-tour-of-south-africa-2024-25 "South Africa v Pakistan, 2nd ODI - Preview")[INDW vs WIW - Preview](https://www.cricbuzz.com/live-cricket-scores/110029/indw-vs-wiw-3rd-t20i-west-indies-women-tour-of-india-2024 "India Women v West Indies Women, 3rd T20I - Preview")[AUS vs IND - Match drawn](https://www.cricbuzz.com/live-cricket-scores/91796/aus-vs-ind-3rd-test-india-tour-of-australia-2024-25 "Australia v India, 3rd Test - Match drawn")
 
 AllLive NowToday
 
@@ -72,7 +72,7 @@ AllLive NowToday
     
     1st ODI
     
-* [Zimbabwe vs Afghanistan](https://www.cricbuzz.com/live-cricket-scores/109341/zim-vs-afg-2nd-odi-afghanistan-tour-of-zimbabwe-2024-25 "Zimbabwe v Afghanistan, 2nd ODI - Preview")
+* [Zimbabwe vs Afghanistan](https://www.cricbuzz.com/live-cricket-scores/109341/zim-vs-afg-2nd-odi-afghanistan-tour-of-zimbabwe-2024-25 "Zimbabwe v Afghanistan, 2nd ODI - Toss")
     
     2nd ODI
     
@@ -112,7 +112,7 @@ AllLive NowToday
     
     2nd T20I
     
-* [West Indies vs Bangladesh](https://www.cricbuzz.com/live-cricket-scores/95245/wi-vs-ban-3rd-t20i-west-indies-v-bangladesh-2024 "West Indies v Bangladesh, 3rd T20I - Upcoming")
+* [West Indies vs Bangladesh](https://www.cricbuzz.com/live-cricket-scores/95245/wi-vs-ban-3rd-t20i-west-indies-v-bangladesh-2024 "West Indies v Bangladesh, 3rd T20I - Preview")
     
     3rd T20I
     
@@ -135,6 +135,10 @@ AllLive NowToday
 * [Adelaide Strikers vs Melbourne Stars](https://www.cricbuzz.com/live-cricket-scores/101590/ads-vs-mls-6th-match-bbl-2024-25 "Adelaide Strikers v Melbourne Stars, 6th Match - Upcoming")
     
     6th Match
+    
+* [Hobart Hurricanes vs Perth Scorchers](https://www.cricbuzz.com/live-cricket-scores/101599/hbh-vs-prs-7th-match-bbl-2024-25 "Hobart Hurricanes v Perth Scorchers, 7th Match - Upcoming")
+    
+    7th Match
     
 * Lanka T10 Super League, 2024
     
@@ -168,13 +172,87 @@ AllLive NowToday
     
 * DOMESTIC
     
-    CSA Four-Day Series Division One 2024-25
+    Vijay Hazare Trophy
     
-    [Dolphins vs Boland](https://www.cricbuzz.com/live-cricket-scores/104828/dol-vs-bol-17th-match-csa-four-day-series-division-one-2024-25 "Dolphins v Boland, 17th Match - Upcoming")
+    [Maharashtra vs Rajasthan](https://www.cricbuzz.com/live-cricket-scores/99318/mah-vs-raj-round-1-group-b-vijay-hazare-trophy "Maharashtra v Rajasthan, Round 1, Group B - Upcoming")
+    
+    Round 1, Group B
+    
+* [Jammu and Kashmir vs Uttar Pradesh](https://www.cricbuzz.com/live-cricket-scores/99358/jk-vs-up-round-1-group-d-vijay-hazare-trophy "Jammu and Kashmir v Uttar Pradesh, Round 1, Group D - Upcoming")
+    
+    Round 1, Group D
+    
+* [Himachal Pradesh vs Meghalaya](https://www.cricbuzz.com/live-cricket-scores/99313/hp-vs-mgly-round-1-group-b-vijay-hazare-trophy "Himachal Pradesh v Meghalaya, Round 1, Group B - Upcoming")
+    
+    Round 1, Group B
+    
+* [Chhattisgarh vs Mizoram](https://www.cricbuzz.com/live-cricket-scores/99356/cg-vs-miz-round-1-group-d-vijay-hazare-trophy "Chhattisgarh v Mizoram, Round 1, Group D - Upcoming")
+    
+    Round 1, Group D
+    
+* [Goa vs Odisha](https://www.cricbuzz.com/live-cricket-scores/99304/goa-vs-odsa-round-1-group-a-vijay-hazare-trophy "Goa v Odisha, Round 1, Group A - Upcoming")
+    
+    Round 1, Group A
+    
+* [Puducherry vs Saurashtra](https://www.cricbuzz.com/live-cricket-scores/99349/pdc-vs-saur-round-1-group-c-vijay-hazare-trophy "Puducherry v Saurashtra, Round 1, Group C - Upcoming")
+    
+    Round 1, Group C
+    
+* [Manipur vs Uttarakhand](https://www.cricbuzz.com/live-cricket-scores/99295/mnp-vs-utk-round-1-group-a-vijay-hazare-trophy "Manipur v Uttarakhand, Round 1, Group A - Upcoming")
+    
+    Round 1, Group A
+    
+* [Hyderabad vs Nagaland](https://www.cricbuzz.com/live-cricket-scores/99345/hyd-vs-ngl-round-1-group-c-vijay-hazare-trophy "Hyderabad v Nagaland, Round 1, Group C - Upcoming")
+    
+    Round 1, Group C
+    
+* [Bengal vs Delhi](https://www.cricbuzz.com/live-cricket-scores/99392/ben-vs-del-round-1-group-e-vijay-hazare-trophy "Bengal v Delhi, Round 1, Group E - Upcoming")
+    
+    Round 1, Group E
+    
+* [Haryana vs Gujarat](https://www.cricbuzz.com/live-cricket-scores/99286/har-vs-guj-round-1-group-a-vijay-hazare-trophy "Haryana v Gujarat, Round 1, Group A - Upcoming")
+    
+    Round 1, Group A
+    
+* [Mumbai vs Karnataka](https://www.cricbuzz.com/live-cricket-scores/99338/mum-vs-kar-round-1-group-c-vijay-hazare-trophy "Mumbai v Karnataka, Round 1, Group C - Upcoming")
+    
+    Round 1, Group C
+    
+* [Assam vs Jharkhand](https://www.cricbuzz.com/live-cricket-scores/99277/asm-vs-jhkd-round-1-group-a-vijay-hazare-trophy "Assam v Jharkhand, Round 1, Group A - Upcoming")
+    
+    Round 1, Group A
+    
+* [Arunachal Pradesh vs Punjab](https://www.cricbuzz.com/live-cricket-scores/99329/arnp-vs-pun-round-1-group-c-vijay-hazare-trophy "Arunachal Pradesh v Punjab, Round 1, Group C - Upcoming")
+    
+    Round 1, Group C
+    
+* [Baroda vs Tripura](https://www.cricbuzz.com/live-cricket-scores/99383/brd-vs-tri-round-1-group-e-vijay-hazare-trophy "Baroda v Tripura, Round 1, Group E - Upcoming")
+    
+    Round 1, Group E
+    
+* [Andhra vs Railways](https://www.cricbuzz.com/live-cricket-scores/99322/ap-vs-rlys-round-1-group-b-vijay-hazare-trophy "Andhra v Railways, Round 1, Group B - Upcoming")
+    
+    Round 1, Group B
+    
+* [Bihar vs Madhya Pradesh](https://www.cricbuzz.com/live-cricket-scores/99374/bih-vs-mp-round-1-group-e-vijay-hazare-trophy "Bihar v Madhya Pradesh, Round 1, Group E - Upcoming")
+    
+    Round 1, Group E
+    
+* [Services vs Sikkim](https://www.cricbuzz.com/live-cricket-scores/99320/ser-vs-skm-round-1-group-b-vijay-hazare-trophy "Services v Sikkim, Round 1, Group B - Upcoming")
+    
+    Round 1, Group B
+    
+* [Chandigarh vs Tamil Nadu](https://www.cricbuzz.com/live-cricket-scores/99365/cdg-vs-tn-round-1-group-d-vijay-hazare-trophy "Chandigarh v Tamil Nadu, Round 1, Group D - Upcoming")
+    
+    Round 1, Group D
+    
+* CSA Four-Day Series Division One 2024-25
+    
+    [Dolphins vs Boland](https://www.cricbuzz.com/live-cricket-scores/104828/dol-vs-bol-17th-match-csa-four-day-series-division-one-2024-25 "Dolphins v Boland, 17th Match - Preview")
     
     17th Match
     
-* [Warriors vs Titans](https://www.cricbuzz.com/live-cricket-scores/104820/war-vs-tit-16th-match-csa-four-day-series-division-one-2024-25 "Warriors v Titans, 16th Match - Upcoming")
+* [Warriors vs Titans](https://www.cricbuzz.com/live-cricket-scores/104820/war-vs-tit-16th-match-csa-four-day-series-division-one-2024-25 "Warriors v Titans, 16th Match - Preview")
     
     16th Match
     
@@ -205,6 +283,12 @@ AllLive NowToday
     [England Women vs South Africa Women](https://www.cricbuzz.com/live-cricket-scores/94478/engw-vs-rsaw-only-test-south-africa-women-v-england-women-2024 "England Women v South Africa Women, Only Test - ENGW Won")
     
     Only Test
+    
+* Bhutan Women v Myanmar Women, 2024
+    
+    [Bhutan Women vs Myanmar Women](https://www.cricbuzz.com/live-cricket-scores/112333/btnw-vs-mmrw-1st-t20i-bhutan-women-v-myanmar-women-2024 "Bhutan Women v Myanmar Women, 1st T20I - Upcoming")
+    
+    1st T20I
     
 
 Privacy Policy
@@ -513,41 +597,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/132838/keshav-maharaj-ruled-out-of-last-two-pakistan-odis "Keshav Maharaj ruled out of last two Pakistan ODIs")
+
+[Keshav Maharaj ruled out of last two Pakistan ODIs](https://www.cricbuzz.com/cricket-news/132838/keshav-maharaj-ruled-out-of-last-two-pakistan-odis "Keshav Maharaj ruled out of last two Pakistan ODIs")
+
+13m ago
+
+  [](https://www.cricbuzz.com/cricket-news/132837/bangla-premier-league "Shaheen Afridi set to make maiden appearance in BPL")
+
+[Shaheen Afridi set to make maiden appearance in BPL](https://www.cricbuzz.com/cricket-news/132837/bangla-premier-league "Shaheen Afridi set to make maiden appearance in BPL")
+
+51m ago
+
   [](https://www.cricbuzz.com/cricket-news/132836/whatever-happened-today-gives-us-confidence-ahead-of-mcg-test-rohit-sharma "Whatever happened today, gives us confidence ahead of MCG Test - Rohit")
 
 [Whatever happened today, gives us confidence ahead of MCG Test - Rohit](https://www.cricbuzz.com/cricket-news/132836/whatever-happened-today-gives-us-confidence-ahead-of-mcg-test-rohit-sharma "Whatever happened today, gives us confidence ahead of MCG Test - Rohit")
 
-7h ago
+13h ago
 
   [](https://www.cricbuzz.com/cricket-news/132835/peirson-ensures-winning-start-for-heat-in-season-opener "Peirson ensures winning start for Heat in season opener")
 
 [Peirson ensures winning start for Heat in season opener](https://www.cricbuzz.com/cricket-news/132835/peirson-ensures-winning-start-for-heat-in-season-opener "Peirson ensures winning start for Heat in season opener")
 
-10h ago
+16h ago
 
   [](https://www.cricbuzz.com/cricket-news/132834/ashwins-retirement-internally-it-was-no-shock "Ashwin's retirement: Internally, it was no shock")
 
 [Ashwin's retirement: Internally, it was no shock](https://www.cricbuzz.com/cricket-news/132834/ashwins-retirement-internally-it-was-no-shock "Ashwin's retirement: Internally, it was no shock")
 
-12h ago
+18h ago
 
   [](https://www.cricbuzz.com/cricket-news/132833/dunith-wellalage-left-out-for-new-zealand-t20is "Dunith Wellalage left out for New Zealand T20Is")
 
 [Dunith Wellalage left out for New Zealand T20Is](https://www.cricbuzz.com/cricket-news/132833/dunith-wellalage-left-out-for-new-zealand-t20is "Dunith Wellalage left out for New Zealand T20Is")
 
-12h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132832/r-ashwin-retirement-tribute-brisbane-gabba-test-cricket-india-v-australia-border-gavaskar-trophy-bgt "Ashwin always more cerebral than emotional, except on his final day")
-
-[Ashwin always more cerebral than emotional, except on his final day](https://www.cricbuzz.com/cricket-news/132832/r-ashwin-retirement-tribute-brisbane-gabba-test-cricket-india-v-australia-border-gavaskar-trophy-bgt "Ashwin always more cerebral than emotional, except on his final day")
-
-14h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132831/maharaj-included-for-pakistan-tests "Maharaj included for Pakistan Tests despite acute groin strain")
-
-[Maharaj included for Pakistan Tests despite acute groin strain](https://www.cricbuzz.com/cricket-news/132831/maharaj-included-for-pakistan-tests "Maharaj included for Pakistan Tests despite acute groin strain")
-
-14h ago
+18h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
