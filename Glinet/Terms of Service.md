@@ -99,7 +99,7 @@
     
     ###### News & PR
     
-    [Newsroom](https://www.gl-inet.com/press/) [Blog](https://blog.gl-inet.com/) [Influencers Program](https://www.gl-inet.com/influencers/) [Affiliate Program](https://www.gl-inet.com/affiliate-program/) [About GL.iNet](https://www.gl-inet.com/about-us/)
+    [Newsroom](https://www.gl-inet.com/press/) [Blog](https://www.gl-inet.com/blog/) [Influencers Program](https://www.gl-inet.com/influencers/) [Affiliate Program](https://www.gl-inet.com/affiliate-program/) [About GL.iNet](https://www.gl-inet.com/about-us/)
     
     ###### Connect with Us
     
@@ -300,7 +300,7 @@ Software updates for any security vulnerabilities will still be supported for tw
 * [Where to buy](https://www.gl-inet.com/where-to-buy/) [Webstore](https://www.gl-inet.com/terms-of-service/store.gl-inet.com/)
 [Amazon](https://www.gl-inet.com/where-to-buy/)[AliExpress](https://www.gl-inet.com/where-to-buy/)[Shopee](https://www.gl-inet.com/where-to-buy/)[Hot Deals](https://www.gl-inet.com/deals/)[Educational Discount](https://www.gl-inet.com/campaign/back-to-school/)[Refurbished Product](https://www.gl-inet.com/refurbished/)
 
-* [Community](https://www.gl-inet.com/community/) [Forum](https://forum.gl-inet.com/) [Blog](https://blog.gl-inet.com/) [Documentation](https://docs.gl-inet.com/router/en/) [Firmwares](https://dl.gl-inet.com/) [GitHub](https://github.com/gl-inet/) [Apps](https://www.gl-inet.com/app/)
+* [Community](https://www.gl-inet.com/community/) [Forum](https://forum.gl-inet.com/) [Blog](https://www.gl-inet.com/blog/) [Documentation](https://docs.gl-inet.com/router/en/) [Firmwares](https://dl.gl-inet.com/) [GitHub](https://github.com/gl-inet/) [Apps](https://www.gl-inet.com/app/)
 
 * [Use Cases](https://www.gl-inet.com/usecases/) [Healthcare](https://www.gl-inet.com/usecases/) [Retails](https://www.gl-inet.com/usecases/) [Transportation](https://www.gl-inet.com/usecases/) [Agriculture & Manufacturing](https://www.gl-inet.com/usecases/) [Smart Home & IoT Mesh](https://www.gl-inet.com/usecases/) [Network Connectivity](https://www.gl-inet.com/usecases/)
 
