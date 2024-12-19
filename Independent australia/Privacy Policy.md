@@ -180,12 +180,12 @@ Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
 * [IA Writing Competition 2024 WINNERS!](https://independentaustralia.net/article-display/ia-writing-competition-2024-winners,19275 "Permanent Link : IA Writing Competition 2024 WINNERS!")
+* [Australian Treasury increases net migration forecast](https://independentaustralia.net/article-display/australian-treasury-increases-net-migration-forecast,19278 "Permanent Link : Australian Treasury increases net migration forecast")
 * [Water planning 101: Stabilise the population](https://independentaustralia.net/article-display/water-planning-101-stabilise-the-population,19277 "Permanent Link : Water planning 101: Stabilise the population")
 * [Hugh Marks controversial choice for new ABC boss](https://independentaustralia.net/article-display/hugh-marks-controversial-choice-for-new-abc-boss,19273 "Permanent Link : Hugh Marks controversial choice for new ABC boss")
+* [Healthy masculinity key to solving DV](https://independentaustralia.net/article-display/healthy-masculinity-key-to-solving-dv,19271 "Permanent Link : Healthy masculinity key to solving DV")
 * [Robodebt shadow leaves fears NDIS will be next victim of disabling policy](https://independentaustralia.net/article-display/robodebt-shadow-leaves-fears-ndis-will-be-next-victim-of-disabling-policy,19272 "Permanent Link : Robodebt shadow leaves fears NDIS will be next victim of disabling policy")
 * [Technology and society: Navigating innovation in a fractured world](https://independentaustralia.net/article-display/technology-and-society-navigating-innovation-in-a-fractured-world,19270 "Permanent Link : Technology and society: Navigating innovation in a fractured world")
-* [Dutton's nuclear report hides true cost to taxpayers](https://independentaustralia.net/article-display/duttons-nuclear-report-hides-true-cost-to-taxpayers,19269 "Permanent Link : Dutton's nuclear report hides true cost to taxpayers")
-* [Former Israeli Defence Minister admits to Gazan genocide](https://independentaustralia.net/article-display/former-israeli-defence-minister-admits-to-gazan-genocide,19268 "Permanent Link : Former Israeli Defence Minister admits to Gazan genocide")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
