@@ -196,57 +196,59 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Instantaneous, Nicely Designed, Graphical Invoices
-> --------------------------------------------------
+> Quick and efficient support
+> ---------------------------
 > 
-> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
+> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
+> 
+> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
 
-Henry Venter
+Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
 
-![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=9c43eed6b78af024f79f2a2c3e9ce4aa0a8cf5147bb4496d3d5c0ebaca2043b3&c=157987714)  
-Sonic Electrical Services PTY Ltd
+![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=9df6e9444e5b4e7083ad56b29faa8975f668ce4352b7ce9106b690e3aefd124b&c=77485633)  
+webb it services
 
-![valued client MONSTER SECURITY SERVICES (NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=9c43eed6b78af024f79f2a2c3e9ce4aa0a8cf5147bb4496d3d5c0ebaca2043b3&c=186991765)  
-MONSTER SECURITY SERVICES (NORTHAM)
+![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=9df6e9444e5b4e7083ad56b29faa8975f668ce4352b7ce9106b690e3aefd124b&c=124481239)  
+NWET Pty LTD
 
-![valued client The Pruning Shop](https://www.invoicesonline.co.za/scripts/image.php?bid=8671&file=logo_300_100&type=&fe=9c43eed6b78af024f79f2a2c3e9ce4aa0a8cf5147bb4496d3d5c0ebaca2043b3&c=27681810)  
-The Pruning Shop
+![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=9df6e9444e5b4e7083ad56b29faa8975f668ce4352b7ce9106b690e3aefd124b&c=5778127)  
+VIV'S TRUCKS (Pty) Ltd. (29/31/33)
 
-![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=9c43eed6b78af024f79f2a2c3e9ce4aa0a8cf5147bb4496d3d5c0ebaca2043b3&c=133021767)  
-Lindani Protection Services & Projects
+![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=9df6e9444e5b4e7083ad56b29faa8975f668ce4352b7ce9106b690e3aefd124b&c=203794956)  
+Bloem Rugby Academy PTY (Ltd)
 
-![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=9c43eed6b78af024f79f2a2c3e9ce4aa0a8cf5147bb4496d3d5c0ebaca2043b3&c=195286542)  
-MONSTER CONNECT (PTY) LTD
+![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=9df6e9444e5b4e7083ad56b29faa8975f668ce4352b7ce9106b690e3aefd124b&c=150587903)  
+Henry's Home Renovations
 
-![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=9c43eed6b78af024f79f2a2c3e9ce4aa0a8cf5147bb4496d3d5c0ebaca2043b3&c=103228281)  
-Skinz Printing & Branding
+![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=9df6e9444e5b4e7083ad56b29faa8975f668ce4352b7ce9106b690e3aefd124b&c=108438771)  
+Salt & Pepper Guest Accommodation (Pty) Ltd.
 
-![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=9c43eed6b78af024f79f2a2c3e9ce4aa0a8cf5147bb4496d3d5c0ebaca2043b3&c=28398895)  
-Bchange Online CC
+![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=9df6e9444e5b4e7083ad56b29faa8975f668ce4352b7ce9106b690e3aefd124b&c=43022281)  
+Fox Alarms & Security
 
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=9c43eed6b78af024f79f2a2c3e9ce4aa0a8cf5147bb4496d3d5c0ebaca2043b3&c=212231497)  
-Kaylas Creations
+![valued client Mmakoma projects ](https://www.invoicesonline.co.za/scripts/image.php?bid=5917&file=logo_300_100&type=&fe=9df6e9444e5b4e7083ad56b29faa8975f668ce4352b7ce9106b690e3aefd124b&c=39521146)  
+Mmakoma projects
 
-![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=9c43eed6b78af024f79f2a2c3e9ce4aa0a8cf5147bb4496d3d5c0ebaca2043b3&c=12508429)  
-Gemini-IT Group
+![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=9df6e9444e5b4e7083ad56b29faa8975f668ce4352b7ce9106b690e3aefd124b&c=162415346)  
+Konsortium Operations ( Roamfree Meats )
 
-![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=9c43eed6b78af024f79f2a2c3e9ce4aa0a8cf5147bb4496d3d5c0ebaca2043b3&c=105823920)  
-De light Investments(Pty)Ltd trading as Serene Memorials
+![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=9df6e9444e5b4e7083ad56b29faa8975f668ce4352b7ce9106b690e3aefd124b&c=108021820)  
+LEO DEVELOPMENT GROUP
 
-![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=9c43eed6b78af024f79f2a2c3e9ce4aa0a8cf5147bb4496d3d5c0ebaca2043b3&c=154129179)  
-Xpress Designs
+![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=9df6e9444e5b4e7083ad56b29faa8975f668ce4352b7ce9106b690e3aefd124b&c=12699076)  
+Roamfree Boerdery (PTY) LTD
 
-![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=9c43eed6b78af024f79f2a2c3e9ce4aa0a8cf5147bb4496d3d5c0ebaca2043b3&c=97886063)  
-Itroniq (Pty) Ltd
+![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=9df6e9444e5b4e7083ad56b29faa8975f668ce4352b7ce9106b690e3aefd124b&c=72439247)  
+Norton Medical & Consult - Namibia
 
-![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=9c43eed6b78af024f79f2a2c3e9ce4aa0a8cf5147bb4496d3d5c0ebaca2043b3&c=101563749)  
-Lion Software Develepment
+![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=9df6e9444e5b4e7083ad56b29faa8975f668ce4352b7ce9106b690e3aefd124b&c=39295687)  
+Prosper Park
 
-![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=9c43eed6b78af024f79f2a2c3e9ce4aa0a8cf5147bb4496d3d5c0ebaca2043b3&c=124649901)  
-Lemba Truck Stop
+![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=9df6e9444e5b4e7083ad56b29faa8975f668ce4352b7ce9106b690e3aefd124b&c=132392383)  
+VIR Electrical (PTY) LTD
 
-![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=9c43eed6b78af024f79f2a2c3e9ce4aa0a8cf5147bb4496d3d5c0ebaca2043b3&c=58677968)  
-Waterfinatics Swim School
+![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=9df6e9444e5b4e7083ad56b29faa8975f668ce4352b7ce9106b690e3aefd124b&c=182967068)  
+SLOANE STAR MEAT MARKET
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
