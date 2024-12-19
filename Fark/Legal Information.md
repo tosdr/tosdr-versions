@@ -40,8 +40,6 @@ It's Not News, It's Fark
 * [Food](https://www.fark.com/food/)
 * [Politics](https://www.fark.com/politics/)
 
-[Headline of the Year 2024 Voting](https://www.fark.com/comments/13492128)
-
 > Contents
 > --------
 > 
@@ -230,12 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-Want more news before we break it? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-See what's behind the green door  
-and help keep the tap flowing
+Come check out what's behind the curtain.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -335,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Ranked on top and ahead of Aspen for most beautiful winter city, Boston hasn't had a white Christmas in 15 years](https://www.fark.com/goto/13498524) ( [travelandleisure.com](https://www.fark.com/goto/13498524) ) » [(6 comments)](https://www.fark.com/comments/13498524/Ranked-on-top-ahead-of-Aspen-for-most-beautiful-winter-city-Boston-hasnt-had-a-white-Christmas-in-15-years) |
-| [Discussion](https://www.fark.com/discussion/) | ["When the very first episode aired in 1989, viewers agreed on one thing: it wasn't as funny as it used to be." Time to put the cliche to rest?](https://www.fark.com/goto/13498214) ( [theguardian.com](https://www.fark.com/goto/13498214) ) » [(0 comments)](https://www.fark.com/comments/13498214/When-very-first-episode-aired-in-1989-viewers-agreed-on-one-thing-it-wasnt-as-funny-as-it-used-to-be-Time-to-put-cliche-to-rest) |
-| [Sports](https://www.fark.com/sports/) | [Max Verstappen is no longer Checo's teammate](https://www.fark.com/goto/13498442) ( [theguardian.com](https://www.fark.com/goto/13498442) ) » [(1 comment)](https://www.fark.com/comments/13498442/Max-Verstappen-is-no-longer-Checos-teammate) |
-| [Business](https://www.fark.com/business/) | [More Amazon facilities authorize strikes. So if you're planning on getting any last-minute gifts, try a source that doesn't treat its workers as disposable](https://www.fark.com/goto/13498434) ( [engadget.com](https://www.fark.com/goto/13498434) ) » [(9 comments)](https://www.fark.com/comments/13498434/More-Amazon-facilities-authorize-strikes-So-if-youre-planning-on-getting-any-last-minute-gifts-try-a-source-that-doesnt-treat-its-workers-as-disposable) |
-| [STEM](https://www.fark.com/stem/) | [Lost in Space: SpaceX edition](https://www.fark.com/goto/13498634) ( [gizmodo.com](https://www.fark.com/goto/13498634) ) » [(0 comments)](https://www.fark.com/comments/13498634/Lost-in-Space-SpaceX-edition) |
-| [Entertainment](https://www.fark.com/entertainment/) | ["A unicorn is nothing more than a big horse that comes to a point, anyway. Nothing to get so excited about." -Terry Pratchett](https://www.fark.com/goto/13498248) ( [youtube.com](https://www.fark.com/goto/13498248) ) » [(6 comments)](https://www.fark.com/comments/13498248/A-unicorn-is-nothing-more-than-a-big-horse-that-comes-to-a-point-anyway-Nothing-to-get-so-excited-about-Terry-Pratchett) |
-| [Fandom](https://www.fark.com/fandom/) | [You think your Commodore 64 is really neato? This bakery does. Vintage beats Plug at Bubble Bobble](https://www.fark.com/goto/13498242) ( [tomshardware.com](https://www.fark.com/goto/13498242) ) » [(13 comments)](https://www.fark.com/comments/13498242/You-think-your-Commodore-64-is-really-neato-This-bakery-does-Vintage-beats-Plug-at-Bubble-Bobble) |
-| [D'awww](https://www.fark.com/dawww/) | [Blind geriatric house cat has to be rescued from a tiny sheet of ice in the middle of a lake, is probably on at least his 7th or 8th life at this point](https://www.fark.com/goto/13498496) ( [wcvb.com](https://www.fark.com/goto/13498496) ) » [(2 comments)](https://www.fark.com/comments/13498496/Blind-geriatric-house-cat-has-to-be-rescued-from-a-tiny-sheet-of-ice-in-middle-of-a-lake-is-probably-on-at-least-his-7th-8th-life-at-this-point) |
-| [Food](https://www.fark.com/food/) | [Anything is an entree if you're hungry enough](https://www.fark.com/goto/13498358) ( [177milkstreet.com](https://www.fark.com/goto/13498358) ) » [(7 comments)](https://www.fark.com/comments/13498358/Anything-is-an-entree-if-youre-hungry-enough) |
-| [Politics](https://www.fark.com/politics/) | [A new hope has emerged in Hungary, at least until the Empire strikes back](https://www.fark.com/goto/13497772) ( [theguardian.com](https://www.fark.com/goto/13497772) ) » [(12 comments)](https://www.fark.com/comments/13497772/A-new-hope-has-emerged-in-Hungary-at-least-until-Empire-strikes-back) |
+| [Main](https://www.fark.com/) | [I'm no good at being noble, but it doesn't take much to see that a sports jersey doesn't amount to a can of beans in this crazy world](https://www.fark.com/goto/13498482) ( [lawandcrime.com](https://www.fark.com/goto/13498482) ) » [(1 comment)](https://www.fark.com/comments/13498482/Im-no-good-at-being-noble-but-it-doesnt-take-much-to-see-that-a-sports-jersey-doesnt-amount-to-a-can-of-beans-in-this-crazy-world) |
+| [Discussion](https://www.fark.com/discussion/) | [Mike McMahan completes the sadly abbreviated Long Road for the USS Cerritos with a cryptic synopsis: "Season finale where lots of wild stuff happens." Series finale (for now) of "Lower Decks", titled "The New Next Generation", drops on P+ at 3 AM ET](https://www.fark.com/goto/13498170) ( [imdb.com](https://www.fark.com/goto/13498170) ) » [(10 comments)](https://www.fark.com/comments/13498170/Mike-McMahan-completes-sadly-abbreviated-Long-Road-for-USS-Cerritos-with-a-cryptic-synopsis-Season-finale-where-lots-of-wild-stuff-happens-Series-finale-for-now-of-Lower-Decks-titled-The-New-Next-Generation-drops-on-P-at-3-AM-ET) |
+| [Sports](https://www.fark.com/sports/) | [An in-depth look at the New York Rangers' fall from riches to rags](https://www.fark.com/goto/13498708) ( [youtube.com](https://www.fark.com/goto/13498708) ) » [(1 comment)](https://www.fark.com/comments/13498708/An-in-depth-look-at-New-York-Rangers-fall-from-riches-to-rags) |
+| [Business](https://www.fark.com/business/) | [Russia: "A quarter of our malls face bankruptcy in 2025." USA: "You guys still have malls?"](https://www.fark.com/goto/13498838) ( [kyivindependent.com](https://www.fark.com/goto/13498838) ) » [(1 comment)](https://www.fark.com/comments/13498838/Russia-A-quarter-of-our-malls-face-bankruptcy-in-2025-USA-You-guys-still-have-malls) |
+| [STEM](https://www.fark.com/stem/) | [Today's kids are spoiled. Back in the old days we had to solve our own problems. With necromancy](https://www.fark.com/goto/13498862) ( [bigthink.com](https://www.fark.com/goto/13498862) ) » [(1 comment)](https://www.fark.com/comments/13498862/Todays-kids-are-spoiled-Back-in-old-days-we-had-to-solve-our-own-problems-With-necromancy) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Mike McMahan completes the sadly abbreviated Long Road for the USS Cerritos with a cryptic synopsis: "Season finale where lots of wild stuff happens." Series finale (for now) of "Lower Decks", titled "The New Next Generation", drops on P+ at 3 AM ET](https://www.fark.com/goto/13498170) ( [imdb.com](https://www.fark.com/goto/13498170) ) » [(10 comments)](https://www.fark.com/comments/13498170/Mike-McMahan-completes-sadly-abbreviated-Long-Road-for-USS-Cerritos-with-a-cryptic-synopsis-Season-finale-where-lots-of-wild-stuff-happens-Series-finale-for-now-of-Lower-Decks-titled-The-New-Next-Generation-drops-on-P-at-3-AM-ET) |
+| [Fandom](https://www.fark.com/fandom/) | [You think your Commodore 64 is really neato? This bakery does. Vintage beats Plug at Bubble Bobble](https://www.fark.com/goto/13498242) ( [tomshardware.com](https://www.fark.com/goto/13498242) ) » [(25 comments)](https://www.fark.com/comments/13498242/You-think-your-Commodore-64-is-really-neato-This-bakery-does-Vintage-beats-Plug-at-Bubble-Bobble) |
+| [D'awww](https://www.fark.com/dawww/) | [Blind geriatric house cat has to be rescued from a tiny sheet of ice in the middle of a lake, is probably on at least his 7th or 8th life at this point](https://www.fark.com/goto/13498496) ( [wcvb.com](https://www.fark.com/goto/13498496) ) » [(4 comments)](https://www.fark.com/comments/13498496/Blind-geriatric-house-cat-has-to-be-rescued-from-a-tiny-sheet-of-ice-in-middle-of-a-lake-is-probably-on-at-least-his-7th-8th-life-at-this-point) |
+| [Food](https://www.fark.com/food/) | [Anything is an entree if you're hungry enough](https://www.fark.com/goto/13498358) ( [177milkstreet.com](https://www.fark.com/goto/13498358) ) » [(16 comments)](https://www.fark.com/comments/13498358/Anything-is-an-entree-if-youre-hungry-enough) |
+| [Politics](https://www.fark.com/politics/) | [Congress officially gives nation the bird](https://www.fark.com/goto/13498720) ( [npr.org](https://www.fark.com/goto/13498720) ) » [(3 comments)](https://www.fark.com/comments/13498720/Congress-officially-gives-nation-bird) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -354,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Dec 18 2024 20:43:20  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Dec 19 2024 02:42:41  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
