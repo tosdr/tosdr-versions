@@ -117,8 +117,8 @@ Welch Foods, Inc. A Cooperative, ATTN: Consumer Affairs, 300 Baker Avenue, Suite
 
 * [Careers](https://app.careerpuck.com/page/welchs-s3spp)
 * [Grower Login](https://welchs.sharepoint.com/sites/nationalgrape)
-* [Foodservice](https://www.welchs.com/foodservice)
-* [Contact Us](https://www.welchs.com/contact-us)
+* [Foodservice](https://www.welchs.com/privacy-policy/foodservice)
+* [Contact Us](https://www.welchs.com/privacy-policy/contact-us)
 
 stay connected
 --------------
