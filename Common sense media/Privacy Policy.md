@@ -1,7 +1,5 @@
 [Skip to main content](#main-content)
 
-Common Sense has recently updated its [Privacy Policy](https://www.commonsensemedia.org/about-us/our-mission/privacy-policy), [Children's Policy](https://www.commonsensemedia.org/about-us/our-mission/childrens-privacy-policy), and [FAQs](https://www.commonsensemedia.org/about-us/our-mission/privacy-faq).
-
 * [For Parents](https://www.commonsensemedia.org/)
 * [For Educators](https://www.commonsense.org/education)
 * [Our Work and Impact](https://www.commonsense.org/)
@@ -148,20 +146,6 @@ Search
 ----------------------------------------------------------------------
 
 [En español](https://www.commonsensemedia.org/es/acerca-de/nuestra-mision/politica-de-privacidad) | [Privacy FAQ](https://www.commonsensemedia.org/about-us/our-mission/privacy-faq)
-
-**SUMMARY OF CHANGES**
-
-Our [Privacy Policy](#privacy-policy), [Frequently Asked Questions](https://www.commonsensemedia.org/about-us/our-mission/privacy-faq), [Cookie Policy](https://www.commonsensemedia.org/about-us/our-mission/cookie-policy) and [Children’s Privacy Policy](https://www.commonsensemedia.org/about-us/our-mission/childrens-privacy-policy) have been recently updated. Because the document is quite long, we have prepared this summary for those who want to understand the changes but might prefer to read the full Privacy Policy later.
-
-Our Privacy Policy has been updated:
-
-* To explain, regarding the media site ([www.commonsensemedia.org](https://www.commonsense.org/)), how we use Personal Information to deliver marketing and promotional campaigns and enhance your experience on our platform. For more detailed information about how we utilize Personal Information for advertising purposes and how you can opt out, please refer to our [Cookie Policy](https://www.commonsensemedia.org/about-us/our-mission/cookie-policy). Any advertising or marketing activities are exclusively related to Common Sense services, the Common Sense Media app, and [www.commonsensemedia.org](https://www.commonsensemedia.org/), as no data is used for third-party advertising or collected on other Common Sense domains for such purposes.
-* To provide details on how we use analytics to understand how people use our site and services, and to suggest content and reviews based on your past browsing.
-* To describe how we use artificial intelligence to improve your experience and help ensure that user-generated content follows our community guidelines.
-
-For summaries of changes to the [Children's Privacy Policy](https://www.commonsensemedia.org/about-us/our-mission/childrens-privacy-policy) and the [Cookie Policy](https://www.commonsensemedia.org/about-us/our-mission/cookie-policy), please click on the links to those documents.
-
-Our updated Privacy Policy will go into effect December 3, 2024
 
 Effective Date of Policy (Last Update): December 3, 2024
 
