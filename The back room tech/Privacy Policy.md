@@ -116,15 +116,15 @@ Supreme caution has been taken to make sure that there are no copyright infringe
 
 #### Random Posts
 
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2022'%3E%3C/svg%3E)
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2045'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/windows-server-80x22.png)](https://thebackroomtech.com/2008/03/14/howto-shut-down-or-reboot-a-windows-2008-server-core-system/ "Howto: Shut down or reboot a Windows 2008 Server Core System")[Howto: Shut down or reboot a Windows 2008 Server Core System](https://thebackroomtech.com/2008/03/14/howto-shut-down-or-reboot-a-windows-2008-server-core-system/ "Howto: Shut down or reboot a Windows 2008 Server Core System")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2077%2052'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/flash-player-80x45.jpg.optimal.jpg)](https://thebackroomtech.com/2008/06/12/howto-uninstall-adobe-flash-player-from-the-command-line/ "Howto: Uninstall Adobe Flash Player from the Command Line")[Howto: Uninstall Adobe Flash Player from the Command Line](https://thebackroomtech.com/2008/06/12/howto-uninstall-adobe-flash-player-from-the-command-line/ "Howto: Uninstall Adobe Flash Player from the Command Line")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2044'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/1-xenapp-install-77x52.png)](https://thebackroomtech.com/2018/04/09/simple-citrix-xenapp-install-and-deployment-step-by-step/ "Simple Citrix XenApp Install and Deployment – Step-by-Step")[Simple Citrix XenApp Install and Deployment – Step-by-Step](https://thebackroomtech.com/2018/04/09/simple-citrix-xenapp-install-and-deployment-step-by-step/ "Simple Citrix XenApp Install and Deployment – Step-by-Step")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2041'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/azure-web-sites-80x44.png)](https://thebackroomtech.com/2018/08/27/deploying-a-web-app-in-azure-app-services/ "Deploying a Web App in Azure App Services")[Deploying a Web App in Azure App Services](https://thebackroomtech.com/2018/08/27/deploying-a-web-app-in-azure-app-services/ "Deploying a Web App in Azure App Services")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2075%2052'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/pc-code-1-80x41.jpg.optimal.jpg)](https://thebackroomtech.com/2018/06/12/vmware-script-list-empty-resource-pools/ "VMware Script – List Empty Resource Pools")[VMware Script – List Empty Resource Pools](https://thebackroomtech.com/2018/06/12/vmware-script-list-empty-resource-pools/ "VMware Script – List Empty Resource Pools")
+    ![](https://s11921.pcdn.co/wp-content/uploads/printerconnectionproblem-75x52.png)](https://thebackroomtech.com/2010/08/26/fix-windows-cannot-connect-to-the-printer-error/ "Fix “Windows Cannot Connect to the Printer” Error")[Fix “Windows Cannot Connect to the Printer” Error](https://thebackroomtech.com/2010/08/26/fix-windows-cannot-connect-to-the-printer-error/ "Fix “Windows Cannot Connect to the Printer” Error")
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2059%2052'%3E%3C/svg%3E)
     
     ![](https://s11921.pcdn.co/wp-content/uploads/telnet-client-59x52.png)](https://thebackroomtech.com/2009/05/28/fix-blank-screen-when-using-windows-xp-telnet-client/ "Fix: Blank Screen When using Windows XP Telnet Client")[Fix: Blank Screen When using Windows XP Telnet Client](https://thebackroomtech.com/2009/05/28/fix-blank-screen-when-using-windows-xp-telnet-client/ "Fix: Blank Screen When using Windows XP Telnet Client")
