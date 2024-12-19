@@ -393,6 +393,19 @@
         
         See our Responsible Business Priorities.
         
+    * [Our Capabilities](#)
+        
+        Our Capabilities
+        ----------------
+        
+        ![](https://assets.equifax.com/marketing/US/images/banners/about_us_capabilities_hero_banner_950x550.jpg)
+        
+        From risk decisioning and verifications to employer services and more, we move businesses forward while helping people live their financial best.
+        
+        [Explore Our Capabilities](https://www.equifax.com/about-equifax/our-capabilities/)
+        
+        ![](https://assets.equifax.com/marketing/US/images/banners/about_us_capabilities_hero_banner_950x550.jpg)
+        
     * [Why Equifax](#)
         
         Why Equifax
