@@ -321,16 +321,15 @@ Advertise
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.5047%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_796%2C$y_206/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/b8f79f4b201f2e59b2c209d4975d4212cd14c261)](https://www.afr.com/life-and-luxury/health-and-wellness/legends-line-up-to-be-the-real-winner-of-the-sydney-to-hobart-20241205-p5kw95)
+[![ ](https://static.ffx.io/images/$zoom_0.4604%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_136%2C$y_330/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/a973c9d004394338a58b82e1c14f3fcc1c19f560)](https://www.afr.com/life-and-luxury/fashion-and-style/make-a-fashionista-s-dreams-come-true-20241105-p5kny4)
 
-### [Legends line up to be the ‘real’ winner of the Sydney to Hobart](https://www.afr.com/life-and-luxury/health-and-wellness/legends-line-up-to-be-the-real-winner-of-the-sydney-to-hobart-20241205-p5kw95)
+### [Luxury items for the fashionista (who doesn’t mind to pay)](https://www.afr.com/life-and-luxury/fashion-and-style/make-a-fashionista-s-dreams-come-true-20241105-p5kny4)
 
-* 54 mins ago
-* Steve Meacham
+* Eugenie Kelly
 
-* ### [This year’s highs and lows in motoring](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/this-year-s-highs-and-lows-in-motoring-20241204-p5kvtp)
+* ### [Crowded House to A Christmas Carol: shows to see in December](https://www.afr.com/life-and-luxury/arts-and-culture/crowded-house-to-a-christmas-carol-shows-to-see-in-december-20241025-p5kle9)
     
-* ### [Bluey heads to the big screen in global release](https://www.afr.com/life-and-luxury/arts-and-culture/bluey-heads-for-the-big-screens-with-global-release-20241218-p5kzdi)
+* ### [It takes a village to fill a Santa sack. These experts are here to help](https://www.afr.com/life-and-luxury/fashion-and-style/it-takes-a-village-to-fill-a-santa-sack-these-experts-are-here-to-help-20240917-p5kb8m)
     
 
 [Rich List](https://www.afr.com/rich-list)
