@@ -1129,10 +1129,10 @@ Support
 
 * * *
 
-* [![Twitter](//static.truist.com/content/dam/global-images/social-icons/x-solid.svg)](https://twitter.com/TruistNews)
-* [![linkedin](//static.truist.com/content/dam/global-images/social-icons/linkedin-solid-white.svg)](https://www.linkedin.com/company/truistfinancialcorporation)
-* [![Facebook](//static.truist.com/content/dam/global-images/social-icons/facebook-solid-white.svg)](https://www.facebook.com/truist)
-* [![YouTube](//static.truist.com/content/dam/global-images/social-icons/youtube-solid-white.svg)](https://www.youtube.com/channel/UC10Dmvy2Ih93O8hCg_UYN6w)
-* [![Instagram](//static.truist.com/content/dam/global-images/social-icons/instagram-white.svg)](https://www.instagram.com/truist)
+* [![Twitter](//static.truist.com/content/dam/global-images/social-icons/x-solid.svg)](https://www.truist.com/speedbump/truist-speedbump?url=https://x.com/Truist)
+* [![linkedin](//static.truist.com/content/dam/global-images/social-icons/linkedin-solid-white.svg)](https://www.truist.com/speedbump/truist-speedbump?url=https://www.linkedin.com/company/truistfinancialcorporation)
+* [![Facebook](//static.truist.com/content/dam/global-images/social-icons/facebook-solid-white.svg)](https://www.truist.com/speedbump/truist-speedbump?url=https://www.facebook.com/truist)
+* [![YouTube](//static.truist.com/content/dam/global-images/social-icons/youtube-solid-white.svg)](https://www.truist.com/speedbump/truist-speedbump?url=https://www.youtube.com/channel/UC10Dmvy2Ih93O8hCg_UYN6w)
+* [![Instagram](//static.truist.com/content/dam/global-images/social-icons/instagram-white.svg)](https://www.truist.com/speedbump/truist-speedbump?url=https://www.instagram.com/truist)
 
 © 2024, Truist. All Rights Reserved.
