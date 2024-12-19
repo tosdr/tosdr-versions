@@ -885,22 +885,6 @@ tara p Monteregie Metro 15/11/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Steven and Alex were great!! So helpful!!!! And thanks Steven for being nice and professional!! Appreciate you both!
-
-amy hillyer Columbus 14/12/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Quick, friendly and efficient!
-
-Rodney Brandy Columbus 14/12/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Very friendly
 
 Martin Yant Seattle 14/12/2024
@@ -912,6 +896,22 @@ Martin Yant Seattle 14/12/2024
 Sky and Daniel were super professional and quick! Helped me out with a reasonable rate, would highly recommend.
 
 Sara Bello LA Metro 14/12/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Steven and Alex were great!! So helpful!!!! And thanks Steven for being nice and professional!! Appreciate you both!
+
+amy hillyer Columbus 14/12/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Quick, friendly and efficient!
+
+Rodney Brandy Columbus 14/12/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
