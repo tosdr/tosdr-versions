@@ -30,14 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/367702c0-8420-4bf9-9ada-72946be03e31/20241219T040628/367702c0-8420-4bf9-9ada-72946be03e31_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/367702c0-8420-4bf9-9ada-72946be03e31/20241219T040628/367702c0-8420-4bf9-9ada-72946be03e31_360x203.jpg)](https://www.wqad.com/article/news/local/infrastructure/quad-cities-chicago-amtrak-project-update-durbin-duckworth-sorensen/526-f54ab738-ba75-40ca-8525-12e52338731b)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/6622b787-b774-40d3-9cfd-9b72e270d81b/20241219T013935/6622b787-b774-40d3-9cfd-9b72e270d81b_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/6622b787-b774-40d3-9cfd-9b72e270d81b/20241219T013935/6622b787-b774-40d3-9cfd-9b72e270d81b_360x203.jpg)](https://www.wqad.com/article/news/local/tonys-chicago-style-pizzeria-opening-new-location-bettendorf/526-07aa6d34-5cdf-403e-878c-00188f6d7c40)
         
-        #### [Lawmakers provide update on Moline-Chicago Amtrak project with federal funding set to expire](https://www.wqad.com/article/news/local/infrastructure/quad-cities-chicago-amtrak-project-update-durbin-duckworth-sorensen/526-f54ab738-ba75-40ca-8525-12e52338731b) [![](https://media.tegna-media.com/assets/WQAD/images/367702c0-8420-4bf9-9ada-72946be03e31/20241219T040628/367702c0-8420-4bf9-9ada-72946be03e31_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/367702c0-8420-4bf9-9ada-72946be03e31/20241219T040628/367702c0-8420-4bf9-9ada-72946be03e31_360x203.jpg)](https://www.wqad.com/article/news/local/infrastructure/quad-cities-chicago-amtrak-project-update-durbin-duckworth-sorensen/526-f54ab738-ba75-40ca-8525-12e52338731b)
+        #### [Tony's Chicago Style Pizzeria opening new location in former Ross' Restaurant](https://www.wqad.com/article/news/local/tonys-chicago-style-pizzeria-opening-new-location-bettendorf/526-07aa6d34-5cdf-403e-878c-00188f6d7c40)
         
-        #### [Federal funding for Moline-Chicago Amtrak project set to expire: Lawmakers give update](https://www.wqad.com/article/news/local/infrastructure/quad-cities-chicago-amtrak-project-update-durbin-duckworth-sorensen/526-f54ab738-ba75-40ca-8525-12e52338731b)
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/d716fcb6-004f-4fa1-9649-c34aaca3cb94/20241218T190936/d716fcb6-004f-4fa1-9649-c34aaca3cb94_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d716fcb6-004f-4fa1-9649-c34aaca3cb94/20241218T190936/d716fcb6-004f-4fa1-9649-c34aaca3cb94_360x203.jpg)](https://www.wqad.com/article/news/local/rock-island-shooting-man-arrested/526-80aaf2a6-2196-4c26-86e7-43b1443e879b)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/f12a7df7-6d51-4be0-be02-06914d0dfcf1/20241219T043118/f12a7df7-6d51-4be0-be02-06914d0dfcf1_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f12a7df7-6d51-4be0-be02-06914d0dfcf1/20241219T043118/f12a7df7-6d51-4be0-be02-06914d0dfcf1_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-iowa-child-trafficking-rumors-coca-cola-truck-debunked/526-5a63cc15-4d79-4a44-a09f-a86e043575a2)
         
-        #### [Man arrested in Rock Island shooting, victim seriously wounded](https://www.wqad.com/article/news/local/rock-island-shooting-man-arrested/526-80aaf2a6-2196-4c26-86e7-43b1443e879b)
+        #### [Davenport Police debunk social media rumors claiming Coca-Cola truck was involved in child trafficking](https://www.wqad.com/article/news/local/davenport-iowa-child-trafficking-rumors-coca-cola-truck-debunked/526-5a63cc15-4d79-4a44-a09f-a86e043575a2)
         
     
 * [Weather](https://www.wqad.com/weather)
