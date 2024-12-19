@@ -1,6 +1,6 @@
 [Skip to main content](#main)
 
-Join VIP for free faster shipping just in time for the holidays! [Join VIP](https://www.zappos.com/c/vip-dash)
+Zappos Gift Card: The Perfect Last-Minute Gift [Shop Gift Cards](https://www.zappos.com/c/select-your-e-gift-card)
 
 [![Welcome! Go to the Zappos homepage!](https://m.media-amazon.com/images/G/01/Zappos/25th-birthday-logo/Zappos-25-Years-Logo-Site.svg)](https://www.zappos.com/)
 
