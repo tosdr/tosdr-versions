@@ -1413,6 +1413,7 @@
             * [ ]  [R&D Finance](https://handbook.gitlab.com/handbook/finance/financial-planning-and-analysis/r-and-d-finance/)
                 * [ ]  [Hosting](https://handbook.gitlab.com/handbook/finance/financial-planning-and-analysis/r-and-d-finance/hosting-main/)
         * [ ]  [GitLab Finance Team READMEs](https://handbook.gitlab.com/handbook/finance/readmes/)
+            * [ ]  [Brian Robin's README](https://handbook.gitlab.com/handbook/finance/readmes/brian-robins/)
         * [ ]  [Global Travel and Expense Policy](https://handbook.gitlab.com/handbook/finance/expenses/)
         * [ ]  [Investor Relations](https://handbook.gitlab.com/handbook/finance/investor-relations/)
         * [ ]  [Payroll](https://handbook.gitlab.com/handbook/finance/payroll/)
