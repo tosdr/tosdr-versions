@@ -185,14 +185,14 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 ###### LATEST VIDEO
 
 * [| Christa](https://video.nhpbs.org/video/christa-ygbur1?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**"Love Song"** | Next at the Kennedy Center](https://video.nhpbs.org/video/love-song-tyzofw?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**The Brutalist** | Flicks](https://video.nhpbs.org/video/the-brutalist-olmxwd?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Rebuilding Milwaukee's Trinity Lutheran Church** | Milwaukee PBS Specials](https://video.nhpbs.org/video/rebuilding-milwaukees-trinity-lutheran-church-lvclur?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Gas vs Induction Stoves : The Heated Debate** | Serving Up Science](https://video.nhpbs.org/video/gas-vs-induction-stoves-the-heated-debate-cff3nw?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Lost Tombs of Notre Dame** | NOVA](https://video.nhpbs.org/video/lost-tombs-of-notre-dame-ayjw0k?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**December 18, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/december-18-2024-pbs-news-hour-full-episode-1734498001?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Trailer Who I Am Not** | POV](https://video.nhpbs.org/video/trailer-who-i-am-not-jqknnr?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Maui's Deadly Firestorm** | FRONTLINE](https://video.nhpbs.org/video/mauis-deadly-firestorm-znte6u?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Inside Look at Season 5** | Miss Scarlet](https://video.nhpbs.org/video/inside-look-at-season-5-gziowe?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**December 17, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/december-17-2024-pbs-news-hour-full-episode-1734411601?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Homemade & Virtually Untraceable: The Rise of Ghost Guns** | Amanpour and Company](https://video.nhpbs.org/video/homemade-virtually-untraceable-the-rise-of-ghost-guns-pvb3sq?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Pop Quiz with a Pint** | All Creatures Great and Small](https://video.nhpbs.org/video/pop-quiz-with-a-pint-kft6gs?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
