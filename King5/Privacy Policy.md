@@ -30,18 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/2e6108ce-38d5-43de-a0d3-6de1cc377d8e/20241218T024828/2e6108ce-38d5-43de-a0d3-6de1cc377d8e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/2e6108ce-38d5-43de-a0d3-6de1cc377d8e/20241218T024828/2e6108ce-38d5-43de-a0d3-6de1cc377d8e_360x203.jpg)](https://www.king5.com/article/news/local/seattle/report-romantic-letter-seattle-police-chief-adrian-diaz-jamie-tompkins/281-98394b8f-312b-4a76-b768-5d055f2b3078)
+    *  [![](https://media.king5.com/assets/KING/images/3fd38f71-94b4-458f-879e-9f6042e96556/20241219T024252/3fd38f71-94b4-458f-879e-9f6042e96556_16x9.jpg) ![](https://media.king5.com/assets/KING/images/3fd38f71-94b4-458f-879e-9f6042e96556/20241219T024252/3fd38f71-94b4-458f-879e-9f6042e96556_360x203.jpg)](https://www.king5.com/article/news/crime/seattle-bus-driver-fatally-stabbed/281-4ee8c92b-8089-405e-9cb3-11c793fab572)
         
-        #### [Report includes romantic letter allegedly between former Seattle police chief, staffer](https://www.king5.com/article/news/local/seattle/report-romantic-letter-seattle-police-chief-adrian-diaz-jamie-tompkins/281-98394b8f-312b-4a76-b768-5d055f2b3078) [![](https://media.king5.com/assets/KING/images/2e6108ce-38d5-43de-a0d3-6de1cc377d8e/20241218T024828/2e6108ce-38d5-43de-a0d3-6de1cc377d8e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/2e6108ce-38d5-43de-a0d3-6de1cc377d8e/20241218T024828/2e6108ce-38d5-43de-a0d3-6de1cc377d8e_360x203.jpg)](https://www.king5.com/article/news/local/seattle/report-romantic-letter-seattle-police-chief-adrian-diaz-jamie-tompkins/281-98394b8f-312b-4a76-b768-5d055f2b3078)
+        #### [Metro bus driver stabbed, killed near UW campus](https://www.king5.com/article/news/crime/seattle-bus-driver-fatally-stabbed/281-4ee8c92b-8089-405e-9cb3-11c793fab572)
         
-        #### [Romantic letter to former Seattle police chief linked to staffer who denies relationship](https://www.king5.com/article/news/local/seattle/report-romantic-letter-seattle-police-chief-adrian-diaz-jamie-tompkins/281-98394b8f-312b-4a76-b768-5d055f2b3078) [![](https://media.king5.com/assets/KING/images/2e6108ce-38d5-43de-a0d3-6de1cc377d8e/20241218T024828/2e6108ce-38d5-43de-a0d3-6de1cc377d8e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/2e6108ce-38d5-43de-a0d3-6de1cc377d8e/20241218T024828/2e6108ce-38d5-43de-a0d3-6de1cc377d8e_360x203.jpg)](https://www.king5.com/article/news/local/seattle/report-romantic-letter-seattle-police-chief-adrian-diaz-jamie-tompkins/281-98394b8f-312b-4a76-b768-5d055f2b3078)
+    *  [![](https://media.king5.com/assets/KING/images/0c271d2a-3784-40d8-8026-6937be03ba74/20241219T064004/0c271d2a-3784-40d8-8026-6937be03ba74_16x9.jpg) ![](https://media.king5.com/assets/KING/images/0c271d2a-3784-40d8-8026-6937be03ba74/20241219T064004/0c271d2a-3784-40d8-8026-6937be03ba74_360x203.jpg)](https://www.king5.com/article/news/health/promising-cancer-trials-bill-gates-everett-lab-now-leading-production-of-rare-isotope/281-e9463664-2736-488d-8a9d-bb4d8e33447c)
         
-        #### [City releases romantic letter at center of investigation into former Seattle police chief](https://www.king5.com/article/news/local/seattle/report-romantic-letter-seattle-police-chief-adrian-diaz-jamie-tompkins/281-98394b8f-312b-4a76-b768-5d055f2b3078) [![](https://media.king5.com/assets/KING/images/2e6108ce-38d5-43de-a0d3-6de1cc377d8e/20241218T024828/2e6108ce-38d5-43de-a0d3-6de1cc377d8e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/2e6108ce-38d5-43de-a0d3-6de1cc377d8e/20241218T024828/2e6108ce-38d5-43de-a0d3-6de1cc377d8e_360x203.jpg)](https://www.king5.com/article/news/local/seattle/report-romantic-letter-seattle-police-chief-adrian-diaz-jamie-tompkins/281-98394b8f-312b-4a76-b768-5d055f2b3078)
-        
-        #### [Day after former Seattle police chief is fired, city releases romantic letter at center of case](https://www.king5.com/article/news/local/seattle/report-romantic-letter-seattle-police-chief-adrian-diaz-jamie-tompkins/281-98394b8f-312b-4a76-b768-5d055f2b3078)
-    *  [![](https://media.king5.com/assets/KING/images/08943995-866f-4f51-901b-152764fe95bc/20241219T014143/08943995-866f-4f51-901b-152764fe95bc_16x9.jpg) ![](https://media.king5.com/assets/KING/images/08943995-866f-4f51-901b-152764fe95bc/20241219T014143/08943995-866f-4f51-901b-152764fe95bc_360x203.jpg)](https://www.king5.com/article/news/local/adult-prison-cells-turning-into-space-for-offenders-juvenile-facilities/281-4493d06b-bde1-4c7b-bd0f-3dfc7a2f7d54)
-        
-        #### [Adult prison cells in Aberdeen turning into space for offenders from juvenile facilities](https://www.king5.com/article/news/local/adult-prison-cells-turning-into-space-for-offenders-juvenile-facilities/281-4493d06b-bde1-4c7b-bd0f-3dfc7a2f7d54)
+        #### [Promising cancer trials: Bill Gates' Everett lab now leading production of a rare, sought-after isotope](https://www.king5.com/article/news/health/promising-cancer-trials-bill-gates-everett-lab-now-leading-production-of-rare-isotope/281-e9463664-2736-488d-8a9d-bb4d8e33447c)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -61,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/0d6b67df-edf9-4c51-83c6-d48bc023ce7b/20241218T204938/0d6b67df-edf9-4c51-83c6-d48bc023ce7b_16x9.jpg) ![](https://media.king5.com/assets/KING/images/0d6b67df-edf9-4c51-83c6-d48bc023ce7b/20241218T204938/0d6b67df-edf9-4c51-83c6-d48bc023ce7b_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/86686316-51a6-4275-a1bb-60e98a86647f/20241219T064816/86686316-51a6-4275-a1bb-60e98a86647f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/86686316-51a6-4275-a1bb-60e98a86647f/20241219T064816/86686316-51a6-4275-a1bb-60e98a86647f_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -87,13 +82,13 @@ Navigation
     
     Latest Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/a600d0da-166b-42d4-837b-7a913cf6e936/20241219T070719/a600d0da-166b-42d4-837b-7a913cf6e936_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a600d0da-166b-42d4-837b-7a913cf6e936/20241219T070719/a600d0da-166b-42d4-837b-7a913cf6e936_360x203.jpg)](https://www.king5.com/article/sports/ncaa/ncaab/huskies/davis-scores-22-washington-wins-89-73-in-300th-meeting-with-washington-state/281-baf728dd-d2ed-4efb-be7c-8e33e5106d9f)
+        
+        #### [Davis scores 21, Washington wins 89-73 in 300th meeting with Washington State](https://www.king5.com/article/sports/ncaa/ncaab/huskies/davis-scores-22-washington-wins-89-73-in-300th-meeting-with-washington-state/281-baf728dd-d2ed-4efb-be7c-8e33e5106d9f)
+        
     *  [![](https://media.king5.com/assets/KREM/images/785c7bb8-37e1-48cc-a703-3c21ddb12df1/20241219T001907/785c7bb8-37e1-48cc-a703-3c21ddb12df1_16x9.jpg) ![](https://media.king5.com/assets/KREM/images/785c7bb8-37e1-48cc-a703-3c21ddb12df1/20241219T001907/785c7bb8-37e1-48cc-a703-3c21ddb12df1_360x203.jpg)](https://www.king5.com/article/sports/ncaa/ncaaf/jake-dickert-leaving-wsu--wake-forest/293-d549f7ab-f466-4c20-bd55-64402b945ae5)
         
         #### [Jake Dickert leaves WSU to become head coach at Wake Forest](https://www.king5.com/article/sports/ncaa/ncaaf/jake-dickert-leaving-wsu--wake-forest/293-d549f7ab-f466-4c20-bd55-64402b945ae5)
-        
-    *  [![](https://media.king5.com/assets/KING/images/bdc30964-9e84-43fe-bebf-8ba2e8237b03/20241219T005153/bdc30964-9e84-43fe-bebf-8ba2e8237b03_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bdc30964-9e84-43fe-bebf-8ba2e8237b03/20241219T005153/bdc30964-9e84-43fe-bebf-8ba2e8237b03_360x203.jpg)](https://www.king5.com/article/sports/nhl/kraken/rangers-trade-kaapo-kakko-to-the-kraken-for-will-borgen-and-draft-picks/281-6696558c-81bb-4ec6-9fca-5c4be3058c8b)
-        
-        #### [Kraken add firepower at forward in trade for Kakko from Rangers](https://www.king5.com/article/sports/nhl/kraken/rangers-trade-kaapo-kakko-to-the-kraken-for-will-borgen-and-draft-picks/281-6696558c-81bb-4ec6-9fca-5c4be3058c8b)
         
     
 * [VERIFY](https://www.king5.com/verify)
@@ -110,9 +105,9 @@ Navigation
 
 Seattle, WA »
 
-49°
+47°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
