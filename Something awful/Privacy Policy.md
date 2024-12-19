@@ -205,26 +205,28 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Inappropriate Holiday Cards](https://www.somethingawful.com/comedy-goldmine/inappropriate-holiday-cards/1/)
-* [Help Us Save Synnibarr!](https://www.somethingawful.com/dungeons-and-dragons/save-synnibarr-mccracken/1/)
-* [The Karnov Playset 2](https://www.somethingawful.com/flash-tub/karnov-playset-2/1/)
-* [April 9, 2012](https://www.somethingawful.com/twitter-tuesday/tt04-09-12/1/)
+* [The Weirdest West Art of Deadlands](https://www.somethingawful.com/dungeons-and-dragons/deadlands-weird-west/1/)
+* [3rd Edition Dungeons & Dragons: Fiend Folio](https://www.somethingawful.com/dungeons-and-dragons/fiend-folio-3e/1/)
+* [The Battle of the Stupidest Rifts Characters](https://www.somethingawful.com/dungeons-and-dragons/rifts-stupid-classes/1/)
+* [Dungeons & Dragons: Deities & Demigods (Cthulhu Edition)](https://www.somethingawful.com/dungeons-and-dragons/wtf-deities-demigods/1/)
+* [This Baby Is An Absolute Piece of Shit](https://www.somethingawful.com/feature-articles/shitty-baby/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/cd_classic.gif) [Hooray!](http://forums.somethingawful.com/showthread.php?threadid=4077726 "Hooray!")
 * ![](https://fi.somethingawful.com/forums/posticons/aids.png) [pronouncing words wrong youve only ever read and never said out loud MEGATH](http://forums.somethingawful.com/showthread.php?threadid=4077757 "pronouncing words wrong youve only ever read and never said out loud MEGATH")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/video.png) [ITT Brainstorm Youtube/Instagram/TikTok Shorts](http://forums.somethingawful.com/showthread.php?threadid=4077756 "ITT Brainstorm Youtube/Instagram/TikTok Shorts")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/drugs.png) [How has the wasping epidemic affected you?](http://forums.somethingawful.com/showthread.php?threadid=4077779 "How has the wasping epidemic affected you?")
+* ![](https://fi.somethingawful.com/images/shitpost.gif) [ASKING FOR HELP PLEASE!](http://forums.somethingawful.com/showthread.php?threadid=4077806 "ASKING FOR HELP PLEASE!")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/video.png) [ITT Brainstorm Youtube/Instagram/TikTok Shorts](http://forums.somethingawful.com/showthread.php?threadid=4077756 "ITT Brainstorm Youtube/Instagram/TikTok Shorts")
 * ![](https://fi.somethingawful.com/forums/posticons/pi-cock.png) [craft meats](http://forums.somethingawful.com/showthread.php?threadid=4077754 "craft meats")
+* ![](https://fi.somethingawful.com/forums/posticons/tg-scrunt.gif) [You ever been a total fuckhead??](http://forums.somethingawful.com/showthread.php?threadid=4077814 "You ever been a total fuckhead??")
 
 ### Random Articles
 
-* [eVentPlanner: The Kyung Joon Welcome Home Party](https://www.somethingawful.com/news/event-plan-wrestling/)
-* [SkyMall Product Reviews: Head & Eye Massager](https://www.somethingawful.com/news/skymall-eye-massager/)
-* [Suicide Silence](https://www.somethingawful.com/garbage-day/suicide-silence-deathcore/)
-* [Noclip Mode](https://www.somethingawful.com/news/noclip-mode/)
-* [Sponsored Content part 2](https://www.somethingawful.com/news/sponsored-content-2/)
+* [Galaxy of Terror](https://www.somethingawful.com/awful-links/awful-link-3856/)
+* [Welcome To The National Daily Student!](https://www.somethingawful.com/news/welcome-national-daily/)
+* [Awful Food and Drink](https://www.somethingawful.com/comedy-goldmine/awful-food-drink/1/)
+* [Moving: A Photodiary](https://www.somethingawful.com/news/moving-a-photodiary/)
+* [Olly-Olly Oxen Macht Frei](https://www.somethingawful.com/news/ollyolly-oxen-macht/)
 
 [Random!](https://www.somethingawful.com/random/)
 
