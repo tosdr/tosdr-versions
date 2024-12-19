@@ -24,6 +24,12 @@ Learn more about the newly finalized regulations and how to prepare
     
     The comprehensive suite designed to streamline financial reporting and corporate tax filing of digital assets held by businesses.
     
+    ![Enterprise Accounting](https://www.taxbit.com/wp-content/uploads/2024/05/Group-1.png)
+    
+    [Public Sector](https://taxbit.com/public-sector/)
+    
+    The holistic solution enabling authorities to analyze, manage, and report on digital asset data for tax, compliance, and investigations.
+    
     [Contact Sales](https://www.taxbit.com/schedule-a-demo)
     
     [Developer Docs](https://apidocs.taxbit.com/docs/getting-started)
@@ -80,9 +86,9 @@ Learn more about the newly finalized regulations and how to prepare
     
     [NFT Marketplaces](https://taxbit.com/industries/nft-marketplaces/)
     
-    ![ATMs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    [ATMs](https://taxbit.com/industries/atms/)
+    [Stablecoins](https://taxbit.com/industries/stablecoins/)
     
     ![Marketplaces](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -409,6 +415,7 @@ Products
 
 * [Enterprise Tax](https://www.taxbit.com/products/enterprise-tax/)
 * [Enterprise Accounting](https://www.taxbit.com/products/enterprise-accounting/)
+* [Public Sector](https://www.taxbit.com/public-sector/)
 * [Developer Docs](https://apidocs.taxbit.com/docs/getting-started)
 * [Integrations](https://www.taxbit.com/products/integrations/)
 * [API Reference](https://apidocs.taxbit.com/reference/auth-token)
@@ -426,7 +433,7 @@ Industries
 * [Blockchain Protocols](https://www.taxbit.com/industries/blockchain-protocols/)
 * [Bitcoin Miners](https://www.taxbit.com/industries/bitcoin-miners/)
 * [Gaming](https://www.taxbit.com/industries/gaming/)
-* [ATMs](https://www.taxbit.com/industries/atms/)
+* [Stablecoins](https://www.taxbit.com/industries/stablecoins/)
 * [FinTech](https://www.taxbit.com/industries/fintech/)
 * [Banks](https://www.taxbit.com/industries/banks/)
 * [Funds](https://www.taxbit.com/industries/funds/)
