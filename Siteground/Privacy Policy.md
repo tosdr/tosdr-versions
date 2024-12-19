@@ -187,7 +187,7 @@ In the event that we receive personal data of data subjects from the EU/EEA, the
 
 **Data Privacy Framework (EU-US, UK Extension and Swiss-US). Data protection authorities**
 
-SG Hosting Inc. complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. SG Hosting Inc. has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union and the United Kingdom in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF. SG Hosting Inc. has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this Privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit [](https://www.dataprivacyframework.gov/)[https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/).
+SG Hosting Inc. complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. SG Hosting Inc. has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union and the United Kingdom in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF. SG Hosting Inc. has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this Privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit[](https://www.dataprivacyframework.gov/)[https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/).
 
 As explained in Section V above we may provide personal information to third parties to perform services on our behalf. If we transfer personal information received under the Data Privacy Framework to a third party, the third party's use and disclosure of the personal information must also be in compliance with our Data Privacy Framework obligations. We remain liable to you in case of any damage caused as a result of onward transfers of personal information to such third parties, unless we prove we are not responsible for the event giving rise to the damage.
 
@@ -428,7 +428,7 @@ The TDPSA provides Texas residents with specific rights with respect to their pe
 
 Please note, however, that we do not sell your personal data, nor we process your personal data for the purposes of profiling within the meaning of the TDPSA.
 
-You may opt out of targeted advertising by following the following link: [Cookies settings](javascript: Cookiebot.renew()).
+You may opt out of targeted advertising by following the following link: [Cookies settings](http://javascript: Cookiebot.renew()).
 
 * **Right to non-discrimination**: SiteGround shall not discriminate against a consumer because the latter exercised any of the consumer’s rights under the TDPSA, including, but not limited to by denying services, charging different prices or rates for services, or providing a different level of quality of services to the consumer.
     
@@ -456,8 +456,88 @@ You may appeal SiteGround ’s refusal to take action on your request within a r
 
 SiteGround shall inform you in writing of any action taken or not taken in response to your appeal under this Section VI not later than the 60th day after the date of receipt of the appeal, including a written explanation of the reason(s) for the decision.
 
-If your appeal is denied, you may lodge a complaint with the Texas Attorney General available at: [](https://www.texasattorneygeneral.gov/consumer-protection/file-consumer-complaint)[https://www.texasattorneygeneral.gov/consumer-protection/file-consumer-complaint](https://www.texasattorneygeneral.gov/consumer-protection/file-consumer-complaint) 
+If your appeal is denied, you may lodge a complaint with the Texas Attorney General available at:[](https://www.texasattorneygeneral.gov/consumer-protection/file-consumer-complaint)[https://www.texasattorneygeneral.gov/consumer-protection/file-consumer-complaint](https://www.texasattorneygeneral.gov/consumer-protection/file-consumer-complaint) 
 
 Date: July 1, 2024
+
+  
+
+Nebraska Data Privacy Act Addendum
+==================================
+
+This Addendum supplements the information contained in the SiteGround Privacy Policy and applies to Website visitors, Customers, Users, Registrants, End Users, Affiliates and other individuals who are Nebraska residents and act only in an individual or household context (**“consumer”**, **“you”**, **“your”**).
+
+For avoidance of doubt, the term “data subject” used in the Privacy Policy shall correspond to the term “consumer” used herein. All other terms which are not explicitly defined in this Addendum shall have the meaning as set forth in the Privacy Policy.
+
+This Addendum is drafted in compliance with the Nebraska Data Privacy Act (**“NEDPA”**) and its purpose is to provide additional privacy disclosures and to inform you of your rights as a Nebraska resident.
+
+**I. Categories of personal data we process**
+
+We process information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer (“personal data”).
+
+Section I (_“Categories of data subjects and types of personal data”_) of the Privacy Policy describes in detail what categories of personal data we process about a consumer.
+
+**Sensitive data**
+
+Please note that we do not intentionally process and/or request to receive from you any sensitive data within the meaning of Section 2 (30) of the NEDPA, such as personal data revealing racial or ethnic origin, religious beliefs, mental or physical health diagnosis, sexual orientation, or citizenship or immigration status, genetic or biometric data, precise geolocation data, etc.
+
+**II. Purpose for processing personal data**
+
+The purposes for which we collect and process personal data about consumers are described in detail in Section III (_“Purposes of and legal basis for data processing”_) of the Privacy Policy.
+
+**III. Sharing of personal data to third parties**
+
+We may share personal data with the categories of third parties as set forth in Section V (_“Sharing of personal data”_) of the Privacy Policy.
+
+We may share only the personal data necessary for fulfilling the purposes for which the respective third parties are engaged.
+
+**IV. Your rights under the NEDPA**
+
+The NEDPA provides Nebraska residents with specific rights with respect to their personal data as follows:
+
+* **Right to confirmation and access:** You have the right to obtain confirmation whether we process personal data about you and to request access to that personal data. 
+    
+* **Right to correction:** You have the right to correct inaccuracies in your personal data processed by us, taking into account the nature of the personal data and the purposes of the processing of your personal data.
+    
+* **Right to deletion**: Under certain circumstances you have the right to request your personal data be deleted.
+    
+* **Right to obtain a copy:** You have the right to obtain a copy of your personal data in a portable and, to the extent technically feasible, readily usable format that allows you to transmit the personal data to another controller without hindrance.
+    
+* **Right to opt-out of the processing:** To the extent applicable, you have the right to opt out of the processing of the personal data for the purposes of: (i) targeted advertising; (ii) sale of personal data; or (iii) profiling in furtherance of a decision that produces a legal or similarly significant effect concerning you.
+    
+
+Please note, however, that we do not sell your personal data, nor we process your personal data for the purposes of profiling within the meaning of the NEDPA.
+
+You may opt out of targeted advertising by following the following link: [Cookies settings](javascript: Cookiebot.renew()).
+
+* **Right to non-discrimination:** SiteGround shall not discriminate against a consumer for exercising any of the consumer rights contained in the NEDPA, including by denying a service, charging a different price or rate for a service, or providing a different level of quality of a service to the consumer.
+    
+
+**V. Exercising your rights under the NEDPA**
+
+If you wish to exercise any of your rights under the NEDPA, please submit your request to our email address: [privacy@siteground.com](mailto:privacy@siteground.com) or via the contact form available at our website in the “Contact us” Section.
+
+As per the NEDPA SiteGround shall take into consideration the following requirements when answering a consumer’s request:
+
+* A consumer is entitled to exercise the rights authorized by Section IV above at any time by submitting a request to us specifying the rights that the consumer wishes to exercise. If we are unable to authenticate the request using commercially reasonable efforts, we shall not be required to comply with the consumer request and may request that the consumer provide additional information reasonably necessary to authenticate the consumer’s identity and the consumer’s request.
+    
+* SiteGround shall respond to the request without undue delay within 45 days after the date of receipt of the request. We may extend the response period once by an additional 45 days when reasonably necessary, taking into account the complexity and number of the consumer’s request, upon notification to the consumer within the initial 45-day response period, together with the reason for the extension.
+    
+* SiteGround shall provide information in response to the consumer request free of charge, at least twice annually.  
+    
+* If the consumer request is manifestly unfounded, excessive, or repetitive, we may charge a reasonable fee to cover the administrative costs of complying with the request or may decline to act on the request.
+    
+
+**VI. Appeal**
+
+If we decline to comply with your consumer’s request, we will inform you within 45 days after the date of receipt of the request of the justification for declining to comply and provide instructions on how to appeal SiteGround’s decision.
+
+You may appeal SiteGround ’s refusal to act on your request within a reasonable time after we have notified you of such refusal by contacting us at [privacy@siteground.com](mailto:privacy@siteground.com).
+
+SiteGround shall inform you in writing of any action taken or not taken in response to your appeal under this Section VI not later than the 60th day after the date of receipt of the appeal, including a written explanation of the reason(s) for the decision.
+
+If your appeal is denied, you may contact the Nebraska Attorney General to file a complaint, available at:[](https://www.nebraska.gov/apps-ago-complaints/?preSelect=CP_COMPLAINT)[https://www.nebraska.gov/apps-ago-complaints/?preSelect=CP\_COMPLAINT](https://www.nebraska.gov/apps-ago-complaints/?preSelect=CP_COMPLAINT) 
+
+Effective Date: 1 January 2025
 
 [Close Window](javascript:window.close())
