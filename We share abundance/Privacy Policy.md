@@ -11,8 +11,6 @@ Spreading Peace, Hope, Harmony and Love.
 * [Log In](https://membersnew.weshareabundance.com/)
 * [Site Map](https://weshareabundance.com/site-map/)
 
-Menu
-
 * [HOME](https://weshareabundance.com/)
 * [Why WSA?](https://weshareabundance.com/whywsa/)
 * [SUPPORT](https://weshareabundance.hesk.com/)
