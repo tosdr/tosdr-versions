@@ -291,6 +291,42 @@ PARAGOULD, AR 72450
 Check Out Our Blog
 ------------------
 
+[![A semi-realistic cartoony illustration of a person wearing glasses, sitting at a desk with a laptop, researching property records online. Papers are scattered around the desk, and the laptop screen features a magnifying glass icon, symbolizing a search. The background shows a simple home office with a bookshelf and a small plant, creating a focused and approachable scene.](https://creditnerds.com/wp-content/uploads/2024/12/How-to-Check-for-Liens-on-Your-Property-30x30.webp)](https://creditnerds.com/how-to-check-for-liens-on-your-property/)
+
+[Uncategorized](https://creditnerds.com/category/uncategorized/)
+
+December 18, 2024
+
+#### [How to Check for Liens on Your Property](https://creditnerds.com/how-to-check-for-liens-on-your-property/)
+
+How to Check for Liens on Your Property Discovering a lien on your property can be an unpleasant surprise, especially if you plan to sell or refinance. Liens, which stem from unpaid debts, give creditors a legal claim to part of your property. Any existing liens must be resolved before you can complete a property …
+
+[Read More](https://creditnerds.com/how-to-check-for-liens-on-your-property/)
+
+[![A semi-realistic cartoony illustration of a person wearing glasses sitting at a desk, holding a phone in one hand and gap insurance documents in the other, smiling confidently. A laptop on the desk displays a refund icon on the screen. The background features a simple home office setup with a plant and a wall calendar, creating an approachable and encouraging scene.](https://creditnerds.com/wp-content/uploads/2024/12/How-to-Cancel-Gap-Insurance-and-Get-a-Refund-30x30.webp)](https://creditnerds.com/how-to-cancel-gap-insurance-and-get-a-refund/)
+
+[Uncategorized](https://creditnerds.com/category/uncategorized/)
+
+December 17, 2024
+
+#### [How to Cancel Gap Insurance and Get a Refund](https://creditnerds.com/how-to-cancel-gap-insurance-and-get-a-refund/)
+
+Gap insurance offers essential protection by covering the difference between your car's value and what you owe on your loan in the event of a total loss. However, there are situations where you may no longer need this coverage and might even qualify for a refund. Here's a detailed guide on how to cancel gap …
+
+[Read More](https://creditnerds.com/how-to-cancel-gap-insurance-and-get-a-refund/)
+
+[![A semi-realistic cartoony illustration of a person wearing glasses, sitting at a table with a maxed-out credit card in one hand and a bill showing a high balance in the other. The person has a worried expression. The background includes a stack of unopened bills and a laptop displaying a credit score alert, emphasizing financial concern.](https://creditnerds.com/wp-content/uploads/2024/12/What-Happens-if-You-Max-Out-a-Credit-Card-30x30.webp)](https://creditnerds.com/what-happens-if-you-max-out-a-credit-card/)
+
+[Uncategorized](https://creditnerds.com/category/uncategorized/)
+
+December 16, 2024
+
+#### [What Happens if You Max Out a Credit Card?](https://creditnerds.com/what-happens-if-you-max-out-a-credit-card/)
+
+Maxing out a credit card means reaching or exceeding your credit limit, which can lead to significant financial and credit challenges. If this happens, acting quickly is essential to minimize fees, protect your credit score, and regain financial stability. Here’s a comprehensive guide on what happens if you max out a credit card, along with …
+
+[Read More](https://creditnerds.com/what-happens-if-you-max-out-a-credit-card/)
+
 [![A semi-realistic cartoony illustration of a person wearing glasses sitting at a table with a worried expression, reviewing a car payment bill and a calendar. A clock on the wall in the background symbolizes time running out. The scene is set in a simple living room with a lamp and a couch, creating a relatable and slightly urgent atmosphere.](https://creditnerds.com/wp-content/uploads/2024/12/How-Late-Can-You-Be-on-a-Car-Payment-30x30.webp)](https://creditnerds.com/how-late-can-you-be-on-a-car-payment/)
 
 [Credit](https://creditnerds.com/category/credit/)
@@ -362,42 +398,6 @@ December 3, 2024
 If you’re shopping for a used car, you might encounter vehicles with salvage titles. These cars, often sold at steep discounts, have been declared total losses by insurance companies due to damage. While the low price can be tempting, buying a salvage title car carries risks and requires careful consideration. Should I buy a car …
 
 [Read More](https://creditnerds.com/should-i-buy-a-car-with-a-salvage-title/)
-
-[![A semi-realistic, 2D cartoon-style image of a friendly character with glasses looking at a laptop screen displaying a credit score chart. The character sits at a desk surrounded by icons like a credit card, dollar signs, and a magnifying glass, symbolizing financial tools for checking credit scores. The background features subtle decor like a clock, bookshelf, and a plant, using flat colors and minimal shading for a clean and approachable design.](https://creditnerds.com/wp-content/uploads/2024/11/How-Do-I-Check-My-Credit-Score-30x30.webp)](https://creditnerds.com/how-do-i-check-my-credit-score/)
-
-[Credit](https://creditnerds.com/category/credit/)
-
-November 25, 2024
-
-#### [How Do I Check My Credit Score?](https://creditnerds.com/how-do-i-check-my-credit-score/)
-
-Regularly monitoring your credit score is essential for maintaining financial health. A good credit score can unlock lower financing rates, better insurance premiums, and even improve your chances of securing an apartment or job. Let’s explore the steps to check your credit score and understand its importance. Why Is Checking Your Credit Score Important? Your …
-
-[Read More](https://creditnerds.com/how-do-i-check-my-credit-score/)
-
-[![A semi-realistic, 2D cartoon-style image of a thoughtful character with glasses holding a document labeled 'Bankruptcy Rules' while looking at a calendar with multiple marked dates. Surrounding the character are icons such as a gavel, dollar signs, and paperwork, symbolizing legal and financial aspects of bankruptcy filing. The background includes subtle elements like question marks and filing symbols, using flat colors and minimal shading to create a clean, approachable, and informative design.](https://creditnerds.com/wp-content/uploads/2024/11/How-Many-Times-Can-You-File-Bankruptcy-30x30.webp)](https://creditnerds.com/how-many-times-can-you-file-bankruptcy/)
-
-[Credit](https://creditnerds.com/category/credit/)
-
-November 19, 2024
-
-#### [How Many Times Can You File Bankruptcy?](https://creditnerds.com/how-many-times-can-you-file-bankruptcy/)
-
-Filing for bankruptcy can be a lifeline during financial hardship, but it’s not a decision to take lightly. A common question for those who’ve already been through it is: How many times can you file bankruptcy? While there’s no strict limit, specific waiting periods apply before you can file again and receive a discharge of …
-
-[Read More](https://creditnerds.com/how-many-times-can-you-file-bankruptcy/)
-
-[![A semi-realistic, 2D cartoon-style image of a friendly character with glasses holding a document labeled 'Used Car Payment 2024.' The character stands beside a simple illustration of a car, surrounded by icons such as dollar signs, a calculator, and calendar pages, symbolizing monthly payments. The background includes financial elements like charts, using flat colors and minimal shading to convey the concept of average used car payments in a clear and approachable way.](https://creditnerds.com/wp-content/uploads/2024/11/What-Is-the-Average-Used-Car-Payment-in-2024-30x30.webp)](https://creditnerds.com/what-is-the-average-used-car-payment-in-2024/)
-
-[Credit](https://creditnerds.com/category/credit/)
-
-November 13, 2024
-
-#### [What Is the Average Used Car Payment in 2024?](https://creditnerds.com/what-is-the-average-used-car-payment-in-2024/)
-
-If you're considering a used car purchase, you might wonder about the average financing costs. Many buyers choose to finance, as approximately 42% of used car sales involve an auto loan. The average used car payment in 2024 is currently $525, which is over $100 lower than the average new car payment. Here’s a breakdown …
-
-[Read More](https://creditnerds.com/what-is-the-average-used-car-payment-in-2024/)
 
 ![](https://creditnerds.com/wp-content/uploads/2023/12/small-logo-white-30x30.png)
 
