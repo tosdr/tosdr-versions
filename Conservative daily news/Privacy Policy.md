@@ -1,4 +1,4 @@
-Wednesday, December 18 2024
+Thursday, December 19 2024
 
 Breaking News
 
@@ -181,6 +181,9 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Guns of the Decades – 1960s: Colt 607 – Colt’s First AR-15 Carbine](https://www.thegunpage.com/guns-of-the-decades-1960s-colt-607-colts-first-ar-15-carbine/10612597)
+* [POTD: Multicam Superman & The FN M240L Machine Gun](https://www.thegunpage.com/potd-multicam-superman-the-fn-m240l-machine-gun/10612598)
+* [Wheelgun Wednesday: The Evolution of Magnum Revolvers](https://www.thegunpage.com/wheelgun-wednesday-the-evolution-of-magnum-revolvers/10612599)
 * [Ruthless Assassin or Robinhood? The Court of Public Opinion is Making a Chilling Case for CEO Killer](https://www.thegunpage.com/ruthless-assassin-or-robinhood-the-court-of-public-opinion-is-making-a-chilling-case-for-ceo-killer/10612594)
 * [GOA Endorses the National Constitutional Concealed Carry Reciprocity Act](https://www.thegunpage.com/goa-endorses-the-national-constitutional-concealed-carry-reciprocity-act/10612592)
 * [Evolution Of The AK To Meet The Evolving Trends Of Modern Battlespace](https://www.thegunpage.com/evolution-of-the-ak-to-meet-the-evolving-trends-of-modern-battlespace/10612593)
@@ -188,9 +191,6 @@ Recent Posts
 * [TrueTimber Partners With LWRCI On New .350 Legend And 5.56 AR-15](https://www.thegunpage.com/truetimber-partners-with-lwrci-on-new-350-legend-and-5-56-ar-15/10612589)
 * [Michigan Senate Bans “Ghost Guns”](https://www.thegunpage.com/michigan-senate-bans-ghost-guns/10612587)
 * [Christensen Arms Releases The Evoke](https://www.thegunpage.com/christensen-arms-releases-the-evoke/10612585)
-* [WY: Wyoming Senate Proposes Terrible Legislation to Blunt a REAL Repeal of Gun Free Zones](https://www.thegunpage.com/wy-wyoming-senate-proposes-terrible-legislation-to-blunt-a-real-repeal-of-gun-free-zones/10612583)
-* [Gun Control Laws Fall as Courts Chart an Uncertain Path to the Future](https://www.thegunpage.com/gun-control-laws-fall-as-courts-chart-an-uncertain-path-to-the-future/10612581)
-* [Austria Arms' H&K G95K Clone Build (The German KSK's HK416)](https://www.thegunpage.com/austria-arms-hk-g95k-clone-build-the-german-ksks-hk416/10612586)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
