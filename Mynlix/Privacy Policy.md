@@ -6,10 +6,6 @@
     
     * * *
     
-    * [All Services](https://www.nl-ix.net/services/)
-    
-    * * *
-    
     * [Anti-DDoS](https://www.nl-ix.net/services/anti-ddos-nawas/)
     
     * * *
@@ -38,10 +34,6 @@
     
     * * *
     
-    * [Custom Network](https://www.nl-ix.net/services/custom-network/)
-    
-    * * *
-    
     * [ICON Console](https://www.nl-ix.net/services/icon/)
     
     * * *
@@ -50,20 +42,24 @@
     
     * * *
     
-    * [For Enterprises](https://www.nl-ix.net/industry/enterprise/)
-    
-    * * *
-    
 
 * * *
 
-* Locations
+* [Solutions](https://www.nl-ix.net/solutions/)
+
+* * *
+
+* Network
     
-    Locations
+    Network
     
     * * *
     
-    * [All Locations](https://www.nl-ix.net/locations/)
+    * [Connected Networks](https://www.nl-ix.net/connected-networks/)
+    
+    * * *
+    
+    * [Networks Stats](https://www.nl-ix.net/about/about-our-network/eu-stats/)
     
     * * *
     
@@ -71,78 +67,14 @@
     
     * * *
     
-    * [Network Stats](https://www.nl-ix.net/about/about-our-network/eu-stats/)
+    * [Locations](https://www.nl-ix.net/locations/)
     
     * * *
     
-    * [Amsterdam](https://www.nl-ix.net/locations/amsterdam/)
+    * [Network Upgrades](https://www.nl-ix.net/articles-events/article/news-article-overview-of-network-improvements/)
     
     * * *
     
-    * [Antwerp](https://www.nl-ix.net/locations/antwerp/)
-    
-    * * *
-    
-    * [Arnhem](https://www.nl-ix.net/locations/arnhem/)
-    
-    * * *
-    
-    * [Berlin](https://www.nl-ix.net/locations/berlin/)
-    
-    * * *
-    
-    * [Brussels](https://www.nl-ix.net/locations/brussels/)
-    
-    * * *
-    
-    * [Copenhagen](https://www.nl-ix.net/locations/copenhagen/)
-    
-    * * *
-    
-    * [Dublin](https://www.nl-ix.net/locations/dublin/)
-    
-    * * *
-    
-    * [Düsseldorf](https://www.nl-ix.net/locations/dusseldorf/)
-    
-    * * *
-    
-    * [Eindhoven](https://www.nl-ix.net/locations/eindhoven/)
-    
-    * * *
-    
-    * [Frankfurt](https://www.nl-ix.net/locations/frankfurt/)
-    
-    * * *
-    
-    * [Groningen](https://www.nl-ix.net/locations/groningen/)
-    
-    * * *
-    
-    * [London](https://www.nl-ix.net/locations/london/)
-    
-    * * *
-    
-    * [Luxembourg](https://www.nl-ix.net/locations/luxembourg/)
-    
-    * * *
-    
-    * [Marseille](https://www.nl-ix.net/locations/marseille/)
-    
-    * * *
-    
-    * [Paris](https://www.nl-ix.net/locations/paris/)
-    
-    * * *
-    
-    * [Rotterdam](https://www.nl-ix.net/locations/rotterdam/)
-    
-    * * *
-    
-
-* * *
-
-* [Connected networks](https://www.nl-ix.net/connected-networks/)
 
 * * *
 
@@ -211,10 +143,6 @@
     
     * * *
     
-    * [All Services](https://www.nl-ix.net/services/)
-    
-    * * *
-    
     * [Anti-DDoS](https://www.nl-ix.net/services/anti-ddos-nawas/)
     
     * * *
@@ -243,10 +171,6 @@
     
     * * *
     
-    * [Custom Network](https://www.nl-ix.net/services/custom-network/)
-    
-    * * *
-    
     * [ICON Console](https://www.nl-ix.net/services/icon/)
     
     * * *
@@ -255,15 +179,16 @@
     
     * * *
     
-    * [For Enterprises](https://www.nl-ix.net/industry/enterprise/)
+* [Solutions](https://www.nl-ix.net/solutions/)
+* Network
     
     * * *
     
-* Locations
+    * [Connected Networks](https://www.nl-ix.net/connected-networks/)
     
     * * *
     
-    * [All Locations](https://www.nl-ix.net/locations/)
+    * [Networks Stats](https://www.nl-ix.net/about/about-our-network/eu-stats/)
     
     * * *
     
@@ -271,75 +196,14 @@
     
     * * *
     
-    * [Network Stats](https://www.nl-ix.net/about/about-our-network/eu-stats/)
+    * [Locations](https://www.nl-ix.net/locations/)
     
     * * *
     
-    * [Amsterdam](https://www.nl-ix.net/locations/amsterdam/)
+    * [Network Upgrades](https://www.nl-ix.net/articles-events/article/news-article-overview-of-network-improvements/)
     
     * * *
     
-    * [Antwerp](https://www.nl-ix.net/locations/antwerp/)
-    
-    * * *
-    
-    * [Arnhem](https://www.nl-ix.net/locations/arnhem/)
-    
-    * * *
-    
-    * [Berlin](https://www.nl-ix.net/locations/berlin/)
-    
-    * * *
-    
-    * [Brussels](https://www.nl-ix.net/locations/brussels/)
-    
-    * * *
-    
-    * [Copenhagen](https://www.nl-ix.net/locations/copenhagen/)
-    
-    * * *
-    
-    * [Dublin](https://www.nl-ix.net/locations/dublin/)
-    
-    * * *
-    
-    * [Düsseldorf](https://www.nl-ix.net/locations/dusseldorf/)
-    
-    * * *
-    
-    * [Eindhoven](https://www.nl-ix.net/locations/eindhoven/)
-    
-    * * *
-    
-    * [Frankfurt](https://www.nl-ix.net/locations/frankfurt/)
-    
-    * * *
-    
-    * [Groningen](https://www.nl-ix.net/locations/groningen/)
-    
-    * * *
-    
-    * [London](https://www.nl-ix.net/locations/london/)
-    
-    * * *
-    
-    * [Luxembourg](https://www.nl-ix.net/locations/luxembourg/)
-    
-    * * *
-    
-    * [Marseille](https://www.nl-ix.net/locations/marseille/)
-    
-    * * *
-    
-    * [Paris](https://www.nl-ix.net/locations/paris/)
-    
-    * * *
-    
-    * [Rotterdam](https://www.nl-ix.net/locations/rotterdam/)
-    
-    * * *
-    
-* [Connected networks](https://www.nl-ix.net/connected-networks/)
 * [Events](https://www.nl-ix.net/articles-events/event/events/)
 * [Articles](https://www.nl-ix.net/articles-events/)
 * About us
