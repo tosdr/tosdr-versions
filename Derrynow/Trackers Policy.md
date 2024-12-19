@@ -54,7 +54,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-18 Dec 2024
+19 Dec 2024
 
 * [Home
     
@@ -266,15 +266,6 @@ The scene of the incident remains preserved this morning for a technical examina
 [Woman on e-scooter found critically injured on road after horror incident overnight](https://www.derrynow.com/news/national-news/1683305/woman-on-e-scooter-found-critically-injured-on-road-after-horror-incident-overnight.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man facing number of serious assault charges against father remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man facing number of serious assault charges against father remanded")](https://www.derrynow.com/news/newsletter-derrynow/1683577/man-facing-number-of-serious-assault-charges-against-father-remanded.html)
-
-Derry Magistrates' Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man facing number of serious assault charges against father remanded](https://www.derrynow.com/news/newsletter-derrynow/1683577/man-facing-number-of-serious-assault-charges-against-father-remanded.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1683855/will-patching-no-longer-a-derry-city-player.html)
 
 Will Patching has spent four years at Derry City.
@@ -283,6 +274,15 @@ Will Patching has spent four years at Derry City.
 
 [Will Patching 'no longer a Derry City player'](https://www.derrynow.com/news/derry-sport/1683855/will-patching-no-longer-a-derry-city-player.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man facing number of serious assault charges against father remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man facing number of serious assault charges against father remanded")](https://www.derrynow.com/news/newsletter-derrynow/1683577/man-facing-number-of-serious-assault-charges-against-father-remanded.html)
+
+Derry Magistrates' Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man facing number of serious assault charges against father remanded](https://www.derrynow.com/news/newsletter-derrynow/1683577/man-facing-number-of-serious-assault-charges-against-father-remanded.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry man convicted of animal cruelty charged with trespassing and stealing](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man convicted of animal cruelty charged with trespassing and stealing")](https://www.derrynow.com/news/newsletter-derrynow/1683533/derry-man-convicted-of-animal-cruelty-charged-with-trespassing-and-stealing.html)
 
@@ -293,12 +293,33 @@ Derry Magistrates' Court
 [Derry man convicted of animal cruelty charged with trespassing and stealing](https://www.derrynow.com/news/newsletter-derrynow/1683533/derry-man-convicted-of-animal-cruelty-charged-with-trespassing-and-stealing.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Dungiven man banged partner's head off toilet ten times leaving her 'begging for help'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Dungiven man banged partner's head off toilet ten times leaving her 'begging for help'")](https://www.derrynow.com/news/home/1684100/dungiven-man-banged-partner-s-head-off-toilet-ten-times-leaving-her-begging-for-help.html)
+
+[Home](https://www.derrynow.com/)
+
+[Dungiven man banged partner's head off toilet ten times leaving her 'begging for help'](https://www.derrynow.com/news/home/1684100/dungiven-man-banged-partner-s-head-off-toilet-ten-times-leaving-her-begging-for-help.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1682523/derry-death-notices-wednesday-december-18-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
 
 [Derry Death Notices - Wednesday, December 18, 2024](https://www.derrynow.com/news/deaths/1682523/derry-death-notices-wednesday-december-18-2024.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![County Derry man who carried out 'appalling assault' on partner jailed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry man who carried out 'appalling assault' on partner jailed")](https://www.derrynow.com/news/local-news/1683599/county-derry-man-who-carried-out-appalling-assault-on-partner-jailed.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[County Derry man who carried out 'appalling assault' on partner jailed](https://www.derrynow.com/news/local-news/1683599/county-derry-man-who-carried-out-appalling-assault-on-partner-jailed.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man returned for trial to Derry Crown Court on historical indecent assault charges](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man returned for trial to Derry Crown Court on historical indecent assault charges")](https://www.derrynow.com/news/newsletter-derrynow/1683580/man-returned-for-trial-to-derry-crown-court-on-historical-indecent-assault-charges.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man returned for trial to Derry Crown Court on historical indecent assault charges](https://www.derrynow.com/news/newsletter-derrynow/1683580/man-returned-for-trial-to-derry-crown-court-on-historical-indecent-assault-charges.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Judge imposes restraining order preventing Greysteel man from contacting parents and sister](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Judge imposes restraining order preventing Greysteel man from contacting parents and sister")](https://www.derrynow.com/news/derrynow/1683471/judge-imposes-restraining-order-preventing-greysteel-man-from-contacting-parents-and-sister.html)
 
@@ -318,34 +339,18 @@ The 30-year-old appeared at Donegal Circuit Court
 [Derry man gets chance to stay out of prison after one-punch attack in Buncrana](https://www.derrynow.com/news/newsletter-derrynow/1683373/derry-man-gets-chance-to-stay-out-of-prison-after-one-punch-attack-in-buncrana.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![County Derry man who carried out 'appalling assault' on partner jailed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry man who carried out 'appalling assault' on partner jailed")](https://www.derrynow.com/news/local-news/1683599/county-derry-man-who-carried-out-appalling-assault-on-partner-jailed.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[County Derry man who carried out 'appalling assault' on partner jailed](https://www.derrynow.com/news/local-news/1683599/county-derry-man-who-carried-out-appalling-assault-on-partner-jailed.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[!['Pure greed' - Irish people shocked as RIP.ie plans to charge €100 per death notice](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'Pure greed' - Irish people shocked as RIP.ie plans to charge €100 per death notice")](https://www.derrynow.com/news/national-news/1683238/pure-greed-irish-people-shocked-as-rip-ie-plans-to-charge-100-per-death-notice.html)
-
-'Pure greed' - Irish people shocked as RIP.ie plans to charge €100 per death notice
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-['Pure greed' - Irish people shocked as RIP.ie plans to charge €100 per death notice](https://www.derrynow.com/news/national-news/1683238/pure-greed-irish-people-shocked-as-rip-ie-plans-to-charge-100-per-death-notice.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man returned for trial to Derry Crown Court on historical indecent assault charges](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man returned for trial to Derry Crown Court on historical indecent assault charges")](https://www.derrynow.com/news/newsletter-derrynow/1683580/man-returned-for-trial-to-derry-crown-court-on-historical-indecent-assault-charges.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man returned for trial to Derry Crown Court on historical indecent assault charges](https://www.derrynow.com/news/newsletter-derrynow/1683580/man-returned-for-trial-to-derry-crown-court-on-historical-indecent-assault-charges.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: Mayor's Christmas Charity Night in Derry's Guildhall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Mayor's Christmas Charity Night in Derry's Guildhall")](https://www.derrynow.com/story-telling/pictures---videos/1683503/in-pictures-mayor-s-christmas-charity-night-in-derry-s-guildhall.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Mayor's Christmas Charity Night in Derry's Guildhall](https://www.derrynow.com/story-telling/pictures---videos/1683503/in-pictures-mayor-s-christmas-charity-night-in-derry-s-guildhall.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry Christmas 2014: St Cecilia’s College Annual Carol Service held at Long Tower Church](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Christmas 2014: St Cecilia’s College Annual Carol Service held at Long Tower Church")](https://www.derrynow.com/story-telling/pictures---videos/1682911/derry-christmas-2014-st-cecilias-college-annual-carol-service-held-at-long-tower-church.html)
 
@@ -409,13 +414,6 @@ Multimedia
 
 [IN PICTURES: Derry Factory Girls and Factory Workers Reunion Dance](https://www.derrynow.com/story-telling/pictures---videos/1681641/in-pictures-derry-factory-girls-and-factory-workers-reunion-dance.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Derry XC attracts best talent to Thornhill College venue](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry XC attracts best talent to Thornhill College venue")](https://www.derrynow.com/story-telling/pictures---videos/1681638/in-pictures-derry-xc-attracts-best-talent-to-thornhill-college-venue.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Derry XC attracts best talent to Thornhill College venue](https://www.derrynow.com/story-telling/pictures---videos/1681638/in-pictures-derry-xc-attracts-best-talent-to-thornhill-college-venue.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -517,7 +515,30 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![ Tomas McCloskey & Family](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 " Tomas McCloskey & Family")](https://www.derrynow.com/news/county-derry-post/1683731/county-derry-man-tomas-mccloskey-raised-an-amazing-5-000-in-aid-of-foyle-hospice.html)
+[![Dungiven man banged partner's head off toilet ten times leaving her 'begging for help'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Dungiven man banged partner's head off toilet ten times leaving her 'begging for help'")](https://www.derrynow.com/news/home/1684100/dungiven-man-banged-partner-s-head-off-toilet-ten-times-leaving-her-begging-for-help.html)
+
+[Home](https://www.derrynow.com/)
+
+[Dungiven man banged partner's head off toilet ten times leaving her 'begging for help'](https://www.derrynow.com/news/home/1684100/dungiven-man-banged-partner-s-head-off-toilet-ten-times-leaving-her-begging-for-help.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Daniel Kelly leaves Derry City by mutual consent](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Daniel Kelly leaves Derry City by mutual consent")](https://www.derrynow.com/news/sport/1684095/daniel-kelly-leaves-derry-city-by-mutual-consent.html)
+
+Daniel Kelly has left the Candystripes
+
+[Sport](https://www.derrynow.com/section/976/sport)
+
+[Daniel Kelly leaves Derry City by mutual consent](https://www.derrynow.com/news/sport/1684095/daniel-kelly-leaves-derry-city-by-mutual-consent.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Féile launches two inspiring short films addressing important issues in Derry’s communities](https://www.derrynow.com/resizer/165/93/true/2024_12_18/GTWB_poster-1734534021445.jpg--.jpg?1734534022847 "Féile launches two inspiring short films addressing important issues in Derry’s communities")](https://www.derrynow.com/news/local-news/1683758/feile-launches-two-inspiring-short-films-addressing-important-issues-in-derrys-communities.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Féile launches two inspiring short films addressing important issues in Derry’s communities](https://www.derrynow.com/news/local-news/1683758/feile-launches-two-inspiring-short-films-addressing-important-issues-in-derrys-communities.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![ Tomas McCloskey & Family](https://www.derrynow.com/resizer/165/93/true/2024_12_18/Tomas_McCloskey%2C_5000%2C_Sahara_Desert_Ultra_Marathon%2C_40th_Birthday-1734532976249.jpg--.jpg?1734532977328 " Tomas McCloskey & Family")](https://www.derrynow.com/news/county-derry-post/1683731/county-derry-man-tomas-mccloskey-raised-an-amazing-5-000-in-aid-of-foyle-hospice.html)
 
 Tomas McCloskey & Family
 
@@ -526,7 +547,7 @@ Tomas McCloskey & Family
 [County Derry man Tomas McCloskey raised an amazing £5,000 in aid of Foyle Hospice](https://www.derrynow.com/news/county-derry-post/1683731/county-derry-man-tomas-mccloskey-raised-an-amazing-5-000-in-aid-of-foyle-hospice.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry's Templemore Sports Complex set to reopen ahead of schedule](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry's Templemore Sports Complex set to reopen ahead of schedule")](https://www.derrynow.com/news/local-news/1683919/derry-s-templemore-sports-complex-set-to-reopen-ahead-of-schedule.html)
+[![Derry's Templemore Sports Complex set to reopen ahead of schedule](https://www.derrynow.com/resizer/165/93/true/1594203105598.jpg--.jpg?1594203106000 "Derry's Templemore Sports Complex set to reopen ahead of schedule")](https://www.derrynow.com/news/local-news/1683919/derry-s-templemore-sports-complex-set-to-reopen-ahead-of-schedule.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
@@ -539,33 +560,6 @@ Tomas McCloskey & Family
 
 [Ulster University's Vice Chancellor is ‘confident’ to get the funding needed for the target of 10,000 students](https://www.derrynow.com/news/derry-news/1683566/ulster-university-s-vice-chancellor-is-confident-to-get-the-funding-needed-for-the-target-of-10-000-students.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Key gas upgrade works planned for Magherafelt in 2025](https://www.derrynow.com/resizer/165/93/true/2024_12_18/evolve-1734537321247.jpg--.jpg?1734537321915 "Key gas upgrade works planned for Magherafelt in 2025")](https://www.derrynow.com/news/county-derry-post/1683843/key-gas-upgrade-works-planned-for-magherafelt-in-2025.html)
-
-Key gas upgrade works planned for Magherafelt in 2025
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[Key gas upgrade works planned for Magherafelt in 2025](https://www.derrynow.com/news/county-derry-post/1683843/key-gas-upgrade-works-planned-for-magherafelt-in-2025.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry City](https://www.derrynow.com/resizer/165/93/true/2024_12_18/IDNT_19-12-24_Back_Page_2-1734537997064.jpg--.jpg?1734537998062 "Derry City")](https://www.derrynow.com/news/derry-sport/1683855/will-patching-no-longer-a-derry-city-player.html)
-
-Will Patching has spent four years at Derry City.
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Will Patching 'no longer a Derry City player'](https://www.derrynow.com/news/derry-sport/1683855/will-patching-no-longer-a-derry-city-player.html)
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Resurfacing plans at Derry's Crescent Link Fire Station confirmed](https://www.derrynow.com/resizer/165/93/true/2024_12_18/Crescent_Link_fire_station_derry-1734533317502.JPG--.JPG?1734533317532 "Resurfacing plans at Derry's Crescent Link Fire Station confirmed")](https://www.derrynow.com/news/local-news/1683738/resurfacing-plans-at-derry-s-crescent-link-fire-station-confirmed.html)
-
-Crescent Link Fire Station
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Resurfacing plans at Derry's Crescent Link Fire Station confirmed](https://www.derrynow.com/news/local-news/1683738/resurfacing-plans-at-derry-s-crescent-link-fire-station-confirmed.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
