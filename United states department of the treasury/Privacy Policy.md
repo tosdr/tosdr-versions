@@ -577,11 +577,11 @@ MENU MENU
     
     December 18, 2024
     
-    [Treasury Targets Facilitators for Procuring Sensitive Navigational Systems for Iran](https://home.treasury.gov/news/press-releases/jy2755)
+    [Treasury Targets Financial and Political Enablers of Republika Srpska President Milorad Dodik](https://home.treasury.gov/news/press-releases/jy2756)
     
     December 18, 2024
     
-    [Treasury Targets Financial and Political Enablers of Republika Srpska President Milorad Dodik](https://home.treasury.gov/news/press-releases/jy2756)
+    [Treasury Targets Facilitators for Procuring Sensitive Navigational Systems for Iran](https://home.treasury.gov/news/press-releases/jy2755)
     
     December 17, 2024
     
