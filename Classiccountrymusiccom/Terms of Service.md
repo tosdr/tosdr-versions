@@ -1,4 +1,6 @@
-[![Classic Country Music | Legendary Stories and Songs Logo](https://classiccountrymusic.com/wp-content/themes/brm-music-premium-rock/assets/images/ccm-desktop-logo.png)](https://classiccountrymusic.com/)
+[![Classic Country Music | Legendary Stories and Songs Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+![Classic Country Music | Legendary Stories and Songs Logo](https://classiccountrymusic.com/wp-content/themes/brm-music-premium-rock/assets/images/ccm-desktop-logo.png)](https://classiccountrymusic.com/)
 
 * [Home](https://classiccountrymusic.com/)
 * [Artists](#)
@@ -96,9 +98,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
+* [Travis Tritt’s Son, Tristan, Covers “Seven...](https://classiccountrymusic.com/travis-tritts-son-tristan-covers-seven-spanish-angels/)
 * [How To Watch CMA Country Christmas...](https://classiccountrymusic.com/how-to-watch-cma-country-christmas-again/)
 * [Watch The Remastered Music Video For...](https://classiccountrymusic.com/remastered-music-video-for-george-straits-i-cross-my-heart/)
-* [Team Snoop’s Christina Eagle Fights For...](https://classiccountrymusic.com/team-snoops-christina-eagle-fights-for-finale-spot-with-energetic-shania-twain-cover/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
