@@ -284,6 +284,13 @@ Derry Magistrates' Court
 [Man facing number of serious assault charges against father remanded](https://www.derrynow.com/news/newsletter-derrynow/1683577/man-facing-number-of-serious-assault-charges-against-father-remanded.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Dungiven man banged partner's head off toilet ten times leaving her 'begging for help'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Dungiven man banged partner's head off toilet ten times leaving her 'begging for help'")](https://www.derrynow.com/news/home/1684100/dungiven-man-banged-partner-s-head-off-toilet-ten-times-leaving-her-begging-for-help.html)
+
+[Home](https://www.derrynow.com/)
+
+[Dungiven man banged partner's head off toilet ten times leaving her 'begging for help'](https://www.derrynow.com/news/home/1684100/dungiven-man-banged-partner-s-head-off-toilet-ten-times-leaving-her-begging-for-help.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry man convicted of animal cruelty charged with trespassing and stealing](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man convicted of animal cruelty charged with trespassing and stealing")](https://www.derrynow.com/news/newsletter-derrynow/1683533/derry-man-convicted-of-animal-cruelty-charged-with-trespassing-and-stealing.html)
 
 Derry Magistrates' Court
@@ -292,20 +299,6 @@ Derry Magistrates' Court
 
 [Derry man convicted of animal cruelty charged with trespassing and stealing](https://www.derrynow.com/news/newsletter-derrynow/1683533/derry-man-convicted-of-animal-cruelty-charged-with-trespassing-and-stealing.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Dungiven man banged partner's head off toilet ten times leaving her 'begging for help'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Dungiven man banged partner's head off toilet ten times leaving her 'begging for help'")](https://www.derrynow.com/news/home/1684100/dungiven-man-banged-partner-s-head-off-toilet-ten-times-leaving-her-begging-for-help.html)
-
-[Home](https://www.derrynow.com/)
-
-[Dungiven man banged partner's head off toilet ten times leaving her 'begging for help'](https://www.derrynow.com/news/home/1684100/dungiven-man-banged-partner-s-head-off-toilet-ten-times-leaving-her-begging-for-help.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1682523/derry-death-notices-wednesday-december-18-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Wednesday, December 18, 2024](https://www.derrynow.com/news/deaths/1682523/derry-death-notices-wednesday-december-18-2024.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![County Derry man who carried out 'appalling assault' on partner jailed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry man who carried out 'appalling assault' on partner jailed")](https://www.derrynow.com/news/local-news/1683599/county-derry-man-who-carried-out-appalling-assault-on-partner-jailed.html)
 
@@ -338,6 +331,15 @@ The 30-year-old appeared at Donegal Circuit Court
 
 [Derry man gets chance to stay out of prison after one-punch attack in Buncrana](https://www.derrynow.com/news/newsletter-derrynow/1683373/derry-man-gets-chance-to-stay-out-of-prison-after-one-punch-attack-in-buncrana.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![BUSTED: Taxi driver caught watching a video while driving!](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "BUSTED: Taxi driver caught watching a video while driving!")](https://www.derrynow.com/news/national-news/1683900/busted-gardai-swoop-on-taxi-driver-caught-watching-video-while-driving-in-dublin.html)
+
+Photo from Gardaí X account
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[BUSTED: Gardai swoop on taxi driver caught watching video while driving in Dublin](https://www.derrynow.com/news/national-news/1683900/busted-gardai-swoop-on-taxi-driver-caught-watching-video-while-driving-in-dublin.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -515,6 +517,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1683947/derry-death-notices-thursday-december-19-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Thursday, December 19, 2024](https://www.derrynow.com/news/deaths/1683947/derry-death-notices-thursday-december-19-2024.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Dungiven man banged partner's head off toilet ten times leaving her 'begging for help'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Dungiven man banged partner's head off toilet ten times leaving her 'begging for help'")](https://www.derrynow.com/news/home/1684100/dungiven-man-banged-partner-s-head-off-toilet-ten-times-leaving-her-begging-for-help.html)
 
 [Home](https://www.derrynow.com/)
@@ -522,7 +531,7 @@ Advertise with Us
 [Dungiven man banged partner's head off toilet ten times leaving her 'begging for help'](https://www.derrynow.com/news/home/1684100/dungiven-man-banged-partner-s-head-off-toilet-ten-times-leaving-her-begging-for-help.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Daniel Kelly leaves Derry City by mutual consent](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Daniel Kelly leaves Derry City by mutual consent")](https://www.derrynow.com/news/sport/1684095/daniel-kelly-leaves-derry-city-by-mutual-consent.html)
+[![Daniel Kelly leaves Derry City by mutual consent](https://www.derrynow.com/resizer/165/93/true/2024_12_18/2808929-1734559127601.jpg--.jpg?1734559128805 "Daniel Kelly leaves Derry City by mutual consent")](https://www.derrynow.com/news/sport/1684095/daniel-kelly-leaves-derry-city-by-mutual-consent.html)
 
 Daniel Kelly has left the Candystripes
 
@@ -553,13 +562,6 @@ Tomas McCloskey & Family
 
 [Derry's Templemore Sports Complex set to reopen ahead of schedule](https://www.derrynow.com/news/local-news/1683919/derry-s-templemore-sports-complex-set-to-reopen-ahead-of-schedule.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Ulster University's Vice Chancellor is ‘confident’ to get the funding needed for the target of 10,000 students](https://www.derrynow.com/resizer/165/93/true/2024_03_22/Magee_Taskforce-1711109350905.JPG--.JPG?1711109351682 "Ulster University's Vice Chancellor is ‘confident’ to get the funding needed for the target of 10,000 students")](https://www.derrynow.com/news/derry-news/1683566/ulster-university-s-vice-chancellor-is-confident-to-get-the-funding-needed-for-the-target-of-10-000-students.html)
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Ulster University's Vice Chancellor is ‘confident’ to get the funding needed for the target of 10,000 students](https://www.derrynow.com/news/derry-news/1683566/ulster-university-s-vice-chancellor-is-confident-to-get-the-funding-needed-for-the-target-of-10-000-students.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
