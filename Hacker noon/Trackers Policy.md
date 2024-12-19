@@ -73,6 +73,7 @@ This Website uses Trackers to enable basic interactions and functionalities, all
     Storage duration:
     
     * \_fbp: 3 months
+    * lastExternalReferrer: duration of the session
     
 
 ### Experience
