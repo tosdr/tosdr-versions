@@ -27,7 +27,7 @@ Privacy Policy
 
 [#### Order by 12.19 for 12.24 delivery
 
-#### Order by 12.19 for 12.24 delivery](https://www.morphe.com/collections/best-sellers)
+#### Order by 12.19 for 12.24 delivery](https://www.morphe.com/pages/sale-details)[Details](https://www.morphe.com/pages/sale-details)
 
 * ![toggle mobile menu](//www.morphe.com/cdn/shop/t/938/assets/hamburger-icon-black.svg?v=37398962526372985731733939709)
 * ![Search](//www.morphe.com/cdn/shop/t/938/assets/search-icon-black.svg?v=109393770938569529511733939776)
