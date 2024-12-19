@@ -214,12 +214,15 @@ Latest version of the TPE Merge & Chat Moss is...
 
 ### Random Download
 
-*  [![](https://alanthomsonsim.com/wp-content/uploads/edd/2020/04/jpg/cranky-bot/20200426035433_1-Copy-100x100.jpg "[CB] 2O86 14:46 Manchester Oxford Road - Liverpool Lime Street")
+*  [![](https://alanthomsonsim.com/wp-content/uploads/edd/2023/09/Screenshot_Glasgow-to-Dunblane-and-Alloa_55.88149-4.23861_17-30-37-100x100.jpg "Glasgow to Dunblane and Signal EP and Sky & Weather EP 2.0 Patches")
     
-    ![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2080%2080%22%3E%3C/svg%3E "[CB] 2O86 14:46 Manchester Oxford Road - Liverpool Lime Street")](https://alanthomsonsim.com/downloads/sub-only-cb-2o86-1446-manchester-oxford-road-liverpool-lime-street/ "[CB] 2O86 14:46 Manchester Oxford Road - Liverpool Lime Street")[\[CB\] 2O86 14:46 Manchester Oxford Road – Liverpool Lime Street](https://alanthomsonsim.com/downloads/sub-only-cb-2o86-1446-manchester-oxford-road-liverpool-lime-street/ "[CB] 2O86 14:46 Manchester Oxford Road - Liverpool Lime Street")
+    ![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2080%2080%22%3E%3C/svg%3E "Glasgow to Dunblane and Signal EP and Sky & Weather EP 2.0 Patches")](https://alanthomsonsim.com/downloads/glasgow-to-dunblane-and-signal-ep-and-sky-weather-ep-2-0-patches/ "Glasgow to Dunblane and Signal EP and Sky & Weather EP 2.0 Patches")[Glasgow to Dunblane and Signal EP and Sky & Weather EP 2.0 Patches](https://alanthomsonsim.com/downloads/glasgow-to-dunblane-and-signal-ep-and-sky-weather-ep-2-0-patches/ "Glasgow to Dunblane and Signal EP and Sky & Weather EP 2.0 Patches")
 
 ### Most Recent Additions
 
+*  [![](https://alanthomsonsim.com/wp-content/uploads/2024/12/New-Project-1-100x100.jpg "(BG) EC HST - 1B83 1154 Newark Northgate - London Kings Cross (2014)")
+    
+    ![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2080%2080%22%3E%3C/svg%3E "(BG) EC HST - 1B83 1154 Newark Northgate - London Kings Cross (2014)")](https://alanthomsonsim.com/downloads/bg-ec-hst-1b83-1154-newark-northgate-london-kings-cross-2014/ "(BG) EC HST - 1B83 1154 Newark Northgate - London Kings Cross (2014)")[(BG) EC HST – 1B83 1154 Newark Northgate – London Kings Cross (2014)](https://alanthomsonsim.com/downloads/bg-ec-hst-1b83-1154-newark-northgate-london-kings-cross-2014/ "(BG) EC HST - 1B83 1154 Newark Northgate - London Kings Cross (2014)")
 *  [![](https://alanthomsonsim.com/wp-content/uploads/2024/12/20241208183056_1-100x100.jpg "(12 Days of Scenarios 2024 – Day 6) 1Z75 0936 Crewe to Liverpool "The North Wales Coast Express"")
     
     ![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2080%2080%22%3E%3C/svg%3E "(12 Days of Scenarios 2024 – Day 6) 1Z75 0936 Crewe to Liverpool "The North Wales Coast Express"")](https://alanthomsonsim.com/downloads/12-days-of-scenarios-2024-day-6-1z75-0936-crewe-to-liverpool-the-north-wales-coast-express/ "(12 Days of Scenarios 2024 – Day 6) 1Z75 0936 Crewe to Liverpool "The North Wales Coast Express"")[(12 Days of Scenarios 2024 – Day 6) 1Z75 0936 Crewe to Liverpool “The North Wales Coast Express”](https://alanthomsonsim.com/downloads/12-days-of-scenarios-2024-day-6-1z75-0936-crewe-to-liverpool-the-north-wales-coast-express/ "(12 Days of Scenarios 2024 – Day 6) 1Z75 0936 Crewe to Liverpool "The North Wales Coast Express"")
@@ -253,9 +256,6 @@ Latest version of the TPE Merge & Chat Moss is...
 *  [![](https://alanthomsonsim.com/wp-content/uploads/2024/12/1R10-Victoria-to-Reigate-and-Gatwick-Airport-100x100.png "1R10 - Gatwick Airport and Reigate")
     
     ![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2080%2080%22%3E%3C/svg%3E "1R10 - Gatwick Airport and Reigate")](https://alanthomsonsim.com/downloads/1r10-gatwick-airport-and-reigate/ "1R10 - Gatwick Airport and Reigate")[1R10 – Gatwick Airport and Reigate](https://alanthomsonsim.com/downloads/1r10-gatwick-airport-and-reigate/ "1R10 - Gatwick Airport and Reigate")
-*  [![](https://alanthomsonsim.com/wp-content/uploads/edd/2024/12/20241203122846_1-100x100.jpg "Eastern Rail Services Ex-DRS Mk2 & Ex-GA Mk3s")
-    
-    ![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2080%2080%22%3E%3C/svg%3E "Eastern Rail Services Ex-DRS Mk2 & Ex-GA Mk3s")](https://alanthomsonsim.com/downloads/ers-mk2-3/ "Eastern Rail Services Ex-DRS Mk2 & Ex-GA Mk3s")[Eastern Rail Services Ex-DRS Mk2 & Ex-GA Mk3s](https://alanthomsonsim.com/downloads/ers-mk2-3/ "Eastern Rail Services Ex-DRS Mk2 & Ex-GA Mk3s")
 
 ### (c) Alan Thomson Simulation Ltd 2022
 
