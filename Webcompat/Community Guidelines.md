@@ -166,7 +166,7 @@ You signed in with another tab or window. Reload to refresh your session. You si
 
 * [Notifications](https://github.com/login?return_to=%2Fwebcompat%2Fwebcompat.com) You must be signed in to change notification settings
 * [Fork 192](https://github.com/login?return_to=%2Fwebcompat%2Fwebcompat.com)
-* [Star 363](https://github.com/login?return_to=%2Fwebcompat%2Fwebcompat.com)
+* [Star 364](https://github.com/login?return_to=%2Fwebcompat%2Fwebcompat.com)
     
 
 * [Code](https://github.com/webcompat/webcompat.com)
