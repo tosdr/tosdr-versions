@@ -168,17 +168,17 @@ By Theme
 
 Latest Real Weddings
 
-[![Shubhangi and Mayank](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
+[![Janki and Hiren](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
 
-![Shubhangi and Mayank](https://image.wedmegood.com/resized/250X/uploads/images/e2211601e028467b981b883117fab9e2realwedding/SHUBHANGI_MAYANK_WEDDING-4770.jpg?crop=204,192,1525,857)
+![Janki and Hiren](https://image.wedmegood.com/resized/250X/uploads/images/2368530abe554c8aa57e1d48fc841d27realwedding/CHI02876Large.jpeg?crop=146,118,1013,569)
 
-Shubhangi and Mayank (Gurgaon)](https://www.wedmegood.com/real_wedding/detail/shubhangi-and-mayank-gurgaon-wedding-4456)
+Janki and Hiren (New Jersey)](https://www.wedmegood.com/real_wedding/detail/janki-and-hiren-new-jersey-gujarati-wedding-4459)
 
-[![Aaliyah Kashyap and Shane Gregoire](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
+[![Shahaab and Rukmini ](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
 
-![Aaliyah Kashyap and Shane Gregoire](https://image.wedmegood.com/resized/250X/uploads/images/eae25ccc5d084925807b25143c978fa4realwedding/Snapinsta.app_469911374_888083596866853_6990724753317082308_n_1080.jpg?crop=93,540,858,482)
+![Shahaab and Rukmini ](https://image.wedmegood.com/resized/250X/uploads/images/4b873db3e488412082350f2bcd52be01realwedding/36Large.jpeg?crop=132,237,1013,569)
 
-Aaliyah Kashyap and Shane Gregoire (Mumbai)](https://www.wedmegood.com/real_wedding/detail/aaliyah-kashyap-and-shane-gregoire-mumbai-wedding-4455)
+Shahaab and Rukmini (Jaipur)](https://www.wedmegood.com/real_wedding/detail/shahaab-and-rukmini-jaipur-cross-culture-wedding-4457)
 
 Browse by Category
 
