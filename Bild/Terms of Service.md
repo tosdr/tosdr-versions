@@ -209,28 +209,6 @@ Menü
     ===
     
 
-[BreakingNews
-
-Schon wieder Alarm in Köln! Unbekannter stellt Koffer in Supermarkt ab und flüchtet
-
-Schon wieder Alarm in Köln! Unbekannter stellt Koffer in Supermarkt ab und flüchtet
-
-Schon wieder Alarm in Köln! Unbekannter stellt Koffer in Supermarkt ab und flüchtet
-
-Schon wieder Alarm in Köln! Unbekannter stellt Koffer in Supermarkt ab und flüchtet
-
-Schon wieder Alarm in Köln! Unbekannter stellt Koffer in Supermarkt ab und flüchtet
-
-Schon wieder Alarm in Köln! Unbekannter stellt Koffer in Supermarkt ab und flüchtet
-
-Schon wieder Alarm in Köln! Unbekannter stellt Koffer in Supermarkt ab und flüchtet
-
-Schon wieder Alarm in Köln! Unbekannter stellt Koffer in Supermarkt ab und flüchtet
-
-Schon wieder Alarm in Köln! Unbekannter stellt Koffer in Supermarkt ab und flüchtet
-
-Schon wieder Alarm in Köln! Unbekannter stellt Koffer in Supermarkt ab und flüchtet](https://www.bild.de/regional/koeln/alarm-in-koen-unbekannter-stellt-koffer-in-supermarkt-ab-und-fluechtet-6763124133fc6116949cf954)
-
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
  AGB: Nutzungsbedingungen für die digitalen Angebote von BILD
