@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
+* [Hotel Dash 2: Lost Luxuries](https://www.myabandonware.com/game/hotel-dash-2-lost-luxuries-qgm)
+* [Cooking Dash 3: Thrills & Spills](https://www.myabandonware.com/game/cooking-dash-3-thrills-spills-qgf)
 * [Cooking Dash: DinerTown Studios](https://www.myabandonware.com/game/cooking-dash-dinertown-studios-qgd)
 * [Pet Shop Hop](https://www.myabandonware.com/game/pet-shop-hop-qg9)
 * [Yu-Gi-Oh! Virtual Desktop](https://www.myabandonware.com/game/yu-gi-oh-virtual-desktop-txg)
-* [Parking Dash](https://www.myabandonware.com/game/parking-dash-qgl)
-* [Soap Opera Dash](https://www.myabandonware.com/game/soap-opera-dash-qga)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
