@@ -1,6 +1,6 @@
 [Skip to main content](#maincontent) [Skip to Support Chat](#) [Skip to footer content](#footercontent) [Skip to Accessibility Statement](https://www.bose.com/legal/accessibility)
 
-**Free 2-day shipping**: Order by 12 PM EST, Dec 20 for delivery by Dec 24.
+Get gifts in time for Christmas with free 2-day shipping. [Shop](https://www.bose.com/c/holiday-sale)
 
 [Cancel](#)
 
@@ -25,7 +25,7 @@ Back
     Time’s almost up
     ----------------
     
-    Beat the countdown and shop now to save up to 40% for holiday delivery.
+    Shop our lowest prices of the year with up to 40% off bestsellers, delivered in time for Christmas.
     
     [SHOP](https://www.bose.com/c/holiday-sale "SHOP")
     
