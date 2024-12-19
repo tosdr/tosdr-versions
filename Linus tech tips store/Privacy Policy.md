@@ -4,7 +4,7 @@ Commuter\_Backpack-Dusk-2024\_12\_14
 
 New orders are expected to ship by
 
-[Canadian Customers: Existing Canada Post shipments are impacted by strike action. Click here to learn more.](https://lttstore.gorgias.help/en-US/service-alert-canada-post-strike-964023) [Canadian Customers: Existing Canada Post shipments are impacted by strike action. Click here to learn more.](https://lttstore.gorgias.help/en-US/service-alert-canada-post-strike-964023)
+[Canadian Customers: Canada Post strike has ended, but delays are still expected going into 2025. Click here to learn more.](https://lttstore.gorgias.help/en-US/service-alert-canada-post-strike-964023)
 
      
 
