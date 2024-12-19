@@ -585,13 +585,13 @@ If you are experiencing hardware issues, for any product under warranty (as desc
 
 To request a return materials authorization (RMA), please complete the [RMA request form in the Meraki dashboard](https://dashboard.meraki.com/rma). If your RMA request is approved, Cisco Meraki will email you an RMA number and a return shipping label free of charge. We will ship replacement units within five business days of receiving your defective units. If no trouble is found, we will contact you before taking further action.
 
-If you require advance replacement, please call Cisco Meraki technical support. Unless you have purchased Meraki Now, advance replacement orders will ship within 1 business day on a best case effort basis.
+If you require advance replacement, please call Cisco Meraki technical support. Unless you have purchased Cisco RMA Upgrade, advance replacement orders will ship within 1 business day on a best case effort basis.
 
 Additional information about Cisco Meraki’s hardware warranty can be found in [Cisco Meraki’s End Customer Agreement](https://meraki.cisco.com/meraki-support/policies/#end-customer-agreement).
 
-##### Meraki Now
+##### Cisco RMA Upgrade
 
-If you require replacement of Meraki products covered by [Meraki Now](https://meraki.cisco.com/wp-content/uploads/2020/05/meraki_now_solution_guide.pdf) services, please [call Meraki technical support](https://meraki.cisco.com/support/overview) and request Meraki Now advance replacement. Please include the Meraki Now service tier and affected device serial number (SN) with your request.
+If you require replacement of Meraki products covered by [Cisco RMA Upgrade](https://meraki.cisco.com/wp-content/uploads/2020/05/meraki_now_solution_guide.pdf) services, please [call Meraki technical support](https://meraki.cisco.com/support/overview) and request Cisco RMA Upgrade advance replacement. Please include the Cisco RMA Upgrade service tier and affected device serial number (SN) with your request.
 
 ##### Product Trial Returns
 
