@@ -190,14 +190,14 @@ Last Updated on October 18, 2018 by Media Bias Fact Check
 #### Today’s Top Page Views
 
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
-* [Least Biased](https://mediabiasfactcheck.com/center/)
 * [Western Journal - Bias and Credibility](https://mediabiasfactcheck.com/western-journalism/)
+* [Least Biased](https://mediabiasfactcheck.com/center/)
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
-* [350.org - Bias and Credibility](https://mediabiasfactcheck.com/350-org-bias-and-credibility/)
-* [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
 * [NewsNation - Bias and Credibility](https://mediabiasfactcheck.com/newsnation/)
-* [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
+* [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
+* [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
+* [350.org - Bias and Credibility](https://mediabiasfactcheck.com/350-org-bias-and-credibility/)
 * [BBC - Bias and Credibility](https://mediabiasfactcheck.com/bbc/)
 
 #### Subscribe via Email
