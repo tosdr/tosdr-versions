@@ -93,81 +93,99 @@
     
 * [News](https://mobilesyrup.com/categories/news/)
     
-    [](https://mobilesyrup.com/2024/12/16/malcolm-in-the-middle-coming-back-for-a-4-episode-run-on-disney/)
+    [](https://mobilesyrup.com/2024/12/18/oneplus-reveals-oneplus-13r-specs-and-release-date/)
     
-    Dec 16, 2024 | 6:10 PM EST
+    Dec 18, 2024 | 6:28 PM EST
     
-    ### [Malcolm in the Middle coming back for a 4-episode run on Disney+](https://mobilesyrup.com/2024/12/16/malcolm-in-the-middle-coming-back-for-a-4-episode-run-on-disney/)
+    ### [OnePlus reveals OnePlus 13R specs and release date](https://mobilesyrup.com/2024/12/18/oneplus-reveals-oneplus-13r-specs-and-release-date/)
     
-    [](https://mobilesyrup.com/2024/12/16/virgin-plus-early-boxing-week-deals/)
+    [](https://mobilesyrup.com/2024/12/18/videotron-early-black-friday-deals/)
     
-    Dec 16, 2024 | 5:09 PM EST
+    Dec 18, 2024 | 5:23 PM EST
     
-    ### [Virgin Plus early Boxing Week deals: Save on Galaxy S24 and home internet](https://mobilesyrup.com/2024/12/16/virgin-plus-early-boxing-week-deals/)
+    ### [Videotron early Black Friday offers: Save on Motorola, Galaxy, and Pixel](https://mobilesyrup.com/2024/12/18/videotron-early-black-friday-deals/)
     
-    [](https://mobilesyrup.com/2024/12/16/bell-early-boxing-week/)
+    [](https://mobilesyrup.com/2024/12/18/seth-rogen-evan-goldberg-point-grey-pictures-bell-original-series/)
     
-    Dec 16, 2024 | 3:36 PM EST
+    Dec 18, 2024 | 4:29 PM EST
     
-    ### [Bell early Boxing Week offers: $6/mo Galaxy S24, save up to $40/mo on internet](https://mobilesyrup.com/2024/12/16/bell-early-boxing-week/)
+    ### [Seth Rogen and Evan Goldberg are making an original series for Bell](https://mobilesyrup.com/2024/12/18/seth-rogen-evan-goldberg-point-grey-pictures-bell-original-series/)
     
-    [](https://mobilesyrup.com/2024/12/16/air-canada-to-support-apple-find-my-sharing-for-lost-luggage/)
+    [](https://mobilesyrup.com/2024/12/18/galaxy-s25-series-event-leaks-for-late-january/)
     
-    Dec 16, 2024 | 3:24 PM EST
+    Dec 18, 2024 | 2:51 PM EST
     
-    ### [Air Canada to support Apple Find My sharing for lost luggage](https://mobilesyrup.com/2024/12/16/air-canada-to-support-apple-find-my-sharing-for-lost-luggage/)
+    ### [Galaxy S25 series event leaks for late January](https://mobilesyrup.com/2024/12/18/galaxy-s25-series-event-leaks-for-late-january/)
     
-    [](https://mobilesyrup.com/2024/12/16/the-switch-2-leaks-are-adding-up-to-a-january-reveal/)
+    [](https://mobilesyrup.com/2024/12/18/airpods-pro-2-hearing-aid-coming-2025/)
     
-    Dec 16, 2024 | 2:22 PM EST
+    Dec 18, 2024 | 2:19 PM EST
     
-    ### [The Switch 2 leaks are adding up to a January reveal](https://mobilesyrup.com/2024/12/16/the-switch-2-leaks-are-adding-up-to-a-january-reveal/)
+    ### [AirPods Pro 2 hearing aid feature approved by Health Canada](https://mobilesyrup.com/2024/12/18/airpods-pro-2-hearing-aid-coming-2025/)
     
-    [](https://mobilesyrup.com/2024/12/16/public-mobile-29-10gb-5g-canada-us-mexico/)
+    [](https://mobilesyrup.com/2024/12/18/chatgpt-search-free-users-rollout/)
     
-    Dec 16, 2024 | 1:18 PM EST
+    Dec 18, 2024 | 1:16 PM EST
     
-    ### [Public Mobile’s $29/10GB 5G Canada/U.S./Mexico plan is back](https://mobilesyrup.com/2024/12/16/public-mobile-29-10gb-5g-canada-us-mexico/)
+    ### [ChatGPT search begins rolling out to all free users](https://mobilesyrup.com/2024/12/18/chatgpt-search-free-users-rollout/)
     
     * [Carriers](https://mobilesyrup.com/categories/news/news-carriers/)
         
-        [](https://mobilesyrup.com/2024/12/16/virgin-plus-early-boxing-week-deals/)
+        [](https://mobilesyrup.com/2024/12/18/videotron-early-black-friday-deals/)
         
-        Dec 16, 2024 | 5:09 PM EST
+        Dec 18, 2024 | 5:23 PM EST
         
-        ### [Virgin Plus early Boxing Week deals: Save on Galaxy S24 and home internet](https://mobilesyrup.com/2024/12/16/virgin-plus-early-boxing-week-deals/)
+        ### [Videotron early Black Friday offers: Save on Motorola, Galaxy, and Pixel](https://mobilesyrup.com/2024/12/18/videotron-early-black-friday-deals/)
         
-        [](https://mobilesyrup.com/2024/12/16/bell-early-boxing-week/)
+        [](https://mobilesyrup.com/2024/12/18/rogers-plans-30-cheaper-boxing-week/)
         
-        Dec 16, 2024 | 3:36 PM EST
+        Dec 18, 2024 | 10:54 AM EST
         
-        ### [Bell early Boxing Week offers: $6/mo Galaxy S24, save up to $40/mo on internet](https://mobilesyrup.com/2024/12/16/bell-early-boxing-week/)
+        ### [Rogers plans just got up to $30/mo cheaper for Boxing Week](https://mobilesyrup.com/2024/12/18/rogers-plans-30-cheaper-boxing-week/)
         
-        [](https://mobilesyrup.com/2024/12/16/public-mobile-29-10gb-5g-canada-us-mexico/)
+        [](https://mobilesyrup.com/2024/12/18/bell-changes-plans-again-boxing-week/)
         
-        Dec 16, 2024 | 1:18 PM EST
+        Dec 18, 2024 | 9:50 AM EST
         
-        ### [Public Mobile’s $29/10GB 5G Canada/U.S./Mexico plan is back](https://mobilesyrup.com/2024/12/16/public-mobile-29-10gb-5g-canada-us-mexico/)
+        ### [Bell changes plans again, lowers prices by $10/mo](https://mobilesyrup.com/2024/12/18/bell-changes-plans-again-boxing-week/)
         
-        [](https://mobilesyrup.com/2024/12/16/fido-early-boxing-week-deals/)
+        [](https://mobilesyrup.com/2024/12/18/koodo-early-boxing-week-deals/)
         
-        Dec 16, 2024 | 10:53 AM EST
+        Dec 18, 2024 | 9:21 AM EST
         
-        ### [Fido early Boxing Week deals: $15/mo Galaxy S24, get a $39/100GB plan](https://mobilesyrup.com/2024/12/16/fido-early-boxing-week-deals/)
+        ### [Koodo early Boxing Week deals: $5/mo Galaxy S24 FE, $39/100GB plan](https://mobilesyrup.com/2024/12/18/koodo-early-boxing-week-deals/)
         
-        [](https://mobilesyrup.com/2024/12/13/ottawa-community-housing-free-wi-fi/)
+        [](https://mobilesyrup.com/2024/12/17/telus-early-boxing-week-deals-2/)
         
-        Dec 13, 2024 | 4:52 PM EST
+        Dec 17, 2024 | 12:22 PM EST
         
-        ### [Ottawa Community Housing introduces free Wi-Fi pilot project](https://mobilesyrup.com/2024/12/13/ottawa-community-housing-free-wi-fi/)
+        ### [Telus early Boxing Week deals: cheaper plans, $6/mo Galaxy S24](https://mobilesyrup.com/2024/12/17/telus-early-boxing-week-deals-2/)
         
-        [](https://mobilesyrup.com/2024/12/13/rogers-early-boxing-week-deals/)
+        [](https://mobilesyrup.com/2024/12/17/freedom-10-mo-discount-45-75gb-55-100gb-plans/)
         
-        Dec 13, 2024 | 11:43 AM EST
+        Dec 17, 2024 | 11:26 AM EST
         
-        ### [Rogers early Boxing Week deals: activate or upgrade for a chance to win NHL tickets](https://mobilesyrup.com/2024/12/13/rogers-early-boxing-week-deals/)
+        ### [Freedom offering $10/mo discount on $45/75GB, $55/100GB plans for six months](https://mobilesyrup.com/2024/12/17/freedom-10-mo-discount-45-75gb-55-100gb-plans/)
         
     * [Smartphones](https://mobilesyrup.com/categories/news/news-smartphones/)
+        
+        [](https://mobilesyrup.com/2024/12/18/oneplus-reveals-oneplus-13r-specs-and-release-date/)
+        
+        Dec 18, 2024 | 6:28 PM EST
+        
+        ### [OnePlus reveals OnePlus 13R specs and release date](https://mobilesyrup.com/2024/12/18/oneplus-reveals-oneplus-13r-specs-and-release-date/)
+        
+        [](https://mobilesyrup.com/2024/12/18/galaxy-s25-series-event-leaks-for-late-january/)
+        
+        Dec 18, 2024 | 2:51 PM EST
+        
+        ### [Galaxy S25 series event leaks for late January](https://mobilesyrup.com/2024/12/18/galaxy-s25-series-event-leaks-for-late-january/)
+        
+        [](https://mobilesyrup.com/2024/12/18/new-rumour-counteracts-existing-iphone-17-pro-camera-leaks/)
+        
+        Dec 18, 2024 | 12:10 PM EST
+        
+        ### [New rumour counteracts existing iPhone 17 Pro camera leaks](https://mobilesyrup.com/2024/12/18/new-rumour-counteracts-existing-iphone-17-pro-camera-leaks/)
         
         [](https://mobilesyrup.com/2024/12/12/pixel-9a-leak-specs/)
         
@@ -186,24 +204,6 @@
         Dec 11, 2024 | 6:01 PM EST
         
         ### [Latest Pixels can run without battery power, and use AC power directly](https://mobilesyrup.com/2024/12/11/pixel-ac-power-only/)
-        
-        [](https://mobilesyrup.com/2024/12/06/apples-iphone-modem-is-almost-ready-for-prime-time/)
-        
-        Dec 6, 2024 | 3:57 PM EST
-        
-        ### [Apple’s iPhone modem is almost ready for prime time](https://mobilesyrup.com/2024/12/06/apples-iphone-modem-is-almost-ready-for-prime-time/)
-        
-        [](https://mobilesyrup.com/2024/12/06/google-pixel-6-7-fold-two-extra-years-software-upgrades/)
-        
-        Dec 6, 2024 | 10:50 AM EST
-        
-        ### [Pixel 6, 7 series get an extra two years of software upgrades](https://mobilesyrup.com/2024/12/06/google-pixel-6-7-fold-two-extra-years-software-upgrades/)
-        
-        [](https://mobilesyrup.com/2024/12/05/samsung-galaxy-s24-one-ui-7/)
-        
-        Dec 5, 2024 | 3:25 PM EST
-        
-        ### [Samsung One UI 7 beta launches, but not for Canadians](https://mobilesyrup.com/2024/12/05/samsung-galaxy-s24-one-ui-7/)
         
     * [Tablets & Computers](https://mobilesyrup.com/categories/news/news-tablets/)
         
@@ -321,6 +321,12 @@
         
     * [Automotive](https://mobilesyrup.com/categories/news/news-automotive/)
         
+        [](https://mobilesyrup.com/2024/12/17/tesla-overwhelmed-with-faulty-self-driving-computer-problems/)
+        
+        Dec 17, 2024 | 4:47 PM EST
+        
+        ### [Tesla overwhelmed with faulty self-driving computer problems](https://mobilesyrup.com/2024/12/17/tesla-overwhelmed-with-faulty-self-driving-computer-problems/)
+        
         [](https://mobilesyrup.com/2024/12/06/the-pope-will-be-riding-in-an-ev-popemobile/)
         
         Dec 6, 2024 | 2:56 PM EST
@@ -351,13 +357,13 @@
         
         ### [This aftermarket tech lets you re-add CarPlay to some GM models](https://mobilesyrup.com/2024/11/27/this-aftermarket-tech-lets-you-re-add-carplay-to-some-gm-models/)
         
-        [](https://mobilesyrup.com/2024/11/26/federal-government-fund-research-development-zero-emission-vehicles/)
-        
-        Nov 26, 2024 | 7:06 PM EST
-        
-        ### [Federal government to fund research and development of zero-emission vehicles](https://mobilesyrup.com/2024/11/26/federal-government-fund-research-development-zero-emission-vehicles/)
-        
     * [Accessories](https://mobilesyrup.com/categories/news/news-accessories/)
+        
+        [](https://mobilesyrup.com/2024/12/17/apple-rumours-new-magic-mouse-foldable-ipad/)
+        
+        Dec 17, 2024 | 2:07 PM EST
+        
+        ### [Latest Apple rumours point towards new Magic Mouse and foldable iPad](https://mobilesyrup.com/2024/12/17/apple-rumours-new-magic-mouse-foldable-ipad/)
         
         [](https://mobilesyrup.com/2024/12/16/air-canada-to-support-apple-find-my-sharing-for-lost-luggage/)
         
@@ -389,13 +395,19 @@
         
         ### [My favourite MagSafe charger has gotten better](https://mobilesyrup.com/2024/12/01/my-favourite-magsafe-charger-has-gotten-better/)
         
-        [](https://mobilesyrup.com/2024/11/26/new-dji-mic-mini-super-tiny-great-price/)
-        
-        Nov 26, 2024 | 8:03 PM EST
-        
-        ### [New DJI Mic Mini eschews some features, but is super tiny wit a great price](https://mobilesyrup.com/2024/11/26/new-dji-mic-mini-super-tiny-great-price/)
-        
     * [Streaming](https://mobilesyrup.com/categories/news/news-streaming/)
+        
+        [](https://mobilesyrup.com/2024/12/18/seth-rogen-evan-goldberg-point-grey-pictures-bell-original-series/)
+        
+        Dec 18, 2024 | 4:29 PM EST
+        
+        ### [Seth Rogen and Evan Goldberg are making an original series for Bell](https://mobilesyrup.com/2024/12/18/seth-rogen-evan-goldberg-point-grey-pictures-bell-original-series/)
+        
+        [](https://mobilesyrup.com/2024/12/18/28-days-later-is-coming-to-pvod-december-18/)
+        
+        Dec 18, 2024 | 11:35 AM EST
+        
+        ### [How to watch 28 Days Later and 28 Weeks Later in Canada](https://mobilesyrup.com/2024/12/18/28-days-later-is-coming-to-pvod-december-18/)
         
         [](https://mobilesyrup.com/2024/12/16/malcolm-in-the-middle-coming-back-for-a-4-episode-run-on-disney/)
         
@@ -421,19 +433,13 @@
         
         ### [Drake in his feelings, accuses Universal of artificially boosting Kendrick Lamar’s diss track](https://mobilesyrup.com/2024/11/26/drake-in-his-feelings-accuses-universal-of-artificially-boosting-kendrick-lamars-diss-track/)
         
-        [](https://mobilesyrup.com/2024/11/15/solo-leveling-reawakening-december-6/)
-        
-        Nov 15, 2024 | 9:54 AM EST
-        
-        ### [Solo Leveling – ReAwakening – hits theatres on December 6](https://mobilesyrup.com/2024/11/15/solo-leveling-reawakening-december-6/)
-        
-        [](https://mobilesyrup.com/2024/11/14/mythic-quest-season-4-apple-tv-plus-january-2025/)
-        
-        Nov 14, 2024 | 12:29 PM EST
-        
-        ### [Mythic Quest Season 4 hits Apple TV+ in 2025, spin-off in March](https://mobilesyrup.com/2024/11/14/mythic-quest-season-4-apple-tv-plus-january-2025/)
-        
     * [AI](https://mobilesyrup.com/categories/news/news-ai/)
+        
+        [](https://mobilesyrup.com/2024/12/18/chatgpt-search-free-users-rollout/)
+        
+        Dec 18, 2024 | 1:16 PM EST
+        
+        ### [ChatGPT search begins rolling out to all free users](https://mobilesyrup.com/2024/12/18/chatgpt-search-free-users-rollout/)
         
         [](https://mobilesyrup.com/2024/12/12/google-android-xr/)
         
@@ -465,49 +471,43 @@
         
         ### [The AI video creation tool from the makers of ChatGPT is here](https://mobilesyrup.com/2024/12/09/the-ai-video-creation-tool-from-the-makers-of-chatgpt-is-here/)
         
-        [](https://mobilesyrup.com/2024/12/09/reddit-launches-ai-search-tool-to-compete-with-google/)
-        
-        Dec 9, 2024 | 2:53 PM EST
-        
-        ### [Reddit launches AI search tool to compete with Google](https://mobilesyrup.com/2024/12/09/reddit-launches-ai-search-tool-to-compete-with-google/)
-        
     * [Deals](https://mobilesyrup.com/categories/deals/)
         
-        [](https://mobilesyrup.com/2024/12/16/virgin-plus-early-boxing-week-deals/)
+        [](https://mobilesyrup.com/2024/12/18/videotron-early-black-friday-deals/)
         
-        Dec 16, 2024 | 5:09 PM EST
+        Dec 18, 2024 | 5:23 PM EST
         
-        ### [Virgin Plus early Boxing Week deals: Save on Galaxy S24 and home internet](https://mobilesyrup.com/2024/12/16/virgin-plus-early-boxing-week-deals/)
+        ### [Videotron early Black Friday offers: Save on Motorola, Galaxy, and Pixel](https://mobilesyrup.com/2024/12/18/videotron-early-black-friday-deals/)
         
-        [](https://mobilesyrup.com/2024/12/16/bell-early-boxing-week/)
+        [](https://mobilesyrup.com/2024/12/18/rogers-plans-30-cheaper-boxing-week/)
         
-        Dec 16, 2024 | 3:36 PM EST
+        Dec 18, 2024 | 10:54 AM EST
         
-        ### [Bell early Boxing Week offers: $6/mo Galaxy S24, save up to $40/mo on internet](https://mobilesyrup.com/2024/12/16/bell-early-boxing-week/)
+        ### [Rogers plans just got up to $30/mo cheaper for Boxing Week](https://mobilesyrup.com/2024/12/18/rogers-plans-30-cheaper-boxing-week/)
         
-        [](https://mobilesyrup.com/2024/12/16/public-mobile-29-10gb-5g-canada-us-mexico/)
+        [](https://mobilesyrup.com/2024/12/18/koodo-early-boxing-week-deals/)
         
-        Dec 16, 2024 | 1:18 PM EST
+        Dec 18, 2024 | 9:21 AM EST
         
-        ### [Public Mobile’s $29/10GB 5G Canada/U.S./Mexico plan is back](https://mobilesyrup.com/2024/12/16/public-mobile-29-10gb-5g-canada-us-mexico/)
+        ### [Koodo early Boxing Week deals: $5/mo Galaxy S24 FE, $39/100GB plan](https://mobilesyrup.com/2024/12/18/koodo-early-boxing-week-deals/)
         
-        [](https://mobilesyrup.com/2024/12/16/fido-early-boxing-week-deals/)
+        [](https://mobilesyrup.com/2024/12/17/telus-early-boxing-week-deals-2/)
         
-        Dec 16, 2024 | 10:53 AM EST
+        Dec 17, 2024 | 12:22 PM EST
         
-        ### [Fido early Boxing Week deals: $15/mo Galaxy S24, get a $39/100GB plan](https://mobilesyrup.com/2024/12/16/fido-early-boxing-week-deals/)
+        ### [Telus early Boxing Week deals: cheaper plans, $6/mo Galaxy S24](https://mobilesyrup.com/2024/12/17/telus-early-boxing-week-deals-2/)
         
-        [](https://mobilesyrup.com/2024/12/13/playstation-game-awards-sale-discounts-balatro-dragons-dogma-2-and-more/)
+        [](https://mobilesyrup.com/2024/12/17/freedom-10-mo-discount-45-75gb-55-100gb-plans/)
         
-        Dec 13, 2024 | 1:48 PM EST
+        Dec 17, 2024 | 11:26 AM EST
         
-        ### [PlayStation Game Awards sale discounts Balatro, Dragon’s Dogma 2 and more](https://mobilesyrup.com/2024/12/13/playstation-game-awards-sale-discounts-balatro-dragons-dogma-2-and-more/)
+        ### [Freedom offering $10/mo discount on $45/75GB, $55/100GB plans for six months](https://mobilesyrup.com/2024/12/17/freedom-10-mo-discount-45-75gb-55-100gb-plans/)
         
-        [](https://mobilesyrup.com/2024/12/13/google-shares-boxing-week-deals-on-pixel-phones-and-more/)
+        [](https://mobilesyrup.com/2024/12/17/bell-launches-39-50gb-5g-add-a-line-plan/)
         
-        Dec 13, 2024 | 12:35 PM EST
+        Dec 17, 2024 | 10:18 AM EST
         
-        ### [Google shares Boxing Week deals on Pixel phones and more](https://mobilesyrup.com/2024/12/13/google-shares-boxing-week-deals-on-pixel-phones-and-more/)
+        ### [Bell removes $39/50GB 5G add-a-line plan \[Update\]](https://mobilesyrup.com/2024/12/17/bell-launches-39-50gb-5g-add-a-line-plan/)
         
     
 * [Reviews](https://mobilesyrup.com/categories/reviews/)
@@ -817,6 +817,18 @@
     
 * [Features](https://mobilesyrup.com/categories/features/)
     
+    [](https://mobilesyrup.com/2024/12/18/final-fantasy-vii-rebirth-yoshinori-kitase-naoki-hamaguchi-interview/)
+    
+    Dec 18, 2024 | 3:52 PM EST
+    
+    ### [Final Fantasy VII Rebirth creators on trauma, open-world design and 2024’s catchiest song](https://mobilesyrup.com/2024/12/18/final-fantasy-vii-rebirth-yoshinori-kitase-naoki-hamaguchi-interview/)
+    
+    [](https://mobilesyrup.com/2024/12/17/annapurna-interactive-2025-game-preview/)
+    
+    Dec 17, 2024 | 3:54 PM EST
+    
+    ### [Annapurna Interactive has a strong 2025 lineup, including Katamari Damacy creator’s new game](https://mobilesyrup.com/2024/12/17/annapurna-interactive-2025-game-preview/)
+    
     [](https://mobilesyrup.com/2024/12/15/best-smartphones-in-canada-2024-edition/)
     
     Dec 15, 2024 | 10:57 AM EST
@@ -840,18 +852,6 @@
     Dec 7, 2024 | 11:03 AM EST
     
     ### [Montreal’s Acrylic Robotics mixes paint and robots to produce fine art](https://mobilesyrup.com/2024/12/07/montreal-acrylic-robotics-painting/)
-    
-    [](https://mobilesyrup.com/2024/11/30/star-wars-knights-of-the-old-republic-ii-the-sith-lords-20th-anniversary-editorial/)
-    
-    Nov 30, 2024 | 2:31 PM EST
-    
-    ### [20 years later, Knights of the Old Republic II remains the most fascinating Star Wars story](https://mobilesyrup.com/2024/11/30/star-wars-knights-of-the-old-republic-ii-the-sith-lords-20th-anniversary-editorial/)
-    
-    [](https://mobilesyrup.com/2024/11/23/the-game-awards-2024-honourable-mentions-1000xresist-lil-guardsman-mouthwashing/)
-    
-    Nov 23, 2024 | 2:27 PM EST
-    
-    ### [These games didn’t get Game Awards nominations, but they absolutely deserve recognition](https://mobilesyrup.com/2024/11/23/the-game-awards-2024-honourable-mentions-1000xresist-lil-guardsman-mouthwashing/)
     
     * [Carriers](https://mobilesyrup.com/categories/features/features-carriers/)
         
@@ -969,6 +969,18 @@
         
     * [General](https://mobilesyrup.com/categories/features/features-general/)
         
+        [](https://mobilesyrup.com/2024/12/18/final-fantasy-vii-rebirth-yoshinori-kitase-naoki-hamaguchi-interview/)
+        
+        Dec 18, 2024 | 3:52 PM EST
+        
+        ### [Final Fantasy VII Rebirth creators on trauma, open-world design and 2024’s catchiest song](https://mobilesyrup.com/2024/12/18/final-fantasy-vii-rebirth-yoshinori-kitase-naoki-hamaguchi-interview/)
+        
+        [](https://mobilesyrup.com/2024/12/17/annapurna-interactive-2025-game-preview/)
+        
+        Dec 17, 2024 | 3:54 PM EST
+        
+        ### [Annapurna Interactive has a strong 2025 lineup, including Katamari Damacy creator’s new game](https://mobilesyrup.com/2024/12/17/annapurna-interactive-2025-game-preview/)
+        
         [](https://mobilesyrup.com/2024/12/07/montreal-acrylic-robotics-painting/)
         
         Dec 7, 2024 | 11:03 AM EST
@@ -992,18 +1004,6 @@
         Nov 22, 2024 | 11:20 AM EST
         
         ### [ESA Canada boss on 2024 gaming highlights, potential Trump impact on Canadian industry](https://mobilesyrup.com/2024/11/22/entertainment-software-association-of-canada-president-ceo-paul-fogolin-interview-2024-highlights-trump-impact/)
-        
-        [](https://mobilesyrup.com/2024/11/21/lego-horizon-adventures-guerrilla-games-studio-gobo-interview/)
-        
-        Nov 21, 2024 | 11:27 AM EST
-        
-        ### [Guerrilla Games and Studio Gobo on the making of Lego Horizon Adventures](https://mobilesyrup.com/2024/11/21/lego-horizon-adventures-guerrilla-games-studio-gobo-interview/)
-        
-        [](https://mobilesyrup.com/2024/11/21/obsidian-avowed-xbox-pc-accessibility-interview/)
-        
-        Nov 21, 2024 | 9:00 AM EST
-        
-        ### [How Obsidian is making Avowed more welcoming for everyone](https://mobilesyrup.com/2024/11/21/obsidian-avowed-xbox-pc-accessibility-interview/)
         
     
 * [Resources](https://mobilesyrup.com/categories/resources/)
@@ -1354,6 +1354,18 @@
     
 * [Streaming](https://mobilesyrup.com/categories/streaming/)
     
+    [](https://mobilesyrup.com/2024/12/18/seth-rogen-evan-goldberg-point-grey-pictures-bell-original-series/)
+    
+    Dec 18, 2024 | 4:29 PM EST
+    
+    ### [Seth Rogen and Evan Goldberg are making an original series for Bell](https://mobilesyrup.com/2024/12/18/seth-rogen-evan-goldberg-point-grey-pictures-bell-original-series/)
+    
+    [](https://mobilesyrup.com/2024/12/18/28-days-later-is-coming-to-pvod-december-18/)
+    
+    Dec 18, 2024 | 11:35 AM EST
+    
+    ### [How to watch 28 Days Later and 28 Weeks Later in Canada](https://mobilesyrup.com/2024/12/18/28-days-later-is-coming-to-pvod-december-18/)
+    
     [](https://mobilesyrup.com/2024/12/13/solo-leveling-aleks-le/)
     
     Dec 13, 2024 | 5:42 PM EST
@@ -1378,19 +1390,19 @@
     
     ### [Apple TV+ is now available on Prime Video in Canada](https://mobilesyrup.com/2024/12/05/apple-tv-plus-prime-video-canada/)
     
-    [](https://mobilesyrup.com/2024/11/28/new-on-prime-video-canada-december-2024/)
-    
-    Nov 28, 2024 | 1:02 PM EST
-    
-    ### [New on Prime Video Canada: December 2024](https://mobilesyrup.com/2024/11/28/new-on-prime-video-canada-december-2024/)
-    
-    [](https://mobilesyrup.com/2024/11/26/paramount-plus-canada-december-2024/)
-    
-    Nov 26, 2024 | 5:27 PM EST
-    
-    ### [New on Paramount+ Canada: December 2024](https://mobilesyrup.com/2024/11/26/paramount-plus-canada-december-2024/)
-    
     * [Streaming](https://mobilesyrup.com/categories/streaming/)
+        
+        [](https://mobilesyrup.com/2024/12/18/seth-rogen-evan-goldberg-point-grey-pictures-bell-original-series/)
+        
+        Dec 18, 2024 | 4:29 PM EST
+        
+        ### [Seth Rogen and Evan Goldberg are making an original series for Bell](https://mobilesyrup.com/2024/12/18/seth-rogen-evan-goldberg-point-grey-pictures-bell-original-series/)
+        
+        [](https://mobilesyrup.com/2024/12/18/28-days-later-is-coming-to-pvod-december-18/)
+        
+        Dec 18, 2024 | 11:35 AM EST
+        
+        ### [How to watch 28 Days Later and 28 Weeks Later in Canada](https://mobilesyrup.com/2024/12/18/28-days-later-is-coming-to-pvod-december-18/)
         
         [](https://mobilesyrup.com/2024/12/13/solo-leveling-aleks-le/)
         
@@ -1415,18 +1427,6 @@
         Dec 5, 2024 | 9:00 AM EST
         
         ### [Apple TV+ is now available on Prime Video in Canada](https://mobilesyrup.com/2024/12/05/apple-tv-plus-prime-video-canada/)
-        
-        [](https://mobilesyrup.com/2024/11/28/new-on-prime-video-canada-december-2024/)
-        
-        Nov 28, 2024 | 1:02 PM EST
-        
-        ### [New on Prime Video Canada: December 2024](https://mobilesyrup.com/2024/11/28/new-on-prime-video-canada-december-2024/)
-        
-        [](https://mobilesyrup.com/2024/11/26/paramount-plus-canada-december-2024/)
-        
-        Nov 26, 2024 | 5:27 PM EST
-        
-        ### [New on Paramount+ Canada: December 2024](https://mobilesyrup.com/2024/11/26/paramount-plus-canada-december-2024/)
         
     
 * [Videos](https://mobilesyrup.com/videos/)
