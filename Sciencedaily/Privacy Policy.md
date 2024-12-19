@@ -208,16 +208,16 @@ this hour
 
 * * *
 
-* [How to Print a Car](https://www.sciencedaily.com/releases/2024/12/241217201520.htm)
-* [Redefining Magnetism](https://www.sciencedaily.com/releases/2024/12/241217131006.htm)
-* [Taxi Drivers: Lower Death Rates from Alzheimer's](https://www.sciencedaily.com/releases/2024/12/241216184729.htm)
-* [Prehistoric Rock and Ocean Anoxic Event](https://www.sciencedaily.com/releases/2024/12/241217141022.htm)
-* [Physicists 'Bootstrap' Validity of String Theory](https://www.sciencedaily.com/releases/2024/12/241217141004.htm)
-* [Binary Star Found Near Milky Way's Black Hole](https://www.sciencedaily.com/releases/2024/12/241217130904.htm)
-* [New Neurons That Suppress Food Intake](https://www.sciencedaily.com/releases/2024/12/241205143009.htm)
-* [Exoplanet Trappist-1 B: Atmosphere?](https://www.sciencedaily.com/releases/2024/12/241216130034.htm)
-* [Naughty or Nice? Many Parents Rely On Threats](https://www.sciencedaily.com/releases/2024/12/241216130304.htm)
-* [Violence of the Early Bronze Age](https://www.sciencedaily.com/releases/2024/12/241216000434.htm)
+* [Extinction of Dinosaurs: Not Volcanic Eruptions](https://www.sciencedaily.com/releases/2024/12/241218174832.htm)
+* [What Music Sounded Like Five Centuries Ago](https://www.sciencedaily.com/releases/2024/12/241218132158.htm)
+* [Supermassive Black Holes Halt Rapid Construction](https://www.sciencedaily.com/releases/2024/12/241218131733.htm)
+* [Microplastics in the Air: Lung and Colon Cancers](https://www.sciencedaily.com/releases/2024/12/241218131725.htm)
+* [Unique Asteroid-Comet Hybrid](https://www.sciencedaily.com/releases/2024/12/241218131526.htm)
+* [Extreme Stellar Behavior](https://www.sciencedaily.com/releases/2024/12/241218131523.htm)
+* [Massive Black Hole in the Early Universe](https://www.sciencedaily.com/releases/2024/12/241218131514.htm)
+* [Swarms of 'Ant-Like' Robots Lift Heavy Objects](https://www.sciencedaily.com/releases/2024/12/241218131354.htm)
+* [Carnivorous Squirrels Documented in California](https://www.sciencedaily.com/releases/2024/12/241218132149.htm)
+* [Syphilis Had Its Roots in the Americas](https://www.sciencedaily.com/releases/2024/12/241218131313.htm)
 
 Trending Topics
 ---------------
@@ -228,25 +228,25 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Patient Education and Counseling](https://www.sciencedaily.com/news/health_medicine/patient_education_and_counseling/)
-
 [Genes](https://www.sciencedaily.com/news/health_medicine/genes/)
 
-[Breast Cancer](https://www.sciencedaily.com/news/health_medicine/breast_cancer/)
+[Patient Education and Counseling](https://www.sciencedaily.com/news/health_medicine/patient_education_and_counseling/)
+
+[Prostate Cancer](https://www.sciencedaily.com/news/health_medicine/prostate_cancer/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
+[Black Holes](https://www.sciencedaily.com/news/space_time/black_holes/)
+
 [Detectors](https://www.sciencedaily.com/news/matter_energy/detectors/)
 
-[Educational Technology](https://www.sciencedaily.com/news/computers_math/educational_technology/)
-
-[Photography](https://www.sciencedaily.com/news/computers_math/photography/)
+[Nature of Water](https://www.sciencedaily.com/news/matter_energy/nature_of_water/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
 [Fish](https://www.sciencedaily.com/news/plants_animals/fish/)
 
-[Pollution](https://www.sciencedaily.com/news/earth_climate/pollution/)
+[Bacteria](https://www.sciencedaily.com/news/plants_animals/bacteria/)
 
 [Marine Biology](https://www.sciencedaily.com/news/plants_animals/marine_biology/)
 
