@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/wetenschap-van-liefde/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/conferentie-in-maleisie-over-mh17-rechtvaardigheid/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
