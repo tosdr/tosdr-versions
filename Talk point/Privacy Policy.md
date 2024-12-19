@@ -249,7 +249,6 @@ Empfehlungen für dich
         * [Fahrräder, E-Bikes und Zubehör](https://talk-point.de/collections/fahrrader-e-bikes-und-zubehor)
         * [E-Scooter](https://talk-point.de/collections/e-scooter)
         * [Grillen](https://talk-point.de/collections/grills-grillzubehor)
-        * [Spielzeug](https://talk-point.de/collections/spielzeug)
         * [Sonnenbrillen](https://talk-point.de/collections/sonnenbrillen)
     * [Photovoltaik](https://talk-point.de/collections/solartechnik)
         
@@ -534,7 +533,6 @@ Empfehlungen für dich
         * [Fahrräder, E-Bikes und Zubehör](https://talk-point.de/collections/fahrrader-e-bikes-und-zubehor)
         * [E-Scooter](https://talk-point.de/collections/e-scooter)
         * [Grillen](https://talk-point.de/collections/grills-grillzubehor)
-        * [Spielzeug](https://talk-point.de/collections/spielzeug)
         * [Sonnenbrillen](https://talk-point.de/collections/sonnenbrillen)
     * [Photovoltaik](https://talk-point.de/collections/solartechnik)
         
