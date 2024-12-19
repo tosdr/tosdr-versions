@@ -1,5 +1,9 @@
 [Skip to Content](#mainContent)
 
+Alert
+
+**Site maintenance** Hansard records (1856-1999) will be intermittently available on December 19 and 20.
+
 Main menu
 
 [Parliament of Victoria](https://parliament.vic.gov.au/)
