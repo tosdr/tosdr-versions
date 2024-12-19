@@ -1,10 +1,10 @@
 [Skip to main content](#main-content)
 
-[HUGE Holiday Savings! Up to 50% off now thru 12/31/24](https://www.everythingtrackandfield.com/shop-now/)
+[HUGE Holiday Savings! Up to 50% off now thru 12/31/24](https://www.everythingtrackandfield.com/categories/on-sale/)
 
 [TRACK & FIELD season is here! We have the equipment you need.](https://www.everythingtrackandfield.com/categories/best-sellers/)
 
-* [Shop](https://www.everythingtrackandfield.com/categories/all-products/)
+* [Shop](https://www.everythingtrackandfield.com/shop-all/)
 * [Camps and Clinics](https://www.everythingtrackandfield.com/track-camps-clinics-and-clubs/)
 * [Training Zone](https://www.everythingtrackandfield.com/training-zone/)
 * [About Us](https://www.everythingtrackandfield.com/about-us/)
@@ -43,9 +43,9 @@ $000.00
 
 [![M-F Athletic](https://cdn11.bigcommerce.com/s-qh8opzgoqs/images/stencil/original/dd-logo_1733967856__84732.original.png "M-F Athletic")](https://www.everythingtrackandfield.com/)
 
-* [ALL PRODUCTS](https://www.everythingtrackandfield.com/shop-now/)
+* [ALL PRODUCTS](https://www.everythingtrackandfield.com/shop-all/)
     
-    * [All ALL PRODUCTS](https://www.everythingtrackandfield.com/shop-now/)
+    * [All ALL PRODUCTS](https://www.everythingtrackandfield.com/shop-all/)
     * [Pole Vault](https://www.everythingtrackandfield.com/categories/pole-vault/)
     * [High Jump](https://www.everythingtrackandfield.com/categories/high-jump/)
     * [Long Jump and Triple Jump](https://www.everythingtrackandfield.com/categories/long-jump-triple-jump/)
@@ -137,8 +137,9 @@ Cranston, RI 02920
 ### Extras
 
 * [Print Catalog Request](https://www.everythingtrackandfield.com/print-catalog-request/)
-* [Gift Certificates](https://www.everythingtrackandfield.com/giftcertificates.php)
+* [Our Virtual Catalog](https://online.flippingbook.com/view/786969014/)
 * [Camps,Clubs, and Clinics](https://www.everythingtrackandfield.com/track-camps-clinics-and-clubs/)
+* [Gift Certificates](https://www.everythingtrackandfield.com/giftcertificates.php)
 
 ### Newsletter Sign Up
 
