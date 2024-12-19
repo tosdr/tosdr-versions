@@ -6,7 +6,7 @@
 
 Active Players
 
-1 , 0 7 6 , 2 9 9
+1 , 0 7 6 , 3 1 5
 
 * [Play](#)
     
@@ -16,7 +16,7 @@ Active Players
     
     Free Giveaways
     
-    [PipeFlare Giveaway](https://bit.ly/pipeflaregiveaway) [Mega MAGA Giveaway](https://gleam.io/et88I/550-mega-maga-x-pipeflare-giveaway)
+    [PipeFlare Giveaway](https://bit.ly/pipeflaregiveaway)
     
     My Free Spin
     
@@ -91,9 +91,9 @@ Upcoming
 
 DAY 4
 
-![Bonus Claim](https://statics.pipeflare.io/assets/pages/layout/daily_rewards/login/day4.png)
+![Bonus Claim](https://statics.pipeflare.io/assets/pages/layout/daily_rewards/login/day6.png)
 
-1 Mystery Egg
+500 2FLR
 
 Upcoming
 
@@ -127,9 +127,9 @@ DAY 7
 
 2000 2FLR
 
-![Bonus Claim](https://statics.pipeflare.io/assets/pages/layout/daily_rewards/login/day4.png)
+![Bonus Claim](https://statics.pipeflare.io/assets/pages/layout/daily_rewards/login/day6.png)
 
-2 Mystery Eggs
+1000 2FLR
 
 Upcoming
 
@@ -147,7 +147,7 @@ If you can't find the email, check your Spam folder
 
 ![verify your email](https://statics.pipeflare.io/assets/images/modals/email_verify.png)
 
-If you have not received an email [Please Click Here](https://pipeflare.io/auth/resend-activation-email?_t=1734578197) to resend activation email.
+If you have not received an email [Please Click Here](https://pipeflare.io/auth/resend-activation-email?_t=1734599257) to resend activation email.
 
 OK
 
@@ -305,7 +305,7 @@ If you can't find the email, check your Spam folder
 
 ![verify your email](https://statics.pipeflare.io/assets/images/modals/email_verify.png)
 
-If you have not received an email [Please Click Here](https://pipeflare.io/auth/resend-activation-email?_t=1734578197) to resend activation email.
+If you have not received an email [Please Click Here](https://pipeflare.io/auth/resend-activation-email?_t=1734599257) to resend activation email.
 
 OK
 
@@ -413,9 +413,9 @@ Upcoming
 
 DAY 4
 
-![Bonus Claim](https://statics.pipeflare.io/assets/pages/layout/daily_rewards/login/day4.png)
+![Bonus Claim](https://statics.pipeflare.io/assets/pages/layout/daily_rewards/login/day6.png)
 
-1 Mystery Egg
+500 2FLR
 
 Upcoming
 
@@ -449,9 +449,9 @@ DAY 7
 
 2000 2FLR
 
-![Bonus Claim](https://statics.pipeflare.io/assets/pages/layout/daily_rewards/login/day4.png)
+![Bonus Claim](https://statics.pipeflare.io/assets/pages/layout/daily_rewards/login/day6.png)
 
-2 Mystery Eggs
+1000 2FLR
 
 Upcoming
 
@@ -1170,7 +1170,7 @@ sale
 
 ![1FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr1_2.png)
 
-x 275000
+x 265000
 
 ![2FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr2_2.png)
 
@@ -1199,7 +1199,7 @@ sale
 
 ![1FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr1_2.png)
 
-x 450000
+x 435000
 
 ![2FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr2_2.png)
 
@@ -1235,7 +1235,7 @@ sale
 
 ![1FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr1_2.png)
 
-x 275000
+x 265000
 
 ![2FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr2_2.png)
 
@@ -1264,7 +1264,7 @@ sale
 
 ![1FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr1_2.png)
 
-x 450000
+x 435000
 
 ![2FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr2_2.png)
 
