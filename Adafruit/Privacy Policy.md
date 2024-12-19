@@ -1,6 +1,6 @@
 Due to high demand USPS orders may not ship for up to 3-4 business days.
 
-🎁📦🚚 [Holiday Shipping](https://www.adafruit.com/Holiday): LAST CHANCE! Place UPS NEXT Day orders by 11 am ET Thursday, December 18🎄⛄❄️
+🎁📦🚚 [Holiday Shipping](https://www.adafruit.com/Holiday): LAST CHANCE! Place UPS NEXT Day orders by 11 am ET Thursday, December 19🎄⛄❄️
 
 Glitch your gift list! Use code [gibson15](https://blog.adafruit.com/2024/12/09/gibson15/) for 15% off the [2024 Adafruit Holiday Gift Guide](https://www.adafruit.com/explore/holiday-gift-guide-2024)!
 
@@ -81,21 +81,21 @@ Search
     
     New Products[view all](https://www.adafruit.com/new)
     
-    ![Angled shot of panel mount USB-A to 2 wire cable.](https://cdn-shop.adafruit.com/310x233/6072-01.jpg)[Snap-In Panel Mount Cable - USB-A Socket to 2 Wires
+    ![Demo Video of the Adafruit 1.14" 240x135 Color Newxie TFT Display.](https://cdn-shop.adafruit.com/product-videos/320x240/6113-04.jpg)[Adafruit 1.14" 240x135 Color Newxie TFT Display
     
-    $2.50](https://www.adafruit.com/product/6072)
+    $9.95](https://www.adafruit.com/product/6113)
     
-    ![Angled shot of snap-in, USB-A panel mount cable with four wires.](https://cdn-shop.adafruit.com/310x233/6073-04.jpg)[Snap-In Panel Mount Cable - USB Type A Socket to 4 Wires
+    ![Angled shot of sewable USB-C connector cable.](https://cdn-shop.adafruit.com/310x233/6077-00.jpg)[Sewable USB Type C Power Jack Connector
     
-    $2.50](https://www.adafruit.com/product/6073)
+    $2.50](https://www.adafruit.com/product/6077)
     
-    ![Angled shot of a screw mount USB-C to 4-pin JST PH adapter cable.](https://cdn-shop.adafruit.com/310x233/6071-02.jpg)[USB-C Screw Panel Mount to 4pin JST PH Cable
+    ![Angled shot of sewable USB micro B connector cable.](https://cdn-shop.adafruit.com/310x233/6076-01.jpg)[Sewable USB Micro B Power Jack Connector
     
-    $2.50](https://www.adafruit.com/product/6071)
+    $2.50](https://www.adafruit.com/product/6076)
     
-    ![Angled shot of a panel mount TF socket cable.](https://cdn-shop.adafruit.com/310x233/6070-01.jpg)[Round Panel Mount Micro SD Card Extender
+    ![Angled shot of sewable DC jack connector with black and red wires.](https://cdn-shop.adafruit.com/310x233/6075-00.jpg)[Sewable Connector with 5.5/2.1mm DC Jack
     
-    $9.50](https://www.adafruit.com/product/6070)
+    $2.50](https://www.adafruit.com/product/6075)
     
     Featured Products[view all](https://www.adafruit.com/featured)
     
@@ -410,9 +410,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Any path that narrows future possibilities may become a lethal trap”
+“ Do what you can, with what you have, where you are”
 
-[The Spacing Guild Handbook](http://en.wikiquote.org/wiki/Dune)
+[Theodore Roosevelt](https://en.wikipedia.org/wiki/Theodore_Roosevelt)
 
 [](https://www.adafruit.com/about)
 
