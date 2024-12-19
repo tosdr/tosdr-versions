@@ -117,57 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Fast, Accurate & Easy to Use
-> ----------------------------
+> One of the best decisions I've made for my business
+> ---------------------------------------------------
 > 
-> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
+> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
 
-Jannie Schutte - myFinance-Online.co.za
+Anri van der Linde
 
-![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=d2081bd1f3707d8788e3cb8785ebc452c9470e07be95484884662c15f4ecfdd6&c=81904811)  
-Website Café (PTY) LTD
+![valued client FLIPS AUTO ELECTRICAL ](https://www.invoicesonline.co.za/scripts/image.php?bid=8725&file=logo_300_100&type=&fe=b3c920d1f53389991d7fb19f44483438170076a377faf6da6f44a4fe9e9c3258&c=77906199)  
+FLIPS AUTO ELECTRICAL
 
-![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=d2081bd1f3707d8788e3cb8785ebc452c9470e07be95484884662c15f4ecfdd6&c=80204404)  
-Echo Recording Studio cc
+![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=b3c920d1f53389991d7fb19f44483438170076a377faf6da6f44a4fe9e9c3258&c=29407386)  
+Repairs In Motion
 
-![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=d2081bd1f3707d8788e3cb8785ebc452c9470e07be95484884662c15f4ecfdd6&c=198381239)  
-Prosper Park
+![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=b3c920d1f53389991d7fb19f44483438170076a377faf6da6f44a4fe9e9c3258&c=18027430)  
+IYD
 
-![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=d2081bd1f3707d8788e3cb8785ebc452c9470e07be95484884662c15f4ecfdd6&c=9137229)  
-BD Maintenance
+![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=b3c920d1f53389991d7fb19f44483438170076a377faf6da6f44a4fe9e9c3258&c=199589490)  
+Brilliant Roof Products
 
-![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=d2081bd1f3707d8788e3cb8785ebc452c9470e07be95484884662c15f4ecfdd6&c=100639147)  
-Lindani Protection Services & Projects
+![valued client FlipDesign - Renovation Contracting Firm](https://www.invoicesonline.co.za/scripts/image.php?bid=8663&file=logo_300_100&type=&fe=b3c920d1f53389991d7fb19f44483438170076a377faf6da6f44a4fe9e9c3258&c=123291911)  
+FlipDesign - Renovation Contracting Firm
 
-![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=d2081bd1f3707d8788e3cb8785ebc452c9470e07be95484884662c15f4ecfdd6&c=78470657)  
-Forgotten Goods (Pty) Ltd
+![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=b3c920d1f53389991d7fb19f44483438170076a377faf6da6f44a4fe9e9c3258&c=60631835)  
+One2b
 
-![valued client Fox Alarms & Security CC](https://www.invoicesonline.co.za/scripts/image.php?bid=5134&file=logo_300_100&type=&fe=d2081bd1f3707d8788e3cb8785ebc452c9470e07be95484884662c15f4ecfdd6&c=170978037)  
-Fox Alarms & Security CC
+![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=b3c920d1f53389991d7fb19f44483438170076a377faf6da6f44a4fe9e9c3258&c=142518060)  
+Import Maaw
 
-![valued client Cooper Power](https://www.invoicesonline.co.za/scripts/image.php?bid=8689&file=logo_300_100&type=&fe=d2081bd1f3707d8788e3cb8785ebc452c9470e07be95484884662c15f4ecfdd6&c=192029214)  
-Cooper Power
+![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=b3c920d1f53389991d7fb19f44483438170076a377faf6da6f44a4fe9e9c3258&c=85986738)  
+Wiselink Broadband Pty Ltd
 
-![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=d2081bd1f3707d8788e3cb8785ebc452c9470e07be95484884662c15f4ecfdd6&c=119031924)  
-Blue Bulls Rugby Coaches Association
+![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=b3c920d1f53389991d7fb19f44483438170076a377faf6da6f44a4fe9e9c3258&c=14531261)  
+Alliance Energy
 
-![valued client Nogana Events ](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=d2081bd1f3707d8788e3cb8785ebc452c9470e07be95484884662c15f4ecfdd6&c=51469284)  
-Nogana Events
+![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=b3c920d1f53389991d7fb19f44483438170076a377faf6da6f44a4fe9e9c3258&c=172421954)  
+Wiselink Broadband Vryheid
 
-![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=d2081bd1f3707d8788e3cb8785ebc452c9470e07be95484884662c15f4ecfdd6&c=75579062)  
-Camp 4 Africa (Pty) Ltd
+![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=b3c920d1f53389991d7fb19f44483438170076a377faf6da6f44a4fe9e9c3258&c=104488356)  
+Vplay Grafix
 
-![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=d2081bd1f3707d8788e3cb8785ebc452c9470e07be95484884662c15f4ecfdd6&c=89741833)  
-Kinetic Power Solutions (Pty) Ltd.
+![valued client CHARLIEX CONSTRUCTIONS](https://www.invoicesonline.co.za/scripts/image.php?bid=4959&file=logo_300_100&type=&fe=b3c920d1f53389991d7fb19f44483438170076a377faf6da6f44a4fe9e9c3258&c=80072956)  
+CHARLIEX CONSTRUCTIONS
 
-![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=d2081bd1f3707d8788e3cb8785ebc452c9470e07be95484884662c15f4ecfdd6&c=4860959)  
-On The Spot Marketing (Pty) Ltd t/a 24hrprinting
+![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=b3c920d1f53389991d7fb19f44483438170076a377faf6da6f44a4fe9e9c3258&c=80715444)  
+Highlands Auto Engineering
 
-![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=d2081bd1f3707d8788e3cb8785ebc452c9470e07be95484884662c15f4ecfdd6&c=65157597)  
-Imhoff Equestrian Centre
+![valued client NC Labour Hire](https://www.invoicesonline.co.za/scripts/image.php?bid=8545&file=logo_300_100&type=&fe=b3c920d1f53389991d7fb19f44483438170076a377faf6da6f44a4fe9e9c3258&c=46161052)  
+NC Labour Hire
 
-![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=d2081bd1f3707d8788e3cb8785ebc452c9470e07be95484884662c15f4ecfdd6&c=85823976)  
-IAS Logistics (Pty) Ltd T/A MULTITRANSIT
+![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=b3c920d1f53389991d7fb19f44483438170076a377faf6da6f44a4fe9e9c3258&c=52295842)  
+Mtunzini Group
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
