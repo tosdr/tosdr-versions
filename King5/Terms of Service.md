@@ -30,19 +30,19 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/ef400364-4751-4697-a03b-10d05aff67cf/20241218T133752/ef400364-4751-4697-a03b-10d05aff67cf_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ef400364-4751-4697-a03b-10d05aff67cf/20241218T133752/ef400364-4751-4697-a03b-10d05aff67cf_360x203.jpg)](https://www.king5.com/article/news/crime/seattle-bus-driver-fatally-stabbed/281-4ee8c92b-8089-405e-9cb3-11c793fab572)
+    *  [![](https://media.king5.com/assets/KING/images/2e6108ce-38d5-43de-a0d3-6de1cc377d8e/20241218T024828/2e6108ce-38d5-43de-a0d3-6de1cc377d8e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/2e6108ce-38d5-43de-a0d3-6de1cc377d8e/20241218T024828/2e6108ce-38d5-43de-a0d3-6de1cc377d8e_360x203.jpg)](https://www.king5.com/article/news/local/seattle/report-romantic-letter-seattle-police-chief-adrian-diaz-jamie-tompkins/281-98394b8f-312b-4a76-b768-5d055f2b3078)
         
-        #### [Metro bus driver stabbed, killed near UW campus](https://www.king5.com/article/news/crime/seattle-bus-driver-fatally-stabbed/281-4ee8c92b-8089-405e-9cb3-11c793fab572)
+        #### [Report includes romantic letter allegedly between former Seattle police chief, staffer](https://www.king5.com/article/news/local/seattle/report-romantic-letter-seattle-police-chief-adrian-diaz-jamie-tompkins/281-98394b8f-312b-4a76-b768-5d055f2b3078) [![](https://media.king5.com/assets/KING/images/2e6108ce-38d5-43de-a0d3-6de1cc377d8e/20241218T024828/2e6108ce-38d5-43de-a0d3-6de1cc377d8e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/2e6108ce-38d5-43de-a0d3-6de1cc377d8e/20241218T024828/2e6108ce-38d5-43de-a0d3-6de1cc377d8e_360x203.jpg)](https://www.king5.com/article/news/local/seattle/report-romantic-letter-seattle-police-chief-adrian-diaz-jamie-tompkins/281-98394b8f-312b-4a76-b768-5d055f2b3078)
         
-    *  [![](https://media.king5.com/assets/KING/images/e7dfc900-6e14-439e-9073-a70554931216/e7dfc900-6e14-439e-9073-a70554931216_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e7dfc900-6e14-439e-9073-a70554931216/e7dfc900-6e14-439e-9073-a70554931216_360x203.jpg)](https://www.king5.com/article/tech/science/environment/northern-giant-hornet-eradicated-washington/281-364bfe1e-898d-4202-b453-3bb1e27b9b0f)
+        #### [Romantic letter to former Seattle police chief linked to staffer who denies relationship](https://www.king5.com/article/news/local/seattle/report-romantic-letter-seattle-police-chief-adrian-diaz-jamie-tompkins/281-98394b8f-312b-4a76-b768-5d055f2b3078) [![](https://media.king5.com/assets/KING/images/2e6108ce-38d5-43de-a0d3-6de1cc377d8e/20241218T024828/2e6108ce-38d5-43de-a0d3-6de1cc377d8e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/2e6108ce-38d5-43de-a0d3-6de1cc377d8e/20241218T024828/2e6108ce-38d5-43de-a0d3-6de1cc377d8e_360x203.jpg)](https://www.king5.com/article/news/local/seattle/report-romantic-letter-seattle-police-chief-adrian-diaz-jamie-tompkins/281-98394b8f-312b-4a76-b768-5d055f2b3078)
         
-        #### [Northern giant hornets eradicated from Washington, officials say](https://www.king5.com/article/tech/science/environment/northern-giant-hornet-eradicated-washington/281-364bfe1e-898d-4202-b453-3bb1e27b9b0f) [![](https://media.king5.com/assets/KING/images/e7dfc900-6e14-439e-9073-a70554931216/e7dfc900-6e14-439e-9073-a70554931216_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e7dfc900-6e14-439e-9073-a70554931216/e7dfc900-6e14-439e-9073-a70554931216_360x203.jpg)](https://www.king5.com/article/tech/science/environment/northern-giant-hornet-eradicated-washington/281-364bfe1e-898d-4202-b453-3bb1e27b9b0f)
+        #### [City releases romantic letter at center of investigation into former Seattle police chief](https://www.king5.com/article/news/local/seattle/report-romantic-letter-seattle-police-chief-adrian-diaz-jamie-tompkins/281-98394b8f-312b-4a76-b768-5d055f2b3078) [![](https://media.king5.com/assets/KING/images/2e6108ce-38d5-43de-a0d3-6de1cc377d8e/20241218T024828/2e6108ce-38d5-43de-a0d3-6de1cc377d8e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/2e6108ce-38d5-43de-a0d3-6de1cc377d8e/20241218T024828/2e6108ce-38d5-43de-a0d3-6de1cc377d8e_360x203.jpg)](https://www.king5.com/article/news/local/seattle/report-romantic-letter-seattle-police-chief-adrian-diaz-jamie-tompkins/281-98394b8f-312b-4a76-b768-5d055f2b3078)
         
-        #### [Northern giant hornets eradicated: Washington officials celebrate triumph over invasive threat](https://www.king5.com/article/tech/science/environment/northern-giant-hornet-eradicated-washington/281-364bfe1e-898d-4202-b453-3bb1e27b9b0f) [![](https://media.king5.com/assets/KING/images/e7dfc900-6e14-439e-9073-a70554931216/e7dfc900-6e14-439e-9073-a70554931216_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e7dfc900-6e14-439e-9073-a70554931216/e7dfc900-6e14-439e-9073-a70554931216_360x203.jpg)](https://www.king5.com/article/tech/science/environment/northern-giant-hornet-eradicated-washington/281-364bfe1e-898d-4202-b453-3bb1e27b9b0f)
+        #### [Day after former Seattle police chief is fired, city releases romantic letter at center of case](https://www.king5.com/article/news/local/seattle/report-romantic-letter-seattle-police-chief-adrian-diaz-jamie-tompkins/281-98394b8f-312b-4a76-b768-5d055f2b3078)
+    *  [![](https://media.king5.com/assets/KING/images/08943995-866f-4f51-901b-152764fe95bc/20241219T014143/08943995-866f-4f51-901b-152764fe95bc_16x9.jpg) ![](https://media.king5.com/assets/KING/images/08943995-866f-4f51-901b-152764fe95bc/20241219T014143/08943995-866f-4f51-901b-152764fe95bc_360x203.jpg)](https://www.king5.com/article/news/local/adult-prison-cells-turning-into-space-for-offenders-juvenile-facilities/281-4493d06b-bde1-4c7b-bd0f-3dfc7a2f7d54)
         
-        #### [Northern giant hornet threat eradicated in Washington](https://www.king5.com/article/tech/science/environment/northern-giant-hornet-eradicated-washington/281-364bfe1e-898d-4202-b453-3bb1e27b9b0f) [![](https://media.king5.com/assets/KING/images/e7dfc900-6e14-439e-9073-a70554931216/e7dfc900-6e14-439e-9073-a70554931216_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e7dfc900-6e14-439e-9073-a70554931216/e7dfc900-6e14-439e-9073-a70554931216_360x203.jpg)](https://www.king5.com/article/tech/science/environment/northern-giant-hornet-eradicated-washington/281-364bfe1e-898d-4202-b453-3bb1e27b9b0f)
+        #### [Adult prison cells in Aberdeen turning into space for offenders from juvenile facilities](https://www.king5.com/article/news/local/adult-prison-cells-turning-into-space-for-offenders-juvenile-facilities/281-4493d06b-bde1-4c7b-bd0f-3dfc7a2f7d54)
         
-        #### [Washington declares victory over northern giant hornets with no sightings in 3 years](https://www.king5.com/article/tech/science/environment/northern-giant-hornet-eradicated-washington/281-364bfe1e-898d-4202-b453-3bb1e27b9b0f)
     
 * [Weather](https://www.king5.com/weather/)
     
@@ -61,13 +61,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/0d6b67df-edf9-4c51-83c6-d48bc023ce7b/20241218T204938/0d6b67df-edf9-4c51-83c6-d48bc023ce7b_16x9.jpg) ![](https://media.king5.com/assets/KING/images/0d6b67df-edf9-4c51-83c6-d48bc023ce7b/20241218T204938/0d6b67df-edf9-4c51-83c6-d48bc023ce7b_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
+        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
     *  [![](https://media.king5.com/assets/KING/images/e809468d-7ac8-4fc2-9c91-e8f0eaa7573c/20241218T183124/e809468d-7ac8-4fc2-9c91-e8f0eaa7573c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e809468d-7ac8-4fc2-9c91-e8f0eaa7573c/20241218T183124/e809468d-7ac8-4fc2-9c91-e8f0eaa7573c_360x203.jpg)](https://www.king5.com/article/weather/weather-impact/top-wind-speeds-overnight-storm-western-washington/281-7ecc6017-2fb4-4745-b70c-437d4a04f3a6)
         
         #### [These were the top wind speeds recorded during overnight storm in western Washington](https://www.king5.com/article/weather/weather-impact/top-wind-speeds-overnight-storm-western-washington/281-7ecc6017-2fb4-4745-b70c-437d4a04f3a6)
-        
-    *  [![](https://media.king5.com/assets/KING/images/1038f69c-af61-4f25-b8fc-4aa5013bc534/20241218T162209/1038f69c-af61-4f25-b8fc-4aa5013bc534_16x9.jpg) ![](https://media.king5.com/assets/KING/images/1038f69c-af61-4f25-b8fc-4aa5013bc534/20241218T162209/1038f69c-af61-4f25-b8fc-4aa5013bc534_360x203.jpg)](https://www.king5.com/article/weather/weather-impact/outages-power-heavy-winds-western-washington/281-22695fbb-59d7-4199-ae91-b394d85f0719)
-        
-        #### [Over 40,000 remain without power in western Washington as crews work to restore after storm](https://www.king5.com/article/weather/weather-impact/outages-power-heavy-winds-western-washington/281-22695fbb-59d7-4199-ae91-b394d85f0719)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -87,13 +87,13 @@ Navigation
     
     Latest Stories
     
-    *  [![](https://media.king5.com/assets/KREM/images/ac39c8b2-9a8c-4125-aeef-812cabffb346/20240822T214424/ac39c8b2-9a8c-4125-aeef-812cabffb346_16x9.jpg) ![](https://media.king5.com/assets/KREM/images/ac39c8b2-9a8c-4125-aeef-812cabffb346/20240822T214424/ac39c8b2-9a8c-4125-aeef-812cabffb346_360x203.jpg)](https://www.king5.com/article/sports/ncaa/ncaaf/jake-dickert-leaving-wsu--wake-forest/293-d549f7ab-f466-4c20-bd55-64402b945ae5)
+    *  [![](https://media.king5.com/assets/KREM/images/785c7bb8-37e1-48cc-a703-3c21ddb12df1/20241219T001907/785c7bb8-37e1-48cc-a703-3c21ddb12df1_16x9.jpg) ![](https://media.king5.com/assets/KREM/images/785c7bb8-37e1-48cc-a703-3c21ddb12df1/20241219T001907/785c7bb8-37e1-48cc-a703-3c21ddb12df1_360x203.jpg)](https://www.king5.com/article/sports/ncaa/ncaaf/jake-dickert-leaving-wsu--wake-forest/293-d549f7ab-f466-4c20-bd55-64402b945ae5)
         
         #### [Jake Dickert leaves WSU to become head coach at Wake Forest](https://www.king5.com/article/sports/ncaa/ncaaf/jake-dickert-leaving-wsu--wake-forest/293-d549f7ab-f466-4c20-bd55-64402b945ae5)
         
-    *  [![](https://media.king5.com/assets/WXIA/images/d301d4e6-b202-4479-89a4-23fac46d9c37/20241218T014338/d301d4e6-b202-4479-89a4-23fac46d9c37_16x9.jpg) ![](https://media.king5.com/assets/WXIA/images/d301d4e6-b202-4479-89a4-23fac46d9c37/20241218T014338/d301d4e6-b202-4479-89a4-23fac46d9c37_360x203.jpg)](https://www.king5.com/article/sports/nfl/falcons-bench-qb-kirk-cousins-favor-rookie-michael-penix-jr/85-7cf3995f-76fa-4ac7-a122-572e7204db73)
+    *  [![](https://media.king5.com/assets/KING/images/bdc30964-9e84-43fe-bebf-8ba2e8237b03/20241219T005153/bdc30964-9e84-43fe-bebf-8ba2e8237b03_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bdc30964-9e84-43fe-bebf-8ba2e8237b03/20241219T005153/bdc30964-9e84-43fe-bebf-8ba2e8237b03_360x203.jpg)](https://www.king5.com/article/sports/nhl/kraken/rangers-trade-kaapo-kakko-to-the-kraken-for-will-borgen-and-draft-picks/281-6696558c-81bb-4ec6-9fca-5c4be3058c8b)
         
-        #### [Falcons to start UW product Michael Penix Jr. after benching QB Kirk Cousins](https://www.king5.com/article/sports/nfl/falcons-bench-qb-kirk-cousins-favor-rookie-michael-penix-jr/85-7cf3995f-76fa-4ac7-a122-572e7204db73)
+        #### [Kraken add firepower at forward in trade for Kakko from Rangers](https://www.king5.com/article/sports/nhl/kraken/rangers-trade-kaapo-kakko-to-the-kraken-for-will-borgen-and-draft-picks/281-6696558c-81bb-4ec6-9fca-5c4be3058c8b)
         
     
 * [VERIFY](https://www.king5.com/verify)
@@ -110,9 +110,9 @@ Navigation
 
 Seattle, WA »
 
-53°
+49°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
