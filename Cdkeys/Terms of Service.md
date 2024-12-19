@@ -450,11 +450,11 @@ You are seeing games that are valid in your region which is ‘%1’. If you wan
 
 To view games that are valid in your region ‘%1’, click here
 
-1.    [![Red Dead Redemption 2 - Ultimate Edition PC - Rockstar Games Launcher](https://cdn.cdkeys.com/245x340/media/catalog/product/f/a/fate_of_iberia_card_16_.jpg)   No 1. \-82%](https://www.cdkeys.com/red-dead-redemption-2-ultimate-edition-pc-rockstar-cd-key)
+1.    [![Red Dead Redemption 2 - Ultimate Edition PC - Rockstar Games Launcher](https://cdn.cdkeys.com/245x340/media/catalog/product/f/a/fate_of_iberia_card_16_.jpg)   No 1. \-83%](https://www.cdkeys.com/red-dead-redemption-2-ultimate-edition-pc-rockstar-cd-key)
     
     **[Red Dead Redemption 2 - Ultimate Edition PC - Rockstar Games Launcher](https://www.cdkeys.com/red-dead-redemption-2-ultimate-edition-pc-rockstar-cd-key "Red Dead Redemption 2 - Ultimate Edition PC - Rockstar Games Launcher")**
     
-    Special Price $20.39 RRP $114.69
+    Special Price $19.79 RRP $114.69
     
     [Add to Wish List](# "Add to Wish List")
     
@@ -480,11 +480,11 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-4.    [![TEKKEN 8 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-08-28t100027.863.jpg)   No 4. \-63%](https://www.cdkeys.com/tekken-8-pc-steam)
+4.    [![TEKKEN 8 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-08-28t100027.863.jpg)   No 4. \-64%](https://www.cdkeys.com/tekken-8-pc-steam)
     
     **[TEKKEN 8 PC](https://www.cdkeys.com/tekken-8-pc-steam "TEKKEN 8 PC")**
     
-    Special Price $26.09 RRP $70.09
+    Special Price $25.49 RRP $70.09
     
     [Add to Wish List](# "Add to Wish List")
     
@@ -522,21 +522,21 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-8.    [![S.T.A.L.K.E.R. 2: Heart of Chornobyl - Ultimate Edition PC (EU & North America)](https://cdn.cdkeys.com/245x340/media/catalog/product/s/_/s.t.a.l.k.e.r._2__heart_of_chernobyl_-_ultimate_edition_pc.jpg)   No 8. \-43%](https://www.cdkeys.com/s-t-a-l-k-e-r-2-heart-of-chernobyl-ultimate-edition-pc-steam)
+8.    [![S.T.A.L.K.E.R. 2: Heart of Chornobyl - Ultimate Edition PC (EU & North America)](https://cdn.cdkeys.com/245x340/media/catalog/product/s/_/s.t.a.l.k.e.r._2__heart_of_chernobyl_-_ultimate_edition_pc.jpg)   No 8. \-41%](https://www.cdkeys.com/s-t-a-l-k-e-r-2-heart-of-chernobyl-ultimate-edition-pc-steam)
     
     **[S.T.A.L.K.E.R. 2: Heart of Chornobyl - Ultimate Edition PC (EU & North America)](https://www.cdkeys.com/s-t-a-l-k-e-r-2-heart-of-chernobyl-ultimate-edition-pc-steam "S.T.A.L.K.E.R. 2: Heart of Chornobyl - Ultimate Edition PC (EU & North America)")**
     
-    Special Price $68.79 RRP $121.09
+    Special Price $71.39 RRP $121.09
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-9.    [![S.T.A.L.K.E.R. 2: Heart of Chornobyl PC (EU & North America)](https://cdn.cdkeys.com/245x340/media/catalog/product/h/e/heart_of_chornobyl.jpg)   No 9. \-38%](https://www.cdkeys.com/s-t-a-l-k-e-r-2-heart-of-chernobyl-pc-steam)
+9.    [![S.T.A.L.K.E.R. 2: Heart of Chornobyl PC (EU & North America)](https://cdn.cdkeys.com/245x340/media/catalog/product/h/e/heart_of_chornobyl.jpg)   No 9. \-42%](https://www.cdkeys.com/s-t-a-l-k-e-r-2-heart-of-chernobyl-pc-steam)
     
     **[S.T.A.L.K.E.R. 2: Heart of Chornobyl PC (EU & North America)](https://www.cdkeys.com/s-t-a-l-k-e-r-2-heart-of-chernobyl-pc-steam "S.T.A.L.K.E.R. 2: Heart of Chornobyl PC (EU & North America)")**
     
-    Special Price $39.49 RRP $63.69
+    Special Price $36.99 RRP $63.69
     
     [Add to Wish List](# "Add to Wish List")
     
