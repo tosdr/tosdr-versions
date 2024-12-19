@@ -123,44 +123,44 @@ Advertisement
     Why The Industrial Revolution Happened Here
     
     Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
-* [![Why We Bang](/wp-content/thumbnails/1121-100x70.jpg?x53432)
+* [![September Clues](/wp-content/thumbnails/1588-100x70.jpg?x53432)
     
-    Why We Bang
+    September Clues
     
-    The film, Why We Bang, produced and directed by Orlando Myrics and Clifford Jordan for Ghetto Logik Entertainment is an independent film that documents the historical background of LA's Bloods and Cri...](https://documentaryheaven.com/why-we-bang/ "Why We Bang")
-* [![Cease To Exist](/wp-content/thumbnails/6963-100x70.jpg?x53432)
+    This comprehensive analysis of the 9/11 broadcasts shows how the mainstream media actively participated in the 9/11 false-flag operation aimed at generating public support for illegal wars. This media...](https://documentaryheaven.com/september-clues/ "September Clues")
+* [![Pedigree Dogs Exposed](/wp-content/thumbnails/2539-100x70.jpg?x53432)
     
-    Cease To Exist
+    Pedigree Dogs Exposed
     
-    "Cease To Exist" explores the music motive to the Manson murders and uncovers Charles Manson's relationship with Beach Boys' drummer Dennis Wilson and record producer Terry Melcher.](https://documentaryheaven.com/cease-to-exist/ "Cease To Exist")
+    Pedigree dogs are suffering from genetic diseases following years of inbreeding, an investigation has found.A BBC documentary says they are suffering acute problems because looks are emphasised ov...](https://documentaryheaven.com/bbc-pedigree-dogs-exposed/ "Pedigree Dogs Exposed")
 
 ###### Throwback Documentaries
 
-* [![Battleship Antarctica](/wp-content/thumbnails/12219-100x70.jpg?x53432)
+* [![An Inconvenient Death](/wp-content/thumbnails/5744-100x70.jpg?x53432)
     
-    Battleship Antarctica
+    An Inconvenient Death
     
-    Every year a fleet of Japanese ships travel to the freezing waters of the Antarctic and here they hunt and kill nearly 1000 minke whales which end up being sold as meat in the markets of Japan but for](https://documentaryheaven.com/battleship-antarctica/ "Battleship Antarctica")
-* [![The Fight to End Revenge Porn](/wp-content/thumbnails/10639-100x70.png?x53432)
+    For those who enjoyed the documentaries: "Capitalism: a love story" and "Enron: the Smartest Guys in the Room" comes a middle class take on the economic collapse. "An Inconvenient Death" documents t](https://documentaryheaven.com/an-inconvenient-death/ "An Inconvenient Death")
+* [![Vietnam War: Battle of Con Thien](/wp-content/thumbnails/6795-100x70.jpg?x53432)
     
-    The Fight to End Revenge Porn
+    Vietnam War: Battle of Con Thien
     
-    The way that we meet, flirt and become intimate has dramatically changed over the last 10 years, but now that so much of our private lives have migrated online we're vulnerable in ways we have only ju](https://documentaryheaven.com/fight-to-end-revenge-porn/ "The Fight to End Revenge Porn")
-* [![Growing Up Without A Face](/wp-content/thumbnails/6106-100x70.jpg?x53432)
+    Con Thien (Tiếng Việt: Cồn Tiên, meaning the "Hill of Angels"), was a United States Marine Corps combat base located near the Vietnamese Demilitarized Zone about 3 km from North Vietnam. It was the si](https://documentaryheaven.com/vietnam-war-battle-of-con-thien/ "Vietnam War: Battle of Con Thien")
+* [![Zombies](/wp-content/thumbnails/12651-100x70.jpg?x53432)
     
-    Growing Up Without A Face
+    Zombies
     
-    At five years old, Juliana has already been through thirty operations to mediate the severity of her affliction: Treacher Collins syndrome. Juliana was born with one sealed eyelid, a complete lack of](https://documentaryheaven.com/growing-up-without-a-face/ "Growing Up Without A Face")
-* [![The Kennedy Assassination: 24 Hours After](/wp-content/thumbnails/5970-100x70.jpg?x53432)
+    The trouble with zombies is that they keep coming back, whether you shoot or maim them it doesn't really matter, unless you destroy the head they just keep coming. The living dead seem to saturate cin](https://documentaryheaven.com/zombies/ "Zombies")
+* [![Figures in Chalk](/wp-content/thumbnails/6587-100x70.png?x53432)
     
-    The Kennedy Assassination: 24 Hours After
+    Figures in Chalk
     
-    While the moments and hours after his tragic assassination were some of the most formative and important, that story has rarely, and only partially, been told.For the first time, using never-befor](https://documentaryheaven.com/the-kennedy-assassination-24-hours-after/ "The Kennedy Assassination: 24 Hours After")
-* [![George W. Bush: The 9/11 Interview](/wp-content/thumbnails/6125-100x70.jpg?x53432)
+    Aubrey Manning visits the chalk hills of England to investigate their origins and along with a team of archeologists from Reading University try to establish a date in which they were produced.](https://documentaryheaven.com/figures-in-chalk/ "Figures in Chalk")
+* [![Gangs Of Britain: Glasgow](/wp-content/thumbnails/14028-100x70.jpg?x53432)
     
-    George W. Bush: The 9/11 Interview
+    Gangs Of Britain: Glasgow
     
-    National Geographic Channel presents George W. Bush: The 9/11 Interview, a world premiere documentary that reveals exclusive, first-person insight into the former president’s experience following the](https://documentaryheaven.com/george-w-bush-the-911-interview/ "George W. Bush: The 9/11 Interview")
+    Glasgow is a city divided, cut in half by one lethal weapon, the blade. Knife crimes and razor gangs have been a presence on the streets of Glasgow for nearly 200 years and there are more scared faces](https://documentaryheaven.com/gangs-britain-glasgow/ "Gangs Of Britain: Glasgow")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
