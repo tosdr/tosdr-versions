@@ -504,29 +504,6 @@ Free standard shipping on any $35 purchase
             * [After Sun Care](https://www.ulta.com/shop/body-care/suncare/after-sun-care)
                 
             
-        * [### Self Care & Wellness](https://www.ulta.com/shop/wellness-shop)
-            
-            * [Body Treatments](https://www.ulta.com/shop/skin-care/treatment-serums/body-treatments)
-                
-            * [Supplements](https://www.ulta.com/shop/wellness-shop/supplements)
-                
-            * [Aromatherapy](https://www.ulta.com/shop/wellness-shop/relax-renew/aromatherapy)
-                
-            * [Deodorant](https://www.ulta.com/shop/wellness-shop/everyday-care/deodorant)
-                
-            * [Hair Removal](https://www.ulta.com/shop/wellness-shop/everyday-care/hair-removal)
-                
-            * [Oral Care](https://www.ulta.com/shop/wellness-shop/everyday-care/oral-care)
-                
-            * [Sleep Essentials](https://www.ulta.com/shop/wellness-shop/relax-renew/sleep-essentials)
-                
-            * [Spa Essentials](https://www.ulta.com/shop/wellness-shop/relax-renew/spa-essentials)
-                
-            * [Down There Care](https://www.ulta.com/shop/wellness-shop/down-there-care)
-                
-            * [Intimate Wellness](https://www.ulta.com/shop/wellness-shop/intimate-wellness)
-                
-            
         * [### Bath & Body Accessories](https://www.ulta.com/shop/body-care/bath-body-accessories)
             
             * [Bath Sponges, Gloves & Brushes](https://www.ulta.com/shop/body-care/bath-body-accessories/bath-sponges-gloves-brushes)
