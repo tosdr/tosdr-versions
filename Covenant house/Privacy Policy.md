@@ -50,13 +50,13 @@
     
 * Get Involved
     
-    [Browse Gift Catalog](https://gifts.covenanthouse.org/collections/holiday-items)
+    [Browse Gift Catalog](https://gifts.covenanthouse.org/collections/holiday-items?utm_source=nav&utm_medium=website_ad&utm_campaign=FY25FY25GiftCatalog)
     
     Ways to Give
     
     * [Donate Now](https://www.covenanthouse.org/get-involved/ways-to-give/donate-now)
     * [Donate Monthly](https://www.covenanthouse.org/get-involved/ways-to-give/donate-monthly)
-    * [Shop our Gift Catalog](https://gifts.covenanthouse.org/)
+    * [Shop our Gift Catalog](https://gifts.covenanthouse.org/?utm_source=nav&utm_medium=website_ad&utm_campaign=FY25FY25GiftCatalog)
     * [Corporate Partnerships](https://www.covenanthouse.org/get-involved/ways-to-give/corporate-partnerships)
     * [Open Arms Society](https://www.covenanthouse.org/get-involved/ways-to-give/open-arms-society)
     * [Planned Giving](https://covenanthouse.myplannedgift.org/)
@@ -153,13 +153,13 @@
     
     Celebrate the season of giving with a gift that provides warmth, safety, and hope to homeless youth. Shop our Holiday Gift Catalog today.
     
-    [Browse Gift Catalog](https://gifts.covenanthouse.org/collections/holiday-items)
+    [Browse Gift Catalog](https://gifts.covenanthouse.org/collections/holiday-items?utm_source=nav&utm_medium=website_ad&utm_campaign=FY25FY25GiftCatalog)
     
     Ways to Give
     
     * [Donate Now](https://www.covenanthouse.org/get-involved/ways-to-give/donate-now)
     * [Donate Monthly](https://www.covenanthouse.org/get-involved/ways-to-give/donate-monthly)
-    * [Shop our Gift Catalog](https://gifts.covenanthouse.org/)
+    * [Shop our Gift Catalog](https://gifts.covenanthouse.org/?utm_source=nav&utm_medium=website_ad&utm_campaign=FY25FY25GiftCatalog)
     * [Corporate Partnerships](https://www.covenanthouse.org/get-involved/ways-to-give/corporate-partnerships)
     * [Open Arms Society](https://www.covenanthouse.org/get-involved/ways-to-give/open-arms-society)
     * [Planned Giving](https://covenanthouse.myplannedgift.org/)
