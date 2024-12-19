@@ -106,16 +106,6 @@ AllLive NowToday
     
     15th Match
     
-* ICC Mens T20 World Cup Americas Sub Regional Qualifier, 2024
-    
-    [Argentina vs Brazil](https://www.cricbuzz.com/live-cricket-scores/111529/arg-vs-brazil-match-36-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Argentina v Brazil, Match 36 - ARG Won")
-    
-    Match 36
-    
-* [Belize vs Suriname](https://www.cricbuzz.com/live-cricket-scores/111521/blz-vs-sn-match-35-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Belize v Suriname, Match 35 - SN Won")
-    
-    Match 35
-    
 * West Indies v Bangladesh, 2024
     
     [Bangladesh vs West Indies](https://www.cricbuzz.com/live-cricket-scores/95241/ban-vs-wi-2nd-t20i-west-indies-v-bangladesh-2024 "Bangladesh v West Indies, 2nd T20I - BAN Won")
@@ -202,9 +192,13 @@ AllLive NowToday
     
 * New Zealand W v Australia W, 2024
     
-    [New Zealand Women vs Australia Women](https://www.cricbuzz.com/live-cricket-scores/102126/nzw-vs-ausw-1st-odi-icc-championship-match-new-zealand-w-v-australia-w-2024 "New Zealand Women v Australia Women, 1st ODI (ICC Championship Match) - Preview")
+    [New Zealand Women vs Australia Women](https://www.cricbuzz.com/live-cricket-scores/102126/nzw-vs-ausw-1st-odi-icc-championship-match-new-zealand-w-v-australia-w-2024 "New Zealand Women v Australia Women, 1st ODI (ICC Championship Match) - Abandon")
     
     1st ODI (ICC Championship Match)
+    
+* [New Zealand Women vs Australia Women](https://www.cricbuzz.com/live-cricket-scores/102132/nzw-vs-ausw-2nd-odi-icc-championship-match-new-zealand-w-v-australia-w-2024 "New Zealand Women v Australia Women, 2nd ODI (ICC Championship Match) - Upcoming")
+    
+    2nd ODI (ICC Championship Match)
     
 * South Africa Women v England Women, 2024
     
@@ -523,37 +517,37 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 [Whatever happened today, gives us confidence ahead of MCG Test - Rohit](https://www.cricbuzz.com/cricket-news/132836/whatever-happened-today-gives-us-confidence-ahead-of-mcg-test-rohit-sharma "Whatever happened today, gives us confidence ahead of MCG Test - Rohit")
 
-1h ago
+7h ago
 
   [](https://www.cricbuzz.com/cricket-news/132835/peirson-ensures-winning-start-for-heat-in-season-opener "Peirson ensures winning start for Heat in season opener")
 
 [Peirson ensures winning start for Heat in season opener](https://www.cricbuzz.com/cricket-news/132835/peirson-ensures-winning-start-for-heat-in-season-opener "Peirson ensures winning start for Heat in season opener")
 
-4h ago
+10h ago
 
   [](https://www.cricbuzz.com/cricket-news/132834/ashwins-retirement-internally-it-was-no-shock "Ashwin's retirement: Internally, it was no shock")
 
 [Ashwin's retirement: Internally, it was no shock](https://www.cricbuzz.com/cricket-news/132834/ashwins-retirement-internally-it-was-no-shock "Ashwin's retirement: Internally, it was no shock")
 
-6h ago
+12h ago
 
   [](https://www.cricbuzz.com/cricket-news/132833/dunith-wellalage-left-out-for-new-zealand-t20is "Dunith Wellalage left out for New Zealand T20Is")
 
 [Dunith Wellalage left out for New Zealand T20Is](https://www.cricbuzz.com/cricket-news/132833/dunith-wellalage-left-out-for-new-zealand-t20is "Dunith Wellalage left out for New Zealand T20Is")
 
-6h ago
+12h ago
 
   [](https://www.cricbuzz.com/cricket-news/132832/r-ashwin-retirement-tribute-brisbane-gabba-test-cricket-india-v-australia-border-gavaskar-trophy-bgt "Ashwin always more cerebral than emotional, except on his final day")
 
 [Ashwin always more cerebral than emotional, except on his final day](https://www.cricbuzz.com/cricket-news/132832/r-ashwin-retirement-tribute-brisbane-gabba-test-cricket-india-v-australia-border-gavaskar-trophy-bgt "Ashwin always more cerebral than emotional, except on his final day")
 
-8h ago
+14h ago
 
   [](https://www.cricbuzz.com/cricket-news/132831/maharaj-included-for-pakistan-tests "Maharaj included for Pakistan Tests despite acute groin strain")
 
 [Maharaj included for Pakistan Tests despite acute groin strain](https://www.cricbuzz.com/cricket-news/132831/maharaj-included-for-pakistan-tests "Maharaj included for Pakistan Tests despite acute groin strain")
 
-8h ago
+14h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
