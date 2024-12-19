@@ -31,6 +31,441 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Fortalecer la cadena productiva del maíz, un desafío en Ecuador
+===============================================================
+
+La crisis del maíz en Ecuador requiere soluciones integrales para proteger a productores, industria y consumidores.
+-------------------------------------------------------------------------------------------------------------------
+
+![La sequía y los incendios de este 2024 afectaron los sembríos de maíz duro amarillo, sobre todo, en provincias como Loja. Foto: Freepick](https://www.elcomercio.com/wp-content/uploads/2024/12/maiz_sequia_720.jpg)
+
+La **crisis del maíz en Ecuador** refleja las tensiones en uno de los sectores agrícolas más relevantes para la economía y la alimentación del país.
+
+El impacto es directo para [productores, industria y consumidores](https://www.elcomercio.com/actualidad/negocios/crisis-del-maiz-en-ecuador-que-esta-en-juego-para-productores-consumidores-y-la-industria.html "https://www.elcomercio.com/actualidad/negocios/crisis-del-maiz-en-ecuador-que-esta-en-juego-para-productores-consumidores-y-la-industria.html"). Aún no estamos ante una amenaza a la seguridad alimentaria, pero sí frente a un problema que exige soluciones coordinadas y sostenibles. Solo así se evitará mayores consecuencias a largo plazo.
+
+Los **pequeños productores de maíz** venden a precios más bajos a los intermediarios, pues no se encargan de la limpieza y el secado del grano. Por otro lado, lidian con precios de insumos variables y, debido a la sequía histórica que se vivió en el país, su trabajo se tornó complejo. En zonas maiceras de Loja el impacto fue mayor por los incendios.
+
+Hace falta poner más atención a estos actores claves de la cadena productiva. En algunos casos prepararon sus tierras para otros productos como el cacao. Tras la caída de la producción de invierno, otros optaron por no sembrar en el segundo ciclo de verano. A esto se suma que el 80 % de productores, que son pequeños, no han invertido en sistemas de riego y la sequía los tomó desprevenidos.
+
+Con este panorama, el riesgo de que este grupo abandone sus cultivos crece. Y, esto se da en un momento en que la industria demanda de más producto. La presión por maíz importado, que, aunque sea más barato, deja pocas oportunidades de competir en igualdad de condiciones.
+
+Para los productores locales, el Estado y las instituciones financieras deben generar políticas que aseguren precios justos y condiciones de crédito más accesibles. Esto les permitirá invertir en tecnología y prácticas agrícolas más eficientes.
+
+La industria alimentaria, que depende del maíz como insumo principal para balanceados, se enfrenta a una volatilidad que afecta su rentabilidad y su capacidad para garantizar precios estables a consumidores. Aquí, es crucial que se desarrollen mecanismos de compra directa a productores locales. De esta forma se fomenta un círculo virtuoso que beneficie a la producción nacional y a la industria.
+
+La experiencia de México, donde se impulsa la compra de maíz nacional a través de contratos previos y alianzas estratégicas, sirve como referencia para Ecuador. A pesar de que los precios del maíz aún no han causado un alza dramática en los productos alimenticios, la cadena está bajo presión. Los consumidores sentirán los efectos si no se toman medidas a tiempo. Esto debido a que los costos de insumos importados y locales pueden cada vez más trasladarse al precio final de bienes, como el pollo, los huevos, el cerdo. Por lo tanto, es fundamental asegurar la estabilidad en la producción local y evitar que se dependa de las importaciones.
+
+Países como Brasil y México han enfrentado crisis similares en el sector maicero con políticas integrales. En Brasil, la diversificación y la modernización de la producción agrícola, combinada con subsidios estratégicos y acceso a mercados internacionales, ha permitido que los agricultores mejoren sus márgenes de ganancia.
+
+México, por su parte, ha implementado mecanismos de compra estatal que aseguran un mercado fijo para los productores locales, brindando estabilidad de precios.
+
+> Ecuador podría beneficiarse de la adopción de prácticas similares. Al fomentar una producción más eficiente y tecnificada, junto con la creación de fondos de emergencia para crisis agrícolas, el país puede proteger a sus agricultores sin dejar de lado las necesidades de la industria y los consumidores.
+
+La inversión en investigación agrícola, así como en infraestructura para el almacenamiento y distribución del maíz, también sería clave para mejorar la competitividad del sector.
+
+El gobierno ecuatoriano tiene el reto de equilibrar el apoyo a los productores locales sin caer en el proteccionismo extremo, que podría dañar a largo plazo la competitividad del país en los mercados internacionales.
+
+Un enfoque centrado en el fortalecimiento de las capacidades productivas locales, junto con incentivos para la compra de maíz nacional por parte de la industria, pudiera ser el camino más sostenible.
+
+La crisis del maíz en Ecuador es un problema que requiere una solución integral que involucre a todos los actores de la cadena: productores, industria, consumidores y el Estado. Solo con un enfoque colaborativo se podrá garantizar la estabilidad del sector maicero, protegiendo al mismo tiempo los intereses de los consumidores y la industria.
+
+El año que vivimos “democráticamente”
+=====================================
+
+Los gestos hacen la política: Trump invita a Xi.
+------------------------------------------------
+
+![Jose Felix Valdivieso, columnista en EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/11/Jose-Felix-Valdivieso2.jpg)
+
+El pasado octubre, el semanario _The Economist_ se preguntaba si en este 2024, en el que han votado **democráticamente** más de mil millones de personas, había triunfado la **democracia**. Para que así fuese, insistía en que era fundamental que las **elecciones** **americanas** se desarrollasen con toda normalidad. La memoria del asalto al Capitolio del 6 de enero de 2021 todavía permanecía en las retinas, como uno de los **hechos** **históricos** sin explicar. 
+
+​Lo cierto es que el año concluye con una rotunda victoria del expresidente, Donald Trump, despejando toda duda sobre la **salud** **democrática** del mundo. Por el camino, es cierto, nos hemos dejado algunos cadáveres, como el del heroico opositor ruso, Alexei Navalny. Además, en 2024 han sido asesinados en el mundo 54 periodistas, 550 han sido encarcelados, y 55 secuestrados. No hay **democracia** sin **prensa** **libre**.
+
+En cuanto a los **borrones** **democráticos**, los más resaltables han sido las dudosas **elecciones** **venezolanas**, que han dejado al presidente electo, Edmundo González en un exilio “_momentáneo_”, a la espera de su regreso a Venezuela el próximo 10 de enero. Asimismo, ha emborronado la hoja de ruta, el inexplicable amago de imponer la ley marcial en Corea del Sur, por parte de su actual presidente, Yoon Suk Yeol. En cualquier caso, los ojos del mundo están puestos en la **democracia** más poderosa del mundo, y en lo que ha haga su presidente a partir de ahora. 
+
+El pasado 4 de diciembre en Pekín, en la conferencia sobre **Gobernanza** **Global** en la era Trump 2.0, el profesor Amitav Achaya hacía gala del más radical pesimismo. Descomponía el nombre del presidente Trump en una especie de acróstico, que no reproduciré en su **integridad**, pero que venía a decir que las letras de su nombre representaban todo menos la **confianza**, **coherencia**, y pausa que necesita la **política** **internacional** (T de Trust No(confianza No); R de Rapid, precipitado; U de Unilateral; M de Me, por decir que Trump no mira por los otros; P…).  
+
+​De momento, el presidente Trump ha invitado al presidente Xi a su toma de posesión, como muestra de que está decidido a retomar las **relaciones** **bilaterales** entre ambos países, al más alto nivel. El **mandatario** chino ha declinado, pero se especula que estará representado por un alto dignatario. Los posibles candidatos serían el vice-presidente, Han Zheng, o el recurrente Ministro de Exteriores, Wang Yi. 
+
+El hecho es insólito, pero Trump también es insólito. Ningún presidente extranjero había sido invitado antes. La invitación de Trump ha cogido con el pie cambiado no solo a Xi, sino a la **comunidad** **internacional**. Se dice que Xi llevaba un tiempo, intentando sin éxito acercarse al círculo más íntimo de Trump. Con este gesto, el americano le daba la oportunidad de un cara a cara al tiempo que tomaba la iniciativa de quien juega con blancas. 
+
+​También se dice que **Trump** **es** **muy** **consciente** **de que la gente le ha elegido para que cambie de manera de hacer las cosas en Washington.** “Este es un ejemplo del presidente Trump creando un diálogo abierto con líderes de países que no solo son aliados, sino también nuestros adversarios y competidores,” dijo a Fox News, la portavoz de Trump, Karoline Leavitt.
+
+Los **gestos** los conforman **pequeños** **detalles**, rodeados de múltiples e invisibles señales, que es preciso detectar para hacer política, que ya se sabe que no vive de otra cosa más que de gestos. En _El año que vivimos peligrosamente_, el personaje de [Billy Kwan](https://www.imdb.com/name/nm0001373/?ref_=ttqu_qu), lo dice muy bien hablando de la intangible política, que impregna toda la película: 
+
+Lo invisible está por todas partes —particularmente aquí en Java.
+
+**Puede ser que en esta nueva versión Trump 2.0., el mandatario americano quiera pasar a la historia** más como un presidente que intentó cambiar las maneras de cómo se hacían las cosas, que como el impulsivo y errático presidente de la primera legislatura. Veremos. ¡¡Desde luego viviremos peligrosamente!!
+
+Sabiduría para vivir
+====================
+
+Las culturas ancestrales enseñan equilibrio, unidad y respeto por la naturaleza.
+--------------------------------------------------------------------------------
+
+![Fausto Segovia Baus, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Fausto-Segovia-Baus.jpg)
+
+**Las culturas -en todos los tiempos y regiones- han construido pensamientos que han regido y transmitido a las generaciones**. Estos saberes -considerados erróneamente “primitivos”, porque sus fuentes eran orales- **dejaron una impronta difícil de superar**, y que hoy constituyen **motivos de inspiración.**
+
+Los **griegos crearon una escala de superación** para comprender el sentido trágico de la vida, desde las sensaciones y percepciones, las experiencias, el bien y el mal (la ética), y la lógica hasta la sabiduría; es decir, el conocimiento de la verdad. **¿Cuál es la escala de valores del ser humano asumida por los seres humanos en la sociedad de hoy?** 
+
+Esta pregunta no es fácil de responder, porque cada pueblo tiene sus raíces, sus formas de ser y actuar, y porque **los símbolos de cada cultura siguen vigentes, aunque no estén escritos**. Las visiones son diferentes y la diferencia es una riqueza.
+
+En esa línea **es posible repensar las enseñanzas que subyacen en lo más profundo de las culturas que, en buena medida, contradicen los pensamientos de Occidente**, anclados a la competencia, la codicia – y lo digo sin ambages – **responsables de la destrucción de la naturaleza**. Me refiero a los principios de sabiduría para vivir que demuestran la **universalidad** de sus pensamientos, la **unidad** sin exclusiones (dualismos), que refuerzan la idea de **cambiar del mundo lejos del sesgo de la separación.**
+
+Estos principios parecen **plegarias** -oraciones no religiosas- que fascinan no solo a los naturalistas, sino a las personas comunes y corrientes, **que han superado las nociones del “noble salvaje**” en pro de una lectura natural, y por lo tanto **asociada a la humanidad.**
+
+A continuación, **algunos atisbos de estas maravillosas lecciones:** búsqueda de **equilibrio** consigo mismos, con los demás, con la naturaleza y con la **Tierra**; actualizar **conocimientos y prácticas de la sabiduría del pasado** -para dejar de lado la suciedad y la basura de la modernidad- y seducirnos por la **defensa de la vida** para construir **presentes transparentes** con responsabilidad; **aprender el lenguaje silencioso de la naturaleza** -saber escuchar con firmeza y paciencia- y así superar las angustias vitales.
+
+Y **recuperar la energía que hermana a todos** -el agua, el aire, el fuego y la tierra-; **compartir y dar, porque el dolor de unos es el dolor de todos**; observar y **respetar las diferencias, porque todos evolucionamos**; el **verdadero poder está en la humildad**; **la “casa común” -la naturaleza- nos enseña todos los días**; superar **viejos atavismos** que nos enferman –**resentimientos, odios y aflicciones**– con un gran objetivo: practicar la verdad, porque **la herencia biocultural existe**, y porque **¡la fuente de la salud universal es la Madre Tierra!**
+
+Cartas a Quito / 19 de diciembre de 2024
+========================================
+
+Estas son las cartas a Quito de este juevs 19 de diciembre de 2024
+------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Otra ligereza de nuestro Presidente
+-----------------------------------
+
+Respecto a la crisis de energía eléctrica, – en diciembre se volverá a la vida normal -, en otras palabras, no habrá apagones, anunció el señor presidente de la república sin respaldo técnico. Naturalmente, ese es el anhelo de todos los ecuatorianos, desgraciadamente, los números indican que será difícil cumplir con esta aspiración, cierto es que en estos días ha mejorado la hidrología (más precipitaciones); sin embargo, falta para que los embalses de las centrales hidroeléctricas presenten una probabilidad confiable de producción eléctrica. Haciendo un balance del estado actual de energía eléctrica en el País, diríamos que la demanda en potencia  está por alrededor de 4300 Mw, en cambio, la oferta con el aporte del estado y el sector privado se puede contabilizar así: producción hidroeléctrica trabajando entre el 30 y 35% de su capacidad máxima aportará con 1900 Mw, producción térmica líquida con plantas, existentes, arrendadas y compradas 1050 Mw, producción térmica eólica, solar, biomasa, etc., 130 Mw y, el suministro de Colombia 400 Mw, suman 3480 Mw que es lo que  se  dispone al momento (diciembre 2024), en consecuencia el déficit es de 820 Mw, que traducido a tiempo corresponde a 5 horas de apagones por día. Es temeraria la dis posición de apagar solo 3 horas, ojalá no tengamos que lamentar después. Si siguen las lluvias en el austro y  mejoran los niveles del embalse Mazar que surte agua para el complejo hidroeléctrico Paute integral y, se mantienen los caudales del río Coca alrededor de 250 m³/s, de tal manera que la producción hidroeléctrica suba a 2300 Mw o, se adquiera de alguna forma 300 Mw adicionales, posiblemente los apagones puedan bajar a 3 horas. En fin, declarar que no habrá racionamiento de energía eléctrica en diciembre 2024 es una ligereza, misma que ratifica que, la nueva política, igual que la vieja, tienen la misma impronta: mentir para engañar al pueblo.
+
+Marco A. Zurita Ríos
+
+Elecciones 2025 en Ecuador, el camino hacia las urnas del 9 de febrero
+======================================================================
+
+Hitos clave y fechas importantes del proceso electoral para las elecciones 2025 en Ecuador.
+-------------------------------------------------------------------------------------------
+
+![Elecciones anticipadas el pasado 20 de agosto de 2023.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-18T114350.855.jpg)
+
+El **Consejo Nacional Electoral (CNE)** estableció un calendario detallado para las **elecciones generales de 2025 en Ecuador**, que incluyen la elección de **Presidente y Vicepresidente**, miembros de la **Asamblea Nacional** y representantes al **Parlamento Andino**.
+
+### Más noticias
+
+* [Elecciones 2025 y cómo obtener el nuevo certificado digital de votación](https://www.elcomercio.com/elecciones/elecciones-2025-certificado-digital-votacion-ecuador.html "Elecciones 2025 y cómo obtener el nuevo certificado digital de votación")
+* [Elecciones 2025: CNE avanza en la distribución de kits técnicos](https://www.elcomercio.com/actualidad/politica/elecciones-2025-cne-distribucion-kits-tecnicos.html "Elecciones 2025: CNE avanza en la distribución de kits técnicos")
+* [Miembros de juntas para las elecciones 2025 deben capacitarse, ¿cuántos ya cumplieron?](https://www.elcomercio.com/elecciones/miembros-juntas-elecciones-2025-deben-capacitarse-cuantos-cumplieron.html "Miembros de juntas para las elecciones 2025 deben capacitarse, ¿cuántos ya cumplieron?")
+
+El cronograma busca coordinar las **actividades preelectorales, electorales y postelectorales** para garantizar un proceso organizado y apegado a las normativas vigentes.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DCU9v_MuEth/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DCU9v_MuEth/?utm_source=ig_embed&utm_campaign=loading)
+
+Etapa preelectoral, definiciones y preparativos para las elecciones de 2025 en Ecuador
+--------------------------------------------------------------------------------------
+
+La etapa preelectoral comenzó oficialmente el 9 de febrero de 2024, con la aprobación del calendario electoral. Entre los pasos clave de esta etapa se encuentran:
+
+* **Cierre del registro electoral:** Previsto para el 13 de agosto de 2024. Este registro define el padrón electoral que será utilizado en los comicios.
+* **Inscripción de candidaturas:** Desde el 13 de septiembre hasta el 2 de octubre de 2024, las organizaciones políticas podrán inscribir sus postulaciones, cumpliendo con los requisitos establecidos en la Ley Orgánica Electoral.
+* **Validación de candidaturas:** Este proceso incluye la resolución de objeciones e impugnaciones por parte del CNE y, de ser necesario, del Tribunal Contencioso Electoral (TCE), hasta el 17 de octubre de 2024.
+
+Durante esta etapa, también se llevará a cabo la impresión de papeletas electorales, prevista para finalizar el 29 de diciembre de 2024. Con ese cronograma se asegura que todo el material electoral esté listo antes de la **votación**.
+
+Diciembre es el mes clave para definir a los candidatos
+-------------------------------------------------------
+
+Los hitos electorales de diciembre serán cruciales para definir la lista oficial de **candidatos que participarán en los comicios**.
+
+El **30 de diciembre de 2024** está programada la publicación del **listado oficial**, una vez que todas las objeciones, impugnaciones y recursos hayan sido resueltos.
+
+En este momento, las **papeletas electorales** estarán listas para impresión, y los votantes conocerán con certeza quiénes serán los aspirantes definitivos para las diferentes dignidades.
+
+Este paso marca el cierre de la **etapa preelectoral** y asegura que todos los preparativos estén encaminados hacia el día de las elecciones.
+
+Hitos relevantes post diciembre
+-------------------------------
+
+1. **Inicio de la campaña electoral (5 de enero de 2025):** Este paso marca el inicio formal de las actividades proselitistas de los candidatos, con la posibilidad de realizar mítines, publicidad electoral y presentación de propuestas. La campaña es clave para que los ciudadanos conozcan a los candidatos y sus planes de gobierno.
+2. **Simulacros y pruebas técnicas (enero de 2025):** Las pruebas programadas el 16, 19, 23 y 26 de enero son esenciales para garantizar que todos los sistemas y mecanismos del proceso electoral, como el escrutinio y la transmisión de resultados, funcionen correctamente.
+3. **Silencio electoral (7-9 de febrero de 2025):** Este periodo antecede a la jornada electoral y es fundamental para que los votantes reflexionen sobre su elección sin la influencia de la propaganda política.
+4. **Día de las elecciones (9 de febrero de 2025):** La primera vuelta de las elecciones es el momento clave para definir los nuevos representantes y, posiblemente, a los dos candidatos presidenciales que pasarán a una segunda vuelta, si ninguno alcanza la mayoría requerida.
+5. **Escrutinios y proclamación de resultados (febrero y marzo de 2025):** Las audiencias públicas y los procesos de impugnación se llevarán a cabo hasta marzo, asegurando que los resultados sean definitivos y transparentes.
+6. **Segunda vuelta electoral (13 de abril de 2025):** Si es necesaria, esta votación definirá al nuevo Presidente y Vicepresidente del país.
+7. **Posesión de autoridades electas (mayo de 2025):** Entre el 14 y el 24 de mayo, las nuevas autoridades, desde el Presidente hasta los asambleístas y representantes al Parlamento Andino, asumirán oficialmente sus cargos.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/C6zPX4lOlsx/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/C6zPX4lOlsx/?utm_source=ig_embed&utm_campaign=loading)
+
+Etapa electoral, votaciones y escrutinios
+-----------------------------------------
+
+La campaña electoral iniciará el 5 de enero de 2025 y se extenderá hasta e**l 6 de febrero**. A partir del 7 de febrero comenzará el silencio electoral. El periodo es en el que se suspenden actividades proselitistas para permitir que la ciudadanía reflexione sobre su voto.
+
+El cronograma incluye actividades clave como:
+
+* **Primera prueba técnica:** 16 de enero de 2025.
+* **Simulacros nacionales:** 19 y 26 de enero de 2025.
+* **Sufragio en primera vuelta:** 9 de febrero de 2025, día en que se llevará a cabo la votación general en todo el país.
+
+Posterior a la votación, se realizarán los escrutinios por parte de las **Juntas Provinciales Electorales** y el CNE, quienes deberán proclamar los **resultados oficiales**.
+
+En caso de que ninguna fórmula presidencial alcance la **mayoría requerida**, se convocará a una **segunda vuelta electoral.** Esta actividad está prevista que se realice el 13 de abril de 2025.
+
+Etapa postelectoral y la adjudicación de dignidades en Ecuador para las elecciones de 2025
+------------------------------------------------------------------------------------------
+
+Una vez concluida la jornada electoral, inicia la etapa postelectoral, que incluye:
+
+* **Escrutinios y resolución de impugnaciones:** Actividades destinadas a garantizar la transparencia y resolver cualquier reclamo sobre los resultados.
+* **Adjudicación de dignidades:** Programada para el 10 de abril de 2025 para asambleístas y representantes al Parlamento Andino. La proclamación de resultados presidenciales se realizará el 22 de mayo, seguida de la posesión oficial de las autoridades electas.
+
+El cronograma asegura la implementación de actividades previas, durante y posteriores a la votación, incluyendo la etapa de escrutinios y proclamación de resultados en las [elecciones de 2025](https://es.wikipedia.org/wiki/Elecciones_presidenciales_de_Ecuador_de_2025 "https://es.wikipedia.org/wiki/Elecciones_presidenciales_de_Ecuador_de_2025").
+
+* * *
+
+Liga Pro cotizará en la Bolsa de Valores de Ecuador
+===================================================
+
+El presidente de la Liga Pro, Miguel Ángel Loor, dio detalles de cómo funcionara la cotización en la Bolsa de Valores de Ecuador.
+---------------------------------------------------------------------------------------------------------------------------------
+
+![La Liga Pro es el organismo a cargo del campeonato de fútbol en Ecuador](https://www.elcomercio.com/wp-content/uploads/2024/12/bolsa-valores-liga-pro.jpg)
+
+La **Liga Pro**, entidad que organiza el **campeonato de fútbol** en Ecuador, cotizará en la **Bolsa de Valores** nacional.
+
+El presidente del organismo, **Miguel Ángel Loor,** hizo el anuncio este miércoles 18 de diciembre de 2024.
+
+### Más noticias
+
+* [Mapa del fútbol ecuatoriano, ¿cómo se distribuye la Liga Pro A y B en 2025?](https://www.elcomercio.com/deportes/futbol/liga-pro-distribucion-equipos-provincias.html "Mapa del fútbol ecuatoriano, ¿cómo se distribuye la Liga Pro A y B en 2025?")
+* [Liga de Quito recibió un inesperado saludo por el bicampeonato](https://www.elcomercio.com/deportes/futbol/liga-quito-esteban-paz-leones.html "Liga de Quito recibió un inesperado saludo por el bicampeonato")
+* [El Nacional vs. Liga de Quito, rivalidad histórica que tendrá su tercera final](https://www.elcomercio.com/deportes/el-nacional-liga-quito-historial-finales.html "El Nacional vs. Liga de Quito, rivalidad histórica que tendrá su tercera final")
+
+“Gracias al trabajo de nuestro Directorio, nuestra Liga de Fútbol Profesional del Ecuador ha sido autorizada para emitir títulos valores en la Bolsa de Valores de Ecuador (BVE), calificándola como AA”, publicó Loor en su cuenta de la red social **X**.
+
+Liga Pro podrá emitir acciones y bonos
+--------------------------------------
+
+El Presidente de la Liga Pro dijo que con la posibilidad de emitir **acciones** o **bonos**, ahora la entidad podrá captar **recursos financieros** directamente del **mercado**. Esto reducirá la dependencia de **préstamos bancarios** y otras fuentes de financiación tradicionales.
+
+Según Loor, este logro mejorará la **reputación** y **credibilidad** de la Liga Pro que, al estar en la bolsa, se somete a **regulaciones** y **estándares** de transparencia que aumentarán la confianza de inversionistas, clientes y socios comerciales.
+
+“Esto hará que Liga Pro gane mayor **notoriedad** al ser parte del mercado público, lo que puede atraer nuevos negocios e inversiones. La cotización de los títulos valores en la bolsa permite una **evaluación continua** del valor de Liga Pro”, expresó el directivo[.](https://ligapro.ec/ "https://ligapro.ec/")
+
+Futuras alianzas estratégicas
+-----------------------------
+
+También dijo que el organismo, en un futuro, podrá recibir capitales de una amplia variedad de **inversionistas**, incluidos **fondos de inversión locales y extranjeros**. Con ello, se posibilitará abrir puertas para **alianzas estratégicas** y relaciones comerciales en el mercado bursátil.
+
+“En resumen, emitir títulos valores en la BVE puede ser una **herramienta estratégica** poderosa para financiar el crecimiento, fortalecer la reputación de Liga Pro y sus clubes, para así diversificar fuentes de capital”, reiteró.
+
+La Liga Pro de Ecuador fue creada en **2019** para organizar los campeonatos profesionales tanto de la primera división, con **16 clubes**, como de la segunda, con **10 equipos**. La entidad cuenta con el aval de la **Federación Ecuatoriana de Fútbol** (FEF).
+
+> Parece que por navidad 🎅🏻 nos estan llegando buenas noticias. Les comparto algo que nos llena de muchísima alegría:  
+>   
+> ¡ [@LigaProEC](https://twitter.com/LigaProEC?ref_src=twsrc%5Etfw) cotizará en la Bolsa de Valores del Ecuador !  
+>   
+> Gracias al trabajo de nuestro directorio nuestra Liga de Fútbol Profeisonal del Ecuador, ha sido… [pic.twitter.com/AuQB9UoToX](https://t.co/AuQB9UoToX)
+> 
+> — Miguel Angel Loor (@miguelloor) [December 18, 2024](https://twitter.com/miguelloor/status/1869525906341106158?ref_src=twsrc%5Etfw)
+
+Inamhi pronostica lluvias de variable intensidad en Ecuador hasta el lunes 23 de diciembre
+==========================================================================================
+
+Las lluvias pronosticadas para Ecuador hasta el 23 de diciembre estarán en niveles medio, alto y muy alto.
+----------------------------------------------------------------------------------------------------------
+
+![Las lluvias en Ecuador serán de variable intensidad hasta el 23 de diciembre, según el pronóstico del Inamhi.](https://www.elcomercio.com/wp-content/uploads/2024/12/lluvias-ecuador-hasta-23-diciembre.jpg)
+
+El **Instituto Nacional de Meteorología e Hidrología (Inamhi)** pronostica **lluvias** de diferente intensidad en **Ecuador** hasta el 23 de diciembre de 2024.
+
+La semana pasada también se registraron lluvias de variable intensidad con **tormentas y ráfagas de viento** en gran parte del país, entre el 12 y 16 de diciembre.
+
+### Más noticias:
+
+* [Lluvias torrenciales se presentan en Ecuador este viernes 13 de diciembre](https://www.elcomercio.com/actualidad/ecuador/lluvias-clima-ecuador-viernes-13-de-diciembre.html "Lluvias torrenciales se presentan en Ecuador este viernes 13 de diciembre")
+* [Fuertes lluvias en Cuenca continúan; los ríos recuperan sus caudales](https://www.elcomercio.com/actualidad/cuenca/fuertes-lluvias-cuenca-rios-caudales.html "Fuertes lluvias en Cuenca continúan; los ríos recuperan sus caudales")
+
+Los pronósticos de lluvias en Ecuador hasta el lunes 23 de diciembre
+--------------------------------------------------------------------
+
+El Inamhi pronosticó **lluvias** de variable intensidad en Ecuador desde las 22:00 de hoy miércoles 18 hasta las 10:00 del lunes 23 de diciembre.
+
+Está previsto que las precipitaciones se presenten con **tormentas y ráfagas** de viento en gran parte del país, en **niveles medio, alto y muy alto.**
+
+Los **días más intensos** y probables serán el **20 y 21 de diciembre** de 2024.
+
+Tres **regiones** del país serán afectadas con énfasis en ciertas provincias:
+
+* **Región Litoral:** Esmeraldas, Santo Domingo, Los Ríos, Guayas, El Oro, Manabí y estribaciones de cordillera
+* **Región Interandina**: Carchi, Imbabura, Pichincha, Cotopaxi, Bolívar, Tungurahua, Chimbo-razo, Cañar, Azuay y Loja.
+* **Región Amazónica**: Sucumbíos, Orellana, Napo, Pastaza, Morona Santiago y Zamora.
+
+En la región Interandina, las **estribaciones de cordillera oriental y occidental** podrían ser las  
+localidades con más acumulación de **lluvia**.
+
+En **Cuenca**, en el último reporte de **Etapa**, la empresa señaló que los ríos **Tomebamba** y **Machángara** están en estado normal.
+
+Mientras que, los ríos **Yanuncay** y **Tarqui** están en estado bajo.
+
+Etapa contabilizó 159 días de **sequía hidrológica** y un 50% **probabilidad de lluvia**.
+
+La anterior semana, Etapa registró **inundaciones** en varios sectores de Cuenca. Los organismos de socorro atendieron las emergencias.
+
+> Mantenemos la alerta para actuar ante cualquier imprevisto en nuestros servicios 📞188.  
+>   
+> Recuerda: No te acerques a las orillas de los ríos y evita arrojar basura en las calles.[@czamoramatute](https://twitter.com/czamoramatute?ref_src=twsrc%5Etfw) [@maveronicapolo](https://twitter.com/maveronicapolo?ref_src=twsrc%5Etfw) [@MunicipioCuenca](https://twitter.com/MunicipioCuenca?ref_src=twsrc%5Etfw) [pic.twitter.com/n1JaC9x7jk](https://t.co/n1JaC9x7jk)
+> 
+> — ETAPA EP (@ETAPAOficial) [December 16, 2024](https://twitter.com/ETAPAOficial/status/1868458296656699747?ref_src=twsrc%5Etfw)
+
+El **Inamhi** sostuvo que las **condiciones atmosféricas** previstas para el país están influenciadas por el ingreso de masas de aire húmedo en niveles bajos de la troposfera.
+
+> [#AdvertenciaMeteorológicaEc](https://twitter.com/hashtag/AdvertenciaMeteorol%C3%B3gicaEc?src=hash&ref_src=twsrc%5Etfw) N.68 / ⚠️Desde el 18 hasta el 23 de diciembre se presentarán lluvias de variable intensidad con tormentas y ráfagas de viento en gran parte del país. Los días mas intensos y probables serán el 20 y 21 de diciembre de 2024. Tome precauciones.🌦️ 🌧️⛈️ [pic.twitter.com/EUiJ6amlcs](https://t.co/EUiJ6amlcs)
+> 
+> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [December 18, 2024](https://twitter.com/inamhi_ec/status/1869510604844875944?ref_src=twsrc%5Etfw)
+
+Salinas y otras tres ciudades solicitaron la cárcel de Archidona
+================================================================
+
+Luego de las intensas protestas en contra de la nueva cárcel en Archidona, el Gobierno trasladó la obra a Salinas.
+------------------------------------------------------------------------------------------------------------------
+
+![El Gobierno construirá dos cárceles de máxima seguridad, una en Santa Elena y otra en Salinas](https://www.elcomercio.com/wp-content/uploads/2024/12/carcel-nueva-archidona-salinas.jpg)
+
+Luego de la **oposición** de organizaciones sociales e indígenas a la construcción de una **nueva cárcel** de máxima seguridad en **Archidona**, en la provincia de Napo, **cuatro ciudades** de Ecuador solicitaron que el proyecto se lo traslade a sus territorios.
+
+### Más noticias
+
+* [Gobierno anuncia decisión final sobre la construcción de cárcel de Archidona](https://www.elcomercio.com/actualidad/ecuador/gobierno-anuncia-decision-carcel-archidona-ecuador.html "Gobierno anuncia decisión final sobre la construcción de cárcel de Archidona")
+* [Ejército ecuatoriano trasladó 180 reos a la cárcel de Latacunga](https://www.elcomercio.com/actualidad/seguridad/ejercito-ecuatoriano-traslado-180-reos-carcel-de-latacunga.html "Ejército ecuatoriano trasladó 180 reos a la cárcel de Latacunga")
+* [17 años de cárcel por terrorismo para seis miembros de Los Lobos](https://www.elcomercio.com/actualidad/seguridad/17-anos-de-carcel-terrorismo-para-seis-miembros-los-lobos.html "17 años de cárcel por terrorismo para seis miembros de Los Lobos")
+
+El Gobierno de **Daniel Noboa** avanzaba con la obra, incluso, la **adjudicación** ya se había ejecutado; sin embargo, tuvo que dar **marcha atrás** debido a los **intensos reclamos** de los moradores de Archidona.
+
+Gobierno desistió la obra en Archidona tras protestas
+-----------------------------------------------------
+
+La noche del jueves 12 de diciembre de 2024, las **protestas se intensificaron** luego de 10 días. Alrededor de mil personas se tomaron la **Gobernación de Napo** de forma simbólica, tras realizar una Asamblea Popular Permanente en la que se decidió que no aceptarían la construcción de la nueva obra en la ciudad.
+
+También se cerraron las calles de acceso a este sector, lo que llevó a un **desabastecimiento** temporal de víveres y combustible.
+
+Cuatro días después, el lunes 16 de diciembre, el **Ministerio de Gobierno** anunció que el proyecto se suspendía en esta ciudad[.](https://es.wikipedia.org/wiki/Archidona_(Ecuador) "https://es.wikipedia.org/wiki/Archidona_(Ecuador)")
+
+La entidad aclaró que, pese a la decisión, la actual **cárcel que existe en Archidona**, “que es de mínima seguridad y cuenta con una infraestructura deficiente, será **repotenciada** en la medida de sus capacidades”.
+
+Cuatro ciudades solicitaron ser la sede de la nueva cárcel
+----------------------------------------------------------
+
+En medio de las **tensiones**, los gobiernos de **cuatro ciudades s**olicitaron que se los tome en cuenta como sedes de la cárcel.
+
+Los alcaldes de **Salinas**, en Santa Elena; **Muisne**, en Esmeraldas; **El Empalme**, en Guayas y **Sucre**, en Manabí, formalizaron sus solicitudes al ministro de Gobierno, **José de la Gasca**.
+
+De forma general, los GAD consideraron que la construcción de la prisión beneficiaría al fortalecimiento del **Sistema Penitenciario Nacional**; y, que, asimismo, generaría un mayor impacto en el desarrollo **socioeconómico** de las localidades.
+
+Cárcel de máxima seguridad se trasladará a Salinas
+--------------------------------------------------
+
+Si bien todos se comprometieron a gestionar los trámites administrativos y los permisos, el Gobierno se decidió por **Salinas**.
+
+La invitación de esta ciudad fue aceptada por considerarla como la que mejor cumplía con los criterios **técnicos**, logísticos y de **seguridad**.
+
+El Ministerio de Gobierno respaldó al Gobierno Descentralizado de la localidad costera por apoyar y colaborar en la **“lucha contra la inseguridad y en el desarrollo de las comunidades”**. 
+
+Además de esta nueva prisión, la Cartera de Estado construye otro centro de detención en la provincia de **Santa Elena**.
+
+Mena y Micolta, los ecuatorianos que se plantaron al Real Madrid
+================================================================
+
+Los ecuatorianos Andrés Micolta y Ángel Mena disputaron una final histórica ante el Real Madrid en la Copa Intercontinental.
+----------------------------------------------------------------------------------------------------------------------------
+
+![Andrés Micolta del Pachuca (izq.) disputa un balón con Kylian Mbappé del Real Madrid (der).](https://www.elcomercio.com/wp-content/uploads/2024/12/663fe6c49545833b99f4f55c46f6904ef93970ce-1.jpg)
+
+**Andrés Micolta y Ángel Mena** disputaron la final de la nueva Copa Intercontinental de la FIFA con el Pachuca ante el Real Madrid. Pese a que cayeron por 3-0, los ecuatorianos tuvieron una destacada actuación durante el certamen y estuvieron cerca de igualar a [Alberto Spencer](https://www.elcomercio.com/deportes/futbol/alberto-spencer-el-futbolista-que-puso-a-ecuador-en-el-mapa.html "https://www.elcomercio.com/deportes/futbol/alberto-spencer-el-futbolista-que-puso-a-ecuador-en-el-mapa.html"), único tricolor en ganar torneos intercontinentales.
+
+Después de dejar en el camino a **Botafogo**, campeón de la **Copa Libertadores de América**, y al Al Ahly, campeón de África, el conjunto mexicano y los ecuatorianos se midieron a los españoles. Micolta arrancó como titular y Mena ingresó desde el banco en el segundo tiempo.
+
+### Más noticias:
+
+* [Real Madrid no permitió sorpresas y es campeón Intercontinental](https://www.elcomercio.com/deportes/futbol/real-madrid-copa-intercontinental-campeon.html "Real Madrid no permitió sorpresas y es campeón Intercontinental")
+* [Alberto Spencer es el único ecuatoriano que conquistó la Intercontinental](https://www.elcomercio.com/deportes/futbol/alberto-spencer-es-el-unico-ecuatoriano-que-conquisto-la-intercontinental.html "Alberto Spencer es el único ecuatoriano que conquistó la Intercontinental")
+* [Real Madrid intentará ser el máximo ganador de la Intercontinental](https://www.elcomercio.com/deportes/futbol/real-madrid-intentara-ser-maximo-ganador-copa-intercontinental.html "Real Madrid intentará ser el máximo ganador de la Intercontinental")
+
+**Micolta** se dispuso como defensa central y estuvo presente hasta el silbatazo final del compromiso. En el caso de **Mena**, su arribo se produjo a los 75 minutos y se ubicó en el andarivel derecho como extremo. Este último inclusive llegó a hacer un gol, sin embargo, este fue anulado por un tanto en fuera de juego.
+
+Los goles del Madrid llegaron desde la primera mitad y Kylian Mbappé abrió la cuenta. **Rodrygo Goes y Vinícius Jr.** fueron quienes cerraron el marcador en el segundo tiempo.
+
+Con aquel duelo, tanto **Micolta** como Mena sellaron el 2024, sin embargo, ambos viven momentos distintos en su carera. El primero atraviesa uno de sus picos futbolísticos y ha llegado a ser convocado a la Selección del Ecuador, mientras que el último cuenta con experiencia y ya anunció su retiro de la Tri.
+
+Andrés Micolta, un central que promete en el Pachuca y marcó a los mejores del Real Madrid
+------------------------------------------------------------------------------------------
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DDvOGD9titp/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DDvOGD9titp/?utm_source=ig_embed&utm_campaign=loading)
+
+**Andrés Micolta** llegó al Pachuca para disputar la temporada 2024 y sin un gran cartel, sin embargo, se ha consolidado como uno de los titulares fijos en el esquema del DT **Guillermo Almada**. Tras su arribo, los primeros partidos los tuvo en **reserva** y luego fue ascendido hacia el primer equipo.
+
+Su arribo al conjunto ‘tuzo’ lo tuvo desde **El Nacional**, equipo con el que disputó la Serie B de la Liga Pro en 2022 y luego la Serie A en 2024. Allí también pudo tener su primera experiencia internacional al jugar Copa Libertadores[.](https://en.wikipedia.org/wiki/Real_Madrid_CF "https://en.wikipedia.org/wiki/Real_Madrid_CF")
+
+Con el cuadro azteca, Micolta se coronó campeón de la **Concachampions**, lo cual le permitió acceder a la Copa Intercontinental. Dentro del plantel suma **23 partidos**, dos goles y una asistencia a sus 25 años.
+
+Ángel Mena, cerca de un recuerdo dorado en la Intercontinental
+--------------------------------------------------------------
+
+A diferencia de Micolta, **Ángel Mena** llegó al Pachuca a mediados de la temporada 2024. El extremo fue uno de los pedidos de Guillermo Almada.
+
+Con su arribo a los 36 años, el ecuatoriano convirtió al equipo blanquiazul en el quinto de su carrera, pues antes también pasó por el **León y el Cruz Azul** de México. En Ecuador jugó para Deportivo Cuenca y Emelec.
+
+Durante la final ante el Cruz Azul estuvo a punto de anotar uno de los goles más memorables de su carrera. En los minutos de descuento, un centro llegó al área y el tricolor definió de ‘palomita’, pero se encontraba en **posición adelantada.**
+
+California declara estado de emergencia para contrarrestar gripe aviar
+======================================================================
+
+El Gobernador de California declaró el estado de emergencia por los reportes de contagios de gripe aviar.
+---------------------------------------------------------------------------------------------------------
+
+![El Gobernador de California declaró el estado de emergencia por la gripe aviar.](https://www.elcomercio.com/wp-content/uploads/2024/12/california-emergencia-gripe-aviar.jpg)
+
+El gobernador de **California**, Gavin Newsom, declaró el estado de **emergencia** por el virus de la **gripe aviar H5N1.**
+
+Este virus se ha estado diseminando por las ganaderías del **Estado** y se han reportado varios casos en trabajadores, además de un niño contagiado.
+
+### Más noticias:
+
+* [Un terremoto de magnitud 7 sacudió el norte de California](https://www.elcomercio.com/actualidad/mundo/terremoto-magnitud-sacude-norte-california-alerta-tsunami.html "Un terremoto de magnitud 7 sacudió el norte de California")
+* [Donald Trump invita a Javier Milei a su ceremonia de investidura presidencial](https://www.elcomercio.com/actualidad/mundo/donald-trump-javier-milei-invitacion-investidura.html "Donald Trump invita a Javier Milei a su ceremonia de investidura presidencial")
+
+La declaratoria de emergencia de California por la gripe aviar
+--------------------------------------------------------------
+
+California emitió la declaratoria de emergencia el mismo día en que los **Centros para el Control y Prevención de Enfermedades (CDC)**, por sus siglas en inglés) informaron de que una persona de Luisiana fue hospitalizada por la **gripe aviar**.
+
+Este sería el primer caso severo en **Estados Unidos** por causa de este virus.
+
+La declaración garantiza a las **agencias estatales** tener los recursos y la flexibilidad para responder rápidamente al **brote.**
+
+“Basándonos en el sistema de pruebas y monitoreo de **California**, el más grande del país, nos comprometemos a proteger aún más la **salud pública**“, dijo Newsom.
+
+Además, señaló que se apoyará a la **industria agrícola** y se garantizará que los californianos tengan acceso a información precisa y actualizada.
+
+A finales de noviembre, California suspendió la **distribución de leche** cruda de su mayor minorista.
+
+Esto, porque se detectó el virus de la **gripe aviar H5N1** en varias **muestras de venta al público.**
+
+El pasado 22 de noviembre, los CDC informaron un caso de gripe aviar en **un niño** en California, sería el primer contagio de un menor de edad registrado en el país.
+
+El niño, del que no se informó su edad, se recuperó de la **enfermedad**.
+
+Todos los miembros del hogar del menor informaron tener **síntomas**, pero solo el niño dio positivo.
+
+Las **autoridades sanitarias** aún no han podido establecer cómo se infectó.
+
+En **Estados Unidos**, al menos **61 personas** han contraído el virus desde abril.
+
+La gran mayoría de ellos son **trabajadores de ganaderías o criaderos de aves**, según los datos de CDC.
+
+Más de la mitad de los casos se han registrado en **California** (34), y todas menos una contrajeron el virus a través de productos lácteos infectados, de acuerdo al **Departamento de Salud Pública de California (CDPH)**.
+
+En ese sentido, Newsom recalcó que “si bien el riesgo para el público sigue siendo bajo, continuaremos tomando todas las medidas necesarias para **prevenir la propagación** de este virus”.
+
 Daniel Noboa cumplió agenda en Chimborazo y Cotopaxi, ¿qué actividades realizó?
 ===============================================================================
 
@@ -552,494 +987,3 @@ Claudia Otero, gerente de la **Epmmop**, indica que estas obras generan espacios
 El **Municipio** planea construir nueve **Senderos** **Seguros** adicionales en varias administraciones zonales.
 
 * * *
-
-Mapa del fútbol ecuatoriano, ¿cómo se distribuye la Liga Pro A y B en 2025?
-===========================================================================
-
-La Liga Pro está compuesta por 26 equipos: 16 en la Serie A y 10 en la B.
--------------------------------------------------------------------------
-
-![Anthony Bedoya (c) festeja un gol marcado con El Nacional en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/distribucion_1.jpg)
-
-La **Liga Pro 2024** llegó a su fin, pero inmediatamente está en marcha la nueva temporada que está programada para que arranque la segunda quincena de febrero con un nuevo formato y más partidos.
-
-El sistema de campeonato **establece una primera etapa de todos contra todos con 30 fechas** y una segunda fase con tres liguillas: una para definir al campeón y cupos a la Libertadores, otra para la Sudamericana y otra para los dos descensos.
-
-### Más noticias:
-
-* [La Liga Pro tiene tres fichajes que prometen funcionar](https://www.elcomercio.com/deportes/futbol/liga-pro-fichajes2025-siguiente-temporada.html "La Liga Pro tiene tres fichajes que prometen funcionar")
-* [Kendry Páez y Ál](https://www.elcomercio.com/deportes/kendry-paez-alex-arce-valores-liga-pro.html "Kendry Páez y Álex Arce finalizan como los más caros de Liga Pro")[e](https://www.elcomercio.com/deportes/kendry-paez-alex-arce-valores-liga-pro.html "Kendry Páez y Álex Arce finalizan como los más caros de Liga Pro")[x Arce finalizan como los más caros de Liga Pro](https://www.elcomercio.com/deportes/kendry-paez-alex-arce-valores-liga-pro.html "Kendry Páez y Álex Arce finalizan como los más caros de Liga Pro")
-* [El Nacional vs. Liga de Quito, rivalidad histórica que tendrá su tercera final](https://www.elcomercio.com/deportes/el-nacional-liga-quito-historial-finales.html "El Nacional vs. Liga de Quito, rivalidad histórica que tendrá su tercera final")
-
-La Liga Pro A y B tendrá 26 equipos
------------------------------------
-
-La distribución geográfica de la Liga Pro 2025 está definida. **Siete de las 24 provincias** son las que tendrán alojados a los 16 equipos de la Serie A.
-
-Pichincha es sede de seis equipos: Aucas, El Nacional, Independiente del Valle, Liga de Quito, Universidad Católica y **Vinotinto, institución que ascendió bajo el nombre de Cuniburo, pero cambió su nombre** y hará su primera participación en la A.
-
-El Olímpico Atahualpa será la casa de El Nacional, Universidad Católica y Vinotinto; el Gonzalo Pozo Ripalda de Aucas; **el Rodrigo Paz Delgado de Liga de Quito**; y el de Independiente del Valle acogerá al club homónimo.
-
-Tungurahua es segunda en esta lista con tres escuadras: Macará, Técnico Universitario y Mushuc Runa.
-
-Los dos primeros juegan de local en el Bellavista, **mientras que el ‘Ponchito’ venía jugando en el [estadio de la comunidad de Echaleche](https://www.elcomercio.com/deportes/futbol/luis-chango-estadio-echaleche-ligapro.html),** pero problemas administrativos con el municipio de Ambato los hizo migrar hacía La Cocha de Latacunga.
-
-Guayas estará representado por Barcelona Sporting Club y Emelec. Los del ‘Astillero’ reciben a sus visitantes en el **Monumental y George Capwell, respectivamente**.
-
-Manabí también estará representada por dos institucions: Delfín y Manta. Ambos son locales en el Jocay.
-
-Azuay cuenta con el **[Deportivo Cuenca (Alejandro Serrano Aguilar)](https://ligapro.ec/equipos/),** El Oro con Orense (9 de Mayo) y Loja con Libertad (Reina del Cisne).
-
-![API.](https://www.elcomercio.com/wp-content/uploads/2024/12/distribucion_2-1024x683.jpg)
-
-API.
-
-¿Y cómo se distribuye la B?
----------------------------
-
-Sobre la Serie B existe la incertidumbre de saber si se mantendrán los 10 equipos o si se aumentará a 12.
-
-Esta confusión nace a raíz que a inicios de 2024 se indicó que no habría descenso, pero en el **segundo semestre se cambio la reglas incluyendo** descensos. Cuando parecía que la reglas estaban claras, se volvió a [cambiar el formato y se volvió al plan original para aumentar a 12 equipos](https://www.elcomercio.com/deportes/futbol/serie-b-ecuador-descensos-fef.html).
-
-Lo real esa que aun no existe un pronunciamiento al respecto. Lo que si está claro es sobre los 10 equipos que tienen confirmada su participación.
-
-En la B, Imbabura es una de las de mayor representación con **Imbabura SC, Leones FC y San Antonio**. Aunque pertenecen a distintos cantones, todos juegan en condición de local en el Olímpico de Ibarra.
-
-Pichincha también entra en este lote de tres equipos por intermedio de Independiente Jrs. (Complejo de IDV), Cumbayá (Olímpico Atahualpa) y Vinotinto B (Olímpico Atahualpa).
-
-Guayas tiene la representación de **9 de Octubre (Alejandro Ponce Noboa)** y Guayaquil City (Christian Benítez).
-
-Azuay cuenta con Gualace (Jorge Andrade Cantos) y Esmeraldas con 22 de Julio (Folke Anderson).
-
-En caso de anularse los descenso, **Tungurahua incluirá entre sus equipos profesionales a** Chacaritas, y Esmeraldas al Club Vargas Torres.
-
-En suma, Pichincha tiene, entre la A y la B, nueve quipos, Guayas cuatro, Tungurahua e Imbabura tres, Manabí y Azuay dos, El Oro, Loja y Esmeraldas uno.
-
-![API.](https://www.elcomercio.com/wp-content/uploads/2024/12/distribucion_3-1024x683.jpg)
-
-API.
-
-Pichincha domina la era Liga Pro
---------------------------------
-
-En el 2019, contando la A y la B, Pichincha tuvo siete equipos; Guayas, Tungurahua y Manabí tres; Azuay y El Oro dos; **Chimborazo, Cotopaxi, Santa Elena, Los Ríos, Loja**, y Santo Domingo de los Tsáchilas uno.
-
-En el 2020, Pichincha contó con siete; Guayas y Tungurahua con cuatro; Manabí con tres; Azuay y El Oro con dos; Chimborazo, Los Ríos, Santa Elena y Santo Domingo de los Tsáchilas uno.
-
-En el 2021, **Pichincha siguió a la cabeza con ocho representantes**; Guayas le siguió con cinco; Tungurahua con cuatro; Manabí con tres; Azuay con dos; El Oro, Santa Elena, Santo Domingo de los Tsáchilas y Chimborazo con uno.
-
-El el 2022 el dominio de Pichincha siguió con ocho equipos; Guayas tuvo cinco; Tungurahua cuatro; Azuay y Manabí dos; Santo Domingo de los Tsáchilas, Loja, Imbabura y El Oro y Chimborazo uno.
-
-En el [2023 el control de Pichincha se amplió a nueve escuadras](https://www.elcomercio.com/deportes/futbol/pichincha-guayas-titulos-campeonato-naciona.html "Pichincha ampliará su dominio sobre Guayas en campeonato nacional"); **Guayas le siguió con cinco**; Tungurahua con cuatro; Azuay y Manabí con dos; El Oro, Loja, Esmeraldas e Imbabura uno.
-
-Confesionario – segunda temporada en proceso
---------------------------------------------
-
-Cortes de luz en Guayaquil para este jueves 19 de diciembre
-===========================================================
-
-Guayaquil tendrá cortes de luz de dos horas este jueves 19 de diciembre. Este será el último día con apagones en la ciudad.
----------------------------------------------------------------------------------------------------------------------------
-
-![Guayaquil tendrá apagones de dos horas, en el último día de racionamientos](https://www.elcomercio.com/wp-content/uploads/2024/12/cortes-guayaquil-19-diciembre.jpg)
-
-La Corporación Nacional de Electricidad (**CNEL**) anunció los horarios de **cortes de luz** que tendrá **Guayaquil** para este **jueves 19 de diciembre** de 2024. Según el ofrecimiento del Gobierno, este será el **último día** con apagones programados en Ecuador.
-
-### Más noticias
-
-* [Cortes de luz en Quito este jueves 19 de diciembre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-jueves-19-diciembre.html "Cortes de luz en Quito este jueves 19 de diciembre")
-* [Ministerio de Energía impuso sanción económica a Progen por incumplimientos ¿Cuál es el monto?](https://www.elcomercio.com/actualidad/negocios/ministerio-energia-impuso-sancion-economica-progen.html "Ministerio de Energía impuso sanción económica a Progen por incumplimientos ¿Cuál es el monto?")
-* [Ministra de Energía de Ecuador afirma que solo siete empresas tendrán un apagón de 15 días](https://www.elcomercio.com/actualidad/negocios/ministra-energia-ecuador-afirma-solo-siete-empresas-apagon-15-dias.html "Ministra de Energía de Ecuador afirma que solo siete empresas tendrán un apagón de 15 días")
-
-El Ministerio de Energía, a cargo de forma temporal de **Inés Manzano**, ejecutará racionamientos eléctricos de **dos horas** este jueves.
-
-Apagones cambiaron la cotidianidad de los ecuatorianos
-------------------------------------------------------
-
-Esta jornada será la última, luego de **87 días** con cortes de luz que, en los casos más extremos, se extendieron a **14 horas**.
-
-El país enfrenta una **crisis energética**, causada en gran parte, por la falta de lluvias considerables en las zonas cercanas a las **centrales hidroeléctricas**.
-
-Por ello, el Gobierno de Daniel Noboa aplicó racionamientos en abril de 2024, que luego se retomaron a partir del **23 de septiembre**.
-
-Desde ese momento, los ecuatorianos tuvieron que ajustar su **cotidianidad**, a actividades que no requieran energía eléctrica; o a su vez, **utilizar artefactos** alternativos para solventar los apagones, como **focos recargables**, generadores o sistemas de alimentación ininterrumpida (**UPS**).
-
-Fin de los cortes de luz en Ecuador
------------------------------------
-
-El presidente **Daniel Noboa** anunció que el 20 de diciembre finalizarán los **cortes de luz** programados por la crisis energética[.](https://www.cnelep.gob.ec/ "https://www.cnelep.gob.ec/")
-
-La medida obedece a la **recuperación** del sistema eléctrico nacional y a la incorporación de nueva generación de energía a través de varios proyectos. Uno de ellos, fue la **compra** de energía a **Colombia**.
-
-El aumento de los **caudales** y los embalses que abastecen a hidroeléctricas del Austro, como **Mazar** y **Paute**, contribuyeron en gran parte a la finalización de los apagones.
-
-Último día de cortes de luz en Guayaquil
-----------------------------------------
-
-Los cortes de luz en Guayaquil serán de dos horas este **jueves 19 de diciembre** en las **zonas residenciales**.
-
-Esta programación se ejecutará de corrido, en la madrugada, mañana, tarde y noche.
-
-Para el sector industrial, los cortes de luz serán de hasta **seis horas**.
-
-Te compartimos el **cronograma completo** de cortes de luz para este jueves:
-
-El SRI suspende cobro de impuestos a vehículos hasta nueva actualización
-========================================================================
-
-El SRI suspenderá los servicios relacionados con impuestos a vehículos por actualización del período fiscal 2025.
------------------------------------------------------------------------------------------------------------------
-
-![Trámites del SRI presenciales y digitales tendrán plazos específicos para su atención.](https://www.elcomercio.com/wp-content/uploads/2024/12/sri-2025.jpg)
-
-El Servicio de Rentas Internas (SRI) informó que los servicios relacionados con **impuestos a vehículos** estarán temporalmente suspendidos. La medida se debe a la configuración de los impuestos correspondientes al período fiscal 2025[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [Impuesto a la salida de divisas en 2025, lo que debe saber de los cambios en Ecuador](https://www.elcomercio.com/actualidad/negocios/impuesto-salida-divisas-2025-debes-saber-sobre-cambio-tarifa.html "Impuesto a la salida de divisas en 2025, lo que debe saber de los cambios en Ecuador")
-* [Revisión y matriculación vehicular en 2025 será diferente en Quito](https://www.elcomercio.com/actualidad/quito/revision-vehicular-matriculacion-diferente-quito.html "Revisión y matriculación vehicular en 2025 será diferente en Quito")
-* [Daniel Noboa reduce el IVA para feriados de Navidad y Año Nuevo](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-redujo-el-iva-8-durante-feriados-navidad-ano-nuevo.html "Daniel Noboa reduce el IVA para feriados de Navidad y Año Nuevo")
-
-La suspensión será desde el martes **31 de diciembre de 2024** hasta el martes 14 de enero de 2025. Durante este período, no estarán disponibles los **pagos de impuestos** a la propiedad de vehículos motorizados. Además, de servicios relacionados con los impuestos relacionados con la **compraventa de vehículos usados**, tanto en las instituciones financieras como en el portal en línea del SRI.
-
-Atención presencial hasta el 30 de diciembre
---------------------------------------------
-
-Además, el SRI señaló que los **trámites vehiculares** podrán realizarse de manera presencial en los Centros de Atención de la entidad a nivel nacional hasta el **lunes 30 de diciembre de 2024**. Para garantizar la atención oportuna, las solicitudes deben ser ingresadas con anticipación.
-
-Además, se debe tomar en cuenta que, en el caso de los trámites presentados a través d**e ventanillas de Secretaría** o mediante la sección ‘Trámites y notificaciones’ del portal transaccional del SRI, el **plazo máximo de ingreso** será el 22 de diciembre de 2024.
-
-Esto incluye solicitudes para la **creación de subcategorías vehiculares**, **reversos de contratos**, **actualizaciones de características de los vehículos y exoneraciones**, entre otros. La atención de estas gestiones culminará el 30 de diciembre.
-
-Servicios de pago vehicular se reanudarán en enero
---------------------------------------------------
-
-El SRI tiene previsto reanudar todos los servicios vehiculares el 14 de enero de 2025. Los usuarios podrán realizar pagos y gestiones habituales tanto en el portal en línea como en las instituciones financieras habilitadas a partir de esta fecha.
-
-Por su parte, la entidad recomienda a los contribuyentes **planificar con tiempo sus trámites y pagos vehiculares** para evitar inconvenientes. Cualquier actualización sobre el proceso será comunicada a través de los canales oficiales del SRI, agregó la entidad.
-
-Este ajuste responde al cronograma anual de actualización de impuestos, necesario para garantizar la correcta aplicación de las obligaciones tributarias para el próximo año fiscal, señaló el SRI.
-
-> [#BoletínSRI](https://twitter.com/hashtag/Bolet%C3%ADnSRI?src=hash&ref_src=twsrc%5Etfw)  
->   
-> Los servicios de impuestos vehiculares se suspenderán el 31 de diciembre de 2024 y se habilitarán el 14 de enero de 2025.  
->   
-> Revisa más aquí: [https://t.co/4KFK7HTQNc](https://t.co/4KFK7HTQNc)[#ElNuevoEcuador](https://twitter.com/hashtag/ElNuevoEcuador?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/Q9yb4fWAIb](https://t.co/Q9yb4fWAIb)
-> 
-> — SRI Ecuador (@SRIoficialEc) [December 13, 2024](https://twitter.com/SRIoficialEc/status/1867673075094856126?ref_src=twsrc%5Etfw)
-
-Cortes de luz en Quito este jueves 19 de diciembre
-==================================================
-
-Los cortes de luz en Quito este jueves 19 de diciembre serán de dos horas consecutivas para el sector residencial.
-------------------------------------------------------------------------------------------------------------------
-
-![Los cortes de luz en Quito este jueves 19 de diciembre son definidos por la EEQ.](https://www.elcomercio.com/wp-content/uploads/2024/12/cortes-luz-quito-jueves-19-diciembre.jpg)
-
-Este **jueves 19 de diciembre de 2024** es el último día de **cortes de luz** en **Quito**, según ratificó el Gobierno de **Daniel Noboa.**
-
-La **Empresa Eléctrica Quito (EEQ)** estableció la programación de suspensión del servicio de energía eléctrica para mañana, en la capital.
-
-### Más noticias:
-
-* [Ministerio de Energía impuso sanción económica a Progen por incumplimientos ¿Cuál es el monto?](https://www.elcomercio.com/actualidad/negocios/ministerio-energia-impuso-sancion-economica-progen.html "Ministerio de Energía impuso sanción económica a Progen por incumplimientos ¿Cuál es el monto?")
-* [Gobierno ratifica el fin de los cortes de luz luego de más de 80 días de racionamientos](https://www.elcomercio.com/actualidad/ecuador/gobierno-ratifica-fin-cortes-luz-ecuador.html "Gobierno ratifica el fin de los cortes de luz luego de más de 80 días de racionamientos")
-
-Horarios de los cortes de luz reducidos en Quito este jueves 19 de diciembre
-----------------------------------------------------------------------------
-
-Los cortes de luz programados por la crisis energética llegan a su fin en **Ecuador**.
-
-Según lo anunciado por el **Gobierno de Daniel Noboa**, este jueves 19 de diciembre es el último día de los racionamientos eléctricos en **Quito** y todo el país.
-
-Este año, los cortes de luz empezaron en **abril**, pero fueron suspendidos.
-
-Luego, desde el **23 de septiembre**, la suspensión diaria del servicio de energía eléctrica se ha mantenido hasta hoy.
-
-Ecuador bordea los tres meses de cortes de luz programados y, en este lapso de tiempo, tuvo suspensiones diarias de **hasta 14 horas**.
-
-El principal factor para que esto ocurra es la dependencia que tiene el sistema de **generación eléctrica** del país de las **lluvias.**
-
-La grave **sequía** provocó la baja en los niveles de los caudales de los ríos y los embalses que abastecen a las centrales hidroeléctricas.
-
-En los últimos días, las lluvias se incrementaron, permitieron mejorar el funcionamiento de la **capacidad instalada.**
-
-Además, el Gobierno realizó **inversiones** en proyectos energéticos, tras la **declaratoria de emergencia** del sector.
-
-Dos de esos proyectos, contratados con la empresa **Progen** están siendo auditados por la **Contraloría General del Estado.**
-
-Los incumplimientos de esta empresa en los proyectos de **Salitral y Quevedo** provocó que el Gobierno impusiera una multa económica de casi un millón de dólares.
-
-En medio de todas estas novedades, este jueves los cortes de luz en la capital serán de **dos horas consecutivas para el sector residencial.**
-
-A continuación, los **cortes de luz en Quito este jueves 19 de diciembre de 2024**:
-
-Camión atropelló a pareja de adultos mayores por huir de la Policía, en Quinindé
-================================================================================
-
-Dos adultos mayores fueron atropellados por un camión que huía de la Policía, en Quinindé, en la provincia de Esmeraldas.
--------------------------------------------------------------------------------------------------------------------------
-
-![La pareja de esposos se movilizaba en una motocicleta cuando fueron embestidos por el camión](https://www.elcomercio.com/wp-content/uploads/2024/12/quininde-atropellamiento-camion.jpg)
-
-Dos **adultos mayores** fueron víctimas colaterales de una **persecución policial** en Quinindé, en la provincia de **Esmeraldas**. La **pareja de esposos** murió luego de ser **atropellada** por un camión que huía de los uniformados.
-
-### Más noticias
-
-* [Policía detiene a nueve miembros del grupo armado Los Lobos](https://www.elcomercio.com/actualidad/seguridad/policia-detiene-a-nueve-miembros-grupo-armado-los-lobos.html "Policía detiene a nueve miembros del grupo armado Los Lobos")
-* [Raúl Ilaquiche, esposo de Lourdes Tibán, falleció en siniestro de tránsito este viernes](https://www.elcomercio.com/actualidad/seguridad/raul-ilaquiche-esposo-lourdes-tiban-fallecio-siniestro-transito.html "Raúl Ilaquiche, esposo de Lourdes Tibán, falleció en siniestro de tránsito este viernes")
-* [Investigan muerte de joven en plena audiencia por extralimitación policial](https://www.elcomercio.com/actualidad/seguridad/investigan-muerte-joven-audiencia-extralimitacion-policial-guayaquil.html "Investigan muerte de joven en plena audiencia por extralimitación policial")
-
-El lamentable hecho quedó registrado en las cámaras de seguridad de la vía principal de la parroquia **La Unión**.
-
-En las **fuertes imágenes** se observa como el camión se pasa el rojo de un semáforo a **alta velocidad**, y en su intento por tomar la curva, **embiste** por detrás a la **motocicleta** en la que se movilizaban los adultos mayores.
-
-El conductor del **vehículo pesado no frenó** con el impacto y continuó su huida, pasando las llantas delanteras y traseras por **encima de las víctimas**.
-
-Cuando los paramédicos llegaron al lugar, las dos personas ya no tenían **signos vitales**. El lugar fue delimitado para que Medicina Legal realice el levantamiento de los cuerpos.
-
-El trágico suceso ocurrió cerca de las 09:00 de este **martes 17** de diciembre de 2024, a la altura al sector Playa del Muerto[.](https://www.policia.gob.ec/ "https://www.policia.gob.ec/")
-
-Camión huía con combustible robado
-----------------------------------
-
-**David Benítez**, jefe del distrito de la Policía de Quinindé, detalló que durante un **operativo de seguridad** realizado en la carretera, en Viche, los uniformados detectaron la presencia extraña de **tres camiones**.
-
-Los vehículos pesados iban cargados de combustible, que se presume, era robado. Tras pedirles que se detengan, los ocupantes de los camiones intentaron **darse a la fuga**.
-
-La Policía comenzó una **persecución**; a los pocos kilómetros, dos de los vehículos fueron detenidos. Mientras que el tercero **continuó con la huida**. Este último fue el que ocasionó el atropellamiento de los adultos mayores.
-
-Policía detuvo a siete personas, incluido el temerario conductor
-----------------------------------------------------------------
-
-Tras cometer el **fatal siniestro de tránsito**, dos patrulleros consiguieron frenar al camión involucrado.
-
-El conductor del vehículo pesado, un ocupante y **otras cinco personas** que fueron detenidas y entregadas a las autoridades en flagrancia.
-
-Las víctimas del atropellamiento fueron identificadas como **Calixto Bernita**, de 66 años, y **Carmen Bravo**, de 63.
-
-Los esposos vivían en la provincia de Imbabura. Ese día, fueron a visitar a unos familiares en Quinindé.
-
-El Nacional y Barcelona SC tienen posibles rivales en Libertadores 2024
-=======================================================================
-
-El Nacional y Barcelona SC iniciarán la Copa Libertadores desde sus fases previas y ya conocen sus posibles rivales antes del sorteo.
--------------------------------------------------------------------------------------------------------------------------------------
-
-![Bryan Carabalí (izq.) de Barcelona SC disputa un balón con Bryan Carabalí de El Nacional (der.) en un partido de la Liga Pro antes de Copa Libertadores.](https://www.elcomercio.com/wp-content/uploads/2024/12/20241005131276-fbl-ligapro-nacional-barcelona-1-scaled.jpg)
-
-**El Nacional y Barcelona SC** fueron los clubes que alcanzaron los dos últimos cupos de clasificación hacia la Copa Libertadores 2025, desde donde iniciarán en sus fases previas. El jueves 19 de diciembre del 2024 a las 10:00, el sorteo se llevará a cabo, aunque estos ya conocen sus **potenciales rivales**.
-
-Tanto los puros criollos como los toreros deberán iniciar con antelación su trajín dentro del certamen continental debido a la forma en la que accedieron a este, pues ninguno obtuvo un cupo directo, dado que no fue ni campeón ni subcampeón de la Liga Pro. El ‘**Ídolo**‘ ingresó con ‘Ecuador 3’ al finalizar en el tercer puesto del torneo liguero y el ‘**Bi-Tri**‘ como ‘Ecuador 4’ al [ganar la Copa Ecuador.](https://www.elcomercio.com/deportes/futbol/final-unica-copa-ecuador-resultado.html "https://www.elcomercio.com/deportes/futbol/final-unica-copa-ecuador-resultado.html")
-
-### Más noticias:
-
-* [El Nacional vs. Liga de Quito, rivalidad histórica que tendrá su tercera final](https://www.elcomercio.com/deportes/el-nacional-liga-quito-historial-finales.html "El Nacional vs. Liga de Quito, rivalidad histórica que tendrá su tercera final")
-* [La Supercopa Ecuador tendrá el clásico de El Nacional y Liga de Quito](https://www.elcomercio.com/deportes/el-nacional-liga-quito-final-supercopa-ecuador.html "La Supercopa Ecuador tendrá el clásico de El Nacional y Liga de Quito")
-* [El Nacional lanza camiseta y escudo para Copa Libertadores 2025](https://www.elcomercio.com/deportes/el-nacional-nuevo-escudo-camiseta-copa-libertadores.html "El Nacional lanza camiseta y escudo para Copa Libertadores 2025")
-
-Las vías de clasificación de cada uno hacen que, si bien estos inician en rondas anteriores a [los grupos](https://www.elcomercio.com/deportes/futbol/equipos-ecuador-copa-libertadores-conmebol.html#:~:text=El%20Nacional%20ser%C3%A1%20el%20primer,en%20el%20torneo%20de%202024. "https://www.elcomercio.com/deportes/futbol/equipos-ecuador-copa-libertadores-conmebol.html#:~:text=El%20Nacional%20ser%C3%A1%20el%20primer,en%20el%20torneo%20de%202024."), no lo harán desde las mismas. **El Nacional** empezará desde la **fase 1** y será el primero en jugar, mientras que Barcelona lo hará desde la **fase 2**.
-
-Los equipos con los que cada uno de los equipos sea emparejado son aquellos que también hayan obtenido la misma categoría de cupo. El cuadro de **Guayaquil**, sin embargo, también cuenta con la posibilidad de medirse ante alguno de los que supere la primera fase.
-
-Posibles rivales para El Nacional en la Copa Libertadores
----------------------------------------------------------
-
-![Plantilla de El Nacional en la Copa Libertadores 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/2024022994519-fbl-libertadores-nacional-trinidence-1024x678.jpg)
-
-Plantilla de El Nacional en la Copa Libertadores 2024. Foto: API
-
-Para la primera fase de la **Copa Libertadores** se clasifican seis equipos, cada uno de un país distinto. A partir de ello se establecen dos bombos conformados, individualmente, por tres de los clubes clasificados.
-
-La posición de los equipos en cada bolillero se fija a través del ranking de estos en la **Conmebol**. De tal manera, los tres mejores van al bombo 1 y se emparejan con sus sucesores del bombo 2[.](https://en.wikipedia.org/wiki/Barcelona_S.C. "https://en.wikipedia.org/wiki/Barcelona_S.C.")
-
-En el caso de El Nacional, el cuadro ecuatoriano se ubicará en el bombo 1 junto a **Alianza Lima de Perú** y **Defensor Sporting de Uruguay**. De tal manera, sus potenciales rivales son Monagas de Venezuela, Nacional de Paraguay y uno Bolivia, que aún no está definido.
-
-Posibles rivales de Barcelona SC en la Copa Libertadores
---------------------------------------------------------
-
-![Barcelona SC en su participación en la Copa Libertadores 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/20240425103589-fbl-libertadores-barcelona-sao-paulo-1024x707.jpg)
-
-Barcelona SC en su participación en la Copa Libertadores 2024.
-
-Para la segunda fase de la **Copa Libertadores** también existirán dos bombos y el criterio de ubicación en cada uno será el mismo de la primera. Pese a ello, el número de conjuntos, y por ende de partidos, aumentará.
-
-El ‘Ídolo’ se ubica en el bolillero 1 junto con otros siete clubes. Sus compañeros, con los que no podrá enfrentarse en la segunda ronda, son **Boca Juniors de Argentina, Corinthians de Brasil, Cerro Porteño de Paraguay, Independiente Santa Fe de Colombia, Melgar de Perú, Bahía de Brasil y Ñublense de Chile.**
-
-El bolillero dos, donde se encuentran los posibles rivales de **Barcelona SC** aún no tiene a todos sus equipos definidos, pues dos de ellos aún no terminan su campeonato o provendrán de la fase previa. De tal manera, el conjunto guayaquileño podrá enfrentarse a **Deportes Iquique de Chile, Boston River de Uruguay, Universidad Central de Venezuela, un representante de Bolivia, un representante de Colombia y uno de los tres clasificados en la ronda inicial.**
-
-No te pierdas San Viernes y El Confesionario
---------------------------------------------
-
-Caso Odebrecht, Procuraduría informó de un pago de Gustavo Masshu al Estado
-===========================================================================
-
-Gustavo Massuh pagó 200 000 dólares al Estado como parte de la reparación por el caso Odebrecht.
-------------------------------------------------------------------------------------------------
-
-![Exteriores de un edificio de Odebrecht.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-18T152109.572.jpg)
-
-**Gustavo José Massuh Isaías**, sentenciado por asociación ilícita dentro de la trama de **sobornos de la constructora brasileña Odebrecht**, efectuó un pago de 200 000 dólares al Estado ecuatoriano como parte de la reparación integral.
-
-### Más noticias
-
-* [Caso Odebrecht: Gustavo Massuh pagará una reparación integral al Estado ¿Cuál es el monto?](https://www.elcomercio.com/actualidad/seguridad/caso-odebrecht-gustavo-massuh-pagara-una-reparacion-integral-al-estado-cual-es-el-monto.html "Caso Odebrecht: Gustavo Massuh pagará una reparación integral al Estado ¿Cuál es el monto?")
-* [John Pólit se declaró culpable en EE.UU., pero en Ecuador fue absuelto](https://www.elcomercio.com/actualidad/politica/john-polit-se-declaro-culpable-en-eeuu-per-ecuador-fue-declarado-inocente.html "John Pólit se declaró culpable en EE.UU., pero en Ecuador fue absuelto")
-* [Caso Purga, la audiencia de evaluación y preparatoria de juicio se instaló](https://www.elcomercio.com/actualidad/seguridad/caso-purga-se-instalo-audiencia-evaluacion-preparatoria-juicio.html "Caso Purga, la audiencia de evaluación y preparatoria de juicio se instaló")
-
-La **Procuraduría General del Estado** informó que estos recursos fueron depositados en la Cuenta Única del **Tesoro del Banco Central del Ecuador**.
-
-El 9 de diciembre de 2024, el Tribunal de la **Sala Penal de la Corte Nacional de Justicia** verificó las garantías presentadas por Massuh Isaías para cubrir el **monto total de la reparación**, que asciende a 860 930,99 dólares. El saldo pendiente será cancelado en **tres cuotas**.
-
-La Procuraduría reiteró su compromiso de asegurar el cumplimiento de las sentencias emitidas por los jueces competentes, con el objetivo de restituir el **daño ocasionado al Estado ecuatoriano**.
-
-> ⭕️ La Procuraduría General del Estado 🇪🇨 informa que Gustavo Massuh Isaías pagó USD 200.000 al Estado ecuatoriano por reparación integral.  
->   
-> La información: ⬇️⬇️⬇️ [pic.twitter.com/zKhi1nCKKt](https://t.co/zKhi1nCKKt)
-> 
-> — Procuraduría Ecuador (@PGEcuador) [December 18, 2024](https://twitter.com/PGEcuador/status/1869441611626918246?ref_src=twsrc%5Etfw)
-
-Gustavo Massuh debe pagar en el caso Odebrecht
-----------------------------------------------
-
-La Corte Nacional de Justicia condenó a **Gustavo Massuh** por asociación ilícita en la trama de sobornos de la constructora brasileña Odebrecht a funcionarios y empresarios ecuatorianos. El pasado 9 de diciembre de 2024, un Tribunal de la Sala Penal de la Corte Nacional de Justicia verificó las garantías presentadas por Gustavo José Massuh.
-
-El monto a pagar por reparación integral al Estado ecuatoriano asciende a **860 930,99 dólares**.
-
-Tras el primer depósito, el resto cancelará en cuotas por el **caso Odebrecht**. En 2017 se dio la primera sentencia en este caso que revela la trama de corrupción por los sobornos de esa empresa. La **Corte Nacional de Justicia** sentenció al exvicepresidente Jorge Glas a seis años de cárcel como autor de un delito de asociación ilícita.
-
-La justicia también sentenció a otros dos exfuncionarios públicos y cinco empresarios. El 21 de diciembre de 2016, el Departamento de Justicia de los **Estados Unidos** hizo la revelación. Dijo que la constructora brasileña **Odebrecht** habría sobornado a funcionarios públicos de varios países.
-
-Respecto a Ecuador, se señala que la compañía, durante el periodo de 2007 al 2016, realizó presuntos sobornos por **33 500.000 dólares**, pagos que le habrían beneficiado en **116 000 000 dólares** en el [caso Odebrecht](https://es.wikipedia.org/wiki/Caso_Odebrecht "https://es.wikipedia.org/wiki/Caso_Odebrecht").
-
-* * *
-
-¿Cuándo se celebra el Día de los Inocentes en Ecuador? 
-=======================================================
-
-El Día de los Inocentes recuerda la matanza de niños ordenada por Herodes.
---------------------------------------------------------------------------
-
-![El Día de los Inocentes: de tragedia a tradición festiva. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/12/Dia-de-los-Inocentes.jpg)
-
-El **Día de los Inocentes** tiene un **trasfondo religioso**, conmemora un **episodio trágico** en la historia del cristianismo. Aunque hoy en día es conocido principalmente por las bromas y engaños, su origen es otro.
-
-### Más noticias
-
-* [¿Cuándo es el día de los inocentes?](https://www.elcomercio.com/actualidad/ecuador/cuando-dia-inocentes.html "https://www.elcomercio.com/actualidad/ecuador/cuando-dia-inocentes.html")
-* [El Día de los Inocentes tendrá eventos en Quito y Cuenca](https://www.elcomercio.com/actualidad/ecuador/dia-inocentes-eventos-quito-cuenca.html "https://www.elcomercio.com/actualidad/ecuador/dia-inocentes-eventos-quito-cuenca.html")
-
-**Orígenes del Día de los Inocentes** 
---------------------------------------
-
-La conmemoración del **Día de los Inocentes** se remonta a la **matanza de niños** menores de 2 años en Belén, ordenada por el **rey Herodes I el Grande**. Este acto fue motivado por el **temor a perder su trono** ante el nacimiento del **Mesías, Jesús de Nazaret**. Según el evangelio de Mateo (Mateo 2:16-18), **Herodes mandó a matar** a todos los infantes en un intento por eliminar al niño que consideraba una amenaza para su poder, a decir de [Calendarr](https://www.calendarr.com/ecuador/dia-de-los-inocentes/ "https://www.calendarr.com/ecuador/dia-de-los-inocentes/"). 
-
-La **Iglesia Católica** reconoce a estos niños como **los primeros mártires cristianos**. En el rito romano, esta festividad se celebra dentro de la octava de Navidad, junto a otras conmemoraciones importantes como la de San Esteban y San Juan. 
-
-A lo largo de los siglos, esta fecha ha evolucionado desde una **solemnidad religiosa** hacia una celebración más festiva y humorística. 
-
-**¿Cuándo se celebra el Día de los Inocentes?** 
-------------------------------------------------
-
-En la actualidad, el **Día de los Inocentes** se celebra en Ecuador cada 28 de diciembre, y es conocido principalmente por las **bromas y engaños** que se realizan en muchos países hispanohablantes. Esta tradición se ha arraigado en la **cultura popular**, donde amigos y familiares se hacen “bromas” para sorprenderse unos a otros. En Ecuador, las festividades incluyen **sátiras y mascaradas** que reflejan la creatividad y el ingenio del pueblo, siguiendo con la misma fuente.  
-
-### Te recomendamos:
-
-El Nacional tiene ‘acuerdo de palabra’ con un entrenador
-========================================================
-
-El Nacional jugará en el 2025 la primera fase de la Copa Libertadores.
-----------------------------------------------------------------------
-
-![Jugadores de El Nacional en el primer semestre de la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/12/nacho_dt_1.jpg)
-
-**El Nacional** fue uno de los dos equipos ecuatorianos que ganó un título en el 2024. La Copa Ecuador reposa en sus vitrinas una vez que derrotaron 1-0 en la final única a Independiente del Valle en el Rodrigo Paz.
-
-Con ese títulos, **El Nacional sumó la segunda Copa Ecuador** de sus historia y cortó una racha de 18 años de no ganar un título, aunque en el medio se cuenta que en el 2022 para regresar a la Liga Pro Serie A fue campeón de la Serie B.
-
-### Más noticias:
-
-* [El Nacional ganó la Copa Ecuador 1970 con solo dos partidos](https://www.elcomercio.com/deportes/futbol/el-nacional-campeon-copa-ecuador1970.html "El Nacional ganó la Copa Ecuador 1970 con solo dos partidos")
-* [El Nacional lanza camiseta y escudo para Copa Libertadores 2025](https://www.elcomercio.com/deportes/el-nacional-nuevo-escudo-camiseta-copa-libertadores.html "El Nacional lanza camiseta y escudo para Copa Libertadores 2025")
-* [El N](https://www.elcomercio.com/deportes/futbol/el-nacional-el-tercer-equipo-con-mas-titulos-en-ecuador.html "El Nacional, el tercer equipo con más títulos en Ecuador")[acional, el tercer equipo](https://www.elcomercio.com/deportes/futbol/el-nacional-el-tercer-equipo-con-mas-titulos-en-ecuador.html "El Nacional, el tercer equipo con más títulos en Ecuador") [con más títulos en Ecuador](https://www.elcomercio.com/deportes/futbol/el-nacional-el-tercer-equipo-con-mas-titulos-en-ecuador.html "El Nacional, el tercer equipo con más títulos en Ecuador")
-
-El Nacional se quedó sin DT
----------------------------
-
-El título de la Copa Ecuador fue una sorpresa para propios y extraños. Con este logro se maquilló una temporada en la que **no fueron protagonistas en la Liga Pro** y con los constantes problemas económicos.
-
-En la primera etapa terminaron en el **séptimo puesto con 21 puntos, 14 puntos menos** que Independiente del Valle, el ganador de esta ronda.
-
-En la segunda la p**roducción de puntos se redijo a 19 y la diferencia con Liga de Quito**, el cuadro ganador de la etapa, fue de 16 puntos, muy lejos siquiera para intentar pelear el podio del torneo local.
-
-En la acumulada terminaron en el séptimo casillero. Sus 40 puntos les permitió tener un año regular, pero que lo redondearon con la clasificación a la fase uno de la Copa Libertadores por ser los monarcas de la Copa Ecuador.
-
-Las nueve primeras fechas la dirección técnica estuvo a cargo de [É**ver Hugo Almeida, pero con la victoria de Marco Pazos**](https://www.elcomercio.com/deportes/marco-pazos-nacional-fef-deudas.html "El Nacional reclama a la FEF por falta de apoyo") como nuevo presidente de los rojos, el entrenador elegido fue el argentino Marcelo Zuleta, con un primer paso en la institución en 2019.
-
-Una vez que se terminó el calendario del ‘Nacho’ se conoció que Zuleta no sería más su entrenador.
-
-![API.](https://www.elcomercio.com/wp-content/uploads/2024/12/nacho_dt_2-1024x683.jpg)
-
-API.
-
-El DT elegido por Pazos
------------------------
-
-Este 18 de diciembre de 2024 trascendió que el elegido para remplazar a Zuleta es su compatriota **Omar Asad**.
-
-La información fue difundida por el periodista César Merlo, en sus redes sociales. Recalcó que el contrato no está firmado, sino que existe “**un acuerdo de palabra para ser el nuevo entrenador de El Nacional**“.
-
-Su etapa de jugador fue corta y se terminó con menos de 30 años, **pero es considerado como uno de los máximos ídolos de Vélez Sarsfield**. Ahí ganó tres veces el campeonato argentino, una Copa Libertadores, una Copa Intercontinental y una Supercopa Sudamericana.
-
-En la final de ida de la Libertadores le marcó un gol a **Sao Paulo en el José Amalfitani, y** [**otro al Milan** en el estadio Nacional de Tokio](https://www.instagram.com/p/B-Xkvo1jA5P/).
-
-Como entrenador no ha tenido el mismo éxito en Godoy Cruz, San Lorenzo y Sportivo Estudiantes de Argentina; Atlas de México; **San José y Always Ready de Bolivia**. Con esta última institución alcanzó el único título como DT.
-
-Para el ‘Turco’, Ecuador no es tierra desconocida. En 2011 dirigió a Emelec en el campeonato nacional y en la Copa Libertadores. En ese momento llegó para tomar el sitio de su compatriota Jorge Sampaoli.
-
-No terminó la temporada y se marchó en mayo. Regresó a su país para seguir en su carrera.
-
-Confesionario – Segunda temporada en proceso
---------------------------------------------
-
-Viviana Veloz hizo dos pedidos a la Corte Constitucional sobre el Decreto ‘Ley Antipillos’
-==========================================================================================
-
-Viviana Veloz pide celeridad a la Corte Constitucional para tratar los pedidos sonbre el Decreto 'Ley Antipillos'.
-------------------------------------------------------------------------------------------------------------------
-
-![Viviana Veloz, presidenta de la Asamblea Nacional, presentó pedidos a la Corte Constitucional sobre la 'Ley Antipillos', esta tarde.](https://www.elcomercio.com/wp-content/uploads/2024/12/viviana-veloz-corte-constitucional-ley-antipillos-1.jpg)
-
-La presidenta de la Asamblea, **Viviana Veloz (RC)**, hizo dos pedidos a la **Corte Constitucional (CC)** sobre el Decreto **“Ley Antipillos”**, la tarde de este miércoles 18 de diciembre.
-
-El presidente **Daniel Noboa** promulgó la “Ley Antipillos” vía **Decreto Ley**, luego de que el **Pleno de la Asamblea** lo archivó y negó en primer debate.
-
-### Más noticias:
-
-* [‘Ley Antipillos’ fue publicada en el Registro Oficial; Asamblea anuncia acciones legales](https://www.elcomercio.com/actualidad/politica/asamblea-nacional-tomara-accion-si-publica-ley-antipillos.html "‘Ley Antipillos’ fue publicada en el Registro Oficial; Asamblea anuncia acciones legales")
-* [‘Ley Antipillos’ regula el deporte profesional y el mercado de vehículos usados](https://www.elcomercio.com/actualidad/negocios/ley-antipillos-regula-el-deporte-profesional-y-el-mercado-de-vehiculos-usados.html "‘Ley Antipillos’ regula el deporte profesional y el mercado de vehículos usados")
-
-Los dos pedidos de Viviana Veloz a la Corte Constitucional sobre el Decreto ‘Ley Antipillos’
---------------------------------------------------------------------------------------------
-
-Dentro de los 30 días establecidos por Ley, el **Pleno de la Asamblea** archivó y negó el proyecto de Ley del Ejecutivo, denominado **“Ley Antipillos”**, en primer debate.
-
-El texto fue apoyado por las bancadas de la **Revolución Ciudadana, Construye, Partido Social Cristiano, Pachakutik e independientes.**
-
-Sin embargo, el **presidente Daniel Noboa** no aceptó la resolución del Legislativo y promulgó la normativa vía Decreto Ley.
-
-El proyecto establece cambios en el **impuesto** que se paga por la comercialización de **vehículos usados**, entre otras cosas.
-
-Este miércoles, la presidenta de la Asamblea, **Viviana Veloz**, presentó una acción de inconstitucionalidad contra el Decreto Ley para la mejora recaudatoria.
-
-Según Veloz, Noboa promulgó esta normativa de **forma arbitraria**.
-
-“Este Decreto Ley, lo único que busca es imponer más **carga tributaria** a las familias ecuatorianas, en realidad es un paquetazo navideño a la clase media de este país”, dijo Veloz.
-
-Junto a la demanda de inconstitucionalidad, Veloz solicitó a la Corte una **medida cautelar para que se suspenda la vigencia** del Decreto Ley.
-
-Esto, de **forma provisional**, hasta que la Corte resuelva sobre este nuevo tributo.
-
-“Esperamos que la CC se ponga del lado de la sociedad ecuatoriana y ponga **límites al poder**“, señal.
-
-Además, pidió a la CC trate que trate “**con toda celeridad**” esta acción de inconstitucionalidad para darle respuestas a todos los ecuatorianos.
