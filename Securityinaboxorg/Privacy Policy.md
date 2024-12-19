@@ -2,20 +2,16 @@
 
 digital security tools and tactics
 
-Expand navigation
-
 * [Passwords](#)
     * [Create and maintain strong passwords](https://securityinabox.org/en/passwords/passwords)
     * [Manage your passwords safely](https://securityinabox.org/en/passwords/password-managers)
     * [Use two-factor authentication](https://securityinabox.org/en/passwords/2fa)
     * [Related Tools](https://securityinabox.org/en/passwords/tools)
-
 * [Communication](#)
     * [Protect the privacy of your online communication](https://securityinabox.org/en/communication/private-communication)
     * [Recover from possible account compromise](https://securityinabox.org/en/communication/account-compromise)
     * [Protect yourself and your data when using social media](https://securityinabox.org/en/communication/social-media)
     * [Related Tools](https://securityinabox.org/en/communication/tools)
-
 * [Phones & Computers](#)
     * [Protect against physical threats](https://securityinabox.org/en/phones-and-computers/physical-security)
     * [Protect against malware](https://securityinabox.org/en/phones-and-computers/malware)
@@ -25,11 +21,9 @@ Expand navigation
     * [Protect your Mac computer](https://securityinabox.org/en/phones-and-computers/mac)
     * [Protect your Linux computer](https://securityinabox.org/en/phones-and-computers/linux)
     * [Related Tools](https://securityinabox.org/en/phones-and-computers/tools)
-
 * [Internet Connection](#)
     * [Visit blocked websites and browse anonymously](https://securityinabox.org/en/internet-connection/anonymity-and-circumvention)
     * [Related Tools](https://securityinabox.org/en/internet-connection/tools)
-
 * [Files](#)
     * [Protect your sensitive information](https://securityinabox.org/en/files/secure-file-storage)
     * [Back up and recover from information loss](https://securityinabox.org/en/files/backup)
@@ -40,7 +34,6 @@ Expand navigation
 * [About](#)
     * [About Security-in-a-Box](https://securityinabox.org/en/about/about)
     * [How does Security in a Box work?](https://securityinabox.org/en/about/how)
-
 * [English](#)
     * [العربية](https://securityinabox.org/ar/data-use-policy)
     * [English](https://securityinabox.org/en/data-use-policy)
