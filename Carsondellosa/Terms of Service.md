@@ -1,4 +1,4 @@
-![null](https://www.facebook.com/tr?id=1565747026990890&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-2-prd-us-central1-191312005161)                                                   
+![null](https://www.facebook.com/tr?id=1565747026990890&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-2-prd-us-central1-191325776649)                                                   
 
 FREE SHIPPING on Online Orders $40+
 
@@ -402,6 +402,7 @@ Search  search
         * [Shop All](https://www.carsondellosa.com/sale/)
     * [Today's Offers](https://www.carsondellosa.com/sale/todays-offers/)
         * Back
+        * [Books Flash Sale](https://www.carsondellosa.com/sale/todays-offers/books-flash-sale/)
         * [Bulletin Board Letters](https://www.carsondellosa.com/sale/todays-offers/bulletin-board-letters/)
         * [Cutouts](https://www.carsondellosa.com/sale/todays-offers/cutouts/)
         * [Holiday Printable Bulletin Board Sets](https://www.carsondellosa.com/sale/todays-offers/holiday-printable-bulletin-board-sets/)
