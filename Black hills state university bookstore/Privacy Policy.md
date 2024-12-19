@@ -63,6 +63,8 @@ Cancel
 * [Sign In](https://www.bhsubookstore.com/account_login.asp?)
 * [Create Account](https://www.bhsubookstore.com/account_create.asp?)
 
+The bookstore will be closed 12-21 through 12-25. Merry Christmas!
+
 Privacy Policy/Terms of Use
 ===========================
 
@@ -159,7 +161,7 @@ Begin Footer
 | Saturday | CLOSED |
 | Sunday | CLOSED |
 
-Wednesday 8:00AM - 5:00PM OPEN
+Wednesday 8:00AM - 5:00PM CLOSED
 
 [View All Store Hours](https://www.bhsubookstore.com/site_contact_us.asp?)
 
