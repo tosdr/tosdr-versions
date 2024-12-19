@@ -314,9 +314,9 @@ Belgium
 
 Czech Republic
 
-[English](https://cze.mars.com/en/)
+[English](https://www.mars.com/en-cz)
 
-[Česky](https://cze.mars.com/)
+[Česky](https://www.mars.com/cs-cz)
 
 Denmark
 
@@ -386,9 +386,9 @@ Norway
 
 Poland
 
-[Polski](https://pol.mars.com/)
+[Polski](https://www.mars.com/pl-pl)
 
-[Polski](https://pol.mars.com/)
+[Polski](https://www.mars.com/pl-pl)
 
 Portugal
 
