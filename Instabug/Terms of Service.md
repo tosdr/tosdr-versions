@@ -219,7 +219,7 @@ and Reviews](https://instabug.com/product/app-ratings-reviews)[Flows](https://in
 
 ### Comparisons
 
-[App Center](https://instabug.com/appcenter-alternative)[Bugsnag](https://instabug.com/bugsnag-alternative)[Crashlytics](https://instabug.com/crashlytics-alternative)[Firebase](https://instabug.com/firebase-alternative)[New Relic](https://instabug.com/newrelic-alternative)[Sentry](https://instabug.com/sentry-alternative)[TestFairy](https://instabug.com/testfairy-alternative)
+[App Center](https://instabug.com/appcenter-alternative)[Bugsnag](https://instabug.com/bugsnag-alternative)[Crashlytics](https://instabug.com/crashlytics-alternative)[Firebase](https://instabug.com/firebase-alternative)[New Relic](https://instabug.com/newrelic-alternative)[Sentry](https://instabug.com/sentry-alternative)[TestFairy](https://instabug.com/testfairy-alternative)[Embrace](https://instabug.com/embrace-alternative)[Datadog](https://instabug.com/datadog-alternative)
 
 ### RESOURCES
 
