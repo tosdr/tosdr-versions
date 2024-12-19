@@ -405,7 +405,8 @@ _menu_ [![Flutter logo](/assets/images/branding/flutter/logo+text/horizontal/def
 
 [Get started](https://flutter.dev/get-started/install/)
 
-Celebrating Flutter's production era! [Learn more](https://medium.com/flutter/flutter-in-production-f9418261d8e1)
+Celebrating Flutter's production era! [Learn more](https://medium.com/flutter/flutter-in-production-f9418261d8e1)  
+Also, check out [What's new on the website](https://docs.flutter.dev/release/whats-new#11-december-2024-3-27-release).
 
 * Get started
 * [Set up Flutter](https://flutter.dev/get-started/install)
