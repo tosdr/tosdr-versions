@@ -83,7 +83,7 @@ Schedule your customized solution demo and learn how we can help you **manage an
 Validate product accessibility
 ------------------------------
 
-A VPAT demonstrates whether your product is accessible—critical for keeping contracts and closing new deals. Validate your product’s state of compliance with our comprehensive process.
+A VPAT demonstrates whether your product is accessible, which is critical for keeping contracts and closing new deals. Validate your product’s state of compliance with our comprehensive and easy process.
 
 ![](data:image/svg+xml;nitro-empty-id=NTcwOjEyMg==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjggMjkiIHdpZHRoPSIyOCIgaGVpZ2h0PSIyOSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
 
