@@ -34,7 +34,7 @@ Menu
     * [Member Directory](https://mds.execinc.com/edibo/MemberDirectory)
 *  [Education](https://www.movementdisorders.org/MDS/Education.htm)
     *  [Courses](https://www.movementdisorders.org/MDS-Courses)
-        * [All Courses](https://www.movementdisorders.org/Education-Roadmap/Course-Listing)
+        * [All Courses](https://www.movementdisorders.org/MDS-Courses)
         * [My Courses](https://www.movementdisorders.org/My-MDS#courses-top)
         * [Curriculum Tracks](https://www.movementdisorders.org/Education-Roadmap/Track-Listing)
         * [Assessment Training](https://www.movementdisorders.org/MDS/MDS-Rating-Scales/Training-Programs.htm)
@@ -111,7 +111,7 @@ Get active in the global professional community.
 [Get involved](https://www.movementdisorders.org/MDS/About/Get-Involved.htm)
 
 * [Courses](https://www.movementdisorders.org/MDS/Courses.htm)
-    * [All Courses](https://www.movementdisorders.org/Education-Roadmap/Course-Listing)
+    * [All Courses](https://www.movementdisorders.org/MDS-Courses)
     * [My Courses](https://www.movementdisorders.org/My-MDS#courses-top)
     * [Curriculum Tracks](https://www.movementdisorders.org/Education-Roadmap/Track-Listing)
     * [COA / Scale Training](https://www.movementdisorders.org/MDS/MDS-Rating-Scales/Training-Programs.htm)
