@@ -53,7 +53,7 @@ Learn More
 Roommates.com Privacy Policy
 ============================
 
-![](/images/group-images@2x-c7b3294deef6a7be1b30395dd933d3d8.png?vsn=d) 10842+ active this month
+![](/images/group-images@2x-c7b3294deef6a7be1b30395dd933d3d8.png?vsn=d) 10938+ active this month
 
 Roommates.com is the smart, simple, safe way to bring  
 roommates together. [Sign up for free today!](https://my.roommates.com/users/sign_up)
@@ -62,7 +62,7 @@ roommates together. [Sign up for free today!](https://my.roommates.com/users/sig
 
 [List Your Room For Rent](https://my.roommates.com/users/sign_up?members_type=havers)
 
-![](/images/prelogin/prelogin_header_2.webp)
+![](/images/prelogin/prelogin_header_1.webp)
 
 [Browse Locations](https://my.roommates.com/browse) | [Roommates by Category](https://my.roommates.com/types) | [Search Near Me](https://my.roommates.com/near-me)
 
