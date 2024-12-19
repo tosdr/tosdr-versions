@@ -1,6 +1,6 @@
 [Skip to content](#content)
 
-[![carpet cleaning](https://www.oxifresh.com/wp-content/uploads/2019/12/oxifresh-logo-retina.png)](https://www.oxifresh.com/)
+[![carpet cleaning](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzgwIDE2NyIgd2lkdGg9IjM4MCIgaGVpZ2h0PSIxNjciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.oxifresh.com/)
 
 [**PROMO CODE** OS2500](https://www.oxifresh.com/online-scheduling/?promo_code=OS2500)
 
@@ -216,13 +216,13 @@ Call Now for a FREE Quote! [1-877-OXI-FRESH](tel:18776943737) **OR**
     * [Consideration Request](https://www.oxifresh.com/carpet-cleaning-companies/carpet-cleaning-franchise/considerationrequest/)
 * [Franchisee Login](https://www.oxifresh.com/login/index.html)
 
-![Fast 1 Hour Dry Time Carpet Cleaner](https://www.oxifresh.com/wp-content/themes/oxifresh_alt/images/img-zipbox-1.png)
+![The World's Greenest Carpet Cleaner](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNjAwIDI4MCIgd2lkdGg9IjYwMCIgaGVpZ2h0PSIyODAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
 Zip Code  QUOTE & SCHEDULE
 
 Enter your zip/postal code above to find carpet cleaning services in your area, get a free quote or book online!
 
-Average 4.7 Stars Based on 307,016 Reviews
+Average 4.7 Stars Based on 306,579 Reviews
 
 * [Home](https://www.oxifresh.com/)
 * \>
@@ -423,17 +423,17 @@ THE OWNER'S FORUM CONTAINS THE OPINIONS AND VIEWS OF OTHER FRANCHISEES, WHO ARE 
 Carpet Cleaning Before and After Photos
 ---------------------------------------
 
-![Carpet-Cleaning-Before-and-After-Photo-Oxi-Fresh-1](https://www.oxifresh.com/wp-content/uploads/2021/03/apartment.jpg)
+![Carpet-Cleaning-Before-and-After-Photo-Oxi-Fresh-1](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNDAwIDQwMCIgd2lkdGg9IjQwMCIgaGVpZ2h0PSI0MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
-![Carpet-Cleaning-Before-and-After-Photo-Oxi-Fresh-2](https://www.oxifresh.com/wp-content/uploads/2021/03/room1.jpg)
+![Carpet-Cleaning-Before-and-After-Photo-Oxi-Fresh-2](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNDAwIDQwMCIgd2lkdGg9IjQwMCIgaGVpZ2h0PSI0MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
-![Carpet-Cleaning-Before-and-After-Photo-Oxi-Fresh-3](https://www.oxifresh.com/wp-content/uploads/2021/03/doorway.jpg)
+![Carpet-Cleaning-Before-and-After-Photo-Oxi-Fresh-3](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNDAwIDQwMCIgd2lkdGg9IjQwMCIgaGVpZ2h0PSI0MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
-![Carpet-Cleaning-Before-and-After-Photo-Oxi-Fresh-4](https://www.oxifresh.com/wp-content/uploads/2021/03/corner-stains.jpg)
+![Carpet-Cleaning-Before-and-After-Photo-Oxi-Fresh-4](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNDAwIDQwMCIgd2lkdGg9IjQwMCIgaGVpZ2h0PSI0MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
-![Carpet-Cleaning-Before-and-After-Photo-Oxi-Fresh-5](https://www.oxifresh.com/wp-content/uploads/2021/03/drawer-corner-stain.jpg)
+![Carpet-Cleaning-Before-and-After-Photo-Oxi-Fresh-5](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNDAwIDQwMCIgd2lkdGg9IjQwMCIgaGVpZ2h0PSI0MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
-![Carpet-Cleaning-Before-and-After-Photo-Oxi-Fresh-6](https://www.oxifresh.com/wp-content/uploads/2021/03/landing.jpg)
+![Carpet-Cleaning-Before-and-After-Photo-Oxi-Fresh-6](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNDAwIDQwMCIgd2lkdGg9IjQwMCIgaGVpZ2h0PSI0MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
 [VIEW MORE PHOTOS](https://www.oxifresh.com/carpet-cleaning-services/carpet-cleaning-before-after-photos/)
 
@@ -442,31 +442,31 @@ What Customers Are Saying
 
 ### Average 4.7 stars (Out of 5)
 
-Based on 307,016 Carpet Cleaning Services Reviews
+Based on 306,579 Carpet Cleaning Services Reviews
 
-**DJ.** - Clifton Park, NY - 12/17/2024
-
-(5.0 Out of 5 stars)
-
-I like that when scheduling my appointment for cleaning and during the evaluation at the time of cleaning you took the time to explain the process and expectations. The person that cleaned my carpets was thorough and took pride in doing a good job. I am pleased with the service I received. **KP.** - Lewisville, TX - 12/16/2024
+I am selling my home and had hired a different carpet cleaning company. I thought they did a good job, but wondered when they did nothing extra with those pesty spots on our carpet. A couple days later, they all showed back up. I called Oxi Clean, we informed them of our problem and it wasn't 20 minutes later the actual individual that will be cleaning the carpets called to discuss the concerns we had. They came out within a couple days and cleaned our carpets. All of the stains and gone and the carpet looks like NEW!! Thank You OXI-Clean for your professional work and your courtesy! I will only use Oxi-Clean for all my future carpet cleaning needs!! **TC.** - Sioux Falls, SD - 12/11/2024
 
 (5.0 Out of 5 stars)
 
-Cleveland was awesome!! Very knowledgeable and great personality! Thank you for a great job! We are very happy with the results!! **KH.** - Longwood, FL - 12/15/2024
+Great Results! **TC.** - New York, NY - 12/10/2024
+
+(5.0 Out of 5 stars)
+
+Great Service & Very Professional **BE.** - New York, NY - 12/10/2024
 
 (5.0 Out of 5 stars)
 
 [MORE REVIEWS](https://www.oxifresh.com/testimonials)
 
-[![The Greenest Carpet Cleaner](https://www.oxifresh.com/wp-content/themes/oxifresh_alt/images/img-zipbox-2.png)](https://www.oxifresh.com/green-carpet-cleaning/)
+[![The Greenest Carpet Cleaner](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNjAwIDI4MCIgd2lkdGg9IjYwMCIgaGVpZ2h0PSIyODAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.oxifresh.com/green-carpet-cleaning/)
 
 [### Committed to Being Green
 
 We are The World's Greenest Carpet Cleaner®. Our eco-friendly cleaning process and products are better for your family and the environment. Click here to learn why it's important!](https://www.oxifresh.com/green-carpet-cleaning/)
 
-[![Fast one hour dry time](https://www.oxifresh.com/wp-content/themes/oxifresh_alt/images/img-zipbox-1.png)](https://www.oxifresh.com/carpet-cleaning-services/residential-carpet-cleaning/fast-drying-carpet-cleaner/)
+[![Fast one hour dry time](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNjAwIDI4MCIgd2lkdGg9IjYwMCIgaGVpZ2h0PSIyODAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.oxifresh.com/carpet-cleaning-services/residential-carpet-cleaning/fast-drying-carpet-cleaner/)
 
-[![Water.org](https://www.oxifresh.com/wp-content/themes/oxifresh_alt/images/water.org-section.png)
+[![Water.org](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzMzIDEwMyIgd2lkdGg9IjMzMyIgaGVpZ2h0PSIxMDMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
 Oxi Fresh Carpet Cleaning is Helping Bring Water to the World. By scheduling online, you can help Water.org bring clean water to the millions of people around the world in need.](https://www.oxifresh.com/water-org/)
 
@@ -516,8 +516,6 @@ We're standing by to help CALL
 
 [VIEW MORE ARTICLES](https://www.oxifresh.com/news)
 
-[12/17/24 **Pet-Friendly Carpet Cleaning: Removing Pet Stains Made Easy** Your Guide to Eliminating Tough Carpet Stains We love dogs and cats—they’re just the best. That said, their accidents are… Your Guide to Eliminating Tough Carpet Stains We love dogs and cats—they’re just the best. That said, their accidents are…](https://www.oxifresh.com/carpet-cleaning-blog/pet-friendly-carpet-cleaning-removing-pet-stains-made-easy/)
-
 [12/11/24 **Professional Upholstery Cleaning: How Does it Work?** Learn the Step-by-Step Process Behind Oxi Fresh’s Expert Upholstery Cleaning Services We all have a favorite piece of furniture that… Learn the Step-by-Step Process Behind Oxi Fresh’s Expert Upholstery Cleaning Services We all have a favorite piece of furniture that…](https://www.oxifresh.com/carpet-cleaning-blog/professional-upholstery-cleaning-how-does-it-work/)
 
 [01/11/24 **Oxi Fresh Carpet Cleaning’s 2023 Year in Review** A Look Back at Oxi Fresh’s 2023 Accomplishments As we look back on 2023 and look ahead to the rest… A Look Back at Oxi Fresh’s 2023 Accomplishments As we look back on 2023 and look ahead to the rest…](https://www.oxifresh.com/carpet-cleaning-blog/oxi-fresh-carpet-cleanings-2023-year-in-review/)
@@ -528,21 +526,23 @@ We're standing by to help CALL
 
 [06/29/23 **The Three Main Benefits of Oxi Fresh Carpet Cleaning** Three Special Advantages to Oxi Fresh’s Unique Approach Oxi Fresh Carpet Cleaning is proud to be one of the best… Three Special Advantages to Oxi Fresh’s Unique Approach Oxi Fresh Carpet Cleaning is proud to be one of the best…](https://www.oxifresh.com/carpet-cleaning-blog/the-three-main-benefits-of-oxi-fresh-carpet-cleaning/)
 
+[06/08/23 **Searching for a Boston Franchising Opportunity? Become an…** Oxi Fresh Presents an Exciting Opportunity to Aspiring Boston-Based Entrepreneurs At Oxi Fresh Carpet Cleaning, we’re thrilled to announce our… Oxi Fresh Presents an Exciting Opportunity to Aspiring Boston-Based Entrepreneurs At Oxi Fresh Carpet Cleaning, we’re thrilled to announce our…](https://www.oxifresh.com/carpet-cleaning-blog/searching-for-a-boston-franchising-opportunity-become-an-oxi-fresh-franchisee/)
+
 [VIEW MORE BLOGS](https://www.oxifresh.com/carpet-cleaning-blog)
 
 ### Oxi Fresh Awards & Recognition
 
-[![Forbes](https://www.oxifresh.com/wp-content/uploads/2017/04/Forbes-2-150x150.jpg)](https://www.oxifresh.com/company-awards/forbes-magazine/)
+[![Forbes](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUwIDE1MCIgd2lkdGg9IjE1MCIgaGVpZ2h0PSIxNTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.oxifresh.com/company-awards/forbes-magazine/)
 
-[![Entrepreneur](https://www.oxifresh.com/wp-content/uploads/2017/04/entrepreneur-logo-150x150.jpg)](https://www.oxifresh.com/company-awards/entrepreneur-magazine/)
+[![Entrepreneur](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUwIDE1MCIgd2lkdGg9IjE1MCIgaGVpZ2h0PSIxNTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.oxifresh.com/company-awards/entrepreneur-magazine/)
 
-[![Inc 5000](https://www.oxifresh.com/wp-content/uploads/2017/04/inc-5000-logo-150x150.png)](https://www.oxifresh.com/company-awards/inc-magazine-5005000-award/)
+[![Inc 5000](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUwIDE1MCIgd2lkdGg9IjE1MCIgaGVpZ2h0PSIxNTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.oxifresh.com/company-awards/inc-magazine-5005000-award/)
 
-[![FBR Top 50](https://www.oxifresh.com/wp-content/uploads/2019/03/Oxi-Fresh-Carpet-Cleaning-FBR-Hall-of-Fame-150x150.png)](https://www.oxifresh.com/company-awards/franchise-business-review/)
+[![FBR Top 50](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUwIDE1MCIgd2lkdGg9IjE1MCIgaGVpZ2h0PSIxNTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.oxifresh.com/company-awards/franchise-business-review/)
 
-[![Fast 55](https://www.oxifresh.com/wp-content/uploads/2017/04/Fast-55-Logo-Not-Italics-OF-150x150.jpg)](https://www.oxifresh.com/company-awards/franchise-times/)
+[![Fast 55](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUwIDE1MCIgd2lkdGg9IjE1MCIgaGVpZ2h0PSIxNTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.oxifresh.com/company-awards/franchise-times/)
 
-[![Franchise Gator](https://www.oxifresh.com/wp-content/uploads/2017/04/franchise-gator-logo-150x150.png)](https://www.oxifresh.com/company-awards/franchise-gator/)
+[![Franchise Gator](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUwIDE1MCIgd2lkdGg9IjE1MCIgaGVpZ2h0PSIxNTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.oxifresh.com/company-awards/franchise-gator/)
 
 ×
 
@@ -575,7 +575,7 @@ GET SPECIALS
 
 ### Own an Oxi Fresh Franchise
 
-![Carpet Cleaning Franchisors](https://www.oxifresh.com/wp-content/uploads/2019/12/franchise-van.png)
+![Carpet Cleaning Franchisors](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNDA5IDE4OSIgd2lkdGg9IjQwOSIgaGVpZ2h0PSIxODkiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
 * Low Investment
 * Home-based
