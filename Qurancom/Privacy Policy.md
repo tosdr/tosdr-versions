@@ -1,4 +1,4 @@
-🔊 Click any word, hear it pronounced!!
+Click Quranic words, hear pronunciation 🔊
 
 [](https://quran.com/ "Quran.com")
 
@@ -93,8 +93,6 @@ If you have any questions, concerns, or requests regarding this Privacy Policy o
 Read, study, and learn The Noble Quran.
 
 Quran.com is a Sadaqah Jariyah. We hope to make it easy for everyone to read, study, and learn The Noble Quran. The Noble Quran has many names including Al-Quran Al-Kareem, Al-Ketab, Al-Furqan, Al-Maw'itha, Al-Thikr, and Al-Noor.
-
-We're hiring! Join the QuranFoundation team and contribute to our mission. [Apply now!](https://www.quran.foundation/careers)
 
 Navigate
 
