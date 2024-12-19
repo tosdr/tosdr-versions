@@ -257,6 +257,7 @@ Data retention period: Keeping the Data for the time necessary to fulfill statis
 Storage duration:
 
 * \_fbp: 3 months
+* lastExternalReferrer: duration of the session
 
 #### LinkedIn button and social widgets (LinkedIn Corporation)
 
