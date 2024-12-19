@@ -1,12 +1,12 @@
 [Skip to content](#main-content)
 
-[TASER Free Expedited 2 Day Shipping I Click Here!](https://www.thehomesecuritysuperstore.com/collections/taser?utm_source=Top&utm_medium=Banner&utm_campaign=Taser+Free+Shipping)
+[Stun Flashlights Free 2 Day Shipping I Click Here!](https://www.thehomesecuritysuperstore.com/collections/flashlight-stun-guns?utm_source=website&utm_medium=banner&utm_campaign=Stun+Flashlights+Free+2+Day+Shipping)
 
-TODAY'S OFFER: :: | TASER Free Expedited 2 Day Shipping I Click Here!
+TODAY'S OFFER: :: | Stun Flashlights Free 2 Day Shipping I Click Here!
 
 TODAY'S OFFER: : :
 
- TASER Free Expedited 2 Day Shipping I Click Here!
+ Stun Flashlights Free 2 Day Shipping I Click Here!
 
 [![The Home Security Superstore](//www.thehomesecuritysuperstore.com/cdn/shop/files/thss-main-logo-jpg.jpg?v=1729157895&width=300)](https://www.thehomesecuritysuperstore.com/)
 
