@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![40 Facts About Microlite ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/earth-sciences/40-facts-about-microlite/)
-
-Earth Sciences
-
-18 Dec 2024
-
-[40 Facts About Microlite](https://facts.net/earth-and-life-science/earth-sciences/40-facts-about-microlite/)
-
-[![30 Facts About Souliote War ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/historical-events/30-facts-about-souliote-war/)
+[![25 Facts About Dernbacher Feud ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/historical-events/25-facts-about-dernbacher-feud/)
 
 Historical Events
 
-18 Dec 2024
+19 Dec 2024
 
-[30 Facts About Souliote War](https://facts.net/history/historical-events/30-facts-about-souliote-war/)
+[25 Facts About Dernbacher Feud](https://facts.net/history/historical-events/25-facts-about-dernbacher-feud/)
+
+[![50 Facts About Polychondritis ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2291%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/50-facts-about-polychondritis/)
+
+Health Science
+
+19 Dec 2024
+
+[50 Facts About Polychondritis](https://facts.net/fitness-and-wellbeing/health-science/50-facts-about-polychondritis/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
