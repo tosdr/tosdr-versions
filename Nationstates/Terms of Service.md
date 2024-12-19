@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Greater Díenstad News Feed (1,030)](https://forum.nationstates.net/viewtopic.php?t=390014&f=5&view=unread#unread ""Greater Díenstad News Feed" (1,030 posts)")
-* [Summarise AN's flag in one word (2,131)](https://forum.nationstates.net/viewtopic.php?t=548700&f=25&view=unread#unread ""Summarise AN's flag in one word" (2,131 posts)")
-* ["Cease & Desist" - 2024 Governmental… (75)](https://forum.nationstates.net/viewtopic.php?t=559551&f=5&view=unread#unread """Cease & Desist" - 2024 Governmental Crisis [OOC/MT]" (75 posts)")
-* [American Politics: Turnabout Trump (10,094)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (10,094 posts)")
-* [Which of the AN's parties would you v… (6,196)](https://forum.nationstates.net/viewtopic.php?t=529011&f=25&view=unread#unread ""Which of the AN's parties would you vote for? (III)" (6,196 posts)")
+* [Fallen Nations: A Shadow of a New War… (413)](https://forum.nationstates.net/viewtopic.php?t=558662&f=31&view=unread#unread ""Fallen Nations: A Shadow of a New War [Dieselpunk|OOC|Open]" (413 posts)")
+* [UK Politics Thread: The Name's Yang..… (755)](https://forum.nationstates.net/viewtopic.php?t=558706&f=20&view=unread#unread ""UK Politics Thread: The Name's Yang... Chris Yang" (755 posts)")
+* [Jesus Vs Communism (183)](https://forum.nationstates.net/viewtopic.php?t=559796&f=20&view=unread#unread ""Jesus Vs Communism" (183 posts)")
+* [Your favorite part of AN’s forum sig XI (6,227)](https://forum.nationstates.net/viewtopic.php?t=555083&f=25&view=unread#unread ""Your favorite part of AN’s forum sig XI" (6,227 posts)")
+* [World Cup 98 Signup Thread (163)](https://forum.nationstates.net/viewtopic.php?t=558753&f=7&view=unread#unread ""World Cup 98 Signup Thread" (163 posts)")
 
 Advertisement
 
