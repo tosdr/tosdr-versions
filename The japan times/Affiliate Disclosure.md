@@ -135,6 +135,10 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Nissan President and CEO Makoto Uchida (left) and Honda President and CEO Toshihiro Mibe hold a news conference in Tokyo in March. Both automakers have been working together for months on a deal of some sort.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/18/441088.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Nissan President and CEO Makoto Uchida (left) and Honda President and CEO Toshihiro Mibe hold a news conference in Tokyo in March. Both automakers have been working together for months on a deal of some sort.")](https://www.japantimes.co.jp/business/2024/12/18/companies/honda-nissan-merger/ "Honda and Nissan might combine to form world’s No. 3 auto group")
 
+[What we know so far about the Kitakyushu stabbings](https://www.japantimes.co.jp/news/2024/12/18/japan/crime-legal/kitakyushu-stabbings/ "What we know so far about the Kitakyushu stabbings")
+
+  [![Police guard the scene early Sunday morning of a stabbing incident at a McDonald's store in Kitakyushu's Kokuraminami Ward.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/18/440952.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Police guard the scene early Sunday morning of a stabbing incident at a McDonald's store in Kitakyushu's Kokuraminami Ward.")](https://www.japantimes.co.jp/news/2024/12/18/japan/crime-legal/kitakyushu-stabbings/ "What we know so far about the Kitakyushu stabbings")
+
 [Japan to let investigators go undercover to crack down on _yami baito_](https://www.japantimes.co.jp/news/2024/12/17/japan/crime-legal/yamibaito-first-ministerial-meeting/ "Japan to let investigators go undercover to crack down on yami baito")
 
   [![A flyer created by the Metropolitan Police Department to warn people about <i>yami baito</i>, or "dark" part-time jobs](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/17/440673.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A flyer created by the Metropolitan Police Department to warn people about <i>yami baito</i>, or "dark" part-time jobs")](https://www.japantimes.co.jp/news/2024/12/17/japan/crime-legal/yamibaito-first-ministerial-meeting/ "Japan to let investigators go undercover to crack down on yami baito")
@@ -157,6 +161,12 @@ Editors' Picks
 By [Kazuaki Nagata](https://www.japantimes.co.jp/author/142/kazuaki-nagata/ "Kazuaki Nagata") and [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
 
   [![Nissan President and CEO Makoto Uchida (left) and Honda President and CEO Toshihiro Mibe hold a news conference in Tokyo in March. Both automakers have been working together for months on a deal of some sort.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/18/441088.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Nissan President and CEO Makoto Uchida (left) and Honda President and CEO Toshihiro Mibe hold a news conference in Tokyo in March. Both automakers have been working together for months on a deal of some sort.")](https://www.japantimes.co.jp/business/2024/12/18/companies/honda-nissan-merger/ "Honda and Nissan might combine to form world’s No. 3 auto group")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[What we know so far about the Kitakyushu stabbings](https://www.japantimes.co.jp/news/2024/12/18/japan/crime-legal/kitakyushu-stabbings/ "What we know so far about the Kitakyushu stabbings")
+
+  [![Police guard the scene early Sunday morning of a stabbing incident at a McDonald's store in Kitakyushu's Kokuraminami Ward.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/18/440952.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Police guard the scene early Sunday morning of a stabbing incident at a McDonald's store in Kitakyushu's Kokuraminami Ward.")](https://www.japantimes.co.jp/news/2024/12/18/japan/crime-legal/kitakyushu-stabbings/ "What we know so far about the Kitakyushu stabbings")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -201,9 +211,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -243,25 +253,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[As bitcoin soars, luxury brands consider accepting crypto payments](https://www.japantimes.co.jp/business/2024/12/19/tech/bitcoin-luxury-brands-crypto/ "As bitcoin soars, luxury brands consider accepting crypto payments")
+[India's Modi faces test of resilience in 2025 after year of setbacks](https://www.japantimes.co.jp/news/2024/12/19/asia-pacific/politics/modi-setbacks-india-2025/ "India's Modi faces test of resilience in 2025 after year of setbacks")
 
-25 mins ago
+47 mins ago
 
-[Europe's conundrum: How to fund defense spending](https://www.japantimes.co.jp/news/2024/12/19/world/politics/europe-conundrum-defense-spending/ "Europe's conundrum: How to fund defense spending")
+[National Police Agency panel calls for stricter rules against host clubs](https://www.japantimes.co.jp/news/2024/12/19/japan/crime-legal/npa-host-clubs-report/ "National Police Agency panel calls for stricter rules against host clubs")
 
-57 mins ago
+55 mins ago
 
-[Bank of Japan keeps rates unchanged at 0.25% after two increases in 2024](https://www.japantimes.co.jp/business/2024/12/19/economy/boj-december-rates/ "Bank of Japan keeps rates unchanged at 0.25% after two increases in 2024")
-
-1 hour ago
-
-[Can China shield the biggest uninsured economy from floods?](https://www.japantimes.co.jp/news/2024/12/19/asia-pacific/politics/china-uninsured-economy-floods/ "Can China shield the biggest uninsured economy from floods?")
+[Scholz’s far-right rival puts Germany’s EU exit on the ballot](https://www.japantimes.co.jp/news/2024/12/19/world/politics/scholz-rival-germany-eu-exit/ "Scholz’s far-right rival puts Germany’s EU exit on the ballot")
 
 1 hour ago
 
-[At Japan's brokerages, skills shortage improves conditions for older staff](https://www.japantimes.co.jp/business/2024/12/19/companies/japan-brokerages-pay-retirement-age-staff/ "At Japan's brokerages, skills shortage improves conditions for older staff")
+[Amazon Japan to enter "furusato nozei" business](https://www.japantimes.co.jp/business/2024/12/19/companies/amazon-furusato-nozei/ "Amazon Japan to enter ")
 
-1 hour ago
+2 hours ago
+
+[Foxconn in talks with Nissan shareholder Renault, CNA says](https://www.japantimes.co.jp/business/2024/12/19/companies/foxconn-nissan-honda-merger-talks/ "Foxconn in talks with Nissan shareholder Renault, CNA says")
+
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
