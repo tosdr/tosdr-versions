@@ -152,6 +152,7 @@ Coincards.com uses Trackers to improve the quality of the user experience and en
     Storage duration:
     
     * \_fbp: 3 months
+    * lastExternalReferrer: duration of the session
     
 * ### LinkedIn button and social widgets (LinkedIn Corporation)
     
@@ -375,6 +376,7 @@ Coincards.com uses Trackers to deliver ads or marketing content, and to measure 
     Storage duration:
     
     * \_fbp: 3 months
+    * lastExternalReferrer: duration of the session
     
 * ### Google Ads Remarketing
     
