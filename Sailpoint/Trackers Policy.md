@@ -1,3 +1,5 @@
+[SailPoint and Imprivata enter strategic partnership to deliver unified identity security and access management for healthcare organizations](https://www.sailpoint.com/press-releases/sailpoint-imprivata-enter-strategic-partnership)
+
 Close
 
 [![SailPoint](/images/SailPoint-logo-cropped.svg)](https://www.sailpoint.com/)[Get a demo](https://www.sailpoint.com/demo)Toggle menu
