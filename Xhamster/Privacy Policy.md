@@ -28,7 +28,7 @@ Sign in with Google](https://xhamster.com/login-google?source=base)
 
 [Videos](https://xhamster.com/)
 
-[Live Sex](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&p1=cold&xhStatsUid=676353136dd0c7.74869794c79&xhSessionToken=37906476938d582982ff3245d9a1c388df3cc93c&xhSessionStartedAt=1734562579)
+[Live Sex](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&p1=cold&xhStatsUid=6763a476e164f7.34511168116&xhSessionToken=47337f170a45ab635c744d7d5c0e2718926ed383&xhSessionStartedAt=1734583414)
 
 [Categories](https://xhamster.com/categories)
 
@@ -60,12 +60,12 @@ AI Girlfriend](https://lovescape.com/?userId=9841b8dfe0948b15d2ade18982de21bd512
 
 * [Upload](https://xhamster.com/creator-signup?source=uploadHeader)
 
-[+14 MONTHS FREE 🌟🎄🎅 Grab the Once-a-Year Offer 🔥 JOIN FAPHOUSE](https://faphouse.com/?utm_source=xhamster-headline&utm_campaign=christmas-2024&utm_medium=desktop-headline)
+[Bored of PORN? 😈 Jerk off with REAL GIRLS in video chat TRY FOR FREE](https://xhamsterflirt.com/?utm_source=xhamster-headline&utm_medium=all-pages)
 
 Privacy Policy
 ==============
 
-Effective Date: December 18, 2024
+Effective Date: December 19, 2024
 
 Last Modified: January 04, 2024
 
@@ -385,7 +385,7 @@ Last Modified: January 04, 2024
 
 ### Start making money with us
 
-* [Camgirls Wanted](https://join.flirtify.com/?utm_source=xhamster-mobile&utm_medium=footer)
+* [Camgirls Wanted](https://join.flirtify.com/?utm_source=xhamster-desktop&utm_medium=footer)
 * [Creator Contest](https://xhamster.com/creators/contest)
 * [Сontent Creators Program](https://xhamster.com/creator?source=footerCcp)
 
