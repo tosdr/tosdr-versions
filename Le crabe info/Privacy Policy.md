@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 189 utilisateurs actifs
+##### 571 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
+* [Architecture Zen 6 : que prépare AMD pour les prochaines puces Ryzen ?](https://lecrabeinfo.net/architecture-zen-6-que-prepare-amd-pour-les-prochaines-puces-ryzen.html) 
 * [NVIDIA App provoque une baisse de performances de 15% dans vos jeux : voici la solution](https://lecrabeinfo.net/nvidia-app-provoque-une-baisse-de-performances-de-15-dans-vos-jeux-voici-la-solution.html)
 * [Windows 11 KB5048667 : la mise à jour de décembre 2024 se rate (échecs d'installation, ralentissements...)](https://lecrabeinfo.net/windows-11-kb5048667-la-mise-a-jour-de-decembre-2024-se-rate-echecs-dinstallation-ralentissements.html)
-* [Voici le top 10 des recherches Google en France pour 2024](https://lecrabeinfo.net/voici-le-top-10-des-recherches-google-en-france-pour-2024.html)
 
 ### Tendance
 
@@ -157,7 +157,7 @@ Chargement en cours
 * 27 107 commentaires
 * [2 687 abonnés Facebook](https://www.facebook.com/lecrabeinfo)
 * [866 abonnés X](https://x.com/lecrabeinfo)
-* [67 528 abonnés à la newsletter](https://lecrabeinfo.net/newsletter)
+* [67 529 abonnés à la newsletter](https://lecrabeinfo.net/newsletter)
 
 * [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr "CC BY-NC-SA")
 * 2013-2024
