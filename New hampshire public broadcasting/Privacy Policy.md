@@ -186,11 +186,11 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 * [| Christa](https://video.nhpbs.org/video/christa-ygbur1?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**"Love Song"** | Next at the Kennedy Center](https://video.nhpbs.org/video/love-song-tyzofw?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Syrians face horrors at site of Assad's chemical attack** | PBS News Hour](https://video.nhpbs.org/video/fall-of-assad-leila-dis-1734560628?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**The Brutalist** | Flicks](https://video.nhpbs.org/video/the-brutalist-olmxwd?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Rebuilding Milwaukee's Trinity Lutheran Church** | Milwaukee PBS Specials](https://video.nhpbs.org/video/rebuilding-milwaukees-trinity-lutheran-church-lvclur?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Gas vs Induction Stoves : The Heated Debate** | Serving Up Science](https://video.nhpbs.org/video/gas-vs-induction-stoves-the-heated-debate-cff3nw?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Lost Tombs of Notre Dame** | NOVA](https://video.nhpbs.org/video/lost-tombs-of-notre-dame-ayjw0k?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**December 18, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/december-18-2024-pbs-news-hour-full-episode-1734498001?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Trailer Who I Am Not** | POV](https://video.nhpbs.org/video/trailer-who-i-am-not-jqknnr?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Maui's Deadly Firestorm** | FRONTLINE](https://video.nhpbs.org/video/mauis-deadly-firestorm-znte6u?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
