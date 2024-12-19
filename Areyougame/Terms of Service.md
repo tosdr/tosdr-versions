@@ -2,7 +2,7 @@
 
         [Skip to content](#MainContent)
 
-**FREE STANDARD SHIPPING ON ORDERS $50+.**
+**\*FOR DELIVERY BY CHRISTMAS: PLEASE USE A UPS EXPEDITED SHIPPING OPTION.**
 
 [![AreYouGame.com](//areyougame.com/cdn/shop/files/AYG_Logo_Flatlg_900x.png?v=1614326358)](https://areyougame.com/)
 
