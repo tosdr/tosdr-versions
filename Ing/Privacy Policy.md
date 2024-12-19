@@ -284,7 +284,7 @@ Can we help? Close
     
     ###### Your tools
     
-    [Make a claim](https://ing.disconline.com.au/myaccount/?entity=10736)
+    [Make a claim](https://www.ing.com.au/insurance/claims.html?cid=vis:meganav:ins:claim)
     
     [Documents and forms](https://www.ing.com.au/help-and-support/documents-and-forms/insurance.html)
     
@@ -298,7 +298,7 @@ Can we help? Close
     
     [Retrieve a quote](https://ing.disconline.com.au/retrieve-quote/2.0/?entity=10738&pid=vis:def:raq:carins)
     
-    [Make a claim](https://ing.disconline.com.au/myaccount/?entity=10736)
+    [Make a claim](https://www.ing.com.au/insurance/claims.html?cid=vis:meganav:ins:claim)
     
     [Documents and forms](https://www.ing.com.au/help-and-support/documents-and-forms/insurance.html#Car-Insurance)
     
@@ -329,7 +329,7 @@ Can we help? Close
     
     [Claims support](https://www.ing.com.au/insurance/home-and-contents-insurance.html#ING-content-5)
     
-    [Make a claim](https://ing.disconline.com.au/myaccount/?entity=10736)
+    [Make a claim](https://www.ing.com.au/insurance/claims.html?cid=vis:meganav:ins:claim)
     
     [Documents and forms](https://www.ing.com.au/help-and-support/documents-and-forms/insurance.html#Home-Contents-Insurance)
     
@@ -399,10 +399,10 @@ Can we help? Close
     
     * [###### SMSF Cash
         
-        High variable interest rate on the cash component of your Self Managed Superannuation Fund.](https://www.ing.com.au/superannuation/smsf-cash.html)
+        Variable interest rate on the cash component of your Self Managed Superannuation Fund.](https://www.ing.com.au/superannuation/smsf-cash.html)
     * [###### SMSF Term Deposit
         
-        High fixed interest rate for your Self Managed Superannuation Fund. You choose the timeframe.](https://www.ing.com.au/superannuation/smsf-term-deposit.html)
+        Fixed interest rate for your Self Managed Superannuation Fund. You choose the timeframe.](https://www.ing.com.au/superannuation/smsf-term-deposit.html)
     
     ###### Your tools
     
