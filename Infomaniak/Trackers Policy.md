@@ -36,7 +36,7 @@ Events & Marketing
     
     * [![ksuite](/img/common/suite/ksuite.svg)
         
-        The entire kSuite Best choice All collaborative tools. No limits for you and your teams](https://www.infomaniak.com/en/myksuite)
+        The entire kSuite Best choice All collaborative tools. No limits for you and your teams](https://www.infomaniak.com/en/ksuite)
     
     * [![kdrive](/img/common/suite/kdrive.svg)
         
@@ -119,7 +119,7 @@ Events & Marketing
         VPS Cloud Create a Windows / Linux server](https://www.infomaniak.com/en/hosting/vps-cloud)
     * [![](/img/common/suite/kaas.svg)
         
-        Kubernetes service Deploy your containerized applications on a large scale.](https://www.infomaniak.com/en/hosting/public-cloud/kubernetes)
+        Kubernetes service Deploy your containerised apps on a large scale.](https://www.infomaniak.com/en/hosting/public-cloud/kubernetes)
     * [![VPS Lite](/img/common/suite/vps-lite.svg)
         
         VPS Lite Create a Windows/Linux server at a low cost](https://www.infomaniak.com/en/hosting/vps-lite)
@@ -147,6 +147,9 @@ Events & Marketing
     * [![Housing](/img/common/suite/housing.svg)
         
         Housing Install your servers in our data centers](https://www.infomaniak.com/en/hosting/datacenter-housing)
+    * [![](/img/common/suite/auth.svg)
+        
+        Auth Add a privacy-friendly login method to your apps](https://www.infomaniak.com/en/hosting/auth)
     
     ![](/img/nav-v2/ticketing-event.svg)
     
