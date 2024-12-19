@@ -20,6 +20,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Femi Azeez leads the team in expected goals (xG). Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/12/F-Azeez-5346-360x180.jpg)](https://southwarknews.co.uk/sport/football/millwall/it-was-a-bit-of-a-shock-to-everyone-femi-azeez-on-neil-harris-departure-scoring-his-first-goal-at-the-den-and-learning-the-millwall-way/)
+    
+    ### [‘It was a bit of a shock to everyone’ – Femi Azeez on Neil Harris’ departure, scoring his first goal at The Den and learning the ‘Millwall way’](https://southwarknews.co.uk/sport/football/millwall/it-was-a-bit-of-a-shock-to-everyone-femi-azeez-on-neil-harris-departure-scoring-his-first-goal-at-the-den-and-learning-the-millwall-way/)
+    
     [![Lifelong fan George Farmer said the visit 'lifted his spirits'](https://southwarknews.co.uk/wp-content/uploads/2024/12/Charlton-Xmas-2024-Visit_81-360x180.jpeg)](https://southwarknews.co.uk/news/charlton-athletic-football-stars-surprise-hospital-patients-with-christmas-cheer-and-gifts/)
     
     ### [Charlton Athletic football stars surprise hospital patients with Christmas cheer and gifts](https://southwarknews.co.uk/news/charlton-athletic-football-stars-surprise-hospital-patients-with-christmas-cheer-and-gifts/)
@@ -51,10 +55,6 @@
     [![Flowers and plants left in honour of Akif Mustaq, owner of East Dulwich Dry Cleaners](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-17-12-2024-at-11.06-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/dulwich-in-shock-after-owner-of-lovely-family-business-dies-in-tragic-dog-attack/)
     
     ### [Dulwich in shock after owner of ‘lovely family business’ dies in tragic dog attack](https://southwarknews.co.uk/area/dulwich/dulwich-in-shock-after-owner-of-lovely-family-business-dies-in-tragic-dog-attack/)
-    
-    [![Rotherhithe Tunnel. Image Google](https://southwarknews.co.uk/wp-content/uploads/2024/12/Rotherhithe-Tunnel-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/plans-to-close-rotherhithe-tunnel-for-nine-month-delayed-to-2026/)
-    
-    ### [Plans to close Rotherhithe Tunnel for nine months delayed to 2026](https://southwarknews.co.uk/area/rotherhithe/plans-to-close-rotherhithe-tunnel-for-nine-month-delayed-to-2026/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +105,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Femi Azeez leads the team in expected goals (xG). Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/12/F-Azeez-5346-360x180.jpg)](https://southwarknews.co.uk/sport/football/millwall/it-was-a-bit-of-a-shock-to-everyone-femi-azeez-on-neil-harris-departure-scoring-his-first-goal-at-the-den-and-learning-the-millwall-way/)
+    
+    ### [‘It was a bit of a shock to everyone’ – Femi Azeez on Neil Harris’ departure, scoring his first goal at The Den and learning the ‘Millwall way’](https://southwarknews.co.uk/sport/football/millwall/it-was-a-bit-of-a-shock-to-everyone-femi-azeez-on-neil-harris-departure-scoring-his-first-goal-at-the-den-and-learning-the-millwall-way/)
+    
     [![Lifelong fan George Farmer said the visit 'lifted his spirits'](https://southwarknews.co.uk/wp-content/uploads/2024/12/Charlton-Xmas-2024-Visit_81-360x180.jpeg)](https://southwarknews.co.uk/news/charlton-athletic-football-stars-surprise-hospital-patients-with-christmas-cheer-and-gifts/)
     
     ### [Charlton Athletic football stars surprise hospital patients with Christmas cheer and gifts](https://southwarknews.co.uk/news/charlton-athletic-football-stars-surprise-hospital-patients-with-christmas-cheer-and-gifts/)
@@ -136,10 +140,6 @@ View All Result
     [![Flowers and plants left in honour of Akif Mustaq, owner of East Dulwich Dry Cleaners](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-17-12-2024-at-11.06-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/dulwich-in-shock-after-owner-of-lovely-family-business-dies-in-tragic-dog-attack/)
     
     ### [Dulwich in shock after owner of ‘lovely family business’ dies in tragic dog attack](https://southwarknews.co.uk/area/dulwich/dulwich-in-shock-after-owner-of-lovely-family-business-dies-in-tragic-dog-attack/)
-    
-    [![Rotherhithe Tunnel. Image Google](https://southwarknews.co.uk/wp-content/uploads/2024/12/Rotherhithe-Tunnel-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/plans-to-close-rotherhithe-tunnel-for-nine-month-delayed-to-2026/)
-    
-    ### [Plans to close Rotherhithe Tunnel for nine months delayed to 2026](https://southwarknews.co.uk/area/rotherhithe/plans-to-close-rotherhithe-tunnel-for-nine-month-delayed-to-2026/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
