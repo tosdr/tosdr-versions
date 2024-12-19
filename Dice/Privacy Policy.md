@@ -1,9 +1,9 @@
 Dice Privacy Policy
 ===================
 
-LAST UPDATED: 12/17/2024
-
 [![Privacy feedback powered by TRUSTArc](https://privacy-policy.truste.com/privacy-seal/seal?rid=e8361470-d510-4755-9604-df13c25eee3d)](https://privacy.truste.com/privacy-seal/validation?rid=e8361470-d510-4755-9604-df13c25eee3d)
+
+###### Last Updated: 10/01/2024
 
 Dice.com and DHI Group, Inc. are committed to safeguarding the privacy of our users while providing personalized career management services on our websites and applications. This Privacy Policy for Dice.com describes our practices on the collection, use and disclosure of your information in connection with our parent entity, DHI Group, Inc., and subsidiaries and affiliates acting on our behalf (collectively, "Dice").
 
