@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Your service worked well for me, thank you. On a couple of occasions, the connection was slow or sporadic, but overall I was able to see the programs I wanted to see.
+Thanks for all your help again, I really appreciate it and the service your company provides.
 
-Geoffrey S. Knauth
+David Acosta
