@@ -18,7 +18,7 @@
 
 [Tokenise as a Service](https://vero.co/site/taas)
 
-[Get The App](https://vero.co/site/get-the-app)
+[Get the app](https://vero.co/site/get-the-app)
 
 Open Menu Close Menu
 
@@ -38,7 +38,7 @@ Open Menu Close Menu
 
 [Tokenise as a Service](https://vero.co/site/taas)
 
-[Get The App](https://vero.co/site/get-the-app)
+[Get the app](https://vero.co/site/get-the-app)
 
 Open Menu Close Menu
 
@@ -56,7 +56,7 @@ Open Menu Close Menu
 
 [Tokenise as a Service](https://vero.co/site/taas)
 
-[Get The App](https://vero.co/site/get-the-app)
+[Get the app](https://vero.co/site/get-the-app)
 
 Terms of Use Agreement
 ======================
