@@ -20,6 +20,18 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Femi Azeez leads the team in expected goals (xG). Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/12/F-Azeez-5346-360x180.jpg)](https://southwarknews.co.uk/sport/football/millwall/it-was-a-bit-of-a-shock-to-everyone-femi-azeez-on-neil-harris-departure-scoring-his-first-goal-at-the-den-and-learning-the-millwall-way/)
+    
+    ### [‘It was a bit of a shock to everyone’ – Femi Azeez on Neil Harris’ departure, scoring his first goal at The Den and learning the ‘Millwall way’](https://southwarknews.co.uk/sport/football/millwall/it-was-a-bit-of-a-shock-to-everyone-femi-azeez-on-neil-harris-departure-scoring-his-first-goal-at-the-den-and-learning-the-millwall-way/)
+    
+    [![Lifelong fan George Farmer said the visit 'lifted his spirits'](https://southwarknews.co.uk/wp-content/uploads/2024/12/Charlton-Xmas-2024-Visit_81-360x180.jpeg)](https://southwarknews.co.uk/news/charlton-athletic-football-stars-surprise-hospital-patients-with-christmas-cheer-and-gifts/)
+    
+    ### [Charlton Athletic football stars surprise hospital patients with Christmas cheer and gifts](https://southwarknews.co.uk/news/charlton-athletic-football-stars-surprise-hospital-patients-with-christmas-cheer-and-gifts/)
+    
+    [![The garages on New James Court Estate in Scylla Road](https://southwarknews.co.uk/wp-content/uploads/2024/12/Scylla-Road-1-360x180.png)](https://southwarknews.co.uk/area/peckham/council-wants-to-transform-peckham-garage-site-into-affordable-homes/)
+    
+    ### [Council wants to transform Peckham garage site into affordable homes](https://southwarknews.co.uk/area/peckham/council-wants-to-transform-peckham-garage-site-into-affordable-homes/)
+    
     [![](https://southwarknews.co.uk/wp-content/uploads/2024/12/CREDIT-@georgethomasbell-copy-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/local-beer-global-literature-and-events-to-spark-creativity-at-bermondseys-morocco-bound/)
     
     ### [Local beer, global literature and events to spark creativity at Bermondsey’s Morocco Bound](https://southwarknews.co.uk/area/bermondsey/local-beer-global-literature-and-events-to-spark-creativity-at-bermondseys-morocco-bound/) 
@@ -43,18 +55,6 @@
     [![Flowers and plants left in honour of Akif Mustaq, owner of East Dulwich Dry Cleaners](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-17-12-2024-at-11.06-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/dulwich-in-shock-after-owner-of-lovely-family-business-dies-in-tragic-dog-attack/)
     
     ### [Dulwich in shock after owner of ‘lovely family business’ dies in tragic dog attack](https://southwarknews.co.uk/area/dulwich/dulwich-in-shock-after-owner-of-lovely-family-business-dies-in-tragic-dog-attack/)
-    
-    [![Rotherhithe Tunnel. Image Google](https://southwarknews.co.uk/wp-content/uploads/2024/12/Rotherhithe-Tunnel-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/plans-to-close-rotherhithe-tunnel-for-nine-month-delayed-to-2026/)
-    
-    ### [Plans to close Rotherhithe Tunnel for nine months delayed to 2026](https://southwarknews.co.uk/area/rotherhithe/plans-to-close-rotherhithe-tunnel-for-nine-month-delayed-to-2026/)
-    
-    [![Miatta Fahnbulleh](https://southwarknews.co.uk/wp-content/uploads/2024/01/Miatta-Fahnbulleh-e1704998877172-360x180.jpeg)](https://southwarknews.co.uk/news/community/our-warm-home-plans-will-help-people-save-money-says-peckham-mp/)
-    
-    ### [‘Our Warm Home Plans will help people save money’ says Peckham MP](https://southwarknews.co.uk/news/community/our-warm-home-plans-will-help-people-save-money-says-peckham-mp/)
-    
-    [![Bermondsey and Old Southwark MP Neil Coyle (left) and Iqbal Mohamed, MP for Dewsbury (right)](https://southwarknews.co.uk/wp-content/uploads/2024/12/Bermondsey-and-Old-Southwark-MP-Neil-Coyle-left-and-Iqbal-Mohamed-MP-for-Dewsbury-right-360x180.png)](https://southwarknews.co.uk/area/bermondsey/labour-mp-slams-independent-mp-who-argued-against-banning-first-cousin-marriage/)
-    
-    ### [Labour MP slams independent MP who argued against banning first-cousin marriage](https://southwarknews.co.uk/area/bermondsey/labour-mp-slams-independent-mp-who-argued-against-banning-first-cousin-marriage/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +105,18 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Femi Azeez leads the team in expected goals (xG). Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/12/F-Azeez-5346-360x180.jpg)](https://southwarknews.co.uk/sport/football/millwall/it-was-a-bit-of-a-shock-to-everyone-femi-azeez-on-neil-harris-departure-scoring-his-first-goal-at-the-den-and-learning-the-millwall-way/)
+    
+    ### [‘It was a bit of a shock to everyone’ – Femi Azeez on Neil Harris’ departure, scoring his first goal at The Den and learning the ‘Millwall way’](https://southwarknews.co.uk/sport/football/millwall/it-was-a-bit-of-a-shock-to-everyone-femi-azeez-on-neil-harris-departure-scoring-his-first-goal-at-the-den-and-learning-the-millwall-way/)
+    
+    [![Lifelong fan George Farmer said the visit 'lifted his spirits'](https://southwarknews.co.uk/wp-content/uploads/2024/12/Charlton-Xmas-2024-Visit_81-360x180.jpeg)](https://southwarknews.co.uk/news/charlton-athletic-football-stars-surprise-hospital-patients-with-christmas-cheer-and-gifts/)
+    
+    ### [Charlton Athletic football stars surprise hospital patients with Christmas cheer and gifts](https://southwarknews.co.uk/news/charlton-athletic-football-stars-surprise-hospital-patients-with-christmas-cheer-and-gifts/)
+    
+    [![The garages on New James Court Estate in Scylla Road](https://southwarknews.co.uk/wp-content/uploads/2024/12/Scylla-Road-1-360x180.png)](https://southwarknews.co.uk/area/peckham/council-wants-to-transform-peckham-garage-site-into-affordable-homes/)
+    
+    ### [Council wants to transform Peckham garage site into affordable homes](https://southwarknews.co.uk/area/peckham/council-wants-to-transform-peckham-garage-site-into-affordable-homes/)
+    
     [![](https://southwarknews.co.uk/wp-content/uploads/2024/12/CREDIT-@georgethomasbell-copy-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/local-beer-global-literature-and-events-to-spark-creativity-at-bermondseys-morocco-bound/)
     
     ### [Local beer, global literature and events to spark creativity at Bermondsey’s Morocco Bound](https://southwarknews.co.uk/area/bermondsey/local-beer-global-literature-and-events-to-spark-creativity-at-bermondseys-morocco-bound/) 
@@ -128,18 +140,6 @@ View All Result
     [![Flowers and plants left in honour of Akif Mustaq, owner of East Dulwich Dry Cleaners](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-17-12-2024-at-11.06-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/dulwich-in-shock-after-owner-of-lovely-family-business-dies-in-tragic-dog-attack/)
     
     ### [Dulwich in shock after owner of ‘lovely family business’ dies in tragic dog attack](https://southwarknews.co.uk/area/dulwich/dulwich-in-shock-after-owner-of-lovely-family-business-dies-in-tragic-dog-attack/)
-    
-    [![Rotherhithe Tunnel. Image Google](https://southwarknews.co.uk/wp-content/uploads/2024/12/Rotherhithe-Tunnel-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/plans-to-close-rotherhithe-tunnel-for-nine-month-delayed-to-2026/)
-    
-    ### [Plans to close Rotherhithe Tunnel for nine months delayed to 2026](https://southwarknews.co.uk/area/rotherhithe/plans-to-close-rotherhithe-tunnel-for-nine-month-delayed-to-2026/)
-    
-    [![Miatta Fahnbulleh](https://southwarknews.co.uk/wp-content/uploads/2024/01/Miatta-Fahnbulleh-e1704998877172-360x180.jpeg)](https://southwarknews.co.uk/news/community/our-warm-home-plans-will-help-people-save-money-says-peckham-mp/)
-    
-    ### [‘Our Warm Home Plans will help people save money’ says Peckham MP](https://southwarknews.co.uk/news/community/our-warm-home-plans-will-help-people-save-money-says-peckham-mp/)
-    
-    [![Bermondsey and Old Southwark MP Neil Coyle (left) and Iqbal Mohamed, MP for Dewsbury (right)](https://southwarknews.co.uk/wp-content/uploads/2024/12/Bermondsey-and-Old-Southwark-MP-Neil-Coyle-left-and-Iqbal-Mohamed-MP-for-Dewsbury-right-360x180.png)](https://southwarknews.co.uk/area/bermondsey/labour-mp-slams-independent-mp-who-argued-against-banning-first-cousin-marriage/)
-    
-    ### [Labour MP slams independent MP who argued against banning first-cousin marriage](https://southwarknews.co.uk/area/bermondsey/labour-mp-slams-independent-mp-who-argued-against-banning-first-cousin-marriage/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -383,6 +383,12 @@ Website
 
 ### Featured Articles
 
+[![The garages on New James Court Estate in Scylla Road](https://southwarknews.co.uk/wp-content/uploads/2024/12/Scylla-Road-1-120x86.png)](https://southwarknews.co.uk/area/peckham/council-wants-to-transform-peckham-garage-site-into-affordable-homes/)
+
+### [Council wants to transform Peckham garage site into affordable homes](https://southwarknews.co.uk/area/peckham/council-wants-to-transform-peckham-garage-site-into-affordable-homes/)
+
+[18th December 2024](https://southwarknews.co.uk/area/peckham/council-wants-to-transform-peckham-garage-site-into-affordable-homes/)
+
 [![Left to right: Max Fiddimore, Brian Skipper and Valerie all heaped praise on the Poundland on Lordship Lane](https://southwarknews.co.uk/wp-content/uploads/2024/12/Left-to-right-Max-Fiddimore-Brian-Skipper-and-Valerie-all-heaped-praise-on-the-Poundland-on-Lordship-Lane-120x86.png)](https://southwarknews.co.uk/area/dulwich/fig-biscuits-and-budget-bubbly-how-britains-poshest-poundland-shop-proved-a-surprising-success/)
 
 ### [Fig biscuits and budget bubbly: How Britain’s poshest Poundland shop proved a surprising success](https://southwarknews.co.uk/area/dulwich/fig-biscuits-and-budget-bubbly-how-britains-poshest-poundland-shop-proved-a-surprising-success/)
@@ -412,12 +418,6 @@ Website
 ### [Berkeley drops Aylesham Centre affordable housing offer to 12 per cent](https://southwarknews.co.uk/featured/berkeley-drops-aylesham-centre-affordable-housing-offer-to-12-per-cent/)
 
 [16th December 2024](https://southwarknews.co.uk/featured/berkeley-drops-aylesham-centre-affordable-housing-offer-to-12-per-cent/)
-
-[![(photo: London Fire Brigade)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-29-10-2024-at-10.03-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-fire-four-rescued-as-firefighters-urge-smoking-safety/)
-
-### [Bermondsey fire: Four rescued as firefighters urge smoking safety](https://southwarknews.co.uk/area/bermondsey/bermondsey-fire-four-rescued-as-firefighters-urge-smoking-safety/)
-
-[16th December 2024](https://southwarknews.co.uk/area/bermondsey/bermondsey-fire-four-rescued-as-firefighters-urge-smoking-safety/)
 
 ### USEFUL PAGES
 
