@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
-[Justice
+[Joy
 
-### As Trump lawsuits unravel, hush money conviction is an exception](https://www.csmonitor.com/USA/Politics/2024/1217/trump-hush-money-appeal "As Trump lawsuits unravel, hush money conviction is an exception")
+### A reporter hunts for ‘Carol of the Bells’ birthplace – in Ukraine](https://www.csmonitor.com/World/Europe/2024/1218/shchedryk-carol-bells-ukraine-christmas-music "A reporter hunts for ‘Carol of the Bells’ birthplace – in Ukraine")
 
-[Safety
+[Cooperation
 
-### Tracing fentanyl’s path into the US starts at this port. It doesn’t end there.](https://www.csmonitor.com/USA/2024/1217/fentanyl-trump-us-mexico-china "Tracing fentanyl’s path into the US starts at this port. It doesn’t end there.")
+### With Iran on the decline, a new axis rises in Mideast. Syria is still key.](https://www.csmonitor.com/World/Middle-East/2024/1218/syria-turkey-qatar-mideast-democracy-iran "With Iran on the decline, a new axis rises in Mideast. Syria is still key.")
 
-[Peace
+[Trust
 
-### Christmas light for Gaza](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1217/Christmas-light-for-Gaza "Christmas light for Gaza")
+### The role model for Syria’s unity](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1218/The-role-model-for-Syria-s-unity "The role model for Syria’s unity")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -110,11 +110,11 @@ Recent Stories
 
 Monitor Daily
 
-December 17, 2024
+December 18, 2024
 
-Ferreting out fentanyl
+An eye on faith and religion
 
-How do officials ferret out smuggled fentanyl – America’s “greatest and most urgent drug threat,” according to the Drug Enforcement Administration? It’s a multifaceted challenge. As Sarah Matusek lays out in detail in our lead story today, it involves the expected: “proactive policing,” education, “the whole of government.” And the unexpected. And, yes, “following the money”: In the IRS office in Denver, a poster reads: “Only an Accountant Could Catch Al Capone.”
+I’m excited about Sophie Hills’ story in today’s issue. One reason is that it is fascinating – a look at the growth and evolution of “cultural Christianity,” and what that says about the United States and American religion today.But just as exciting: It is Sophie’s first story in her new role as our faith and religion writer. She’ll focus on the intersection of religion and politics, culture, and ideas. And today’s article is a great start.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### A reporter hunts for ‘Carol of the Bells’ birthplace – in Ukraine](https://www.csmonitor.com/World/Europe/2024/1218/shchedryk-carol-bells-ukraine-christmas-music "A reporter hunts for ‘Carol of the Bells’ birthplace – in Ukraine")
+
+[### With Iran on the decline, a new axis rises in Mideast. Syria is still key.](https://www.csmonitor.com/World/Middle-East/2024/1218/syria-turkey-qatar-mideast-democracy-iran "With Iran on the decline, a new axis rises in Mideast. Syria is still key.")
+
 [### Why do prosecutors see the killing of UnitedHealthcare’s CEO as an act of terrorism?](https://www.csmonitor.com/USA/2024/1218/luigi-mangione-unitedhealthcare-terrorism "Why do prosecutors see the killing of UnitedHealthcare’s CEO as an act of terrorism?")
-
-[### Elon Musk now calls himself a ‘cultural Christian.’ What does that mean?](https://www.csmonitor.com/USA/Society/2024/1218/elon-musk-cultural-christian-richard-dawkins "Elon Musk now calls himself a ‘cultural Christian.’ What does that mean?")
-
-[### Tracing fentanyl’s path into the US starts at this port. It doesn’t end there.](https://www.csmonitor.com/USA/2024/1217/fentanyl-trump-us-mexico-china "Tracing fentanyl’s path into the US starts at this port. It doesn’t end there.")
 
 * * *
 
