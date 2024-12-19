@@ -410,9 +410,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Do what you can, with what you have, where you are”
+“ A designer is an emerging synthesis of artist, inventor, mechanic, objective economist and evolutionary strategist”
 
-[Theodore Roosevelt](https://en.wikipedia.org/wiki/Theodore_Roosevelt)
+[R. Buckminster Fuller](http://en.wikipedia.org/wiki/Buckminster_Fuller)
 
 [](https://www.adafruit.com/about)
 
