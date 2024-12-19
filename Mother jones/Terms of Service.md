@@ -8,10 +8,10 @@
 
 *  
     
-* [Mayor Eric Adams](https://www.motherjones.com/politics/2024/12/trump-eric-adams-pardon/)
-* [Steve Bannon](https://www.motherjones.com/politics/2024/12/steve-bannon-teases-a-third-trump-term/)
-* [For-Profit Insurance](https://www.motherjones.com/politics/2024/12/toll-health-insurance-industry-profits-claim-denials-delays-care-brian-thompson-unitedhealth-luigi-mangione-physicians-national-health-program/)
-* [Donald Trump](https://www.motherjones.com/politics/2024/12/donald-trump-wants-to-end-daylight-saving-that-may-not-be-a-bad-idea/)
+* [Supreme Court](https://www.motherjones.com/politics/2024/12/donald-trump-corruption-supreme-court/)
+* [Trump’s Jan. 6 Pardons](https://www.motherjones.com/politics/2024/12/trump-pardons-january6-insurrection-congress-security/)
+* [Mayor Eric Adams](https://www.motherjones.com/politics/2024/12/after-random-attacks-ny-renews-push-for-involuntary-commitment/)
+* [Climate Change](https://www.motherjones.com/environment/2024/12/malibu-franklin-mountain-fire-droughti-santa-ana-winds-dangerous-conditions/)
 
 * [Newsletters](https://www.motherjones.com/newsletters/?mj_oac=dropdown_nav)
 * [Politics](https://www.motherjones.com/politics/)
@@ -27,10 +27,10 @@
 
 *  
     
-* [Mayor Eric Adams](https://www.motherjones.com/politics/2024/12/trump-eric-adams-pardon/)
-* [Steve Bannon](https://www.motherjones.com/politics/2024/12/steve-bannon-teases-a-third-trump-term/)
-* [For-Profit Insurance](https://www.motherjones.com/politics/2024/12/toll-health-insurance-industry-profits-claim-denials-delays-care-brian-thompson-unitedhealth-luigi-mangione-physicians-national-health-program/)
-* [Donald Trump](https://www.motherjones.com/politics/2024/12/donald-trump-wants-to-end-daylight-saving-that-may-not-be-a-bad-idea/)
+* [Supreme Court](https://www.motherjones.com/politics/2024/12/donald-trump-corruption-supreme-court/)
+* [Trump’s Jan. 6 Pardons](https://www.motherjones.com/politics/2024/12/trump-pardons-january6-insurrection-congress-security/)
+* [Mayor Eric Adams](https://www.motherjones.com/politics/2024/12/after-random-attacks-ny-renews-push-for-involuntary-commitment/)
+* [Climate Change](https://www.motherjones.com/environment/2024/12/malibu-franklin-mountain-fire-droughti-santa-ana-winds-dangerous-conditions/)
 
 [Subscribe to our magazine](https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGHOP&c=SEGHOC&d=SEGHOD&f=SEGHOF "Subscribe")
 
