@@ -1,7 +1,5 @@
     
 
-    
-
         [Skip to content](#MainContent)
 
 **\*FOR DELIVERY BY CHRISTMAS: PLEASE USE A UPS EXPEDITED SHIPPING OPTION.**
