@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![25 Facts About ErbiumSilver ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22109%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/science/chemistry/25-facts-about-erbium-silver/)
+[![50 Facts About Polychondritis ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2291%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/50-facts-about-polychondritis/)
 
-Chemistry
+Health Science
 
-18 Dec 2024
+19 Dec 2024
 
-[25 Facts About ErbiumSilver](https://facts.net/science/chemistry/25-facts-about-erbium-silver/)
+[50 Facts About Polychondritis](https://facts.net/fitness-and-wellbeing/health-science/50-facts-about-polychondritis/)
 
-[![30 Facts About Bernie Ecclestone ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/30-facts-about-bernie-ecclestone/)
+[![25 Facts About Lower Limb Anomaly Ureteral Obstruction ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%221%22 height=%221%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/25-facts-about-lower-limb-anomaly-ureteral-obstruction/)
 
-People
+Health Science
 
-18 Dec 2024
+19 Dec 2024
 
-[30 Facts About Bernie Ecclestone](https://facts.net/history/people/30-facts-about-bernie-ecclestone/)
+[25 Facts About Lower Limb Anomaly Ureteral Obstruction](https://facts.net/fitness-and-wellbeing/health-science/25-facts-about-lower-limb-anomaly-ureteral-obstruction/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
