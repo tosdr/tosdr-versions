@@ -4,6 +4,8 @@ We’re sorry, but Coda doesn’t work properly without JavaScript enabled.
 
 Skip to content
 
+[Grammarly to acquire Coda! Click here to read more about the future of AI + productivity.](https://coda.io/blog/about-coda/grammarly-acquires-coda?utm_source=website&utm_medium=rainbow_bar&utm_campaign=grammarly&utm_content=announcement&utm_term=12-17-2024)
+
 [](https://coda.io/welcome)
 
 Product
@@ -95,6 +97,8 @@ How to build a team hub on Coda](https://coda.io/resources/guides/how-to-build-a
 [Gallery](https://coda.io/gallery)[Blog](https://coda.io/blog)[Pricing](https://coda.io/pricing)[Request a demo](https://coda.io/contact/sales/request-a-demo)
 
 [Get started](https://coda.io/signup?continueTo=%2Ftrust%2Fprivacy)
+
+[Grammarly to acquire Coda! Click here to read more about the future of AI + productivity.](https://coda.io/blog/about-coda/grammarly-acquires-coda?utm_source=website&utm_medium=rainbow_bar&utm_campaign=grammarly&utm_content=announcement&utm_term=12-17-2024)
 
 [](https://coda.io/welcome)
 
@@ -642,7 +646,7 @@ Copyright © 2024 Coda. All rights reserved.[Privacy](https://coda.io/trust/priv
 Want to print your doc?  
 This is not the way.
 
-![](https://cdn.coda.io/assets/94f8c57d6a47/img/import_google_docs.png)
+![](https://cdn.coda.io/assets/5a71bd8fc581/img/import_google_docs.png)
 
 Try clicking the ⋯ next to your doc name or using a keyboard shortcut (
 
