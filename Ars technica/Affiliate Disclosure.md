@@ -84,11 +84,11 @@ We apply the same rigor and standards of objectivity to these articles as we do 
 
 Most Read
 
-1. [![Listing image for first story in Most Read: Huge math error corrected in black plastic study; authors say it doesn’t matter](https://cdn.arstechnica.net/wp-content/uploads/2024/12/GettyImages-1387194168-768x432.jpg)](https://arstechnica.com/health/2024/12/huge-math-error-corrected-in-black-plastic-study-authors-say-it-doesnt-matter/)
+1. [![Listing image for first story in Most Read: “Unprecedented” decline in teen drug use continues, surprising experts](https://cdn.arstechnica.net/wp-content/uploads/2024/12/GettyImages-1411412051-768x432.jpg)](https://arstechnica.com/health/2024/12/the-kids-are-maybe-alright-teen-drug-use-hits-new-lows-in-ongoing-decline/)
     
-    1. [Huge math error corrected in black plastic study; authors say it doesn’t matter](https://arstechnica.com/health/2024/12/huge-math-error-corrected-in-black-plastic-study-authors-say-it-doesnt-matter/)
+    1. [“Unprecedented” decline in teen drug use continues, surprising experts](https://arstechnica.com/health/2024/12/the-kids-are-maybe-alright-teen-drug-use-hits-new-lows-in-ongoing-decline/)
     
-2. 2. [“Unprecedented” decline in teen drug use continues, surprising experts](https://arstechnica.com/health/2024/12/the-kids-are-maybe-alright-teen-drug-use-hits-new-lows-in-ongoing-decline/)
+2. 2. [Huge math error corrected in black plastic study; authors say it doesn’t matter](https://arstechnica.com/health/2024/12/huge-math-error-corrected-in-black-plastic-study-authors-say-it-doesnt-matter/)
     
 3. 3. [Report: Elon Musk failed to report movement required by security clearance](https://arstechnica.com/space/2024/12/report-elon-musk-failed-to-report-movement-required-by-security-clearance/)
     
