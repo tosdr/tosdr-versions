@@ -8,7 +8,7 @@
 
 |     |     |
 | --- | --- |
-| **You are 1 of 377 active visitors** | **Wednesday, December 18, 2024** |
+| **You are 1 of 618 active visitors** | **Thursday, December 19, 2024** |
 
 **EMAIL NEWS**![](/images/clear.gif)
 
@@ -109,7 +109,7 @@ Should you have questions or concerns relating to this Privacy Statement or comp
 |     |     |
 |     |     |    
 
- **QUOTES TO REMEMBER**As I have stood in the crosshairs of those who target Second Amendment freedoms, I've realized that firearms are not the only issue. No, it's much, much bigger than that. I've come to understand that a cultural war is raging across our land, in which, with Orwellian fervor, certain acceptable thoughts and speech are mandated. � Charlton Heston
+ **QUOTES TO REMEMBER**Rifles, muskets, long-bows and hand-grenades are inherently democratic weapons. A complex weapon makes the strong stronger, while a simple weapon � so long as there is no answer to it � gives claws to the weak. � George Orwell
 
 **COPYRIGHT POLICY:** The posting of copyrighted articles and other content, in whole or in part, is not allowed here. We have made an effort to educate our users about this policy and we are extremely serious about this. Users who are caught violating this rule will be warned and/or banned.  
 If you are the owner of content that you believe has been posted on this site without your permission, [please contact our webmaster by following this link](http://keepandbeararms.com/about/contact_us.asp). Please include with your message: (1) the particulars of the infringement, including a description of the content, (2) a link to that content here and (3) information concerning where the content in question was originally posted/published. We will address your complaint as quickly as possible. Thank you.
