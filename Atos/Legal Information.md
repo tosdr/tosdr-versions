@@ -142,15 +142,15 @@ Atos homepage](https://atos.net/en/)
         Press releases
         --------------
         
+        * [Atos opens a new chapter with the successful closing of its financial restructuring](https://atos.net/en/2024/press-release_2024_12_19/atos-opens-a-new-chapter-with-the-successful-closing-of-its-financial-restructuring)
+        * [Convening of the Annual General Meeting to approve the 2023 financial statements to be held on January 31, 2025 and evolution of the Atos Board of Directors](https://atos.net/en/2024/press-release_2024_12_19/convening-of-the-annual-general-meeting-to-approve-the-2023-financial-statements-to-be-held-on-january-31-2025-and-evolution-of-the-atos-board-of-directors)
         * [Eviden Achieves AWS Security Incident Response Specialization to Deliver Unmatched Cyber Resilience for AWS Cloud Customers](https://atos.net/en/2024/news_2024_12_17/eviden-achieves-aws-security-incident-response-specialization-to-deliver-unmatched-cyber-resilience-for-aws-cloud-customers)
-        * [Eviden’s Trustway Crypt2pay to help SalisPay & CredoPay to secure and protect sensitive payment data required for card transactions in India, Oman and UAE](https://atos.net/en/2024/uncategorized_2024_12_17/evidens-trustway-crypt2pay-to-help-salispay-credopay-to-secure-and-protect-sensitive-payment-data-required-for-card-transactions-in-india-oman-and-uae)
-        * [Atos to evolve CNES's customizable flight software and maintain it for the next five years](https://atos.net/en/2024/press-release_2024_12_16/atos-to-evolve-cness-customizable-flight-software-and-maintain-it-for-the-next-five-years)
         
         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
-        Dec 17, 2024
+        Dec 19, 2024
         
-        ### Eviden Achieves AWS Security Incident Response Specialization to Deliver Unmatched Cyber Resilience for AWS Cloud Customers
+        ### Atos opens a new chapter with the successful closing of its financial restructuring
         
     * [Atos Research Community](https://atos.net/en/atos-research-community)
         
