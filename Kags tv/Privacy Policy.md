@@ -33,9 +33,9 @@ Navigation
         
         #### [Police: Suspect in custody after hostage rescue at College Station apartment complex](https://www.kagstv.com/article/news/crime/college-station-fox-meadows-apartments-barricaded-suspect-arrest-dec-18-2024/500-56c29def-a191-4bae-a434-da7610c6b839)
         
-    *  [![](https://media.kagstv.com/assets/KAGS/images/66c1844b-29a1-41e2-bd53-5fc440d5ceea/66c1844b-29a1-41e2-bd53-5fc440d5ceea_16x9.jpg) ![](https://media.kagstv.com/assets/KAGS/images/66c1844b-29a1-41e2-bd53-5fc440d5ceea/66c1844b-29a1-41e2-bd53-5fc440d5ceea_360x203.jpg)](https://www.kagstv.com/article/news/crime/the-cookshack-robbery-college-station-dec-2024/500-d127abd8-25bc-4730-8594-c8e7506c5124)
+    *  [![](https://media.kagstv.com/assets/KCEN/images/df02edcd-e9a5-4bb3-a251-5fce2f147126/20241218T205849/df02edcd-e9a5-4bb3-a251-5fce2f147126_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/df02edcd-e9a5-4bb3-a251-5fce2f147126/20241218T205849/df02edcd-e9a5-4bb3-a251-5fce2f147126_360x203.jpg)](https://www.kagstv.com/article/news/crime/jimmie-peavy-jr-sentencing-grimes-county-dec-2024/500-e1020685-8e0a-4c51-b805-b444cbd76470)
         
-        #### [Suspect unable to be located after College Station Police respond to reported robbery at The Cookshack](https://www.kagstv.com/article/news/crime/the-cookshack-robbery-college-station-dec-2024/500-d127abd8-25bc-4730-8594-c8e7506c5124)
+        #### [Man that drunkenly spat on police officer in Navasota in 2023 sentenced to 35 years in prison](https://www.kagstv.com/article/news/crime/jimmie-peavy-jr-sentencing-grimes-county-dec-2024/500-e1020685-8e0a-4c51-b805-b444cbd76470)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -97,9 +97,9 @@ Navigation
 
 Bryan, TX »
 
-67°
+53°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
