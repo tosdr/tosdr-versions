@@ -164,13 +164,19 @@
 
 Subscribe
 
-[#### Digestive Health](https://www.healthline.com/digestive-health)
+[#### Skin Care](https://www.healthline.com/skincare)
 
-* [The Basics](https://www.healthline.com/digestive-health/basics)
-* [Crohn’s Treatment](https://www.healthline.com/digestive-health/crohns-treatment)
-* [UC Treatment](https://www.healthline.com/digestive-health/ulcerative-colitis-treatment)
-* [What to Eat](https://www.healthline.com/digestive-health/diet)
-* [Prevention and Lifestyle](https://www.healthline.com/digestive-health/prevention)
+* [Your Skin](https://www.healthline.com/skincare/skin-youre-in)
+* [Science](https://www.healthline.com/skincare/skin-science)
+* [Ingredients](https://www.healthline.com/skincare/ingredients)
+* [Routine](https://www.healthline.com/skincare/build-your-routine)
+* [Acne](https://www.healthline.com/skincare/acne)
+* [Conditions](https://www.healthline.com/skincare/conditions-and-concerns)
+* [Procedures](https://www.healthline.com/skincare/procedures)
+* [Products](https://www.healthline.com/skincare/products)
+* [Sun Protection](https://www.healthline.com/skincare/sun-protection)
+* [Natural](https://www.healthline.com/skincare/natural-and-diy)
+* [Hair & Nails](https://www.healthline.com/skincare/hair-and-nails)
 
 Privacy Policy
 ==============
