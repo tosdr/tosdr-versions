@@ -5,6 +5,7 @@ Search
 [Sign Up](https://yout.com/signup/)
 
 * [Yout](https://yout.com/?lang=en)
+* [API](https://yout.com/api/?lang=en)
 * [Tutorials](https://yout.com/how-to-format-shift/?lang=en)
 * [](https://yout.com/terms/?lang=en)
     * [English](https://yout.com/terms/?lang=en)
@@ -235,6 +236,6 @@ Yout may earn a small commission from a select few links across the site
 
 If you have any questions about these Terms of Service document, don't hesitate to [contact us](https://yout.com/contact/).
 
-[About Us](https://yout.com/about/) [Privacy Policy](https://yout.com/privacy/) [Terms of service](https://yout.com/terms/) [Contact Us](https://yout.com/contact/) [![](/static/bluesky.png) Follow us on BlueSky](https://bsky.app/profile/yout.com)
+[About Us](https://yout.com/about/) [API](https://yout.com/api/) [Privacy Policy](https://yout.com/privacy/) [Terms of service](https://yout.com/terms/) [Contact Us](https://yout.com/contact/) [![](/static/bluesky.png) Follow us on BlueSky](https://bsky.app/profile/yout.com)
 
 2024 Yout LLC | Made by [nadermx](https://john.nader.mx/?lang=en)
