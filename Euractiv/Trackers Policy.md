@@ -109,27 +109,27 @@ Languages: [Français](https://www.euractiv.fr/?post_type=page&p=364525)
 Most recent
 -----------
 
-[18-12-2024
+[19-12-2024
 
-EU agriculture chief Hansen admits limits to farm worker protection](https://www.euractiv.com/section/agriculture-food/news/eu-agriculture-chief-hansen-admits-limits-to-farm-worker-protection/)[18-12-2024
+Ukraine strikes refinery in Russia’s Rostov with missiles and drones](https://www.euractiv.com/section/global-europe/news/ukraine-strikes-refinery-in-russias-rostov-with-missiles-and-drones/)[19-12-2024
 
-Millions of Danes asked to become organ donors, more than 400 on waiting list](https://www.euractiv.com/section/health-consumers/news/millions-of-danes-asked-to-become-organ-donors-more-than-400-on-waiting-list/)[18-12-2024
+Czech lawmakers approve controversial citizenship restrictions for Russians](https://www.euractiv.com/section/politics/news/the-capitals-czech-lawmakers-approve-controversial-citizenship-restrictions-for-russians/)[19-12-2024
 
-European Parliament OKs full standing committee on public health](https://www.euractiv.com/section/health-consumers/news/european-parliament-oks-full-standing-committee-on-public-health/)[18-12-2024
+Romania calls for fiscal, budget consolidation after Fitch downgrade](https://www.euractiv.com/section/politics/news/romania-calls-for-fiscal-budget-consolidation-after-fitch-downgrade/)[19-12-2024
 
-France’s Sarkozy must wear electronic tag after losing graft case appeal](https://www.euractiv.com/section/politics/news/frances-sarkozy-must-wear-electronic-tag-after-losing-graft-case-appeal/)[18-12-2024
+Orbán comes to Bulgaria for praise and Russian gas](https://www.euractiv.com/section/politics/news/orban-comes-to-bulgaria-for-praise-and-russian-gas/)[19-12-2024
 
-Berlin to abolish controversial gas transit fee with support from CDU leader](https://www.euractiv.com/section/eet/news/berlin-to-abolish-controversial-gas-transit-fee-with-support-from-cdu-leader/)[18-12-2024
+Tusk announces new asylum rules, renewed border control](https://www.euractiv.com/section/politics/news/tusk-announces-new-asylum-rules-renewed-border-control/)[19-12-2024
 
-EDPB clears path for AI training on personal data, leaving open questions](https://www.euractiv.com/section/tech/news/edpb-clears-path-for-ai-training-on-personal-data-leaving-open-questions/)[18-12-2024
+Slovak minister: 3% GDP defence spending ‘unimaginable’](https://www.euractiv.com/section/politics/news/slovak-minister-3-gdp-defence-spending-unimaginable/)[19-12-2024
 
-Parliament establishes new committees on health and defence](https://www.euractiv.com/section/politics/news/parliament-establishes-new-committees-on-health-and-defence/) [18-12-2024
+European Commission highlights Portugal’s ‘strong budgetary position’](https://www.euractiv.com/section/politics/news/european-commission-highlights-portugals-strong-budgetary-position/)[19-12-2024
 
-Macron to head to cyclone-struck Mayotte, miss EU Council meeting](https://www.euractiv.com/section/politics/news/macron-to-head-to-cyclone-struck-mayotte-miss-eu-council-meeting/)[18-12-2024
+Italy’s Tajani warns of ripple effect of France, Germany’s economic woes](https://www.euractiv.com/section/politics/news/italys-tajani-warns-of-ripple-effect-of-france-germanys-economic-woes/)[19-12-2024
 
-Europe faces worrying skills shortages, says EU Commission](https://www.euractiv.com/section/economy-jobs/news/europe-faces-worrying-skills-shortages-says-eu-commission/)[18-12-2024
+US government tells officials, politicians to ‘immediately’ ditch regular calls](https://www.euractiv.com/section/tech/news/us-government-tells-officials-politicians-to-immediately-ditch-regular-calls/)[19-12-2024
 
-Record year for coal in 2024, world’s hottest year](https://www.euractiv.com/section/eet/news/record-year-for-coal-in-2024-worlds-hottest-year/)
+Europeans test water on coalitions to strengthen Ukraine for possible ceasefire talks](https://www.euractiv.com/section/global-europe/news/europeans-test-water-on-coalitions-to-strengthen-ukraine-for-possible-ceasefire-talks/)
 
 ###### Advertisement
 
