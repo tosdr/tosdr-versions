@@ -17,8 +17,8 @@
     
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/insta360-connect-ai-video-camera-bar-dual-4k-camera-videoconferencing-meetings/)
     
-    [Insta360 Connect Brings the Outfit’s AI -Powered Video Capture to Videoconferencing Systems](https://www.coolthings.com/insta360-connect-ai-video-camera-bar-dual-4k-camera-videoconferencing-meetings/)
-    ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    [Insta360 Connect Brings the Outfit’s AI-Powered Video Capture to Videoconferencing Systems](https://www.coolthings.com/insta360-connect-ai-video-camera-bar-dual-4k-camera-videoconferencing-meetings/)
+    --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/supernote-a5-x2-manta-e-ink-tablet-puts-note-taking-and-reparability-at-the-forefront/)
     
