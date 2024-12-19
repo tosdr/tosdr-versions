@@ -8,6 +8,8 @@
 
    
 
+**Christmas office closure:** We’re closing for the Christmas break from 5pm on Monday 23 December 2024 until 8:30am on Thursday 2 January 2025. [Learn more](https://www.ncfe.org.uk/christmas-opening-hours-2024/ "Christmas Opening Hours 2024").
+
  [![NCFE](/_res/dist/img/logos/VerticalLogo.svg?v=1289) ![NCFE](/_res/dist/img/logos/LogoN.svg?v=1289)](https://www.ncfe.org.uk/)
 
 * [Qualifications](https://www.ncfe.org.uk/qualifications/)
