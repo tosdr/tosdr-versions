@@ -97,7 +97,6 @@ Menu
     
     * [Medical Devices](https://www.sokolovelaw.com/product-liability/medical-devices/ "Medical Devices")
     * [Bard PowerPort](https://www.sokolovelaw.com/product-liability/medical-devices/bard-powerport/)
-    * [Exactech Implants](https://www.sokolovelaw.com/product-liability/medical-devices/exactech-knee-and-hip-replacements/)
     * [Hernia Mesh](https://www.sokolovelaw.com/product-liability/medical-devices/hernia-mesh/ "Hernia Mesh")
     * [Paragard](https://www.sokolovelaw.com/product-liability/medical-devices/paragard/)
     * [Zimmer Biomet Hip System](https://www.sokolovelaw.com/product-liability/medical-devices/zimmer-biomet-hip-replacement/)
