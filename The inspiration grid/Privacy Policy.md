@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/12/art-carlo-borer-feature.jpg)
+
+[](https://theinspirationgrid.com/metallic-marvels-gorgeous-sculptures-by-carlo-borer/)
+
+### Metallic Marvels: Gorgeous Sculptures by Carlo Borer
+
+![](https://inspgr.id/app/uploads/2024/12/illustration-joe-fenton-feature.jpg)
+
+[](https://theinspirationgrid.com/intricate-visions-pen-ink-drawings-by-joe-fenton/)
+
+### Intricate Visions: Pen & Ink Drawings by Joe Fenton
+
 ![](https://inspgr.id/app/uploads/2024/12/design-wallpaper-lego-feature.jpg)
 
 [](https://theinspirationgrid.com/lego-wallpaper-present-the-worlds-first-buildable-magazine-cover/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/intricate-aerial-embroideries-by-victoria-rose-richards/)
 
 ### Intricate Aerial Embroideries by Victoria Rose Richards
-
-![](https://inspgr.id/app/uploads/2024/12/packaging-mui-coffee-feature.jpg)
-
-[](https://theinspirationgrid.com/mui-coffee-roastery-branding-packaging-by-happycentro/)
-
-### MUI Coffee Roastery Branding & Packaging by Happycentro
-
-![](https://inspgr.id/app/uploads/2024/12/illustration-kirsten-rothbart-feature.gif)
-
-[](https://theinspirationgrid.com/edgy-illustrated-portraits-by-kirsten-rothbart/)
-
-### Edgy Illustrated Portraits by Kirsten Rothbart
 
 Awesome products for creatives
 ------------------------------
