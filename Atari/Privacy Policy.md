@@ -482,9 +482,9 @@ Regular price $52
 
 Unit price /  per](https://www.atari.com/products/atari-2600-7800-a-visual-compendium) 
 
-[![Oversized Fuji Hoodie](files/fe661587-106c-4959-86f6-799dd541558bcopy.jpg)
+[![Oversized Fuji Hoodie](files/ae5668c8-308b-435e-b57c-1bb3352c2aa2copy.jpg)
 
-![Oversized Fuji Hoodie](files/7fd0d636-7aef-475f-8165-f373222012f0copy.jpg)
+![Oversized Fuji Hoodie](files/unisex-oversized-hoodie-black-front-3-67178bf042a47copy.jpg)
 
 Add to cart
 
@@ -1233,7 +1233,6 @@ Newsletters from the future
   
 
 * [Gift Cards](https://www.atari.com/products/digital-gift-card)
-* [Club Rewards](https://www.atari.com/pages/rewards-program-page)
 * [Hardware](https://www.atari.com/collections/hardware)
 * [Gear](https://www.atari.com/collections/gear)
 * [Games](https://www.atari.com/collections/games)
