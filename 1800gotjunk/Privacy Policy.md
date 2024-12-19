@@ -621,22 +621,6 @@ Nathan Bauder Calgary 13/12/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Nick and Zach were great today. Quick and friendly service does not go unnoticed thanks for the service guys.
-
-William D Calgary 11/12/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Awesome service and friendly staff. It’s definitely a good option.
-
-Linda Parra Calgary 11/12/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Absolutely the best company i have ever worked with
 
 Denise Calgary 11/12/2024
@@ -648,6 +632,22 @@ Denise Calgary 11/12/2024
 Arrived on time, with a heads up call! Fair price and very nice!
 
 Brandy Gates Calgary 11/12/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Nick and Zach were great today. Quick and friendly service does not go unnoticed thanks for the service guys.
+
+William D Calgary 11/12/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Awesome service and friendly staff. It’s definitely a good option.
+
+Linda Parra Calgary 11/12/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -693,14 +693,6 @@ Sean J Foss Calgary 08/12/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-The movers were very friendly and efficient!
-
-Maddy Calgary 07/12/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Great friendly service that was on time :)
 
 Shonda Day Calgary 07/12/2024
@@ -720,6 +712,14 @@ Taylor Shoup Calgary 07/12/2024
 Best service ever.
 
 Jonathan D Calgary 07/12/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+The movers were very friendly and efficient!
+
+Maddy Calgary 07/12/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -885,22 +885,6 @@ tara p Monteregie Metro 15/11/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Very friendly
-
-Martin Yant Seattle 14/12/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Sky and Daniel were super professional and quick! Helped me out with a reasonable rate, would highly recommend.
-
-Sara Bello LA Metro 14/12/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Steven and Alex were great!! So helpful!!!! And thanks Steven for being nice and professional!! Appreciate you both!
 
 amy hillyer Columbus 14/12/2024
@@ -912,6 +896,22 @@ amy hillyer Columbus 14/12/2024
 Quick, friendly and efficient!
 
 Rodney Brandy Columbus 14/12/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Very friendly
+
+Martin Yant Seattle 14/12/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Sky and Daniel were super professional and quick! Helped me out with a reasonable rate, would highly recommend.
+
+Sara Bello LA Metro 14/12/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
