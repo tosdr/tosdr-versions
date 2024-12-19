@@ -78,12 +78,13 @@ Login
 * Individuals
     * [### Investor Center](https://www-us.computershare.com/Investor)
     * [### Employee Online](https://www-us.computershare.com/employee/login/selectcompany.aspx?cc=us&lang=en&bhjs=1&fla=1&theme=cpu)
+    * [### EquatePlus](https://www.na.equateplus.com/)
     * [### Israel Bonds Direct](https://www-us.computershare.com/BondCentre/public/login.aspx)
-    * [### Alternative Investment Portal](https://www-us.computershare.com/AdvisorPortal/Login)
 * Businesses
     * [### Issuer Online](https://www.issueronline.com/)
     * [### GEMS](https://gems.computershare.com/)
     * [### ASAP](https://eos.computershare.com/asap)
+    * [### Alternative Investment Portal](https://www-us.computershare.com/AdvisorPortal/Login)
 * Corporate Trust
     * [### TrustConnect™ Platform](https://www.trustconnect.computershare.com/)
     * [### CTSLink](https://www.ctslink.com/)
@@ -131,12 +132,12 @@ Please note: this will take you to one of our external sites
     * [### Employee Online
         
         Manage your employee portfolio, access tools and support features](https://www-us.computershare.com/employee/login/selectcompany.aspx?cc=us&lang=en&bhjs=1&fla=1&theme=cpu)
+    * [### EquatePlus
+        
+        View your employee shares](https://www.na.equateplus.com/)
     * [### Israel Bonds Direct
         
         Account access](https://www-us.computershare.com/BondCentre/public/login.aspx)
-    * [### Alternative Investment Portal
-        
-        Alternative Investment Portal](https://www-us.computershare.com/AdvisorPortal/Login)
 * Businesses
     
     * [### Issuer Online
@@ -148,6 +149,9 @@ Please note: this will take you to one of our external sites
     * [### ASAP
         
         Access our Automated Stock Administrator's Portal](https://eos.computershare.com/asap)
+    * [### Alternative Investment Portal
+        
+        Alternative Investment Portal](https://www-us.computershare.com/AdvisorPortal/Login)
 * Corporate Trust
     
     * [### TrustConnect™ Platform
