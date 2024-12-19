@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Court rejects Texas doctors' lawsuit against Biden admin over transgender discrimination policies](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/gettyimages-2188236735.jpg?ve=1&tl=1)
+ [![Man gets 30-year sentence for carjacking, shooting Dallas undercover officer](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/dallas-hoting.png?ve=1&tl=1)
 
- ![Court rejects Texas doctors' lawsuit against Biden admin over transgender discrimination policies](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/gettyimages-2188236735.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/court-rejects-texas-doctors-lawsuit-against-biden-admin-over-transgender-policies)
+ ![Man gets 30-year sentence for carjacking, shooting Dallas undercover officer](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/dallas-hoting.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/man-gets-30-year-sentence-carjacking-shooting-dallas-undercover-officer)
 
-### [Court rejects Texas doctors' lawsuit against Biden admin over transgender discrimination policies](https://www.fox4news.com/news/court-rejects-texas-doctors-lawsuit-against-biden-admin-over-transgender-policies)
+### [Man gets 30-year sentence for carjacking, shooting Dallas undercover officer](https://www.fox4news.com/news/man-gets-30-year-sentence-carjacking-shooting-dallas-undercover-officer)
 
- [![Doctors replace part of McKinney teen's skull after car crash that nearly killed him](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/p-lori-mckinney-student-reconstructed-skull-implan_00.00.40.20.jpg?ve=1&tl=1)
+ [![Man arrested for series of random attacks in Downtown Dallas](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/121824-sh-sentendrey-9-pkg-dallas-downtown-assault_00.01.19.06.jpg?ve=1&tl=1)
 
- ![Doctors replace part of McKinney teen's skull after car crash that nearly killed him](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/p-lori-mckinney-student-reconstructed-skull-implan_00.00.40.20.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/north-texas-teen-has-part-his-skull-replaced-after-crash)
+ ![Man arrested for series of random attacks in Downtown Dallas](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/121824-sh-sentendrey-9-pkg-dallas-downtown-assault_00.01.19.06.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/cody-burkett-arrest-downtown-dallas-attacks)
 
-### [Doctors replace part of McKinney teen's skull after car crash that nearly killed him](https://www.fox4news.com/news/north-texas-teen-has-part-his-skull-replaced-after-crash)
+### [Man arrested for series of random attacks in Downtown Dallas](https://www.fox4news.com/news/cody-burkett-arrest-downtown-dallas-attacks)
 
- [![Trackdown: Help find the Carrollton 'GameStop Grinch'](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/trackdown-gamestop-robbery-1.png?ve=1&tl=1)
+ [![North Crowley High School heads to state championship after 21-year hiatus](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/9pm-tz-north-crowley-state-championship-_00.00.02.20.jpg?ve=1&tl=1)
 
- ![Trackdown: Help find the Carrollton 'GameStop Grinch'](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/trackdown-gamestop-robbery-1.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trackdown-help-find-carrollton-gamestop-grinch)
+ ![North Crowley High School heads to state championship after 21-year hiatus](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/9pm-tz-north-crowley-state-championship-_00.00.02.20.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/north-crowley-high-school-heads-state-championship-after-21-year-hiatus)
 
-### [Trackdown: Help find the Carrollton 'GameStop Grinch'](https://www.fox4news.com/news/trackdown-help-find-carrollton-gamestop-grinch)
+### [North Crowley High School heads to state championship after 21-year hiatus](https://www.fox4news.com/news/north-crowley-high-school-heads-state-championship-after-21-year-hiatus)
 
- [![Fort Worth police officer fired for arrest that injured woman](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/GENERIC-FORT-WORTH-POLICE-DEPARTMENT-OFFICER.jpg?ve=1&tl=1)
+ [![Madison school shooting, victims identified](https://images.foxtv.com/static.fox6now.com/www.fox6now.com/content/uploads/2024/12/32/18/5p-calvi-school-shooting-pkg_00.00.04.12.jpg?ve=1&tl=1)
 
- ![Fort Worth police officer fired for arrest that injured woman](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/592/333/GENERIC-FORT-WORTH-POLICE-DEPARTMENT-OFFICER.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-police-officer-fired-matthew-krueger)
+ ![Madison school shooting, victims identified](https://images.foxtv.com/images.foxtv.com/static.fox6now.com/www.fox6now.com/content/uploads/2024/12/32/18/592/333/5p-calvi-school-shooting-pkg_00.00.04.12.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/madison-school-shooting-victims-identified)
 
-### [Fort Worth police officer fired for arrest that injured woman](https://www.fox4news.com/news/fort-worth-police-officer-fired-matthew-krueger)
+### [Madison school shooting, victims identified](https://www.fox4news.com/news/madison-school-shooting-victims-identified)
 
- [![Texas High School Football State Championship Scores](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/06/32/18/GettyImages-1084725300.jpg?ve=1&tl=1)
+ [![Data reveals what's more expensive now than 1990 – and what's cheaper](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-1870150130.jpg?ve=1&tl=1)
 
- ![Texas High School Football State Championship Scores](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/06/32/18/592/333/GettyImages-1084725300.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/texas-high-school-football-state-championship-games-wednesday)
+ ![Data reveals what's more expensive now than 1990 – and what's cheaper](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-1870150130.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/price-changes-since-1990)
 
-### [Texas High School Football State Championship Scores](https://www.fox4news.com/sports/texas-high-school-football-state-championship-games-wednesday)
+### [Data reveals what's more expensive now than 1990 – and what's cheaper](https://www.fox4news.com/news/price-changes-since-1990)
 
 ###### [News](https://www.fox4news.com/news)
 
