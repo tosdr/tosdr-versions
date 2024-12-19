@@ -108,10 +108,9 @@ Public Notices
 
 [![site-logo](https://bloximages.newyork1.vip.townnews.com/thesheridanpress.com/content/tncms/assets/v3/media/0/34/034efc38-8684-11ef-8f8b-0fb42e3dd0c1/6706f31e1aac1.image.png?resize=200%2C34)](https://www.thesheridanpress.com/)
 
-**Your Community, Your News, Your Way!**
-----------------------------------------
+[🎄 Support the Goodfellow Fund 🎅](https://givebutter.com/ddVi7a)
 
-[Contact Us](https://www.thesheridanpress.com/contact)
+[Contact us](https://www.thesheridanpress.com/site/www.thesheridanpress.com/contact)
 
 [Place a Classified Ad](https://www.thesheridanpress.com/place_an_ad/)
 
