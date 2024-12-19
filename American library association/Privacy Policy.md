@@ -42,7 +42,7 @@ Main navigation
 * [Advocacy & Issues](https://www.ala.org/advocacy "Advocacy & Issues")
     
     * [Advocacy & Issues Home](https://www.ala.org/advocacy "Advocacy & Issues")
-    * [Banned & Challenged Books](https://www.ala.org/bbooks "Advocacy & Issues")
+    * [Banned & Challenged Books](https://www.ala.org/advocacy/bbooks "Advocacy & Issues")
     * [Intellectual Freedom](https://www.ala.org/advocacy/intfreedom "Advocacy & Issues")
     * [Public Policy](https://www.ala.org/advocacy/advocacy-public-policy "Advocacy & Issues")
     * [Equity, Diversity & Inclusion](https://www.ala.org/advocacy/diversity "Advocacy & Issues")
@@ -66,7 +66,7 @@ Main navigation
     * [Purchase Awards Seals](https://www.ala.org/awardsgrants/seals "Awards & Grants")
     * [Recommended Print & Media Lists](https://www.ala.org/awards/recommended-books-and-media "Awards & Grants")
     
-* [Education & Careers](https://www.ala.org/educationcareers "Education & Careers")
+* [Education & Careers](https://www.ala.org/educationcareers/ "Education & Careers")
     
     * [Education & Careers Home](https://www.ala.org/educationcareers "Education & Careers")
     * [ALA eLearning](https://elearning.ala.org/ "Education & Careers")
@@ -299,7 +299,7 @@ Chicago, IL 60601
 
 1.800.545.2433
 
-* [Offices](https://www.ala.org/aboutala/offices/home "Offices")
+* [Offices](https://www.ala.org/aboutala/offices "Offices")
 * [News & Press](https://www.ala.org/news "News & Press")
 * [Divisions](https://www.ala.org/aboutala/divs "Divisions")
 * [Work at ALA](https://www.ala.org/aboutala/contactus/workatala "Work at ALA")
