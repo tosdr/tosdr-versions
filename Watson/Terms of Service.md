@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![ciel clair](https://www.watson.ch/fr/_watsui/static/img/weather/w-1.svg)1°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![ciel couvert](https://www.watson.ch/fr/_watsui/static/img/weather/w-6.svg)9°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,25 +54,25 @@
 
 Thèmes du moment
 
+* [Viol](https://www.watson.ch/fr/viol/)
+* [tribunal](https://www.watson.ch/fr/tribunal/)
+* [guerre](https://www.watson.ch/fr/guerre/)
 * [Politique](https://www.watson.ch/fr/politique/)
 * [Animaux](https://www.watson.ch/fr/animaux/)
-* [Terrorisme](https://www.watson.ch/fr/terrorisme/)
-* [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
-* [Conseil des Etats](https://www.watson.ch/fr/conseil-des-etats/)
-* [Agriculture](https://www.watson.ch/fr/agriculture/)
-* [Justice](https://www.watson.ch/fr/justice/)
 * [Zurich](https://www.watson.ch/fr/zurich/)
-* [ukraine](https://www.watson.ch/fr/ukraine/)
 * [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
-* [Royauté](https://www.watson.ch/fr/royaute/)
-* [Fribourg](https://www.watson.ch/fr/fribourg/)
-* [Royaume-Uni](https://www.watson.ch/fr/royaume-uni/)
-* [Conseil national](https://www.watson.ch/fr/conseil-national/)
-* [Police](https://www.watson.ch/fr/police/)
+* [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
+* [Donald Trump](https://www.watson.ch/fr/donald-trump/)
+* [Conseil des Etats](https://www.watson.ch/fr/conseil-des-etats/)
+* [Justice](https://www.watson.ch/fr/justice/)
+* [ukraine](https://www.watson.ch/fr/ukraine/)
+* [Réseaux sociaux](https://www.watson.ch/fr/reseaux-sociaux/)
+* [Tiktok](https://www.watson.ch/fr/tiktok/)
 * [Russie](https://www.watson.ch/fr/russie/)
 * [Chine](https://www.watson.ch/fr/chine/)
-* [famille royale britannique](https://www.watson.ch/fr/famille-royale-britannique/)
 * [Noël](https://www.watson.ch/fr/noel/)
+* [Immobilier](https://www.watson.ch/fr/immobilier/)
+* [France](https://www.watson.ch/fr/france/)
 * [Argent](https://www.watson.ch/fr/argent/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
