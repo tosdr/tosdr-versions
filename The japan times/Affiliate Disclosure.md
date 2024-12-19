@@ -131,6 +131,10 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
+[Honda and Nissan might combine to form world’s No. 3 auto group](https://www.japantimes.co.jp/business/2024/12/18/companies/honda-nissan-merger/ "Honda and Nissan might combine to form world’s No. 3 auto group")
+
+  [![Nissan President and CEO Makoto Uchida (left) and Honda President and CEO Toshihiro Mibe hold a news conference in Tokyo in March. Both automakers have been working together for months on a deal of some sort.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/18/441088.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Nissan President and CEO Makoto Uchida (left) and Honda President and CEO Toshihiro Mibe hold a news conference in Tokyo in March. Both automakers have been working together for months on a deal of some sort.")](https://www.japantimes.co.jp/business/2024/12/18/companies/honda-nissan-merger/ "Honda and Nissan might combine to form world’s No. 3 auto group")
+
 [Japan to let investigators go undercover to crack down on _yami baito_](https://www.japantimes.co.jp/news/2024/12/17/japan/crime-legal/yamibaito-first-ministerial-meeting/ "Japan to let investigators go undercover to crack down on yami baito")
 
   [![A flyer created by the Metropolitan Police Department to warn people about <i>yami baito</i>, or "dark" part-time jobs](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/17/440673.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A flyer created by the Metropolitan Police Department to warn people about <i>yami baito</i>, or "dark" part-time jobs")](https://www.japantimes.co.jp/news/2024/12/17/japan/crime-legal/yamibaito-first-ministerial-meeting/ "Japan to let investigators go undercover to crack down on yami baito")
@@ -143,16 +147,16 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Businessman George Glass has been selected by U.S. President-elect Donald Trump to be the next ambassador to Japan.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/17/440602.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Businessman George Glass has been selected by U.S. President-elect Donald Trump to be the next ambassador to Japan.")](https://www.japantimes.co.jp/news/2024/12/17/japan/politics/trump-japan-george-glass-ambassador/ "Trump picks businessman George Glass as Japan ambassador")
 
-[Taiwan’s bullet train a testament to shinkansen’s export potential](https://www.japantimes.co.jp/business/2024/12/17/taiwan-hsr-shinkansen/ "Taiwan’s bullet train a testament to shinkansen’s export potential")
-
-  [![A Taiwan High Speed Rail bullet train arrives at Nangang Station in the city of Taipei.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/16/440420.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Taiwan High Speed Rail bullet train arrives at Nangang Station in the city of Taipei.")](https://www.japantimes.co.jp/business/2024/12/17/taiwan-hsr-shinkansen/ "Taiwan’s bullet train a testament to shinkansen’s export potential")
-
-[Indian-born CEO of Japanese company says nation needs immigration to thrive](https://www.japantimes.co.jp/business/2024/12/15/companies/india-born-kameda-ceo/ "Indian-born CEO of Japanese company says nation needs immigration to thrive")
-
-  [![Lekh Juneja, chairman and CEO of Kameda Seika, at the company's headquarters in the city of Niigata in August](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/15/440239.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Lekh Juneja, chairman and CEO of Kameda Seika, at the company's headquarters in the city of Niigata in August")](https://www.japantimes.co.jp/business/2024/12/15/companies/india-born-kameda-ceo/ "Indian-born CEO of Japanese company says nation needs immigration to thrive")
-
 Editors' Picks
 --------------
+
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+
+[Honda and Nissan might combine to form world’s No. 3 auto group](https://www.japantimes.co.jp/business/2024/12/18/companies/honda-nissan-merger/ "Honda and Nissan might combine to form world’s No. 3 auto group")
+
+By [Kazuaki Nagata](https://www.japantimes.co.jp/author/142/kazuaki-nagata/ "Kazuaki Nagata") and [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
+
+  [![Nissan President and CEO Makoto Uchida (left) and Honda President and CEO Toshihiro Mibe hold a news conference in Tokyo in March. Both automakers have been working together for months on a deal of some sort.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/18/441088.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Nissan President and CEO Makoto Uchida (left) and Honda President and CEO Toshihiro Mibe hold a news conference in Tokyo in March. Both automakers have been working together for months on a deal of some sort.")](https://www.japantimes.co.jp/business/2024/12/18/companies/honda-nissan-merger/ "Honda and Nissan might combine to form world’s No. 3 auto group")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -178,22 +182,6 @@ By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse
 
   [![Businessman George Glass has been selected by U.S. President-elect Donald Trump to be the next ambassador to Japan.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/17/440602.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Businessman George Glass has been selected by U.S. President-elect Donald Trump to be the next ambassador to Japan.")](https://www.japantimes.co.jp/news/2024/12/17/japan/politics/trump-japan-george-glass-ambassador/ "Trump picks businessman George Glass as Japan ambassador")
 
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
-
-[Taiwan’s bullet train a testament to shinkansen’s export potential](https://www.japantimes.co.jp/business/2024/12/17/taiwan-hsr-shinkansen/ "Taiwan’s bullet train a testament to shinkansen’s export potential")
-
-By [Kazuaki Nagata](https://www.japantimes.co.jp/author/142/kazuaki-nagata/ "Kazuaki Nagata")  
-
-  [![A Taiwan High Speed Rail bullet train arrives at Nangang Station in the city of Taipei.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/16/440420.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Taiwan High Speed Rail bullet train arrives at Nangang Station in the city of Taipei.")](https://www.japantimes.co.jp/business/2024/12/17/taiwan-hsr-shinkansen/ "Taiwan’s bullet train a testament to shinkansen’s export potential")
-
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
-
-[Indian-born CEO of Japanese company says nation needs immigration to thrive](https://www.japantimes.co.jp/business/2024/12/15/companies/india-born-kameda-ceo/ "Indian-born CEO of Japanese company says nation needs immigration to thrive")
-
-By [Simon STURDEE](https://www.japantimes.co.jp/author/5475/simon-sturdee/ "Simon STURDEE")  
-
-  [![Lekh Juneja, chairman and CEO of Kameda Seika, at the company's headquarters in the city of Niigata in August](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/15/440239.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Lekh Juneja, chairman and CEO of Kameda Seika, at the company's headquarters in the city of Niigata in August")](https://www.japantimes.co.jp/business/2024/12/15/companies/india-born-kameda-ceo/ "Indian-born CEO of Japanese company says nation needs immigration to thrive")
-
 Podcast
 -------
 
@@ -213,9 +201,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -255,15 +243,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Iran's Revolutionary Guards extend control of oil exports, sources say](https://www.japantimes.co.jp/news/2024/12/18/world/politics/iran-revolutionary-guards-oil/ "Iran's Revolutionary Guards extend control of oil exports, sources say")
+[As bitcoin soars, luxury brands consider accepting crypto payments](https://www.japantimes.co.jp/business/2024/12/19/tech/bitcoin-luxury-brands-crypto/ "As bitcoin soars, luxury brands consider accepting crypto payments")
 
-[Russia detains suspect in killing of chemical weapons chief Igor Kirillov](https://www.japantimes.co.jp/news/2024/12/18/world/crime-legal/russia-detains-suspect/ "Russia detains suspect in killing of chemical weapons chief Igor Kirillov")
+25 mins ago
 
-[Honda and Nissan might combine to form world’s No. 3 auto group](https://www.japantimes.co.jp/business/2024/12/18/companies/honda-nissan-merger/ "Honda and Nissan might combine to form world’s No. 3 auto group")
+[Europe's conundrum: How to fund defense spending](https://www.japantimes.co.jp/news/2024/12/19/world/politics/europe-conundrum-defense-spending/ "Europe's conundrum: How to fund defense spending")
 
-[Nihon Hidankyo members make Nobel visit to Hiroshima cenotaph](https://www.japantimes.co.jp/news/2024/12/18/japan/nihon-hidankyo-hiroshima-visit/ "Nihon Hidankyo members make Nobel visit to Hiroshima cenotaph")
+57 mins ago
 
-[Government not liable for nuclear evacuations, Osaka High Court rules](https://www.japantimes.co.jp/news/2024/12/18/japan/crime-legal/fukushima-nuclear-plant-evacuees/ "Government not liable for nuclear evacuations, Osaka High Court rules")
+[Bank of Japan keeps rates unchanged at 0.25% after two increases in 2024](https://www.japantimes.co.jp/business/2024/12/19/economy/boj-december-rates/ "Bank of Japan keeps rates unchanged at 0.25% after two increases in 2024")
+
+1 hour ago
+
+[Can China shield the biggest uninsured economy from floods?](https://www.japantimes.co.jp/news/2024/12/19/asia-pacific/politics/china-uninsured-economy-floods/ "Can China shield the biggest uninsured economy from floods?")
+
+1 hour ago
+
+[At Japan's brokerages, skills shortage improves conditions for older staff](https://www.japantimes.co.jp/business/2024/12/19/companies/japan-brokerages-pay-retirement-age-staff/ "At Japan's brokerages, skills shortage improves conditions for older staff")
+
+1 hour ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
