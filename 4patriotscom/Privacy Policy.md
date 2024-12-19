@@ -1,4 +1,4 @@
-[📦 FINAL Day for Christmas Delivery | Free Shipping![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)](https://4patriots.com/category/gift-guide)![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
+[⚡ Save $500.00 on the NEW "Holy Grail" of Backup Power![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)](https://products.4patriots.com/power/generator-25x/run-more-devices?afid=mkt&aff_sub=20241219_cam_4p_ecom_announce_ppg-25x&utm_campaign=mkt_ecom_ppg-25x_20241219&utm_medium=ecom&utm_source=cam&utm_content=announce&utm_term=4p&nb_klid=%7B%7B)![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
 
 [SHOP](https://4patriots.com/category/shop-all)
 
