@@ -227,7 +227,6 @@ Asia
     * [Show All](https://www.fjallraven.com/us/en-us/bags-gear/)
     * [New Arrivals](https://www.fjallraven.com/us/en-us/bags-gear/new-arrivals/)
     * [Best Sellers](https://www.fjallraven.com/us/en-us/bags-gear/best-sellers/)
-    * [Fjällräven/Specialized](https://www.fjallraven.com/us/en-us/bags-gear/fjallraven-specialized/)
     * Kånken
         
         * [Show all](https://www.fjallraven.com/us/en-us/bags-gear/kanken/)
@@ -422,7 +421,6 @@ Asia
         * [Show All](https://www.fjallraven.com/us/en-us/bags-gear/)
         * [New Arrivals](https://www.fjallraven.com/us/en-us/bags-gear/new-arrivals/)
         * [Best Sellers](https://www.fjallraven.com/us/en-us/bags-gear/best-sellers/)
-        * [Fjällräven/Specialized](https://www.fjallraven.com/us/en-us/bags-gear/fjallraven-specialized/)
         * Kånken
             
             * [Show all](https://www.fjallraven.com/us/en-us/bags-gear/kanken/)
@@ -845,7 +843,7 @@ Discover
 Discover
 
 * [Fjällräven Experience](https://experience.fjallraven.com/us/en-us)
-* [Fjällräven Polar](https://experience.fjallraven.com/polar/2025?id=41fedba9-1365-4d85-8d02-9787250e3e21)
+* [Fjällräven Polar](https://experience.fjallraven.com/polar/2025?id=84b9d78d-0763-4931-b8ef-2462d53023b8)
 * [Fjällräven Classic](https://classic.fjallraven.com/)
 * [Our Community](https://www.fjallraven.com/us/en-us/our-community/)
 * Do Not Sell or Share My Personal Information
