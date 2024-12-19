@@ -88,9 +88,9 @@ Most Read
     
     1. [Huge math error corrected in black plastic study; authors say it doesn’t matter](https://arstechnica.com/health/2024/12/huge-math-error-corrected-in-black-plastic-study-authors-say-it-doesnt-matter/)
     
-2. 2. [Report: Elon Musk failed to report movement required by security clearance](https://arstechnica.com/space/2024/12/report-elon-musk-failed-to-report-movement-required-by-security-clearance/)
+2. 2. [“Unprecedented” decline in teen drug use continues, surprising experts](https://arstechnica.com/health/2024/12/the-kids-are-maybe-alright-teen-drug-use-hits-new-lows-in-ongoing-decline/)
     
-3. 3. [“Unprecedented” decline in teen drug use continues, surprising experts](https://arstechnica.com/health/2024/12/the-kids-are-maybe-alright-teen-drug-use-hits-new-lows-in-ongoing-decline/)
+3. 3. [Report: Elon Musk failed to report movement required by security clearance](https://arstechnica.com/space/2024/12/report-elon-musk-failed-to-report-movement-required-by-security-clearance/)
     
 4. 4. [After decades of talk, Seagate seems ready to actually drop the HAMR hard drives](https://arstechnica.com/gadgets/2024/12/after-decades-of-talk-seagate-seems-ready-to-actually-drop-the-hamr-hard-drives/)
     
