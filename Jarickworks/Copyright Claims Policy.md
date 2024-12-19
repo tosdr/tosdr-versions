@@ -85,7 +85,7 @@ Designing where you want to go today
 
 [Donate](#donate)
 
-[![freeblr justice the rule of law without the state](/freeblr/justice/the-rule-of-law-without-the-state/card.svg)](https://jarick.works/freeblr/justice/the-rule-of-law-without-the-state)[![freeblr government statist reasoning non freedom for non voters](/freeblr/government/statist-reasoning-non-freedom-for-non-voters/card.svg)](https://jarick.works/freeblr/government/statist-reasoning-non-freedom-for-non-voters)[![freeblr human nature a definition of freedom](/freeblr/human-nature/a-definition-of-freedom/card.svg)](https://jarick.works/freeblr/human-nature/a-definition-of-freedom)[![freeblr justice vices are not crimes](/freeblr/justice/vices-are-not-crimes/card.svg)](https://jarick.works/freeblr/justice/vices-are-not-crimes)
+[![freeblr health is health care a human right](/freeblr/health/is-health-care-a-human-right/card.svg)](https://jarick.works/freeblr/health/is-health-care-a-human-right)[![freeblr government how to establish a government](/freeblr/government/how-to-establish-a-government/card.svg)](https://jarick.works/freeblr/government/how-to-establish-a-government)[![freeblr economics beyond the boss protection from business in a free nation](/freeblr/economics/beyond-the-boss-protection-from-business-in-a-free-nation/card.svg)](https://jarick.works/freeblr/economics/beyond-the-boss-protection-from-business-in-a-free-nation)[![freeblr health healthcare is a right](/freeblr/health/healthcare-is-a-right/card.svg)](https://jarick.works/freeblr/health/healthcare-is-a-right)
 
 [Follow](#follow)
 
