@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/nog-steeds-misleidende-prostaat-tests/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/kosmisch-kanaal-berry-vincenta-chaos-op-aarde-maakt-andere-wegen-zichtbaar/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
