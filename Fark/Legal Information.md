@@ -230,11 +230,12 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-If you like these links, you'll love
+Want more news before we break it? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-Come for the Total, stay for the Farking.
+See what's behind the green door  
+and help keep the tap flowing
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -334,16 +335,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Good news for our Aussie friends: If you were rogered by CamAnal, you might be eligible for up to $166 dollary-doos](https://www.fark.com/goto/13497778) ( [theguardian.com](https://www.fark.com/goto/13497778) ) » [(4 comments)](https://www.fark.com/comments/13497778/Good-news-for-our-Aussie-friends-If-you-were-rogered-by-CamAnal-you-might-be-eligible-for-up-to-$166-dollary-doos) |
-| [Discussion](https://www.fark.com/discussion/) | [It's the quarterfinals of England's least important trophy, with Southampton v Liverpool, Arsenal v Palace, and Newcastle v Brentford. Coverage on CBS Sports Network from 2:45 PM eastern](https://www.fark.com/goto/13498422) ( [bbc.com](https://www.fark.com/goto/13498422) ) » [(2 comments)](https://www.fark.com/comments/13498422/Its-quarterfinals-of-Englands-least-important-trophy-with-Southampton-v-Liverpool-Arsenal-v-Palace-Newcastle-v-Brentford-Coverage-on-CBS-Sports-Network-from-245-PM-eastern) |
-| [Sports](https://www.fark.com/sports/) | [It's the quarterfinals of England's least important trophy, with Southampton v Liverpool, Arsenal v Palace, and Newcastle v Brentford. Coverage on CBS Sports Network from 2:45 PM eastern](https://www.fark.com/goto/13498422) ( [bbc.com](https://www.fark.com/goto/13498422) ) » [(2 comments)](https://www.fark.com/comments/13498422/Its-quarterfinals-of-Englands-least-important-trophy-with-Southampton-v-Liverpool-Arsenal-v-Palace-Newcastle-v-Brentford-Coverage-on-CBS-Sports-Network-from-245-PM-eastern) |
-| [Business](https://www.fark.com/business/) | [Price gouging?](https://www.fark.com/goto/13498028) ( [jalopnik.com](https://www.fark.com/goto/13498028) ) » [(6 comments)](https://www.fark.com/comments/13498028/Price-gouging) |
-| [STEM](https://www.fark.com/stem/) | [Boston Dynamics lays off 5% of its workforce in recognition that in the future, all humanoid robots will be Elmo's](https://www.fark.com/goto/13497808) ( [futurism.com](https://www.fark.com/goto/13497808) ) » [(13 comments)](https://www.fark.com/comments/13497808/Boston-Dynamics-lays-off-5-of-its-workforce-in-recognition-that-in-future-all-humanoid-robots-will-be-Elmos) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Randy Rainbow gives us his breakdown of the Trump Admin 2.0](https://www.fark.com/goto/13497760) ( [youtube.com](https://www.fark.com/goto/13497760) ) » [(1 comment)](https://www.fark.com/comments/13497760/Randy-Rainbow-gives-us-his-breakdown-of-Trump-Admin-20) |
-| [Fandom](https://www.fark.com/fandom/) | [So you are now the world chess champion. So you A) take up Go, B) take up bungee jumping. In unrelated news: There is now a ChessMobile in case we need the champ to use a Queen's Gambit Declined against a supervillain](https://www.fark.com/goto/13497948) ( [chess.com](https://www.fark.com/goto/13497948) ) » [(2 comments)](https://www.fark.com/comments/13497948/So-you-are-now-world-chess-champion-So-you-A-take-up-Go-B-take-up-bungee-jumping-In-unrelated-news-There-is-now-a-ChessMobile-in-case-we-need-champ-to-use-a-Queens-Gambit-Declined-against-a-supervillain) |
-| [D'awww](https://www.fark.com/dawww/) | [Everybody is a total mess (and you should be one too) - A strangely uplifting way of looking at depression](https://www.fark.com/goto/13497860) ( [youtube.com](https://www.fark.com/goto/13497860) ) » [(1 comment)](https://www.fark.com/comments/13497860/Everybody-is-a-total-mess-you-should-be-one-too-A-strangely-uplifting-way-of-looking-at-depression) |
-| [Food](https://www.fark.com/food/) | [There was not a lot of diversity to Trump's diet, cabinet](https://www.fark.com/goto/13498008) ( [thedailybeast.com](https://www.fark.com/goto/13498008) ) » [(18 comments)](https://www.fark.com/comments/13498008/There-was-not-a-lot-of-diversity-to-Trumps-diet-cabinet) |
-| [Politics](https://www.fark.com/politics/) | [Randy Rainbow gives us his breakdown of the Trump Admin 2.0](https://www.fark.com/goto/13497760) ( [youtube.com](https://www.fark.com/goto/13497760) ) » [(1 comment)](https://www.fark.com/comments/13497760/Randy-Rainbow-gives-us-his-breakdown-of-Trump-Admin-20) |
+| [Main](https://www.fark.com/) | [Ranked on top and ahead of Aspen for most beautiful winter city, Boston hasn't had a white Christmas in 15 years](https://www.fark.com/goto/13498524) ( [travelandleisure.com](https://www.fark.com/goto/13498524) ) » [(6 comments)](https://www.fark.com/comments/13498524/Ranked-on-top-ahead-of-Aspen-for-most-beautiful-winter-city-Boston-hasnt-had-a-white-Christmas-in-15-years) |
+| [Discussion](https://www.fark.com/discussion/) | ["When the very first episode aired in 1989, viewers agreed on one thing: it wasn't as funny as it used to be." Time to put the cliche to rest?](https://www.fark.com/goto/13498214) ( [theguardian.com](https://www.fark.com/goto/13498214) ) » [(0 comments)](https://www.fark.com/comments/13498214/When-very-first-episode-aired-in-1989-viewers-agreed-on-one-thing-it-wasnt-as-funny-as-it-used-to-be-Time-to-put-cliche-to-rest) |
+| [Sports](https://www.fark.com/sports/) | [Max Verstappen is no longer Checo's teammate](https://www.fark.com/goto/13498442) ( [theguardian.com](https://www.fark.com/goto/13498442) ) » [(1 comment)](https://www.fark.com/comments/13498442/Max-Verstappen-is-no-longer-Checos-teammate) |
+| [Business](https://www.fark.com/business/) | [More Amazon facilities authorize strikes. So if you're planning on getting any last-minute gifts, try a source that doesn't treat its workers as disposable](https://www.fark.com/goto/13498434) ( [engadget.com](https://www.fark.com/goto/13498434) ) » [(9 comments)](https://www.fark.com/comments/13498434/More-Amazon-facilities-authorize-strikes-So-if-youre-planning-on-getting-any-last-minute-gifts-try-a-source-that-doesnt-treat-its-workers-as-disposable) |
+| [STEM](https://www.fark.com/stem/) | [Lost in Space: SpaceX edition](https://www.fark.com/goto/13498634) ( [gizmodo.com](https://www.fark.com/goto/13498634) ) » [(0 comments)](https://www.fark.com/comments/13498634/Lost-in-Space-SpaceX-edition) |
+| [Entertainment](https://www.fark.com/entertainment/) | ["A unicorn is nothing more than a big horse that comes to a point, anyway. Nothing to get so excited about." -Terry Pratchett](https://www.fark.com/goto/13498248) ( [youtube.com](https://www.fark.com/goto/13498248) ) » [(6 comments)](https://www.fark.com/comments/13498248/A-unicorn-is-nothing-more-than-a-big-horse-that-comes-to-a-point-anyway-Nothing-to-get-so-excited-about-Terry-Pratchett) |
+| [Fandom](https://www.fark.com/fandom/) | [You think your Commodore 64 is really neato? This bakery does. Vintage beats Plug at Bubble Bobble](https://www.fark.com/goto/13498242) ( [tomshardware.com](https://www.fark.com/goto/13498242) ) » [(13 comments)](https://www.fark.com/comments/13498242/You-think-your-Commodore-64-is-really-neato-This-bakery-does-Vintage-beats-Plug-at-Bubble-Bobble) |
+| [D'awww](https://www.fark.com/dawww/) | [Blind geriatric house cat has to be rescued from a tiny sheet of ice in the middle of a lake, is probably on at least his 7th or 8th life at this point](https://www.fark.com/goto/13498496) ( [wcvb.com](https://www.fark.com/goto/13498496) ) » [(2 comments)](https://www.fark.com/comments/13498496/Blind-geriatric-house-cat-has-to-be-rescued-from-a-tiny-sheet-of-ice-in-middle-of-a-lake-is-probably-on-at-least-his-7th-8th-life-at-this-point) |
+| [Food](https://www.fark.com/food/) | [Anything is an entree if you're hungry enough](https://www.fark.com/goto/13498358) ( [177milkstreet.com](https://www.fark.com/goto/13498358) ) » [(7 comments)](https://www.fark.com/comments/13498358/Anything-is-an-entree-if-youre-hungry-enough) |
+| [Politics](https://www.fark.com/politics/) | [A new hope has emerged in Hungary, at least until the Empire strikes back](https://www.fark.com/goto/13497772) ( [theguardian.com](https://www.fark.com/goto/13497772) ) » [(12 comments)](https://www.fark.com/comments/13497772/A-new-hope-has-emerged-in-Hungary-at-least-until-Empire-strikes-back) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -353,7 +354,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Dec 18 2024 14:42:28  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Dec 18 2024 20:43:20  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
