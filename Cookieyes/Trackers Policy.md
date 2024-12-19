@@ -1,5 +1,29 @@
 [Skip to main content](#main_content)
 
+![Year-end sale](/wp-content/themes/cookieyes-new/assets/images/year-end-sale.svg)
+
+Deal expires in
+
+\- Days
+
+:
+
+\- Hours
+
+:
+
+\- Minutes
+
+:
+
+\- Seconds
+
+Wrap up the year with big savings – up to 40% off!
+
+Claim deal
+
+Show popup
+
 * [Partners](javascript:void(0))
     * [Agency Partner](https://www.cookieyes.com/agency/)
     * [Affiliate Partner](https://www.cookieyes.com/affiliates/)
@@ -325,3 +349,107 @@ For support, [contact us here](https://www.cookieyes.com/support/)
 © 2024 CookieYes. All rights reserved. CookieYes Limited is registered in the UK. Company no. 13074037.
 
 Any information, whether oral or written, obtained from the CookieYes website, services, tools, or comments does not constitute any form of legal and/or regulatory advice. If any kind of legal assistance is required, users should consult with an attorney, a lawyer, or a law firm.
+
+Year-End Sale
+-------------
+
+Ends in:\--d\--h\--m\--s
+
+Choose your plan and save big!
+
+Monthly Annually
+
+Get 2 months free
+
+$ USD € EUR £ GBP
+
+### Business Plans
+
+### Basic
+
+For small business  
+and startups
+
+$100.0020% OFF
+
+$80 /year/domain
+
+Claim deal
+
+Usage
+
+* 100,000 pageviews/month
+* 600 pages per scan
+
+Key Features
+
+* Advanced customizations
+* Auto-translation
+
+MOST POPULAR
+
+### Pro
+
+For medium business  
+with growing traffic
+
+$250.0020% OFF
+
+$200 /year/domain
+
+Claim deal
+
+Usage
+
+* 300,000 pageviews/month
+* 4000 pages per scan
+
+Everything in Basic, plus
+
+* Geo-targeted cookie banner
+* Monthly scheduled scanning
+
+### Ultimate
+
+For large business with  
+high traffic
+
+$550.0040% OFF
+
+$330 /year/domain
+
+Claim deal
+
+Usage
+
+* Unlimited pageviews
+* 8000 pages per scan
+
+Everything in Pro, plus
+
+* Custom branding
+* Weekly scheduled scanning
+
+15-day money-back guarantee
+
+Powered by
+
+![stripe](/wp-content/themes/cookieyes-new/assets/images/powered-by.svg)
+
+### Agency Solution
+
+#### For Agencies
+
+40% + $100\* OFF
+
+\*Extra $100 off only for first year
+
+Exclusive Features
+
+* Bulk site management
+* Consolidated billing
+* Client account monitoring
+
+\* Requires verification of agency application
+
+[Apply for Agency Program](https://www.cookieyes.com/agency/?ref=cy-ye24&exec=cy-ye24#agency-form)
