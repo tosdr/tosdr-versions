@@ -117,57 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> One of the best decisions I've made for my business
-> ---------------------------------------------------
+> Fast, Accurate & Easy to Use
+> ----------------------------
 > 
-> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
+> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
 
-Anri van der Linde
+Jannie Schutte - myFinance-Online.co.za
 
-![valued client FLIPS AUTO ELECTRICAL ](https://www.invoicesonline.co.za/scripts/image.php?bid=8725&file=logo_300_100&type=&fe=b3c920d1f53389991d7fb19f44483438170076a377faf6da6f44a4fe9e9c3258&c=77906199)  
-FLIPS AUTO ELECTRICAL
+![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=87381be0a8081225fe124a5431027d051cb22456385ad9641d85945c001d7fdb&c=78696604)  
+VerdanTech Pty Ltd
 
-![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=b3c920d1f53389991d7fb19f44483438170076a377faf6da6f44a4fe9e9c3258&c=29407386)  
-Repairs In Motion
+![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=87381be0a8081225fe124a5431027d051cb22456385ad9641d85945c001d7fdb&c=82343882)  
+VS Auto Spares and Repairs (Pty) LTD
 
-![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=b3c920d1f53389991d7fb19f44483438170076a377faf6da6f44a4fe9e9c3258&c=18027430)  
-IYD
+![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=87381be0a8081225fe124a5431027d051cb22456385ad9641d85945c001d7fdb&c=209105139)  
+MONSTER CONNECT (PTY) LTD
 
-![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=b3c920d1f53389991d7fb19f44483438170076a377faf6da6f44a4fe9e9c3258&c=199589490)  
-Brilliant Roof Products
+![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=87381be0a8081225fe124a5431027d051cb22456385ad9641d85945c001d7fdb&c=11828304)  
+NGB HOLDINGS PTY LTD
 
-![valued client FlipDesign - Renovation Contracting Firm](https://www.invoicesonline.co.za/scripts/image.php?bid=8663&file=logo_300_100&type=&fe=b3c920d1f53389991d7fb19f44483438170076a377faf6da6f44a4fe9e9c3258&c=123291911)  
-FlipDesign - Renovation Contracting Firm
+![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=87381be0a8081225fe124a5431027d051cb22456385ad9641d85945c001d7fdb&c=173954059)  
+Xpress Designs
 
-![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=b3c920d1f53389991d7fb19f44483438170076a377faf6da6f44a4fe9e9c3258&c=60631835)  
-One2b
+![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=87381be0a8081225fe124a5431027d051cb22456385ad9641d85945c001d7fdb&c=201532663)  
+MOSELA GROUP Pty(ltd)
 
-![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=b3c920d1f53389991d7fb19f44483438170076a377faf6da6f44a4fe9e9c3258&c=142518060)  
-Import Maaw
+![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=87381be0a8081225fe124a5431027d051cb22456385ad9641d85945c001d7fdb&c=15812276)  
+MONSTER SECURITY SERVICES
 
-![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=b3c920d1f53389991d7fb19f44483438170076a377faf6da6f44a4fe9e9c3258&c=85986738)  
-Wiselink Broadband Pty Ltd
+![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=87381be0a8081225fe124a5431027d051cb22456385ad9641d85945c001d7fdb&c=30181674)  
+FRAMED BY ANTON (Pty) Ltd.
 
-![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=b3c920d1f53389991d7fb19f44483438170076a377faf6da6f44a4fe9e9c3258&c=14531261)  
-Alliance Energy
+![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=87381be0a8081225fe124a5431027d051cb22456385ad9641d85945c001d7fdb&c=37077302)  
+Kinetic Power Solutions (Pty) Ltd.
 
-![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=b3c920d1f53389991d7fb19f44483438170076a377faf6da6f44a4fe9e9c3258&c=172421954)  
-Wiselink Broadband Vryheid
+![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=87381be0a8081225fe124a5431027d051cb22456385ad9641d85945c001d7fdb&c=130784871)  
+Lemba Truck Stop
 
-![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=b3c920d1f53389991d7fb19f44483438170076a377faf6da6f44a4fe9e9c3258&c=104488356)  
-Vplay Grafix
+![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=87381be0a8081225fe124a5431027d051cb22456385ad9641d85945c001d7fdb&c=142821883)  
+Little Nutty Professors
 
-![valued client CHARLIEX CONSTRUCTIONS](https://www.invoicesonline.co.za/scripts/image.php?bid=4959&file=logo_300_100&type=&fe=b3c920d1f53389991d7fb19f44483438170076a377faf6da6f44a4fe9e9c3258&c=80072956)  
-CHARLIEX CONSTRUCTIONS
-
-![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=b3c920d1f53389991d7fb19f44483438170076a377faf6da6f44a4fe9e9c3258&c=80715444)  
-Highlands Auto Engineering
-
-![valued client NC Labour Hire](https://www.invoicesonline.co.za/scripts/image.php?bid=8545&file=logo_300_100&type=&fe=b3c920d1f53389991d7fb19f44483438170076a377faf6da6f44a4fe9e9c3258&c=46161052)  
+![valued client NC Labour Hire](https://www.invoicesonline.co.za/scripts/image.php?bid=8545&file=logo_300_100&type=&fe=87381be0a8081225fe124a5431027d051cb22456385ad9641d85945c001d7fdb&c=4959223)  
 NC Labour Hire
 
-![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=b3c920d1f53389991d7fb19f44483438170076a377faf6da6f44a4fe9e9c3258&c=52295842)  
-Mtunzini Group
+![valued client Mmakoma projects ](https://www.invoicesonline.co.za/scripts/image.php?bid=5917&file=logo_300_100&type=&fe=87381be0a8081225fe124a5431027d051cb22456385ad9641d85945c001d7fdb&c=90099504)  
+Mmakoma projects
+
+![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=87381be0a8081225fe124a5431027d051cb22456385ad9641d85945c001d7fdb&c=161681849)  
+AMS Ambu Medical Supplies
+
+![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=87381be0a8081225fe124a5431027d051cb22456385ad9641d85945c001d7fdb&c=18328546)  
+Beyond Laser CNC Cutting Technology South Africa CC
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
