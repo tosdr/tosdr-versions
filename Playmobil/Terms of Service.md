@@ -1,6 +1,6 @@
-["🎁 Final Days! Code FROSTYFUN Expires 18.12 – Don’t Miss Holiday Fun! ❄️"](https://www.playmobil.com/en-us/web-shop/)
+["🌟 Make playtime sparkle! 25% off orders over $50!🌟"](https://www.playmobil.com/en-us/web-shop/offers/holiday-deals/)
 
-["🎁 Final Days! Code FROSTYFUN Expires 18.12 – Don’t Miss Holiday Fun! ❄️"](https://www.playmobil.com/en-us/web-shop/)
+["🌟 Make playtime sparkle! 25% off orders over $50!🌟"](https://www.playmobil.com/en-us/web-shop/offers/holiday-deals/)
 
 [](https://www.playmobil.us/en-us/)
 
