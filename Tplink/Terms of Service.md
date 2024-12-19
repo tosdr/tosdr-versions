@@ -253,7 +253,7 @@ Where to Buy
     * [Accessories](https://www.kasasmart.com/us/business-networking/soho-accessory/)
     * [Pharos Wireless Bridges](https://www.kasasmart.com/us/business-networking/all-pharos-wireless-bridge/)
     
-* Service Providers ![Click to open the navigation bar](https://static.tp-link.com/assets/images/icon/arrow-gray-down.svg) 
+* PROVIDERS ![Click to open the navigation bar](https://static.tp-link.com/assets/images/icon/arrow-gray-down.svg) 
     
     *   [TP-Link Aginet Unified Cloud (TAUC)](https://www.tp-link.com/us/tauc/)
     
@@ -281,6 +281,7 @@ Where to Buy
     
     [Brand Ambassador](https://www.tp-link.com/us/brandambassador/)
     
+* [OUR COMMITMENT ![Click to open the navigation bar](https://static.tp-link.com/assets/images/icon/arrow-gray-down.svg)](https://www.tp-link.com/us/landing/security-commitment/) 
 
  
 
@@ -500,7 +501,7 @@ Where to Buy
     * [Get Demo](https://www.kasasmart.com/us/promotion/omada-demo-kit/?from=sohomenu)
         
     
-* Service Providers
+* PROVIDERS
     
     Back
     
@@ -566,6 +567,8 @@ Where to Buy
         
     * [Brand Ambassador](https://www.tp-link.com/us/brandambassador/)
         
+    
+* [OUR COMMITMENT](https://www.tp-link.com/us/landing/security-commitment/)
     
 
 * [kasa](https://www.kasasmart.com/us)
