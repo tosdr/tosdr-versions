@@ -276,7 +276,7 @@ HOLIDAY GIFT GUIDE
 
  [NEW WEIGHTLESS FOUNDATION](https://www.bobbibrowncosmetics.com/product/14017/129115/makeup/face/foundation/weightless-skin-foundation-spf-15#/family/all)
 
- [Last chance](https://www.bobbibrowncosmetics.com/products/16111/Makeup/last-call)
+ [Last chance](https://www.bobbibrowncosmetics.com/products/16111/makeup/last-call)
 
  [Online Exclusives](https://www.bobbibrowncosmetics.com/products/39349/evergreengifting/exclusive_online)
 
