@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/universum/zonsverduistering-juli-2019-moeiteloos-manifesteren/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/edith-schippers-waar-rook-is-is-vuur/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
