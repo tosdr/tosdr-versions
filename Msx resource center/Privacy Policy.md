@@ -150,9 +150,9 @@ Latest reactions
 
 Latest forum posts
 
+* [Fusion-C / printf and other issues..](https://www.msx.org/forum/msx-talk/development/fusion-c-printf-and-other-issues?page=1 "Fusion-C / printf and other issues..")
 * [Just for fun: holiday themed headers for MRC](https://www.msx.org/forum/msx-talk/msx-resource-center/just-for-fun-holiday-themed-headers-for-mrc?page=2 "Just for fun: holiday themed headers for MRC")
 * [Christmas Quiz 2024](https://www.msx.org/forum/msx-talk/off-topic/christmas-quiz-2024?page=18 "Christmas Quiz 2024")
-* [Fusion-C / printf and other issues..](https://www.msx.org/forum/msx-talk/development/fusion-c-printf-and-other-issues "Fusion-C / printf and other issues..")
 * [MSX FUSION-C, Talking about bugs, errors, mistakes](https://www.msx.org/forum/msx-talk/development/msx-fusion-c-talking-about-bugs-errors-mistakes?page=27 "MSX FUSION-C,  Talking about bugs, errors, mistakes")
 * [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=125 "Please help testing upcoming openMSX release!")
 * [Emulation rendering delays](https://www.msx.org/forum/msx-talk/emulation/emulation-rendering-delays "Emulation rendering delays")
