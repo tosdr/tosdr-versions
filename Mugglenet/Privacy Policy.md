@@ -246,38 +246,6 @@ MuggleNet Archive Select Month December 2024  (11) November 2024  (23) October
 
 ### December 2024
 
-#### Wed, Dec 18
-
-Fred and George give Harry the Marauder's Map
-
-Recurs yearly
-
-1993
-
-Harry and Cho kiss in the Room of Requirement
-
-Recurs yearly
-
-1995
-
-James Payton's birthday
-
-Recurs yearly
-
-Frank Longbottom
-
-Nagini attacks Mr. Weasley
-
-Recurs yearly
-
-1995
-
-Nearly Headless Nick and Justin Finch-Fletchley are petrified
-
-Recurs yearly
-
-1992
-
 #### Thu, Dec 19
 
 Harry and the Weasleys visit St. Mungo's
@@ -336,6 +304,36 @@ Recurs yearly
 
 1997
 
+#### Wed, Dec 25
+
+Harry discovers the Mirror of Erised
+
+Recurs yearly
+
+1991
+
+Harry receives Firebolt
+
+Recurs yearly
+
+Harry receives his father's Invisibility Cloak
+
+Recurs yearly
+
+1991
+
+Trio takes Polyjuice Potion
+
+Recurs yearly
+
+1992
+
+Yule Ball
+
+Recurs yearly
+
+1994
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -346,15 +344,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Rhys Ifans, the actor who plays Xenophilius Lovegood, compared being asked to work on “Harry Potter and the Deathly Hallows” with being knighted.
+When Harry Potter and the Prisoner of Azkaban was released in the United Kingdom, the publisher asked stores not to sell the book until schools were closed for the day to prevent truancy.
 
 ### Potter History
 
-December 13, 2007 – The Tales of Beedle the Bard goes up for auction at Sotheby’s and sells for nearly £2 million, far surpassing all expectations.
+December 27, 2005 – Harry Potter is recognized as the most blogged-about person of 2005.
 
 ### Potter Quote
 
-“Hello, Harry Potter. My name is Tom Riddle. How did you come by my diary?”
+“I know what you are known as. But to me, I’m afraid, you will always be Tom Riddle. It is one of the irritating things about old teachers. I am afraid that they never quite forget their charges’ youthful beginnings.”
 
 [](#)
 
