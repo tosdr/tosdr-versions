@@ -140,11 +140,11 @@ MSX Music player
 
 Latest reactions
 
+* [MSX Legends playable promo](https://www.msx.org/news/software/en/msx-legends-playable-promo "MSX Legends playable promo")
 * [MSXdev24 #07 Sam.Pr](https://www.msx.org/news/challenges/en/msxdev24-07-sampr "MSXdev24 #07 Sam.Pr")
 * [Nogalious available on Steam](https://www.msx.org/news/software/en/nogalious-available-on-steam "Nogalious available on Steam")
 * [Cube Droid Holiday Special](https://www.msx.org/news/software/en/cube-droid-holiday-special "Cube Droid Holiday Special")
 * [The Goonies enhanced](https://www.msx.org/news/en/the-goonies-enhanced "The Goonies enhanced")
-* [MSX Legends playable promo](https://www.msx.org/news/software/en/msx-legends-playable-promo "MSX Legends playable promo")
 * [MOAI-TECH #13 online magazine](https://www.msx.org/news/websites/en/moai-tech-13-online-magazine "MOAI-TECH #13 online magazine")
 * [SETRIS II](https://www.msx.org/news/en/setris-ii "SETRIS II")
 * [openMSX 20.0 released](https://www.msx.org/news/en/openmsx-200-released "openMSX 20.0 released")
@@ -153,10 +153,11 @@ Latest reactions
 
 Latest forum posts
 
-* [Fusion-C / printf and other issues..](https://www.msx.org/forum/msx-talk/development/fusion-c-printf-and-other-issues?page=1 "Fusion-C / printf and other issues..")
-* [Just for fun: holiday themed headers for MRC](https://www.msx.org/forum/msx-talk/msx-resource-center/just-for-fun-holiday-themed-headers-for-mrc?page=2 "Just for fun: holiday themed headers for MRC")
 * [Christmas Quiz 2024](https://www.msx.org/forum/msx-talk/off-topic/christmas-quiz-2024?page=18 "Christmas Quiz 2024")
 * [MSX FUSION-C, Talking about bugs, errors, mistakes](https://www.msx.org/forum/msx-talk/development/msx-fusion-c-talking-about-bugs-errors-mistakes?page=27 "MSX FUSION-C,  Talking about bugs, errors, mistakes")
+* [Fusion-C / printf and other issues..](https://www.msx.org/forum/msx-talk/development/fusion-c-printf-and-other-issues?page=1 "Fusion-C / printf and other issues..")
+* [PicoPSU. is it worth it?](https://www.msx.org/forum/msx-talk/hardware/picopsu-is-it-worth-it "PicoPSU. is it worth it?")
+* [Just for fun: holiday themed headers for MRC](https://www.msx.org/forum/msx-talk/msx-resource-center/just-for-fun-holiday-themed-headers-for-mrc?page=2 "Just for fun: holiday themed headers for MRC")
 * [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=125 "Please help testing upcoming openMSX release!")
 * [Emulation rendering delays](https://www.msx.org/forum/msx-talk/emulation/emulation-rendering-delays "Emulation rendering delays")
 * [MANBOW 2 on MegaFlashROM SCC 512 (old model of MFR)](https://www.msx.org/forum/msx-talk/general-discussion/manbow-2-on-megaflashrom-scc-512-old-model-of-mfr "MANBOW 2 on MegaFlashROM SCC 512 (old model of MFR)")
@@ -165,7 +166,6 @@ Latest forum posts
 * [Almost half a screen filled with add](https://www.msx.org/forum/msx-talk/msx-resource-center/almost-half-a-screen-filled-with-add "Almost half a screen filled with add")
 * [MSXgl – A new C game library for MSX](https://www.msx.org/forum/msx-talk/development/msxgl-%E2%80%93-a-new-c-game-library-for-msx?page=31 "MSXgl – A new C game library for MSX")
 * [List of undumped MSX software (PLEASE HELP!)](https://www.msx.org/forum/msx-talk/software/list-undumped-msx-software-please-help?page=64 "List of undumped MSX software (PLEASE HELP!)")
-* [SCC cartridge with 16 MegaBytes on MSX !](https://www.msx.org/forum/msx-talk/hardware/scc-cartridge-with-16-megabytes-on-msx?page=1 "SCC cartridge with 16 MegaBytes on MSX !")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
