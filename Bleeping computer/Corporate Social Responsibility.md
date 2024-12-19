@@ -23,31 +23,31 @@
     * [Featured](#nfeatured)
     * [Latest](#nlatest)
     
-    * [![ConnectOnCall breach exposes health data of over 910,000 patients](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        ConnectOnCall breach exposes health data of over 910,000 patients](https://www.bleepingcomputer.com/news/security/connectoncall-breach-exposes-health-data-of-over-910-000-patients/)
-    * [![FBI spots HiatusRAT malware attacks targeting web cameras, DVRs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        FBI spots HiatusRAT malware attacks targeting web cameras, DVRs](https://www.bleepingcomputer.com/news/security/fbi-spots-hiatusrat-malware-attacks-targeting-web-cameras-dvrs/)
-    * [![Over 25,000 SonicWall VPN Firewalls exposed to critical flaws](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Over 25,000 SonicWall VPN Firewalls exposed to critical flaws](https://www.bleepingcomputer.com/news/security/over-25-000-sonicwall-vpn-firewalls-exposed-to-critical-flaws/)
-    * [![Clop ransomware claims responsibility for Cleo data theft attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Clop ransomware claims responsibility for Cleo data theft attacks](https://www.bleepingcomputer.com/news/security/clop-ransomware-claims-responsibility-for-cleo-data-theft-attacks/)
-    
-    * [![HubSpot phishing targets 20,000 Microsoft Azure accounts](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        HubSpot phishing targets 20,000 Microsoft Azure accounts](https://www.bleepingcomputer.com/news/security/hubspot-phishing-targets-20-000-microsoft-azure-accounts/)
-    * [![CISA urges switch to Signal-like encrypted messaging apps after telecom hacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        CISA urges switch to Signal-like encrypted messaging apps after telecom hacks](https://www.bleepingcomputer.com/news/security/cisa-urges-switch-to-signal-like-encrypted-messaging-apps-after-telecom-hacks/)
     * [![Malicious Microsoft VSCode extensions target devs, crypto community](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Malicious Microsoft VSCode extensions target devs, crypto community](https://www.bleepingcomputer.com/news/security/malicious-microsoft-vscode-extensions-target-devs-crypto-community/)
-    * [![Recorded Future CEO applauds ](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Interpol replaces dehumanizing ](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Recorded Future CEO applauds "undesirable" designation by Russia](https://www.bleepingcomputer.com/news/security/recorded-future-ceo-applauds-undesirable-designation-by-russia/)
+        Interpol replaces dehumanizing "Pig Butchering" term with "Romance Baiting"](https://www.bleepingcomputer.com/news/security/interpol-replaces-dehumanizing-pig-butchering-term-with-romance-baiting/)
+    * [![US considers banning TP-Link routers over cybersecurity risks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        US considers banning TP-Link routers over cybersecurity risks](https://www.bleepingcomputer.com/news/security/us-considers-banning-tp-link-routers-over-cybersecurity-risks/)
+    * [![Russian hackers use RDP proxies to steal data in MiTM attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Russian hackers use RDP proxies to steal data in MiTM attacks](https://www.bleepingcomputer.com/news/security/russian-hackers-use-rdp-proxies-to-steal-data-in-mitm-attacks/)
+    
+    * [![Ongoing phishing attack abuses Google Calendar to bypass spam filters](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Ongoing phishing attack abuses Google Calendar to bypass spam filters](https://www.bleepingcomputer.com/news/security/ongoing-phishing-attack-abuses-google-calendar-to-bypass-spam-filters/)
+    * [![Raccoon Stealer malware operator gets 5 years in prison after guilty plea](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Raccoon Stealer malware operator gets 5 years in prison after guilty plea](https://www.bleepingcomputer.com/news/security/raccoon-stealer-malware-operator-gets-5-years-in-prison-after-guilty-plea/)
+    * [![Russian hackers use RDP proxies to steal data in MiTM attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Russian hackers use RDP proxies to steal data in MiTM attacks](https://www.bleepingcomputer.com/news/security/russian-hackers-use-rdp-proxies-to-steal-data-in-mitm-attacks/)
+    * [![US considers banning TP-Link routers over cybersecurity risks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        US considers banning TP-Link routers over cybersecurity risks](https://www.bleepingcomputer.com/news/security/us-considers-banning-tp-link-routers-over-cybersecurity-risks/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
