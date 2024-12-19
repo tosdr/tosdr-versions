@@ -14,7 +14,34 @@ Force Open Search
 
 Open main menu
 
-Loading...
+![](https://assets.atlasobscura.com/assets/hermes/aoa_logo_aon-fb53a8d4415047286c25915bdbbdf3721acc39fd90bd71bf7712345c0096a45b.svg)
+
+Take your next trip with Atlas Obscura!
+---------------------------------------
+
+Our small-group adventures are inspired by our Atlas of the world's most fascinating places, the stories behind them, and the people who bring them to life.
+
+[Visit Adventures](https://www.atlasobscura.com/adventures/)
+
+Trips Highlight
+
+   [![Vietnam - Hue Royal Tea](https://img.atlasobscura.com/PJPQZfiliun8_jZ9aLOG78uY4iNez29xwhmqrRhxUjE/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy9hYjkx/NWZkMi1iMDI2LTQy/OGMtOWEzZi0yMzE0/MzRlNTAzNTRjNWI2/MjI1MWVlZTM3Yjhk/ODFfVmlldG5hbSAx/IC0gR2V0dHlJbWFn/ZXMtOTk2MjYwOTQ4/LmpwZw.jpg)](https://www.atlasobscura.com/adventures/trips/vietnam-gastro)
+
+Vietnam • 10 days, 9 nights
+
+[Flavors of Vietnam: Fish Sauce, Pho & Royal Tea](https://www.atlasobscura.com/adventures/trips/vietnam-gastro)
+
+from
+
+   [![A tagine meal.](https://img.atlasobscura.com/o2ce4fdJLqTDliUTwAY7nV64UAITXrcnZqzSsDX6cc8/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy9mZjVh/OTFkNC1hODVjLTRj/YjItOTFmZS0xMDcw/NGUyZjczNGZlOWE3/ODI5YzdkMTc3NTJk/ZjFfYW5uaWUtc3By/YXR0LV9WNHY3QmJH/MzM4LXVuc3BsYXNo/LmpwZw.jpg)](https://www.atlasobscura.com/adventures/trips/morocco)
+
+Morocco • 12 days, 11 nights
+
+[Flavors of Morocco: Souks, Spices & Saharan Stars](https://www.atlasobscura.com/adventures/trips/morocco)
+
+from
+
+[View all trips](https://www.atlasobscura.com/adventures/trips)
 
 Loading...
 
