@@ -60,24 +60,14 @@ FOX SCORES
     
 * [WNBL
     
-    Full Time
+    1st Qtr
     
     |     |     |
     | --- | --- |
-    | TWN | 98  |
-    | SYD | 73  |
+    | BEN | 11  |
+    | PER | 17  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/wnbl/match-centre/WNBL2024-25080001/play-by-play)
-* [WNBL
-    
-    19/12 18:30 AEST
-    
-    |     |     |
-    | --- | --- |
-    | BEN | –   |
-    | PER | –   |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/wnbl/match-centre/WNBL2024-25080002)
+    Match Centre](https://www.foxsports.com.au/basketball/wnbl/match-centre/WNBL2024-25080002/play-by-play)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
@@ -813,7 +803,7 @@ FOX SCORES
 
 [Fox sports](https://www.foxsports.com.au/)
 
-[Scores](https://www.foxsports.com.au/score-centre/live-now)
+[Scores](https://www.foxsports.com.au/score-centre)
 
 * [Video](https://www.foxsports.com.au/video)
 * [NRL](https://www.foxsports.com.au/nrl)
