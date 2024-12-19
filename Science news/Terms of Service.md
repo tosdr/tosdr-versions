@@ -94,7 +94,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Here’s how public health fared in 2024](https://www.sciencenews.org/article/public-health-checkup-2024)
             
-            By [Aimee Cunningham](https://www.sciencenews.org/author/aimee-cunningham "Posts by Aimee Cunningham")4 hours ago
+            By [Aimee Cunningham](https://www.sciencenews.org/author/aimee-cunningham "Posts by Aimee Cunningham")9 hours ago
             
         * [Archaeology](https://www.sciencenews.org/topic/archaeology)
             
@@ -124,7 +124,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [These are our favorite animal stories of 2024](https://www.sciencenews.org/article/favorite-animal-stories-2024)
             
-            By [Darren Incorvaia](https://www.sciencenews.org/author/darren-incorvaia "Posts by Darren Incorvaia")8 hours ago
+            By [Darren Incorvaia](https://www.sciencenews.org/author/darren-incorvaia "Posts by Darren Incorvaia")13 hours ago
             
         * [Life](https://www.sciencenews.org/topic/life)
             
@@ -177,7 +177,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Scotch tape is key to creating thin films of diamond](https://www.sciencenews.org/article/scotch-tape-create-diamond-film) 
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")6 hours ago
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")11 hours ago
             
         * [Life](https://www.sciencenews.org/topic/life)
             
@@ -203,7 +203,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [What will space exploration look like under Trump?](https://www.sciencenews.org/article/space-exploration-nasa-trump)
             
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")2 hours ago
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")7 hours ago
             
         * [Life](https://www.sciencenews.org/topic/life)
             
