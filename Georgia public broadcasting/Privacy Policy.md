@@ -275,12 +275,12 @@ Don't Miss:
 
   [![GPB donate icon](/themes/custom/ga_forest/assets/images/icons/donate/donate--blue-bright.svg) ![GPB donate icon](/themes/custom/ga_forest/assets/images/icons/donate/donate--blue-sky.svg)Donate](https://www.gpb.org/give-now "Donate to Georgia Public Broadcasting")
 
-![](/themes/custom/ga_forest/assets/images/icons/alerts/alert-live.svg)
+![](/themes/custom/ga_forest/assets/images/icons/alerts/alert-live-grey.svg)
 
-GHSA Football State Championship Private: Prince Avenue Christian vs Hebron Christian at 1 P.M.
------------------------------------------------------------------------------------------------
+GHSA Football State Championship 6A: Grayson vs Carrollton at Approx. 7 P.M.
+----------------------------------------------------------------------------
 
-[WATCH LIVE](https://www.gpb.org/sports/football/match/2024/12/18/2024-ghsa-private-football-championship-prince-avenue-christian-vs)
+[WATCH LIVE!](https://www.gpb.org/sports/football/match/2024/12/18/2024-ghsa-6a-football-championship-grayson-vs-carrollton)
 
 Messages
 --------
