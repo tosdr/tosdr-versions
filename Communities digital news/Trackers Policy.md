@@ -26,41 +26,41 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-aurora-detention-1200x630.jpg)](https://americanwirenews.com/violent-illegal-alien-gang-used-denver-area-apartment-complex-as-torture-site/)
+[![](https://americanwirenews.com/wp-content/uploads/2022/11/RF-Disney-Pixabay-1200x630.jpg)](https://americanwirenews.com/ny-times-take-on-why-disney-agreed-to-16m-trump-settlement-is-fabulous-for-florida/)
 
-[Violent illegal alien gang used Denver-area apartment complex as torture site](https://americanwirenews.com/violent-illegal-alien-gang-used-denver-area-apartment-complex-as-torture-site/)
+[NY Times take on why Disney agreed to $16M Trump settlement is fabulous for Florida](https://americanwirenews.com/ny-times-take-on-why-disney-agreed-to-16m-trump-settlement-is-fabulous-for-florida/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-cohenscottabbycnn-1200-x-628-1200x630.jpg)](https://americanwirenews.com/watch-scott-jennings-trigger-cnn-team-with-take-on-trump-suing-news-organizations/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-pixar-winorlose-1200x630.jpg)](https://americanwirenews.com/another-florida-w-disney-cites-parental-rights-to-pull-transgender-storyline-from-pixar-series/)
 
-[Watch Scott Jennings trigger CNN team with take on Trump suing news organizations](https://americanwirenews.com/watch-scott-jennings-trigger-cnn-team-with-take-on-trump-suing-news-organizations/)
+[‘Another Florida W’: Disney cites parental rights to pull transgender storyline from Pixar series](https://americanwirenews.com/another-florida-w-disney-cites-parental-rights-to-pull-transgender-storyline-from-pixar-series/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-sfvirgie-1200-x-628-1200x630.jpg)](https://americanwirenews.com/deep-blue-city-onboards-fat-positivity-expert-as-a-consultant-on-weight-stigma-and-neutrality/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-ramaswamy-1200x630.jpg)](https://americanwirenews.com/this-is-an-early-test-ramaswamy-dissects-1500-pg-spending-bill-says-it-should-fail/)
 
-[Deep Blue city onboards ‘fat positivity’ expert as a consultant on ‘weight stigma and neutrality’](https://americanwirenews.com/deep-blue-city-onboards-fat-positivity-expert-as-a-consultant-on-weight-stigma-and-neutrality/)
+[‘This is an early test’: Ramaswamy dissects 1,500 pg. spending bill, says it ‘should fail’](https://americanwirenews.com/this-is-an-early-test-ramaswamy-dissects-1500-pg-spending-bill-says-it-should-fail/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-trump-hair-1200x630.png)](https://americanwirenews.com/is-all-the-buzz-about-trumps-new-look-really-true/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-obama-watters-1200x630.jpg)](https://americanwirenews.com/jesse-watters-michelle-o-kamala-suddenly-not-too-worried-about-trumps-tyranny/)
 
-[All the buzz about Trump’s ‘new look’ … is it really true?](https://americanwirenews.com/is-all-the-buzz-about-trumps-new-look-really-true/)
+[Jesse Watters: Michelle O, Kamala suddenly not too worried about Trump’s ‘tyranny’](https://americanwirenews.com/jesse-watters-michelle-o-kamala-suddenly-not-too-worried-about-trumps-tyranny/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-reid-aoc-pelosi-1200x630.jpg)](https://americanwirenews.com/joy-reid-takes-veiled-shot-at-pelosi-after-she-helped-sink-aocs-oversight-bid-progressives-mourn-the-loss/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-moody-1200x630.jpg)](https://americanwirenews.com/florida-ag-announces-attempted-felony-murder-rap-against-would-be-trump-assassin/)
 
-[Joy Reid takes veiled shot at Pelosi after she helped sink AOC’s Oversight bid, Progressives mourn the loss](https://americanwirenews.com/joy-reid-takes-veiled-shot-at-pelosi-after-she-helped-sink-aocs-oversight-bid-progressives-mourn-the-loss/)
+[Florida AG announces attempted felony murder rap against would-be Trump assassin](https://americanwirenews.com/florida-ag-announces-attempted-felony-murder-rap-against-would-be-trump-assassin/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2023/05/SG-Biden-Harris-1-1200x630.jpg)](https://americanwirenews.com/biden-seeking-to-hire-1200-dei-bureaucrats-before-he-leaves-office/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-durbin-1200x630.jpg)](https://americanwirenews.com/durbin-rips-cnns-manu-raju-in-support-of-pay-raise-youre-getting-same-paycheck-with-half-the-viewers/)
 
-[Biden seeking to hire 1,200 ‘DEI bureaucrats’ before he leaves office](https://americanwirenews.com/biden-seeking-to-hire-1200-dei-bureaucrats-before-he-leaves-office/)
+[Durbin rips CNN’s Manu Raju in support of pay raise: You’re getting ‘same paycheck’ with half the viewers](https://americanwirenews.com/durbin-rips-cnns-manu-raju-in-support-of-pay-raise-youre-getting-same-paycheck-with-half-the-viewers/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-trumpwins-1200-x-628-1200x630.jpg)](https://americanwirenews.com/trump-issues-warning-to-gop-senators-about-fast-tracking-noms-no-deals-with-dems/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-harris-1-1200x630.jpg)](https://americanwirenews.com/yeah-i-did-that-kamala-harris-rehashes-her-own-cringe-word-salad-about-context/)
 
-[Trump issues warning to GOP senators about fast-tracking noms: ‘NO DEALS WITH DEMS …’](https://americanwirenews.com/trump-issues-warning-to-gop-senators-about-fast-tracking-noms-no-deals-with-dems/)
+[‘Yeah, I did that’: Kamala Harris rehashes her own cringe word salad about ‘context’](https://americanwirenews.com/yeah-i-did-that-kamala-harris-rehashes-her-own-cringe-word-salad-about-context/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2022/08/SG-American-Airlines2-1200x630.png)](https://americanwirenews.com/major-airline-grounds-dei-hiring-policies-in-latest-woke-rollback/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-homan-chamberlain-1200x630.jpg)](https://americanwirenews.com/trump-border-czar-on-aurora-chief-of-polices-tough-talk-lets-hope-he-walks-the-walk/)
 
-[Major airline grounds DEI hiring policies in latest ‘woke’ rollback](https://americanwirenews.com/major-airline-grounds-dei-hiring-policies-in-latest-woke-rollback/)
+[Trump ‘border czar’ on Aurora chief of police’s tough talk: ‘Let’s hope he walks the walk’](https://americanwirenews.com/trump-border-czar-on-aurora-chief-of-polices-tough-talk-lets-hope-he-walks-the-walk/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-abcsteffy-1200-x-628-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-biden-speech-1-1200x630.jpg)
 
-### ‘Humiliated’ Stephanopoulos is ‘apoplectic’ over $16M Trump defamation settlement](https://americanwirenews.com/humiliated-stephanopoulos-is-apoplectic-over-16m-trump-defamation-settlement/)
+### ‘White House runs the show’: Ruhle says Biden team ‘started screaming and yelling’ over Hunter question](https://americanwirenews.com/white-house-runs-the-show-ruhle-says-biden-team-started-screaming-and-yelling-over-hunter-question/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -78,53 +78,21 @@ Search for:
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-ramaswamy-220x180.jpg)](https://americanwirenews.com/this-is-an-early-test-ramaswamy-dissects-1500-pg-spending-bill-says-it-should-fail/)
-
-[‘This is an early test’: Ramaswamy dissects 1,500 pg. spending bill, says it ‘should fail’](https://americanwirenews.com/this-is-an-early-test-ramaswamy-dissects-1500-pg-spending-bill-says-it-should-fail/)
-
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-age-verify-220x180.jpg)](https://americanwirenews.com/worlds-most-trafficked-porn-site-to-block-access-in-florida-over-age-verification/)
 
 [World’s most trafficked porn site to block access in Florida over age verification](https://americanwirenews.com/worlds-most-trafficked-porn-site-to-block-access-in-florida-over-age-verification/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-durbin-220x180.jpg)](https://americanwirenews.com/durbin-rips-cnns-manu-raju-in-support-of-pay-raise-youre-getting-same-paycheck-with-half-the-viewers/)
-
-[Durbin rips CNN’s Manu Raju in support of pay raise: You’re getting ‘same paycheck’ with half the viewers](https://americanwirenews.com/durbin-rips-cnns-manu-raju-in-support-of-pay-raise-youre-getting-same-paycheck-with-half-the-viewers/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-homan-chamberlain-220x180.jpg)](https://americanwirenews.com/trump-border-czar-on-aurora-chief-of-polices-tough-talk-lets-hope-he-walks-the-walk/)
-
-[Trump ‘border czar’ on Aurora chief of police’s tough talk: ‘Let’s hope he walks the walk’](https://americanwirenews.com/trump-border-czar-on-aurora-chief-of-polices-tough-talk-lets-hope-he-walks-the-walk/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-gaetz-220x180.jpg)](https://americanwirenews.com/ethics-committee-votes-to-release-gaetz-report-rep-burchett-ups-ante-on-every-lawmaker/)
 
 [Ethics committee votes to release Gaetz report, Rep. Burchett ups ante on EVERY lawmaker](https://americanwirenews.com/ethics-committee-votes-to-release-gaetz-report-rep-burchett-ups-ante-on-every-lawmaker/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-moody-220x180.jpg)](https://americanwirenews.com/florida-ag-announces-attempted-felony-murder-rap-against-would-be-trump-assassin/)
-
-[Florida AG announces attempted felony murder rap against would-be Trump assassin](https://americanwirenews.com/florida-ag-announces-attempted-felony-murder-rap-against-would-be-trump-assassin/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-harris-1-220x180.jpg)](https://americanwirenews.com/yeah-i-did-that-kamala-harris-rehashes-her-own-cringe-word-salad-about-context/)
-
-[‘Yeah, I did that’: Kamala Harris rehashes her own cringe word salad about ‘context’](https://americanwirenews.com/yeah-i-did-that-kamala-harris-rehashes-her-own-cringe-word-salad-about-context/)
-
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-musk-220x180.jpg)](https://americanwirenews.com/should-you-still-be-using-hashtags-on-x-heres-what-elon-musk-grok-have-to-say/)
 
 [Should you still be using hashtags on X? Here’s what Elon Musk, Grok have to say…](https://americanwirenews.com/should-you-still-be-using-hashtags-on-x-heres-what-elon-musk-grok-have-to-say/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-obama-watters-220x180.jpg)](https://americanwirenews.com/jesse-watters-michelle-o-kamala-suddenly-not-too-worried-about-trumps-tyranny/)
-
-[Jesse Watters: Michelle O, Kamala suddenly not too worried about Trump’s ‘tyranny’](https://americanwirenews.com/jesse-watters-michelle-o-kamala-suddenly-not-too-worried-about-trumps-tyranny/)
-
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-trump-trudeau-220x180.jpg)](https://americanwirenews.com/trump-trolls-justin-trudeau-says-canada-becoming-51st-state-a-great-idea/)
 
 [Trump trolls Justin Trudeau, says Canada becoming 51st state ‘a great idea’](https://americanwirenews.com/trump-trolls-justin-trudeau-says-canada-becoming-51st-state-a-great-idea/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-pixar-winorlose-220x180.jpg)](https://americanwirenews.com/another-florida-w-disney-cites-parental-rights-to-pull-transgender-storyline-from-pixar-series/)
-
-[‘Another Florida W’: Disney cites parental rights to pull transgender storyline from Pixar series](https://americanwirenews.com/another-florida-w-disney-cites-parental-rights-to-pull-transgender-storyline-from-pixar-series/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-biden-speech-1-220x180.jpg)](https://americanwirenews.com/white-house-runs-the-show-ruhle-says-biden-team-started-screaming-and-yelling-over-hunter-question/)
-
-[‘White House runs the show’: Ruhle says Biden team ‘started screaming and yelling’ over Hunter question](https://americanwirenews.com/white-house-runs-the-show-ruhle-says-biden-team-started-screaming-and-yelling-over-hunter-question/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-trump-musk-220x180.jpg)](https://americanwirenews.com/abc-news-report-that-trump-assembled-wealthiest-presidential-administration-in-modern-history-backfires/)
 
@@ -145,6 +113,42 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-joe-biden-220x180.png)](https://americanwirenews.com/biden-now-says-he-supports-a-ban-on-congressional-stock-trading/)
 
 [Biden now says he supports a ban on Congressional stock trading](https://americanwirenews.com/biden-now-says-he-supports-a-ban-on-congressional-stock-trading/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2022/08/SG-American-Airlines2-220x180.png)](https://americanwirenews.com/major-airline-grounds-dei-hiring-policies-in-latest-woke-rollback/)
+
+[Major airline grounds DEI hiring policies in latest ‘woke’ rollback](https://americanwirenews.com/major-airline-grounds-dei-hiring-policies-in-latest-woke-rollback/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-trumpwins-1200-x-628-220x180.jpg)](https://americanwirenews.com/trump-issues-warning-to-gop-senators-about-fast-tracking-noms-no-deals-with-dems/)
+
+[Trump issues warning to GOP senators about fast-tracking noms: ‘NO DEALS WITH DEMS …’](https://americanwirenews.com/trump-issues-warning-to-gop-senators-about-fast-tracking-noms-no-deals-with-dems/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2023/05/SG-Biden-Harris-1-220x180.jpg)](https://americanwirenews.com/biden-seeking-to-hire-1200-dei-bureaucrats-before-he-leaves-office/)
+
+[Biden seeking to hire 1,200 ‘DEI bureaucrats’ before he leaves office](https://americanwirenews.com/biden-seeking-to-hire-1200-dei-bureaucrats-before-he-leaves-office/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-reid-aoc-pelosi-220x180.jpg)](https://americanwirenews.com/joy-reid-takes-veiled-shot-at-pelosi-after-she-helped-sink-aocs-oversight-bid-progressives-mourn-the-loss/)
+
+[Joy Reid takes veiled shot at Pelosi after she helped sink AOC’s Oversight bid, Progressives mourn the loss](https://americanwirenews.com/joy-reid-takes-veiled-shot-at-pelosi-after-she-helped-sink-aocs-oversight-bid-progressives-mourn-the-loss/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-trump-hair-220x180.png)](https://americanwirenews.com/is-all-the-buzz-about-trumps-new-look-really-true/)
+
+[All the buzz about Trump’s ‘new look’ … is it really true?](https://americanwirenews.com/is-all-the-buzz-about-trumps-new-look-really-true/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-sfvirgie-1200-x-628-220x180.jpg)](https://americanwirenews.com/deep-blue-city-onboards-fat-positivity-expert-as-a-consultant-on-weight-stigma-and-neutrality/)
+
+[Deep Blue city onboards ‘fat positivity’ expert as a consultant on ‘weight stigma and neutrality’](https://americanwirenews.com/deep-blue-city-onboards-fat-positivity-expert-as-a-consultant-on-weight-stigma-and-neutrality/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-cohenscottabbycnn-1200-x-628-220x180.jpg)](https://americanwirenews.com/watch-scott-jennings-trigger-cnn-team-with-take-on-trump-suing-news-organizations/)
+
+[Watch Scott Jennings trigger CNN team with take on Trump suing news organizations](https://americanwirenews.com/watch-scott-jennings-trigger-cnn-team-with-take-on-trump-suing-news-organizations/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-aurora-detention-220x180.jpg)](https://americanwirenews.com/violent-illegal-alien-gang-used-denver-area-apartment-complex-as-torture-site/)
+
+[Violent illegal alien gang used Denver-area apartment complex as torture site](https://americanwirenews.com/violent-illegal-alien-gang-used-denver-area-apartment-complex-as-torture-site/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-abcsteffy-1200-x-628-220x180.jpg)](https://americanwirenews.com/humiliated-stephanopoulos-is-apoplectic-over-16m-trump-defamation-settlement/)
+
+[‘Humiliated’ Stephanopoulos is ‘apoplectic’ over $16M Trump defamation settlement](https://americanwirenews.com/humiliated-stephanopoulos-is-apoplectic-over-16m-trump-defamation-settlement/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/getty-f-35-220x180.jpg)](https://americanwirenews.com/exclusive-lockheed-martin-pressures-biden-administration-for-f-35-deal-amidst-looming-trump-transition/)
 
@@ -173,10 +177,6 @@ Getty Images
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-kim-foxx-220x180.jpg)](https://americanwirenews.com/jussie-smollett-states-attorney-kim-foxx-no-longer-authorized-to-practice-law-in-illinois/)
 
 [Jussie Smollett State’s Attorney Kim Foxx no longer authorized to practice law in Illinois](https://americanwirenews.com/jussie-smollett-states-attorney-kim-foxx-no-longer-authorized-to-practice-law-in-illinois/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-biden-speech-1-220x180.jpg)](https://americanwirenews.com/biden-elicits-loads-of-ridicule-by-claiming-basically-scandal-free-campaign/)
-
-[Biden elicits loads of ridicule by claiming ‘basically scandal free’ campaign](https://americanwirenews.com/biden-elicits-loads-of-ridicule-by-claiming-basically-scandal-free-campaign/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
