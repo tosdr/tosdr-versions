@@ -121,8 +121,6 @@ Tracking Technologies and Advertising
 
 Your browser settings may allow you to automatically transmit a "Do Not Track" signal to online services you visit. Note, however, there is not consensus among industry participants as to what "Do Not Track" means in this context. Like many online services, we currently do not alter our practices when we receive a "Do Not Track" signal from a visitor's browser. To find out more about "Do Not Track," [**click here**](https://allaboutdnt.com/), but note we do not take responsibility for the completeness or accuracy of this or any other information provided by third parties.
 
-We use **Google Analytics** to perform site traffic analysis (not for advertising or marketing purposes). Google provides a browser extension you can use to opt-out of having your site activity available to Google Analytics. For more information [**see this support page from Google**](https://support.google.com/analytics/answer/181881?hl=en)**.**
-
 Many advertisers and service providers performing advertising-related services for us participate in voluntary programs which provide tools that users can use to opt-out of interest-based advertising. One such program is the Digital Advertising Alliance's Self-Regulatory Program for Online Behavioral Advertising. To learn more about this program and how you can express your preferences, [**click here**](https://youradchoices.com/control). Another such program is the Network Advertising Initiative, which you can learn about by [**clicking here**](https://optout.networkadvertising.org/?c=1).
 
 Note that opting-out of interest-based advertising via the above programs (or similar) means only that those selected, voluntarily participating program members should no longer deliver such advertising to you, but it does not mean you will no longer receive any targeted content and/or ads. In addition, if your browsers are configured to reject cookies generally at the time when you visit the websites of these opt-out programs, or if you subsequently erase the cookies installed by them, or use a different device or web browser, your browser-based opt-out may no longer be effective.
@@ -177,8 +175,6 @@ How to Contact Us
 -----------------
 
 If you have any questions or concerns about our Privacy Policy or its implementation, or if you believe there are inaccuracies in your account information, please contact us at [**privacy@bitchute.com**](mailto:privacy@bitchute.com).
-
-  
 
 #### Was this article helpful?
 
