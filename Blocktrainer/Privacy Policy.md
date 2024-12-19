@@ -590,7 +590,7 @@ Kopieren
 
 [](#)
 
-[![Exitkey](/fileadmin/_processed_/6/c/csm_exitkey_390x615px_2_a3cd29a02e.png)](https://ref.blocktrainer.de/exitkey/ws/blocktrainer-empfehlungslinks/logo-banner)
+[![Seedor](/fileadmin/_processed_/7/c/csm_Seedor_Banner_390x615__3__c26fe41035.jpg)](https://ref.blocktrainer.de/seedor/ws)
 
 **Privatsphäre-Einstellungen**
 
