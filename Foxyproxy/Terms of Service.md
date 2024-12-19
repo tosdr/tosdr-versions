@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Fantastic service.
+Y'all are definitely one of the /fastest /support divisions I've ever had contact with.
 
-Torrens Lyster
+C. Riley
