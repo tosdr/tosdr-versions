@@ -1,10 +1,10 @@
 [Skip to content](#content)
 
-**Subscribe today**
+**Enjoy unlimited access**
 
-Every print subscription comes with full digital access
+Only $2.99 a month
 
-[Subscribe now](https://www.sciencenews.org/subscribe1?key=9MNAVBNA&utm_source=banner&utm_medium=site&utm_campaign=full_digital_access)
+[Subscribe now](https://www.sciencenews.org/subscribe1-digital-monthly?key=9MNAVBNB2&utm_source=banner&utm_medium=site&utm_campaign=full_digital_access)
 
 Menu
 
@@ -94,7 +94,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Here’s how public health fared in 2024](https://www.sciencenews.org/article/public-health-checkup-2024)
             
-            By [Aimee Cunningham](https://www.sciencenews.org/author/aimee-cunningham "Posts by Aimee Cunningham")9 hours ago
+            By [Aimee Cunningham](https://www.sciencenews.org/author/aimee-cunningham "Posts by Aimee Cunningham")12 hours ago
             
         * [Archaeology](https://www.sciencenews.org/topic/archaeology)
             
@@ -124,7 +124,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [These are our favorite animal stories of 2024](https://www.sciencenews.org/article/favorite-animal-stories-2024)
             
-            By [Darren Incorvaia](https://www.sciencenews.org/author/darren-incorvaia "Posts by Darren Incorvaia")13 hours ago
+            By [Darren Incorvaia](https://www.sciencenews.org/author/darren-incorvaia "Posts by Darren Incorvaia")16 hours ago
             
         * [Life](https://www.sciencenews.org/topic/life)
             
@@ -177,7 +177,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Scotch tape is key to creating thin films of diamond](https://www.sciencenews.org/article/scotch-tape-create-diamond-film) 
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")11 hours ago
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")14 hours ago
             
         * [Life](https://www.sciencenews.org/topic/life)
             
@@ -203,7 +203,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [What will space exploration look like under Trump?](https://www.sciencenews.org/article/space-exploration-nasa-trump)
             
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")7 hours ago
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")10 hours ago
             
         * [Life](https://www.sciencenews.org/topic/life)
             
