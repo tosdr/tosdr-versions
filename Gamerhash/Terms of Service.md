@@ -337,6 +337,6 @@ Site Language ![flag](https://gamerhash.com/images/en.svg)
 
 © Copyright 2024 CoinAxe Limited
 
-[](https://gamerhash.com/en/l/l9Nb9)[](https://www.facebook.com/GamerHashApp/)[](https://www.youtube.com/channel/UCv6axnIN6jczLcLraH4cK6g)[](https://twitter.com/GamerHashCom)[](https://medium.com/we-are-the-gamerhash)[ONLINE: 123](https://gamerhash.com/en/l/Myw09)
+[](https://gamerhash.com/en/l/l9Nb9)[](https://www.facebook.com/GamerHashApp/)[](https://www.youtube.com/channel/UCv6axnIN6jczLcLraH4cK6g)[](https://twitter.com/GamerHashCom)[](https://medium.com/we-are-the-gamerhash)[ONLINE: 100](https://gamerhash.com/en/l/Myw09)
 
 website.footer.clause
