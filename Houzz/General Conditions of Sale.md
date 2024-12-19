@@ -587,51 +587,51 @@ Get Advice[Design Dilemmas](https://www.gardenweb.com/discussions/design-dilemma
 
 [![Shop Promo Banner](https://st.hzcdn.com/fimgs/8e612bcb07592a3f_6769-w1132-h1444-b0-p0--home-design.jpg)](https://www.houzz.com/products/furniture/on-sale)
 
-[![Ultimate Savings on Best Sellers](https://st.hzcdn.com/fimgs/aef1f8dc075a5190_2369-w300-h300-b4-p0--home-design.jpg)
+[![Year-End Sale Favorites](https://st.hzcdn.com/fimgs/0e6104fe0762e358_3977-w300-h300-b4-p0--home-design.jpg)
 
-Ultimate Savings on Best SellersUp to 75% off](https://www.houzz.com/ideabooks/179076310)[![The Ultimate Vanity Sale](https://st.hzcdn.com/fimgs/6a110e40075a518f_2367-w300-h300-b4-p0--home-design.jpg)
+Year-End Sale FavoritesUp to 75% off](https://www.houzz.com/ideabooks/179245412)[![Kitchen & Dining Furniture](https://st.hzcdn.com/fimgs/d7217a5e0762e359_3978-w300-h300-b4-p0--home-design.jpg)
 
-The Ultimate Vanity SaleUp to 55% off](https://www.houzz.com/ideabooks/179076392)[![The Ultimate Living Room Sale](https://st.hzcdn.com/fimgs/4fc1c2ae075a518a_2363-w300-h300-b4-p0--home-design.jpg)
+Kitchen & Dining FurnitureUp to 75% off](https://www.houzz.com/ideabooks/179270677)[![Home Decor & Accents](https://st.hzcdn.com/fimgs/d341e13d0762e353_3971-w300-h300-b4-p0--home-design.jpg)
 
-The Ultimate Living Room SaleUp to 65% off](https://www.houzz.com/ideabooks/179178792)[![The Ultimate Rug Sale](https://st.hzcdn.com/fimgs/fc51d71f075a518d_2366-w300-h300-b4-p0--home-design.jpg)
+Home Decor & AccentsUp to 65% off](https://www.houzz.com/ideabooks/179285283)[![Bathroom Vanities](https://st.hzcdn.com/fimgs/2ef1435d0762e35a_3979-w300-h300-b4-p0--home-design.jpg)
 
-The Ultimate Rug SaleUp to 75% off](https://www.houzz.com/ideabooks/179179245)
+Bathroom VanitiesUp to 70% off](https://www.houzz.com/ideabooks/179287735)
 
 Looking for the perfect gift? Send a [Houzz Gift Card!](https://www.houzz.com/gift-card)
 
 Cancel
 
-['Tis the Savings Sale](https://www.houzz.com/sales)
+[Year-End Sale Sale](https://www.houzz.com/sales)
 
 [ON SALE - UP TO 75% OFF](https://www.houzz.com/sales)
 
 [Bathroom Vanities](https://www.houzz.com/products/bathroom-vanities-and-sink-consoles/on-sale)[Chandeliers](https://www.houzz.com/products/chandeliers/on-sale)[Bar Stools](https://www.houzz.com/products/bar-stools-and-counter-stools/on-sale)[Pendant Lights](https://www.houzz.com/products/pendant-lighting/on-sale)[Rugs](https://www.houzz.com/products/rugs/on-sale)[Living Room Chairs](https://www.houzz.com/products/chairs/on-sale)[Dining Room Furniture](https://www.houzz.com/products/kitchen-and-dining-furniture/on-sale)[Wall Lighting](https://www.houzz.com/products/wall-lighting/on-sale)[Coffee Tables](https://www.houzz.com/products/coffee-tables/on-sale)[Side & End Tables](https://www.houzz.com/products/side-tables-and-accent-tables/on-sale)[Home Office Furniture](https://www.houzz.com/products/home-office-furniture/on-sale)[Sofas](https://www.houzz.com/products/sofas/on-sale)[Bedroom Furniture](https://www.houzz.com/products/bedroom-furniture/on-sale)[Lamps](https://www.houzz.com/products/lamps/on-sale)[Mirrors](https://www.houzz.com/products/mirrors/on-sale)
 
-['Tis the Savings](https://www.houzz.com/sales)
+[Year-End Sale](https://www.houzz.com/sales)
 
-[![Ultimate Savings on Best Sellers](https://st.hzcdn.com/fimgs/aef1f8dc075a5190_2369-w300-h300-b0-p0--home-design.jpg)
+[![Year-End Sale Favorites](https://st.hzcdn.com/fimgs/0e6104fe0762e358_3977-w300-h300-b0-p0--home-design.jpg)
 
 UP TO 75% OFF
 
-Ultimate Savings on Best Sellers](https://www.houzz.com/ideabooks/179076310) 
+Year-End Sale Favorites](https://www.houzz.com/ideabooks/179245412) 
 
-[![The Ultimate Vanity Sale](https://st.hzcdn.com/fimgs/6a110e40075a518f_2367-w300-h300-b0-p0--home-design.jpg)
+[![Kitchen & Dining Furniture](https://st.hzcdn.com/fimgs/d7217a5e0762e359_3978-w300-h300-b0-p0--home-design.jpg)
 
-UP TO 55% OFF
+UP TO 75% OFF
 
-The Ultimate Vanity Sale](https://www.houzz.com/ideabooks/179076392) 
+Kitchen & Dining Furniture](https://www.houzz.com/ideabooks/179270677) 
 
-[![The Ultimate Living Room Sale](https://st.hzcdn.com/fimgs/4fc1c2ae075a518a_2363-w300-h300-b0-p0--home-design.jpg)
+[![Home Decor & Accents](https://st.hzcdn.com/fimgs/d341e13d0762e353_3971-w300-h300-b0-p0--home-design.jpg)
 
 UP TO 65% OFF
 
-The Ultimate Living Room Sale](https://www.houzz.com/ideabooks/179178792) 
+Home Decor & Accents](https://www.houzz.com/ideabooks/179285283) 
 
-[![The Ultimate Rug Sale](https://st.hzcdn.com/fimgs/fc51d71f075a518d_2366-w300-h300-b0-p0--home-design.jpg)
+[![Bathroom Vanities](https://st.hzcdn.com/fimgs/2ef1435d0762e35a_3979-w300-h300-b0-p0--home-design.jpg)
 
-UP TO 75% OFF
+UP TO 70% OFF
 
-The Ultimate Rug Sale](https://www.houzz.com/ideabooks/179179245) 
+Bathroom Vanities](https://www.houzz.com/ideabooks/179287735) 
 
 [![Shop Promo Banner](https://st.hzcdn.com/fimgs/8e612bcb07592a3f_6769-w1132-h1444-b0-p0--home-design.jpg)](https://www.houzz.com/products/furniture/on-sale) 
 
@@ -661,7 +661,7 @@ Houzz Pro: One simple solution for contractors and design pros
 
 [History of Houzz](https://www.houzz.com/houzz-historyzz)
 
-![Houzz Logo Print](//www.houzz.com/res/28907883/pic/houzz_logo.svg?v=28907883)
+![Houzz Logo Print](//www.houzz.com/res/28909188/pic/houzz_logo.svg?v=28909188)
 
 Houzz Return Policy
 ===================
