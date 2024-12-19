@@ -1,6 +1,6 @@
-[👗 Shop in-store at Simons and earn 1% Cash Back
+[Canadian Tire: Boxing Week Deals start early + 2% Cash Back
 
-Link Offer](https://www.rakuten.ca/in-store-cash-back)
+Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/canadian-tire?store=canadian-tire&sourceName=sitewide-sticky-header)
 
 [](https://www.rakuten.ca/)
 
@@ -301,7 +301,7 @@ FR
         
         [![](//static.rakuten.ca//static/images/blank.1.0.0.gif)
         
-        ![](//static.rakuten.ca/img/campaign_entity/306942/en-right-rail_cat_drop_300x250_offer3clinique.jpg)
+        ![](//static.rakuten.ca/img/campaign_entity/306944/fr-right-rail_cat_drop_300x250_offer4clinique.png)
         
         Clinique
         
@@ -353,7 +353,7 @@ FR
         
         [Michael Kors
         
-        6% Cash Back](https://www.rakuten.ca/michael-kors)[Mejuri
+        10% Cash Back](https://www.rakuten.ca/michael-kors)[Mejuri
         
         2% Cash Back](https://www.rakuten.ca/mejuri)[Shoppers Drug Mart Beauty
         
@@ -457,7 +457,7 @@ FR
         
         2% Cash Back](https://www.rakuten.ca/lululemon)[Under Armour Canada
         
-        8% Cash Back](https://www.rakuten.ca/under-armour-canada)[Adidas
+        6% Cash Back](https://www.rakuten.ca/under-armour-canada)[Adidas
         
         2% Cash Back](https://www.rakuten.ca/adidas)[tentree
         
@@ -690,7 +690,13 @@ All rights reserved.
 
  ![](//static.rakuten.ca/static/img/footer_close.svg) ![](//static.rakuten.ca/static/img/footer_open.svg)
 
-[![](//static.rakuten.ca/img/campaign_entity/303981/en_stickyfooter-1170x60_gift_card_shop_.png)](https://www.rakuten.ca/giftcardshop)
+[![Earn Up to 6% Cash Back from Rakuten.ca with Sephora Canada Coupons, Promo Codes](//static.rakuten.ca/img/campaign_entity/307127/en-stickyfooter-1170x60_sephora3-16.png "Sephora Canada Coupons, Promo Codes")
+
+was 2%, now
+
+up to 6% Cash Back
+
+Shop Now](https://www.rakuten.ca/ticket/campaign/sticky-footer-base-1/store/sephora?sourceName=stickyfooter1)
 
 × ![Rakuten White Logo](//static.rakuten.ca/static/images/logo/logo_Rakuten_white.svg)
 
