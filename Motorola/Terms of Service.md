@@ -452,7 +452,7 @@ Support
 * [Contact us](https://en-us.support.motorola.com/app/mcp/contactus)
 * [Financing](https://www.motorola.com/us/en/financing.html)
 * [Right to repair](https://en-us.support.motorola.com/app/right-to-repair)
-* [Hearing Aid Compatibilty](https://www.motorola.com/us/en/about/hearing-aid-compatibility-us.html)
+* [Hearing Aid Compatibility](https://www.motorola.com/us/en/about/hearing-aid-compatibility-us.html)
 
 About
 
