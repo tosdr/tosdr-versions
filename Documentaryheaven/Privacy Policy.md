@@ -128,39 +128,39 @@ Advertisement
     Why We Bang
     
     The film, Why We Bang, produced and directed by Orlando Myrics and Clifford Jordan for Ghetto Logik Entertainment is an independent film that documents the historical background of LA's Bloods and Cri...](https://documentaryheaven.com/why-we-bang/ "Why We Bang")
-* [![Behind the Music: Rod Stewart](/wp-content/thumbnails/13712-100x70.jpg?x53432)
+* [![Cease To Exist](/wp-content/thumbnails/6963-100x70.jpg?x53432)
     
-    Behind the Music: Rod Stewart
+    Cease To Exist
     
-    Rod Stewart was a rising young Rock n' Roll idol in the fall of 1971 with a No. 1 song and a No. 1 album on both sides of the atlantic. Three decades later after all the bands, blues, breakups and blo...](https://documentaryheaven.com/behind-music-rod-stewart/ "Behind the Music: Rod Stewart")
+    "Cease To Exist" explores the music motive to the Manson murders and uncovers Charles Manson's relationship with Beach Boys' drummer Dennis Wilson and record producer Terry Melcher.](https://documentaryheaven.com/cease-to-exist/ "Cease To Exist")
 
 ###### Throwback Documentaries
 
-* [![Warren Buffett Revealed](/wp-content/thumbnails/6711-100x70.jpg?x53432)
+* [![Battleship Antarctica](/wp-content/thumbnails/12219-100x70.jpg?x53432)
     
-    Warren Buffett Revealed
+    Battleship Antarctica
     
-    Now in his eighties, Buffett has – for decades – held an unparalleled position in American finance. He is not only a legendary investor with an astounding success rate, and a billionaire forty times o](https://documentaryheaven.com/warren-buffett-revealed/ "Warren Buffett Revealed")
-* [![The Spy in the IRA](/wp-content/thumbnails/13532-100x70.jpg?x53432)
+    Every year a fleet of Japanese ships travel to the freezing waters of the Antarctic and here they hunt and kill nearly 1000 minke whales which end up being sold as meat in the markets of Japan but for](https://documentaryheaven.com/battleship-antarctica/ "Battleship Antarctica")
+* [![The Fight to End Revenge Porn](/wp-content/thumbnails/10639-100x70.png?x53432)
     
-    The Spy in the IRA
+    The Fight to End Revenge Porn
     
-    In the Northern Irish conflict spying was a very dangerous game, through recordings obtained by Panorama the IRA's chief interrogator explains how he extracted information from informers before they w](https://documentaryheaven.com/spy-ira/ "The Spy in the IRA")
-* [![Among the Sex Offenders](/wp-content/thumbnails/8917-100x70.jpg?x53432)
+    The way that we meet, flirt and become intimate has dramatically changed over the last 10 years, but now that so much of our private lives have migrated online we're vulnerable in ways we have only ju](https://documentaryheaven.com/fight-to-end-revenge-porn/ "The Fight to End Revenge Porn")
+* [![Growing Up Without A Face](/wp-content/thumbnails/6106-100x70.jpg?x53432)
     
-    Among the Sex Offenders
+    Growing Up Without A Face
     
-    Louis Theroux has spent the last few months filming a series of documentaries titled "LA Stories", this particular film "Among The Sex Offenders" is the final episode to air. Louis takes a look a](https://documentaryheaven.com/among-sex-offenders/ "Among the Sex Offenders")
-* [![Behind The Music: Oasis](/wp-content/thumbnails/10102-100x70.jpg?x53432)
+    At five years old, Juliana has already been through thirty operations to mediate the severity of her affliction: Treacher Collins syndrome. Juliana was born with one sealed eyelid, a complete lack of](https://documentaryheaven.com/growing-up-without-a-face/ "Growing Up Without A Face")
+* [![The Kennedy Assassination: 24 Hours After](/wp-content/thumbnails/5970-100x70.jpg?x53432)
     
-    Behind The Music: Oasis
+    The Kennedy Assassination: 24 Hours After
     
-    The band Oasis revolved around the brothers Gallagher who's volatile relationship has been acted out in front of the press but before taking shots at one another they endure blows from an explosive an](https://documentaryheaven.com/behind-music-oasis/ "Behind The Music: Oasis")
-* [![Chazz Petrella: The Boy Who Should Have Lived](/wp-content/thumbnails/12589-100x70.jpg?x53432)
+    While the moments and hours after his tragic assassination were some of the most formative and important, that story has rarely, and only partially, been told.For the first time, using never-befor](https://documentaryheaven.com/the-kennedy-assassination-24-hours-after/ "The Kennedy Assassination: 24 Hours After")
+* [![George W. Bush: The 9/11 Interview](/wp-content/thumbnails/6125-100x70.jpg?x53432)
     
-    Chazz Petrella: The Boy Who Should Have Lived
+    George W. Bush: The 9/11 Interview
     
-    Having grown up in Cobourg, Ontario, with a loving family which included four older siblings, Chazz Petrella seemed to have an idyllic childhood. He was big into skateboarding and sports in general, l](https://documentaryheaven.com/chazz-petrella-boy-who-should-have-lived/ "Chazz Petrella: The Boy Who Should Have Lived")
+    National Geographic Channel presents George W. Bush: The 9/11 Interview, a world premiere documentary that reveals exclusive, first-person insight into the former president’s experience following the](https://documentaryheaven.com/george-w-bush-the-911-interview/ "George W. Bush: The 9/11 Interview")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
