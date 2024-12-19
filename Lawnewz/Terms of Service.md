@@ -283,21 +283,21 @@ Top of Today
     
     ### ['Corrective action has been taken': Federal judge who called it 'dumb' for Justice Alito to fly upside-down flag acted unethically, court rules](https://lawandcrime.com/supreme-court/corrective-action-has-been-taken-federal-judge-who-called-it-dumb-for-justice-alito-to-fly-upside-down-flag-acted-unethically-court-rules/)
     
-2. [![Inset: Saiy-Yah Allen (Royal Funeral Service, Inc.).](https://am22.mediaite.com/lc/cnt/uploads/2024/12/walmart-432x243.jpg)](https://lawandcrime.com/lawsuit/family-awarded-millions-after-walmart-argues-inattentive-9-year-old-failed-to-use-his-senses-when-he-walked-into-metal-cart-leading-to-his-death/)
+2. [![Tameria Clark was charged with burning the body of Jaderius Webb](https://am23.mediaite.com/lc/cnt/uploads/2024/12/tameria-clark-charged-432x243.jpg)](https://lawandcrime.com/crime/woman-burned-body-of-missing-man-then-went-to-party-and-told-people-she-did-something-that-would-send-her-to-jail-police/)
     
-    ### [Family awarded millions after Walmart argues 'inattentive' 9-year-old 'failed to use his senses' when he walked into metal cart, leading to his death](https://lawandcrime.com/lawsuit/family-awarded-millions-after-walmart-argues-inattentive-9-year-old-failed-to-use-his-senses-when-he-walked-into-metal-cart-leading-to-his-death/)
+    ### [Woman burned body of missing man, then went to party and told people she did something that would 'send her to jail': Police](https://lawandcrime.com/crime/woman-burned-body-of-missing-man-then-went-to-party-and-told-people-she-did-something-that-would-send-her-to-jail-police/)
     
-3. [![Joanne Zephir (Office of the State Attorney for the Ninth Judicial Circuit).](https://am22.mediaite.com/lc/cnt/uploads/2024/12/Joanne-Zephir-432x243.png)](https://lawandcrime.com/video/mom-fed-young-daughters-yucky-milk-that-was-actually-bleach-then-strangled-the-3-year-old-when-it-didnt-work-prosecutors/)
+3. [![Donald Trump and Stewart Rhodes](https://am23.mediaite.com/lc/cnt/uploads/2024/12/Stewart-Rhodes-and-Donald-Trump-432x243.jpg)](https://lawandcrime.com/high-profile/frightening-to-anyone-who-cares-about-democracy-jan-6-judge-lambasts-idea-of-trump-granting-pardon-to-seditious-conspiracist-stewart-rhodes/)
     
-    ### [Mom fed young daughters 'yucky' milk that was actually bleach, then strangled the 3-year-old when it didn't work: Prosecutors](https://lawandcrime.com/video/mom-fed-young-daughters-yucky-milk-that-was-actually-bleach-then-strangled-the-3-year-old-when-it-didnt-work-prosecutors/)
+    ### ['Frightening to anyone who cares about democracy': Jan. 6 judge lambasts idea of Trump granting pardon to seditious conspiracist Stewart Rhodes](https://lawandcrime.com/high-profile/frightening-to-anyone-who-cares-about-democracy-jan-6-judge-lambasts-idea-of-trump-granting-pardon-to-seditious-conspiracist-stewart-rhodes/)
     
-4. [![Left: U.S. District Judge James Wynn Jr. (NC Newsline/YouTube). Right: President-elect Donald Trump speaking on NBC's ](https://am22.mediaite.com/lc/cnt/uploads/2024/12/wynn-and-trump-432x243.jpg)](https://lawandcrime.com/high-profile/strikes-at-the-heart-of-impartiality-obama-appointed-judge-who-unretired-on-trump-gets-hit-with-judicial-misconduct-complaint-from-gop-group-who-mocks-his-change-of-heart/)
+4. [![L. Lin Wood](https://am24.mediaite.com/lc/cnt/uploads/2023/07/L.-Lin-Wood-432x243.jpg)](https://lawandcrime.com/high-profile/pro-trump-attorney-lin-wood-ordered-to-hand-over-2-million-cash-after-defaming-ex-law-partners-as-criminal-extortionists/)
     
-    ### ['Strikes at the heart of impartiality': Obama-appointed judge who unretired on Trump gets hit with judicial misconduct complaint from GOP group who mocks his 'change of heart'](https://lawandcrime.com/high-profile/strikes-at-the-heart-of-impartiality-obama-appointed-judge-who-unretired-on-trump-gets-hit-with-judicial-misconduct-complaint-from-gop-group-who-mocks-his-change-of-heart/)
+    ### [Pro-Trump attorney Lin Wood ordered to hand over $2 million cash after defaming ex-law partners as 'criminal' extortionists](https://lawandcrime.com/high-profile/pro-trump-attorney-lin-wood-ordered-to-hand-over-2-million-cash-after-defaming-ex-law-partners-as-criminal-extortionists/) 
     
-5. [![Background: Charles Himber, circled in yellow. Inset: Himber's selfie inside U.S. Capitol during Jan. 6 riot (DOJ).](https://am24.mediaite.com/lc/cnt/uploads/2024/02/himber-432x243.jpeg)](https://lawandcrime.com/high-profile/youre-not-f-ing-safe-man-who-told-fbi-he-didnt-participate-in-jan-6-riot-but-was-busted-with-selfies-inside-building-headed-to-prison/)
+5. [![Popular post image](https://am21.mediaite.com/lc/cnt/uploads/2023/04/Bob-Woodward-Donald-Trump-432x243.jpg)](https://lawandcrime.com/high-profile/application-is-denied-judge-rejects-trumps-push-to-expedite-lawsuit-against-bob-woodward-over-rage-audiobook/)
     
-    ### ['You're not f---ing safe': Man who told FBI he didn't participate in Jan. 6 riot but was busted with selfies inside building headed to prison](https://lawandcrime.com/high-profile/youre-not-f-ing-safe-man-who-told-fbi-he-didnt-participate-in-jan-6-riot-but-was-busted-with-selfies-inside-building-headed-to-prison/)
+    ### ['Application is denied': Judge rejects Trump's push to expedite lawsuit against Bob Woodward over 'Rage' audiobook](https://lawandcrime.com/high-profile/application-is-denied-judge-rejects-trumps-push-to-expedite-lawsuit-against-bob-woodward-over-rage-audiobook/)
     
 
 [](http://eepurl.com/c89Jdb)
