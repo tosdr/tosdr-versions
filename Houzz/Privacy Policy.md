@@ -525,7 +525,7 @@ Get Advice[Design Dilemmas](https://www.gardenweb.com/discussions/design-dilemma
 * [Mid-Century Modern Furniture](https://www.houzz.com/products/mid-century-modern/furniture)
 * [Coastal Furniture](https://www.houzz.com/products/coastal/furniture)
 
-* [Home Bar](https://www.houzz.com/products/kitchen-and-dining-furniture)
+* [Home Bar](https://www.houzz.com/products/home-bar-products)
 
 * [Storage & Organization](https://www.houzz.com/products/storage-and-organization)
 
@@ -534,8 +534,6 @@ Get Advice[Design Dilemmas](https://www.gardenweb.com/discussions/design-dilemma
 * [Housekeeping & Laundry](https://www.houzz.com/products/housekeeping-and-laundry)
 
 * [Pet Supplies](https://www.houzz.com/products/pet-supplies)
-
-* [Cyber Monday Sale](https://www.houzz.com/products/sale-event--cyber-monday-sale)
 
 * [All Sales](https://www.houzz.com/products/on-sale)
 
