@@ -156,7 +156,7 @@ Designing where you want to go today
 
 [Donate](#donate)
 
-[![freeblr limited government society without a state](/freeblr/limited-government/society-without-a-state/card.svg)](https://jarick.works/freeblr/limited-government/society-without-a-state)[![freeblr taxation an experiment](/freeblr/taxation/an-experiment/card.svg)](https://jarick.works/freeblr/taxation/an-experiment)[![freeblr limited government no rulers](/freeblr/limited-government/no-rulers/card.svg)](https://jarick.works/freeblr/limited-government/no-rulers)[![freeblr taxation what if charity replaced taxation](/freeblr/taxation/what-if-charity-replaced-taxation/card.svg)](https://jarick.works/freeblr/taxation/what-if-charity-replaced-taxation)
+[![freeblr government the state human parasite](/freeblr/government/the-state-human-parasite/card.svg)](https://jarick.works/freeblr/government/the-state-human-parasite)[![freeblr education parents can trust kids to teach themselves](/freeblr/education/parents-can-trust-kids-to-teach-themselves/card.svg)](https://jarick.works/freeblr/education/parents-can-trust-kids-to-teach-themselves)[![freeblr money the value of money](/freeblr/money/the-value-of-money/card.svg)](https://jarick.works/freeblr/money/the-value-of-money)[![freeblr taxation taxes are the price we pay to live in a civilised society or are they](/freeblr/taxation/taxes-are-the-price-we-pay-to-live-in-a-civilised-society-or-are-they/card.svg)](https://jarick.works/freeblr/taxation/taxes-are-the-price-we-pay-to-live-in-a-civilised-society-or-are-they)
 
 [Follow](#follow)
 
