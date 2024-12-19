@@ -245,3 +245,13 @@ Layer 1 IP
 This website uses cookies to enhance your experience.
 
 Accept
+
+Level up your anonymity
+
+Antidetect Browser
+
+[Try for free](https://wade.is/trial?utm_source=whoer&utm_campaign=popup_level)
+
+Level up your anonymity
+
+[Try for free](https://whoer.net/vpn/buy)
