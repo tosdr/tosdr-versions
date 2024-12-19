@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Nahrungs­ergän­zungs­mittel für Stillende: Viele bieten nicht, was sie sollten](https://www.test.de/Nahrungsergaenzungsmittel-fuer-Stillende-Viele-bieten-nicht-was-sie-sollten-6017290-0/ "Nahrungsergänzungsmittel für Stillende - Viele bieten nicht, was sie sollten")
-* [Sommerreifen im Test: Die besten Sommerreifen aus den ADAC-Tests](https://www.test.de/Test-Sommerreifen-Die-besten-Sommerreifen-aus-den-ADAC-Tests-6045628-0/ "Sommerreifen im Test - Die besten Sommerreifen aus den ADAC-Tests")
-* [Fotos vom Smartphone auf dem Fernseher ansehen: So klappt die moderne Diashow](https://www.test.de/Fotos-vom-Smartphone-auf-dem-Fernseher-ansehen-So-klappt-die-moderne-Diashow-6049555-0/ "Fotos vom Smartphone auf dem Fernseher ansehen - So klappt die moderne Diashow")
-* [Verpackungs­ärger: Freche Freunde Müsliriegel](https://www.test.de/Verpackungsaerger-Freche-Freunde-Muesliriegel-6105762-0/ "Verpackungsärger - Freche Freunde Müsliriegel")
-* [Daten­schutz im Test: Was Laut­sprecher-Apps ausplaudern](https://www.test.de/Datenschutz-im-Test-Was-Lautsprecher-Apps-ausplaudern-6126264-0/ "Datenschutz im Test - Was Lautsprecher-Apps ausplaudern")
-* [Ergo­meter im Test: Heimtrainer mit deutlichen Schwächen](https://www.test.de/Ergometer-im-Test-Heimtrainer-mit-deutlichen-Schwaechen-6045811-0/ "Ergometer im Test - Heimtrainer mit deutlichen Schwächen")
+* [Leser­aufruf zu Dark Patterns: Melden Sie uns Manipulation im Netz](https://www.test.de/Leseraufruf-zu-Dark-Patterns-Melden-Sie-uns-Manipulation-im-Netz-6047043-0/ "Leseraufruf zu Dark Patterns - Melden Sie uns Manipulation im Netz")
+* [Test energiesparend Kochen: Was bringen Kochsack und Kochkiste?](https://www.test.de/Test-energiesparend-Kochen-Was-bringen-Kochsack-und-Kochkiste-6000525-0/ "Test energiesparend Kochen - Was bringen Kochsack und Kochkiste?")
+* [Trade Republic Tages­geld Giro­konto: Top-Zinsen, aber schlechtere Bedingungen](https://www.test.de/Tagesgeld-Debitkarte-Girokonto-Trade-Republic-hohe-Zinsen-6084201-0/ "Trade Republic Tagesgeld Girokonto - Top-Zinsen, aber schlechtere Bedingungen")
+* [Akku­staubsauger-Reparatur­dienste im Test: Nur einer repariert sehr gut](https://www.test.de/staubsauger-reparaturdienste-im-test-6134473-0/ "Akkustaubsauger-Reparaturdienste im Test - Nur einer repariert sehr gut")
+* [Crowdfunding-Platt­form Berg­fürst: Chef zuerst, Crowd danach](https://www.test.de/Crowdfunding-Plattform-Bergfuerst-Chef-zuerst-Crowd-danach-6083104-0/ "Crowdfunding-Plattform Bergfürst - Chef zuerst, Crowd danach")
+* [Beamer: Aus für Queck­silber-Lampen naht](https://www.test.de/Beamer-Aus-fuer-Quecksilber-Lampen-naht-6162906-0/ "Beamer - Aus für Quecksilber-Lampen naht")
 
 Weitere Informationen
 
@@ -3871,12 +3871,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Nahrungs­ergän­zungs­mittel für Stillende: Viele bieten nicht, was sie sollten](https://www.test.de/Nahrungsergaenzungsmittel-fuer-Stillende-Viele-bieten-nicht-was-sie-sollten-6017290-0/ "Nahrungsergänzungsmittel für Stillende - Viele bieten nicht, was sie sollten")
-* [Sommerreifen im Test: Die besten Sommerreifen aus den ADAC-Tests](https://www.test.de/Test-Sommerreifen-Die-besten-Sommerreifen-aus-den-ADAC-Tests-6045628-0/ "Sommerreifen im Test - Die besten Sommerreifen aus den ADAC-Tests")
-* [Fotos vom Smartphone auf dem Fernseher ansehen: So klappt die moderne Diashow](https://www.test.de/Fotos-vom-Smartphone-auf-dem-Fernseher-ansehen-So-klappt-die-moderne-Diashow-6049555-0/ "Fotos vom Smartphone auf dem Fernseher ansehen - So klappt die moderne Diashow")
-* [Verpackungs­ärger: Freche Freunde Müsliriegel](https://www.test.de/Verpackungsaerger-Freche-Freunde-Muesliriegel-6105762-0/ "Verpackungsärger - Freche Freunde Müsliriegel")
-* [Daten­schutz im Test: Was Laut­sprecher-Apps ausplaudern](https://www.test.de/Datenschutz-im-Test-Was-Lautsprecher-Apps-ausplaudern-6126264-0/ "Datenschutz im Test - Was Lautsprecher-Apps ausplaudern")
-* [Ergo­meter im Test: Heimtrainer mit deutlichen Schwächen](https://www.test.de/Ergometer-im-Test-Heimtrainer-mit-deutlichen-Schwaechen-6045811-0/ "Ergometer im Test - Heimtrainer mit deutlichen Schwächen")
+* [Leser­aufruf zu Dark Patterns: Melden Sie uns Manipulation im Netz](https://www.test.de/Leseraufruf-zu-Dark-Patterns-Melden-Sie-uns-Manipulation-im-Netz-6047043-0/ "Leseraufruf zu Dark Patterns - Melden Sie uns Manipulation im Netz")
+* [Test energiesparend Kochen: Was bringen Kochsack und Kochkiste?](https://www.test.de/Test-energiesparend-Kochen-Was-bringen-Kochsack-und-Kochkiste-6000525-0/ "Test energiesparend Kochen - Was bringen Kochsack und Kochkiste?")
+* [Trade Republic Tages­geld Giro­konto: Top-Zinsen, aber schlechtere Bedingungen](https://www.test.de/Tagesgeld-Debitkarte-Girokonto-Trade-Republic-hohe-Zinsen-6084201-0/ "Trade Republic Tagesgeld Girokonto - Top-Zinsen, aber schlechtere Bedingungen")
+* [Akku­staubsauger-Reparatur­dienste im Test: Nur einer repariert sehr gut](https://www.test.de/staubsauger-reparaturdienste-im-test-6134473-0/ "Akkustaubsauger-Reparaturdienste im Test - Nur einer repariert sehr gut")
+* [Crowdfunding-Platt­form Berg­fürst: Chef zuerst, Crowd danach](https://www.test.de/Crowdfunding-Plattform-Bergfuerst-Chef-zuerst-Crowd-danach-6083104-0/ "Crowdfunding-Plattform Bergfürst - Chef zuerst, Crowd danach")
+* [Beamer: Aus für Queck­silber-Lampen naht](https://www.test.de/Beamer-Aus-fuer-Quecksilber-Lampen-naht-6162906-0/ "Beamer - Aus für Quecksilber-Lampen naht")
 
 Weitere spannende Themen
 
@@ -3891,12 +3891,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Nahrungs­ergän­zungs­mittel für Stillende: Viele bieten nicht, was sie sollten](https://www.test.de/Nahrungsergaenzungsmittel-fuer-Stillende-Viele-bieten-nicht-was-sie-sollten-6017290-0/ "Nahrungsergänzungsmittel für Stillende - Viele bieten nicht, was sie sollten")
-* [Sommerreifen im Test: Die besten Sommerreifen aus den ADAC-Tests](https://www.test.de/Test-Sommerreifen-Die-besten-Sommerreifen-aus-den-ADAC-Tests-6045628-0/ "Sommerreifen im Test - Die besten Sommerreifen aus den ADAC-Tests")
-* [Fotos vom Smartphone auf dem Fernseher ansehen: So klappt die moderne Diashow](https://www.test.de/Fotos-vom-Smartphone-auf-dem-Fernseher-ansehen-So-klappt-die-moderne-Diashow-6049555-0/ "Fotos vom Smartphone auf dem Fernseher ansehen - So klappt die moderne Diashow")
-* [Verpackungs­ärger: Freche Freunde Müsliriegel](https://www.test.de/Verpackungsaerger-Freche-Freunde-Muesliriegel-6105762-0/ "Verpackungsärger - Freche Freunde Müsliriegel")
-* [Daten­schutz im Test: Was Laut­sprecher-Apps ausplaudern](https://www.test.de/Datenschutz-im-Test-Was-Lautsprecher-Apps-ausplaudern-6126264-0/ "Datenschutz im Test - Was Lautsprecher-Apps ausplaudern")
-* [Ergo­meter im Test: Heimtrainer mit deutlichen Schwächen](https://www.test.de/Ergometer-im-Test-Heimtrainer-mit-deutlichen-Schwaechen-6045811-0/ "Ergometer im Test - Heimtrainer mit deutlichen Schwächen")
+* [Leser­aufruf zu Dark Patterns: Melden Sie uns Manipulation im Netz](https://www.test.de/Leseraufruf-zu-Dark-Patterns-Melden-Sie-uns-Manipulation-im-Netz-6047043-0/ "Leseraufruf zu Dark Patterns - Melden Sie uns Manipulation im Netz")
+* [Test energiesparend Kochen: Was bringen Kochsack und Kochkiste?](https://www.test.de/Test-energiesparend-Kochen-Was-bringen-Kochsack-und-Kochkiste-6000525-0/ "Test energiesparend Kochen - Was bringen Kochsack und Kochkiste?")
+* [Trade Republic Tages­geld Giro­konto: Top-Zinsen, aber schlechtere Bedingungen](https://www.test.de/Tagesgeld-Debitkarte-Girokonto-Trade-Republic-hohe-Zinsen-6084201-0/ "Trade Republic Tagesgeld Girokonto - Top-Zinsen, aber schlechtere Bedingungen")
+* [Akku­staubsauger-Reparatur­dienste im Test: Nur einer repariert sehr gut](https://www.test.de/staubsauger-reparaturdienste-im-test-6134473-0/ "Akkustaubsauger-Reparaturdienste im Test - Nur einer repariert sehr gut")
+* [Crowdfunding-Platt­form Berg­fürst: Chef zuerst, Crowd danach](https://www.test.de/Crowdfunding-Plattform-Bergfuerst-Chef-zuerst-Crowd-danach-6083104-0/ "Crowdfunding-Plattform Bergfürst - Chef zuerst, Crowd danach")
+* [Beamer: Aus für Queck­silber-Lampen naht](https://www.test.de/Beamer-Aus-fuer-Quecksilber-Lampen-naht-6162906-0/ "Beamer - Aus für Quecksilber-Lampen naht")
 
 Neueste Tests
 
@@ -3909,12 +3909,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Nahrungs­ergän­zungs­mittel für Stillende: Viele bieten nicht, was sie sollten](https://www.test.de/Nahrungsergaenzungsmittel-fuer-Stillende-Viele-bieten-nicht-was-sie-sollten-6017290-0/ "Nahrungsergänzungsmittel für Stillende - Viele bieten nicht, was sie sollten")
-* [Sommerreifen im Test: Die besten Sommerreifen aus den ADAC-Tests](https://www.test.de/Test-Sommerreifen-Die-besten-Sommerreifen-aus-den-ADAC-Tests-6045628-0/ "Sommerreifen im Test - Die besten Sommerreifen aus den ADAC-Tests")
-* [Fotos vom Smartphone auf dem Fernseher ansehen: So klappt die moderne Diashow](https://www.test.de/Fotos-vom-Smartphone-auf-dem-Fernseher-ansehen-So-klappt-die-moderne-Diashow-6049555-0/ "Fotos vom Smartphone auf dem Fernseher ansehen - So klappt die moderne Diashow")
-* [Verpackungs­ärger: Freche Freunde Müsliriegel](https://www.test.de/Verpackungsaerger-Freche-Freunde-Muesliriegel-6105762-0/ "Verpackungsärger - Freche Freunde Müsliriegel")
-* [Daten­schutz im Test: Was Laut­sprecher-Apps ausplaudern](https://www.test.de/Datenschutz-im-Test-Was-Lautsprecher-Apps-ausplaudern-6126264-0/ "Datenschutz im Test - Was Lautsprecher-Apps ausplaudern")
-* [Ergo­meter im Test: Heimtrainer mit deutlichen Schwächen](https://www.test.de/Ergometer-im-Test-Heimtrainer-mit-deutlichen-Schwaechen-6045811-0/ "Ergometer im Test - Heimtrainer mit deutlichen Schwächen")
+* [Leser­aufruf zu Dark Patterns: Melden Sie uns Manipulation im Netz](https://www.test.de/Leseraufruf-zu-Dark-Patterns-Melden-Sie-uns-Manipulation-im-Netz-6047043-0/ "Leseraufruf zu Dark Patterns - Melden Sie uns Manipulation im Netz")
+* [Test energiesparend Kochen: Was bringen Kochsack und Kochkiste?](https://www.test.de/Test-energiesparend-Kochen-Was-bringen-Kochsack-und-Kochkiste-6000525-0/ "Test energiesparend Kochen - Was bringen Kochsack und Kochkiste?")
+* [Trade Republic Tages­geld Giro­konto: Top-Zinsen, aber schlechtere Bedingungen](https://www.test.de/Tagesgeld-Debitkarte-Girokonto-Trade-Republic-hohe-Zinsen-6084201-0/ "Trade Republic Tagesgeld Girokonto - Top-Zinsen, aber schlechtere Bedingungen")
+* [Akku­staubsauger-Reparatur­dienste im Test: Nur einer repariert sehr gut](https://www.test.de/staubsauger-reparaturdienste-im-test-6134473-0/ "Akkustaubsauger-Reparaturdienste im Test - Nur einer repariert sehr gut")
+* [Crowdfunding-Platt­form Berg­fürst: Chef zuerst, Crowd danach](https://www.test.de/Crowdfunding-Plattform-Bergfuerst-Chef-zuerst-Crowd-danach-6083104-0/ "Crowdfunding-Plattform Bergfürst - Chef zuerst, Crowd danach")
+* [Beamer: Aus für Queck­silber-Lampen naht](https://www.test.de/Beamer-Aus-fuer-Quecksilber-Lampen-naht-6162906-0/ "Beamer - Aus für Quecksilber-Lampen naht")
 
 Stiftung Warentest
 
