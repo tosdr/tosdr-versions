@@ -157,7 +157,7 @@ The date at the top of this Cookie Statement indicates when it was last updated.
 
 ### **Where can I get further information?**
 
-If you have any questions about our use of cookies or other technologies, please email us at privacy@advangelists.com.
+If you have any questions about our use of cookies or other technologies, please email us at [\[email protected\]](https://advangelists.com/cdn-cgi/l/email-protection).
 
 Data Opt Out Policy
 -------------------
@@ -210,7 +210,7 @@ We may also request that you respond to a few questions, so that we can appropri
 
 ### Step 3: Submit to Advangelists
 
-Once you have located your Digital Identifiers and can provide us with verification of those Digital Identifiers, please email privacy@advangelists.com with details of the rights you wish to exercise.. We will request the following information:
+Once you have located your Digital Identifiers and can provide us with verification of those Digital Identifiers, please email [\[email protected\]](https://advangelists.com/cdn-cgi/l/email-protection) with details of the rights you wish to exercise.. We will request the following information:
 
 * Your full name
 * The region in which you are located at the time you are making your request
@@ -339,7 +339,7 @@ If you are a resident of California, please review these additional privacy disc
 
 ### Your Rights
 
-California law requires us to disclose the categories of personal information we collect and how we use them, the categories of sources from which we collect personal information, and the third parties with whom we share personal information, which we have explained above. We are also required to communicate information about rights you have under California law—for information about these rights, please see “Your Choices and Rights” above. You also have the right to request what information we collect and how we use and disclose it. You may exercise these rights by visiting our Data Subject Rights policy. Please note that because most of the information we store can only identify a particular browser or device, and cannot identify you individually, you need to provide us with some additional information to enable us to identify the User Information we hold about you, if any, and ensure that we accurately fulfill your request. If you have any questions about your rights or our disclosures, you may reach us at privacy@advangelists.com.
+California law requires us to disclose the categories of personal information we collect and how we use them, the categories of sources from which we collect personal information, and the third parties with whom we share personal information, which we have explained above. We are also required to communicate information about rights you have under California law—for information about these rights, please see “Your Choices and Rights” above. You also have the right to request what information we collect and how we use and disclose it. You may exercise these rights by visiting our Data Subject Rights policy. Please note that because most of the information we store can only identify a particular browser or device, and cannot identify you individually, you need to provide us with some additional information to enable us to identify the User Information we hold about you, if any, and ensure that we accurately fulfill your request. If you have any questions about your rights or our disclosures, you may reach us at [\[email protected\]](https://advangelists.com/cdn-cgi/l/email-protection).
 
 In addition, we are required to provide you certain information about the business and commercial purposes for which we collect and share your personal information. We use and disclose the information we collect for the business purposes described in the “How We Use User Information” section of this policy, including: to allow our clients to select and display advertisements, to understand how users interact with our services, for auditing purposes, to detect security incidents, to prevent fraud, debug, and repair errors, and for other purposes described above.
 
@@ -353,7 +353,7 @@ We may update this policy from time to time in order to reflect, for example, ch
 
 **Contact Us**
 
-For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact Advangelists’s Privacy Team by e-mail at privacy@advangelists.com or by post using the details provided below:
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact Advangelists’s Privacy Team by e-mail at [\[email protected\]](https://advangelists.com/cdn-cgi/l/email-protection) or by post using the details provided below:
 
 Advangelists
 
@@ -363,7 +363,7 @@ Attn: Privacy Team
 
 Shoreham, NY 11786
 
-You can also contact Advangelists’s Data Protection Officer at dpo@advangelists.com.
+You can also contact Advangelists’s Data Protection Officer at [\[email protected\]](https://advangelists.com/cdn-cgi/l/email-protection).
 
 [Opt out & Ad Choices | Do Not Sell My Personal Information](https://advangelists.com/consumer-online-profile-and-opt-out/)
 
