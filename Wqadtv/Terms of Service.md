@@ -30,13 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/bed48906-d5de-407a-ae0b-5aadaccd1a7e/20241218T202347/bed48906-d5de-407a-ae0b-5aadaccd1a7e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/bed48906-d5de-407a-ae0b-5aadaccd1a7e/20241218T202347/bed48906-d5de-407a-ae0b-5aadaccd1a7e_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/current-reads-muscatine-musser-public-library-bookish-bingo-3-popular-reads-books/526-cc62dfb4-e01d-4d0a-870b-30b97f21b1ec)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/367702c0-8420-4bf9-9ada-72946be03e31/20241219T040628/367702c0-8420-4bf9-9ada-72946be03e31_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/367702c0-8420-4bf9-9ada-72946be03e31/20241219T040628/367702c0-8420-4bf9-9ada-72946be03e31_360x203.jpg)](https://www.wqad.com/article/news/local/infrastructure/quad-cities-chicago-amtrak-project-update-durbin-duckworth-sorensen/526-f54ab738-ba75-40ca-8525-12e52338731b)
         
-        #### [Current Reads: Cozy up with 3 reads from Muscatine's Musser Public Library](https://www.wqad.com/article/news/local/the-current/current-reads-muscatine-musser-public-library-bookish-bingo-3-popular-reads-books/526-cc62dfb4-e01d-4d0a-870b-30b97f21b1ec)
+        #### [Lawmakers provide update on Moline-Chicago Amtrak project with federal funding set to expire](https://www.wqad.com/article/news/local/infrastructure/quad-cities-chicago-amtrak-project-update-durbin-duckworth-sorensen/526-f54ab738-ba75-40ca-8525-12e52338731b) [![](https://media.tegna-media.com/assets/WQAD/images/367702c0-8420-4bf9-9ada-72946be03e31/20241219T040628/367702c0-8420-4bf9-9ada-72946be03e31_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/367702c0-8420-4bf9-9ada-72946be03e31/20241219T040628/367702c0-8420-4bf9-9ada-72946be03e31_360x203.jpg)](https://www.wqad.com/article/news/local/infrastructure/quad-cities-chicago-amtrak-project-update-durbin-duckworth-sorensen/526-f54ab738-ba75-40ca-8525-12e52338731b)
         
-    *  [![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/1-dead-1-injured-davenport-crash/526-d3a2a11c-f3a2-42e5-a724-c82963960bdb)
+        #### [Federal funding for Moline-Chicago Amtrak project set to expire: Lawmakers give update](https://www.wqad.com/article/news/local/infrastructure/quad-cities-chicago-amtrak-project-update-durbin-duckworth-sorensen/526-f54ab738-ba75-40ca-8525-12e52338731b)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/d716fcb6-004f-4fa1-9649-c34aaca3cb94/20241218T190936/d716fcb6-004f-4fa1-9649-c34aaca3cb94_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d716fcb6-004f-4fa1-9649-c34aaca3cb94/20241218T190936/d716fcb6-004f-4fa1-9649-c34aaca3cb94_360x203.jpg)](https://www.wqad.com/article/news/local/rock-island-shooting-man-arrested/526-80aaf2a6-2196-4c26-86e7-43b1443e879b)
         
-        #### [1 dead, 1 injured in Davenport crash on River Drive](https://www.wqad.com/article/news/local/public-safety/1-dead-1-injured-davenport-crash/526-d3a2a11c-f3a2-42e5-a724-c82963960bdb)
+        #### [Man arrested in Rock Island shooting, victim seriously wounded](https://www.wqad.com/article/news/local/rock-island-shooting-man-arrested/526-80aaf2a6-2196-4c26-86e7-43b1443e879b)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,7 +57,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/cfdaa694-5e94-4fee-9602-a8ede7b79e45/20241218T222340/cfdaa694-5e94-4fee-9602-a8ede7b79e45_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/cfdaa694-5e94-4fee-9602-a8ede7b79e45/20241218T222340/cfdaa694-5e94-4fee-9602-a8ede7b79e45_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/44d94f45-202b-4a7c-82bd-decb47de1296/20241219T042949/44d94f45-202b-4a7c-82bd-decb47de1296_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/44d94f45-202b-4a7c-82bd-decb47de1296/20241219T042949/44d94f45-202b-4a7c-82bd-decb47de1296_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
         #### [Tracking our next clipper system for parts of the area](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
@@ -74,13 +75,13 @@ Navigation
     
     Latest Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/e5de6744-9f1a-4d76-9794-a6eae78eefe8/20240906T144305/e5de6744-9f1a-4d76-9794-a6eae78eefe8_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e5de6744-9f1a-4d76-9794-a6eae78eefe8/20240906T144305/e5de6744-9f1a-4d76-9794-a6eae78eefe8_360x203.jpg)](https://www.wqad.com/article/sports/the-score/vote-for-this-weeks-midwest-technical-institute-score-standout-week-16/526-c20f8b6c-29e5-4dca-af0f-3cb05f45350a)
+    *  [![](https://media.tegna-media.com/assets/WOI/images/a19238d9-2784-4773-b62a-f94a68dccdcf/a19238d9-2784-4773-b62a-f94a68dccdcf_16x9.jpg) ![](https://media.tegna-media.com/assets/WOI/images/a19238d9-2784-4773-b62a-f94a68dccdcf/a19238d9-2784-4773-b62a-f94a68dccdcf_360x203.jpg)](https://www.wqad.com/article/sports/ncaa/iowa-hawkeyes/caitlin-clark-iowa-jersey-retirement-22-hawkeyes/524-c20f5a1f-ab5e-4ab4-8a30-d19534f52d4d)
         
-        #### [Vote for this week's Midwest Technical Institute Score Standout | Week 16](https://www.wqad.com/article/sports/the-score/vote-for-this-weeks-midwest-technical-institute-score-standout-week-16/526-c20f8b6c-29e5-4dca-af0f-3cb05f45350a)
+        #### [Iowa to retire Caitlin Clark's No. 22 jersey in February](https://www.wqad.com/article/sports/ncaa/iowa-hawkeyes/caitlin-clark-iowa-jersey-retirement-22-hawkeyes/524-c20f5a1f-ab5e-4ab4-8a30-d19534f52d4d)
         
-    *  [![](https://media.tegna-media.com/assets/CCT/images/c5452e0d-c5b1-4fc8-b904-9381017b7490/20241216T030902/c5452e0d-c5b1-4fc8-b904-9381017b7490_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/c5452e0d-c5b1-4fc8-b904-9381017b7490/20241216T030902/c5452e0d-c5b1-4fc8-b904-9381017b7490_360x203.jpg)](https://www.wqad.com/article/news/nation-world/pop-tart-bowl-working-toaster-trophy/507-93ab0d53-742b-4705-a704-8c38f2d877f4)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/f6cf9387-acf6-4a2d-8af2-c2fd93920267/20241218T225707/f6cf9387-acf6-4a2d-8af2-c2fd93920267_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f6cf9387-acf6-4a2d-8af2-c2fd93920267/20241218T225707/f6cf9387-acf6-4a2d-8af2-c2fd93920267_360x203.jpg)](https://www.wqad.com/article/sports/local-sports/signing-day-north-scott-lancers-iowa/526-bbd02d7f-f4dd-49f8-8b95-389ac37e1d9f)
         
-        #### [Pop-Tart Bowl unveils trophy with a built in toaster](https://www.wqad.com/article/news/nation-world/pop-tart-bowl-working-toaster-trophy/507-93ab0d53-742b-4705-a704-8c38f2d877f4)
+        #### [8 North Scott Lancers sign to play college sports](https://www.wqad.com/article/sports/local-sports/signing-day-north-scott-lancers-iowa/526-bbd02d7f-f4dd-49f8-8b95-389ac37e1d9f)
         
     
 * [VERIFY](https://www.wqad.com/verify)
@@ -97,7 +98,7 @@ Navigation
 
 Davenport, IA »
 
-29°
+28°
 
 ![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
