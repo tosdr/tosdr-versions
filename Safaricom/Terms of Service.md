@@ -227,7 +227,7 @@ Customer Testimonials
 
 out of 5 based on
 
-[804 reviews](https://www.trustpilot.com/review/www.safari.com)
+[809 reviews](https://www.trustpilot.com/review/www.safari.com)
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
@@ -394,7 +394,7 @@ Contact a safari expert now
 
 ### Blog
 
-* [Blog home](https://www.safari.com/blog)[Top 10 African Safaris](https://www.safari.com/blog/top-10-best-african-safari-tours)[Top 10 Lodges in Kruger Park](https://www.safari.com/blog/top-10-luxury-lodges-in-the-greater-kruger-park)[Top 10 Okavango Lodges](https://www.safari.com/blog/top-10-okavango-delta-lodges)[Top 10 Lodges in the Sabi Sands](https://www.safari.com/blog/top-10-lodges-in-the-sabi-sands)[Top 10 Migration Lodges](https://www.safari.com/blog/top-10-great-migration-lodges)[What does a safari cost in Africa](https://www.safari.com/blog/what-does-a-safari-cost-in-africa)[Best value for money lodges in Africa](https://www.safari.com/blog/best-value-for-money-luxury-safari-lodges)[Safety tips for traveling in Africa](https://www.safari.com/blog/safety-tips-for-travel-in-africa)
+* [Blog home](https://www.safari.com/blog)[Top 10 African Safaris](https://www.safari.com/blog/top-10-best-african-safari-tours)[Top 10 Lodges in Kruger Park](https://www.safari.com/blog/top-10-luxury-lodges-in-the-greater-kruger-park)[Top 10 Okavango Lodges](https://www.safari.com/blog/top-10-okavango-delta-lodges)[Top 10 Lodges in the Sabi Sands](https://www.safari.com/blog/top-10-lodges-in-the-sabi-sands)[Top 10 Migration Lodges](https://www.safari.com/blog/top-10-great-migration-lodges)[What does a safari cost in Africa](https://www.safari.com/blog/what-does-a-safari-cost-in-africa)[Best value for money lodges in Africa](https://www.safari.com/blog/best-value-for-money-luxury-safari-lodges)[Safety tips for traveling in Africa](https://www.safari.com/blog/safety-tips-for-travel-in-africa)[How to choose a trusted operator](https://www.safari.com/blog/how-to-choose-a-trusted-safari-operator)
 
 ### Social
 
