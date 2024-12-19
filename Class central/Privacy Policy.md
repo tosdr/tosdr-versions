@@ -1,6 +1,6 @@
- [![](/images/promobar/lightning-yellow.svg) CodeSignal – The Duolingo of Coding Practice
+ [![](/images/promobar/cc-badge-white.svg) Search 6,000+ CA Community College Courses
 
-View](https://www.classcentral.com/report/review-codesignal/)
+View](https://www.classcentral.test/california-community-colleges-course-finder)
 
 Close
 
@@ -388,21 +388,21 @@ Information Security (InfoSec)
 
 [The Report](https://www.classcentral.com/report/)
 
-[![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Freport%2Fcoursera-economics%2Fcoursera-economics-2%2F?auto=format&ixlib=php-4.1.0&s=f592f4d813d7d21812c1988e633edeee)](https://www.classcentral.com/report/cousera-layoffs-2024/)
+[![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Freport%2Fclass-central-launches-california-community-college-course-finder%2Fcalifornia-community-college-course-search-tool%2F?auto=format&ixlib=php-4.1.0&s=854549d704f8ec5c753e2dcacfa36497)](https://www.classcentral.com/report/class-central-launches-california-community-college-course-finder/)
 
-[Coursera Announces Layoffs, Stock Plunges Despite $100M Milestone](https://www.classcentral.com/report/cousera-layoffs-2024/)
+[6,000+ Online Courses from California Community Colleges: A New Search Tool by Class Central](https://www.classcentral.com/report/class-central-launches-california-community-college-course-finder/)
 
-Two years after its first major layoff round, Coursera announces another, impacting 10% of its workforce.
+Discover an easier way to explore affordable, credit-worthy online courses with our expanded community college catalog.
 
-[Dhawal Shah](https://www.classcentral.com/report/author/dhawal/) Oct 25, 2024
+[Dhawal Shah](https://www.classcentral.com/report/author/dhawal/) Dec 18, 2024
 
 ##### Latest
 
-1. [10 Best Git & GitHub Courses for 2024](https://www.classcentral.com/report/best-git-github-courses/)
-2. [\[2024\] 150 Online Courses to Help Your Career](https://www.classcentral.com/report/online-courses-to-help-your-career/)
-3. [9 Best Paleontology Courses for 2024](https://www.classcentral.com/report/best-paleontology-courses/)
-4. [7 Best Microsoft Access Courses for 2024](https://www.classcentral.com/report/best-microsoft-access-courses/)
-5. [Guide: How to Sign up for Coursera Courses for Free](https://www.classcentral.com/report/coursera-signup-for-free/)
+1. [8 Best AutoCAD Courses for 2024](https://www.classcentral.com/report/best-autocad-courses/)
+2. [9 Best Free Linux Courses for 2024](https://www.classcentral.com/report/best-linux-courses/)
+3. [10 Best Git & GitHub Courses for 2024](https://www.classcentral.com/report/best-git-github-courses/)
+4. [\[2024\] 150 Online Courses to Help Your Career](https://www.classcentral.com/report/online-courses-to-help-your-career/)
+5. [9 Best Paleontology Courses for 2024](https://www.classcentral.com/report/best-paleontology-courses/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -412,36 +412,36 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. python
+1. java
     
-2. digital marketing
+2. data science
     
-3. computer science
+3. project management
     
 
 Popular subjects
 
-1. [Information Technology
+1. [Communication Skills
     
-    5,382 courses](https://www.classcentral.com/subject/information-technology)
-2. [Communication Skills
+    4,498 courses](https://www.classcentral.com/subject/communication-skills)
+2. [Software Development
     
-    4,494 courses](https://www.classcentral.com/subject/communication-skills)
-3. [Python
+    10,499 courses](https://www.classcentral.com/subject/software-development)
+3. [Cybersecurity
     
-    10,534 courses](https://www.classcentral.com/subject/python)
+    17,434 courses](https://www.classcentral.com/subject/cybersecurity)
 
 Popular courses
 
-1. [Multilingual Practices: Tackling Challenges and Creating Opportunities
+1. [Fundamentals of Neuroscience, Part 1: The Electrical Properties of the Neuron
     
-    University of Groningen](https://www.classcentral.com/course/multilingual-practices-8096)
-2. [Introduction to Linux
+    Harvard University](https://www.classcentral.com/course/neuroscience-harvard-university-fundamentals-of-n-942)
+2. [Computing in Python I: Fundamentals and Procedural Programming
     
-    Linux Foundation](https://www.classcentral.com/course/linux-the-linux-foundation-introduction-to-linux-1857)
-3. [Financial Markets
+    Georgia Institute of Technology](https://www.classcentral.com/course/python-the-georgia-institute-of-technology-comput-11469)
+3. [Learning How To Learn for Youth
     
-    Yale University](https://www.classcentral.com/course/financialmarkets-912)
+    Arizona State University](https://www.classcentral.com/course/learning-how-to-learn-youth-12569)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
