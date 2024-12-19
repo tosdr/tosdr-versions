@@ -45,7 +45,6 @@ Description (details)
 * [General Terms](#general-terms-20)
 * [Severability](#severability-21)
 * [Jurisdiction and Venue](#jurisdiction-and-venue-22)
-* [Last Updated: August 28, 2024](#last-updated-august-28-2024-23)
 
 [Support Home](https://support.bitchute.com/) [Policies](https://support.bitchute.com/policy)
 
@@ -180,14 +179,11 @@ Any controversy or claim arising out of or relating to these terms, or the breac
 
 If any action is necessary to enforce these Terms, the substantially prevailing party will be entitled to reasonable attorneys' fees, costs, and expenses, in addition to any other relief to which such prevailing party may be entitled. A failure to enforce a right provided for by these terms does not waive the ability to enforce any rights in the future.
 
-Last Updated: August 28, 2024
------------------------------
-
-.
+_**Last Updated: August 28, 2024**_
 
 #### Was this article helpful?
 
-[8603](#) [1854](#)
+[8604](#) [1854](#)
 
 #### Related Questions:
 
