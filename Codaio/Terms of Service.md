@@ -4,6 +4,8 @@ We’re sorry, but Coda doesn’t work properly without JavaScript enabled.
 
 Skip to content
 
+[Grammarly to acquire Coda! Click here to read more about the future of AI + productivity.](https://coda.io/blog/about-coda/grammarly-acquires-coda?utm_source=website&utm_medium=rainbow_bar&utm_campaign=grammarly&utm_content=announcement&utm_term=12-17-2024)
+
 [](https://coda.io/welcome)
 
 Product
@@ -95,6 +97,8 @@ How to build a team hub on Coda](https://coda.io/resources/guides/how-to-build-a
 [Gallery](https://coda.io/gallery)[Blog](https://coda.io/blog)[Pricing](https://coda.io/pricing)[Request a demo](https://coda.io/contact/sales/request-a-demo)
 
 [Get started](https://coda.io/signup?continueTo=%2Ftrust%2Ftos)
+
+[Grammarly to acquire Coda! Click here to read more about the future of AI + productivity.](https://coda.io/blog/about-coda/grammarly-acquires-coda?utm_source=website&utm_medium=rainbow_bar&utm_campaign=grammarly&utm_content=announcement&utm_term=12-17-2024)
 
 [](https://coda.io/welcome)
 
