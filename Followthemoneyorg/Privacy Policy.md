@@ -66,7 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Bail Bond Industry Political Spending, By Type, 2009-2017](/assets/Images/teasers/small/bail-bond.JPG)](https://www.followthemoney.org/research/institute-reports/bail-bond-businesses-buck-for-bookings)
+[![monsanto](/assets/logos/MonsantoStateContributions2007-2012.png)](http://www.followthemoney.org/research/institute-research/names-in-the-news-monsanto)
+
+Monsanto has taken a keen interest in ballot measures.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
