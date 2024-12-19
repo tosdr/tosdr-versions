@@ -2,10 +2,6 @@
 
 [![Daily Goodie Box](https://luxe-assets.com/dgb/images/logo.svg)](https://dailygoodiebox.com/)
 
-* [Home](https://dailygoodiebox.com/)
-* \-
-* [Today's Goodie Box](https://dailygoodiebox.com/todays-goodie-box)
-
 * [SIGN UP](https://dailygoodiebox.com/members)
 * [LOGIN](https://dailygoodiebox.com/members)
 
