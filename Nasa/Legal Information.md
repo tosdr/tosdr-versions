@@ -269,19 +269,19 @@ article 2 days ago](https://www.nasa.gov/missions/insight/nasa-mars-orbiter-spot
 
 ### Space Gardens
 
-article 3 hours ago](https://www.nasa.gov/missions/station/iss-research/space-gardens/)[![](https://images-assets.nasa.gov/image/KSC-20240130-PH-JBS01_0032/KSC-20240130-PH-JBS01_0032~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint)
+article 4 hours ago](https://www.nasa.gov/missions/station/iss-research/space-gardens/)[![](https://images-assets.nasa.gov/image/KSC-20240130-PH-JBS01_0032/KSC-20240130-PH-JBS01_0032~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint)
 
 8 min read
 
 ### NASA’s Kennedy Space Center Looks to Thrive in 2025
 
-article 4 hours ago](https://www.nasa.gov/centers-and-facilities/kennedy/nasa-kennedy-looks-to-thrive-in-2025/)[![Three lunar terrain vehicles side by side inside of a large chamber with dramatic lighting. Astrolab's lunar terrain vehicle is white with the their orange logo on the front of the rover. Intuitive Machines' lunar terrain vehicle is white with a blue stripe on the front and their logo on the top of their rover. Lunar Outpost's lunar terrain vehicle is grey with green lights.](https://www.nasa.gov/wp-content/uploads/2024/12/jsc2024e076712-alt.jpg?w=1024)
+article 5 hours ago](https://www.nasa.gov/centers-and-facilities/kennedy/nasa-kennedy-looks-to-thrive-in-2025/)[![Three lunar terrain vehicles side by side inside of a large chamber with dramatic lighting. Astrolab's lunar terrain vehicle is white with the their orange logo on the front of the rover. Intuitive Machines' lunar terrain vehicle is white with a blue stripe on the front and their logo on the top of their rover. Lunar Outpost's lunar terrain vehicle is grey with green lights.](https://www.nasa.gov/wp-content/uploads/2024/12/jsc2024e076712-alt.jpg?w=1024)
 
 4 min read
 
 ### New Commercial Artemis Moon Rovers Undergo Testing at NASA
 
-article 5 hours ago](https://www.nasa.gov/humans-in-space/new-commercial-artemis-moon-rovers-undergo-testing-at-nasa/)
+article 6 hours ago](https://www.nasa.gov/humans-in-space/new-commercial-artemis-moon-rovers-undergo-testing-at-nasa/)
 
 ### Highlights
 
@@ -291,7 +291,7 @@ article 5 hours ago](https://www.nasa.gov/humans-in-space/new-commercial-artemis
 
 ### Cutting-Edge Satellite Tracks Lake Water Levels in Ohio River Basin
 
-article 24 hours ago](https://www.nasa.gov/missions/swot/cutting-edge-satellite-tracks-lake-water-levels-in-ohio-river-basin/)[![Watersheds on the U.S. Eastern Seaboard](https://www.nasa.gov/wp-content/uploads/2024/12/1-terra-modis-04-21-23.jpg?w=1024)
+article 1 day ago](https://www.nasa.gov/missions/swot/cutting-edge-satellite-tracks-lake-water-levels-in-ohio-river-basin/)[![Watersheds on the U.S. Eastern Seaboard](https://www.nasa.gov/wp-content/uploads/2024/12/1-terra-modis-04-21-23.jpg?w=1024)
 
 5 min read
 
@@ -335,13 +335,13 @@ article 6 days ago](https://www.nasa.gov/centers-and-facilities/kennedy/nasa-ken
 
 ### NASA Finds ‘Sideways’ Black Hole Using Legacy Data, New Techniques
 
-article 3 hours ago](https://www.nasa.gov/universe/black-holes/nasa-finds-sideways-black-hole-using-legacy-data-new-techniques/)[![NASA Open Science Reveals Sounds of Space](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/universe/2023/09/crab_lg.jpeg)
+article 4 hours ago](https://www.nasa.gov/universe/black-holes/nasa-finds-sideways-black-hole-using-legacy-data-new-techniques/)[![NASA Open Science Reveals Sounds of Space](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/universe/2023/09/crab_lg.jpeg)
 
 4 min read
 
 ### NASA Open Science Reveals Sounds of Space
 
-article 4 hours ago](https://science.nasa.gov/open-science/astronomy-data-sonification/)[![Very Cold Detectors Reveal the Very Hot Universe and Kick Off a New Era in X-ray Astronomy](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/technology-highlights/2024/Kilbourne_Resolve-array_install.jpg)
+article 5 hours ago](https://science.nasa.gov/open-science/astronomy-data-sonification/)[![Very Cold Detectors Reveal the Very Hot Universe and Kick Off a New Era in X-ray Astronomy](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/technology-highlights/2024/Kilbourne_Resolve-array_install.jpg)
 
 7 min read
 
@@ -351,25 +351,25 @@ article 1 day ago](https://science.nasa.gov/science-research/science-enabling-te
 
 ### Highlights
 
-[![](https://www.nasa.gov/wp-content/uploads/2024/12/ngc5084-aligned-hst-closer-dec2024-darker-contrast-cropped.png?w=512)
+[![Amendment 84: F.6 Science Activation Program Deferred to ROSES-25.](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/2024/SCIACT_ICON_wTEXT_3-COLOR-01.png)
+
+1 min read
+
+### Amendment 84: F.6 Science Activation Program Deferred to ROSES-25.
+
+article 2 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-84-f-6-science-activation-program-deferred-to-roses-25/)[![](https://www.nasa.gov/wp-content/uploads/2024/12/ngc5084-aligned-hst-closer-dec2024-darker-contrast-cropped.png?w=512)
 
 4 min read
 
 ### NASA Finds ‘Sideways’ Black Hole Using Legacy Data, New Techniques
 
-article 3 hours ago](https://www.nasa.gov/universe/black-holes/nasa-finds-sideways-black-hole-using-legacy-data-new-techniques/)[![GeneLab for Colleges and Universities (GL4U) Patch](https://www.nasa.gov/wp-content/uploads/2024/12/gl4u-patch-final-1.jpg?w=800)
+article 4 hours ago](https://www.nasa.gov/universe/black-holes/nasa-finds-sideways-black-hole-using-legacy-data-new-techniques/)[![GeneLab for Colleges and Universities (GL4U) Patch](https://www.nasa.gov/wp-content/uploads/2024/12/gl4u-patch-final-1.jpg?w=800)
 
 2 min read
 
 ### GL4U On-Demand Courses
 
-article 24 hours ago](https://www.nasa.gov/gl4u-on-demand-courses/)[![Very Cold Detectors Reveal the Very Hot Universe and Kick Off a New Era in X-ray Astronomy](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/technology-highlights/2024/Kilbourne_Resolve-array_install.jpg)
-
-7 min read
-
-### Very Cold Detectors Reveal the Very Hot Universe and Kick Off a New Era in X-ray Astronomy
-
-article 1 day ago](https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/very-cold-detectors-reveal-the-very-hot-universe-and-kick-off-a-new-era-in-x-ray-astronomy/)
+article 1 day ago](https://www.nasa.gov/gl4u-on-demand-courses/)
 
 ### Highlights
 
