@@ -70,7 +70,7 @@ Suggested Searches
 
 ### NASA’s Webb Finds Planet-Forming Disks Lived Longer in Early Universe
 
-article2 days ago](https://science.nasa.gov/missions/webb/nasas-webb-finds-planet-forming-disks-lived-longer-in-early-universe/)[![A digital rendering of the Starlab, which includes a large habitation and laboratory module with a smaller service module for power and propulsion (Credit: Starlab).](https://www.nasa.gov/wp-content/uploads/2024/12/starlab-rendering-04.png?w=1024)
+article3 days ago](https://science.nasa.gov/missions/webb/nasas-webb-finds-planet-forming-disks-lived-longer-in-early-universe/)[![A digital rendering of the Starlab, which includes a large habitation and laboratory module with a smaller service module for power and propulsion (Credit: Starlab).](https://www.nasa.gov/wp-content/uploads/2024/12/starlab-rendering-04.png?w=1024)
 
 3 min read
 
@@ -247,19 +247,19 @@ Back
 
 ### NASA DAVINCI Mission’s Many ‘Firsts’ to Unlock Venus’ Hidden Secrets
 
-article 2 days ago](https://science.nasa.gov/missions/davinci/davincis-many-firsts-at-venus/)[![NASA’s Webb Finds Planet-Forming Disks Lived Longer in Early Universe](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2024/webb-STScI-01JC439JQCXEY252WM2K1QF6Q6-2K.jpg)
+article 3 days ago](https://science.nasa.gov/missions/davinci/davincis-many-firsts-at-venus/)[![NASA’s Webb Finds Planet-Forming Disks Lived Longer in Early Universe](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2024/webb-STScI-01JC439JQCXEY252WM2K1QF6Q6-2K.jpg)
 
 7 min read
 
 ### NASA’s Webb Finds Planet-Forming Disks Lived Longer in Early Universe
 
-article 2 days ago](https://science.nasa.gov/missions/webb/nasas-webb-finds-planet-forming-disks-lived-longer-in-early-universe/)[![NASA’s retired InSight Mars lander was captured by the agency’s Mars Reconnaissance Orbiter](https://www.nasa.gov/wp-content/uploads/2024/12/pia26515-hirise-crop.jpg?w=1024)
+article 3 days ago](https://science.nasa.gov/missions/webb/nasas-webb-finds-planet-forming-disks-lived-longer-in-early-universe/)[![NASA’s retired InSight Mars lander was captured by the agency’s Mars Reconnaissance Orbiter](https://www.nasa.gov/wp-content/uploads/2024/12/pia26515-hirise-crop.jpg?w=1024)
 
 5 min read
 
 ### NASA Mars Orbiter Spots Retired InSight Lander to Study Dust Movement
 
-article 2 days ago](https://www.nasa.gov/missions/insight/nasa-mars-orbiter-spots-retired-insight-lander-to-study-dust-movement/)
+article 3 days ago](https://www.nasa.gov/missions/insight/nasa-mars-orbiter-spots-retired-insight-lander-to-study-dust-movement/)
 
 ### Highlights
 
@@ -269,19 +269,19 @@ article 2 days ago](https://www.nasa.gov/missions/insight/nasa-mars-orbiter-spot
 
 ### Space Gardens
 
-article 4 hours ago](https://www.nasa.gov/missions/station/iss-research/space-gardens/)[![](https://images-assets.nasa.gov/image/KSC-20240130-PH-JBS01_0032/KSC-20240130-PH-JBS01_0032~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint)
+article 15 hours ago](https://www.nasa.gov/missions/station/iss-research/space-gardens/)[![](https://images-assets.nasa.gov/image/KSC-20240130-PH-JBS01_0032/KSC-20240130-PH-JBS01_0032~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint)
 
 8 min read
 
 ### NASA’s Kennedy Space Center Looks to Thrive in 2025
 
-article 5 hours ago](https://www.nasa.gov/centers-and-facilities/kennedy/nasa-kennedy-looks-to-thrive-in-2025/)[![Three lunar terrain vehicles side by side inside of a large chamber with dramatic lighting. Astrolab's lunar terrain vehicle is white with the their orange logo on the front of the rover. Intuitive Machines' lunar terrain vehicle is white with a blue stripe on the front and their logo on the top of their rover. Lunar Outpost's lunar terrain vehicle is grey with green lights.](https://www.nasa.gov/wp-content/uploads/2024/12/jsc2024e076712-alt.jpg?w=1024)
+article 16 hours ago](https://www.nasa.gov/centers-and-facilities/kennedy/nasa-kennedy-looks-to-thrive-in-2025/)[![Three lunar terrain vehicles side by side inside of a large chamber with dramatic lighting. Astrolab's lunar terrain vehicle is white with the their orange logo on the front of the rover. Intuitive Machines' lunar terrain vehicle is white with a blue stripe on the front and their logo on the top of their rover. Lunar Outpost's lunar terrain vehicle is grey with green lights.](https://www.nasa.gov/wp-content/uploads/2024/12/jsc2024e076712-alt.jpg?w=1024)
 
 4 min read
 
 ### New Commercial Artemis Moon Rovers Undergo Testing at NASA
 
-article 6 hours ago](https://www.nasa.gov/humans-in-space/new-commercial-artemis-moon-rovers-undergo-testing-at-nasa/)
+article 17 hours ago](https://www.nasa.gov/humans-in-space/new-commercial-artemis-moon-rovers-undergo-testing-at-nasa/)
 
 ### Highlights
 
@@ -313,19 +313,19 @@ article 1 week ago](https://science.nasa.gov/earth/water-on-earth/nasa-study-cro
 
 ### NASA Mars Orbiter Spots Retired InSight Lander to Study Dust Movement
 
-article 2 days ago](https://www.nasa.gov/missions/insight/nasa-mars-orbiter-spots-retired-insight-lander-to-study-dust-movement/)[![NASA DAVINCI Mission’s Many ‘Firsts’ to Unlock Venus’ Hidden Secrets](https://science.nasa.gov/wp-content/uploads/2023/06/davinci-probe-on-surface-1280x900-1.jpg)
+article 3 days ago](https://www.nasa.gov/missions/insight/nasa-mars-orbiter-spots-retired-insight-lander-to-study-dust-movement/)[![NASA DAVINCI Mission’s Many ‘Firsts’ to Unlock Venus’ Hidden Secrets](https://science.nasa.gov/wp-content/uploads/2023/06/davinci-probe-on-surface-1280x900-1.jpg)
 
 5 min read
 
 ### NASA DAVINCI Mission’s Many ‘Firsts’ to Unlock Venus’ Hidden Secrets
 
-article 2 days ago](https://science.nasa.gov/missions/davinci/davincis-many-firsts-at-venus/)[![](https://www.nasa.gov/wp-content/uploads/2024/12/nasas-europa-clipper-mission.jpg?w=1024)
+article 3 days ago](https://science.nasa.gov/missions/davinci/davincis-many-firsts-at-venus/)[![](https://www.nasa.gov/wp-content/uploads/2024/12/nasas-europa-clipper-mission.jpg?w=1024)
 
 7 min read
 
 ### NASA Kennedy Top 24 Stories of 2024
 
-article 6 days ago](https://www.nasa.gov/centers-and-facilities/kennedy/nasa-kennedy-top-24-stories-of-2024/)
+article 7 days ago](https://www.nasa.gov/centers-and-facilities/kennedy/nasa-kennedy-top-24-stories-of-2024/)
 
 ### Featured
 
@@ -335,41 +335,41 @@ article 6 days ago](https://www.nasa.gov/centers-and-facilities/kennedy/nasa-ken
 
 ### NASA Finds ‘Sideways’ Black Hole Using Legacy Data, New Techniques
 
-article 4 hours ago](https://www.nasa.gov/universe/black-holes/nasa-finds-sideways-black-hole-using-legacy-data-new-techniques/)[![NASA Open Science Reveals Sounds of Space](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/universe/2023/09/crab_lg.jpeg)
+article 15 hours ago](https://www.nasa.gov/universe/black-holes/nasa-finds-sideways-black-hole-using-legacy-data-new-techniques/)[![NASA Open Science Reveals Sounds of Space](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/universe/2023/09/crab_lg.jpeg)
 
 4 min read
 
 ### NASA Open Science Reveals Sounds of Space
 
-article 5 hours ago](https://science.nasa.gov/open-science/astronomy-data-sonification/)[![Very Cold Detectors Reveal the Very Hot Universe and Kick Off a New Era in X-ray Astronomy](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/technology-highlights/2024/Kilbourne_Resolve-array_install.jpg)
+article 16 hours ago](https://science.nasa.gov/open-science/astronomy-data-sonification/)[![Very Cold Detectors Reveal the Very Hot Universe and Kick Off a New Era in X-ray Astronomy](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/technology-highlights/2024/Kilbourne_Resolve-array_install.jpg)
 
 7 min read
 
 ### Very Cold Detectors Reveal the Very Hot Universe and Kick Off a New Era in X-ray Astronomy
 
-article 1 day ago](https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/very-cold-detectors-reveal-the-very-hot-universe-and-kick-off-a-new-era-in-x-ray-astronomy/)
+article 2 days ago](https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/very-cold-detectors-reveal-the-very-hot-universe-and-kick-off-a-new-era-in-x-ray-astronomy/)
 
 ### Highlights
 
-[![Amendment 84: F.6 Science Activation Program Deferred to ROSES-25.](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/2024/SCIACT_ICON_wTEXT_3-COLOR-01.png)
+[![CP-21 Science](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/lunar-science/lunar-landers/Firefly%20Blue%20Ghost%20Mission%203%20-%20Rendering.jpg)
+
+5 min read
+
+### CP-21 Science
+
+article 11 hours ago](https://science.nasa.gov/lunar-science/clps-deliveries/cp-21/)[![Amendment 84: F.6 Science Activation Program Deferred to ROSES-25.](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/2024/SCIACT_ICON_wTEXT_3-COLOR-01.png)
 
 1 min read
 
 ### Amendment 84: F.6 Science Activation Program Deferred to ROSES-25.
 
-article 2 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-84-f-6-science-activation-program-deferred-to-roses-25/)[![](https://www.nasa.gov/wp-content/uploads/2024/12/ngc5084-aligned-hst-closer-dec2024-darker-contrast-cropped.png?w=512)
+article 13 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-84-f-6-science-activation-program-deferred-to-roses-25/)[![](https://www.nasa.gov/wp-content/uploads/2024/12/ngc5084-aligned-hst-closer-dec2024-darker-contrast-cropped.png?w=512)
 
 4 min read
 
 ### NASA Finds ‘Sideways’ Black Hole Using Legacy Data, New Techniques
 
-article 4 hours ago](https://www.nasa.gov/universe/black-holes/nasa-finds-sideways-black-hole-using-legacy-data-new-techniques/)[![GeneLab for Colleges and Universities (GL4U) Patch](https://www.nasa.gov/wp-content/uploads/2024/12/gl4u-patch-final-1.jpg?w=800)
-
-2 min read
-
-### GL4U On-Demand Courses
-
-article 1 day ago](https://www.nasa.gov/gl4u-on-demand-courses/)
+article 15 hours ago](https://www.nasa.gov/universe/black-holes/nasa-finds-sideways-black-hole-using-legacy-data-new-techniques/)
 
 ### Highlights
 
@@ -385,7 +385,7 @@ article 5 days ago](https://www.nasa.gov/hiact/)[![A man wearing a blue hard hat
 
 ### Dynamic Spin Rig
 
-article 6 days ago](https://www.nasa.gov/dynamic-spin-rig/)[![An atmospheric probe model carried by a quad rotor aircraft rises and the Moon is visible.](https://images-assets.nasa.gov/image/AFRC2024-0166-032/AFRC2024-0166-032~large.jpg?w=1919&h=1281&fit=clip&crop=faces%2Cfocalpoint)
+article 7 days ago](https://www.nasa.gov/dynamic-spin-rig/)[![An atmospheric probe model carried by a quad rotor aircraft rises and the Moon is visible.](https://images-assets.nasa.gov/image/AFRC2024-0166-032/AFRC2024-0166-032~large.jpg?w=1919&h=1281&fit=clip&crop=faces%2Cfocalpoint)
 
 3 min read
 
@@ -401,13 +401,13 @@ article 1 week ago](https://www.nasa.gov/centers-and-facilities/armstrong/atmosp
 
 ### NASA Mars Orbiter Spots Retired InSight Lander to Study Dust Movement
 
-article 2 days ago](https://www.nasa.gov/missions/insight/nasa-mars-orbiter-spots-retired-insight-lander-to-study-dust-movement/)[![Animation showing air moving through a disc brake.](https://www.nasa.gov/wp-content/uploads/2024/12/orbis-2.gif?w=960)
+article 3 days ago](https://www.nasa.gov/missions/insight/nasa-mars-orbiter-spots-retired-insight-lander-to-study-dust-movement/)[![Animation showing air moving through a disc brake.](https://www.nasa.gov/wp-content/uploads/2024/12/orbis-2.gif?w=960)
 
 3 min read
 
 ### NASA Gives The World a Brake
 
-article 6 days ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-gives-the-world-a-brake/)[![Researchers Al Capps (seated) and Paul Borchers demonstrate Airspace Technology Demonstration 2 (ATD-2) tools that air traffic managers began testing in 2017.](https://www.nasa.gov/wp-content/uploads/2021/09/dsc_0007.jpg?w=1024)
+article 7 days ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-gives-the-world-a-brake/)[![Researchers Al Capps (seated) and Paul Borchers demonstrate Airspace Technology Demonstration 2 (ATD-2) tools that air traffic managers began testing in 2017.](https://www.nasa.gov/wp-content/uploads/2021/09/dsc_0007.jpg?w=1024)
 
 3 min read
 
@@ -433,7 +433,7 @@ article 1 week ago](https://www.nasa.gov/learning-resources/moon-tree-progress-s
 
 ### Transforming Space Exploration: NASA and Northrop Grumman’s Digital Engineering Collaboration
 
-article 1 day ago](https://www.nasa.gov/organizations/ocio/dt/nasa-northrupgrumman-digitalengineering/)[![A black drone with an orange top in flight in Nevada.](https://www.nasa.gov/wp-content/uploads/2024/12/drone-test.jpg?w=1024)
+article 2 days ago](https://www.nasa.gov/organizations/ocio/dt/nasa-northrupgrumman-digitalengineering/)[![A black drone with an orange top in flight in Nevada.](https://www.nasa.gov/wp-content/uploads/2024/12/drone-test.jpg?w=1024)
 
 3 min read
 
