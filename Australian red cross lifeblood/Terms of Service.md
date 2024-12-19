@@ -105,6 +105,8 @@ Login Register
         * [Making blood components](https://www.lifeblood.com.au/blood/learn-about-blood/making-blood-components "Behind the scenes in our processing centres, we take your donation and turn it into treatments.")
             
         
+    * [View all about blood](https://www.lifeblood.com.au/blood "View all about blood")
+        
     
 * [Milk](https://www.lifeblood.com.au/milk "With thousands of babies born early every year, see how donated breast milk can help.")
     
