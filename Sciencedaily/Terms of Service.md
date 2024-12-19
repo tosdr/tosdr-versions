@@ -253,7 +253,7 @@ this week
 
 [Patient Education and Counseling](https://www.sciencedaily.com/news/health_medicine/patient_education_and_counseling/)
 
-[Depression](https://www.sciencedaily.com/news/mind_brain/depression/)
+[Prostate Cancer](https://www.sciencedaily.com/news/health_medicine/prostate_cancer/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
@@ -261,7 +261,7 @@ this week
 
 [Detectors](https://www.sciencedaily.com/news/matter_energy/detectors/)
 
-[Space Missions](https://www.sciencedaily.com/news/space_time/space_missions/)
+[Nature of Water](https://www.sciencedaily.com/news/matter_energy/nature_of_water/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
