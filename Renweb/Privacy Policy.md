@@ -87,7 +87,7 @@
     * [Customer Stories](https://factsmgt.com/customer-stories/)
     * [Events](https://factsmgt.com/events/)
     * [Elevate](https://factsmgt.com/elevate/)
-    * [Elevate ANZ](https://factsmgt.com/au/elevate/)
+    * [Elevate](https://factsmgt.com/au/elevate/)
     * [Blog](https://factsmgt.com/blog/)
 * Company
     * [About Us](https://factsmgt.com/about-us/)
