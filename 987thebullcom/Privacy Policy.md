@@ -349,11 +349,11 @@ Recently Played
 
 |     |
 | --- |
-| Think I'M In Love With YouChris Stapleton<br><br>4:39pm |
-| Wind Up Missing YouTucker Wetmore<br><br>4:35pm |
-| Buy DirtJordan Davis Ft Luke Bryan<br><br>4:32pm |
-| ReligiouslyBailey Zimmerman<br><br>4:29pm |
-| Am I OkMegan Moroney<br><br>4:25pm |
+| I Remember EverythingZach Bryan Ft Kacey Musgraves<br><br>10:40pm |
+| I Got A GuyPost Malone Ft Luke Combs<br><br>10:37pm |
+| I Never LieZach Top<br><br>10:25pm |
+| Something Bout A WomanThomas Rhett Ft Teddy Swims<br><br>10:22pm |
+| You Make It EasyJason Aldean<br><br>10:19pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -497,21 +497,21 @@ State
 Featured Brands
 ---------------
 
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
-Country • Western
+News Talk • Eastern
 
 [![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
 Top 40 • Pacific NW
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
-
-Country • Western
-
 [![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
 Top 40 • Eastern
+
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+
+Country • Western
 
 [](https://www.alphamediausa.com/)
 
