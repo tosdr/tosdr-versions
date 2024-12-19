@@ -349,11 +349,11 @@ Recently Played
 
 |     |
 | --- |
-| May We AllFlorida Georgia Line Ft Tim Mcgraw<br><br>10:40am |
-| The Kind Of Love We MakeLuke Combs<br><br>10:36am |
-| You Look Like You Love MeElla Langley Ft Riley Green<br><br>10:33am |
-| Santa Looked A Lot Like DaddyBrad Paisley<br><br>10:29am |
-| I Remember EverythingZach Bryan Ft Kacey Musgraves<br><br>10:25am |
+| Think I'M In Love With YouChris Stapleton<br><br>4:39pm |
+| Wind Up Missing YouTucker Wetmore<br><br>4:35pm |
+| Buy DirtJordan Davis Ft Luke Bryan<br><br>4:32pm |
+| ReligiouslyBailey Zimmerman<br><br>4:29pm |
+| Am I OkMegan Moroney<br><br>4:25pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -497,21 +497,21 @@ State
 Featured Brands
 ---------------
 
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+
+Country • Western
+
 [![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
 Top 40 • Pacific NW
 
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
-
-Sports • Midwest
-
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
-
-Spanish • Western
-
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
+
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+
+Top 40 • Eastern
 
 [](https://www.alphamediausa.com/)
 
