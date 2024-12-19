@@ -77,7 +77,7 @@ _Here you can find which cookies exactly are used for what purpose._
 | **Hotjar** | Performance | **Used on the Website and in Veriff Station.**<br><br>The cookie allows us to gain a better understanding of how visitors interact with the Website and identify issues that visitors run into when browsing the Website. This is essentially necessary to be able to identify whether the Website or Service design is functioning or has run into any errors. | Up to 1 year | Hotjar |
 | **Hubspot** | Advertisement | **Used in Veriff Station.**<br><br>The cookie helps Veriff to gain a better understanding of how the users interact with our Services, including during the on-boarding process. | Up to 6 months | Hubspot |
 | **Google Tag Manager** | Performance | **Used on the Website and in Veriff Station.**<br><br>Google Tag Manager (GTM) is an online tool that helps us to set up cookies. It is used to manage tags that can set up cookies such as Google Analytics or Google Ads. Relevant tags will be triggered based on the scope of the visitor’s consent and/or opt-out choices.<br><br>[Learn more](https://business.safety.google/privacy/) about how Google processes personal information in relation to using Google’s cookies. | About 1 minute but the retention may vary. | Google |
-| **LinkedIn Insight** | Advertisement | **Used on the Website.**<br><br>The cookie allows us to track conversions, retarget Website visitors, and unlock additional insights about members interacting with our ads. | Up to 2 years | LinkedIn |
+| **LinkedIn Insight** | Advertisement | **Used on the Website and in Veriff Station.**<br><br>The cookie allows us to track conversions, retarget Website visitors, and unlock additional insights about members interacting with our ads. | Up to 2 years | LinkedIn |
 | **Microsoft Ads** | Advertisement | **Used on the Website.**<br><br>The cookie enables online conversion tracking, re-marketing, product audience engagement, automated bidding, and improves ad, broad match, and syndication performance. | Up to 180 days | Microsoft |
 | **Google Ads** | Advertisement | **Used on the Website and in Veriff Station.**<br><br>This is an online advertising solution that we use to promote our Services on Google Search, YouTube, and other sites across the web.<br><br>[Learn more](https://business.safety.google/privacy/) about how Google processes personal information in relation to using Google’s cookies. | Up to 13 months | Google |
 | **Leadfeeder** | Advertisement | **Used on the Website.**<br><br>This cookie shows companies visiting the Website, how companies found the Website and what they’re interested in. | Up to 2 years | Leadfeeder |
@@ -116,7 +116,7 @@ _Here you can find information about changes made to the Cookie Notice._
 5.2 Kindly note that we may modify the Cookie Notice from time to time. You are advised to review our Cookie Notice periodically. The modified Notice will be uploaded to our Website.
 
 * _Valid from: June 3, 2020_
-* _Last update: October 16, 2024_
+* _Last update: December 19, 2024_
 
 ![Veriff logo](https://veriff.cdn.prismic.io/veriff/df61698d-814b-4926-93be-08c7fce84c72_logo.svg?auto=compress,format)
 
