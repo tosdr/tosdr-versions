@@ -148,10 +148,6 @@ HuntAndJump.com Rules
 
 ![](/images/coloricons/News-Alerts-2.png)News & Alerts
 
-12/18/2024 8:41 AM EST
-
-Looks like this update broke a bunch of buttons on the horse page. We will get this fixed asap. We expect a few hours.
-
 12/18/2024 5:46 AM EST
 
 ![](https://i.imgur.com/8ZNckE8.png)
@@ -177,6 +173,10 @@ Vesela Koleda!
 
 The East Bulgarian Warmblood has trotted into the game.  
 ![](https://i.imgur.com/TXNRa0l.png)
+
+12/2/2024 7:04 AM EST
+
+### The updated image generation is now live, and opening the page of any horse will force update its image to the new generation.
 
 ![](/images/coloricons/Gold-Star-2.png)Bonus Stall Progress
 
