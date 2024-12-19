@@ -107,65 +107,69 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Turbonorm](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1620552-1725868199.jpg)](https://lyricstranslate.com/en/translator/turbonorm "Turbonorm")
+[![Kepi](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1347365-1504172588.jpg)](https://lyricstranslate.com/en/translator/kepi "Kepi")
+
+New translation
+
+[Chris Andrews - Pretty Belinda](https://lyricstranslate.com/en/chris-andrews-pretty-belinda-hungarian)
+
+English → Hungarian
+
+[![Kapix 320](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1491093-1651679873.jpg)](https://lyricstranslate.com/en/translator/kapix-320 "Kapix 320")
 
 New song
 
-[Kassav' - Aiyé](https://lyricstranslate.com/en/kassav-aiye-lyrics)
+[Lyosha Stelit - Монро](https://lyricstranslate.com/en/lyosha-stelit-monro-lyrics)
 
-French (Antillean Creole)
+Russian
 
-[![Doni31](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/doni31 "Doni31")
-
-New translation
-
-[SZA - Ghost in the Machine](https://lyricstranslate.com/en/sza-ghost-machine-hebrew)
-
-English → Hebrew
-
-[![JakeNorthernlynx](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1554999-1712408999.jpg)](https://lyricstranslate.com/en/translator/jakenorthernlynx "JakeNorthernlynx")
+[![alain.chevalier](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1365868-1582813007.jpg)](https://lyricstranslate.com/en/translator/alainchevalier "alain.chevalier")
 
 New translation
 
-[Kaija Koo - Rakkaus On Voimaa](https://lyricstranslate.com/en/kaija-koo-rakkaus-voimaa-english)
+[Nino de Angelo - Willst du mit mir gehn](https://lyricstranslate.com/en/nino-de-angelo-willst-du-mit-mir-gehn-french)
 
-Finnish → English
+German → French
 
-[![PaxThrax](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/paxthrax "PaxThrax")
-
-New translation
-
-[Andrea (Bulgaria) - Лоша (Losha)](https://lyricstranslate.com/en/andrea-bulgaria-losha-english)
-
-Bulgarian → English
-
-[![Pufflez](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1624906-1730197410.jpg)](https://lyricstranslate.com/en/translator/pufflez "Pufflez")
+[![SiHo_92](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1367737-1664576535.jpg)](https://lyricstranslate.com/en/translator/siho92 "SiHo_92")
 
 New translation
 
-[Gummibär - Choco Choco Choco](https://lyricstranslate.com/en/gummibar-choco-choco-choco-arabic)
+[Wolfgang Borchert - Der Mond lügt](https://lyricstranslate.com/en/wolfgang-borchert-der-mond-lugt-english)
 
-English → Arabic
+German → English
 
-[![fatix](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1590177-1721597011.png)](https://lyricstranslate.com/en/translator/fatix "fatix")
-
-New comment
-
-graag gedaan taeyang👍  [more](https://lyricstranslate.com/en/comment/1181791#comment-1181791)
-
-[![fatix](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1590177-1721597011.png)](https://lyricstranslate.com/en/translator/fatix "fatix")
-
-New comment
-
-almost done, i have to do a final proofreading ...  [more](https://lyricstranslate.com/en/comment/1181790#comment-1181790)
-
-[![wuhuahua089](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1176962-1730035239.png)](https://lyricstranslate.com/en/translator/wuhuahua089 "wuhuahua089")
+[![ReemaRose97](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1519062-1694659650.jpg)](https://lyricstranslate.com/en/translator/reemarose97 "ReemaRose97")
 
 New translation
 
-[Tai Oratai - มื้อใด๋สิคิดฮอด (mue dai si khit hot)](https://lyricstranslate.com/en/tai-oratai-mue-dai-si-khit-hot-chinese)
+[Warda Al-Jazairia - حرمت احبك (7aramt A7ebak)](https://lyricstranslate.com/en/7aramt-a7ebak-dygh-dwst-ndrm.html)
 
-Lao (other varieties) → Chinese
+Arabic → Persian
+
+[![Salve a Selva](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1198192-1665650219.png)](https://lyricstranslate.com/en/translator/salve-selva "Salve a Selva")
+
+New song
+
+[Richard Anthony - Elle m'attend ce soir](https://lyricstranslate.com/en/richard-anthony-elle-mattend-ce-soir-lyrics)
+
+French
+
+[![ema jane](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1601710-1733832239.jpg)](https://lyricstranslate.com/en/translator/ema-rae "ema jane")
+
+New translation
+
+[Taylor Swift - Exile](https://lyricstranslate.com/en/taylor-swift-exile-turkish)
+
+English → Turkish
+
+[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1734399817.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
+
+New translation
+
+[Paki Andriola - Prima e dopo di te](https://lyricstranslate.com/en/paki-andriola-prima-e-dopo-di-te-spanish)
+
+Italian → Spanish
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
