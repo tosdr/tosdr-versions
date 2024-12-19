@@ -53,7 +53,7 @@ Learn More
 Roommates.com Terms of Service
 ==============================
 
-![](/images/group-images@2x-c7b3294deef6a7be1b30395dd933d3d8.png?vsn=d) 10938+ active this month
+![](/images/group-images@2x-c7b3294deef6a7be1b30395dd933d3d8.png?vsn=d) 11005+ active this month
 
 Roommates.com is the smart, simple, safe way to bring  
 roommates together. [Sign up for free today!](https://my.roommates.com/users/sign_up)
