@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Phone
+Name
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Detecting physical abuse in dementia patients](https://www.pintas.com/wp-content/uploads/2021/03/practice-areas-personal-injury-assisted-living-accident-lawyer-what-are-some-signs-of-physical-abuse-of-seniors-with-dementia-at-memory-care-facilities-300x200.jpg "Detecting Physical Abuse in Dementia Patients")](https://www.pintas.com/faq/what-are-some-signs-of-physical-abuse-of-seniors-with-dementia-at-memory-care-facilities/ "Detecting Physical Abuse in Dementia Patients")
+[![How can i recover damages for mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-how-can-i-recover-damages-for-mesothelioma.jpg "How Can I Recover Damages for Mesothelioma?")](https://www.pintas.com/lung-cancer/how-can-i-recover-damages-for-mesothelioma/ "How Can I Recover Damages for Mesothelioma?")
 
-[#### Detecting Physical Abuse in Dementia Patients](https://www.pintas.com/faq/what-are-some-signs-of-physical-abuse-of-seniors-with-dementia-at-memory-care-facilities/)
+[#### How Can I Recover Damages for Mesothelioma?](https://www.pintas.com/lung-cancer/how-can-i-recover-damages-for-mesothelioma/)
 
-[![How long does a mesothelioma case take?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-how-long-does-a-mesothelioma-case-take-scaled.jpg "How Long Does A Mesothelioma Case Take?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-long-does-a-mesothelioma-case-take/ "How Long Does A Mesothelioma Case Take?")
+[![How long can lung cancer go untreated?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-how-long-can-lung-cancer-go-untreated.jpg "How Long Can Lung Cancer Go Untreated?")](https://www.pintas.com/practice-areas/lung-cancer/how-long-can-cancer-go-untreated "How Long Can Lung Cancer Go Untreated?")
 
-[#### How Long Does A Mesothelioma Case Take?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-long-does-a-mesothelioma-case-take/)
+[#### How Long Can Lung Cancer Go Untreated?](https://www.pintas.com/practice-areas/lung-cancer/how-long-can-cancer-go-untreated)
 
-[![What is a lesion on the lung?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-lawsuit-lawyer-what-is-a-lesion-on-the-lung.jpg "What Is a Lesion on the Lung?")](https://www.pintas.com/practice-areas/lung-cancer/what-is-a-lesion-on-the-lung/ "What Is a Lesion on the Lung?")
+[![How often are seniors in nursing homes under-monitored?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-how-often-are-seniors-in-nursing-homes-under-monitored.jpg "How Often Are Seniors in Nursing Homes Under-Monitored?")](https://www.pintas.com/faq/how-often-are-seniors-in-nursing-homes-under-monitored/ "How Often Are Seniors in Nursing Homes Under-Monitored?")
 
-[#### What Is a Lesion on the Lung?](https://www.pintas.com/practice-areas/lung-cancer/what-is-a-lesion-on-the-lung/)
+[#### How Often Are Seniors in Nursing Homes Under-Monitored?](https://www.pintas.com/faq/how-often-are-seniors-in-nursing-homes-under-monitored/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Phone
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
