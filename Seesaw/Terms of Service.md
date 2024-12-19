@@ -11,9 +11,7 @@
 * [Request a Demo](https://page.seesaw.me/request-quote.html?utm_source=webnav&utm_medium=request-info-button)
 * [Log In](https://app.seesaw.me/#/login)
 
-[![Seesaw | Elementary Learning Experience Platform](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201208%20303'%3E%3C/svg%3E "Seesaw | Elementary Learning Experience Platform")
-
-![Seesaw | Elementary Learning Experience Platform](https://seesaw.com/wp-content/uploads/2024/01/seesaw-logo.svg "Seesaw | Elementary Learning Experience Platform")](https://seesaw.com/)
+[![Seesaw | Elementary Learning Experience Platform](https://seesaw.com/wp-content/uploads/2024/01/seesaw-logo.svg "Seesaw | Elementary Learning Experience Platform")](https://seesaw.com/)
 
 * [Product](#)
     * ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20590%20379'%3E%3C/svg%3E)
@@ -88,9 +86,7 @@
     * [Administrator](https://web.seesaw.me/contact-us/#admins)
     * [Families](https://web.seesaw.me/contact-us/#parents)
 
-[![Seesaw | Elementary Learning Experience Platform](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201208%20303'%3E%3C/svg%3E "Seesaw | Elementary Learning Experience Platform")
-
-![Seesaw | Elementary Learning Experience Platform](https://seesaw.com/wp-content/uploads/2024/01/seesaw-logo.svg "Seesaw | Elementary Learning Experience Platform")](https://seesaw.com/)
+[![Seesaw | Elementary Learning Experience Platform](https://seesaw.com/wp-content/uploads/2024/01/seesaw-logo.svg "Seesaw | Elementary Learning Experience Platform")](https://seesaw.com/)
 
 * [Product](#)
     * [Why Seesaw?](#)
