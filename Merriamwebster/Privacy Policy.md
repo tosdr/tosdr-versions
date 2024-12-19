@@ -388,9 +388,9 @@ If you have questions about Merriam-Webster or its products, visit our [Contact 
 
 #### [Word of the Day](https://www.merriam-webster.com/word-of-the-day)
 
-#### [qualm](https://www.merriam-webster.com/word-of-the-day)
+#### [requite](https://www.merriam-webster.com/word-of-the-day)
 
-[![Listen to the pronunciation of qualm](/dist-cross-dungarees/2024-12-18--20-23-12-b75bdj/images/svg/audio.svg)](javascript:void(0) "Listen to the pronunciation of qualm")
+[![Listen to the pronunciation of requite](/dist-cross-dungarees/2024-12-18--20-23-12-b75bdj/images/svg/audio.svg)](javascript:void(0) "Listen to the pronunciation of requite")
 
 [See Definitions and Examples](https://www.merriam-webster.com/word-of-the-day) »
 
