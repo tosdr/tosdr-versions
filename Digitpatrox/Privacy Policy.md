@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Wednesday, December 18 2024
+Thursday, December 19 2024
 
 Latest
 
-* [That new Copilot key on your keyboard? It’s useless for business – Computerworld](https://digitpatrox.com/that-new-copilot-key-on-your-keyboard-its-useless-for-business-computerworld/)
-* [Is the Treadmill or Your Watch More Accurate on How Far You’ve Run?](https://digitpatrox.com/is-the-treadmill-or-your-watch-more-accurate-on-how-far-youve-run/)
-* [Ransomware gang says it’s responsible for data breach at Pennsylvania food producer](https://digitpatrox.com/ransomware-gang-says-its-responsible-for-data-breach-at-pennsylvania-food-producer/)
-* [How to change compose and reply settings in Outlook app for Windows 11, 10](https://digitpatrox.com/how-to-change-compose-and-reply-settings-in-outlook-app-for-windows-11-10/)
-* [Flying With a Baby: What to Pack in Your Carry-On](https://digitpatrox.com/flying-with-a-baby-what-to-pack-in-your-carry-on/)
-* [Why and How I Turned Off Apple Intelligence Notification Summaries on iPhone and Mac](https://digitpatrox.com/why-and-how-i-turned-off-apple-intelligence-notification-summaries-on-iphone-and-mac/)
-* [LastPass breach comes back to haunt users as hackers steal $12 million in cryptocurrency](https://digitpatrox.com/lastpass-breach-comes-back-to-haunt-users-as-hackers-steal-12-million-in-cryptocurrency/)
-* [Australia Unveils National AI Plan to Boost Investment and Capabilities](https://digitpatrox.com/australia-unveils-national-ai-plan-to-boost-investment-and-capabilities/)
-* [Cynthia Erivo got just three hours sleep a night filming ‘Wicked’ — here’s how to manage your sleep during a busy period](https://digitpatrox.com/cynthia-erivo-got-just-three-hours-sleep-a-night-filming-wicked-heres-how-to-manage-your-sleep-during-a-busy-period/)
-* [Recorded Future CEO applauds “undesirable” designation by Russia](https://digitpatrox.com/recorded-future-ceo-applauds-undesirable-designation-by-russia/)
+* [How to watch Gavin and Stacy Christmas Special 2024 online](https://digitpatrox.com/how-to-watch-gavin-and-stacy-christmas-special-2024-online/)
+* [Machine identity attacks will be top of mind for security leaders in 2025](https://digitpatrox.com/machine-identity-attacks-will-be-top-of-mind-for-security-leaders-in-2025/)
+* [Slack adds Agentforce ‘hub’ for AI agents – Computerworld](https://digitpatrox.com/slack-adds-agentforce-hub-for-ai-agents-computerworld/)
+* [TikTok Influencers Are Wrong About Hackers Stealing Credit Card Information Over AirDrop](https://digitpatrox.com/tiktok-influencers-are-wrong-about-hackers-stealing-credit-card-information-over-airdrop/)
+* [How to watch Squid Game Season 2 online from anywhere](https://digitpatrox.com/how-to-watch-squid-game-season-2-online-from-anywhere/)
+* [Talking Cars 461: Driving the Chevrolet Equinox EV](https://digitpatrox.com/talking-cars-461-driving-the-chevrolet-equinox-ev/)
+* [The TimeCapsule Makes AirTags Last Up to 10 Years](https://digitpatrox.com/the-timecapsule-makes-airtags-last-up-to-10-years/)
+* [Arcserve UDP 10 review | ITPro](https://digitpatrox.com/arcserve-udp-10-review-itpro/)
+* [NVIDIA Releases New Mini Developer Kit for Generative AI](https://digitpatrox.com/nvidia-releases-new-mini-developer-kit-for-generative-ai/)
+* [You can now call 1-800-ChatGPT — here’s everything to know](https://digitpatrox.com/you-can-now-call-1-800-chatgpt-heres-everything-to-know/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3627584-0-60812500-1734547158-1-copilot-key-100955022-orig.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/that-new-copilot-key-on-your-keyboard-its-useless-for-business-computerworld/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/How-to-watch-Gavin-and-Stacy-Christmas-Special-2024-online.jpg)](https://digitpatrox.com/how-to-watch-gavin-and-stacy-christmas-special-2024-online/)
     
-    [That new Copilot key on your keyboard? It’s useless for business – Computerworld](https://digitpatrox.com/that-new-copilot-key-on-your-keyboard-its-useless-for-business-computerworld/)
+    [How to watch Gavin and Stacy Christmas Special 2024 online](https://digitpatrox.com/how-to-watch-gavin-and-stacy-christmas-special-2024-online/)
     
-    9 minutes ago
+    15 minutes ago
     
-* [![](https://lifehacker.com/imagery/articles/01JFDBEY6KYAR6225Q0XFHY06A/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/is-the-treadmill-or-your-watch-more-accurate-on-how-far-youve-run/)
+* [![](https://cdn.mos.cms.futurecdn.net/44czLjHXb9wstRuFkRhVxK-1200-80.jpg)](https://digitpatrox.com/machine-identity-attacks-will-be-top-of-mind-for-security-leaders-in-2025/)
     
-    [Is the Treadmill or Your Watch More Accurate on How Far You’ve Run?](https://digitpatrox.com/is-the-treadmill-or-your-watch-more-accurate-on-how-far-youve-run/)
-    
-    37 minutes ago
-    
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/12/Ransomware-gang-says-it-hacked-Pennsylvania-food-producer.jpg)](https://digitpatrox.com/ransomware-gang-says-its-responsible-for-data-breach-at-pennsylvania-food-producer/)
-    
-    [Ransomware gang says it’s responsible for data breach at Pennsylvania food producer](https://digitpatrox.com/ransomware-gang-says-its-responsible-for-data-breach-at-pennsylvania-food-producer/)
-    
-    43 minutes ago
-    
-* [![](https://pureinfotech.com/wp-content/uploads/2024/12/outlook-compose-reply-hero-mauro-huculak.webp)](https://digitpatrox.com/how-to-change-compose-and-reply-settings-in-outlook-app-for-windows-11-10/)
-    
-    [How to change compose and reply settings in Outlook app for Windows 11, 10](https://digitpatrox.com/how-to-change-compose-and-reply-settings-in-outlook-app-for-windows-11-10/)
+    [Machine identity attacks will be top of mind for security leaders in 2025](https://digitpatrox.com/machine-identity-attacks-will-be-top-of-mind-for-security-leaders-in-2025/)
     
     44 minutes ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1734454609/prod/content/dam/CRO-Images-2024/Babies/CR-Babies-InlineHero-What-to-Pack-Carry-on-Babies-1224)](https://digitpatrox.com/flying-with-a-baby-what-to-pack-in-your-carry-on/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3627642-0-01099200-1734551239-Slack_Product-Specialist.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/slack-adds-agentforce-hub-for-ai-agents-computerworld/)
     
-    [Flying With a Baby: What to Pack in Your Carry-On](https://digitpatrox.com/flying-with-a-baby-what-to-pack-in-your-carry-on/)
+    [Slack adds Agentforce ‘hub’ for AI agents – Computerworld](https://digitpatrox.com/slack-adds-agentforce-hub-for-ai-agents-computerworld/)
     
-    47 minutes ago
+    1 hour ago
+    
+* [![](https://lifehacker.com/imagery/articles/01JFDSVB1A6FXQFD172YZP42AT/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/tiktok-influencers-are-wrong-about-hackers-stealing-credit-card-information-over-airdrop/)
+    
+    [TikTok Influencers Are Wrong About Hackers Stealing Credit Card Information Over AirDrop](https://digitpatrox.com/tiktok-influencers-are-wrong-about-hackers-stealing-credit-card-information-over-airdrop/)
+    
+    2 hours ago
+    
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/12/How-to-watch-Squid-Game-Season-2-online-from-anywhere.jpg)](https://digitpatrox.com/how-to-watch-squid-game-season-2-online-from-anywhere/)
+    
+    [How to watch Squid Game Season 2 online from anywhere](https://digitpatrox.com/how-to-watch-squid-game-season-2-online-from-anywhere/)
+    
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [9 minutes ago
+* [15 minutes ago
     
-    ### That new Copilot key on your keyboard? It’s useless for business – Computerworld](https://digitpatrox.com/that-new-copilot-key-on-your-keyboard-its-useless-for-business-computerworld/)
-* [37 minutes ago
+    ### How to watch Gavin and Stacy Christmas Special 2024 online](https://digitpatrox.com/how-to-watch-gavin-and-stacy-christmas-special-2024-online/)
+* [44 minutes ago
     
-    ### Is the Treadmill or Your Watch More Accurate on How Far You’ve Run?](https://digitpatrox.com/is-the-treadmill-or-your-watch-more-accurate-on-how-far-youve-run/)
-* [43 minutes ago
+    ### Machine identity attacks will be top of mind for security leaders in 2025](https://digitpatrox.com/machine-identity-attacks-will-be-top-of-mind-for-security-leaders-in-2025/)
+* [1 hour ago
     
-    ### Ransomware gang says it’s responsible for data breach at Pennsylvania food producer](https://digitpatrox.com/ransomware-gang-says-its-responsible-for-data-breach-at-pennsylvania-food-producer/)
+    ### Slack adds Agentforce ‘hub’ for AI agents – Computerworld](https://digitpatrox.com/slack-adds-agentforce-hub-for-ai-agents-computerworld/)
 
 Most Popular Topics
 
-* [October 6, 2024
+* [November 10, 2024
     
-    ### Jeff Bezos’ Blue Origin plans to launch a new crew capsule on Monday](https://digitpatrox.com/jeff-bezos-blue-origin-plans-to-launch-a-new-crew-capsule-on-monday/)
-* [October 16, 2024
+    ### There’s a lot more Red Hulk in the new Captain America: Brave New World trailer](https://digitpatrox.com/theres-a-lot-more-red-hulk-in-the-new-captain-america-brave-new-world-trailer/)
+* [4 weeks ago
     
-    ### Test – Best VPNs for Linux](https://digitpatrox.com/test-best-vpns-for-linux/)
-* [August 24, 2024
+    ### Windows 11 24H2 update blocked on PCs with Assassin’s Creed, Star Wars Outlaws](https://digitpatrox.com/windows-11-24h2-update-blocked-on-pcs-with-assassins-creed-star-wars-outlaws/)
+* [November 8, 2024
     
-    ### US oil giant Halliburton confirms cyberattack behind systems shutdown](https://digitpatrox.com/us-oil-giant-halliburton-confirms-cyberattack-behind-systems-shutdown/)
+    ### Hallmark Christmas movies 2024 — when and where to stream all 47 movies](https://digitpatrox.com/hallmark-christmas-movies-2024-when-and-where-to-stream-all-47-movies/)
 
 Last Modified Topics
 
-* [1 hour ago
-    
-    ### LastPass breach comes back to haunt users as hackers steal $12 million in cryptocurrency](https://digitpatrox.com/lastpass-breach-comes-back-to-haunt-users-as-hackers-steal-12-million-in-cryptocurrency/)
 * [2 hours ago
     
-    ### Australia Unveils National AI Plan to Boost Investment and Capabilities](https://digitpatrox.com/australia-unveils-national-ai-plan-to-boost-investment-and-capabilities/)
+    ### The TimeCapsule Makes AirTags Last Up to 10 Years](https://digitpatrox.com/the-timecapsule-makes-airtags-last-up-to-10-years/)
 * [2 hours ago
     
-    ### Cynthia Erivo got just three hours sleep a night filming ‘Wicked’ — here’s how to manage your sleep during a busy period](https://digitpatrox.com/cynthia-erivo-got-just-three-hours-sleep-a-night-filming-wicked-heres-how-to-manage-your-sleep-during-a-busy-period/)
+    ### Arcserve UDP 10 review | ITPro](https://digitpatrox.com/arcserve-udp-10-review-itpro/)
+* [2 hours ago
+    
+    ### NVIDIA Releases New Mini Developer Kit for Generative AI](https://digitpatrox.com/nvidia-releases-new-mini-developer-kit-for-generative-ai/)
 
 Most Viewed Topics
 
+* [August 13, 2024
+    
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [August 13, 2024
     
     ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [August 12, 2024
     
     ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
-* [August 11, 2024
-    
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
