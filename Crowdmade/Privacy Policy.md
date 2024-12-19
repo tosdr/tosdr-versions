@@ -2,7 +2,8 @@
 
 Close menu
 
-* [Make A Store](https://dashboard.crowdmade.com/?utm_source=crowdmade&utm_medium=header&utm_campaign=make-a-store)
+* [Make A Store](https://dashboard.crowdmade.com/)
+* [Merch Customizer](https://crowdmade.com/pages/new-customize)
 * [Log in](https://crowdmade.com/account)
     
 
@@ -22,7 +23,8 @@ Your cart is currently empty.
 
 [Crowdmade](https://crowdmade.com/)
 
-* [Make A Store](https://dashboard.crowdmade.com/?utm_source=crowdmade&utm_medium=header&utm_campaign=make-a-store)
+* [Make A Store](https://dashboard.crowdmade.com/)
+* [Merch Customizer](https://crowdmade.com/pages/new-customize)
 
 [Log in](javascript:void(0)) [Search](https://crowdmade.com/search) Site navigation [Cart](https://crowdmade.com/cart)
 
@@ -107,11 +109,11 @@ Crowdmade is for everyone. Build a store today and support your passion!
 
 [Sign Up Free](https://dashboard.crowdmade.com/)
 
-Design your own merch
+Design Your Own Custom Merch
 
 Now you can design and buy your own merch!
 
-[Start Designing](https://crowdmade.com/pages/customize)
+[Start Designing](https://crowdmade.com/pages/new-customize)
 
 Crowdmade
 
