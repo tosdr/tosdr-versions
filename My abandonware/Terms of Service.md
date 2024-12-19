@@ -118,9 +118,9 @@ Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/mya
 
 Screenshots needed
 
-* [Demon's Revenge](https://www.myabandonware.com/game/demon-s-revenge-hny)
-* [Rollergames](https://www.myabandonware.com/game/rollergames-rnx)
-* [SpongeBob SquarePants Saves the Day](https://www.myabandonware.com/game/spongebob-squarepants-saves-the-day-msv)
+* [4 Most Super Sports](https://www.myabandonware.com/game/4-most-super-sports-knl)
+* [Pet Pals: Adopt a Playful New Learning Pal!](https://www.myabandonware.com/game/pet-pals-adopt-a-playful-new-learning-pal-mt4)
+* [Indy 500](https://www.myabandonware.com/game/indy-500-spi)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
