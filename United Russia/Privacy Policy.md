@@ -289,6 +289,22 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Владимир Путин о ситуации в зоне СВО: Движение идёт по всей линии фронта каждый день](https://cdn.er.ru/media/news/December2024/GYf2iyJacRtiikw5O7c2-small.jpg)](https://er.ru/activity/news/vladimir-putin-o-situacii-v-zone-svo-dvizhenie-idyot-po-vsej-linii-fronta-kazhdyj-den)
+
+[Владимир Путин о ситуации в зоне СВО: Движение идёт по всей линии фронта каждый день](https://er.ru/activity/news/vladimir-putin-o-situacii-v-zone-svo-dvizhenie-idyot-po-vsej-linii-fronta-kazhdyj-den)
+
+[#Путин](https://er.ru/activity/news?tags%5B0%5D=60) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#Вооруженныесилы](https://er.ru/activity/news?tags%5B0%5D=124826) [#прямаялиния](https://er.ru/activity/news?tags%5B0%5D=92589)
+
+Сегодня 12:40
+
+[![Владимир Путин: Укрепление суверенитета России — это результат роста экономики](https://cdn.er.ru/media/news/December2024/gYeM6kY93tw6IVy4KcT1-small.jpg)](https://er.ru/activity/news/vladimir-putin-ukreplenie-suvereniteta-rossii-eto-rezultat-rosta-ekonomiki)
+
+[Владимир Путин: Укрепление суверенитета России — это результат роста экономики](https://er.ru/activity/news/vladimir-putin-ukreplenie-suvereniteta-rossii-eto-rezultat-rosta-ekonomiki)
+
+[#Путин](https://er.ru/activity/news?tags%5B0%5D=60) [#прямаялиния](https://er.ru/activity/news?tags%5B0%5D=92589) [#прессконференция](https://er.ru/activity/news?tags%5B0%5D=126476) [#экономика](https://er.ru/activity/news?tags%5B0%5D=116231)
+
+Сегодня 12:22
+
 [![Бюджет, поддержка участников СВО, социальные гарантии: «Единая Россия» подвела итоги работы в осеннюю сессию](https://cdn.er.ru/media/news/December2024/cMXZYvCJYyRA9Uco2sAC-small.jpg)](https://er.ru/activity/news/byudzhet-podderzhka-uchastnikov-svo-socialnye-garantii-edinaya-rossiya-podvela-itogi-raboty-v-osennyuyu-sessiyu)
 
 [Бюджет, поддержка участников СВО, социальные гарантии: «Единая Россия» подвела итоги работы в осеннюю сессию](https://er.ru/activity/news/byudzhet-podderzhka-uchastnikov-svo-socialnye-garantii-edinaya-rossiya-podvela-itogi-raboty-v-osennyuyu-sessiyu)
@@ -318,22 +334,6 @@
 [«Единая Россия» и МГЕР помогают в ликвидации последствий разлива нефтепродуктов в Анапе и Темрюкском районе Краснодарского края](https://er.ru/activity/news/edinaya-rossiya-i-mger-pomogayut-v-likvidacii-posledstvij-razliva-nefteproduktov-v-anape-i-temryukskom-rajone-krasnodarskogo-kraya)
 
 [#Краснодарский край](https://er.ru/activity/news?tags%5B0%5D=1282) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#МолодаяГвардияЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094676) [#первичныеотделения](https://er.ru/activity/news?tags%5B0%5D=113123) [#поддержка](https://er.ru/activity/news?tags%5B0%5D=519)
-
-18.12.24
-
-[![«Единая Россия» проведёт лекции о финансовом планировании в Луганске, Мелитополе и Донецке](https://cdn.er.ru/media/news/December2024/2bPxXenL7XZbQRHDDeIO-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-provedyot-lekcii-o-finansovom-planirovanii-v-luganske-melitopole-i-donecke)
-
-[«Единая Россия» проведёт лекции о финансовом планировании в Луганске, Мелитополе и Донецке](https://er.ru/activity/news/edinaya-rossiya-provedyot-lekcii-o-finansovom-planirovanii-v-luganske-melitopole-i-donecke)
-
-[#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#приемныепартии](https://er.ru/activity/news?tags%5B0%5D=125195) [#штабобщественнойподдержки](https://er.ru/activity/news?tags%5B0%5D=1092101) [#финансоваяграмотность](https://er.ru/activity/news?tags%5B0%5D=113290) [#лекции](https://er.ru/activity/news?tags%5B0%5D=18064)
-
-18.12.24
-
-[![Александр Жуков: Все поправки «Единой России» были приняты при доработке бюджета, что позволит добиться поставленных Президентом целей](https://cdn.er.ru/media/news/December2024/HY6sdtfAxa4FvfL5JRAJ-small.jpg)](https://er.ru/activity/news/aleksandr-zhukov-vse-popravki-edinoj-rossii-byli-prinyaty-pri-dorabotke-byudzheta-chto-pozvolit-dobitsya-postavlennyh-prezidentom-celej)
-
-[Александр Жуков: Все поправки «Единой России» были приняты при доработке бюджета, что позволит добиться поставленных Президентом целей](https://er.ru/activity/news/aleksandr-zhukov-vse-popravki-edinoj-rossii-byli-prinyaty-pri-dorabotke-byudzheta-chto-pozvolit-dobitsya-postavlennyh-prezidentom-celej)
-
-[#Жуков](https://er.ru/activity/news?tags%5B0%5D=824) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#осенняясессия](https://er.ru/activity/news?tags%5B0%5D=121119) [#итоги](https://er.ru/activity/news?tags%5B0%5D=1184) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#ФракцияЕР](https://er.ru/activity/news?tags%5B0%5D=1090016) [#итогиработы](https://er.ru/activity/news?tags%5B0%5D=111531) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327)
 
 18.12.24
 
