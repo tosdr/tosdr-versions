@@ -464,6 +464,10 @@ Revised June 1, 2022
 
 * Editors' Picks
 
+[Honda and Nissan might combine to form world’s No. 3 auto group](https://www.japantimes.co.jp/business/2024/12/18/companies/honda-nissan-merger/ "Honda and Nissan might combine to form world’s No. 3 auto group")
+
+  [![Nissan President and CEO Makoto Uchida (left) and Honda President and CEO Toshihiro Mibe hold a news conference in Tokyo in March. Both automakers have been working together for months on a deal of some sort.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/18/441088.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Nissan President and CEO Makoto Uchida (left) and Honda President and CEO Toshihiro Mibe hold a news conference in Tokyo in March. Both automakers have been working together for months on a deal of some sort.")](https://www.japantimes.co.jp/business/2024/12/18/companies/honda-nissan-merger/ "Honda and Nissan might combine to form world’s No. 3 auto group")
+
 [Japan to let investigators go undercover to crack down on _yami baito_](https://www.japantimes.co.jp/news/2024/12/17/japan/crime-legal/yamibaito-first-ministerial-meeting/ "Japan to let investigators go undercover to crack down on yami baito")
 
   [![A flyer created by the Metropolitan Police Department to warn people about <i>yami baito</i>, or "dark" part-time jobs](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/17/440673.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A flyer created by the Metropolitan Police Department to warn people about <i>yami baito</i>, or "dark" part-time jobs")](https://www.japantimes.co.jp/news/2024/12/17/japan/crime-legal/yamibaito-first-ministerial-meeting/ "Japan to let investigators go undercover to crack down on yami baito")
@@ -479,10 +483,6 @@ Revised June 1, 2022
 [Taiwan’s bullet train a testament to shinkansen’s export potential](https://www.japantimes.co.jp/business/2024/12/17/taiwan-hsr-shinkansen/ "Taiwan’s bullet train a testament to shinkansen’s export potential")
 
   [![A Taiwan High Speed Rail bullet train arrives at Nangang Station in the city of Taipei.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/16/440420.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Taiwan High Speed Rail bullet train arrives at Nangang Station in the city of Taipei.")](https://www.japantimes.co.jp/business/2024/12/17/taiwan-hsr-shinkansen/ "Taiwan’s bullet train a testament to shinkansen’s export potential")
-
-[Indian-born CEO of Japanese company says nation needs immigration to thrive](https://www.japantimes.co.jp/business/2024/12/15/companies/india-born-kameda-ceo/ "Indian-born CEO of Japanese company says nation needs immigration to thrive")
-
-  [![Lekh Juneja, chairman and CEO of Kameda Seika, at the company's headquarters in the city of Niigata in August](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/15/440239.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Lekh Juneja, chairman and CEO of Kameda Seika, at the company's headquarters in the city of Niigata in August")](https://www.japantimes.co.jp/business/2024/12/15/companies/india-born-kameda-ceo/ "Indian-born CEO of Japanese company says nation needs immigration to thrive")
 
 [Curiosity didn’t kill the meme: Why cats still rule Japanese YouTube](https://www.japantimes.co.jp/life/2024/12/17/digital/youtube-cat-memes-japan/ "Curiosity didn’t kill the meme: Why cats still rule Japanese YouTube")
 
@@ -565,15 +565,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Iran's Revolutionary Guards extend control of oil exports, sources say](https://www.japantimes.co.jp/news/2024/12/18/world/politics/iran-revolutionary-guards-oil/ "Iran's Revolutionary Guards extend control of oil exports, sources say")
+[As bitcoin soars, luxury brands consider accepting crypto payments](https://www.japantimes.co.jp/business/2024/12/19/tech/bitcoin-luxury-brands-crypto/ "As bitcoin soars, luxury brands consider accepting crypto payments")
 
-[Russia detains suspect in killing of chemical weapons chief Igor Kirillov](https://www.japantimes.co.jp/news/2024/12/18/world/crime-legal/russia-detains-suspect/ "Russia detains suspect in killing of chemical weapons chief Igor Kirillov")
+25 mins ago
 
-[Honda and Nissan might combine to form world’s No. 3 auto group](https://www.japantimes.co.jp/business/2024/12/18/companies/honda-nissan-merger/ "Honda and Nissan might combine to form world’s No. 3 auto group")
+[Europe's conundrum: How to fund defense spending](https://www.japantimes.co.jp/news/2024/12/19/world/politics/europe-conundrum-defense-spending/ "Europe's conundrum: How to fund defense spending")
 
-[Nihon Hidankyo members make Nobel visit to Hiroshima cenotaph](https://www.japantimes.co.jp/news/2024/12/18/japan/nihon-hidankyo-hiroshima-visit/ "Nihon Hidankyo members make Nobel visit to Hiroshima cenotaph")
+57 mins ago
 
-[Government not liable for nuclear evacuations, Osaka High Court rules](https://www.japantimes.co.jp/news/2024/12/18/japan/crime-legal/fukushima-nuclear-plant-evacuees/ "Government not liable for nuclear evacuations, Osaka High Court rules")
+[Bank of Japan keeps rates unchanged at 0.25% after two increases in 2024](https://www.japantimes.co.jp/business/2024/12/19/economy/boj-december-rates/ "Bank of Japan keeps rates unchanged at 0.25% after two increases in 2024")
+
+1 hour ago
+
+[Can China shield the biggest uninsured economy from floods?](https://www.japantimes.co.jp/news/2024/12/19/asia-pacific/politics/china-uninsured-economy-floods/ "Can China shield the biggest uninsured economy from floods?")
+
+1 hour ago
+
+[At Japan's brokerages, skills shortage improves conditions for older staff](https://www.japantimes.co.jp/business/2024/12/19/companies/japan-brokerages-pay-retirement-age-staff/ "At Japan's brokerages, skills shortage improves conditions for older staff")
+
+1 hour ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
